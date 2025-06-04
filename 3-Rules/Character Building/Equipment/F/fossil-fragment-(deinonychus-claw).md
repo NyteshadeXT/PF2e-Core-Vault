@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fossil-fragment-(deinonychus-claw)"
 aliases: "Fossil Fragment (Deinonychus Claw)"
 source: "Pathfinder Rage of Elements"

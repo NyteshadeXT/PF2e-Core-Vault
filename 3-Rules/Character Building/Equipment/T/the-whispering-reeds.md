@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "the-whispering-reeds"
 aliases: "The Whispering Reeds"
 source: "Pathfinder #163: Ruins of Gauntlight"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "heart-bloodstone-of-arazni"
 aliases: "Heart Bloodstone of Arazni"
 source: "Pathfinder Claws of the Tyrant"

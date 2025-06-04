@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mythic-armor-potency"
 aliases: "Mythic Armor Potency"
 source: "Pathfinder War of Immortals"

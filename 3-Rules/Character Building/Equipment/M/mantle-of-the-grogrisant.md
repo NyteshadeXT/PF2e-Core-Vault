@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mantle-of-the-grogrisant"
 aliases: "Mantle of the Grogrisant"
 source: "Pathfinder Lost Omens Monsters of Myth"

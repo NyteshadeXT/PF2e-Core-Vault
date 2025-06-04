@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "anglerfish-lantern-(submersible)"
 aliases: "Anglerfish Lantern (Submersible)"
 source: "Pathfinder Rage of Elements"

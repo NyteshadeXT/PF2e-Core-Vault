@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "high-contrast-goggles"
 aliases: "High-contrast Goggles"
 source: "Pathfinder Howl of the Wild"

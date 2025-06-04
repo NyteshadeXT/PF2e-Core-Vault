@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shadows-heart"
 aliases: "Shadow's Heart"
 source: "Pathfinder #185: A Taste of Ashes"

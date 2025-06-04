@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-electricity-retaliation-(lesser)"
 aliases: "Potion of Electricity Retaliation (Lesser)"
 source: "Pathfinder Player Core 2"

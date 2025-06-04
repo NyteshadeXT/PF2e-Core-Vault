@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crimson-worm-repellent"
 aliases: "Crimson Worm Repellent"
 source: "Pathfinder #155: Lord of the Black Sands"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "succubus-kiss"
 aliases: "Succubus Kiss"
 source: "Pathfinder Lost Omens Absalom, City of Lost Omens"

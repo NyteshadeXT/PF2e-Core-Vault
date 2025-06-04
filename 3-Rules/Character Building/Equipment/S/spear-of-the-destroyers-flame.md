@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spear-of-the-destroyers-flame"
 aliases: "Spear of the Destroyer's Flame"
 source: "Pathfinder Lost Omens Monsters of Myth"

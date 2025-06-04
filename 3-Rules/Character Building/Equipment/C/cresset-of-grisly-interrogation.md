@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cresset-of-grisly-interrogation"
 aliases: "Cresset of Grisly Interrogation"
 source: "Pathfinder Adventure: Crown of the Kobold King"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sun-orchid-elixir"
 aliases: "Sun Orchid Elixir"
 source: "Pathfinder Lost Omens World Guide"

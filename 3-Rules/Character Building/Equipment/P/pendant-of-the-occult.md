@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pendant-of-the-occult"
 aliases: "Pendant of the Occult"
 source: "Pathfinder GM Core"

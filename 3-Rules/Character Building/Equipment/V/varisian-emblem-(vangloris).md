@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "varisian-emblem-(vangloris)"
 aliases: "Varisian Emblem (Vangloris)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eye-of-the-wise"
 aliases: "Eye of the Wise"
 source: "Pathfinder #147: Tomorrow Must Burn"

@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 characters:
   - "[[5-World/NPCs/Diamond Lake/Allustan]]"
   - "[[Tidwoad]]"

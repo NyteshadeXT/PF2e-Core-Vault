@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragonscale-amulet"
 aliases: "Dragonscale Amulet"
 source: "Pathfinder #148: Fires of the Haunted City"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-flying-(standard)"
 aliases: "Potion of Flying (Standard)"
 source: "Pathfinder GM Core"

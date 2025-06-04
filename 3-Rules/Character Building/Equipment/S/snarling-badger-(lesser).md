@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "snarling-badger-(lesser)"
 aliases: "Snarling Badger (Lesser)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "life-boosting-oil-(lesser)"
 aliases: "Life-Boosting Oil (Lesser)"
 source: "Pathfinder Treasure Vault"

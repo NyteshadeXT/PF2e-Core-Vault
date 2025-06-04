@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-black-pearl"
 aliases: "Aeon Stone (Black Pearl)"
 source: "Pathfinder GM Core"

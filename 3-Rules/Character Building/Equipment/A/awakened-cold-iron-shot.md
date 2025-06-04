@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "awakened-cold-iron-shot"
 aliases: "Awakened Cold Iron Shot"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mistranslators-draft"
 aliases: "Mistranslator's Draft"
 source: "Pathfinder Dark Archive"

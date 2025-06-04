@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sack-of-rotten-fruit"
 aliases: "Sack of Rotten Fruit"
 source: "Pathfinder Adventure: A Fistful of Flowers"

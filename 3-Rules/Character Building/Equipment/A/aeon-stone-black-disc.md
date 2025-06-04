@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-black-disc"
 aliases: "Aeon Stone (Black Disc)"
 source: "Pathfinder #185: A Taste of Ashes"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "reforging-shield"
 aliases: "Reforging Shield"
 source: "Pathfinder #148: Fires of the Haunted City"

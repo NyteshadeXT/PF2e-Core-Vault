@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vermin-repellent-agent-(major)"
 aliases: "Vermin Repellent Agent (Major)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

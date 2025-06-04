@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shadow-(greater)"
 aliases: "Shadow (Greater)"
 source: "Pathfinder GM Core"

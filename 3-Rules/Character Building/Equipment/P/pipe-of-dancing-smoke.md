@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pipe-of-dancing-smoke"
 aliases: "Pipe of Dancing Smoke"
 source: "Pathfinder Lost Omens Firebrands"

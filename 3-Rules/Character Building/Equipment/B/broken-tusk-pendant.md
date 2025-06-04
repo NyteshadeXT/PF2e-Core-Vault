@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "broken-tusk-pendant"
 aliases: "Broken Tusk Pendant"
 source: "Pathfinder #175: Broken Tusk Moon"

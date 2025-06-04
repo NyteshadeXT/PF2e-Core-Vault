@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "necrobinding-serum"
 aliases: "Necrobinding Serum"
 source: "Pathfinder Adventure: Crown of the Kobold King"

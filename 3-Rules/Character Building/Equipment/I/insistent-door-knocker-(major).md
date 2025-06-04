@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "insistent-door-knocker-(major)"
 aliases: "Insistent Door Knocker (Major)"
 source: "Pathfinder Lost Omens Character Guide"

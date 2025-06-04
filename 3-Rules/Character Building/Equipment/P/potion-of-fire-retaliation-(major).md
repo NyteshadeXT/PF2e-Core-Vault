@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-fire-retaliation-(major)"
 aliases: "Potion of Fire Retaliation (Major)"
 source: "Pathfinder Player Core 2"

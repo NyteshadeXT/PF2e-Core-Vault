@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pummel-growth-toxin"
 aliases: "Pummel-Growth Toxin"
 source: "Pathfinder Treasure Vault"

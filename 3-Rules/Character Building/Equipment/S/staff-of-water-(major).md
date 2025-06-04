@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-water-(major)"
 aliases: "Staff of Water (Major)"
 source: "Pathfinder Treasure Vault"

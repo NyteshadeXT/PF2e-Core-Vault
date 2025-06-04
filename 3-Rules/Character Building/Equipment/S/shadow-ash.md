@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shadow-ash"
 aliases: "Shadow Ash"
 source: "Pathfinder #184: The Ghouls Hunger"

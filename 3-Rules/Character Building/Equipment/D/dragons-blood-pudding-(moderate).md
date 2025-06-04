@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragons-blood-pudding-(moderate)"
 aliases: "Dragon's Blood Pudding (Moderate)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

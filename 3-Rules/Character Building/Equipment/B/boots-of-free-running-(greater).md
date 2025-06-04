@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "boots-of-free-running-(greater)"
 aliases: "Boots of Free Running (Greater)"
 source: "Pathfinder Lost Omens Firebrands"

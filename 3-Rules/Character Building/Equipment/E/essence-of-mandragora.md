@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "essence-of-mandragora"
 aliases: "Essence of Mandragora"
 source: "Pathfinder Howl of the Wild"

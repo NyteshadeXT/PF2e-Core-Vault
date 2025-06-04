@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "armory-bracelet-(moderate)"
 aliases: "Armory Bracelet (Moderate)"
 source: "Pathfinder Treasure Vault"

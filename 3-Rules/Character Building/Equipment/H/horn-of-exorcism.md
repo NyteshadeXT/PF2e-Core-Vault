@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "horn-of-exorcism"
 aliases: "Horn of Exorcism"
 source: "Pathfinder GM Core"

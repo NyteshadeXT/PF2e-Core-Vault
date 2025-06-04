@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "golem-stylus"
 aliases: "Golem Stylus"
 source: "Pathfinder #153: Life's Long Shadows"

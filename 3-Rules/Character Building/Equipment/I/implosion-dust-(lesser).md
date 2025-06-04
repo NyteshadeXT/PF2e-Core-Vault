@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "implosion-dust-(lesser)"
 aliases: "Implosion Dust (Lesser)"
 source: "Pathfinder Treasure Vault"

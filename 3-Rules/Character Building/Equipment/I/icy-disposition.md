@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "icy-disposition"
 aliases: "Icy Disposition"
 source: "Pathfinder #164: Hands of the Devil"

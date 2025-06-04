@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-mercy-(1st-level)"
 aliases: "Wand of Mercy (1st-level)"
 source: "Pathfinder Treasure Vault"

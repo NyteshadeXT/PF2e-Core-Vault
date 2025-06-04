@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cold-iron-blanch-(moderate)"
 aliases: "Cold Iron Blanch (Moderate)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

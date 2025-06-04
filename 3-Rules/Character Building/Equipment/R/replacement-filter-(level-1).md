@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "replacement-filter-(level-1)"
 aliases: "Replacement Filter (Level 1)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

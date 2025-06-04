@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "brass-dragons-breath-potion-(adult)"
 aliases: "Brass Dragon's Breath Potion (Adult)"
 source: "Pathfinder Core Rulebook"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "divine-scroll-case-of-simplicity"
 aliases: "Divine Scroll Case of Simplicity"
 source: "Pathfinder Lost Omens Character Guide"

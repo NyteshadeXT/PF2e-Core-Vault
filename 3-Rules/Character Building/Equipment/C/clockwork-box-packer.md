@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clockwork-box-packer"
 aliases: "Clockwork Box Packer"
 source: "Pathfinder Guns & Gears"

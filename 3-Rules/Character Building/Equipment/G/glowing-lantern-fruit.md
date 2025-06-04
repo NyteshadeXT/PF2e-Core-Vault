@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "glowing-lantern-fruit"
 aliases: "Glowing Lantern Fruit"
 source: "Pathfinder Rage of Elements"

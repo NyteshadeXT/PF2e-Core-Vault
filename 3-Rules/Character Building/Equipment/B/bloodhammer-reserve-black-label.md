@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bloodhammer-reserve-black-label"
 aliases: "Bloodhammer Reserve Black Label"
 source: "Pathfinder Lost Omens Highhelm"

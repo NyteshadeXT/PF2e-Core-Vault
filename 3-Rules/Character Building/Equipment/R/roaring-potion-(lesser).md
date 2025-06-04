@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "roaring-potion-(lesser)"
 aliases: "Roaring Potion (Lesser)"
 source: "Pathfinder Treasure Vault"

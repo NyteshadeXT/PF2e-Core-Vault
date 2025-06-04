@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "primal-pollen"
 aliases: "Primal Pollen"
 source: "Pathfinder #201: Pactbreaker"

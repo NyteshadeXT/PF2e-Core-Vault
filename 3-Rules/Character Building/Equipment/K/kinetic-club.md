@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "kinetic-club"
 aliases: "Kinetic Club"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

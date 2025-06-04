@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tengu-feather-fan"
 aliases: "Tengu Feather Fan"
 source: "Pathfinder Lost Omens Ancestry Guide"

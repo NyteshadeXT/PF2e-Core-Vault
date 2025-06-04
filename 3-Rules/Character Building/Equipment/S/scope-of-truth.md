@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scope-of-truth"
 aliases: "Scope of Truth"
 source: "Pathfinder Guns & Gears"

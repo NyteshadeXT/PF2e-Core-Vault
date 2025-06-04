@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mycoweave-shield-(greater)"
 aliases: "Mycoweave Shield (Greater)"
 source: "Pathfinder #193: Mantle of Gold"

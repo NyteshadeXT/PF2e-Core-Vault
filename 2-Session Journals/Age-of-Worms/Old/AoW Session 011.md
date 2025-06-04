@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - Between a Rock and a Hard Place
 whichparty: "[[Age of Worms Party Dashboard]]"

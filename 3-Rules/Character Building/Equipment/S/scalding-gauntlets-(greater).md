@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scalding-gauntlets-(greater)"
 aliases: "Scalding Gauntlets (Greater)"
 source: "Pathfinder Rage of Elements"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cleft-head-marking-(lesser)"
 aliases: "Cleft Head Marking (Lesser)"
 source: "Pathfinder #207: The Resurrection Flood"

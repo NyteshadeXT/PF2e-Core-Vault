@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vaultbreakers-harness"
 aliases: "Vaultbreaker's Harness"
 source: "Pathfinder Treasure Vault"

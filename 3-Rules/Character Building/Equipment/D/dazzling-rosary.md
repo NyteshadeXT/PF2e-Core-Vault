@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dazzling-rosary"
 aliases: "Dazzling Rosary"
 source: "Pathfinder Secrets of Magic"

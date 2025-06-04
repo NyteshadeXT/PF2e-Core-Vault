@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "archaic-wayfinder"
 aliases: "Archaic Wayfinder"
 source: "Pathfinder Lost Omens World Guide"

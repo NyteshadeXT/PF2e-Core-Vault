@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spare-wax-cylinder"
 aliases: "Spare Wax Cylinder"
 source: "Pathfinder Lost Omens Legends"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rhino-hide-brooch"
 aliases: "Rhino Hide Brooch"
 source: "Pathfinder #170: Spoken on the Song Wind"

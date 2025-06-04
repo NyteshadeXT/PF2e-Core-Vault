@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "starless-scope-lens"
 aliases: "Starless Scope Lens"
 source: "Pathfinder Adventure: Malevolence"

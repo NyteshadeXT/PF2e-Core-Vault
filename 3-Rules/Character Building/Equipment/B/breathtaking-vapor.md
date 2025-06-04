@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "breathtaking-vapor"
 aliases: "Breathtaking Vapor"
 source: "Pathfinder Treasure Vault"

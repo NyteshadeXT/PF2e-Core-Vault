@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rope-of-climbing-(moderate)"
 aliases: "Rope of Climbing (Moderate)"
 source: "Pathfinder Advanced Player's Guide"

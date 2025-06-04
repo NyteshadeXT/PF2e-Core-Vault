@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "evil-reflecting-shield"
 aliases: "Evil-Reflecting Shield"
 source: "Pathfinder #199: To Bloom Below the Web"

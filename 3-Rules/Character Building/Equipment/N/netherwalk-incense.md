@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "netherwalk-incense"
 aliases: "Netherwalk Incense"
 source: "Pathfinder #204: Stage Fright"

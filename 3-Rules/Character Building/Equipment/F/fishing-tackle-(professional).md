@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fishing-tackle-(professional)"
 aliases: "Fishing Tackle (Professional)"
 source: "Pathfinder Player Core"

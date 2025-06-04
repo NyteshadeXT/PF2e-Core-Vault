@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spellstrike-ammunition-(type-ix)"
 aliases: "Spellstrike Ammunition (Type IX)"
 source: "Pathfinder GM Core"

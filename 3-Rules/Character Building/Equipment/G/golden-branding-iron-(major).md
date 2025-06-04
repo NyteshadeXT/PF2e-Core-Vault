@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "golden-branding-iron-(major)"
 aliases: "Golden Branding Iron (Major)"
 source: "Pathfinder #179: Cradle of Quartz"

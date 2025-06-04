@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "barricade-stone-(cylinder)"
 aliases: "Barricade Stone (Cylinder)"
 source: "Pathfinder #171: Hurricane's Howl"

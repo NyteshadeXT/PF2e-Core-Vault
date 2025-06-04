@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hat-of-many-minds"
 aliases: "Hat of Many Minds"
 source: "Pathfinder Secrets of Magic"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spirit-singer-(incredible)"
 aliases: "Spirit-Singer (Incredible)"
 source: "Pathfinder Guns & Gears"

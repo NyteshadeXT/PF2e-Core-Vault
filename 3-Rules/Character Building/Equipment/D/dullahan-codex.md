@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dullahan-codex"
 aliases: "Dullahan Codex"
 source: "Pathfinder Treasure Vault"

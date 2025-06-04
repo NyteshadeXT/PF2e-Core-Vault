@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-(repairing)"
 aliases: "Aeon Stone (Repairing)"
 source: "Pathfinder #213: Thirst for Blood"

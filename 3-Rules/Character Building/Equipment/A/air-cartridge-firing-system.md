@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "air-cartridge-firing-system"
 aliases: "Air Cartridge Firing System"
 source: "Pathfinder Guns & Gears"

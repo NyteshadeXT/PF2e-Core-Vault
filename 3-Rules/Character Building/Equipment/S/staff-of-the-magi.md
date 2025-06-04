@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-the-magi"
 aliases: "Staff of the Magi"
 source: "Pathfinder Core Rulebook"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "phylactery-of-faithfulness-(greater)"
 aliases: "Phylactery of Faithfulness (Greater)"
 source: "Pathfinder Core Rulebook"

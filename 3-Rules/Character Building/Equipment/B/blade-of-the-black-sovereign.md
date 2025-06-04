@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blade-of-the-black-sovereign"
 aliases: "Blade of the Black Sovereign"
 source: "Pathfinder Lost Omens Legends"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "accolade-robe-(greater)"
 aliases: "Accolade Robe (Greater)"
 source: "Pathfinder GM Core"

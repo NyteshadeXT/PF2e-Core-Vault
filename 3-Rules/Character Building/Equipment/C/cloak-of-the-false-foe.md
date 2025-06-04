@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cloak-of-the-false-foe"
 aliases: "Cloak of the False Foe"
 source: "Pathfinder Dark Archive"

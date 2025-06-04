@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-mental-purification-(2nd-level)"
 aliases: "Wand of Mental Purification (2nd-level)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "galvanic-mortal-coil"
 aliases: "Galvanic Mortal Coil"
 source: "Pathfinder Guns & Gears"

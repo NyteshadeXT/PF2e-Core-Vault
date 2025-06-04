@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-final-rest-(major)"
 aliases: "Staff of Final Rest (Major)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hand-hewed-face"
 aliases: "Hand-Hewed Face"
 source: "Pathfinder Dark Archive"

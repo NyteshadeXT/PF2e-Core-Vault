@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rune-of-sin-(gluttony)"
 aliases: "Rune of Sin (Gluttony)"
 source: "Pathfinder Secrets of Magic"

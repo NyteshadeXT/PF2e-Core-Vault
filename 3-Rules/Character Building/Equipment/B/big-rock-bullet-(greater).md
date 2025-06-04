@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "big-rock-bullet-(greater)"
 aliases: "Big Rock Bullet (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

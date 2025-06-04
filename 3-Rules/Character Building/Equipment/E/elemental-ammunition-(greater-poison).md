@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elemental-ammunition-(greater-poison)"
 aliases: "Elemental Ammunition (Greater, Poison)"
 source: "Pathfinder Treasure Vault"

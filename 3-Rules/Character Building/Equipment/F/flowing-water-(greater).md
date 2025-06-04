@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "flowing-water-(greater)"
 aliases: "Flowing Water (Greater)"
 source: "Pathfinder #207: The Resurrection Flood"

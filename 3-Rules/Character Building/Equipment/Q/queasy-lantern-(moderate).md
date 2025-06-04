@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "queasy-lantern-(moderate)"
 aliases: "Queasy Lantern (Moderate)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

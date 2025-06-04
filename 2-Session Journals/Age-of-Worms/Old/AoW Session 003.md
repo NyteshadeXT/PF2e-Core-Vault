@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 sessiondate: 2025-01-24
 locations:
   - "[[The Whispering Cairn|The Whispering Cairn]]"

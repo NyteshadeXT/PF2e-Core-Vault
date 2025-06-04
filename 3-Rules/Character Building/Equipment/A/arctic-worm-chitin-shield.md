@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "arctic-worm-chitin-shield"
 aliases: "Arctic Worm Chitin Shield"
 source: "Pathfinder Howl of the Wild"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "violin-of-the-waves"
 aliases: "Violin of the Waves"
 source: "Pathfinder Treasure Vault"

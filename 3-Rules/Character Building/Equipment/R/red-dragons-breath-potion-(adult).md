@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "red-dragons-breath-potion-(adult)"
 aliases: "Red Dragon's Breath Potion (Adult)"
 source: "Pathfinder Core Rulebook"

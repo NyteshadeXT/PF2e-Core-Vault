@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "depth-charge-vii"
 aliases: "Depth Charge VII"
 source: "Pathfinder Treasure Vault"

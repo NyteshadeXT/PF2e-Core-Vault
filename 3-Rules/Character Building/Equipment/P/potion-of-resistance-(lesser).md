@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-resistance-(lesser)"
 aliases: "Potion of Resistance (Lesser)"
 source: "Pathfinder GM Core"

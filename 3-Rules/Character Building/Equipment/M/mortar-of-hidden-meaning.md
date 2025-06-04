@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mortar-of-hidden-meaning"
 aliases: "Mortar of Hidden Meaning"
 source: "Pathfinder Lost Omens Gods & Magic"

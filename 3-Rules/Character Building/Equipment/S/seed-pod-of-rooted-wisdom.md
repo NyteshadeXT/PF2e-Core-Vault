@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "seed-pod-of-rooted-wisdom"
 aliases: "Seed Pod of Rooted Wisdom"
 source: "Pathfinder Lost Omens Rival Academies"

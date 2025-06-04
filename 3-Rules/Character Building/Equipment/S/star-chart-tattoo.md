@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "star-chart-tattoo"
 aliases: "Star Chart Tattoo"
 source: "Pathfinder Lost Omens Monsters of Myth"

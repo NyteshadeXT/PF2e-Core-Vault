@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Verena.png
+art: zz-Attachments/Verena.png
 pronounced: Veer-ee-na
 alignment: True Neutral
 portfolio: Commerce, Wealth, Trade, Prosperity, Merchants, Greed, Ambition
@@ -163,6 +163,10 @@ These relationships shape Verena's actions and principles, reinforcing her belie
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Verena Holy Symbol.png]]
+> Holy Symbol of Verena
+
 Verena’s teachings emphasize the virtues of fair trade, entrepreneurial spirit, and responsible stewardship of wealth. Followers are encouraged to pursue opportunities for economic growth, uphold principles of honesty and integrity in business dealings, and contribute to the prosperity of their communities. Verena teaches that wealth, when used wisely, can improve quality of life, fund charitable endeavors, and stimulate innovation and cultural exchange. She stresses the importance of balancing personal gain with social responsibility.
 
 The Church of Verena can be found in bustling marketplaces, financial centers, and guild halls. Temples are designed as centers of economic activity, featuring marketplaces, banks, and halls for trade negotiations. The clergy, known as Stewards, are skilled negotiators, bankers, and economic advisors who dedicate their lives to promoting financial stability and prosperity.

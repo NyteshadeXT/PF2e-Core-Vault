@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "alchemical-atomizer"
 aliases: "Alchemical Atomizer"
 source: "Pathfinder Lost Omens Legends"

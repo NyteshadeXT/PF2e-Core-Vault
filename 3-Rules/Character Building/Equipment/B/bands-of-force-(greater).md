@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bands-of-force-(greater)"
 aliases: "Bands of Force (Greater)"
 source: "Pathfinder GM Core"

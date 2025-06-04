@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "numerian-steel-breastplate"
 aliases: "Numerian Steel Breastplate"
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"

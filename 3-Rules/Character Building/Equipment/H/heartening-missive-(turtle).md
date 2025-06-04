@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "heartening-missive-(turtle)"
 aliases: "Heartening Missive (Turtle)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-smoldering-fireballs-(7th-rank-spell)"
 aliases: "Wand of Smoldering Fireballs (7th-Rank Spell)"
 source: "Pathfinder Player Core 2"

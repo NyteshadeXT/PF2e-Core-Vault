@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bag-of-devouring-type-iii"
 aliases: "Bag of Devouring Type III"
 source: "Pathfinder Gamemastery Guide"

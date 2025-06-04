@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dog-bone-knife"
 aliases: "Dog-Bone Knife"
 source: "Pathfinder Dark Archive"

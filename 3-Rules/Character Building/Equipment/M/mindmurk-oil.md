@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mindmurk-oil"
 aliases: "Mindmurk Oil"
 source: "Pathfinder Society Scenario #1-23: The Star-Crossed Court"

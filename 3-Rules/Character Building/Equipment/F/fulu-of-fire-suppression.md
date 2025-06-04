@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fulu-of-fire-suppression"
 aliases: "Fulu of Fire Suppression"
 source: "Pathfinder Secrets of Magic"

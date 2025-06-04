@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fulu-of-the-stoic-ox"
 aliases: "Fulu of the Stoic Ox"
 source: "Pathfinder Secrets of Magic"

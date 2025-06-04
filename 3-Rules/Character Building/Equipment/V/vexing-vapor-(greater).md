@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vexing-vapor-(greater)"
 aliases: "Vexing Vapor (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

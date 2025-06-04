@@ -26,6 +26,9 @@ where contains(tags, "Player")
 where (Status = "Active")  
 ```
 
+# Todo List
+![[ToDo List]]
+
 # Recently Modified NPCs
 
 ```dataview  

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "serum-of-sex-shift"
 aliases: "Serum of Sex Shift"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "boots-of-bounding-(greater)"
 aliases: "Boots of Bounding (Greater)"
 source: "Pathfinder GM Core"

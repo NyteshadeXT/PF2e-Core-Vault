@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blackfinger-blight"
 aliases: "Blackfinger Blight"
 source: "Pathfinder #159: All or Nothing"

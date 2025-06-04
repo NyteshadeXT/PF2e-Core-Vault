@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "charlatans-gloves-(greater)"
 aliases: "Charlatan's Gloves (Greater)"
 source: "Pathfinder GM Core"

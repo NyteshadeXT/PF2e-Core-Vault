@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lyrakien-staff-(major)"
 aliases: "Lyrakien Staff (Major)"
 source: "Pathfinder Treasure Vault"

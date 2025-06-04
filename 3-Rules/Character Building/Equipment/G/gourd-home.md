@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gourd-home"
 aliases: "Gourd Home"
 source: "Pathfinder #147: Tomorrow Must Burn"

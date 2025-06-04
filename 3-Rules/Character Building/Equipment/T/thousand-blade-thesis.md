@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "thousand-blade-thesis"
 aliases: "Thousand-Blade Thesis"
 source: "Pathfinder Secrets of Magic"

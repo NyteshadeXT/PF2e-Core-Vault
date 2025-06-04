@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blood-bomb-(greater)"
 aliases: "Blood Bomb (Greater)"
 source: "Pathfinder #194: Cult of the Cave Worm"

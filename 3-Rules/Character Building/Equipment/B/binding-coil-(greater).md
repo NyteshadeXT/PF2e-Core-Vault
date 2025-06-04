@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "binding-coil-(greater)"
 aliases: "Binding Coil (Greater)"
 source: "Pathfinder Secrets of Magic"

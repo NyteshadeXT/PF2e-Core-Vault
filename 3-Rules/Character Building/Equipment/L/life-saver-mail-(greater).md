@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "life-saver-mail-(greater)"
 aliases: "Life-Saver Mail (Greater)"
 source: "Pathfinder GM Core"

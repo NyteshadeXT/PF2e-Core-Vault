@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scale-of-igroon"
 aliases: "Scale of Igroon"
 source: "Pathfinder Treasure Vault"

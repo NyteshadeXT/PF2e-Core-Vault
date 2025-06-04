@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "necklace-of-fireballs-vii"
 aliases: "Necklace of Fireballs VII"
 source: "Pathfinder Core Rulebook"

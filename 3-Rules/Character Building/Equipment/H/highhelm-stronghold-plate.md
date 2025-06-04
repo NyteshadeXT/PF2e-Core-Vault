@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "highhelm-stronghold-plate"
 aliases: "Highhelm Stronghold Plate"
 source: "Pathfinder Lost Omens Highhelm"

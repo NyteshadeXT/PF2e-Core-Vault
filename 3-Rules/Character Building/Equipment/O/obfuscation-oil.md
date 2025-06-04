@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "obfuscation-oil"
 aliases: "Obfuscation Oil"
 source: "Pathfinder GM Core"

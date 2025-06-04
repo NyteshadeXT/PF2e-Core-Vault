@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "furnace-of-endings-(greater)"
 aliases: "Furnace of Endings (Greater)"
 source: "Pathfinder Lost Omens Highhelm"

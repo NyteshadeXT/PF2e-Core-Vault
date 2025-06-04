@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oil-of-ownership-(greater)"
 aliases: "Oil of Ownership (Greater)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dust-pods"
 aliases: "Dust Pods"
 source: "Pathfinder #151: The Show Must Go On"

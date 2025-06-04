@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hidden-pocket-outfit"
 aliases: "Hidden Pocket Outfit"
 source: "Pathfinder Lost Omens Rival Academies"

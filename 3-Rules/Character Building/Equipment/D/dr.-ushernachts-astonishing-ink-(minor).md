@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dr.-ushernachts-astonishing-ink-(minor)"
 aliases: "Dr. Ushernacht's Astonishing Ink (Minor)"
 source: "Pathfinder Lost Omens Rival Academies"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "festrem-mortu"
 aliases: "Festrem Mortu"
 source: "Pathfinder #194: Cult of the Cave Worm"

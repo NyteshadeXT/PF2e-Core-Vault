@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "corrosive-(greater)"
 aliases: "Corrosive (Greater)"
 source: "Pathfinder GM Core"

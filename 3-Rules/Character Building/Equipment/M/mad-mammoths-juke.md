@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mad-mammoths-juke"
 aliases: "Mad Mammoth's Juke"
 source: "Pathfinder #175: Broken Tusk Moon"

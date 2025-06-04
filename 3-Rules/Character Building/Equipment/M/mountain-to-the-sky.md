@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mountain-to-the-sky"
 aliases: "Mountain to the Sky"
 source: "Pathfinder Lost Omens Legends"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-clinging-rime-(9th-level)"
 aliases: "Wand of Clinging Rime (9th-level)"
 source: "Pathfinder Treasure Vault"

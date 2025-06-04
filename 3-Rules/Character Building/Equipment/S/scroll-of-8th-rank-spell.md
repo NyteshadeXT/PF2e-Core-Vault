@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scroll-of-8th-rank-spell"
 aliases: "Scroll of 8th-rank Spell"
 source: "Pathfinder GM Core"

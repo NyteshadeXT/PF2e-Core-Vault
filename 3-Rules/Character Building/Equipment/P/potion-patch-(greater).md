@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-patch-(greater)"
 aliases: "Potion Patch (Greater)"
 source: "Pathfinder Treasure Vault"

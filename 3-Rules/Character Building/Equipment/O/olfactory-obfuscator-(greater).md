@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "olfactory-obfuscator-(greater)"
 aliases: "Olfactory Obfuscator (Greater)"
 source: "Pathfinder Advanced Player's Guide"

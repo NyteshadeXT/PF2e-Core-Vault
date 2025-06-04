@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "golden-blade-of-mzali"
 aliases: "Golden Blade of Mzali"
 source: "Pathfinder #172: Secrets of the Temple-City"

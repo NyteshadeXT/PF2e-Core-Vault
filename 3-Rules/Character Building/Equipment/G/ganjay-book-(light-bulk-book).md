@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ganjay-book-(light-bulk-book)"
 aliases: "Ganjay Book (Light bulk book)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

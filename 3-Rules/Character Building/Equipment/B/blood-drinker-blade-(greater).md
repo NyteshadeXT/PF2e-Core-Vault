@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blood-drinker-blade-(greater)"
 aliases: "Blood-Drinker Blade (Greater)"
 source: "Pathfinder #213: Thirst for Blood"

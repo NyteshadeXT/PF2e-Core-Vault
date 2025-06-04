@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "refined-pesh"
 aliases: "Refined Pesh"
 source: "Pathfinder Lost Omens World Guide"

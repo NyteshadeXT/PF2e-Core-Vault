@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "genealogy-mask"
 aliases: "Genealogy Mask"
 source: "Pathfinder Lost Omens The Mwangi Expanse"

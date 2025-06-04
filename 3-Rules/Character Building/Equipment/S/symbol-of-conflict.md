@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "symbol-of-conflict"
 aliases: "Symbol of Conflict"
 source: "Pathfinder GM Core"

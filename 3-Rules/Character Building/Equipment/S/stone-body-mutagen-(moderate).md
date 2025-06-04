@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stone-body-mutagen-(moderate)"
 aliases: "Stone Body Mutagen (Moderate)"
 source: "Pathfinder Treasure Vault"

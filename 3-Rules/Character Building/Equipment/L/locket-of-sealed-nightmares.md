@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "locket-of-sealed-nightmares"
 aliases: "Locket of Sealed Nightmares"
 source: "Pathfinder #156: The Apocalypse Prophet"

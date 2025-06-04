@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "palette-of-masterstrokes"
 aliases: "Palette of Masterstrokes"
 source: "Pathfinder Kingmaker"

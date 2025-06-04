@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-the-tiger-(greater)"
 aliases: "Ring of the Tiger (Greater)"
 source: "Pathfinder Kingmaker"

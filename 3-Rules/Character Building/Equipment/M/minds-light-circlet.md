@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "minds-light-circlet"
 aliases: "Mind's Light Circlet"
 source: "Pathfinder Treasure Vault"

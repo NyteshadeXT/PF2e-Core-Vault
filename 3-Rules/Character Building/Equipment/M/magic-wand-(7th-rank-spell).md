@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "magic-wand-(7th-rank-spell)"
 aliases: "Magic Wand (7th-Rank Spell)"
 source: "Pathfinder GM Core"

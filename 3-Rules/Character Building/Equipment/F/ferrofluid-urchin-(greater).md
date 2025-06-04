@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ferrofluid-urchin-(greater)"
 aliases: "Ferrofluid Urchin (Greater)"
 source: "Pathfinder Rage of Elements"

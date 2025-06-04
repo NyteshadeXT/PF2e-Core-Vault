@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "explosive-mine-(lesser)"
 aliases: "Explosive Mine (Lesser)"
 source: "Pathfinder Guns & Gears"

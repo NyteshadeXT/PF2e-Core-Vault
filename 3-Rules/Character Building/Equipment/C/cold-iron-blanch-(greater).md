@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cold-iron-blanch-(greater)"
 aliases: "Cold Iron Blanch (Greater)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

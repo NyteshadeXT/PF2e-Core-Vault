@@ -2,16 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "amphisbaena-handwraps"
 aliases: "Amphisbaena Handwraps"
 source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
+pg: "106"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "unarmed"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,20 +26,20 @@ invest:
 usage: "worngloves "
 license: "ORC"
 identify:
-description: "Your hands fit through the venomous mouths of this pair of handwraps made from amphisbaena skin. Your unarmed strikes gain the versatile P trait. _Amphisbaena handwraps_ can have weapon runes etched onto them, similar to [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows]].  * * *  **Activate—Twin Venom Strike** `pf2:2` (manipulate)  **Frequency** once per hour  **Effect** Make two unarmed Strikes. Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until after both attacks. Each Strike deals an additional 1d6 poison damage.  * * *  **Craft Requirements** The initial raw materials must include the skin and heads of an amphisbaena."
-powerTitle:
-actionEconomy:
-type:
-frequency:
+description: "Your hands fit through the venomous mouths of this pair of handwraps made from amphisbaena skin. Your unarmed strikes gain the versatile P trait. _Amphisbaena handwraps_ can have weapon runes etched onto them, similar to [[handwraps-of-mighty-blows|Handwraps of Mighty Blows]]."
+powerTitle: "Twin Venom Strike"
+actionEconomy: 2
+type: "([[manipulate]])"
+frequency: "once per hour"
 trigger:
-mechanics:
+mechanics: "Make two unarmed Strikes. Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until after both attacks. Each Strike deals an additional 1d6 poison damage."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include the skin and heads of an amphisbaena."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -74,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

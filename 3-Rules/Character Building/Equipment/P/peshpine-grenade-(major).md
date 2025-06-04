@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "peshpine-grenade-(major)"
 aliases: "Peshpine Grenade (Major)"
 source: "Pathfinder #149: Against the Scarlet Triad"

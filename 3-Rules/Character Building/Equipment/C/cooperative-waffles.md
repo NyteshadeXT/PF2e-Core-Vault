@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cooperative-waffles"
 aliases: "Cooperative Waffles"
 source: "Pathfinder Treasure Vault"

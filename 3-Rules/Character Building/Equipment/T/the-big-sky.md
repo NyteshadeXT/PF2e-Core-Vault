@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "the-big-sky"
 aliases: "The Big Sky"
 source: "Pathfinder #190: The Choosing"

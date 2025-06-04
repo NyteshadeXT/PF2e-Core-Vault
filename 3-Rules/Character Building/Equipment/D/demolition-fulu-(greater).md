@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "demolition-fulu-(greater)"
 aliases: "Demolition Fulu (Greater)"
 source: "Pathfinder Treasure Vault"

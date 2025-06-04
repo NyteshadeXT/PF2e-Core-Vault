@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "climbing-kit-(extreme)"
 aliases: "Climbing Kit (Extreme)"
 source: "Pathfinder Player Core"

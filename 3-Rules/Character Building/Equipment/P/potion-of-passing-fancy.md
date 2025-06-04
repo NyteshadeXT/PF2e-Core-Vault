@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-passing-fancy"
 aliases: "Potion of Passing Fancy"
 source: "Pathfinder #205: Singer, Stalker, Skinsaw Man"

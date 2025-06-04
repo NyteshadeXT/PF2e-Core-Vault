@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oil-of-skating"
 aliases: "Oil of Skating"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bladed-gauntlet"
 aliases: "Bladed Gauntlet"
 source: "Pathfinder Lost Omens Knights of Lastwall"

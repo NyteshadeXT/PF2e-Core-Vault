@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elixir-of-life-(lesser)"
 aliases: "Elixir of Life (Lesser)"
 source: "Pathfinder GM Core"

@@ -2,15 +2,16 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aluum-charm"
 aliases: "Aluum Charm"
 source: "Pathfinder #149: Against the Scarlet Triad"
-pg: ""
-rarity: ""
+pg: "82"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -25,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This ornate pendant of brass is adorned with a vibrant blue gemstone. An _aluum charm_ grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked _aluum charm_, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."  * * *  **Activate** `pf2:2` command  **Frequency** once per round  * * *  **Effect** The charm grants you control over an aluum you can see within 60 feet, with a level equal to or lower than the charm. This has the effect of [[Spells/Dominate|Dominate]] and allows a DC 28 Will check save. If the aluum is currently under the control of someone wearing its linked charm, it gets a result on its saving throw one degree higher than what it rolled.  You can control only one aluum at a time using this activation, and controlling a new aluum ends the effect for one you had previously affected."
-powerTitle:
-actionEconomy:
-type:
-frequency:
+description: "This ornate pendant of brass is adorned with a vibrant blue gemstone. An _aluum charm_ grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked _aluum charm_, that aluum follows your verbal commands, including somewhat nuanced orders like 'subdue this target' or strike 'anyone wearing a blue robe'."
+powerTitle: "Effect"
+actionEconomy: 2
+type: "([[command]])"
+frequency: "once per round"
 trigger:
-mechanics:
+mechanics: "The charm grants you control over an aluum you can see within 60 feet, with a level equal to or lower than the charm. This has the effect of [[Dominate]] and allows a DC 28 Will check save. If the aluum is currently under the control of someone wearing its linked charm, it gets a result on its saving throw one degree higher than what it rolled.  You can control only one aluum at a time using this activation, and controlling a new aluum ends the effect for one you had previously affected."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "instructions-for-lasting-agony"
 aliases: "Instructions for Lasting Agony"
 source: "Pathfinder Secrets of Magic"

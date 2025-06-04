@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tooth-and-claw-tattoo"
 aliases: "Tooth and Claw Tattoo"
 source: "Pathfinder Treasure Vault"

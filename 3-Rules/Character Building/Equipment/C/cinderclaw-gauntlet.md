@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cinderclaw-gauntlet"
 aliases: "Cinderclaw Gauntlet"
 source: "Pathfinder #145: Hellknight Hill"

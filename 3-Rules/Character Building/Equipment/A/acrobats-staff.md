@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "acrobats-staff"
 aliases: "Acrobat's Staff"
 source: "Pathfinder #152: Legacy of the Lost God"

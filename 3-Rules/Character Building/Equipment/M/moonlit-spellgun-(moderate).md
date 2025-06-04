@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "moonlit-spellgun-(moderate)"
 aliases: "Moonlit Spellgun (Moderate)"
 source: "Pathfinder Treasure Vault"

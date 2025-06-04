@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jian-of-lifes-duality"
 aliases: "Jian of Life's Duality"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

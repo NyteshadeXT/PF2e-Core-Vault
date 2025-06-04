@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "disguise-kit-(elite)"
 aliases: "Disguise Kit (Elite)"
 source: "Pathfinder Player Core"

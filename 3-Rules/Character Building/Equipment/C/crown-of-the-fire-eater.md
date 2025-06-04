@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crown-of-the-fire-eater"
 aliases: "Crown of the Fire Eater"
 source: "Pathfinder Lost Omens The Grand Bazaar"

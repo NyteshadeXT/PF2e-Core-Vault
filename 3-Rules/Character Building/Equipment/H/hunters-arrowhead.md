@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hunters-arrowhead"
 aliases: "Hunter's Arrowhead"
 source: "Pathfinder Treasure Vault"

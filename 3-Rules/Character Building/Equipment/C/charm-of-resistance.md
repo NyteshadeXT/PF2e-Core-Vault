@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "charm-of-resistance"
 aliases: "Charm of Resistance"
 source: "Pathfinder GM Core"

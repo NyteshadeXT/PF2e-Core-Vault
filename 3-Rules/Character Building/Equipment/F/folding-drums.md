@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "folding-drums"
 aliases: "Folding Drums"
 source: "Pathfinder #164: Hands of the Devil"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "kimanéz-luminescent-toadstool"
 aliases: "Kimanéz Luminescent Toadstool"
 source: "Pathfinder Lost Omens Rival Academies"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "battle-medics-baton"
 aliases: "Battle Medic's Baton"
 source: "Pathfinder Treasure Vault"

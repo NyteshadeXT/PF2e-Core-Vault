@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mask-of-the-cursed-eye"
 aliases: "Mask of the Cursed Eye"
 source: "Pathfinder Treasure Vault"

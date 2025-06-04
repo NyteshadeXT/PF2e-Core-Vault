@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Elara.png
+art: zz-Attachments/Elara.png
 pronounced: i-lar-a
 aliases:
   - The Healing Light, Lady of Renewal
@@ -147,6 +147,10 @@ Life and death, healing and decay—Elara and [[Malakar]] represent two sides of
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Elara Holy Symbol.png]]
+> Holy Symbol of Elara
+
 Elara teaches that life is sacred and must be protected and nurtured. Healing and renewal are paramount, and mercy should be extended to all beings. Her followers are encouraged to bring light into the darkest places, offer comfort to the suffering, and work tirelessly to heal the wounds of both body and spirit.
 
 The Church of Elara is beloved by the public, known for its charitable works and healing services. Temples are often serene sanctuaries located near natural sources of light and water, symbolizing the connection to life and renewal. Clergy members are known as Healers, Lightbringers, and Wardens, each fulfilling specific roles within the church hierarchy. Healers focus on medical and spiritual healing, Lightbringers spread Elara's teachings, and Wardens protect the temples and those in need.

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "warcallers-chime-of-blasting"
 aliases: "Warcaller's Chime of Blasting"
 source: "Pathfinder #170: Spoken on the Song Wind"

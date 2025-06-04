@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "secret-keepers-mask-(father-skinsaw)"
 aliases: "Secret-Keeper's Mask (Father Skinsaw)"
 source: "Pathfinder Blog"

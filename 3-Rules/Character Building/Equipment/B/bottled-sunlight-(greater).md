@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bottled-sunlight-(greater)"
 aliases: "Bottled Sunlight (Greater)"
 source: "Pathfinder Book of the Dead"

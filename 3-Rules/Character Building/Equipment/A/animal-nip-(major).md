@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "animal-nip-(major)"
 aliases: "Animal Nip (Major)"
 source: "Pathfinder Rage of Elements"

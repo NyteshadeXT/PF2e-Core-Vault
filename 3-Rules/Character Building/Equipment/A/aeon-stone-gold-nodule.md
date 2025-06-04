@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-gold-nodule"
 aliases: "Aeon Stone (Gold Nodule)"
 source: "Pathfinder Core Rulebook"

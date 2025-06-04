@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-rolling-flames-(3rd-level)"
 aliases: "Wand of Rolling Flames (3rd-level)"
 source: "Pathfinder Treasure Vault"

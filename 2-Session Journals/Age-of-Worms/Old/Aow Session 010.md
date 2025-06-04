@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - The Unmarked Door
 whichparty: "[[Age of Worms Party Dashboard]]"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eyes-of-the-cat"
 aliases: "Eyes of the Cat"
 source: "Pathfinder GM Core"

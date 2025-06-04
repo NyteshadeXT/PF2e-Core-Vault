@@ -2,15 +2,16 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "amulet-of-kinships-strength"
 aliases: "Amulet of Kinship's Strength"
 source: "Pathfinder #209: Destroyer's Doom"
-pg: ""
-rarity: ""
+pg: "82"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -25,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This weighty brass disk is inscribed with the ancestral names of its previous owners and now includes your own. When worn, it rests against your chest with a heavy warmth, a reminder of the strength of those who came before you. While worn and invested, you gain a +2 item bonus to Will saves. This bonus increases to +3 if the effect has the fear trait.  **Activate—Strengthen Resolve** `pf2:1`  **Frequency** once per day  * * *  **Effect** You extend your resolve to your allies, casting [[Spells/Strength of Mind|Strength of Mind]] on up to three willing targets."
-powerTitle:
-actionEconomy:
+description: "This weighty brass disk is inscribed with the ancestral names of its previous owners and now includes your own. When worn, it rests against your chest with a heavy warmth, a reminder of the strength of those who came before you. While worn and invested, you gain a +2 item bonus to Will saves. This bonus increases to +3 if the effect has the fear trait.  "
+powerTitle: "Strenghten Resolve"
+actionEconomy: 1
 type:
-frequency:
+frequency: "oncer per day"
 trigger:
-mechanics:
+mechanics: "You extend your resolve to your allies, casting [[Strength of Mind]] on up to three willing targets."
 powerTitle2:
 actionEconomy2:
 type2:

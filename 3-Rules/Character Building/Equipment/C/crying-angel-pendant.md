@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crying-angel-pendant"
 aliases: "Crying Angel Pendant"
 source: "Pathfinder GM Core"

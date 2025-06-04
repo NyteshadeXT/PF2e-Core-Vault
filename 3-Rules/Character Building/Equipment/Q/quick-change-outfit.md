@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "quick-change-outfit"
 aliases: "Quick-Change Outfit"
 source: "Pathfinder Lost Omens Firebrands"

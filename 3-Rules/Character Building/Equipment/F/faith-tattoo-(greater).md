@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "faith-tattoo-(greater)"
 aliases: "Faith Tattoo (Greater)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragon-lotus-drum"
 aliases: "Dragon-Lotus Drum"
 source: "Pathfinder War of Immortals"

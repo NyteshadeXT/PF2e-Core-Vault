@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "boots-of-the-blight"
 aliases: "Boots of the Blight"
 source: "Pathfinder #210: Whispers in the Dirt"

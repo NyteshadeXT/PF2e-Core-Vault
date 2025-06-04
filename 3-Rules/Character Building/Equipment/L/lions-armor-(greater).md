@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lions-armor-(greater)"
 aliases: "Lion's Armor (Greater)"
 source: "Pathfinder GM Core"

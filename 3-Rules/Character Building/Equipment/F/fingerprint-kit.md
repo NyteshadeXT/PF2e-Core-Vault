@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fingerprint-kit"
 aliases: "Fingerprint Kit"
 source: "Pathfinder #157: Devil at the Dreaming Palace"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "brooch-of-inspiration-(major)"
 aliases: "Brooch of Inspiration (Major)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

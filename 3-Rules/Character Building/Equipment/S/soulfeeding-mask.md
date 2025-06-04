@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "soulfeeding-mask"
 aliases: "Soulfeeding Mask"
 source: "Pathfinder #205: Singer, Stalker, Skinsaw Man"

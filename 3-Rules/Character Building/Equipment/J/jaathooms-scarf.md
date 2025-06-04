@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jaathooms-scarf"
 aliases: "Jaathoom's Scarf"
 source: "Pathfinder Rage of Elements"

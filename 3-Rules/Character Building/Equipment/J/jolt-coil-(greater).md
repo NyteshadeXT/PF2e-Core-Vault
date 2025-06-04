@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jolt-coil-(greater)"
 aliases: "Jolt Coil (Greater)"
 source: "Pathfinder Treasure Vault"

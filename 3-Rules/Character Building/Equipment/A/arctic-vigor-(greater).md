@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "arctic-vigor-(greater)"
 aliases: "Arctic Vigor (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lucky-draw-bandolier-(greater)"
 aliases: "Lucky Draw Bandolier (Greater)"
 source: "Pathfinder Guns & Gears"

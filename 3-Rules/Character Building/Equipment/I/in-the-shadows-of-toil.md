@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "in-the-shadows-of-toil"
 aliases: "In the Shadows of Toil"
 source: "Pathfinder Adventure: Crown of the Kobold King"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "the-mountain-man"
 aliases: "The Mountain Man"
 source: "Pathfinder #190: The Choosing"

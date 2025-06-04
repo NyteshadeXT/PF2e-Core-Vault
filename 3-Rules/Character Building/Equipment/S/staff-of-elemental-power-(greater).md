@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-elemental-power-(greater)"
 aliases: "Staff of Elemental Power (Greater)"
 source: "Pathfinder GM Core"

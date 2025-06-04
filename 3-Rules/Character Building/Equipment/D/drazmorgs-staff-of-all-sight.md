@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "drazmorgs-staff-of-all-sight"
 aliases: "Drazmorg's Staff of All-Sight"
 source: "Pathfinder Adventure: Crown of the Kobold King"

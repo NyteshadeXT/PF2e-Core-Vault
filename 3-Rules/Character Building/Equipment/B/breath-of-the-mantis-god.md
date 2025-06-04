@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "breath-of-the-mantis-god"
 aliases: "Breath of the Mantis God"
 source: "Pathfinder Adventure: Prey for Death"

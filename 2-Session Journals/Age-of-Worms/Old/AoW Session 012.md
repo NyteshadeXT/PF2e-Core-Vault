@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - Down the Morlock Hole
 whichparty: "[[Age of Worms Party Dashboard]]"

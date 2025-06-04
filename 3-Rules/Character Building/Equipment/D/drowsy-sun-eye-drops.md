@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "drowsy-sun-eye-drops"
 aliases: "Drowsy Sun Eye Drops"
 source: "Pathfinder Lost Omens Travel Guide"

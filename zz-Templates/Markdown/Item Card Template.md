@@ -12,6 +12,10 @@ trait01: ""
 trait02: ""
 trait03:
 trait04:
+trait05:
+trait06:
+trait07:
+trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 
 group: 
@@ -20,10 +24,11 @@ value: ""
 subvalue: ""
 invest:
 usage: ""
-craft: ""
 license: ""
 identify: ""
 description: ""
+craft: 
+destruction: 
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -33,7 +38,6 @@ actionEconomy:
 type: 
 frequency: 
 requirement:
-activation:
 trigger:
 mechanics: ""
 
@@ -45,16 +49,25 @@ actionEconomy2:
 type2: 
 frequency2: 
 requirement2:
-activation2:
 trigger2: 
 mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+mechanics3: "**Secondary Effect** "
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range:
 ammoType:
-reload: 
 damage: 
 dmg1: 
 dmg1Type: 
@@ -67,7 +80,6 @@ weaponCategory:
 #                    ARMOR PROPERTIES                    #
 #========================================================#
 baseAC: 
-modAC: 
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -199,10 +211,13 @@ if (line3.length > 0) output.push(line3.join("; "));
 if (data.ammoType) output.push(`**Ammo** ${data.ammoType}`);
 
 // =========================
-// Remaining Individual Stats
+// Str Requirement
 // =========================
 if (data.strRequirement) output.push(`**Str** ${data.strRequirement}`);
 
+// =========================
+// Base Armor and Weapon
+// =========================
 if (data.armorBase || data.weaponBase) {
   let base = [];
   if (data.armorBase) base.push(`**Base Armor** ${data.armorBase}`);
@@ -210,6 +225,9 @@ if (data.armorBase || data.weaponBase) {
   output.push(base.join("; "));
 }
 
+// =========================
+// Armor Stats: AC, Dex Cap, Penalties
+// =========================
 let armorStats = [];
 if (data.baseAC != null) armorStats.push(`**AC** +${data.baseAC}`);
 if (data.dexCap != null) armorStats.push(`**Dex Cap** +${data.dexCap}`);
@@ -217,6 +235,20 @@ if (data.checkPenalty != null) armorStats.push(`**Check Penalty** ${data.checkPe
 if (data.speedPenalty != null) armorStats.push(`**Speed Penalty** ${data.speedPenalty}`);
 if (armorStats.length > 0) output.push(armorStats.join("; "));
 
+// =========================
+// Durability: Hardness, HP, BT
+// =========================
+let durabilityLine = [];
+
+if (data.hardness != null) durabilityLine.push(`**Hardness** ${data.hardness}`);
+if (data.hitpoints != null) durabilityLine.push(`**HP** ${data.hitpoints}`);
+if (data.break != null) durabilityLine.push(`**BT** ${data.break}`);
+
+if (durabilityLine.length > 0) output.push(durabilityLine.join("; "));
+
+// =========================
+// Usage, Craft, License, Invest
+// =========================
 if (data.usage) output.push(`**Usage** ${data.usage}`);
 if (data.craft) output.push(`**Craft** ${data.craft}`);
 if (data.license) output.push(`**License** ${data.license}`);
@@ -227,7 +259,14 @@ dv.list(output);
 
 ```
 
-`= this.description`
+```dataviewjs
+const { description } = dv.current();
+
+if (description && description.trim() !== "") {
+  dv.paragraph(description);
+}
+
+```
 
 ---
 
@@ -315,5 +354,21 @@ if (entry.powerTitle || entry.powerTitle2 || entry.powerTitle3) {
   output += "\n</div>\n";
   dv.paragraph(output);
 }
+
+const { destruction, source, pg } = dv.current();
+
+let output = "";
+
+// Add Destruction, if present
+if (destruction && destruction.trim() !== "") {
+  output += `**Destruction:** ${destruction.trim()}\n\n`;
+}
+
+// Append Source info
+if (source || pg) {
+  output += `*Source: ${source ?? "Unknown"}${pg ? `, pg. ${pg}` : ""}*`;
+}
+
+dv.paragraph(output);
 
 ```

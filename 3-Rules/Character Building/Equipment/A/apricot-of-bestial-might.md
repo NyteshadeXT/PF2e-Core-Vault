@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "apricot-of-bestial-might"
 aliases: "Apricot of Bestial Might"
 source: "Pathfinder #167: Ready? Fight!"

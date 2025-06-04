@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bravos-brew-(lesser)"
 aliases: "Bravo's Brew (Lesser)"
 source: "Pathfinder GM Core"

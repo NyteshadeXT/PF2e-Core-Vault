@@ -2,21 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "amnemonic-charm"
 aliases: "Amnemonic Charm"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "92"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/amnemonic charm.png
 level: 9
 weight: 
 value: "140"
@@ -25,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You fail or critically fail a Deception, Diplomacy, or Intimidation check to [[Actions/Coerce|Coerce]], [[Actions/Lie|Lie]], [[Actions/Make an Impression|Make an Impression]], or [[Actions/Request|Request]]  **Requirements** You're a master in the skill you failed with.  * * *  This ornate locket, usually containing a faceless, humanoid portrait, is typically worn on a chain around the neck or attached to your clothing. When activated, the charm casts a [[Spells/Rewrite Memory|Rewrite Memory]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target."
-powerTitle:
-actionEconomy:
-type:
+description: "This ornate locket, usually containing a faceless, humanoid portrait, is typically worn on a chain around the neck or attached to your clothing."
+powerTitle: "Effect"
+actionEconomy: 0
+type: "([[envision]])"
 frequency:
-trigger:
-mechanics:
+trigger: "You fail or critically fail a [[Skills#Deception|Deception]], [[Skills#Diplomacy|Diplomacy]], or [[Skills#Intimidation|Intimidation]] check to [[Coerce]], [[Lie]], [[Make an Impression]], or [[Request]]"
+requirement: "You're a master in the skill you failed with."
+mechanics: "When activated, the charm casts a [[Rewrite Memory]]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

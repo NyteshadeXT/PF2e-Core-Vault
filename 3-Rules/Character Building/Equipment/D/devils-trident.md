@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "devils-trident"
 aliases: "Devil's Trident"
 source: "Pathfinder Lost Omens Monsters of Myth"

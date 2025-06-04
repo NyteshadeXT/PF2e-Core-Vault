@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dread-ampoule-(moderate)"
 aliases: "Dread Ampoule (Moderate)"
 source: "Pathfinder GM Core"

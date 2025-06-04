@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "exquisite-sword-cane-sheath"
 aliases: "Exquisite Sword Cane Sheath"
 source: "Pathfinder #157: Devil at the Dreaming Palace"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "secret-keepers-mask-(reaper-of-reputation)"
 aliases: "Secret-Keeper's Mask (Reaper of Reputation)"
 source: "Pathfinder Blog"

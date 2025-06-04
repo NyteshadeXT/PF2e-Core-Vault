@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-impossible-visions-(major)"
 aliases: "Staff of Impossible Visions (Major)"
 source: "Pathfinder Player Core 2"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bronze-dragons-breath-potion-(young)"
 aliases: "Bronze Dragon's Breath Potion (Young)"
 source: "Pathfinder Core Rulebook"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sixfingers-elixir-(greater)"
 aliases: "Sixfingers Elixir (Greater)"
 source: "Pathfinder Adventure: The Slithering"

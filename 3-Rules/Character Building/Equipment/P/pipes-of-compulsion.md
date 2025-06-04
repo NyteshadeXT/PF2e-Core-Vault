@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pipes-of-compulsion"
 aliases: "Pipes of Compulsion"
 source: "Pathfinder Treasure Vault"

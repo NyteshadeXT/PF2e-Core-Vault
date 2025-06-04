@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "twig-of-knowledge-and-memory"
 aliases: "Twig of Knowledge and Memory"
 source: "Pathfinder Lost Omens Rival Academies"

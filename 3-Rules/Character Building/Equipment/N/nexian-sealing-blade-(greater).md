@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "nexian-sealing-blade-(greater)"
 aliases: "Nexian Sealing Blade (Greater)"
 source: "Pathfinder Wake the Dead #1"

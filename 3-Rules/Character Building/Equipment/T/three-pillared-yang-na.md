@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "three-pillared-yang-na"
 aliases: "Three-Pillared Yang Na"
 source: "Pathfinder Lost Omens Rival Academies"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cape-of-grand-entrances"
 aliases: "Cape of Grand Entrances"
 source: "Pathfinder Lost Omens Firebrands"

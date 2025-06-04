@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "choker-of-elocution"
 aliases: "Choker of Elocution"
 source: "Pathfinder GM Core"

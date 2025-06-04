@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fortifying-pebble"
 aliases: "Fortifying Pebble"
 source: "Pathfinder Lost Omens Character Guide"

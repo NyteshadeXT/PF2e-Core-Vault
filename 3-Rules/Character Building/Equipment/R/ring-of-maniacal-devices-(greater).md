@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-maniacal-devices-(greater)"
 aliases: "Ring of Maniacal Devices (Greater)"
 source: "Pathfinder Player Core 2"

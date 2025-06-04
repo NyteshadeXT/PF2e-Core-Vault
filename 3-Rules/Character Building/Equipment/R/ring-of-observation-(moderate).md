@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-observation-(moderate)"
 aliases: "Ring of Observation (Moderate)"
 source: "Pathfinder Lost Omens Firebrands"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-recalcitrant-wishes"
 aliases: "Ring Of Recalcitrant Wishes"
 source: "Pathfinder #162: Ruins of the Radiant Siege"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scroll-of-3rd-rank-spell"
 aliases: "Scroll of 3rd-rank Spell"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elixir-of-gender-transformation-(greater)"
 aliases: "Elixir of Gender Transformation (Greater)"
 source: "Pathfinder Player Core 2"

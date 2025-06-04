@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "caustic-deteriorating-dust"
 aliases: "Caustic Deteriorating Dust"
 source: "Pathfinder Lost Omens Gods & Magic"

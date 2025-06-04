@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "final-blade"
 aliases: "Final Blade"
 source: "Pathfinder Adventure: Night of the Gray Death"

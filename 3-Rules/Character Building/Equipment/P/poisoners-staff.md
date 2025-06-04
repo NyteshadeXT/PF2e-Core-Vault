@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "poisoners-staff"
 aliases: "Poisoner's Staff"
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"

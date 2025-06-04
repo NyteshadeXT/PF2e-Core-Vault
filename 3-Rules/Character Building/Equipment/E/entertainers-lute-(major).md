@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "entertainers-lute-(major)"
 aliases: "Entertainer's Lute (Major)"
 source: "Pathfinder Treasure Vault"

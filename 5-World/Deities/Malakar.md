@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Malakar.png
+art: zz-Attachments/Malakar.png
 pronounced: Mal-a-car
 aliases:
   - Corruptor, Decayed One
@@ -163,6 +163,10 @@ Malakar’s relationships with these deities have deeply influenced his role in 
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Malakar Holy Symbol.png]]
+> Holy Symbol of Malakar
+
 Malakar's teachings focus on the inevitability of decay and the power found in corruption. His followers are taught to embrace the rot and spread corruption, believing that decay is a natural and powerful force. Corruption is seen as a means to achieve power, with the decay of morals, bodies, and structures being the true path to dominance. Malakar teaches that everything, no matter how pure, will eventually succumb to rot.
 
 The Church of Malakar operates in hidden, decayed locations such as abandoned buildings, diseased swamps, and underground catacombs. Temples are adorned with symbols of rot and pestilence, serving as centers for dark rituals and the spreading of corruption. The clergy, known as Corruptors, revel in the spread of decay and the manipulation of life into states of corruption.

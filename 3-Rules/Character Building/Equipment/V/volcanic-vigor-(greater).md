@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "volcanic-vigor-(greater)"
 aliases: "Volcanic Vigor (Greater)"
 source: "Pathfinder #195: Heavy is the Crown"

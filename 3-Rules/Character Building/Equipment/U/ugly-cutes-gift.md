@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ugly-cutes-gift"
 aliases: "Ugly Cute's Gift"
 source: "Pathfinder #196: The Summer That Never Was"

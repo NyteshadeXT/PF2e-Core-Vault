@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ooze-ammunition-(lesser)"
 aliases: "Ooze Ammunition (Lesser)"
 source: "Pathfinder Treasure Vault"

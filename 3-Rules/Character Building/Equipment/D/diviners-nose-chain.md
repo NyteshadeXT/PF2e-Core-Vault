@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "diviners-nose-chain"
 aliases: "Diviner's Nose Chain"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

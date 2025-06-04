@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "beckoning-cat-amulet"
 aliases: "Beckoning Cat Amulet"
 source: "Pathfinder #152: Legacy of the Lost God"

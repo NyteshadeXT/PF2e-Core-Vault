@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "choker-arm-mutagen-(moderate)"
 aliases: "Choker-Arm Mutagen (Moderate)"
 source: "Pathfinder Treasure Vault"

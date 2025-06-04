@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "drums-of-war-(greater)"
 aliases: "Drums of War (Greater)"
 source: "Pathfinder Treasure Vault"

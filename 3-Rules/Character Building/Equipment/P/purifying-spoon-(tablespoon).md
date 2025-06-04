@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "purifying-spoon-(tablespoon)"
 aliases: "Purifying Spoon (Tablespoon)"
 source: "Pathfinder Rage of Elements"

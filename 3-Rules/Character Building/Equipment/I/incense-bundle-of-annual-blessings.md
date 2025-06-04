@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "incense-bundle-of-annual-blessings"
 aliases: "Incense Bundle of Annual Blessings"
 source: "Pathfinder Blog"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "merchants-guile"
 aliases: "Merchant's Guile"
 source: "Pathfinder Adventure: The Fall of Plaguestone"

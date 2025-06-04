@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "motivating-treat-bag"
 aliases: "Motivating Treat Bag"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

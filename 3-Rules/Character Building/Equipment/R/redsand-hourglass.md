@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "redsand-hourglass"
 aliases: "Redsand Hourglass"
 source: "Pathfinder #186: Ghost King's Rage"

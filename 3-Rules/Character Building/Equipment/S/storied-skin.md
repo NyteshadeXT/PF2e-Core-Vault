@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "storied-skin"
 aliases: "Storied Skin"
 source: "Pathfinder #207: The Resurrection Flood"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "musket-staff-of-void"
 aliases: "Musket Staff of Void"
 source: "Pathfinder NPC Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pact-of-blood-taking"
 aliases: "Pact of Blood-Taking"
 source: "Pathfinder #164: Hands of the Devil"

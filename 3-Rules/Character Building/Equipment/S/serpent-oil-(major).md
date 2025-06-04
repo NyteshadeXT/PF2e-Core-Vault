@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "serpent-oil-(major)"
 aliases: "Serpent Oil (Major)"
 source: "Pathfinder Treasure Vault"

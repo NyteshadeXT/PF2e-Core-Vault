@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "handwraps-of-mighty-blows"
 aliases: "Handwraps of Mighty Blows"
 source: "Pathfinder GM Core"

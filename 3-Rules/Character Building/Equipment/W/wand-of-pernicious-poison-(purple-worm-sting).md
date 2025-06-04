@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-pernicious-poison-(purple-worm-sting)"
 aliases: "Wand of Pernicious Poison (Purple Worm Sting)"
 source: "Pathfinder Treasure Vault"

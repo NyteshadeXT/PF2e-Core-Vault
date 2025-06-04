@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "belt-of-long-life"
 aliases: "Belt of Long Life"
 source: "Pathfinder GM Core"

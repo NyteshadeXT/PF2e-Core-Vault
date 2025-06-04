@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mantle-of-amazing-health"
 aliases: "Mantle of Amazing Health"
 source: "Pathfinder Treasure Vault"

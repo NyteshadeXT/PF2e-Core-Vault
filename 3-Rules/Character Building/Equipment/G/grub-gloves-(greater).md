@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grub-gloves-(greater)"
 aliases: "Grub Gloves (Greater)"
 source: "Pathfinder Lost Omens Highhelm"

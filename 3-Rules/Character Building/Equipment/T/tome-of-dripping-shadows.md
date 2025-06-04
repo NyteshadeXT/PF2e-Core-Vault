@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tome-of-dripping-shadows"
 aliases: "Tome of Dripping Shadows"
 source: "Pathfinder #195: Heavy is the Crown"

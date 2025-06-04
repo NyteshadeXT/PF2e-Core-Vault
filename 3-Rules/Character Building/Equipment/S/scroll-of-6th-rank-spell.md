@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scroll-of-6th-rank-spell"
 aliases: "Scroll of 6th-rank Spell"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "junk-bomb-(greater)"
 aliases: "Junk Bomb (Greater)"
 source: "Pathfinder Special: Fumbus!"

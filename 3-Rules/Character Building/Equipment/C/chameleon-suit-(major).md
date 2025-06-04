@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "chameleon-suit-(major)"
 aliases: "Chameleon Suit (Major)"
 source: "Pathfinder Guns & Gears"

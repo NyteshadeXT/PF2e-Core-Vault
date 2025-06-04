@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gearbinder-oil-(greater)"
 aliases: "Gearbinder Oil (Greater)"
 source: "Pathfinder Treasure Vault"

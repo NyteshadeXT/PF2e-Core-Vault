@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "noppera-bo-hood"
 aliases: "Noppera-Bo Hood"
 source: "Pathfinder #196: The Summer That Never Was"

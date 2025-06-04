@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shockguard-coil"
 aliases: "Shockguard Coil"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cane-of-the-maelstrom"
 aliases: "Cane of the Maelstrom"
 source: "Pathfinder #162: Ruins of the Radiant Siege"

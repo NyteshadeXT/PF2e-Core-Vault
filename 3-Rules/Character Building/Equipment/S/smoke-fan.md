@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "smoke-fan"
 aliases: "Smoke Fan"
 source: "Pathfinder Guns & Gears"

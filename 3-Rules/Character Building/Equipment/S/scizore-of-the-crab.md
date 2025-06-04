@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scizore-of-the-crab"
 aliases: "Scizore of the Crab"
 source: "Pathfinder Treasure Vault"

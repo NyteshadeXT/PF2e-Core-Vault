@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "acid-flask-(lesser)"
 aliases: "Acid Flask (Lesser)"
 source: "Pathfinder GM Core"

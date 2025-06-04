@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spectacles-of-understanding-(greater)"
 aliases: "Spectacles of Understanding (Greater)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

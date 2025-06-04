@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rod-of-cancellation"
 aliases: "Rod of Cancellation"
 source: "Pathfinder Advanced Player's Guide"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oil-of-corpse-restoration"
 aliases: "Oil of Corpse Restoration"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"

@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Aurelius.png
+art: zz-Attachments/Aurelius.png
 pronounced: O-rail-e-us
 deitypower: Greater God
 portfolio: Order, Justice, Civilization, Leadership, Rulership
@@ -163,6 +163,10 @@ Aurelius shares a nuanced relationship with [[Arcarios]], marked by both respect
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Aurelius Holy Symbol.png]]
+> Holy Symbol of Aurelius
+
 Aurelius teaches that laws are the foundation of a stable society and must be upheld above all else. Justice must be delivered impartially, and the rule of law must be maintained to ensure the prosperity of civilization. Followers are encouraged to seek knowledge, protect their communities, and act as arbiters of justice in their daily lives.
 
 The Church of Aurelius is highly respected and influential in many civilized regions. Temples are often grand structures situated at the hearts of cities, symbolizing the central role of law in society. Worshipers of Aurelius are often, but not only, judges, law enforcers and paladins. Clergy members are known as Judges, Sentinels, and Scribes, each fulfilling specific roles within the church hierarchy. Judges oversee legal matters and adjudicate disputes, Sentinels protect the community and enforce the law, while Scribes maintain records and pursue knowledge.

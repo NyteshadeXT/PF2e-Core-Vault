@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Neralith.png
+art: zz-Attachments/Neralith.png
 pronounced: Near-a-lith
 aliases:
   - Mother Time, The Gate Keeper, Fatespinner
@@ -161,6 +161,10 @@ Neralith holds a strong antagonism toward [[Morvael]], as the god of undeath rep
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Neralith Holy Symbol.png]]
+> Holy Symbol of Neralith
+
 Neralith’s teachings revolve around the acceptance of time’s passage, the embrace of one’s fate, and the inevitability of death. Her followers are encouraged to understand and respect the flow of time and to see death not as an end but as a natural part of existence. Fate is seen as a complex tapestry, where every thread is interconnected. Neralith teaches that while some aspects of fate are unchangeable, individuals have the power to shape certain parts of their destinies through their actions and choices.
 
 The Church of Neralith is often found in serene, timeless places such as ancient groves, secluded monasteries, and cryptic catacombs. Temples are designed to reflect the passage of time and the beauty of fate’s intricate design, often featuring hourglasses, spirals, and symbols of life and death. The clergy, known as Chronomancers, dedicate their lives to understanding the mysteries of time, fate, and death, guiding others to accept their fate and the natural cycle of life.

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rusting-snare"
 aliases: "Rusting Snare"
 source: "Pathfinder Lost Omens Monsters of Myth"

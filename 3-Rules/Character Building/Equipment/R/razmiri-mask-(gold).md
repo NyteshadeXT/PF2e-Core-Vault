@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "razmiri-mask-(gold)"
 aliases: "Razmiri Mask (Gold)"
 source: "Pathfinder Lost Omens Divine Mysteries"

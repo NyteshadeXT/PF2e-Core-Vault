@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "etheric-essence-disruptor-(moderate)"
 aliases: "Etheric Essence Disruptor (Moderate)"
 source: "Pathfinder Guns & Gears"

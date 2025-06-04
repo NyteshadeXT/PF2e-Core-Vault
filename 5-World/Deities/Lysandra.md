@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Lysandra.png
+art: zz-Attachments/Lysandra.png
 pronounced: Lie-sand-ra
 aliases:
   - Lady Light, The Darkbringer, Celestial Lady
@@ -171,6 +171,10 @@ Lysandra’s teachings emphasize the harmony of light and darkness, the cycles o
 The Church of Lysandra is divided into two factions, united in their reverence for celestial phenomena but differing in their focus and methods:
 
 ### The Lunar Order
+> [!caption|left]
+> ![[Lysandra Holy Symbol Lunar Order.png]]
+> Holy Symbol of Lysandra - The Lunar Order
+
 **Symbol:** Crescent moon entwined with stars
 **Favored Weapon:** Starknife
 
@@ -190,6 +194,10 @@ This faction focuses on solar phenomena, solar eclipses, and the brilliance of t
 #### Affiliated Orders
 - **Dawnwatchers:** Guardians of solar sanctuaries who conduct dawn rituals to honor the rising sun and its symbolic renewal of hope.
 - **Sunfire Seekers:** Adventurers who travel to observe solar phenomena, studying solar flares and harnessing solar energies for spiritual and practical purposes.
+
+> [!caption|right]
+> ![[Lysandra Holy Symbol Solar Conclave.png]]
+> Holy Symbol of Lysandra - The Solar Conclave
 
 #### Priestly Vestments and Adventuring Garb
 Priests wear robes of golden hues, embellished with sunburst motifs and solar symbols. They carry golden javelins as a symbol of solar strength and the piercing light of truth. In their adventuring garb, priests wear attire suited for solar observations and daylight ceremonies. They carry golden javelins and wear enchanted lenses to study solar phenomena.

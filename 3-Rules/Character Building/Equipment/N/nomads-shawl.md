@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "nomads-shawl"
 aliases: "Nomad's Shawl"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

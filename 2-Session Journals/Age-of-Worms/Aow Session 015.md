@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - Lost in the Maze
 whichparty: "[[Age of Worms Party Dashboard]]"

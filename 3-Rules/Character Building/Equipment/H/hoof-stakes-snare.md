@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hoof-stakes-snare"
 aliases: "Hoof Stakes Snare"
 source: "Pathfinder #175: Broken Tusk Moon"

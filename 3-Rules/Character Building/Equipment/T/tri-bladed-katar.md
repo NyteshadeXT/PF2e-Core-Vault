@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tri-bladed-katar"
 aliases: "Tri-bladed Katar"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

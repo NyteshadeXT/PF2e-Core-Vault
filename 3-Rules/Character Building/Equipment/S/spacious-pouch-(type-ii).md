@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spacious-pouch-(type-ii)"
 aliases: "Spacious Pouch (Type II)"
 source: "Pathfinder GM Core"

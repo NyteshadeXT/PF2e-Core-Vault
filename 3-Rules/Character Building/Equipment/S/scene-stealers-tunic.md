@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scene-stealers-tunic"
 aliases: "Scene Stealer's Tunic"
 source: "Pathfinder #204: Stage Fright"

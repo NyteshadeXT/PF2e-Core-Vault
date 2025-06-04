@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stalk-goggles-(major)"
 aliases: "Stalk Goggles (Major)"
 source: "Pathfinder #187: The Seventh Arch"

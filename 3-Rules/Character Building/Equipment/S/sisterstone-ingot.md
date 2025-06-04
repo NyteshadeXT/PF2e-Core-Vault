@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sisterstone-ingot"
 aliases: "Sisterstone Ingot"
 source: "Pathfinder #183: Field of Maidens"

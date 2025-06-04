@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragonprism-staff"
 aliases: "Dragonprism Staff"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-the-pampered-pet"
 aliases: "Wand of the Pampered Pet"
 source: "Pathfinder Treasure Vault"

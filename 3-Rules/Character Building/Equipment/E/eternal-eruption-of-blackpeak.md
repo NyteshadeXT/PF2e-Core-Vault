@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eternal-eruption-of-blackpeak"
 aliases: "Eternal Eruption of Blackpeak"
 source: "Pathfinder GM Core"

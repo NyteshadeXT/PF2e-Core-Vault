@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tamchal-chakram"
 aliases: "Tamchal Chakram"
 source: "Pathfinder #164: Hands of the Devil"

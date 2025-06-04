@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rhythm-bone-(greater)"
 aliases: "Rhythm Bone (Greater)"
 source: "Pathfinder #169: Kindled Magic"

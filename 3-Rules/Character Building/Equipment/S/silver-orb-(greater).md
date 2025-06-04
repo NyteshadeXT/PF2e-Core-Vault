@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "silver-orb-(greater)"
 aliases: "Silver Orb (Greater)"
 source: "Pathfinder Wake the Dead #1"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "the-avalanche"
 aliases: "The Avalanche"
 source: "Pathfinder #192: Worst of All Possible Worlds"

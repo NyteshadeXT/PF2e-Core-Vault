@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blood-booster-(greater)"
 aliases: "Blood Booster (Greater)"
 source: "Pathfinder Treasure Vault"

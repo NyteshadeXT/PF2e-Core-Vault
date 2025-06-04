@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gorget-of-the-primal-roar"
 aliases: "Gorget of the Primal Roar"
 source: "Pathfinder GM Core"

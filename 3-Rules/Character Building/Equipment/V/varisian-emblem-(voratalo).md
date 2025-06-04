@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "varisian-emblem-(voratalo)"
 aliases: "Varisian Emblem (Voratalo)"
 source: "Pathfinder Treasure Vault"

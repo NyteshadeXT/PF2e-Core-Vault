@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clarity-goggles-(moderate)"
 aliases: "Clarity Goggles (Moderate)"
 source: "Pathfinder Treasure Vault"

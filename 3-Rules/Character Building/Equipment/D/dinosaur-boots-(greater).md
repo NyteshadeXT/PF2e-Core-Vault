@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dinosaur-boots-(greater)"
 aliases: "Dinosaur Boots (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

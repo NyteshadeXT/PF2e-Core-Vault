@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "axe-of-the-dwarven-lords"
 aliases: "Axe of the Dwarven Lords"
 source: "Pathfinder Gamemastery Guide"

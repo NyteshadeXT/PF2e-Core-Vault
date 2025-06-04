@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "explosive-ammunition-(greater)"
 aliases: "Explosive Ammunition (Greater)"
 source: "Pathfinder GM Core"

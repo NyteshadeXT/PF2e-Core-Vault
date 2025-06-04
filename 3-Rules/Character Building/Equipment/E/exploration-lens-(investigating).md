@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "exploration-lens-(investigating)"
 aliases: "Exploration Lens (Investigating)"
 source: "Pathfinder #171: Hurricane's Howl"

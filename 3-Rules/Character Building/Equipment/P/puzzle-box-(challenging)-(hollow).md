@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "puzzle-box-(challenging)-(hollow)"
 aliases: "Puzzle Box (Challenging) (Hollow)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

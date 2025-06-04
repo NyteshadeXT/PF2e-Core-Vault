@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "twigjack-sack-(greater)"
 aliases: "Twigjack Sack (Greater)"
 source: "Pathfinder #175: Broken Tusk Moon"

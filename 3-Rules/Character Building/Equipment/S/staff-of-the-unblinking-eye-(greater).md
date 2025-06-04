@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-the-unblinking-eye-(greater)"
 aliases: "Staff of the Unblinking Eye (Greater)"
 source: "Pathfinder GM Core"

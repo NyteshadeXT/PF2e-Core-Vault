@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-toxic-blades-(6th-level)"
 aliases: "Wand of Toxic Blades (6th-level)"
 source: "Pathfinder Treasure Vault"

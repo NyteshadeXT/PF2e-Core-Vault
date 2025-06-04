@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragontooth-trophy"
 aliases: "Dragontooth Trophy"
 source: "Pathfinder Treasure Vault"

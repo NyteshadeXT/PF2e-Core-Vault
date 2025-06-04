@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "liquid-gold-(greater)"
 aliases: "Liquid Gold (Greater)"
 source: "Pathfinder #179: Cradle of Quartz"

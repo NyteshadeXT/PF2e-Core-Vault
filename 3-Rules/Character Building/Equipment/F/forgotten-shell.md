@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "forgotten-shell"
 aliases: "Forgotten Shell"
 source: "Pathfinder #161: Belly of the Black Whale"

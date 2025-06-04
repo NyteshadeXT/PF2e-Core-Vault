@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "exsanguinating-ammunition-(major)"
 aliases: "Exsanguinating Ammunition (Major)"
 source: "Pathfinder Guns & Gears"

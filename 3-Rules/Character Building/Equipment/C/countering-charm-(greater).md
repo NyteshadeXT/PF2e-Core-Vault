@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "countering-charm-(greater)"
 aliases: "Countering Charm (Greater)"
 source: "Pathfinder GM Core"

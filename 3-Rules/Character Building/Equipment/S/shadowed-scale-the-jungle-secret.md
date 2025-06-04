@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shadowed-scale-the-jungle-secret"
 aliases: "Shadowed Scale, the Jungle Secret"
 source: "Pathfinder #174: Shadows of the Ancients"

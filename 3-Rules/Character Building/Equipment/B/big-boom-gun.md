@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "big-boom-gun"
 aliases: "Big Boom Gun"
 source: "Pathfinder Guns & Gears"

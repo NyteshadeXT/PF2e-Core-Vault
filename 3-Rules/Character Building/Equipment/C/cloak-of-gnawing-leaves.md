@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cloak-of-gnawing-leaves"
 aliases: "Cloak of Gnawing Leaves"
 source: "Pathfinder #187: The Seventh Arch"

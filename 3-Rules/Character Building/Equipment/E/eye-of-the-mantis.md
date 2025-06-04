@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eye-of-the-mantis"
 aliases: "Eye of the Mantis"
 source: "Pathfinder Adventure: Prey for Death"

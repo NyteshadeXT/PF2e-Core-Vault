@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "static-muscular-relay"
 aliases: "Static Muscular Relay"
 source: "Pathfinder Lost Omens Rival Academies"

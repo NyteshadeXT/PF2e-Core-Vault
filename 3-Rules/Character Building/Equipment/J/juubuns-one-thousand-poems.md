@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "juubuns-one-thousand-poems"
 aliases: "Juubun's One Thousand Poems"
 source: "Pathfinder #198: No Breath to Cry"

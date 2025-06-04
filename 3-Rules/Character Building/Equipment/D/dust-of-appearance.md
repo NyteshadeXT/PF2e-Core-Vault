@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dust-of-appearance"
 aliases: "Dust of Appearance"
 source: "Pathfinder Core Rulebook"

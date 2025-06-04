@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "endless-grimoire-(greater)"
 aliases: "Endless Grimoire (Greater)"
 source: "Pathfinder Secrets of Magic"

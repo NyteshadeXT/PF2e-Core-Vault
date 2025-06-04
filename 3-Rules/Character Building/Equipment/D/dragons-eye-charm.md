@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragons-eye-charm"
 aliases: "Dragon's Eye Charm"
 source: "Pathfinder #146: Cult of Cinders"

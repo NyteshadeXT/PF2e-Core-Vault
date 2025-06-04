@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "songbirds-brush"
 aliases: "Songbird's Brush"
 source: "Pathfinder Kingmaker"

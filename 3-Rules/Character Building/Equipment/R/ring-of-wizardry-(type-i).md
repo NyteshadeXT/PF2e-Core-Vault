@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-wizardry-(type-i)"
 aliases: "Ring of Wizardry (Type I)"
 source: "Pathfinder Core Rulebook"

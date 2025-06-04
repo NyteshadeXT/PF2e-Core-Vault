@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "verdant-staff-(greater)"
 aliases: "Verdant Staff (Greater)"
 source: "Pathfinder GM Core"

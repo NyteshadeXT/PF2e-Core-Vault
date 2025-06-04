@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bracers-of-missile-deflection"
 aliases: "Bracers of Missile Deflection"
 source: "Pathfinder GM Core"

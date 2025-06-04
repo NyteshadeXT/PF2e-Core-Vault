@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "camouflage-suit-(superb)"
 aliases: "Camouflage Suit (Superb)"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pressure-bomb-(lesser)"
 aliases: "Pressure Bomb (Lesser)"
 source: "Pathfinder Special: Fumbus!"

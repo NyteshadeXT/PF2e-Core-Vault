@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "material-essence-disruptor-(major)"
 aliases: "Material Essence Disruptor (Major)"
 source: "Pathfinder Guns & Gears"

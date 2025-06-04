@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bristling-spines-(lesser)"
 aliases: "Bristling Spines (Lesser)"
 source: "Pathfinder Howl of the Wild"

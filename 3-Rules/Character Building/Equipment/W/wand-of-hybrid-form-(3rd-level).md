@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-hybrid-form-(3rd-level)"
 aliases: "Wand of Hybrid Form (3rd-level)"
 source: "Pathfinder Treasure Vault"

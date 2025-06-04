@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mat-of-resilience"
 aliases: "Mat of Resilience"
 source: "Pathfinder #209: Destroyer's Doom"

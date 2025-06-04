@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "battle-saddle"
 aliases: "Battle Saddle"
 source: "Pathfinder Treasure Vault"

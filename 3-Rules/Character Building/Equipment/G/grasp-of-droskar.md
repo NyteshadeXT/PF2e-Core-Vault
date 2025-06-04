@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grasp-of-droskar"
 aliases: "Grasp of Droskar"
 source: "Pathfinder Adventure: Crown of the Kobold King"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-protection-(greater)"
 aliases: "Staff of Protection (Greater)"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "uzunjati-storytelling-amulet"
 aliases: "Uzunjati Storytelling Amulet"
 source: "Pathfinder Lost Omens Rival Academies"

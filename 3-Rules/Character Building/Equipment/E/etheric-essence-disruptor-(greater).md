@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "etheric-essence-disruptor-(greater)"
 aliases: "Etheric Essence Disruptor (Greater)"
 source: "Pathfinder Guns & Gears"

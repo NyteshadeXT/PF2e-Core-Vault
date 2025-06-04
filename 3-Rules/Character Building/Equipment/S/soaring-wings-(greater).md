@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "soaring-wings-(greater)"
 aliases: "Soaring Wings (Greater)"
 source: "Pathfinder Treasure Vault"

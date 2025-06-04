@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "thunderbird-tuft-(lesser)"
 aliases: "Thunderbird Tuft (Lesser)"
 source: "Pathfinder Secrets of Magic"

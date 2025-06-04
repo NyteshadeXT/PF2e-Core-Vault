@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eternal-eruption-of-droskars-crag"
 aliases: "Eternal Eruption of Droskar's Crag"
 source: "Pathfinder GM Core"

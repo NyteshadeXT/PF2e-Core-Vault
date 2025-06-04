@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blessed-tattoo"
 aliases: "Blessed Tattoo"
 source: "Pathfinder Lost Omens World Guide"

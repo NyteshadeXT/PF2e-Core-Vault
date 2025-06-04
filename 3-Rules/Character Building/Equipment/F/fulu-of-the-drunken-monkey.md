@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fulu-of-the-drunken-monkey"
 aliases: "Fulu of the Drunken Monkey"
 source: "Pathfinder Secrets of Magic"

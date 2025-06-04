@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "smugglers-sack-(type-iv)"
 aliases: "Smuggler's Sack (Type IV)"
 source: "Pathfinder Lost Omens Firebrands"

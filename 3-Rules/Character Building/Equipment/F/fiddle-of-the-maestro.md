@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fiddle-of-the-maestro"
 aliases: "Fiddle of the Maestro"
 source: "Pathfinder Treasure Vault"

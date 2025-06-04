@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cube-of-force"
 aliases: "Cube of Force"
 source: "Pathfinder Lost Omens Impossible Lands"

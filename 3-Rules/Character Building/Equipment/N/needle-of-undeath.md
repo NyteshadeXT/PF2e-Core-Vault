@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "needle-of-undeath"
 aliases: "Needle of Undeath"
 source: "Pathfinder #209: Destroyer's Doom"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bone-dreadnought-plate"
 aliases: "Bone Dreadnought Plate"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scything-blade-snare"
 aliases: "Scything Blade Snare"
 source: "Pathfinder Player Core 2"

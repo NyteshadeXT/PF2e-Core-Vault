@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Valorus.png
+art: zz-Attachments/Valorus.png
 pronounced: Val-or-us
 aliases:
   - The General, Warbringer
@@ -153,6 +153,10 @@ Valorus’s network of relationships shapes his actions and influence in both th
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Valorus Holy Symbol.png]]
+> Holy Symbol of Valorus
+
 Valorus’s teachings emphasize discipline, honor, and the pursuit of victory through tactical prowess and bravery. Followers are encouraged to uphold principles of valor and chivalry, protecting the weak and defending their homeland with unwavering courage. Valorus teaches that war, while destructive, can also forge alliances, test mettle, and ensure survival in a hostile world. He stresses the importance of strategy in minimizing casualties and achieving decisive victories.
 
 The Church of Valorus is often found in military academies, barracks, and fortified citadels. Temples are designed as bastions of defense, featuring training grounds, armories, and halls adorned with trophies of past battles. The clergy, known as Battle-Masters, are seasoned warriors, tacticians, and commanders who dedicate their lives to preparing for war and imparting military wisdom.

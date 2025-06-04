@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "demolition-fulu-(moderate)"
 aliases: "Demolition Fulu (Moderate)"
 source: "Pathfinder Treasure Vault"

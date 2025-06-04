@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "four-tiger-blade"
 aliases: "Four-Tiger Blade"
 source: "Pathfinder #199: To Bloom Below the Web"

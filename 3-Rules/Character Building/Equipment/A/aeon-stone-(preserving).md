@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-(preserving)"
 aliases: "Aeon Stone (Preserving)"
 source: "Pathfinder GM Core"

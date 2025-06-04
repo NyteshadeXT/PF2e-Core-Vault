@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "musical-instrument-(virtuoso-handheld)"
 aliases: "Musical Instrument (Virtuoso handheld)"
 source: "Pathfinder Player Core"

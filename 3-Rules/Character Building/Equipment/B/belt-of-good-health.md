@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "belt-of-good-health"
 aliases: "Belt of Good Health"
 source: "Pathfinder Beginner Box"

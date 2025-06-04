@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "trackers-goggles"
 aliases: "Tracker's Goggles"
 source: "Pathfinder GM Core"

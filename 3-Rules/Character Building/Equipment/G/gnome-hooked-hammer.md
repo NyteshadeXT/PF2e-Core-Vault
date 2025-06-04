@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gnome-hooked-hammer"
 aliases: "Gnome Hooked Hammer"
 source: "Pathfinder Player Core"

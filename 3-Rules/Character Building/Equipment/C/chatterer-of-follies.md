@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "chatterer-of-follies"
 aliases: "Chatterer of Follies"
 source: "Pathfinder Secrets of Magic"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cindergrass-cloak"
 aliases: "Cindergrass Cloak"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fluid-form-staff-(major)"
 aliases: "Fluid Form Staff (Major)"
 source: "Pathfinder GM Core"

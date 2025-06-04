@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shuln-fang-katar"
 aliases: "Shuln Fang Katar"
 source: "Pathfinder Howl of the Wild"

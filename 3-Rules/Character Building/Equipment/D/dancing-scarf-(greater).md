@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dancing-scarf-(greater)"
 aliases: "Dancing Scarf (Greater)"
 source: "Pathfinder GM Core"

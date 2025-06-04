@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "singing-shortbow-(greater)"
 aliases: "Singing Shortbow (Greater)"
 source: "Pathfinder Secrets of Magic"

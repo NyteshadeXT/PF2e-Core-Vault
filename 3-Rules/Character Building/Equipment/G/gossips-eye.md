@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gossips-eye"
 aliases: "Gossip's Eye"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "reapers-grasp"
 aliases: "Reaper's Grasp"
 source: "Pathfinder Guns & Gears"

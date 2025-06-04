@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blazons-of-shared-power-(greater)"
 aliases: "Blazons of Shared Power (Greater)"
 source: "Pathfinder Guns & Gears"

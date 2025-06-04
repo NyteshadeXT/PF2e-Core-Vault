@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "verdant-branch"
 aliases: "Verdant Branch"
 source: "Pathfinder Treasure Vault"

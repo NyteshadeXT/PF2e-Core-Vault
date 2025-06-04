@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "quick-runners-shirt-(greater)"
 aliases: "Quick Runner's Shirt (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "thrasher-tail"
 aliases: "Thrasher Tail"
 source: "Pathfinder Treasure Vault"

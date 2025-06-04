@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "plate-of-yled-(true)"
 aliases: "Plate of Yled (True)"
 source: "Pathfinder Wake the Dead #5"

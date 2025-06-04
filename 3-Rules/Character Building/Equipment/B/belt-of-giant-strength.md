@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "belt-of-giant-strength"
 aliases: "Belt of Giant Strength"
 source: "Pathfinder Core Rulebook"

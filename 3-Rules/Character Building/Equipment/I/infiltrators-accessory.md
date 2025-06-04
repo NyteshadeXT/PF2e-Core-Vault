@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "infiltrators-accessory"
 aliases: "Infiltrator's Accessory"
 source: "Pathfinder Player Core 2"

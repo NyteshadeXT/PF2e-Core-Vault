@@ -2,14 +2,15 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "anchoring"
 aliases: "Anchoring"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -25,13 +26,13 @@ invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "This rune prevents enemies from escaping your grasp by [[Conditions/Fleeing|Fleeing]] to other planes. If you critically hit a target with an anchoring weapon, the weapon casts [[Spells/Planar Tether|Planar Tether]] on the target (DC 27 Will, counteract modifier +17)."
-powerTitle:
+description: "Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. These runes allow for in-depth customization of items. Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: potency runes add a bonus to either attack rolls or AC, striking runes add extra weapon damage dice, a resilient rune grants a bonus to saving throws. Property runes, by contrast, grant more varied effects—typically powers that are constant while the armor is worn or that take effect each time the inscribed item is used, such as a rune that grants energy resistance or one that adds fire damage to a weapon's attacks."
+powerTitle: "Anchoring"
 actionEconomy:
 type:
 frequency:
 trigger:
-mechanics:
+mechanics: "This rune prevents enemies from escaping your grasp by [[Fleeing]] to other planes. If you critically hit a target with an anchoring weapon, the weapon casts [[Planar Tether]] on the target (DC 27 Will, counteract modifier +17)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mail-of-luck"
 aliases: "Mail of Luck"
 source: "Pathfinder Core Rulebook"

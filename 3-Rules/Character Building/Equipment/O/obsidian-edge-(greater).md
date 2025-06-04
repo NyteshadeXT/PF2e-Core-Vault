@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "obsidian-edge-(greater)"
 aliases: "Obsidian Edge (Greater)"
 source: "Pathfinder Rage of Elements"

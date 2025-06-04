@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stampede-medallion-(major)"
 aliases: "Stampede Medallion (Major)"
 source: "Pathfinder Secrets of Magic"

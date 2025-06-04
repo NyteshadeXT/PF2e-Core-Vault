@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pernicious-spore-bomb-(greater)"
 aliases: "Pernicious Spore Bomb (Greater)"
 source: "Pathfinder #176: Lost Mammoth Valley"

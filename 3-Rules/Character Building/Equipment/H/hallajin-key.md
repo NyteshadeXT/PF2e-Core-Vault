@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hallajin-key"
 aliases: "Hallajin Key"
 source: "Pathfinder Society Scenario #4-11: Prisoners of the Electric Castle"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "specialists-ring-(illusion)"
 aliases: "Specialist's Ring (Illusion)"
 source: "Pathfinder Secrets of Magic"

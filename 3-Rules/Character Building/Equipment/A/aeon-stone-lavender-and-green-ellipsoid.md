@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-lavender-and-green-ellipsoid"
 aliases: "Aeon Stone (Lavender and Green Ellipsoid)"
 source: "Pathfinder Core Rulebook"

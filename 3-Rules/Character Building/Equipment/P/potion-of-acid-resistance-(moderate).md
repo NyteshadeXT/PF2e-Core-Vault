@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potion-of-acid-resistance-(moderate)"
 aliases: "Potion of Acid Resistance (Moderate)"
 source: "Pathfinder GM Core"

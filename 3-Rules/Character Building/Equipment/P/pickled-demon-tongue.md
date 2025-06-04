@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pickled-demon-tongue"
 aliases: "Pickled Demon Tongue"
 source: "Pathfinder #188: They Watched the Stars"

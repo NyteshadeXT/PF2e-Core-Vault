@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rending-gauntlets-(greater)"
 aliases: "Rending Gauntlets (Greater)"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

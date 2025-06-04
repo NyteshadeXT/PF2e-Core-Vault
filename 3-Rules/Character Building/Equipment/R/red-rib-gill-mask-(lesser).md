@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "red-rib-gill-mask-(lesser)"
 aliases: "Red-Rib Gill Mask (Lesser)"
 source: "Pathfinder #171: Hurricane's Howl"

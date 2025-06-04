@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "necrotic-bomb-(major)"
 aliases: "Necrotic Bomb (Major)"
 source: "Pathfinder #165: Eyes of Empty Death"

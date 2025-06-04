@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-clear-quartz-octagon"
 aliases: "Aeon Stone (Clear Quartz Octagon)"
 source: "Pathfinder #179: Cradle of Quartz"

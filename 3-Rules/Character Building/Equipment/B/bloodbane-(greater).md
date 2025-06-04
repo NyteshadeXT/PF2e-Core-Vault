@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bloodbane-(greater)"
 aliases: "Bloodbane (Greater)"
 source: "Pathfinder #148: Fires of the Haunted City"

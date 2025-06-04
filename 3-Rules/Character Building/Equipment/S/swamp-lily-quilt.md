@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "swamp-lily-quilt"
 aliases: "Swamp Lily Quilt"
 source: "Pathfinder Lost Omens Legends"

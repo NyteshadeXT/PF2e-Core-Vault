@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "silversoul-bomb-(greater)"
 aliases: "Silversoul Bomb (Greater)"
 source: "Pathfinder #199: To Bloom Below the Web"

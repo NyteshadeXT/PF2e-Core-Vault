@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "humbug-pocket-(greater)"
 aliases: "Humbug Pocket (Greater)"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "metronomic-hammer"
 aliases: "Metronomic Hammer"
 source: "Pathfinder #179: Cradle of Quartz"

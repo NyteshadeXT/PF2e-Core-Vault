@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "instinct-crown-(superstition)"
 aliases: "Instinct Crown (Superstition)"
 source: "Pathfinder Treasure Vault"

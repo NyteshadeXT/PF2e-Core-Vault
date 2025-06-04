@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "feather-token-(chest)-(ammunition)"
 aliases: "Feather Token (Chest) (Ammunition)"
 source: "Pathfinder Core Rulebook"

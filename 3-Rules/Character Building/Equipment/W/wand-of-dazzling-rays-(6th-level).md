@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-dazzling-rays-(6th-level)"
 aliases: "Wand of Dazzling Rays (6th-level)"
 source: "Pathfinder Treasure Vault"

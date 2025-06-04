@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tangibility-resonator-(major)"
 aliases: "Tangibility Resonator (Major)"
 source: "Pathfinder Lost Omens Rival Academies"

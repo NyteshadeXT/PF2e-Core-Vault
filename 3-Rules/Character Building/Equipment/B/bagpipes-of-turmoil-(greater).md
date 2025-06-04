@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bagpipes-of-turmoil-(greater)"
 aliases: "Bagpipes of Turmoil (Greater)"
 source: "Pathfinder Treasure Vault"

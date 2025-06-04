@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bougainvillea-blossom-(lesser)"
 aliases: "Bougainvillea Blossom (Lesser)"
 source: "Pathfinder #202: Severed at the Root"

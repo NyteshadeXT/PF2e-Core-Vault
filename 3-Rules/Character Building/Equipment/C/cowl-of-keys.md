@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cowl-of-keys"
 aliases: "Cowl of Keys"
 source: "Pathfinder #192: Worst of All Possible Worlds"

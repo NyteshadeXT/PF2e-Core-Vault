@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ouroboros-flail-(major)"
 aliases: "Ouroboros Flail (Major)"
 source: "Pathfinder Secrets of Magic"

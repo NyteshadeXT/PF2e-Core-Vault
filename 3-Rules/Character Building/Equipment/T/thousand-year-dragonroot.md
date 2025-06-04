@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "thousand-year-dragonroot"
 aliases: "Thousand-Year Dragonroot"
 source: "Pathfinder #199: To Bloom Below the Web"

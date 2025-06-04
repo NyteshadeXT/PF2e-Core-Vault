@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rainbow-vinegar-(greater)"
 aliases: "Rainbow Vinegar (Greater)"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

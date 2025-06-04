@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "skeptics-elixir-(moderate)"
 aliases: "Skeptic's Elixir (Moderate)"
 source: "Pathfinder #163: Ruins of Gauntlight"

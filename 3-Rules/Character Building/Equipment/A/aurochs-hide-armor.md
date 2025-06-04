@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aurochs-hide-armor"
 aliases: "Aurochs Hide Armor"
 source: "Pathfinder #209: Destroyer's Doom"

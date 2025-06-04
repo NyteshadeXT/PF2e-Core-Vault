@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "zealot-staff"
 aliases: "Zealot Staff"
 source: "Pathfinder Treasure Vault"

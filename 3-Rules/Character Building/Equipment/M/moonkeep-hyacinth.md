@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "moonkeep-hyacinth"
 aliases: "Moonkeep Hyacinth"
 source: "Pathfinder #213: Thirst for Blood"

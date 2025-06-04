@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "armory-bracelet-(major)"
 aliases: "Armory Bracelet (Major)"
 source: "Pathfinder Treasure Vault"

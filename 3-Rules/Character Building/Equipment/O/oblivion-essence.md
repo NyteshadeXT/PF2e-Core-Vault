@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oblivion-essence"
 aliases: "Oblivion Essence"
 source: "Pathfinder #149: Against the Scarlet Triad"

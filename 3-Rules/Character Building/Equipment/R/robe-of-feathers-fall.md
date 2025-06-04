@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "robe-of-feathers-fall"
 aliases: "Robe of Feathers Fall"
 source: "Pathfinder Blog: April Fools"

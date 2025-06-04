@@ -28,6 +28,7 @@ license: ""
 identify: ""
 description: ""
 craft: 
+destruction: 
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -79,7 +80,6 @@ weaponCategory:
 #                    ARMOR PROPERTIES                    #
 #========================================================#
 baseAC: 
-modAC: 
 dexCap: 
 strRequirement: 
 checkPenalty: 

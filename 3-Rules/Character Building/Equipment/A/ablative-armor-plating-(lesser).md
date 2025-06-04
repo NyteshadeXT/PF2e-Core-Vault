@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ablative-armor-plating-(lesser)"
 aliases: "Ablative Armor Plating (Lesser)"
 source: "Pathfinder Guns & Gears"

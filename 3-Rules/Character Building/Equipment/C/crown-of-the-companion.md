@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crown-of-the-companion"
 aliases: "Crown of the Companion"
 source: "Pathfinder Treasure Vault"

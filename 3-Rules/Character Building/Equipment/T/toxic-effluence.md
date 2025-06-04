@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "toxic-effluence"
 aliases: "Toxic Effluence"
 source: "Pathfinder #195: Heavy is the Crown"

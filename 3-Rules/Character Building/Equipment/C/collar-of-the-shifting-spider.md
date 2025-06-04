@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "collar-of-the-shifting-spider"
 aliases: "Collar of the Shifting Spider"
 source: "Pathfinder Treasure Vault"

@@ -88,7 +88,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > SORT file.name ASC
 
 ## Overview
-References to the Old Gods abound since the Sundering.  This encompasses any deities which are believed to have died or fled Aetheria. It's impossible for followers to gain divine magic from these deities directly, however, if their belief in the deific cause is strong enough followers may gain spells from the power of this belief and ascribe it to the deity in question.
+References to the Old Gods abound since the Sundering.  This encompasses any deities which are believed to have died or fled Aetheria. It's impossible for followers to gain divine magic from these deities directly, however, if their belief in the deific cause is strong enough followers may gain spells from the power of this belief and ascribe it to the deity in question.  Alternately, some of the more unscrupulous deities may deign to grant these "followers" their powers.  Why they would do that is, of course, beyond the minds of mortals.
 
 > [!column|2 no-title]
 >
@@ -104,17 +104,6 @@ References to the Old Gods abound since the Sundering.  This encompasses any dei
 >
 >> [!metadata|symbol] Symbol
 > `VIEW[{symbol}][text]`
-
-## Dogma
-### Example #1
-
-> [!kirk|info] Prompt (Remove me)
-> Unravel the ambitions and objectives that drive this deity forward. Explore their overarching goals, whether it involves maintaining cosmic balance, guiding mortals, seeking enlightenment, or pursuing other divine endeavors. Describe how their goals align with their principles and domain. Do they seek to expand their influence, uphold certain values, or achieve specific milestones? How do these goals shape their interactions with mortals, other deities, and the world at large?
-
-## Acquaintances
-
-> [!kirk|info] Prompt (Remove me)
-Map out the network of relationships surrounding this deity. Detail their friendships, rivalries, and adversaries among other divine entities and characters. Describe how these relationships have shaped the deity's history, principles, and current actions. Furthermore, explore the organizations, influential figures, or powerful beings that worship or venerate this deity. How do these groups perceive the deity, and what roles do they play in the deity's sphere of influence? Detail the nature of these connections and how they impact the deity's interactions with mortals and other divine beings.
 
 ## Current Events
 

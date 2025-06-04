@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "banquet-of-hungry-ghosts"
 aliases: "Banquet of Hungry Ghosts"
 source: "Pathfinder Book of the Dead"

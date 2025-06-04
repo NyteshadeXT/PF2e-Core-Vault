@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-legerdemain-(9th-level)"
 aliases: "Wand of Legerdemain (9th-level)"
 source: "Pathfinder Treasure Vault"

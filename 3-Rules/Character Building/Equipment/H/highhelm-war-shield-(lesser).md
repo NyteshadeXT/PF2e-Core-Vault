@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "highhelm-war-shield-(lesser)"
 aliases: "Highhelm War Shield (Lesser)"
 source: "Pathfinder Lost Omens Highhelm"

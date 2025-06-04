@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "quickmelt-slick-(moderate)"
 aliases: "Quickmelt Slick (Moderate)"
 source: "Pathfinder #176: Lost Mammoth Valley"

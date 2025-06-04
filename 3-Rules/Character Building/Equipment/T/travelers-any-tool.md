@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "travelers-any-tool"
 aliases: "Traveler's Any-Tool"
 source: "Pathfinder GM Core"

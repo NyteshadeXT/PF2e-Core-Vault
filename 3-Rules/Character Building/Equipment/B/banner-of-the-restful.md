@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "banner-of-the-restful"
 aliases: "Banner of the Restful"
 source: "Pathfinder Lost Omens Knights of Lastwall"

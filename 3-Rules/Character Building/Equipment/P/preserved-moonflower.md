@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "preserved-moonflower"
 aliases: "Preserved Moonflower"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

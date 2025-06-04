@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clay-sphere"
 aliases: "Clay Sphere"
 source: "Pathfinder #202: Severed at the Root"

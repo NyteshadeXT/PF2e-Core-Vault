@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "energy-breath-potion-(fire-lesser)"
 aliases: "Energy Breath Potion (Fire, Lesser)"
 source: "Pathfinder GM Core"

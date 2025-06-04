@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "defoliation-bomb-(greater)"
 aliases: "Defoliation Bomb (Greater)"
 source: "Pathfinder #202: Severed at the Root"

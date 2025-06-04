@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bow-of-sun-slaying"
 aliases: "Bow of Sun Slaying"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

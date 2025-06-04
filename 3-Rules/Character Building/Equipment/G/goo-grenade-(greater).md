@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "goo-grenade-(greater)"
 aliases: "Goo Grenade (Greater)"
 source: "Pathfinder Lost Omens Impossible Lands"

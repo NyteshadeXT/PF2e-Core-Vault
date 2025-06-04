@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shobhad-longrifle"
 aliases: "Shobhad Longrifle"
 source: "Pathfinder #173: Doorway to the Red Star"

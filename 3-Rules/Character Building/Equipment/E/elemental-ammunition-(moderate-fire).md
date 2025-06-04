@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elemental-ammunition-(moderate-fire)"
 aliases: "Elemental Ammunition (Moderate, Fire)"
 source: "Pathfinder Treasure Vault"

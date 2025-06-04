@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "peace-in-dreams-tea"
 aliases: "Peace in Dreams Tea"
 source: "Pathfinder #197: Let the Leaves Fall"

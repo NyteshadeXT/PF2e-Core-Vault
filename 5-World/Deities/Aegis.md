@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Aegis.png
+art: zz-Attachments/Aegis.png
 pronounced: A-gee-iss
 aliases:
   - Lord Protector
@@ -94,7 +94,6 @@ alignment: Lawful Neutral
 
 ## Overview
 **God of Protection and Vigilance** 
-
 Aegis wields dominion over shields, wards, and protective magics. He have the power to form barriers against all forms of harm, enhance fortifications, and bless defenders with resilience and courage. Aegis can sense threats from great distances and grant their followers the insight to see through deception and foresee danger. He also possess the ability to bolster mortal and divine guardians alike, imbuing them with unwavering determination and indomitable strength.  He is known to manifest in moments of crisis as a spectral shield or a wall of light that deflects attacks or shields the vulnerable. Sometimes, he will appear as a protective guardian spirit in dreams, warning of impending threats or guiding lost souls to safety.
 
 Aegis occupies a crucial position among the gods, serving as the eternal guardian and watchful sentinel of the divine realm and mortal world. A trusted figure, Aegis is often called upon to arbitrate conflicts or protect weaker deities and mortals from external threats. In the cosmic hierarchy, he serves as a counterbalance to deities of chaos, destruction, and change, like [[Kataklysmos]] and [[Zerathos]]. Aegis is often allied with gods of order, justice, and life, such as [[Aurelius]] and [[Elara]], forming a protective triad that champions stability and the preservation of life.
@@ -177,6 +176,10 @@ Aegis views [[Zerathos]] as a dangerous and unpredictable adversary. While not d
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Aegis Holy Symbol.png]]
+> Holy Symbol of Aegis
+
 The Church of Aegis is often found in fortified temples and watchtowers, symbolizing their role as protectors. Temples are designed as bastions of safety, providing refuge for the needy and training grounds for guardians. The clergy, known as Wardens, are dedicated to the protection of their communities and the training of new defenders.
 
 Aegis's teachings focus on the importance of protection and the duty to guard those who cannot defend themselves. His followers are encouraged to remain ever vigilant, ready to stand against any threat. The ideals of bravery, sacrifice, and unwavering duty are central to his faith. Aegis teaches that true strength lies in the defense of others and that vigilance is the key to maintaining peace and safety.

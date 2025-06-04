@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "knights-maintenance-kit"
 aliases: "Knight's Maintenance Kit"
 source: "Pathfinder Lost Omens Knights of Lastwall"

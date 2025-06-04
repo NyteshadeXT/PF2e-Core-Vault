@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cultist-cowl-(major)"
 aliases: "Cultist Cowl (Major)"
 source: "Pathfinder #200: Seven Dooms for Sandpoint"

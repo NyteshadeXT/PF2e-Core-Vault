@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "laurel-of-the-empath"
 aliases: "Laurel of the Empath"
 source: "Pathfinder Treasure Vault"

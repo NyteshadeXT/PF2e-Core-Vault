@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "conch-of-otherworldly-seas"
 aliases: "Conch of Otherworldly Seas"
 source: "Pathfinder Rage of Elements"

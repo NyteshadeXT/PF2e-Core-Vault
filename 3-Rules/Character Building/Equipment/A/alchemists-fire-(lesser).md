@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "alchemists-fire-(lesser)"
 aliases: "Alchemist's Fire (Lesser)"
 source: "Pathfinder GM Core"

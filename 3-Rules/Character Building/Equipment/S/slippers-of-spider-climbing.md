@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "slippers-of-spider-climbing"
 aliases: "Slippers of Spider Climbing"
 source: "Pathfinder Core Rulebook"

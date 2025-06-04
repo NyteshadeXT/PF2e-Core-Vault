@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "energy-robe-of-fire"
 aliases: "Energy Robe of Fire"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "snowshoes-of-the-long-trek"
 aliases: "Snowshoes of the Long Trek"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

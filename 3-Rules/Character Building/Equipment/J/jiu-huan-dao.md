@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jiu-huan-dao"
 aliases: "Jiu Huan Dao"
 source: "Pathfinder Treasure Vault"

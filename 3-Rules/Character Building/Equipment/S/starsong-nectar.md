@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "starsong-nectar"
 aliases: "Starsong Nectar"
 source: "Pathfinder Treasure Vault"

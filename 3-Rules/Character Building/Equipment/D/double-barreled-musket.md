@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "double-barreled-musket"
 aliases: "Double-Barreled Musket"
 source: "Pathfinder Guns & Gears"

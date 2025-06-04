@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "scholars-drop"
 aliases: "Scholar's Drop"
 source: "Pathfinder Treasure Vault"

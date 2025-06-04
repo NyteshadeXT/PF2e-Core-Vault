@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spider-mold"
 aliases: "Spider Mold"
 source: "Pathfinder One-Shot #2: Dinner at Lionlodge"

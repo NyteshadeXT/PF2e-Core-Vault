@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eidolon-cape"
 aliases: "Eidolon Cape"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fulu-of-concealment"
 aliases: "Fulu of Concealment"
 source: "Pathfinder Secrets of Magic"

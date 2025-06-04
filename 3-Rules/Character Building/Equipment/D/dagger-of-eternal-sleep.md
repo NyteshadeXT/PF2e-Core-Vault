@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dagger-of-eternal-sleep"
 aliases: "Dagger of Eternal Sleep"
 source: "Pathfinder Lost Omens Gods & Magic"

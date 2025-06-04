@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gecko-pads-(greater)"
 aliases: "Gecko Pads (Greater)"
 source: "Pathfinder Guns & Gears"

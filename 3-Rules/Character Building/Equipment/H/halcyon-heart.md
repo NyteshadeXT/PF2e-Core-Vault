@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "halcyon-heart"
 aliases: "Halcyon Heart"
 source: "Pathfinder #174: Shadows of the Ancients"

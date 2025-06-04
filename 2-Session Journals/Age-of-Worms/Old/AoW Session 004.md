@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 whichparty: "[[Age of Worms Party Dashboard]]"
 sessiondate: 2025-02-06
 quicknote: The players talk to Alustan and journey back to the Whispering Carin.

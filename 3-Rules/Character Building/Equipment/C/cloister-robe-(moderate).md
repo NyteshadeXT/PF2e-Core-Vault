@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cloister-robe-(moderate)"
 aliases: "Cloister Robe (Moderate)"
 source: "Pathfinder Treasure Vault"

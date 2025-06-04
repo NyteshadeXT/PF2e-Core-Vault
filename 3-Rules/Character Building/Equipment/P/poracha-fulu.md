@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "poracha-fulu"
 aliases: "Poracha Fulu"
 source: "Pathfinder Treasure Vault"

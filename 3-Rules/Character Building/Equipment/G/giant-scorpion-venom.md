@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "giant-scorpion-venom"
 aliases: "Giant Scorpion Venom"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sense-dulling-hood-(lesser)"
 aliases: "Sense-Dulling Hood (Lesser)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "green-wyrmling-breath-potion"
 aliases: "Green Wyrmling Breath Potion"
 source: "Pathfinder Beginner Box"

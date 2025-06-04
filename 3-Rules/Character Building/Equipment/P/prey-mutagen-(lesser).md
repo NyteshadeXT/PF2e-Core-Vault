@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "prey-mutagen-(lesser)"
 aliases: "Prey Mutagen (Lesser)"
 source: "Pathfinder #194: Cult of the Cave Worm"

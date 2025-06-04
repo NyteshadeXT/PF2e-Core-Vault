@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "redeemers-pistol"
 aliases: "Redeemer's Pistol"
 source: "Pathfinder #180: The Smoking Gun"

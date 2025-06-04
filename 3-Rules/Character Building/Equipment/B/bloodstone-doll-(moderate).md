@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bloodstone-doll-(moderate)"
 aliases: "Bloodstone Doll (Moderate)"
 source: "Pathfinder Lost Omens Rival Academies"

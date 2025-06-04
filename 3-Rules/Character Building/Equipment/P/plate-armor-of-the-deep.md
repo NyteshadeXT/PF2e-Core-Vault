@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "plate-armor-of-the-deep"
 aliases: "Plate Armor of the Deep"
 source: "Pathfinder Core Rulebook"

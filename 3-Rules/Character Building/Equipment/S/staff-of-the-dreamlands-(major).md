@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-the-dreamlands-(major)"
 aliases: "Staff of the Dreamlands (Major)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

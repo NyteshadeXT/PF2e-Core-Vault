@@ -2,16 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "amulet-of-the-third-eye"
 aliases: "Amulet of the Third Eye"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "102"
 rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,13 +26,13 @@ invest:
 usage: "wornamulet"
 license: "ORC"
 identify:
-description: "This large brass medallion hangs low on the torso. It's shaped in the form of an unblinking eye, with a ring of turquoise as the iris and an orb of jet serving as the pupil. The amulet grants you a +2 item bonus to Perception checks. When you invest the amulet, you either increase your Wisdom score by 2 or increase it to 18, whichever is higher.  **Activate** `pf2:2` envision  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Truesight|Truesight]]."
-powerTitle:
-actionEconomy:
+description: "This large brass medallion hangs low on the torso. It's shaped in the form of an unblinking eye, with a ring of turquoise as the iris and an orb of jet serving as the pupil. The amulet grants you a +2 item bonus to Perception checks. When you invest the amulet, you either increase your Wisdom score by 2 or increase it to 18, whichever is higher.  "
+powerTitle: "Effect"
+actionEconomy: 2
 type:
-frequency:
+frequency: "once per day"
 trigger:
-mechanics:
+mechanics: "You cast [[Truesight]]."
 powerTitle2:
 actionEconomy2:
 type2:

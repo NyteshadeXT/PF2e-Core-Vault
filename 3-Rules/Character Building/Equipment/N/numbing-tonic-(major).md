@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "numbing-tonic-(major)"
 aliases: "Numbing Tonic (Major)"
 source: "Pathfinder Treasure Vault"

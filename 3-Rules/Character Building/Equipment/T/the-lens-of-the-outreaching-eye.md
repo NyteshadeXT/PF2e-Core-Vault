@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "the-lens-of-the-outreaching-eye"
 aliases: "The Lens of the Outreaching Eye"
 source: "Pathfinder #191: The Destiny War"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "inspiring-spotlight-(mounted)"
 aliases: "Inspiring Spotlight (Mounted)"
 source: "Pathfinder Lost Omens Rival Academies"

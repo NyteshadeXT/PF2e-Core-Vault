@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - A Watery Grave
 whichparty: "[[Age of Worms Party Dashboard]]"

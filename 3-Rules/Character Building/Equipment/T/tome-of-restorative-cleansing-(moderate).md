@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tome-of-restorative-cleansing-(moderate)"
 aliases: "Tome of Restorative Cleansing (Moderate)"
 source: "Pathfinder Treasure Vault"

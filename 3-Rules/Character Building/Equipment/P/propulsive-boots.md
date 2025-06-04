@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "propulsive-boots"
 aliases: "Propulsive Boots"
 source: "Pathfinder GM Core"

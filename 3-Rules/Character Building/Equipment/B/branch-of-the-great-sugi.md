@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "branch-of-the-great-sugi"
 aliases: "Branch of the Great Sugi"
 source: "Pathfinder #197: Let the Leaves Fall"

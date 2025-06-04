@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stage-fright-missive"
 aliases: "Stage Fright Missive"
 source: "Pathfinder Treasure Vault"

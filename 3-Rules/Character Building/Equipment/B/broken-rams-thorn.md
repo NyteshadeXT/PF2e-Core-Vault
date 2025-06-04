@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "broken-rams-thorn"
 aliases: "Broken Ram's Thorn"
 source: "Pathfinder Howl of the Wild"

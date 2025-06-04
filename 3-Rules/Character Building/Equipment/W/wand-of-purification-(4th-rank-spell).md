@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-purification-(4th-rank-spell)"
 aliases: "Wand of Purification (4th-Rank Spell)"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

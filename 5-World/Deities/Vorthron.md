@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Vorthron.png
+art: zz-Attachments/Vorthron.png
 pronounced: Vor-thron
 aliases:
   - The Tyrant, Lord of Fear
@@ -166,6 +166,10 @@ Vorthron views [[Thalor]] with disdain, as the wisdom [[Thalor]] imparts often l
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Vorthron Holy Symbol.png]]
+> Holy Symbol of Vorthron
+
 Vorthron's teachings revolve around the absolute control of power through fear, cruelty, and domination. His followers are encouraged to rule with an iron fist, using terror and violence to maintain their authority. Acts of revenge are seen as just and necessary to uphold one's honor and power. Vorthron teaches that mercy is a weakness, and true strength lies in the ability to instill fear and command unwavering obedience.
 
 The Church of Vorthron operates in fortified strongholds and dark citadels, where the atmosphere is thick with fear and oppression. Temples are adorned with symbols of power and bloodshed, serving as centers for dark rituals and the enforcement of tyranny. The clergy, known as Enforcers, are brutal leaders and skilled torturers who revel in the infliction of pain and terror.

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blade-of-fallen-stars"
 aliases: "Blade of Fallen Stars"
 source: "Pathfinder Lost Omens Highhelm"

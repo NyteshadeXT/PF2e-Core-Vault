@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "nail-bomb-(major)"
 aliases: "Nail Bomb (Major)"
 source: "Pathfinder #202: Severed at the Root"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "nostalgic-pot"
 aliases: "Nostalgic Pot"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

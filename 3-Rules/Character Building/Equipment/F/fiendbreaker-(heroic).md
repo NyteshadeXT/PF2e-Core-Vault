@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fiendbreaker-(heroic)"
 aliases: "Fiendbreaker (Heroic)"
 source: "Pathfinder #212: A Voice in the Blight"

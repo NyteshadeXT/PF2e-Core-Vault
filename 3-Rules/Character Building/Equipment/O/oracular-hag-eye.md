@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oracular-hag-eye"
 aliases: "Oracular Hag Eye"
 source: "Pathfinder #182: Graveclaw"

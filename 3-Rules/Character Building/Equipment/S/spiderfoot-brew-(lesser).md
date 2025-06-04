@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spiderfoot-brew-(lesser)"
 aliases: "Spiderfoot Brew (Lesser)"
 source: "Pathfinder Treasure Vault"

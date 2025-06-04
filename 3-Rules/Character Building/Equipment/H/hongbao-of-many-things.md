@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hongbao-of-many-things"
 aliases: "Hongbao of Many Things"
 source: "Pathfinder Blog"

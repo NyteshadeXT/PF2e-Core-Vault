@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sakuras-sprig"
 aliases: "Sakura's Sprig"
 source: "Pathfinder Society Scenario #6-05: Silver Bark, Golden Blades"

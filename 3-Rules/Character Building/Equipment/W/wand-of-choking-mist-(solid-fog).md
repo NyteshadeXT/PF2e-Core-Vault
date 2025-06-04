@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-choking-mist-(solid-fog)"
 aliases: "Wand of Choking Mist (Solid Fog)"
 source: "Pathfinder Treasure Vault"

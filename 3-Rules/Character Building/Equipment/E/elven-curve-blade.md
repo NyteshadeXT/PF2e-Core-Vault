@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elven-curve-blade"
 aliases: "Elven Curve Blade"
 source: "Pathfinder Player Core"

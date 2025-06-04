@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bullhook-(greater)"
 aliases: "Bullhook (Greater)"
 source: "Pathfinder #152: Legacy of the Lost God"

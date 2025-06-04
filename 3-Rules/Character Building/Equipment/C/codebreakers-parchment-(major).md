@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "codebreakers-parchment-(major)"
 aliases: "Codebreaker's Parchment (Major)"
 source: "Pathfinder Secrets of Magic"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "flawed-orb-of-gold-dragonkind"
 aliases: "Flawed Orb of Gold Dragonkind"
 source: "Pathfinder #150: Broken Promises"

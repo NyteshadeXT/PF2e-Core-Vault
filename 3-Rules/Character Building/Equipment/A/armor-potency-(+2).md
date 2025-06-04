@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "armor-potency-(+2)"
 aliases: "Armor Potency (+2)"
 source: "Pathfinder GM Core"

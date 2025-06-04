@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lawbringers-lasso"
 aliases: "Lawbringer's Lasso"
 source: "Pathfinder #180: The Smoking Gun"

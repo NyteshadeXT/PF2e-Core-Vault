@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-splintered-sorrows-(rank-4)"
 aliases: "Wand Of Splintered Sorrows (Rank 4)"
 source: "Pathfinder #202: Severed at the Root"

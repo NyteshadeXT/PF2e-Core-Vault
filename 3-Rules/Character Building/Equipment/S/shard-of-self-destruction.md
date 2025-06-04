@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shard-of-self-destruction"
 aliases: "Shard of Self-Destruction"
 source: "Pathfinder War of Immortals"

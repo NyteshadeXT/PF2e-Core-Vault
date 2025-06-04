@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "deployable-cover-(ballistic-cover)"
 aliases: "Deployable Cover (Ballistic Cover)"
 source: "Pathfinder Guns & Gears"

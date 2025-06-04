@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "thousand-pains-fulu-(burl)"
 aliases: "Thousand-Pains Fulu (Burl)"
 source: "Pathfinder Treasure Vault"

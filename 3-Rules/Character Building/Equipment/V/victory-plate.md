@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "victory-plate"
 aliases: "Victory Plate"
 source: "Pathfinder Advanced Player's Guide"

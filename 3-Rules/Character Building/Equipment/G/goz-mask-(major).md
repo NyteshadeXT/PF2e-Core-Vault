@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "goz-mask-(major)"
 aliases: "Goz Mask (Major)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "candle-of-inflamed-passions"
 aliases: "Candle of Inflamed Passions"
 source: "Pathfinder Rage of Elements"

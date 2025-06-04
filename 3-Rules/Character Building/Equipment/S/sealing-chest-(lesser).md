@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sealing-chest-(lesser)"
 aliases: "Sealing Chest (Lesser)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

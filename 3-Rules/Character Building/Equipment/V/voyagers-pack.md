@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "voyagers-pack"
 aliases: "Voyager's Pack"
 source: "Pathfinder GM Core"

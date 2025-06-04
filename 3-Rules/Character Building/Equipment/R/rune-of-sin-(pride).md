@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rune-of-sin-(pride)"
 aliases: "Rune of Sin (Pride)"
 source: "Pathfinder Secrets of Magic"

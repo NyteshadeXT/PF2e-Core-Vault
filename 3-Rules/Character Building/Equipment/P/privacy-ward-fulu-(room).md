@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "privacy-ward-fulu-(room)"
 aliases: "Privacy Ward Fulu (Room)"
 source: "Pathfinder #196: The Summer That Never Was"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "panaceatic-salve"
 aliases: "Panaceatic Salve"
 source: "Pathfinder #199: To Bloom Below the Web"

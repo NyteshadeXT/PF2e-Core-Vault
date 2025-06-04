@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sonic-tuning-mace"
 aliases: "Sonic Tuning Mace"
 source: "Pathfinder Secrets of Magic"

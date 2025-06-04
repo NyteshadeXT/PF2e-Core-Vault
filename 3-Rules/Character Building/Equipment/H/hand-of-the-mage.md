@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hand-of-the-mage"
 aliases: "Hand of the Mage"
 source: "Pathfinder Core Rulebook"

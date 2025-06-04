@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elemental-ammunition-(greater-electricity)"
 aliases: "Elemental Ammunition (Greater, Electricity)"
 source: "Pathfinder Treasure Vault"

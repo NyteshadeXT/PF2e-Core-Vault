@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "judgment-thurible-(greater)"
 aliases: "Judgment Thurible (Greater)"
 source: "Pathfinder Treasure Vault"

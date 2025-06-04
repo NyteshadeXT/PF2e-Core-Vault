@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Liriel.png
+art: zz-Attachments/Liriel.png
 pronounced: Lie-re-el
 aliases:
   - The Wanderer, Lady of Journeys, Lady Luck
@@ -165,6 +165,10 @@ Liriel's relationships have shaped her history and principles in many ways. Her 
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Liriel Holy Symbol.png]]
+> Holy Symbol of Liriel
+
 Liriel's teachings emphasize the importance of exploration, the joy of discovery, and the value of the journey itself. Followers are encouraged to seek out new experiences, embrace change, and push beyond their comfort zones. Liriel teaches that the world is vast and filled with wonders waiting to be discovered, and that personal growth comes from venturing into the unknown. She also stresses the importance of respect for the lands and cultures encountered during travels.
 
 Temples dedicated to Liriel are often found at crossroads, ports, mountain passes, and city gates—places of transition and movement. They are designed to be welcoming places for travelers, offering maps, supplies, and guidance for their journeys. Her shrines are often simple, little more than waystones or markers adorned with her symbols, and can be found along well-traveled roads, forest paths, and even deep wilderness. These shrines usually feature offerings of coins, flowers, and items left by travelers seeking her blessing.

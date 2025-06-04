@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tusk-and-fang-chain"
 aliases: "Tusk and Fang Chain"
 source: "Pathfinder #167: Ready? Fight!"

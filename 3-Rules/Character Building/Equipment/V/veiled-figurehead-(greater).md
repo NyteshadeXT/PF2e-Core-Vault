@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "veiled-figurehead-(greater)"
 aliases: "Veiled Figurehead (Greater)"
 source: "Pathfinder Rage of Elements"

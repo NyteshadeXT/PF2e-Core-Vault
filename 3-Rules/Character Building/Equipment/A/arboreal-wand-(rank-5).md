@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "arboreal-wand-(rank-5)"
 aliases: "Arboreal Wand (Rank 5)"
 source: "Pathfinder #201: Pactbreaker"

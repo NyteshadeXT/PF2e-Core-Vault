@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-teeming-ghosts-(5th-rank-spell)"
 aliases: "Wand of Teeming Ghosts (5th-Rank Spell)"
 source: "Pathfinder Treasure Vault"

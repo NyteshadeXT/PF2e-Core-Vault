@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "green-dragons-breath-potion-(wyrm)"
 aliases: "Green Dragon's Breath Potion (Wyrm)"
 source: "Pathfinder Core Rulebook"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "buzzsaw-axe-(major)"
 aliases: "Buzzsaw Axe (Major)"
 source: "Pathfinder Secrets of Magic"

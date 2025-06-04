@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rune-of-sin-(greed)"
 aliases: "Rune of Sin (Greed)"
 source: "Pathfinder Secrets of Magic"

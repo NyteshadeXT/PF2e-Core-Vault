@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "surging-serum-(minor)"
 aliases: "Surging Serum (Minor)"
 source: "Pathfinder Player Core 2"

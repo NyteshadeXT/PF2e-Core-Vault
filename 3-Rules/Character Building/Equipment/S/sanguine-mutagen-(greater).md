@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sanguine-mutagen-(greater)"
 aliases: "Sanguine Mutagen (Greater)"
 source: "Pathfinder Treasure Vault"

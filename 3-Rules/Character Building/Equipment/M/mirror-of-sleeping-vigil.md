@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mirror-of-sleeping-vigil"
 aliases: "Mirror of Sleeping Vigil"
 source: "Pathfinder Lost Omens The Grand Bazaar"

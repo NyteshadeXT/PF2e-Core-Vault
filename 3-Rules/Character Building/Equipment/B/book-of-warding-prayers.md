@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "book-of-warding-prayers"
 aliases: "Book of Warding Prayers"
 source: "Pathfinder Treasure Vault"

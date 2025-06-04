@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bottled-night"
 aliases: "Bottled Night"
 source: "Pathfinder Wake the Dead #5"

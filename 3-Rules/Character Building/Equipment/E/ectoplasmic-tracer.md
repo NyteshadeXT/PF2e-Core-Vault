@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ectoplasmic-tracer"
 aliases: "Ectoplasmic Tracer"
 source: "Pathfinder Book of the Dead"

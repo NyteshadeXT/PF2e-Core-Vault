@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "potency-crystal-(major)"
 aliases: "Potency Crystal (Major)"
 source: "Pathfinder GM Core"

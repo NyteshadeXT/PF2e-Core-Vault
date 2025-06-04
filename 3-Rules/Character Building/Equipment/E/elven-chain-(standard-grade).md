@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elven-chain-(standard-grade)"
 aliases: "Elven Chain (Standard-Grade)"
 source: "Pathfinder GM Core"

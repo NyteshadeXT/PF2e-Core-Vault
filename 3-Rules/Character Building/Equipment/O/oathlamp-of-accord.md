@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "oathlamp-of-accord"
 aliases: "Oathlamp of Accord"
 source: "Pathfinder Lost Omens Rival Academies"

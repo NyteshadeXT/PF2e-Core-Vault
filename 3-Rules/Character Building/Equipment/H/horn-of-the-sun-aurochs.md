@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "horn-of-the-sun-aurochs"
 aliases: "Horn of the Sun Aurochs"
 source: "Pathfinder Adventure: Shadows at Sundown"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-mercy-(3rd-level)"
 aliases: "Wand of Mercy (3rd-level)"
 source: "Pathfinder Treasure Vault"

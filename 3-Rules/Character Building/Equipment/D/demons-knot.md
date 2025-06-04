@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "demons-knot"
 aliases: "Demon's Knot"
 source: "Pathfinder #195: Heavy is the Crown"

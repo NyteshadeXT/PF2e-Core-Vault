@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grasping-tree"
 aliases: "Grasping Tree"
 source: "Pathfinder #151: The Show Must Go On"

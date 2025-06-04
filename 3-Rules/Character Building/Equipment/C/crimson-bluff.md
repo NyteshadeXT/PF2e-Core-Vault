@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crimson-bluff"
 aliases: "Crimson Bluff"
 source: "Pathfinder Adventure: Prey for Death"

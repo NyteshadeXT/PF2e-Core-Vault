@@ -153,6 +153,10 @@ Kataklysmos views [[Elara]]’s focus on healing and renewal as a direct counter
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Kataklysmos Holy Symbol.png]]
+> Holy Symbol of Kataklysmos
+
 Kataklysmos preaches that chaos and destruction are necessary forces in the universe. Through destruction, there is renewal and change. He encourages his followers to embrace the chaotic aspects of life and to sow disorder wherever they go. His creed emphasizes the impermanence of all things and the inevitability of change through destruction.
 
 The church of Kataklysmos is feared and respected. It attracts those who revel in chaos and destruction, including warriors, pyromancers, and those who have suffered great loss and seek to bring the same to others. Temples dedicated to Kataklysmos are often hidden in remote locations or within ruins, built from the remnants of destroyed structures. The clergy, known as Harbingers of Ruin, operate in a loose hierarchy, with titles such as Chaos Bringer, Destroyer Priest, and Anarchic High Priest.

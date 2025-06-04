@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tenderizer-grenade-(moderate)"
 aliases: "Tenderizer Grenade (Moderate)"
 source: "Pathfinder #203: Shepherd of Decay"

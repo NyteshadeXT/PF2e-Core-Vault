@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cordelias-greater-construct-key"
 aliases: "Cordelia's Greater Construct Key"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

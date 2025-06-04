@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sigil-of-the-first-clan"
 aliases: "Sigil of the First Clan"
 source: "Pathfinder #195: Heavy is the Crown"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "horned-hand-rests-(greater)"
 aliases: "Horned Hand Rests (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

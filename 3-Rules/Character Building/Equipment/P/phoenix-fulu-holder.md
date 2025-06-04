@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "phoenix-fulu-holder"
 aliases: "Phoenix Fulu Holder"
 source: "Pathfinder #199: To Bloom Below the Web"

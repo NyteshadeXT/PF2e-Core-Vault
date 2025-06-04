@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "chilled-fire-noodles-(greater)"
 aliases: "Chilled Fire Noodles (Greater)"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "injigos-loving-embrace"
 aliases: "Injigo's Loving Embrace"
 source: "Pathfinder #198: No Breath to Cry"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rhinoceros-mask-(greater)"
 aliases: "Rhinoceros Mask (Greater)"
 source: "Pathfinder #169: Kindled Magic"

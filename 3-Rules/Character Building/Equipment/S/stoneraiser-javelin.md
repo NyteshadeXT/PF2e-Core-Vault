@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stoneraiser-javelin"
 aliases: "Stoneraiser Javelin"
 source: "Pathfinder #154: Siege of the Dinosaurs"

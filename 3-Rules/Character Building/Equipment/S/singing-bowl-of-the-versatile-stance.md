@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "singing-bowl-of-the-versatile-stance"
 aliases: "Singing Bowl of the Versatile Stance"
 source: "Pathfinder Lost Omens Gods & Magic"

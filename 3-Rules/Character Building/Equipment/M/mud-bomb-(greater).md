@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mud-bomb-(greater)"
 aliases: "Mud Bomb (Greater)"
 source: "Pathfinder #176: Lost Mammoth Valley"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "durian-bomb-(greater)"
 aliases: "Durian Bomb (Greater)"
 source: "Pathfinder #203: Shepherd of Decay"

@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - Pissing off the Ghost
 whichparty: "[[Age of Worms Party Dashboard]]"

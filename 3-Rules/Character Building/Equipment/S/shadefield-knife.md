@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shadefield-knife"
 aliases: "Shadefield Knife"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

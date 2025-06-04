@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "healing-vapor-(major)"
 aliases: "Healing Vapor (Major)"
 source: "Pathfinder Treasure Vault"

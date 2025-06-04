@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "messenger-missive"
 aliases: "Messenger Missive"
 source: "Pathfinder Treasure Vault"

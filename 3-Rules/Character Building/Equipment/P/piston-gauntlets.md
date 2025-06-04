@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "piston-gauntlets"
 aliases: "Piston Gauntlets"
 source: "Pathfinder Treasure Vault"

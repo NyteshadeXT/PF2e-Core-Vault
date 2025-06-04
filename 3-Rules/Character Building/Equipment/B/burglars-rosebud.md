@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "burglars-rosebud"
 aliases: "Burglar's Rosebud"
 source: "Pathfinder #203: Shepherd of Decay"

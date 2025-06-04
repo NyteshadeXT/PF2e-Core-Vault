@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rose-of-loves-lost"
 aliases: "Rose of Loves Lost"
 source: "Pathfinder Dark Archive"

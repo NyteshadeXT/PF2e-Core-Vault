@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "red-hands-satchel"
 aliases: "Red Hand's Satchel"
 source: "Pathfinder #206: Bring the House Down"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shell-of-easy-breathing"
 aliases: "Shell of Easy Breathing"
 source: "Pathfinder Rage of Elements"

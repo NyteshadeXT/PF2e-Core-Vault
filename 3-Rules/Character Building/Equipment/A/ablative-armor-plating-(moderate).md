@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ablative-armor-plating-(moderate)"
 aliases: "Ablative Armor Plating (Moderate)"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "true-name-amulet-(lesser)"
 aliases: "True Name Amulet (Lesser)"
 source: "Pathfinder Secrets of Magic"

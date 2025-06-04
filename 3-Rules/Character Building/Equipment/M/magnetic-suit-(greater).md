@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "magnetic-suit-(greater)"
 aliases: "Magnetic Suit (Greater)"
 source: "Pathfinder Guns & Gears"

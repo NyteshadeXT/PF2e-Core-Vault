@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eagle-eye-elixir-(moderate)"
 aliases: "Eagle Eye Elixir (Moderate)"
 source: "Pathfinder GM Core"

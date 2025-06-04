@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "armor-of-the-holy-warrior"
 aliases: "Armor of the Holy Warrior"
 source: "Pathfinder Lost Omens Knights of Lastwall"

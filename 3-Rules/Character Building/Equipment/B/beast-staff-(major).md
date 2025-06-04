@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "beast-staff-(major)"
 aliases: "Beast Staff (Major)"
 source: "Pathfinder Treasure Vault"

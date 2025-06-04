@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spectral-nightshade"
 aliases: "Spectral Nightshade"
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"

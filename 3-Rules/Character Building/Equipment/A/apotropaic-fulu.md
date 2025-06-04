@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "apotropaic-fulu"
 aliases: "Apotropaic Fulu"
 source: "Pathfinder Secrets of Magic"

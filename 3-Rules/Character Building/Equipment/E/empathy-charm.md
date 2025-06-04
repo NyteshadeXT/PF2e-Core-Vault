@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "empathy-charm"
 aliases: "Empathy Charm"
 source: "Pathfinder Treasure Vault"

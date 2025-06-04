@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "four-ways-dogslicer"
 aliases: "Four-Ways Dogslicer"
 source: "Pathfinder Player Core 2"

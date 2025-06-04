@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "frozen-lava-of-barrowsiege"
 aliases: "Frozen Lava of Barrowsiege"
 source: "Pathfinder GM Core"

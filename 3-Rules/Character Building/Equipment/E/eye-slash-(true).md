@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eye-slash-(true)"
 aliases: "Eye Slash (True)"
 source: "Pathfinder Treasure Vault"

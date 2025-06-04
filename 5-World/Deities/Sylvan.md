@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Sylvan.png
+art: zz-Attachments/Sylvan.png
 pronounced: Sil-vin
 aliases:
   - Greenfather, Beast Lord, The Surviver
@@ -160,6 +160,10 @@ Sylvan's relationship with [[Zerathos]], the god of madness and change, is strai
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Sylvan Holy Symbol.png]]
+> Holy Symbol of Sylvan
+
 Sylvan’s teachings emphasize respect for all living things, the preservation of natural habitats, and the wisdom gained from observing the cycles of the seasons. Followers are encouraged to live in harmony with nature, cultivate sustainable practices, and develop survival skills that honor the interconnectedness of all life. Sylvan teaches that through understanding and respect for the natural world, individuals can find strength, resilience, and spiritual fulfillment. He stresses the importance of safeguarding biodiversity and protecting endangered species. The Church of Sylvan can be found in sacred groves, remote wilderness sanctuaries, and among nomadic tribes that follow seasonal migrations. Temples are designed to blend with natural surroundings, featuring open-air sanctuaries, arboreal altars, and shelters crafted from organic materials. The clergy, known as Wardens, are druids, rangers, and herbalists who dedicate their lives to preserving ecosystems and promoting sustainable living.
 
 ### Hierarchy Titles

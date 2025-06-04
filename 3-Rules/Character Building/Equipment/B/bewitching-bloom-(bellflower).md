@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bewitching-bloom-(bellflower)"
 aliases: "Bewitching Bloom (Bellflower)"
 source: "Pathfinder Treasure Vault"

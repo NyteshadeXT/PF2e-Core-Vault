@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "deadweight-mutagen-(major)"
 aliases: "Deadweight Mutagen (Major)"
 source: "Pathfinder Treasure Vault"

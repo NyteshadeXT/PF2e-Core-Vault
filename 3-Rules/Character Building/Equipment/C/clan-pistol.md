@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clan-pistol"
 aliases: "Clan Pistol"
 source: "Pathfinder Guns & Gears"

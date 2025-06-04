@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hat-of-disagreeable-disguise"
 aliases: "Hat of Disagreeable Disguise"
 source: "Pathfinder Treasure Vault"

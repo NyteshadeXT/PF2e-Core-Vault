@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "assassins-bracers-(type-ii)"
 aliases: "Assassin's Bracers (Type II)"
 source: "Pathfinder Adventure: Prey for Death"

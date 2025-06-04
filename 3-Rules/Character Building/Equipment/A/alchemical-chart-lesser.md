@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "alchemical-chart-lesser"
 aliases: "Alchemical Chart (Lesser)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aldori-dueling-sword"
 aliases: "Aldori Dueling Sword"
 source: "Pathfinder Lost Omens World Guide"

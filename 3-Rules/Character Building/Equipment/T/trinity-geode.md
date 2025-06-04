@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "trinity-geode"
 aliases: "Trinity Geode"
 source: "Pathfinder Secrets of Magic"

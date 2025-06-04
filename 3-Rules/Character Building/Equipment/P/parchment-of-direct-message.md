@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "parchment-of-direct-message"
 aliases: "Parchment of Direct Message"
 source: "Pathfinder Lost Omens Firebrands"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "poisonous-cloak-type-ii"
 aliases: "Poisonous Cloak Type II"
 source: "Pathfinder Gamemastery Guide"

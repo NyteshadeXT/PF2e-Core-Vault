@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bombers-eye-elixir-(lesser)"
 aliases: "Bomber's Eye Elixir (Lesser)"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "purple-worm-repellent"
 aliases: "Purple Worm Repellent"
 source: "Pathfinder #155: Lord of the Black Sands"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "frightful-hag-eye"
 aliases: "Frightful Hag Eye"
 source: "Pathfinder #182: Graveclaw"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "collar-of-the-eternal-bond"
 aliases: "Collar of the Eternal Bond"
 source: "Pathfinder Secrets of Magic"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "berserkers-cloak-(greater)"
 aliases: "Berserker's Cloak (Greater)"
 source: "Pathfinder Player Core 2"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "knapsack-of-halflingkind-(greater)"
 aliases: "Knapsack of Halflingkind (Greater)"
 source: "Pathfinder Core Rulebook"

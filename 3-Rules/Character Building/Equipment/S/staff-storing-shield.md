@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-storing-shield"
 aliases: "Staff-Storing Shield"
 source: "Pathfinder Secrets of Magic"

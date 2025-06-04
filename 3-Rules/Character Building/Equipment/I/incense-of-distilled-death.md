@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "incense-of-distilled-death"
 aliases: "Incense of Distilled Death"
 source: "Pathfinder Player Core 2"

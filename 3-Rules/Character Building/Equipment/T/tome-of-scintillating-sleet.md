@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tome-of-scintillating-sleet"
 aliases: "Tome of Scintillating Sleet"
 source: "Pathfinder Treasure Vault"

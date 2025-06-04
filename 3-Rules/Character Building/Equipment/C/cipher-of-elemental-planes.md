@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cipher-of-elemental-planes"
 aliases: "Cipher of Elemental Planes"
 source: "Pathfinder Rage of Elements"

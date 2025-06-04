@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "linguists-dictionary"
 aliases: "Linguist's Dictionary"
 source: "Pathfinder Treasure Vault"

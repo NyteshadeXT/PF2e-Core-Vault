@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "magical-hearing-aid"
 aliases: "Magical Hearing Aid"
 source: "Pathfinder Player Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grease-snare"
 aliases: "Grease Snare"
 source: "Pathfinder Lost Omens Monsters of Myth"

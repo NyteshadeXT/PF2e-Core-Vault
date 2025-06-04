@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "colorful-coating-(blue)"
 aliases: "Colorful Coating (Blue)"
 source: "Pathfinder Treasure Vault"

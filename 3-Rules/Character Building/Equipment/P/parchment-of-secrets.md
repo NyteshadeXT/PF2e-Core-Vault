@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "parchment-of-secrets"
 aliases: "Parchment of Secrets"
 source: "Pathfinder Dark Archive"

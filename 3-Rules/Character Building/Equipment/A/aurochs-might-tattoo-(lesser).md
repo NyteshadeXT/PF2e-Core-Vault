@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aurochs-might-tattoo-(lesser)"
 aliases: "Aurochs' Might Tattoo (Lesser)"
 source: "Pathfinder #207: The Resurrection Flood"

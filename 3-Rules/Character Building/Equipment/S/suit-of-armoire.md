@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "suit-of-armoire"
 aliases: "Suit of Armoire"
 source: "Pathfinder Blog: April Fools"

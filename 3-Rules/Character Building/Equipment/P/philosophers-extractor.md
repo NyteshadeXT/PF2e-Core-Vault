@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "philosophers-extractor"
 aliases: "Philosopher's Extractor"
 source: "Pathfinder GM Core"

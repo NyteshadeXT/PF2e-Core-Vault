@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dupes-gold-nugget"
 aliases: "Dupe's Gold Nugget"
 source: "Pathfinder #179: Cradle of Quartz"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "magnetic-shot-(moderate)"
 aliases: "Magnetic Shot (Moderate)"
 source: "Pathfinder Treasure Vault"

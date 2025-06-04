@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "twilight-lantern-(greater)"
 aliases: "Twilight Lantern (Greater)"
 source: "Pathfinder #172: Secrets of the Temple-City"

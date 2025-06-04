@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lance-of-suns-radiance"
 aliases: "Lance of Sun's Radiance"
 source: "Pathfinder #202: Severed at the Root"

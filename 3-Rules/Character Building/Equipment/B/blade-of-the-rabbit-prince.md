@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blade-of-the-rabbit-prince"
 aliases: "Blade of the Rabbit Prince"
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"

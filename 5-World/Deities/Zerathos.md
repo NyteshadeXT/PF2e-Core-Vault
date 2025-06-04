@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Zerathos.png
+art: zz-Attachments/Zerathos.png
 pronounced: Zer-a-thos
 aliases:
   - Lord of Madness, Harbringer of Change
@@ -163,6 +163,10 @@ While [[Valorus]] and Zerathos might seem like potential allies due to their sha
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Zerathos Holy Symbol.png]]
+> Holy Symbol of Zerathos
+
 Followers of Zerathos embrace change in all its forms, viewing madness as a path to enlightenment. They believe that true wisdom comes from breaking free of societal norms and embracing the chaos within and around them. Transformation, whether physical, mental, or spiritual, is seen as the highest form of worship. Stability is an illusion, and the only constant is change.
 
 The Church of Zerathos is as unpredictable as the deity himself. Temples can range from grand, labyrinthine structures to temporary camps that move with the whims of their leaders. The clergy, known as the Shattered, are often seen as mad by outsiders but are revered within the church for their deep connection to Zerathos's chaotic nature.

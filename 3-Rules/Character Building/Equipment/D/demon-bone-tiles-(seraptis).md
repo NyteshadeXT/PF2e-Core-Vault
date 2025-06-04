@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "demon-bone-tiles-(seraptis)"
 aliases: "Demon Bone Tiles (Seraptis)"
 source: "Pathfinder Lost Omens Rival Academies"

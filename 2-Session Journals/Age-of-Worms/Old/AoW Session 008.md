@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - The True Tomb
 whichparty: "[[Age of Worms Party Dashboard]]"

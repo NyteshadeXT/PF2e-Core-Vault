@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "varisian-emblem-(avidais)"
 aliases: "Varisian Emblem (Avidais)"
 source: "Pathfinder Treasure Vault"

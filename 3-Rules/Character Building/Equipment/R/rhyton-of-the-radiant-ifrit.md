@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rhyton-of-the-radiant-ifrit"
 aliases: "Rhyton of the Radiant Ifrit"
 source: "Pathfinder Rage of Elements"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spider-gun-(major)"
 aliases: "Spider Gun (Major)"
 source: "Pathfinder Guns & Gears"

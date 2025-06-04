@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sure-step-crampons"
 aliases: "Sure-Step Crampons"
 source: "Pathfinder Treasure Vault"

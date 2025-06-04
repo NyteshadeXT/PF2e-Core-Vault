@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rime-jar"
 aliases: "Rime Jar"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"

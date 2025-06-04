@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clinging-bubbles-(lesser)"
 aliases: "Clinging Bubbles (Lesser)"
 source: "Pathfinder Lost Omens Firebrands"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "carver-cutter-(true)"
 aliases: "Carver-cutter (True)"
 source: "Pathfinder Rage of Elements"

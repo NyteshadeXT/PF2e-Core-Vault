@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "barding-of-the-zephyr"
 aliases: "Barding of the Zephyr"
 source: "Pathfinder GM Core"

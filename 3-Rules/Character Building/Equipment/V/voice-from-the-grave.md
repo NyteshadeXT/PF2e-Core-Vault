@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "voice-from-the-grave"
 aliases: "Voice From The Grave"
 source: "Pathfinder Treasure Vault"

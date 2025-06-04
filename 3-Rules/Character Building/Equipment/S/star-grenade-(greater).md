@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "star-grenade-(greater)"
 aliases: "Star Grenade (Greater)"
 source: "Pathfinder #180: The Smoking Gun"

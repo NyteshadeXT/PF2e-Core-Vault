@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gift-of-the-poisoned-heart"
 aliases: "Gift of the Poisoned Heart"
 source: "Pathfinder Dark Archive"

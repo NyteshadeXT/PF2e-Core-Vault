@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "south-winds-scorch-song"
 aliases: "South Wind's Scorch Song"
 source: "Pathfinder Secrets of Magic"

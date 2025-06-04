@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clockwork-diving-suit"
 aliases: "Clockwork Diving Suit"
 source: "Pathfinder Guns & Gears"

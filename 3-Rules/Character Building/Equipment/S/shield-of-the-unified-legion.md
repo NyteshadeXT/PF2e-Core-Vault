@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shield-of-the-unified-legion"
 aliases: "Shield of the Unified Legion"
 source: "Pathfinder #156: The Apocalypse Prophet"

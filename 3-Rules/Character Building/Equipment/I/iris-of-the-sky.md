@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "iris-of-the-sky"
 aliases: "Iris of the Sky"
 source: "Pathfinder Guns & Gears"

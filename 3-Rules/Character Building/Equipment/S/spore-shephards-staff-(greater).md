@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spore-shephards-staff-(greater)"
 aliases: "Spore Shephard's Staff (Greater)"
 source: "Pathfinder #193: Mantle of Gold"

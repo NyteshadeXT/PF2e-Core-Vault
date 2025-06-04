@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "deck-of-many-things"
 aliases: "Deck of Many Things"
 source: "Pathfinder Gamemastery Guide"

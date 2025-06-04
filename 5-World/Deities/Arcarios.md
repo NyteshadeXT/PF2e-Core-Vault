@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Arcarios.png
+art: zz-Attachments/Arcarios.png
 pronounced: Are-car-ee-os
 aliases:
   - Guardian of the Wellspring
@@ -152,6 +152,10 @@ While Arcarios appreciates the transformative aspects of change, [[Zerathos]]' d
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Arcarios Holy Symbol.png]]
+> Holy Symbol of Arcarios
+
 Arcarios's teachings emphasize the pursuit of magical knowledge and mastery of the arcane arts. Followers are encouraged to explore the depths of magic, seeking to understand its mysteries and harness its power. Arcarios teaches that magic is a neutral force that can shape reality according to the will of the practitioner. Whether used for creation or destruction, healing or harm, the true value of magic lies in its potential and the wisdom of its wielder.
 
 The Church of Arcarios is often found in grand libraries, ancient towers, and arcane academies. Temples are designed to be repositories of magical knowledge and places of learning, filled with tomes, scrolls, and magical artifacts. The clergy, known as Arcanists, are dedicated to the study and teaching of magic, guiding both novices and masters in their arcane pursuits.

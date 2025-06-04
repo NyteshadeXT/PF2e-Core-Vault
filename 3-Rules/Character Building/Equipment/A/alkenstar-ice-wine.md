@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "alkenstar-ice-wine"
 aliases: "Alkenstar Ice Wine"
 source: "Pathfinder Lost Omens Impossible Lands"

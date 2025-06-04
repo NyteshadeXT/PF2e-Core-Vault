@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "life-shot-(minor)"
 aliases: "Life Shot (Minor)"
 source: "Pathfinder Treasure Vault"

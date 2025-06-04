@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spiderfoot-brew-(moderate)"
 aliases: "Spiderfoot Brew (Moderate)"
 source: "Pathfinder Treasure Vault"

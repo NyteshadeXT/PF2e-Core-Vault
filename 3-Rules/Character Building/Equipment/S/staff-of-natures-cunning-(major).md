@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-natures-cunning-(major)"
 aliases: "Staff of Nature's Cunning (Major)"
 source: "Pathfinder Secrets of Magic"

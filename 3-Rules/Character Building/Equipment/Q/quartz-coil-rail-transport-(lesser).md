@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "quartz-coil-rail-transport-(lesser)"
 aliases: "Quartz-Coil Rail Transport (Lesser)"
 source: "Pathfinder Lost Omens Rival Academies"

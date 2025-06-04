@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cape-of-the-open-sky"
 aliases: "Cape of the Open Sky"
 source: "Pathfinder #167: Ready? Fight!"

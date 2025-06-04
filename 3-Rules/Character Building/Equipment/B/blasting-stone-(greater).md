@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blasting-stone-(greater)"
 aliases: "Blasting Stone (Greater)"
 source: "Pathfinder Player Core 2"

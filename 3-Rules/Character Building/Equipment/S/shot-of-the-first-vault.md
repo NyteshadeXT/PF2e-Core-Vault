@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "shot-of-the-first-vault"
 aliases: "Shot of the First Vault"
 source: "Pathfinder GM Core"

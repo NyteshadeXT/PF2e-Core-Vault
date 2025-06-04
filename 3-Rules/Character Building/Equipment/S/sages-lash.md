@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sages-lash"
 aliases: "Sage's Lash"
 source: "Pathfinder Secrets of Magic"

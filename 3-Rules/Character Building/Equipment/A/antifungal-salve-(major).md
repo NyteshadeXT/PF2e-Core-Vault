@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "antifungal-salve-(major)"
 aliases: "Antifungal Salve (Major)"
 source: "Pathfinder #210: Whispers in the Dirt"

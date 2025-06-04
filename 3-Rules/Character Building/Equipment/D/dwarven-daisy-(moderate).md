@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dwarven-daisy-(moderate)"
 aliases: "Dwarven Daisy (Moderate)"
 source: "Pathfinder Society Quest #5: The Dragon who Stole Evoking Day"

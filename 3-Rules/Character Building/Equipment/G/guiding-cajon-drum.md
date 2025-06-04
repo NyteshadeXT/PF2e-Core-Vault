@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "guiding-cajon-drum"
 aliases: "Guiding Cajon Drum"
 source: "Pathfinder Blog"

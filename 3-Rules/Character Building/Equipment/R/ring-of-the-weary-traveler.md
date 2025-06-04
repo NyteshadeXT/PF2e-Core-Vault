@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-the-weary-traveler"
 aliases: "Ring of the Weary Traveler"
 source: "Pathfinder Adventure: The Fall of Plaguestone"

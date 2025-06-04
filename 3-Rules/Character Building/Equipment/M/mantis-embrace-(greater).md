@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mantis-embrace-(greater)"
 aliases: "Mantis Embrace (Greater)"
 source: "Pathfinder Adventure: Prey for Death"

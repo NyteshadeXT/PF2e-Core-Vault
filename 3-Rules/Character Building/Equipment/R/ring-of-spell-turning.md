@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-spell-turning"
 aliases: "Ring of Spell Turning"
 source: "Pathfinder Core Rulebook"

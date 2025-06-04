@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sarkorian-god-caller-garb"
 aliases: "Sarkorian God-Caller Garb"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "holy-prayer-beads-(greater)"
 aliases: "Holy Prayer Beads (Greater)"
 source: "Pathfinder Core Rulebook"

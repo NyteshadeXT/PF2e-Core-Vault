@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "slithermaws-bane"
 aliases: "Slithermaw's Bane"
 source: "Pathfinder #211: The Secret of Deathstalk Tower"

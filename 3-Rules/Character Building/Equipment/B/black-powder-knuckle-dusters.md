@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "black-powder-knuckle-dusters"
 aliases: "Black Powder Knuckle Dusters"
 source: "Pathfinder Guns & Gears"

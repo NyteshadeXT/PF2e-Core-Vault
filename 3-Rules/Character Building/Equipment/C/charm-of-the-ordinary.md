@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "charm-of-the-ordinary"
 aliases: "Charm of the Ordinary"
 source: "Pathfinder Lost Omens Firebrands"

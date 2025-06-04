@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "marvelous-medicines-(greater)"
 aliases: "Marvelous Medicines (Greater)"
 source: "Pathfinder GM Core"

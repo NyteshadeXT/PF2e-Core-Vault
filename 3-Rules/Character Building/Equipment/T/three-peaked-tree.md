@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "three-peaked-tree"
 aliases: "Three-peaked Tree"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aetheric-irritant-greater"
 aliases: "Aetheric Irritant (Greater)"
 source: "Pathfinder Lost Omens Rival Academies"

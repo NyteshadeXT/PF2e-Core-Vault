@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "codex-of-destruction-and-renewal"
 aliases: "Codex of Destruction and Renewal"
 source: "Pathfinder Treasure Vault"

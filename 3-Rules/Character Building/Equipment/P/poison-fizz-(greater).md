@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "poison-fizz-(greater)"
 aliases: "Poison Fizz (Greater)"
 source: "Pathfinder Treasure Vault"

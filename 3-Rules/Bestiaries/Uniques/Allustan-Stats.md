@@ -32,11 +32,11 @@ abilityMods: [-1, 3, 1, 5, 2, 0]
 
 abilities_top:
   - name: "Equipment"
-    desc: "dagger, Wand of Dispel Magic, Wand of Force Barrrage, Bracers of Force, Scroll of [[Teleport]], 225 gp"
+    desc: "dagger, Wand of Dispel Magic, Wand of Force Barrrage, Bands of Force, Scroll of Teleport, 225 gp"
 
 spellcasting:
   - name: Arcane Prepared Casting
-    desc: "The wizard casts one of the following spells using Intelligence as their spellcasting ability (spell attack +18, spell DC 26):\n\n__Cantrips (8th)__: [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Telekinetic Hand]], [[Read Aura]], [[Shield]], [[Force Bolt]]\n__1st Level (4 slots)__: [[Charm]], [[Force Barrage]] x2, [[Runic Weapon]]\n__2nd Level (4 slots)__: [[Resist Energy]], [[Blazing Bolt]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], [[Web]] \n__3rd Level (4 slots)__: [[Fireball]], [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Dispel Magic]], [[3-Rules/Character Building/Spells/S/Sleep|Sleep]] \n__4th Level (3 slots)__: [[Translocate]], [[Mountain Resilience]], [[Blazing Bolt]]"
+    desc: "The wizard casts one of the following spells using Intelligence as their spellcasting ability (spell attack +18, spell DC 26):\n\n__Cantrips (8th)__: [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Telekinetic Hand]], [[Read Aura]], [[Shield]], [[Caustic Blast]]\n__1st Level (4 slots)__: [[Charm]], [[Force Barrage]] x2, [[Runic Weapon]]\n__2nd Level (4 slots)__: [[Resist Energy]], [[Blazing Bolt]], [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]], [[Web]] \n__3rd Level (4 slots)__: [[Fireball]], [[Haste]], [[Invisibility Sphere]]\n__4th Level (3 slots)__: [[Translocate]], [[Mountain Resilience]], [[3-Rules/Character Building/Spells/F/Fly|Fly]]"
 
 
 speed: 25 feet

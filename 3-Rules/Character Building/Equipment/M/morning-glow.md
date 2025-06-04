@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "morning-glow"
 aliases: "Morning Glow"
 source: "Pathfinder #210: Whispers in the Dirt"

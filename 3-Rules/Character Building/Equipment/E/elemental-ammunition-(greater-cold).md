@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "elemental-ammunition-(greater-cold)"
 aliases: "Elemental Ammunition (Greater, Cold)"
 source: "Pathfinder Treasure Vault"

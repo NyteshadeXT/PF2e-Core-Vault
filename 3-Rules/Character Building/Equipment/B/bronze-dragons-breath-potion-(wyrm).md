@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bronze-dragons-breath-potion-(wyrm)"
 aliases: "Bronze Dragon's Breath Potion (Wyrm)"
 source: "Pathfinder Core Rulebook"

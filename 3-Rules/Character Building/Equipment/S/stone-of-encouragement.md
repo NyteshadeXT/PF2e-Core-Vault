@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stone-of-encouragement"
 aliases: "Stone of Encouragement"
 source: "Pathfinder Lost Omens Firebrands"

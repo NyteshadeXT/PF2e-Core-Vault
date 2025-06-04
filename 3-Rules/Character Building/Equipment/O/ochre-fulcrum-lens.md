@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ochre-fulcrum-lens"
 aliases: "Ochre Fulcrum Lens"
 source: "Pathfinder Abomination Vaults Hardcover Compilation"

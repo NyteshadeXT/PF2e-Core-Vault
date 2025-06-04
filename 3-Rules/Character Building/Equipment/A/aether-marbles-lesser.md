@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aether-marbles-lesser"
 aliases: "Aether Marbles (Lesser)"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"

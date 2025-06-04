@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "titans-grasp"
 aliases: "Titan's Grasp"
 source: "Pathfinder Secrets of Magic"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "retaliation-(lesser)"
 aliases: "Retaliation (Lesser)"
 source: "Pathfinder Treasure Vault"

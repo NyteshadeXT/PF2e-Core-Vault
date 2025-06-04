@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bottled-lightning-(moderate)"
 aliases: "Bottled Lightning (Moderate)"
 source: "Pathfinder Player Core 2"

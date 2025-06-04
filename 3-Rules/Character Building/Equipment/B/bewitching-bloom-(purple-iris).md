@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bewitching-bloom-(purple-iris)"
 aliases: "Bewitching Bloom (Purple Iris)"
 source: "Pathfinder Treasure Vault"

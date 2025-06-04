@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "silver-snake-cane"
 aliases: "Silver Snake Cane"
 source: "Pathfinder Rage of Elements"

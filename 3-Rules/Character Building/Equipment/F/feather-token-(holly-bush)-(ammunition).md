@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "feather-token-(holly-bush)-(ammunition)"
 aliases: "Feather Token (Holly Bush) (Ammunition)"
 source: "Pathfinder Core Rulebook"

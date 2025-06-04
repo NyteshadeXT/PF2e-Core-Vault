@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "phantom-shroud"
 aliases: "Phantom Shroud"
 source: "Pathfinder #185: A Taste of Ashes"

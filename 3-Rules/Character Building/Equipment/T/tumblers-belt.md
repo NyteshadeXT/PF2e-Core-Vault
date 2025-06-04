@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tumblers-belt"
 aliases: "Tumbler's Belt"
 source: "Pathfinder #204: Stage Fright"

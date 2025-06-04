@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "inspiring-spotlight"
 aliases: "Inspiring Spotlight"
 source: "Pathfinder #152: Legacy of the Lost God"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "five-feather-wreath-(major)"
 aliases: "Five-Feather Wreath (Major)"
 source: "Pathfinder Secrets of Magic"

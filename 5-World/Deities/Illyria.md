@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Illyria.png
+art: zz-Attachments/Illyria.png
 pronounced: Ill-lyr-ee-a
 aliases:
   - The Creator
@@ -149,6 +149,10 @@ Illyria sees [[Kataklysmos]] as a direct adversary. His domain of destruction is
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Illyria Holy Symbol.png]]
+> Holy Symbol of Illyria
+
 Illyria’s teachings emphasize the power of imagination, the joy of creation, and the transformative impact of innovation. Followers are encouraged to embrace their creative instincts, pursue new ideas fearlessly, and push the boundaries of what is possible. Illyria teaches that every creation, whether artistic, technological, or magical, is an expression of the divine spark within mortals. She also stresses the responsibility of creators to consider the consequences of their innovations and to use their talents for the betterment of society.
 
 The Church of Illyria can be found in bustling artisan districts, academic workshops, and centers of innovation. Temples are designed to foster creativity and collaboration, providing workshops, studios, and laboratories where followers can experiment and create. The clergy, known as Artificers, are skilled artisans, inventors, and scholars who dedicate their lives to advancing knowledge and inspiring new creations.

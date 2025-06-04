@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-continuation-(1st-rank-spell)"
 aliases: "Wand of Continuation (1st-Rank Spell)"
 source: "Pathfinder GM Core"

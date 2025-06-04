@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "retrieval-belt-(greater)"
 aliases: "Retrieval Belt (Greater)"
 source: "Pathfinder GM Core"

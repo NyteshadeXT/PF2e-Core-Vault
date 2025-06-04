@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Morvael.png
+art: zz-Attachments/Morvael.png
 pronounced: More-vail
 aliases:
   - The Risen, Profaner
@@ -153,6 +153,10 @@ As the embodiment of order and justice, [[Aurelius]] views Morvael as a force of
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Morvael Holy Symbol.png]]
+> Holy Symbol of Morvael
+
 Morvael's teachings center around the power found in the perversion of life and the embrace of undeath. Followers are taught to reject the natural order of life and death, seeking to transcend mortality through necromancy and corruption. Chaos is seen as a path to ultimate power, with the destruction of the living seen as a necessary step to achieve dominance over death.
 
 The Church of Morvael operates in secretive, decayed locations such as abandoned crypts and hidden catacombs. Temples are adorned with necromantic symbols and relics of the dead, serving as centers for dark rituals and the raising of undead minions. The clergy, known as Deathbringers, are practitioners of necromancy and experts in the manipulation of life and death.

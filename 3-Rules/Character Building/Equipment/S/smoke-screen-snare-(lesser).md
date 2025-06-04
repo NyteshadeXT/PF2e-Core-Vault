@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "smoke-screen-snare-(lesser)"
 aliases: "Smoke Screen Snare (Lesser)"
 source: "Pathfinder #176: Lost Mammoth Valley"

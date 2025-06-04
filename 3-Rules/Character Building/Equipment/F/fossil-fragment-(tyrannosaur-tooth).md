@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fossil-fragment-(tyrannosaur-tooth)"
 aliases: "Fossil Fragment (Tyrannosaur Tooth)"
 source: "Pathfinder Rage of Elements"

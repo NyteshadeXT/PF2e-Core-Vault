@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "astrolabe-of-the-falling-stars"
 aliases: "Astrolabe of the Falling Stars"
 source: "Pathfinder #188: They Watched the Stars"

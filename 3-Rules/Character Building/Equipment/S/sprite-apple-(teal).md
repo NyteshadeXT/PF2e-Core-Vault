@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sprite-apple-(teal)"
 aliases: "Sprite Apple (Teal)"
 source: "Pathfinder Treasure Vault"

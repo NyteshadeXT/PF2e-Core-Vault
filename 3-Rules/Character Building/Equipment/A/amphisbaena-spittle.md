@@ -2,16 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "amphisbaena-spittle"
 aliases: "Amphisbaena Spittle"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "118"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  Hardened clumps of _amphisbaena spittle_ can be harvested from the dual-headed snake's hunting grounds. When a casting of [[Spells/Web of Eyes|Web of Eyes]] is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being flanked until the start of its next turn.  [[Equipment Effects/Effect_ Amphisbaena Spittle|Effect: Amphisbaena Spittle]]"
-powerTitle:
-actionEconomy:
-type:
+description: "Hardened clumps of _amphisbaena spittle_ can be harvested from the dual-headed snake's hunting grounds."
+powerTitle: "Effect"
+actionEconomy: 
+type: "([[Cast a Spell]])"
 frequency:
 trigger:
-mechanics:
+mechanics: "When a casting of [[Web of Eyes]] is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being flanked until the start of its next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -74,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

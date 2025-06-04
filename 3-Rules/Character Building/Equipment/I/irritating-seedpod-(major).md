@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "irritating-seedpod-(major)"
 aliases: "Irritating Seedpod (Major)"
 source: "Pathfinder #203: Shepherd of Decay"

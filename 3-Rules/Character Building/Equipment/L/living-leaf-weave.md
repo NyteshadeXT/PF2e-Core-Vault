@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "living-leaf-weave"
 aliases: "Living Leaf Weave"
 source: "Pathfinder Treasure Vault"

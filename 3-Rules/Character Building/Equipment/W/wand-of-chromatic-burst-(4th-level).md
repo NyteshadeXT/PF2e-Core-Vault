@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-chromatic-burst-(4th-level)"
 aliases: "Wand of Chromatic Burst (4th-level)"
 source: "Pathfinder Treasure Vault"

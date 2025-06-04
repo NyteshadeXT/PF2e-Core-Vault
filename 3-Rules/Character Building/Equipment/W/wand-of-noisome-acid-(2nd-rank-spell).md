@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-noisome-acid-(2nd-rank-spell)"
 aliases: "Wand of Noisome Acid (2nd-Rank Spell)"
 source: "Pathfinder Treasure Vault"

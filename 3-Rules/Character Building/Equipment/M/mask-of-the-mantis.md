@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mask-of-the-mantis"
 aliases: "Mask of the Mantis"
 source: "Pathfinder Adventure: Prey for Death"

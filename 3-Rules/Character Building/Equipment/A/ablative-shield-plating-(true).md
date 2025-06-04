@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ablative-shield-plating-(true)"
 aliases: "Ablative Shield Plating (True)"
 source: "Pathfinder Guns & Gears"

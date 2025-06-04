@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spangled-riders-suit"
 aliases: "Spangled Rider's Suit"
 source: "Pathfinder #152: Legacy of the Lost God"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "boreal-staff"
 aliases: "Boreal Staff"
 source: "Pathfinder Treasure Vault"

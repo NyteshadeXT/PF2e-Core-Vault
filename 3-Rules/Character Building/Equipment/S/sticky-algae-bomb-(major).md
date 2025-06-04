@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "sticky-algae-bomb-(major)"
 aliases: "Sticky Algae Bomb (Major)"
 source: "Pathfinder Rage of Elements"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "halfling-sling-staff"
 aliases: "Halfling Sling Staff"
 source: "Pathfinder Player Core"

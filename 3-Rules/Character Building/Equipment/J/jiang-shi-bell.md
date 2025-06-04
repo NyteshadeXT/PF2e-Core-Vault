@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jiang-shi-bell"
 aliases: "Jiang-Shi Bell"
 source: "Pathfinder #199: To Bloom Below the Web"

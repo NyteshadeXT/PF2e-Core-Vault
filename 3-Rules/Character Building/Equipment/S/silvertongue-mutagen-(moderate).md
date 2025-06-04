@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "silvertongue-mutagen-(moderate)"
 aliases: "Silvertongue Mutagen (Moderate)"
 source: "Pathfinder Player Core 2"

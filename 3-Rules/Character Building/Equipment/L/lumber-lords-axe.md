@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lumber-lords-axe"
 aliases: "Lumber Lord's Axe"
 source: "Pathfinder #199: To Bloom Below the Web"

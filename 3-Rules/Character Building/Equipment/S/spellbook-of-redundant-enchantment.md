@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spellbook-of-redundant-enchantment"
 aliases: "Spellbook of Redundant Enchantment"
 source: "Pathfinder Secrets of Magic"

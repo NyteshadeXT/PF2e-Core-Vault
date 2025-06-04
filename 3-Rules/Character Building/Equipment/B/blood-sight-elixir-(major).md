@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blood-sight-elixir-(major)"
 aliases: "Blood Sight Elixir (Major)"
 source: "Pathfinder Adventure: Prey for Death"

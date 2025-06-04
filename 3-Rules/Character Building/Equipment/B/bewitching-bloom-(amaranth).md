@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bewitching-bloom-(amaranth)"
 aliases: "Bewitching Bloom (Amaranth)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "aeon-stone-(pearly-white-spindle)"
 aliases: "Aeon Stone (Pearly White Spindle)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bewitching-bloom-(cherry-blossom)"
 aliases: "Bewitching Bloom (Cherry Blossom)"
 source: "Pathfinder Treasure Vault"

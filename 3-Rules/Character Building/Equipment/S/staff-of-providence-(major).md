@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-providence-(major)"
 aliases: "Staff of Providence (Major)"
 source: "Pathfinder Player Core 2"

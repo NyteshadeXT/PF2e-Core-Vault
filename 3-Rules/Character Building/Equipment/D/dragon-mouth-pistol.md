@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragon-mouth-pistol"
 aliases: "Dragon Mouth Pistol"
 source: "Pathfinder Guns & Gears"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gorums-tear"
 aliases: "Gorum's Tear"
 source: "Pathfinder #209: Destroyer's Doom"

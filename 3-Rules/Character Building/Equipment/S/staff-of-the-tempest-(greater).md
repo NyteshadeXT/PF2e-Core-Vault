@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-the-tempest-(greater)"
 aliases: "Staff of the Tempest (Greater)"
 source: "Pathfinder Player Core 2"

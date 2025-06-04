@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "deafening-music-box"
 aliases: "Deafening Music Box"
 source: "Pathfinder #158: Sixty Feet Under"

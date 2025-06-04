@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "addlebrain"
 aliases: "Addlebrain"
 source: "Pathfinder #147: Tomorrow Must Burn"

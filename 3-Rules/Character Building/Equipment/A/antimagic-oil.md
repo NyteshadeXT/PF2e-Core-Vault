@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "antimagic-oil"
 aliases: "Antimagic Oil"
 source: "Pathfinder GM Core"

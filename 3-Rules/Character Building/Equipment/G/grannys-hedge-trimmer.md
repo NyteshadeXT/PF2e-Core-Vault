@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grannys-hedge-trimmer"
 aliases: "Granny's Hedge Trimmer"
 source: "Pathfinder Adventure: Little Trouble in Big Absalom"

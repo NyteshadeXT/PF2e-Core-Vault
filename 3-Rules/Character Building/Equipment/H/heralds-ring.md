@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "heralds-ring"
 aliases: "Herald's Ring"
 source: "Pathfinder #204: Stage Fright"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "skull-bomb"
 aliases: "Skull Bomb"
 source: "Pathfinder #180: The Smoking Gun"

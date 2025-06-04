@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "broadleaf-shield-(major)"
 aliases: "Broadleaf Shield (Major)"
 source: "Pathfinder Rage of Elements"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jug-of-fond-remembrance"
 aliases: "Jug of Fond Remembrance"
 source: "Pathfinder Treasure Vault"

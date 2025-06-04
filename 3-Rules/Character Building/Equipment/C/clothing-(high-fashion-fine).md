@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "clothing-(high-fashion-fine)"
 aliases: "Clothing (High-Fashion Fine)"
 source: "Pathfinder Player Core"

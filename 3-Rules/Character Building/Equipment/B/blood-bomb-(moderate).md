@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blood-bomb-(moderate)"
 aliases: "Blood Bomb (Moderate)"
 source: "Pathfinder #194: Cult of the Cave Worm"

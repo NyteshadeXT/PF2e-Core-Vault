@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "searing-suture-(lesser)"
 aliases: "Searing Suture (Lesser)"
 source: "Pathfinder #178: Punks in a Powder Keg"

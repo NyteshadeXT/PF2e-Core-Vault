@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "armbands-of-athleticism-(greater)"
 aliases: "Armbands of Athleticism (Greater)"
 source: "Pathfinder GM Core"

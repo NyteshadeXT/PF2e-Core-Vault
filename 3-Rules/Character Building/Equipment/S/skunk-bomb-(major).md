@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "skunk-bomb-(major)"
 aliases: "Skunk Bomb (Major)"
 source: "Pathfinder Treasure Vault"

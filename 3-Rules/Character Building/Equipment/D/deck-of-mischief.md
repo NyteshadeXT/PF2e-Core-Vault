@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "deck-of-mischief"
 aliases: "Deck of Mischief"
 source: "Pathfinder Secrets of Magic"

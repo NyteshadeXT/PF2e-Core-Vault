@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mourners-dawnlight-fulu"
 aliases: "Mourner's Dawnlight Fulu"
 source: "Pathfinder Treasure Vault"

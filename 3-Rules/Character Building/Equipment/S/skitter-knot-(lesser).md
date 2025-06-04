@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "skitter-knot-(lesser)"
 aliases: "Skitter Knot (Lesser)"
 source: "Pathfinder #201: Pactbreaker"

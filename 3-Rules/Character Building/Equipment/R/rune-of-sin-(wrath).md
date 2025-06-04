@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rune-of-sin-(wrath)"
 aliases: "Rune of Sin (Wrath)"
 source: "Pathfinder Secrets of Magic"

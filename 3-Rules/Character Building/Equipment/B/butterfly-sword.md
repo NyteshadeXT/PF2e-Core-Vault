@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "butterfly-sword"
 aliases: "Butterfly Sword"
 source: "Pathfinder #166: Despair on Danger Island"

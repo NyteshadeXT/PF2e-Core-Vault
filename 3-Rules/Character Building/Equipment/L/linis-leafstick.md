@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "linis-leafstick"
 aliases: "Lini's Leafstick"
 source: "Pathfinder Secrets of Magic"

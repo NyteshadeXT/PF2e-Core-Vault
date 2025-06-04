@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragonslayers-shield"
 aliases: "Dragonslayer's Shield"
 source: "Pathfinder GM Core"

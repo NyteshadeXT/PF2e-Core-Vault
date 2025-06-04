@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ghostly-portal-paint"
 aliases: "Ghostly Portal Paint"
 source: "Pathfinder Secrets of Magic"

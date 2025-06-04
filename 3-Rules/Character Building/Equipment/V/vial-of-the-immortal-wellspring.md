@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vial-of-the-immortal-wellspring"
 aliases: "Vial of the Immortal Wellspring"
 source: "Pathfinder Dark Archive"

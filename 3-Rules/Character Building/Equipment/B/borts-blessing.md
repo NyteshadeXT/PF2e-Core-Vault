@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "borts-blessing"
 aliases: "Bort's Blessing"
 source: "Pathfinder Adventure: The Fall of Plaguestone"

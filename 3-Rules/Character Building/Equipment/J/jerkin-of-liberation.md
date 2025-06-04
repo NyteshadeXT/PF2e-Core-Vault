@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jerkin-of-liberation"
 aliases: "Jerkin of Liberation"
 source: "Pathfinder #156: The Apocalypse Prophet"

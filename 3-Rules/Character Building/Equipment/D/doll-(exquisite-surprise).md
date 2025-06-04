@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "doll-(exquisite-surprise)"
 aliases: "Doll (Exquisite surprise)"
 source: "Pathfinder NPC Core"

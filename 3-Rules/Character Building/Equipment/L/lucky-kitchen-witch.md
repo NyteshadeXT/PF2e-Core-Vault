@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "lucky-kitchen-witch"
 aliases: "Lucky Kitchen Witch"
 source: "Pathfinder #182: Graveclaw"

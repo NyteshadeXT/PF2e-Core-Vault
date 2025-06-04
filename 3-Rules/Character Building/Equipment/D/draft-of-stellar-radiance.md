@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "draft-of-stellar-radiance"
 aliases: "Draft of Stellar Radiance"
 source: "Pathfinder #187: The Seventh Arch"

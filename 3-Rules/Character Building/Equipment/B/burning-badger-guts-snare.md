@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "burning-badger-guts-snare"
 aliases: "Burning Badger Guts Snare"
 source: "Pathfinder Lost Omens The Grand Bazaar"

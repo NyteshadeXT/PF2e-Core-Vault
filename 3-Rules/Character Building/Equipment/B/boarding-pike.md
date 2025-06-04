@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "boarding-pike"
 aliases: "Boarding Pike"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"

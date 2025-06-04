@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "golden-breath-fulu"
 aliases: "Golden Breath Fulu"
 source: "Pathfinder Treasure Vault"

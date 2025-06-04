@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vashus-ninth-life"
 aliases: "Vashu's Ninth Life"
 source: "Pathfinder #198: No Breath to Cry"

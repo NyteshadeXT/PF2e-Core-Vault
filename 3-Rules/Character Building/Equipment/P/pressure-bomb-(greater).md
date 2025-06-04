@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "pressure-bomb-(greater)"
 aliases: "Pressure Bomb (Greater)"
 source: "Pathfinder Special: Fumbus!"

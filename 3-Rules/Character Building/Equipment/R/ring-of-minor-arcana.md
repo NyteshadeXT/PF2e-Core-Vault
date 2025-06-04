@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ring-of-minor-arcana"
 aliases: "Ring of Minor Arcana"
 source: "Pathfinder Adventure: The Fall of Plaguestone"

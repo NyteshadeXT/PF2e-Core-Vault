@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "healers-gel-(moderate)"
 aliases: "Healer's Gel (Moderate)"
 source: "Pathfinder Secrets of Magic"

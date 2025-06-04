@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "box-of-unspoiling-(type-ii)"
 aliases: "Box of Unspoiling (Type II)"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"

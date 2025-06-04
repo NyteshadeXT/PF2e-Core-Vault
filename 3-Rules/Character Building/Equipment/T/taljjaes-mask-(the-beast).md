@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "taljjaes-mask-(the-beast)"
 aliases: "Taljjae's Mask (The Beast)"
 source: "Pathfinder Lost Omens Monsters of Myth"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tallow-bomb-(major)"
 aliases: "Tallow Bomb (Major)"
 source: "Pathfinder #175: Broken Tusk Moon"

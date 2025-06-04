@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "diglys-oil-of-sympathy-(lesser)"
 aliases: "Digly's Oil of Sympathy (Lesser)"
 source: "Pathfinder NPC Core"

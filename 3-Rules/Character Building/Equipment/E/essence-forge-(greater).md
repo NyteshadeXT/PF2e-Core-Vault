@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "essence-forge-(greater)"
 aliases: "Essence Forge (Greater)"
 source: "Pathfinder #214: The Broken Palace"

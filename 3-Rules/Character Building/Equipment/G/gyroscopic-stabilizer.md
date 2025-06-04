@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gyroscopic-stabilizer"
 aliases: "Gyroscopic Stabilizer"
 source: "Pathfinder #179: Cradle of Quartz"

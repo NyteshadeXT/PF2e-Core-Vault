@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - Messing with Hextor
 whichparty: "[[Age of Worms Party Dashboard]]"

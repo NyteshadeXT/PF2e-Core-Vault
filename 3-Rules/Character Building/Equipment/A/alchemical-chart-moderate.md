@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "alchemical-chart-moderate"
 aliases: "Alchemical Chart (Moderate)"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mattock-of-the-titans"
 aliases: "Mattock of the Titans"
 source: "Pathfinder Core Rulebook"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "chain-of-stars"
 aliases: "Chain of Stars"
 source: "Pathfinder Treasure Vault"

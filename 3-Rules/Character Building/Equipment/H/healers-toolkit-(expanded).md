@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "healers-toolkit-(expanded)"
 aliases: "Healer's Toolkit (Expanded)"
 source: "Pathfinder Player Core"

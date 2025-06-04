@@ -3,7 +3,7 @@ tags:
   - "#Character"
   - "#NPC"
   - "#Deity"
-art: zz_Attachments/Thalor.png
+art: zz-Attachments/Thalor.png
 pronounced: Thal-or
 aliases:
   - Keeper of Wisdom, Patron of Scholars, Lord of Knowledge
@@ -162,6 +162,10 @@ Thalor’s disdain for [[Malakar]] stems from the god’s association with corru
 > Zoom into the present moment within the divine realm. Describe the current actions, involvements, or initiatives of this deity. Are they undertaking new endeavors, guiding mortals, or engaging in conflicts with other divine entities? Additionally, explore any recent events or developments that have affected the deity's influence or relationship with mortals or other deities. How are these current events shaping their standing within the pantheon or their interactions with worshippers?
 
 ## The Church
+> [!caption|left]
+> ![[Thalor Holy Symbol.png]]
+> Holy Symbol of Thalor
+
 Thalor teaches that knowledge is the key to enlightenment and that wisdom must guide one's actions. His followers are encouraged to seek knowledge in all its forms, from scholarly pursuits to introspection and meditation. Thalor's teachings emphasize the importance of critical thinking, rationality, and ethical conduct. He promotes the dissemination of knowledge and the pursuit of truth for the betterment of society.
 
 The Church of Thalor is highly respected, especially among scholars, academics, and those who value learning. Temples are often libraries, universities, or centers of learning, where scribes, scholars, and philosophers gather to study and exchange ideas. Clergy members are known as Sages, Scholars, and Loremasters, each specializing in different aspects of knowledge and wisdom.

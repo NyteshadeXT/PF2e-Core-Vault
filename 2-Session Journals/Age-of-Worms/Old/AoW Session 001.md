@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 sessiondate: 2025-01-09
 characters:
   - "[[Akiowen]]"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "war-blood-mutagen-(moderate)"
 aliases: "War Blood Mutagen (Moderate)"
 source: "Pathfinder #178: Punks in a Powder Keg"

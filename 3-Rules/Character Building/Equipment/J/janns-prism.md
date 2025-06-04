@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "janns-prism"
 aliases: "Jann's Prism"
 source: "Pathfinder Rage of Elements"

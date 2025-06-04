@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "gliding-membranes-(greater)"
 aliases: "Gliding Membranes (Greater)"
 source: "Pathfinder Howl of the Wild"

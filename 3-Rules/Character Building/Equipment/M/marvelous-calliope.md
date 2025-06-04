@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "marvelous-calliope"
 aliases: "Marvelous Calliope"
 source: "Pathfinder #152: Legacy of the Lost God"

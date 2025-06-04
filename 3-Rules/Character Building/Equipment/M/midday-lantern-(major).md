@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "midday-lantern-(major)"
 aliases: "Midday Lantern (Major)"
 source: "Pathfinder #172: Secrets of the Temple-City"

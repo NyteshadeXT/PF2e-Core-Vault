@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "navigators-feather"
 aliases: "Navigator's Feather"
 source: "Pathfinder #202: Severed at the Root"

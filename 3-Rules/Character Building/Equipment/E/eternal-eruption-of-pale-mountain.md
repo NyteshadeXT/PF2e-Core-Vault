@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "eternal-eruption-of-pale-mountain"
 aliases: "Eternal Eruption of Pale Mountain"
 source: "Pathfinder GM Core"

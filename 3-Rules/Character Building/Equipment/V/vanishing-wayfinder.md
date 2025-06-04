@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "vanishing-wayfinder"
 aliases: "Vanishing Wayfinder"
 source: "Pathfinder Lost Omens Character Guide"

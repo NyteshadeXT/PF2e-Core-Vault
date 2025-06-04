@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 whichparty: "[[Age of Worms Party Dashboard]]"
 sessiondate: 2025-02-13
 quicknote: The players head back into the Whispering Cairn.

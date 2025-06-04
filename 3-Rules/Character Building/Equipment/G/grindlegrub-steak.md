@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "grindlegrub-steak"
 aliases: "Grindlegrub Steak"
 source: "Pathfinder Lost Omens Highhelm"

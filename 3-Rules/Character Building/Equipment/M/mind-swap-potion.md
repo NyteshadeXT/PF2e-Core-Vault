@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "mind-swap-potion"
 aliases: "Mind-Swap Potion"
 source: "Pathfinder Treasure Vault"

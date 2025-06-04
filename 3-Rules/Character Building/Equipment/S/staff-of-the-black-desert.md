@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "staff-of-the-black-desert"
 aliases: "Staff of the Black Desert"
 source: "Pathfinder #155: Lord of the Black Sands"

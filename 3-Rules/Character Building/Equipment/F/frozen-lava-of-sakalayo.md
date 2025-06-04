@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "frozen-lava-of-sakalayo"
 aliases: "Frozen Lava of Sakalayo"
 source: "Pathfinder GM Core"

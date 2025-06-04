@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "repeating-crossbow"
 aliases: "Repeating Crossbow"
 source: "Pathfinder Guns & Gears"

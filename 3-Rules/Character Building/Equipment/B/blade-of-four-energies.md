@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "blade-of-four-energies"
 aliases: "Blade of Four Energies"
 source: "Pathfinder Secrets of Magic"

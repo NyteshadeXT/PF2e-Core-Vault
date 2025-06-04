@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "faerie-queens-bower"
 aliases: "Faerie Queen's Bower"
 source: "Pathfinder Treasure Vault"

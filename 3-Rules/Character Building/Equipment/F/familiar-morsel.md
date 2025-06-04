@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "familiar-morsel"
 aliases: "Familiar Morsel"
 source: "Pathfinder Treasure Vault"

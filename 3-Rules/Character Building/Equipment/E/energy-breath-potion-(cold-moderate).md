@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "energy-breath-potion-(cold-moderate)"
 aliases: "Energy Breath Potion (Cold, Moderate)"
 source: "Pathfinder GM Core"

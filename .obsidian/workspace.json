@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/Alloy Orb (Exquisite High-Grade).md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alloy Orb (Exquisite High-Grade)"
+              "title": "abadars-flawless-scale"
             }
           },
           {
@@ -55,15 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DoTo List.md",
+                "file": "1-GM Toolkit/ToDo List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DoTo List"
+              "title": "ToDo List"
+            }
+          },
+          {
+            "id": "f795d8c7c9d887cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Encounter at Blackwall Keep"
+            }
+          },
+          {
+            "id": "2cdb14d159887754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/A/alchemists-haversack.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "alchemists-haversack"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 346.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -282,43 +311,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f34af5987923c59",
+  "active": "2cdb14d159887754",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/A/alkenstar-ice-wine.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/A/alicorn-trigger.md",
-    "1-GM Toolkit/DoTo List.md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "3-Rules/Character Building/Equipment/A/alicorn-lance.md",
-    "3-Rules/Character Building/Equipment/A/alghollthu-lash.md",
-    "3-Rules/Character Building/Equipment/A/alicorn-hair.md",
-    "3-Rules/Character Building/Equipment/A/alcohol.md",
-    "3-Rules/Character Building/Equipment/A/aldori-dueling-sword.md",
-    "3-Rules/Character Building/Equipment/A/accolade-robe-(greater).md",
-    "3-Rules/Character Building/Equipment/A/abysium-powder.md",
-    "3-Rules/Character Building/Equipment/A/alchemists-lab-expanded.md",
-    "3-Rules/Character Building/Equipment/A/alchemists-lab.md",
-    "3-Rules/Character Building/Equipment/A/alchemist-goggles-major.md",
-    "3-Rules/Character Building/Equipment/A/alchemist-goggles-greater.md",
-    "3-Rules/Character Building/Equipment/A/alchemist-goggles.md",
-    "3-Rules/Character Building/Equipment/A/Alchemist's Toolkit.md",
-    "3-Rules/Character Building/Equipment/A/Alicorn Hair.md",
-    "3-Rules/Character Building/Equipment/A/alchemists-flamethrower.md",
-    "3-Rules/Character Building/Equipment/A/Aldori Dueling Sword.md",
-    "3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded).md",
-    "3-Rules/Character Building/Equipment/A/Alchemist's Damper.md",
-    "3-Rules/Character Building/Equipment/A/Alchemist's Fire (Greater).md",
-    "3-Rules/Character Building/Equipment/A/alchemical-gauntlet.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Attachments/Aerial Cloak.png",
-    "zz-Attachments/Kyuss Spawnling.png",
-    "zz-Attachments/Egg Chamber.png",
-    "zz-Attachments/Findings in the Egg Chamber.png",
-    "zz-Attachments/Ilthane's Kobolds.png",
-    "zz-Attachments/image-4.png",
-    "zz-Attachments/Shukak.png",
-    "zz-Attachments/Marzena.png",
-    "zz-Attachments/adze.png",
+    "1-GM Toolkit/Vault Report.md",
+    "3-Rules/Character Building/Equipment/A/advancing-greater.md",
+    "3-Rules/Character Building/Equipment/A/accursed-staff.md",
+    "3-Rules/Character Building/Equipment/A/Abysium Ingot.md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(moderate).md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(greater).md",
+    "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
+    "1-GM Toolkit/Home.md",
+    "3-Rules/Character Building/Equipment/A/Untitled.md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(true).md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(lesser).md",
+    "3-Rules/Character Building/Equipment/A/angelic-opera-cloak.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(major).md",
+    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 015.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 014.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 013.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 012.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 011.md",
+    "2-Session Journals/Age-of-Worms/Old/Aow Session 010.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 009.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 008.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 007.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 006.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 005.md",
+    "zz-Attachments/amnemonic charm.png",
+    "zz-Attachments/Zerathos Holy Symbol.png",
+    "zz-Attachments/Vorthron Holy Symbol.png",
+    "zz-Attachments/Verena Holy Symbol.png",
+    "zz-Attachments/Valorus Holy Symbol.png",
+    "zz-Attachments/Thalor Holy Symbol.png",
+    "zz-Attachments/Sylvan Holy Symbol.png",
+    "zz-Attachments/Neralith Holy Symbol.png",
+    "zz-Attachments/Morvael Holy Symbol.png",
+    "zz-Attachments/Malakar Holy Symbol.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",
@@ -328,7 +358,6 @@
     "3-Rules/Character Building/Equipment/U",
     "3-Rules/Character Building/Equipment/T",
     "3-Rules/Character Building/Equipment/S",
-    "3-Rules/Character Building/Equipment/R",
-    "zz-Attachments/Twisted Branch Lair.png"
+    "3-Rules/Character Building/Equipment/R"
   ]
 }

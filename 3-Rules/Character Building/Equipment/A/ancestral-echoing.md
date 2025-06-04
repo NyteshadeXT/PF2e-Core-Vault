@@ -2,16 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "ancestral-echoing"
 aliases: "Ancestral Echoing"
 source: "Pathfinder #148: Fires of the Haunted City"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "rare"
 trait01: "dwarf"
 trait02: "magical"
 trait03: "saggorak"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -21,6 +22,7 @@ level: 15
 weight: 
 value: "9500"
 subvalue: "gp"
+group: "weapon property rune"
 invest:
 usage: "etched onto a weapon"
 license: "ORC"
@@ -74,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

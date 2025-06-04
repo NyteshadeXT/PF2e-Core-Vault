@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragonfly-potion"
 aliases: "Dragonfly Potion"
 source: "Pathfinder Lost Omens The Grand Bazaar"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "soothing-powder-(lesser)"
 aliases: "Soothing Powder (Lesser)"
 source: "Pathfinder Treasure Vault"

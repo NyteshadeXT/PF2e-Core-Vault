@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "kraken-figurehead-(wracking)"
 aliases: "Kraken Figurehead (Wracking)"
 source: "Pathfinder Rage of Elements"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "tales-in-timber"
 aliases: "Tales in Timber"
 source: "Pathfinder Rage of Elements"

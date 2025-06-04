@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "fan-of-soothing-winds"
 aliases: "Fan of Soothing Winds"
 source: "Pathfinder Rage of Elements"

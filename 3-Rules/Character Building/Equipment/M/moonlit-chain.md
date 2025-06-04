@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "moonlit-chain"
 aliases: "Moonlit Chain"
 source: "Pathfinder GM Core"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "dragons-breath-(1st-level-spell)"
 aliases: "Dragon's Breath (1st Level Spell)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

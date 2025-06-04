@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "jyotis-feather-(greater)"
 aliases: "Jyoti's Feather (Greater)"
 source: "Pathfinder Treasure Vault"

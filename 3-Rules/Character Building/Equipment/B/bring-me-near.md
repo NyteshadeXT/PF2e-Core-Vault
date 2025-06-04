@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bring-me-near"
 aliases: "Bring Me Near"
 source: "Pathfinder Treasure Vault"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "animal-pheromones-(moderate)"
 aliases: "Animal Pheromones (Moderate)"
 source: "Pathfinder Howl of the Wild"

@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "kora-of-the-unending-story"
 aliases: "Kora of the Unending Story"
 source: "Pathfinder #211: The Secret of Deathstalk Tower"

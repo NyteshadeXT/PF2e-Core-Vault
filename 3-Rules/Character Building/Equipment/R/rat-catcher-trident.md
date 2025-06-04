@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "rat-catcher-trident"
 aliases: "Rat-Catcher Trident"
 source: "Pathfinder Lost Omens Gods & Magic"

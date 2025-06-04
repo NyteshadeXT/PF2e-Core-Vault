@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "maelstromic-destabilizer-(major)"
 aliases: "Maelstromic Destabilizer (Major)"
 source: "Pathfinder Lost Omens Rival Academies"

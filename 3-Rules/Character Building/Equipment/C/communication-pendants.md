@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "communication-pendants"
 aliases: "Communication Pendants"
 source: "Pathfinder Special: Fumbus!"

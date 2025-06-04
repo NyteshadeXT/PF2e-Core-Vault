@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "warding-tattoo-(trail)"
 aliases: "Warding Tattoo (Trail)"
 source: "Pathfinder Secrets of Magic"

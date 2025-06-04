@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "compass-of-transpositional-awareness"
 aliases: "Compass of Transpositional Awareness"
 source: "Pathfinder Dark Archive"

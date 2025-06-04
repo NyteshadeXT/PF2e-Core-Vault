@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "spell-echo-shot"
 aliases: "Spell Echo Shot"
 source: "Pathfinder Treasure Vault"

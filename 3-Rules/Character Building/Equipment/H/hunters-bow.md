@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "hunters-bow"
 aliases: "Hunter's Bow"
 source: "Pathfinder Beginner Box"

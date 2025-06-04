@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "toy-carriage-(windup)"
 aliases: "Toy Carriage (Windup)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

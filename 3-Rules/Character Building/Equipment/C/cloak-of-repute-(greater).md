@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "cloak-of-repute-(greater)"
 aliases: "Cloak of Repute (Greater)"
 source: "Pathfinder Lost Omens Character Guide"

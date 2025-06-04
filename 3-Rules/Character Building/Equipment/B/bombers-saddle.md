@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "bombers-saddle"
 aliases: "Bomber's Saddle"
 source: "Pathfinder #155: Lord of the Black Sands"

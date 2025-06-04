@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crown-of-the-kobold-king"
 aliases: "Crown of the Kobold King"
 source: "Pathfinder Adventure: Crown of the Kobold King"

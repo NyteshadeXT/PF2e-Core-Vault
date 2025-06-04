@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "stepping-stone-shot-(greater)"
 aliases: "Stepping Stone Shot (Greater)"
 source: "Pathfinder Guns & Gears"

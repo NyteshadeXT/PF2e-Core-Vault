@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "crystal-ball-(selenite)"
 aliases: "Crystal Ball (Selenite)"
 source: "Pathfinder GM Core"

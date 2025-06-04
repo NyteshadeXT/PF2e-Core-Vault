@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "belt-of-the-five-kings"
 aliases: "Belt of the Five Kings"
 source: "Pathfinder Core Rulebook"

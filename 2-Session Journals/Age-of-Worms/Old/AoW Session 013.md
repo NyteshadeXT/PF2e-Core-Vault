@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 aliases:
   - The Citadel of Hextor
 whichparty: "[[Age of Worms Party Dashboard]]"

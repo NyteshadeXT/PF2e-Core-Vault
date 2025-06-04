@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "helmsmans-recourse"
 aliases: "Helmsman's Recourse"
 source: "Pathfinder Treasure Vault"

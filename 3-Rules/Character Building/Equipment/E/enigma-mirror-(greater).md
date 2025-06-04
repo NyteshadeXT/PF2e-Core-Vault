@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "enigma-mirror-(greater)"
 aliases: "Enigma Mirror (Greater)"
 source: "Pathfinder Treasure Vault"

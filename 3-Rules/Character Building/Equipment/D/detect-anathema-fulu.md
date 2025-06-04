@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "detect-anathema-fulu"
 aliases: "Detect Anathema Fulu"
 source: "Pathfinder Secrets of Magic"

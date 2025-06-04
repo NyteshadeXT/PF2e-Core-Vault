@@ -2,7 +2,8 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: h-line
+notetype: pf2e-item
 name: "wand-of-hybrid-form-(9th-level)"
 aliases: "Wand of Hybrid Form (9th-level)"
 source: "Pathfinder Treasure Vault"
