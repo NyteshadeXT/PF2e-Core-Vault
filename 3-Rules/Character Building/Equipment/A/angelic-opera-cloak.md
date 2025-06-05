@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "angelic-opera-cloak"
 aliases: "Angelic Opera Cloak"
 source: "Pathfinder #206: Bring the House Down"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "rare"
 trait01: "apex"
 trait02: "holy"
 trait03: "invested"
 trait04: "magical"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This luxurious cloak embodies an angel's swiftness. You gain a +3 item bonus to Acrobatics checks and never take falling damage, as your cloak billows like a pair of wings to soften any fall you take. When you invest in the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you are [[Conditions/Slowed|Slowed 1]] while wearing this cloak.  **Activate—On Angel's Wings** `pf2:2` (concentrate)  **Frequency** once per hour  * * *  **Effect** The opera cloak transforms into two pairs of brilliant, feathered wings that grant you a fly Speed of 40 feet for 10 minutes. During this time, you gain immunity to paralysis effects and ignore effects that would give you a circumstance penalty to speed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
+description: "This luxurious cloak embodies an angel's swiftness. You gain a +3 item bonus to [[Skills#Acrobatics|Acrobatics]] checks and never take falling damage, as your cloak billows like a pair of wings to soften any fall you take. When you invest in the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you are [[Slowed|Slowed 1]] while wearing this cloak."
+powerTitle: "On Angel's Wings"
+actionEconomy: 2
+type: "([[concentrate]])"
+frequency: "once per hour"
 trigger:
-mechanics:
+mechanics: "The opera cloak transforms into two pairs of brilliant, feathered wings that grant you a fly Speed of 40 feet for 10 minutes. During this time, you gain immunity to paralysis effects and ignore effects that would give you a circumstance penalty to speed."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

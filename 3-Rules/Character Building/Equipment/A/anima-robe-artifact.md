@@ -4,18 +4,18 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "anima-robe-(heroic)"
-aliases: "Anima Robe (Heroic)"
+name: "anima-robe-artifact"
+aliases: "Anima Robe (Artifact)"
 source: "Pathfinder #212: A Voice in the Blight"
-pg: ""
-rarity: ""
+pg: "72"
+rarity: "unique"
 trait01: "apex"
 trait02: "artifact"
 trait03: "illusion"
 trait04: "intelligent"
 trait05: "invested"
 trait06: "magical"
-trait07: "unique"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
@@ -67,6 +67,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+int:
+wis:
+cha:
+will:
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #

@@ -90,6 +90,19 @@ immunity:
 conditionImmunity: 
 
 #========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+int:
+wis:
+cha:
+will:
+
+#========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase: 

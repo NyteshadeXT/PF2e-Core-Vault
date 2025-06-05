@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-item, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
+name: "alchemist's-toolkit"
+aliases: "Alchemist's Toolkit"
+source: "Pathfinder Player Core"
+pg: "287"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -17,23 +17,23 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: 
-weight: 
-value: ""
-subvalue: ""
+weight: 1
+value: "3"
+subvalue: "gp"
 invest:
-usage: ""
-license: ""
+usage: "one or two hands"
+license: "ORC"
 identify: ""
-description: ""
+description: "This mobile collection of vials and chemicals can be used for simple alchemical tasks. If you wear your alchemist's toolkit, you can draw and replace them as part of the action that uses them."
 craft: 
 destruction: 
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
+powerTitle: ""
 actionEconomy: 
 type: 
 frequency: 
@@ -90,19 +90,6 @@ immunity:
 conditionImmunity: 
 
 #========================================================#
-#              INTELLIGENT ITEM PROPERTIES               #
-#========================================================#
-perception:
-communication:
-skill1:
-skill2:
-skill3:
-int:
-wis:
-cha:
-will:
-
-#========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase: 
@@ -114,17 +101,4 @@ shieldBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Bo Staff"
-SORT level ASC
-
 ```
