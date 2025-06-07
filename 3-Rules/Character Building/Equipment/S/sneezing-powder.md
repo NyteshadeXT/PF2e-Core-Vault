@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "You can toss sneezing powder at an adjacent creature as an Interact action. The target must attempt a DC 15 Fortitude check save to avoid sneezing. On a failed save, the creature sneezes uncontrollably, becoming [[Conditions/Slowed|Slowed 1]] for 1 round. On a critical failure, the creature is instead slowed 1 for 3 rounds."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

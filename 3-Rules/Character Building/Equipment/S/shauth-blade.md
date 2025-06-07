@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "These strange curved blades are jagged and deadly weapons made from the alchemically strengthened teeth of dead urdefhans. Each weapon is typically named for the urdefhan whose teeth were forged into the weapon, which are often carried (and revered) by that urdefhan's descendants. Magical shauth blades allow an urdefhan wielder to channel their Wicked Bite ability through shauth blade Strikes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

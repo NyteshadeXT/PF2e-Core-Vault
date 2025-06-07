@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "Appearing as a magic cloak such as a _clandestine cloak_, this garment is made of highly volatile fabric. While wearing it, if you take fire damage, you also take 1d10 persistent fire damage. Taking fire damage while the persistent fire damage is in effect has no additional effect. You can extinguish the persistent fire damage as normal.  Any creature that hits you with a melee unarmed attack while you are taking this persistent fire damage takes fire damage equal to the persistent fire damage you took on your previous turn. Once the curse has activated for the first time, the cloak fuses to you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

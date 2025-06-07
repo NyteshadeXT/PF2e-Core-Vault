@@ -27,12 +27,12 @@ usage: "etched onto melee weapon"
 license: "ORC"
 identify:
 description: "An _extending_ rune allows you to extend your weapon to impossible lengths.  * * *  **Activate—Extend** `pf2:2` (manipulate)  * * *  **Effect** You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 120 feet for the Strike."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -28,12 +28,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "This _+1 striking bo staff_ is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to Disarm you of it."
-powerTitle: "Better Balance"
-actionEconomy: r
+powerTitle1: "Better Balance"
+actionEconomy1: r
 type: ([[Command]])
 frequency:
-trigger: "You fail or critically fail an Acrobatics check to Balance and would fall."
-mechanics: "Reroll the Acrobatics check and take the better result."
+trigger1: "You fail or critically fail an Acrobatics check to Balance and would fall."
+mechanics1: "Reroll the Acrobatics check and take the better result."
 powerTitle2:
 actionEconomy2:
 type2:

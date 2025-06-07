@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Upon drinking this mutagen, you can feel your blood surge through your body and hear a low-pitched humming in your ears. These sensations subside as the flesh and muscles of your arm loosen and stretch, the fibers of your very being reaching out to combine with the base of one melee weapon you're holding.  **Benefit** Choose one melee weapon you're holding in one or both hands. You gain a +1 item bonus to your attack rolls with this weapon and to Will saves against fear effects for 1 minute. Any attempt to [[Actions/Disarm|Disarm]] or otherwise remove the weapon from your hands must exceed DC 25 or the attempt fails.  [[Equipment Effects/Effect_ War Blood Mutagen (Lesser)|Effect: War Blood Mutagen (Lesser)]]  **Drawback** You can't voluntarily remove the weapon unless you succeed at a DC 25 Athletics check, which ends the war blood mutagen's effects; this check takes a single action. If you perform an action with the concentrate trait, you must succeed at a DC 5 Flat check or the action is lost."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

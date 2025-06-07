@@ -27,12 +27,12 @@ usage: "affixed to armor shield or weapon"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor, shield, or weapon  **Activate** `pf2:0` envision  **Trigger** The affixed object would take damage  This small pebble is strangely dense and surprisingly durable, affixed to an object by a sturdy steel chain. When you activate the pebble, the affixed object takes 10 less damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

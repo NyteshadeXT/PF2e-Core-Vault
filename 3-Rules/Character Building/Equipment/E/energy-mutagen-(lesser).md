@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.  **Benefit** You gain resistance 5 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1 damage of the attuned energy type.  **Drawback** You gain weakness 5 to the other three energy types.  **Duration** 1 minute.  [[Equipment Effects/Effect_ Energy Mutagen (Lesser)|Effect: Energy Mutagen (Lesser)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

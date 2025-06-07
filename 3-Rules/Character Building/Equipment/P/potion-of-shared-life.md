@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  Two swirling liquids fill this flask, each slightly distinct in color and brightness from the other. When you drink this potion, you consume only half of the contents. If another willing creature consumes the remainder of the contents within 1 minute, your vitalities become linked for 1 minute from the moment the second one of you drinks. The two of you share breath, so as long as you're within 60 feet of one another, neither of you can begin suffocating unless you're both suffocating. You both gain the [[Actions/Share Life|Share Life]] reaction."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

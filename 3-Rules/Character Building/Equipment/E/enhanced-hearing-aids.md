@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "These hearing aids work like _magical hearing aids_, but they're designed with a more potent and focused magic.  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  **Requirements** Your hearing aids are currently on  * * *  **Effect** You mentally increase the input of your hearing aids. You gain a +1 item bonus to all hearing-based Perception checks for 10 minutes.  [[Equipment Effects/Effect_ Enhanced Hearing Aids|Effect: Enhanced Hearing Aids]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

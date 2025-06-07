@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  Stupor poison is a more potent distillation of lethargy poison. Further exposure to stupor poison doesn't require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.  **Saving Throw** DC 20 Fortitude check  **Maximum Duration** 6 hours  **Stage 1** [[Conditions/Slowed|Slowed 1]] and [[Conditions/Off-Guard|Off-Guard]] (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and off-guard (1 round)  **Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 round)  **Stage 4** unconscious with no Perception check to wake up (1d6 hours)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

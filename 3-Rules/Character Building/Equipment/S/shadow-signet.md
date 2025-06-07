@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This obsidian ring allows you to partially warp your spells through the Netherworld, allowing them to strike directly at a target's body.  **Activate** `pf2:0` (concentrate, spellshape)  * * *  **Effect** If your next action is to Cast a Spell that requires a spell attack roll against Armor Class, choose Fortitude DC or Reflex DC. You make your spell attack roll against that defense instead of AC. If the spell has multiple targets, the choice of DC applies to all of them."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

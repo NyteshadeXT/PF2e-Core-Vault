@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  A faint mist emanates from your skin, making you [[Conditions/Concealed|Concealed]] for 3 rounds.  As usual being concealed when your position is still obvious, you can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

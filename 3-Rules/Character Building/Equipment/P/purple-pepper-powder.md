@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This nearly black purple powder is made from the extremely spicy Kuthite's kiss pepper and is a favorite among the Sklar-Quah. When you eat a meal flavored with this purple pepper powder, you gain resistance 10 to fire and resistance 5 to poison for 1 hour.  [[Equipment Effects/Effect_ Purple Pepper Powder|Effect: Purple Pepper Powder]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

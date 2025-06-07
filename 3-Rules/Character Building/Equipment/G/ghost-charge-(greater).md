@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures.  A _ghost charge_ gives a +2 item bonus to attack rolls, deals 3d8 vitality damage and 3 vitality splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. A primary target that takes damage from a _ghost charge_ becomes [[Conditions/Enfeebled|Enfeebled 2]] until the start of your next turn.  _Ghost charges_ are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

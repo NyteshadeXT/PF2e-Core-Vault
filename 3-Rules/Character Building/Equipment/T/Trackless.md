@@ -27,12 +27,12 @@ usage: "applied to footwear"
 license: "ORC"
 identify:
 description: "Trackless runes are common among hunters and trappers, as well as thieves and anyone [[Conditions/Fleeing|Fleeing]] pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from [[Spells/Vanishing Tracks|Vanishing Tracks]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

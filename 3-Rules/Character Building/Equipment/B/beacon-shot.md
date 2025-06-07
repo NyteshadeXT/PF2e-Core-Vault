@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` (manipulate)  * * *  The shaft of a _beacon shot_ is studded with tiny flecks of glimmering gemstones. When an activated _beacon shot_ hits a target, it embeds itself into that target and spews sparks for 1 minute. If the target is [[Conditions/Invisible|Invisible]], it becomes merely [[Conditions/Hidden|Hidden]] to creatures who would otherwise be unable to see it. The sparks also negate the [[Conditions/Concealed|Concealed]] condition if the target was otherwise concealed.  A creature can remove the arrow or bolt by using an Interact basic action and succeeding at a DC 20 Athletics check check."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

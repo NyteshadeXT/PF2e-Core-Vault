@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated _antler arrow_ hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex check save or become stuck to the surface, taking the critical specialization effects of a bow.  If the hit with the _antler arrow_ is a critical hit and you have access to the bow critical specialization effect, the DC of the Athletics check increases to 15."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

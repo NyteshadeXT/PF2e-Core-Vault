@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A female figure peers through her blindfold from the cover of this stately tome.  * * *  **Activate** `pf2:0` envision  **Frequency** once per hour  **Requirements** Your last action was to cast a divination spell prepared from this grimoire  * * *  **Effect** The grimoire offers you a glimpse into the truth of things. Seek or Recall Knowledge. When you use it, you gain a +1 item bonus on your Perception check to Seek or skill check to Recall Knowledge.  [[Equipment Effects/Effect_ Codex of Unimpeded Sight (Greater)|Effect: Codex of Unimpeded Sight (Greater)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

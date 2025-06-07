@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This staff is constructed from a magically grown amanita mushroom, with a shaft that spreads into a bright red cap speckled in white. While wielding the staff you gain a +2 circumstance bonus to Nature checks to identify fungus.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Puff of Poison|Puff of Poison]] *   **1st** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only) *   **2nd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/One with Plants|One with Plants]] (giant mushroom only) *   **3rd** [[Spells/Protector Tree|Protector Tree]] (resembles giant mushroom, not a tree), [[Spells/Stinking Cloud|Stinking Cloud]], [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] (fungus only), [[Spells/Wall of Thorns|Wall of Thorns]] (resembles wall of fungus; deals poison damage)  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

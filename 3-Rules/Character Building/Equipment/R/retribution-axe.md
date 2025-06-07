@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "The blade of this _+1 greataxe_ bears a design of a human skull.  Whenever a creature damages you with an attack, the skull changes its appearance to look like the face of that creature. You gain a +2 circumstance bonus to your next damage roll against that creature before the end of your next turn.  Because the face reshapes each time you're damaged, you get the additional damage only if you attack the creature that damaged you most recently."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

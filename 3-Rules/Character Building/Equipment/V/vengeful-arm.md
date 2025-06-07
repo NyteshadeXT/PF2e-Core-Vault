@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Abraxas teaches that an eye for an eye is the basis of law. This tattoo of a coiled viper provides a +1 item bonus to Society checks.  **Activate** `pf2:1` envision  * * *  **Effect** Abraxas transforms the tattoo into a weapon of your vengeance. The vengeful arm crawls into your hand and becomes a [[Equipment/Retribution Axe|Retribution Axe]]. You can use this activation again while holding the axe to revert the vengeful arm to a tattoo. Like other retribution axes, you can etch fundamental runes into the vengeful arm's retribution axe to increase its potency or to add striking."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

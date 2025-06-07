@@ -27,12 +27,12 @@ usage: "worneyepiece"
 license: "ORC"
 identify:
 description: "These lenses of forest-green glass are bound in rough leather stitched with crude twine.  While wearing these goggles, you gain a +1 bonus to Survival checks to Sense Direction and Track.  If you fail a check to Track, you can try again after 30 minutes rather than an hour."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

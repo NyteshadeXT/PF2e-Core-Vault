@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This light shirt is made of thin fabric embroidered with arrangements of winged feet.  * * *  **Activate** `pf2:2` envision  **Frequency** once per hour  * * *  **Effect** Your feet feel lighter, allowing you to move with greater speed. You Stride three times and gain a +10-foot item bonus to your Speed during those Stride actions."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

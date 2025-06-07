@@ -28,12 +28,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The tip of this [[Weapon Potency (+2)|+2]] [[striking-(greater)|greater striking]] [[spear]] is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing."
-powerTitle: "Transformation"
-actionEconomy: 1
+powerTitle1: "Transformation"
+actionEconomy1: 1
 type: ([[command]])
 frequency:
-trigger:
-mechanics: "The anchor spear extends into a +2 greater striking longspear or back to its original form as a +2 greater striking spear."
+trigger1:
+mechanics1: "The anchor spear extends into a +2 greater striking longspear or back to its original form as a +2 greater striking spear."
 powerTitle2: "Embed"
 actionEconomy2: r
 type2: ([[command]])

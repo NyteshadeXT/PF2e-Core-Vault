@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This brass censer dangles on a length of chain. Most _thuribles of revelation_ are adorned with swirling Empyrean text, though some are iron and feature Diabolic or Chthonian text.  **Activate—Burn Incense** `pf2:2` (manipulate)  **Cost** incense worth at least 5 gp  * * *  **Effect** You light the incense inside the censer, and it burns for 1 hour. During that time, as long you are holding the thurible, you gain a +1 item bonus to Religion checks, and any critical failure you roll when you Decipher Writing of a religious nature is a failure instead.  [[Equipment Effects/Effect_ Thurible of Revelation|Effect: Thurible of Revelation]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

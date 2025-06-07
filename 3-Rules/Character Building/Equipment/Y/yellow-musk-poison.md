@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The powdered pollen from a yellow musk creeper addles the mind.  * * *  **Activate** `pf2:1` Interact (Inhaled)  **Saving Throw** DC 16 Will check  **Maximum Duration** 2 rounds  **Stage 1** [[Conditions/Fascinated|Fascinated]] by the poison cloud (1 round)  **Stage 2** fascinated by the poison cloud, and can use no actions but to move closer to the cloud's point of origin (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

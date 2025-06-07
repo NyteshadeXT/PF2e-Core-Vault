@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This ragged, mud-stained cape closes with a single black button engraved with a leering devil's face. When you [[Actions/Leap|Leap]], [[Actions/High Jump|High Jump]], or [[Actions/Long Jump|Long Jump]] (or Vault, if you're Spring-Heeled Jack), you gain a +1 item bonus to Stealth checks to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]] until the start of your next turn.  [[Equipment Effects/Effect_ Jack's Tattered Cape|Effect: Jack's Tattered Cape]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

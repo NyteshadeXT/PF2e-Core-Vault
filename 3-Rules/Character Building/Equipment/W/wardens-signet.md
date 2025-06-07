@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to Nature checks.  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the warden's signet also casts a 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]]spell on you. If not used by the end of your turn, this Focus Point is lost.  * * *  **Craft Requirements** You are a ranger with at least one warden spell."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

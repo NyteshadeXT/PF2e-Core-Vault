@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this _+3 greater striking holy vitalizing peachwood shortsword_ has ancient runes that can permanently destroy the most powerful undead—if you are willing to pay the price.  An undead creature of 12th level or lower that takes damage from a Strike with the sword takes 10d6 vitality damage with a DC 35 Fortitude check save. This damage is separate from the Strike itself and isn't included in any effect based on the Strike's damage.  **Activate—Violent Exorcism** `pf2:r` (concentrate)  **Frequency** once per day  **Trigger** You critically hit an undead creature with the sword  * * *  **Effect** The creature must succeed at a DC 35 Fortitude check save or be destroyed. If the undead fails its saving throw and is destroyed, you suffer a backlash, taking 1d6 void damage per level of the destroyed undead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

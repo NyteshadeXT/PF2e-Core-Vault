@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "The blade of this _+2 greater striking [[Equipment/Frost (Greater)|Frost (Greater)]] greatsword_ appears to be nothing but icy shards. The _frost brand_ automatically extinguishes non-magical fires in a 20-foot emanation. While wielding it, you gain fire resistance 5.  * * *  **Activate** `pf2:2` command, Interact  **Effect** You swing the _frost brand_ into the area of an ongoing magical fire, and the blade attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

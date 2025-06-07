@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Pathfinder Society researchers recently created elemental wayfinders with the assistance of the Society's elemental allies. In addition to the effects of a [[Equipment/Wayfinder|Wayfinder]], these wayfinders each grant the ability to cast a particular elemental spell once per day, and can assist Pathfinders in exploring areas associated with their element. Each has the trait associated with its element.  * * *  **Activate** `pf2:2` command  **Frequency** once per day  * * *  **Effect** The wayfinder can cast 4th-rank [[Spells/Lightning Bolt|Lightning Bolt]].  * * *  Additionally, you can cast [[Spells/Gentle Landing|Gentle Landing]] as a primal innate spell once every 10 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

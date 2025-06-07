@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You make an attack with the affixed weapon, but you haven't rolled yet  * * *  This fluorite crystal glows with a strange phosphorescence. When you activate the crystal, the weapon becomes a _+2 greater striking weapon_ on the Strike and until the end of this turn, gaining a +2 item bonus to the attack roll and increasing the damage to three weapon damage dice.  [[Equipment Effects/Effect_ Potency Crystal|Effect: Potency Crystal]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

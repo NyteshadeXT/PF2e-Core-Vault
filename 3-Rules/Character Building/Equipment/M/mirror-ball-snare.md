@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A mixture of metal shavings and flash powder inside this small, mirrored sphere ignites when disturbed, causing the ball to flash and spin. When a creature enters the square, the ball pops into the air, and all creatures within 10 feet who can see the mirror ball must succeed at a DC 22 Fortitude check save or become [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical failure, affected creatures are instead dazzled for 1 minute."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Books (Int)  **Alignment** neutral evil  * * *  _The Fool_ represents grave foolishness, grand naivete, and exceptional greed. As long as you have _The Fool_ invested, anytime you gain the [[Conditions/Stupefied|Stupefied]] condition, reduce its value by 1. You also gain a +2 item bonus to all saving throws against effects that cause the stupefied condition. This bonus increases to +3 if you're at least 17th level.  **Activate** `pf2:2` envision, Interact (mental)  **Frequency** once per day  * * *  **Effect** You display The Fool to your foes in a clumsy, awkward, and embarrassing way. Choose up to four creatures within 60 feet. These four creatures must attempt a Will check save against your class DC or spell DC.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is distracted by your antics and is [[Conditions/Stupefied|Stupefied 1]] until the start of your next turn.  **Failure** The creature is [[Conditions/Stupefied|Stupefied 2]].  **Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 3]]. In addition, for 1 minute, the creature is [[Conditions/Confused|Confused]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

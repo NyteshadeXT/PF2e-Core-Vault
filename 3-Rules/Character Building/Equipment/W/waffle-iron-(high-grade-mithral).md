@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This set of hinged metal plates features studs on the inside of each plate to provide a texture for the pastry cakes you cook with it. You pour batter on the plates, close the device, and place it on a fire or stove to cook.  Truly fit for emperors and demigods, this waffle iron is made of high-grade dawnsilver. Although most metallurgists are certain that the much more affordable standard-grade dawnsilver waffle iron maintains dawnsilver's full non-stick properties, the super elite insist that only waffles made from high-grade dawnsilver waffle irons conform to the most perfect shape and texture.  Nadian has one high-grade dawnsilver waffle iron for sale emblazoned with an archaic symbol associated with Milani from before she became a deity, supposedly used to make Milani herself waffles during her mortal life. As it's made of dawnsilver, this is an uncommon item."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

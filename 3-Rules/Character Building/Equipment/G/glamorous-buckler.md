@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to Deception checks to Feint.  * * *  **Activate—Dazzling Feint** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** You Feint  **Requirements** You have the glamorous buckler raised  * * *  **Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Conditions/Dazzled|Dazzled]] for 1 round.  * * *      | Hardness | HP | BT | | --- | --- | --- | | 3 | 6 | 3 |"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

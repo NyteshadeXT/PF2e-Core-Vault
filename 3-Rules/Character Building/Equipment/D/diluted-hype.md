@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 1 minute  **Stage 1** [[Conditions/Quickened|Quickened]] and can use the additional action to Step (1 round)  **Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 3** [[Conditions/Drained|Drained 1]] and stupefied 1 (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

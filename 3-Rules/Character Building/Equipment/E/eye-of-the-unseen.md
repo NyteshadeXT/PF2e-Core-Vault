@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +1 item bonus to visual Perception checks.  * * *  **Activate** `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** You focus on the eye to see the unseen. The eye casts [[Spells/See the Unseen|See the Unseen]] on you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

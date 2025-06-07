@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "When you pull up the hood of this nondescript gray cloak (an Interact action), you become drab and uninteresting, gaining a +2 item bonus to Stealth checks and to Deception checks to [[Actions/Impersonate|Impersonate]] a forgettable background character, such as a servant, but also taking a -1 item penalty to Diplomacy and Intimidation checks.  * * *  **Activate—Cloak Identity** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You pull the cloak's hood up and gain the benefits of a 5th-rank [[Spells/Veil of Privacy|Veil of Privacy]] for 8 hours or until you pull the hood back down, whichever comes first."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

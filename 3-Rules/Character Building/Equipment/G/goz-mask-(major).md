@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "Originally designed by a fanatical sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  **Effect** The mask gives you darkvision and allows you to ignore all [[Conditions/Concealed|Concealment]] from any environmental effects for 1 hour.  [[Equipment Effects/Effect_ Goz Mask (Major)|Effect: Goz Mask (Major)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

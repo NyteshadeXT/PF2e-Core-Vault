@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Acid drips from the ankhrav mandibles protruding from this _+1 [[Equipment/Knuckle Duster|Knuckle Duster]]_. Strikes with this weapon deal an additional 1 acid damage.  * * *  **Activate—Caustic Jabs** `pf2:1` (concentrate)  **Frequency** once per hour  **Effect** Until the end of your next turn, your Strikes with the _ankhrav duster_ deal an additional 1d6 persistent acid damage.  [[Equipment Effects/Effect_ Caustic Jabs|Effect: Caustic Jabs]]  * * *  **Craft Requirements** The initial raw materials must include the mandibles of an ankhrav."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

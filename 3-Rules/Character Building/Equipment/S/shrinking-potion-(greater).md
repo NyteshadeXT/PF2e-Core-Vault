@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This fungus-flavored potion conveys the effects of the [[Spells/Shrink|Shrink]] spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-rank _shrink_ spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.  [[Equipment Effects/Effect_ Shrinking Potion (Greater)|Effect: Shrinking Potion (Greater)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

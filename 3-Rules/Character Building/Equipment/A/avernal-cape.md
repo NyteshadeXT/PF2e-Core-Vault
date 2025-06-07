@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "Made from preserved crimson worm hide, this thick leather cape can deflect incoming blows without serious damage. It functions as a [[Equipment/Dueling Cape|Dueling Cape]] and while moved into a protective position, it also grants you fire resistance equal to twice the relic's number of gifts.  [[Equipment Effects/Effect_ Dueling Cape|Effect: Dueling Cape]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

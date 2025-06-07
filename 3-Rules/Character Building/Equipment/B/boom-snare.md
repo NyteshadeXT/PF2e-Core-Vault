@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "By combining a [[Equipment/Alchemist's Fire (Lesser)|Alchemist's Fire (Lesser)]], a [[Equipment/Blasting Stone (Lesser)|Blasting Stone (Lesser)]], and other catalysts with a pressure sensitive trigger, you create a snare that creates a fiery and thunderous explosion when triggered. The target and all creatures in adjacent squares take 1d4 persistent fire damage.  * * *  **Craft Requirements** Supply a lesser alchemist's fire and a lesser thunderstone."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

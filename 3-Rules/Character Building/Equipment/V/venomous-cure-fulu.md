@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You attempt a saving throw against an injected poison.  * * *  This green fulu depicts venomous creatures and vermin. When activated, the venom from the fulu fights against the venom in your system, granting you a +2 status bonus to the triggering saving throw."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

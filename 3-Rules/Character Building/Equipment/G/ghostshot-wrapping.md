@@ -27,12 +27,12 @@ usage: "affixed to a ranged weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a ranged Strike with the affixed weapon while hidden or undetected.  * * *  This long strip of linen is tightly wound around the barrel of the affixed firearm or the grip of a bow. When activated, the talisman's magic dampens the sound of the triggering shot, rendering it completely silent, and additionally skews the angle of the shot, so it appears to come from a different location and direction than your actual position. You don't become automatically observed to any creatures due to making the triggering Strike."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

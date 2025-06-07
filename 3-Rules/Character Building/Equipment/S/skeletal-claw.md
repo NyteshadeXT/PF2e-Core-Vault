@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking tekko-kagi_ resembles a clawed skeletal hand that fits over your own. Embedded in the back of the bony hand is an onyx gemstone held in place by fine silver chains. When the claws tear into a living creature, the gem pulses with void energy. The skeletal claw deals an additional 1d4 persistent void damage to living creatures (1d10 persistent void damage on a critical hit).  **Activate** `pf2:0` command  * * *  **Frequency** once per day  **Trigger** You cast a spell to summon an undead creature that has a skeletal structure, such as with [[Spells/Summon Undead|Summon Undead]]  * * *  **Effect** The triggering undead creature has 10 temporary Hit Points that last for 1 minute. As long as any of these temporary Hit Points remain, the skeletal claw doesn't deal additional void damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

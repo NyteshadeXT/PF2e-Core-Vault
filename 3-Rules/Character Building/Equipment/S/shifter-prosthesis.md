@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This prosthetic arm is imbued with transmutation magic that can transform it into a weapon.  * * *  **Activate** `pf2:3` command, Interact  **Requirements** You are holding a one-handed weapon  * * *  **Effect** The prosthesis engulfs the weapon and absorbs it entirely. The weapon is unavailable until you use this Activation to release it from the prosthesis. The prosthesis can hold up to two items at a time.  * * *  **Activate** `pf2:0` envision  **Frequency** once per minute  * * *  **Effect** The prosthesis reshapes into the form of a weapon it has absorbed. The prosthesis has all of the statistics of the weapon, including the effects of any etched runes. The prosthesis remains in this weapon's form until you use this Activation again to revert it back to a prosthesis."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

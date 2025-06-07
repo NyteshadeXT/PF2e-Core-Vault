@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Ammunition** any  **Activate** `pf2:1` command  Strange striations and pits mark the head of a ranging shot. When the activated ammunition is fired, it sends out whistling pings along its path until it hits something or reaches its maximum range. As long as you can perceive the sounds the ammunition makes, you can tell exactly how far it has flown. The sounds are audible to creatures who didn't Activate the ammunition, but they receive no special information from the ranging shot's whistling."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

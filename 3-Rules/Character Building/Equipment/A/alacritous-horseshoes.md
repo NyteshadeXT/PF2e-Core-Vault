@@ -27,12 +27,12 @@ usage: "wornhorseshoes"
 license: "ORC"
 identify:
 description: "When you affix these simple iron horseshoes to the hooves of an ordinary horse or a quadrupedal animal companion and the animal companion invests them, that creature gains a +5-foot item bonus to its land Speed and a +2 item bonus to Athletics checks to High Jump and Long Jump.  In addition, when it Leaps, it can move 5 feet farther if jumping horizontally or 3 feet higher if jumping vertically."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

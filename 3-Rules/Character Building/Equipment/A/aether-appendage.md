@@ -27,13 +27,13 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This otherworldly prosthetic arm is the product of psychopomp magic. An aether appendage is incorporeal so long as no item is being held in the hand or worn on the arm. As an envision action, you can cause the arm to become corporeal until the end of your turn, allowing it to make Strikes or grasp objects. It remains corporeal if you're holding an item or it's wearing an item at the end of your turn. Your unarmed attack Strikes made with the _aether appendage_ become magical. If they're already magical, they instead gain the effect of the ghost touch property rune."
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[envision]], [[interact]])
 frequency: "once per day"
-trigger: 
+trigger1: 
 requirement: "You're holding a non-magical item of light or negligible Bulk" 
-mechanics: "The item becomes incorporeal for 1 minute. Your _aether appendage_ can use the incorporeal item normally."
+mechanics1: "The item becomes incorporeal for 1 minute. Your _aether appendage_ can use the incorporeal item normally."
 powerTitle2:
 actionEconomy2:
 type2:

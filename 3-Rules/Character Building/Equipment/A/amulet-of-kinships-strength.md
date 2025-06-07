@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This weighty brass disk is inscribed with the ancestral names of its previous owners and now includes your own. When worn, it rests against your chest with a heavy warmth, a reminder of the strength of those who came before you. While worn and invested, you gain a +2 item bonus to Will saves. This bonus increases to +3 if the effect has the fear trait.  "
-powerTitle: "Strenghten Resolve"
-actionEconomy: 1
-type:
-frequency: "oncer per day"
-trigger:
-mechanics: "You extend your resolve to your allies, casting [[Strength of Mind]] on up to three willing targets."
+powerTitle1: "Strenghten Resolve"
+actionEconomy1: 1
+type1:
+frequency1: "oncer per day"
+trigger1:
+mechanics1: "You extend your resolve to your allies, casting [[Strength of Mind]] on up to three willing targets."
 powerTitle2:
 actionEconomy2:
 type2:

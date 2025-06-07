@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "This snare is designed to divert a target's movement towards another snare or hazard. You may choose to have the target attempt a Will saving throw instead of a Reflex saving throw; if you do, add the fear and mental traits plus add either the visual or auditory trait.  When a Small or larger creature enters the square, the snare Pushes the creature 5 feet and the target becomes [[Conditions/Clumsy|Clumsy 1]] until the end of their next turn. On a critical failure the snare Pushes the target 10 feet and the target becomes [[Conditions/Clumsy|Clumsy 2]] until the end of their next turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

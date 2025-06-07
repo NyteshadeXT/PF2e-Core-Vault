@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  * * *  This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, make an Intimidation check to [[Actions/Demoralize|Demoralize]] up to two targets, comparing your Intimidation check result to both of their DCs."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

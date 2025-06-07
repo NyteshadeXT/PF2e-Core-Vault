@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  * * *  An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this material component to a [[Spells/Heal|Heal]] spell bestows an additional 5 temporary Hit Points to one target healed by the spell. These temporary Hit Points last for 1 minute.  [[Equipment Effects/Effect_ Healer's Gel|Effect: Healer's Gel]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

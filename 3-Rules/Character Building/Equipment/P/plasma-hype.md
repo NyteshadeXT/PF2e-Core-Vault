@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  A synthetic adrenaline supplement that increases awareness and reaction time. Plasma hype has been infused with a specific mixture of Numerian fluids and other alchemical reagents to improve upon the original hype formula.  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 1 minute  **Stage 1** +10-foot status bonus to speed, quickened and can use the additional action to Step, Stride, Climb, or Swim (1 round)  **Stage 2** quickened and can use the additional action to Step or Stride (1 round)  **Stage 3** [[Conditions/Drained|Drained 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

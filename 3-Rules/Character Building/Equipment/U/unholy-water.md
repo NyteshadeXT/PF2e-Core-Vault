@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  A malicious deity's malice lies within this vial of water. You activate a vial of _unholy water_ by throwing it as a Strike. It's a simple thrown weapon with a range increment of 20 feet.  _Unholy water_ deals 1d6 spirit damage and 1 spirit splash damage. _Unholy water_ can damage only creatures with the holy trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

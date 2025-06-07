@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws unarmed attack that deals 1d8 piercing damage. These jaws are in the brawling group. Whenever you score a critical hit with your jaws, your target takes 1 persistent bleed damage per weapon damage die."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

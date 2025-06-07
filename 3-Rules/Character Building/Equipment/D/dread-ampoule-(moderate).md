@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals 2d6 mental damage and 2 mental splash damage.  On a hit, the target becomes [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit. Many types also grant an item bonus to attack rolls.  You gain a +1 item bonus to attack rolls."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  When this silvery salve is applied to a melee weapon that deals piercing or slashing damage, the weapon grows sharper and more dangerous for 1 minute, granting it the benefits of the _[[Equipment/Keen|Keen]]_ rune.  [[Equipment Effects/Effect_ Oil of Keen Edges|Effect: Oil of Keen Edges]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

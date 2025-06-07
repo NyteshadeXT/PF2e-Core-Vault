@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: 
-powerTitle: "Acid Spit"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex check saving throw or take 'dice: 3d6' 3d6 acid damage.<BR><BR>**Critical Success** The creature is unaffected.<BR>**Success** The creature takes full damage.<BR>**Failure** The creature takes full damage and 5 persistent acid damage.<BR>**Critical Failure** The creature takes double damage and 10 persistent acid damage."
+powerTitle1: "Acid Spit"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex check saving throw or take 'dice: 3d6' 3d6 acid damage.<BR><BR>**Critical Success** The creature is unaffected.<BR>**Success** The creature takes full damage.<BR>**Failure** The creature takes full damage and 5 persistent acid damage.<BR>**Critical Failure** The creature takes double damage and 10 persistent acid damage."
 powerTitle2:
 actionEconomy2:
 type2:

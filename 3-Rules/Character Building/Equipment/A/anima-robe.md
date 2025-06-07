@@ -23,16 +23,16 @@ weight: L
 value: "6500"
 subvalue: "gp"
 invest:
-usage: "worngarment"
+usage: "worn garment"
 license: "ORC"
 identify:
 description: "This robe was the favored garment of the legendary Ekujae hero, Iyalirrin. When the draconic god Dahak threatened destruction, Iyalirrin was the primary architect of a powerful ritual to banish him called the anima invocation. Iyalirrin and many others were forced to sacrifice themselves to empower this ritual, but he ensured his _Anima Robe_ remained in good hands before he did so. Since then, the _Anima Robe_ has been worn by dozens of elven occultists and bards who have traveled Golarion and beyond. The _Anima Robe_ has remained in the care of Queen Telandia for only the past few dozen years.  While wearing the _Anima Robe_, you gain a +2 item bonus to [[Skills#Diplomacy|Diplomacy]] checks made to [[Make an Impression]] and to all [[Skills#Performance|Performance]] checks. You also gain resistance 10 to mental damage."
-powerTitle: "Who Am I?"
-actionEconomy: 1
+powerTitle1: "Who Am I?"
+actionEconomy1: 1
 type: "([[concentrate]], [[illusion]], [[manipulate]], [[visual]])"
 frequency:
-trigger:
-mechanics: "With a toss of the robe's hood, you cast a 3rd-rank [[Illusory Disguise]] on yourself."
+trigger1:
+mechanics1: "With a toss of the robe's hood, you cast a 3rd-rank [[Illusory Disguise]] on yourself."
 powerTitle2: "Who Are We?"
 actionEconomy2: 1
 type2: "([[concentrate]], [[illusion]], [[manipulate]], [[visual]])"

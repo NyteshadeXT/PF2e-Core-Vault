@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This gray mold can be found growing on the remains of venomous arachnids - particularly, giant spiders. Its lack of color and faint taste make it particularly suited for mixing into meals meant to poison an unwary feaster.  * * *  **Activate** `pf2:3` Interact  **Saving Throw** DC 20 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 8 hours  * * *  **Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 3** [[Conditions/Paralyzed|Paralyzed]] and Stupefied 1 (1 round)  **Stage 4** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The aklys is a throwing club with a hook on one end and a lengthy cord attached to the other. Though aklyses aren't available in most shops, one might be purchased for 5 gp from a vendor that specializes in strange weapons."
-powerTitle: "Critical Specialization"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "You knock the target away from you up to 10 feet (you choose the distance). This is Forced Movement."
+powerTitle1: "Critical Specialization"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "You knock the target away from you up to 10 feet (you choose the distance). This is Forced Movement."
 powerTitle2:
 actionEconomy2:
 type2:

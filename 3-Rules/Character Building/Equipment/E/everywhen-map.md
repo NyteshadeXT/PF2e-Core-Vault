@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The map changes based on the creature who invests it, showing every path the creature has ever traveled in their lifetime. The map doesn't distinguish between current or past locations. It can be tricked into revealing the path of a different creature if a piece of that creature (such as hair, bone, or skin) is used with a successful DC 24 [[Feats/Trick Magic Item|Trick Magic Item]] check."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

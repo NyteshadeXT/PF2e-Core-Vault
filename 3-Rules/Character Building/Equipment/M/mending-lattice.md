@@ -27,12 +27,12 @@ usage: "affixed to a shield or weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** The affixed item would take damage  **Requirements** You are trained in Crafting  * * *  This lattice of reinforced iron is shaped into a perfect octagon. When you activate it, it negates the damage and instantly and completely repairs the affixed item."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

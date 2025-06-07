@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This polished wooden ring constantly refreshes your body and mind. You don't need to eat or drink while wearing it, and you need only 2 hours of sleep per day to gain the benefits of 8 hours of sleep. A _ring of sustenance_ doesn't function until it's been worn and invested continuously for a week. Removing it resets this interval."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

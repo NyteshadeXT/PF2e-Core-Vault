@@ -27,12 +27,12 @@ usage: "worneyepiece"
 license: "ORC"
 identify:
 description: "These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +2 item bonus to [[Actions/Decipher Writing|Decipher Writing]].  * * *  **Activate** `pf2:1` Interact  **Frequency** three times per day  **Requirements** You are attempting to read something in a language you don't understand  * * *  **Effect** You flick a small toggle on the side of the spectacles, flipping the lenses over in the frames. You can understand the meaning of the language you are reading. This doesn't let you understand codes, riddles, or metaphors (subject to the GM's discretion). This effect lasts 1 hour."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

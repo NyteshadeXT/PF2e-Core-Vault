@@ -27,12 +27,12 @@ usage: "affixed to a shield"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a shield  **Activate** `pf2:0` envision  **Trigger** You use the Shield Block reaction with the shield to which this fulu is affixed.  * * *  The bronze-colored ink on this pale, silvery talisman sharply reflects light, enough that it seems to glow. When you activate the fulu, it reflects your foe's violence back against them. The foe that triggered the Shield Block reaction takes damage equal to your shield's Hardness or the damage they would have dealt before the Shield Block reaction, whichever is less."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

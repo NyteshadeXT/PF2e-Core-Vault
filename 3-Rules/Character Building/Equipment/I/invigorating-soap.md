@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** 10 minutes (Interact)  * * *  This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 healing Hit Points and removes the [[Conditions/Fatigued|Fatigued]] condition. If you begin an 8-hour period of rest immediately after using invigorating soap, you regain an additional 10 Hit Points from resting."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

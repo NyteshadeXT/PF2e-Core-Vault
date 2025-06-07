@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Abraxas teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to Occultism checks.  **Activate** `pf2:r` envision  **Frequency** once per hour  **Trigger** You're about to attempt a saving throw against an emotion effect or an effect that would make you controlled  * * *  **Effect** Abraxas envelops your heart in the shadow of his secret, granting you a +2 status bonus on your saving throw against the triggering effect."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

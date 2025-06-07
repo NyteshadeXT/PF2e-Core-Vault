@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Athletics  * * *  This shimmering green scale is usually attached to a golden clasp or chain.  When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.  [[Equipment Effects/Effect_ Dragon Turtle Scale|Effect: Dragon Turtle Scale]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

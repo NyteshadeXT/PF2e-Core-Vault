@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Cast a Spell  * * *  This fan of vulture feathers scatters on an unnatural gust of wind. If this catalyst is used to cast a [[Spells/Enfeeble|Enfeeble]] spell that has been heightened to at least 5th level, instead of targeting a single creature, you cast the spell in a 30-foot-area cone. You don't make a spell attack roll, instead affecting all creatures within the area with the effect the spell would normally have on a hit. This means creatures within the area must attempt a Fortitude save to determine whether they're enfeebled."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

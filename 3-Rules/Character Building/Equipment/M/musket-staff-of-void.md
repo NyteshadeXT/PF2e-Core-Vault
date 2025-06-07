@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "A stock carved of enchanted wood forms the base for a _musket staff_, a magic weapon used by a gunwitch as both a powerful firearm and magical staff. Many other variants exist with different spells. This _+1 flintlock musket_ has a [[Equipment/Reinforced Stock|Reinforced Stock]] permanently attached to it, and the musket's _weapon potency_ rune (and any other runes) applies to Strikes with the stock as well. The _musket staff_ also contains spells and can be prepared following the same rules as a staff.  *   **Cantrip** [[Spells/Void Warp|Void Warp]]      *   **1st** [[Spells/Grim Tendrils|Grim Tendrils]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

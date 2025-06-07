@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don any armor with this rune as a single action."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

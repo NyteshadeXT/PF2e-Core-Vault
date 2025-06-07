@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Shield throw 30 ft.  This standard-grade duskwood meteor shield (Hardness 11, HP 80, BT 40) is a wheel from a ship. While wielding the shield, you gain a +2 item bonus to Sailing Lore and to Athletics checks to Swim.  **Activate** `pf2:2` command  **Frequency** once per day  **Requirements** You're in a body of water  * * *  **Effect** For 10 minutes, you don't sink if you haven't succeeded at a Swim action on a turn, and if you're submerged, you automatically ascend 10 feet at the end of your turn. When you Activate the shield, you can breathe underwater for 10 minutes"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

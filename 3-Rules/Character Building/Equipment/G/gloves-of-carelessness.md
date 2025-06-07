@@ -27,12 +27,12 @@ usage: "worngloves"
 license: "ORC"
 identify:
 description: "These gloves appear and function as [[Equipment/Retrieval Belt|Gloves of Storing]] but repel any item not stored in the gloves. When wearing them, whenever you Interact to draw or pick up an item, roll a DC 11 Flat check. On a success, you do so as normal. On a failure, you instead fling the item 15 feet in a random direction. You can use a reaction to attempt a DC 23 Reflex check save, causing the item to land at your feet instead if you succeed. Removing the stored item from the gloves does not trigger the item's curse. The first time the curse activates, the gloves fuse to you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

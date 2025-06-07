@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This _moderate reinforcing cold iron shield_ (Hardness 10, HP 92, BT 46) is inset with lodestones that draw ammunition toward it.  **Activate—Attract Projectile** `pf2:r` (manipulate)  **Frequency** once per minute  **Trigger** A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker hasn't yet rolled their attack  * * *  **Effect** The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the Shield Block reaction."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

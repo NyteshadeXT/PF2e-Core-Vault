@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This iridescent, black _+2 striking [[Equipment/Shock|Shock]] [[Equipment/Thundering|Thundering]] fighting fan_ is crafted from the crackling feathers of thunderbirds to resemble one of the beast's mighty wings. Channeling the avian's tempestuous nature, you are surrounded by a stormy shell of wind and electricity while wielding a _storm herald_, granting you resistance 5 to electricity and sonic damage.  * * *  **Activate—Call the Storm** `pf2:2` (concentrate, magical, manipulate)  **Frequency** once per day  **Effect** You channel the full might of a storm with you as its epicenter. All creatures within 30 feet take 3d10 electricity damage and 3d10 sonic damage (DC 30 Reflex check save).  * * *  **Craft Requirements** The initial raw materials must include feathers from a thunderbird."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Over millennia, these mysterious, intricately cut gemstones have been hoarded by mystics and fanatics hoping to discover their secrets. Despite their myriad forms and functions, these stones are purportedly all fragments of crystal tools used by otherworldly entities to construct the universe in primeval times.  When you invest one of these precisely shaped crystals, the stone orbits your head instead of being worn on your body. You can stow an _aeon stone_ with an Interact action, and an orbiting stone can be snatched out of the air with a successful Disarm action against you. A stowed or removed stone remains invested, but its effects are suppressed until you return it to orbit your head again.  There are various types of _aeon stones_, each with a different appearance and magical effect. Each _aeon stone_ also gains a resonant power when slotted into a special magical item called a _wayfinder_."
-powerTitle: "Death's Door"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "When you would die from the [[Dying]] condition (typically at dying 4), this smooth pink stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a [[aeon-stone-consumed|Aeon Stone (Consumed)]]. You can benefit from this ability only once per day, even if you have multiple such stones.  "
+powerTitle1: "Death's Door"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "When you would die from the [[Dying]] condition (typically at dying 4), this smooth pink stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a [[aeon-stone-consumed|Aeon Stone (Consumed)]]. You can benefit from this ability only once per day, even if you have multiple such stones.  "
 powerTitle2: "Resonant Power"
 actionEconomy2:
 type2:

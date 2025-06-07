@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "An array of dazzling gemstones lines the twisting head of the golden staff. While wielding the staff, you gain a +1 status bonus to Diplomacy checks to make a [[Actions/Request|Request]].  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Daze|Daze]] *   **1st** [[Spells/Charm|Charm]], [[Spells/Command|Command]] *   **2nd** [[Spells/Laughing Fit|Laughing Fit]], [[Spells/Stupefy|Stupefy]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Hair shed from an [[alicorn]]'s mane glows when it comes into contact with a living creature. "
-powerTitle: "Empower"
-actionEconomy:
+powerTitle1: "Empower"
+actionEconomy1:
 type: "(Cast a Spell (add 1 action))"
 frequency:
-trigger:
-mechanics: "A [[Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature."
+trigger1:
+mechanics1: "A [[Stabilize]] spell empowered with an _alicorn hair_ allows you to target 1 additional creature."
 powerTitle2:
 actionEconomy2:
 type2:

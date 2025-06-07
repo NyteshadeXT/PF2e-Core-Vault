@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [[Conditions/Immobilized|Immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[Conditions/Prone|Prone]], is 40."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

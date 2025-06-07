@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison causes debilitating hallucinations in most other creatures.  **Saving Throw** DC 17 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Dazzled|Dazzled]] (10 minutes)  **Stage 2** dazzled and [[Conditions/Frightened|Frightened 1]] (10 minutes)  **Stage 3** frightened 1 and [[Conditions/Confused|Confused]] 1 (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

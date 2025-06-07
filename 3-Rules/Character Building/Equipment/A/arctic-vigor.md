@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "This tattoo takes the shape of the face of a roaring polar bear with piercing, ice-blue eyes. You don't take damage from extreme cold or severe cold.  * * *  **Activate** `pf2:2` command  **Frequency** once per day  * * *  **Effect** You call forth a blast of polar wind in a 10-foot burst within a range of 30 feet that deals 7d6 cold damage. All creatures in the area must attempt a DC 27 Fortitude check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

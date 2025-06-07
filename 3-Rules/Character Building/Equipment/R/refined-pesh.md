@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "When eaten or smoked, pesh gives users a sense of well-being, sometimes with hallucinations, aggression, and exhaustion.  * * *  **Activate** `pf2:1` Interact (Ingested, Inhaled)  **Saving Throw** DC 12 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 hours  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)  **Stage 2** 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, [[Conditions/Clumsy|Clumsy 1]], and stupefied 1 (1 minute)  **Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

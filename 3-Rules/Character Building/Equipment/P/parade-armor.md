@@ -27,12 +27,12 @@ usage: "affixed to medium heavy armor"
 license: "ORC"
 identify:
 description: "Parade armor is an armor adjustment that creates a set of pseudo-decorative armor to wear during noncombat functions. Any medium or heavy armor can be fashioned into parade armor, which features custom designs based on the wearer's affiliation, military branch, or rank. A particular faction typically has one uniform appearance for its set of parade armor. While wearing this armor, you gain a +1 item bonus to Diplomacy and Intimidation checks against creatures of the same affiliation as your parade armor, though the bonus to Intimidation doesn't apply when interacting with creatures of higher rank than you. The armor is slightly bulkier, increasing the Bulk by 1."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

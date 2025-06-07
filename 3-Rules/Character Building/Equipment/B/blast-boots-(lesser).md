@@ -27,12 +27,12 @@ usage: "wornshoes"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  These sets of rockets come in pairs and strap onto existing footwear (or a creature's feet). Inserting them and aligning them properly takes 1 minute. When you Activate the blast boots, you can [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]], without the need to Stride first."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

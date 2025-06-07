@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You dip thorns, spines, or pine needles in a mild toxin that causes skin irritation and swelling, then lash them together into a ball. When a creature enters the snare's square, the thorny ball is lobbed at that creature, dealing 3d8 piercing damage. The creature must attempt a DC 19 Reflex check save.  * * *  **Critical Success** The target is unaffected.  **Success** The target takes half damage.  **Failure** The target takes full damage and 1d6 persistent poison.  **Critical Failure** The target takes double damage and 2d6 persistent poison."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This wooden staff is remarkably sturdy and unyielding. While wielding the staff, you gain a +1 circumstance bonus to your DC to avoid being shoved or tripped.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Shield|Shield]] *   **1st** [[Spells/Alarm|Alarm]], [[Spells/Mystic Armor|Mystic Armor]] *   **2nd** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Resist Energy|Resist Energy]] *   **3rd** [[Spells/Alarm|Alarm]], [[Spells/Safe Passage|Safe Passage]] *   **4th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Resist Energy|Resist Energy]] *   **5th** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Safe Passage|Safe Passage]] *   **6th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Repulsion|Repulsion]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

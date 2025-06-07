@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "This dragon-themed half-mask helps you to navigate through darkness and to notice things from afar—such as helping to find seats in a theater after a show begins, or to pick up details from a show even if you're seated in the back row! You gain a +3 item bonus to Perception checks and never take a penalty to Perception checks based on distance or weather. You gain darkvision, or greater darkvision if you have darkvision. When you invest in the mask you either increase your Wisdom score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you become [[Conditions/Blinded|Blinded]] as long as you wear the mask.  **Activate—Dragons See the Truth** `pf2:r` (concentrate)  **Frequency** once per hour  **Trigger** You fail a saving throw against an illusion effect  * * *  **Effect** The mask attempts to counteract the triggering illusion with a counteract rank of 9 and a counteract modifier of +31. You then gain the effects of truesight for 1 minute."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

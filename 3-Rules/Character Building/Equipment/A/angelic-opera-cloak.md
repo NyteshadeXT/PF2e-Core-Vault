@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This luxurious cloak embodies an angel's swiftness. You gain a +3 item bonus to [[Skills#Acrobatics|Acrobatics]] checks and never take falling damage, as your cloak billows like a pair of wings to soften any fall you take. When you invest in the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you are [[Slowed|Slowed 1]] while wearing this cloak."
-powerTitle: "On Angel's Wings"
-actionEconomy: 2
+powerTitle1: "On Angel's Wings"
+actionEconomy1: 2
 type: "([[concentrate]])"
 frequency: "once per hour"
-trigger:
-mechanics: "The opera cloak transforms into two pairs of brilliant, feathered wings that grant you a fly Speed of 40 feet for 10 minutes. During this time, you gain immunity to paralysis effects and ignore effects that would give you a circumstance penalty to speed."
+trigger1:
+mechanics1: "The opera cloak transforms into two pairs of brilliant, feathered wings that grant you a fly Speed of 40 feet for 10 minutes. During this time, you gain immunity to paralysis effects and ignore effects that would give you a circumstance penalty to speed."
 powerTitle2:
 actionEconomy2:
 type2:

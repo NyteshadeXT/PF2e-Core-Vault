@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Although not all attendants' masks are enchanted, many apply a first enchantment to celebrate their acceptance into a branch of the academy. While you wear the mask or have it as your bonded item, add the associated cantrip to your prepared cantrips. This has no effect if you do not prepare cantrips from the arcane or primal lists.  *   **Cascade Bearers** [[Spells/Read Aura|Read Aura]] *   **Emerald Boughs** [[Spells/Root Reading|Root Reading]] *   **Rain-Scribes** [[Spells/Deep Breath|Deep Breath]] *   **Tempest-Sun Mages** [[Spells/Electric Arc|Electric Arc]] *   **Uzunjati** [[Spells/Prestidigitation|Prestidigitation]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

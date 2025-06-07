@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activation** `pf2:0` envision  **Trigger** You succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space  **Requirements** You are an expert in Acrobatics.  * * *  This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the slippery ribbon, your Speed increases by an amount necessary for you to move all the way through the enemy's space."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

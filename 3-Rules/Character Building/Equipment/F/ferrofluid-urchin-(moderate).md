@@ -27,12 +27,12 @@ usage: "affixed to medium heavy metal armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Prerequisites** You have the armor specialization effect of the affixed armor  **Trigger** You take physical damage.  * * *  This spiky glob of magnetic liquid attaches directly onto the metal of your armor. When you activate the globule, it reshapes to deflect the incoming harm. You gain resistance 6 to the triggering damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

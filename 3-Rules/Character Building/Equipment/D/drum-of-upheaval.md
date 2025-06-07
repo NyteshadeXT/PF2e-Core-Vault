@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This heavy drum is engraved along the sides with images of centaurs in fierce combat. The drum grants you a +3 item bonus on Performance checks you make using the drum. Additionally, it imparts the rhythms of two songs upon your mind as soon as you touch it. One is a fast marching cadence; the other is a frenetic ritual dance. Each song has a different activation.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per minute  **Effect** Dozens of spectral centaurs burst from the drum and stampede in a 60-foot cone. The stampede deals 7d10 force damage (DC 43 Reflex check).  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  **Effect** The drum casts a DC 43 Reflex check [[Spells/Earthquake|Earthquake]] spell.  * * *  **Craft Requirements** You are a centaur."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

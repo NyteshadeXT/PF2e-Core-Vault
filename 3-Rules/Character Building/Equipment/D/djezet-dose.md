@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Some mages carry vials of djezet for its magic-enhancing properties. When you drink a _djezet dose_, if your next action is to Cast a Spell, you can apply the effects of the [[Feats/Reach Spell|Reach Spell]] or [[Feats/Widen Spell|Widen Spell]] spellshape feats.  * * *  **Craft Requirements** At least 300 gp of djezet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

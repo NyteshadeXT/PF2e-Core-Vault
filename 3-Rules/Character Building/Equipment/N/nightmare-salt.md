@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This potent poison consists of crystals whose flavor and appearance mimics edible salt but whose effects are deadly: victims experience periods of waking nightmares that overload the senses and eventually result in death through a combination of shock and exhaustion.  * * *  **Activate** `pf2:3` Interact (Ingested)  **Saving Throw** DC 43 Fortitude check  **Onset** 1 hour  **Maximum Duration** 5 days  **Stage 1** [[Conditions/Frightened|Frightened 2]] once every 1d4 hours, plus [[Conditions/Fatigued|Fatigued]] (1 day)  **Stage 2** [[Conditions/Confused|Confused]] for 1 minute once every 1d4 hours, plus [[Conditions/Frightened|Frightened 3]] and fatigued (1 day)  **Stage 3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day)  **Stage 4** death"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

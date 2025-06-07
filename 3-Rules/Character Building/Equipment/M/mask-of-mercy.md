@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "This porcelain or alabaster mask portrays an angelic visage of kindness and mercy. The mask grants a +1 item bonus to Medicine checks.  * * *  **Activate** `pf2:0` envision (fortune)  **Frequency** once per day  **Trigger** You are about to roll a variable number of Hit Points you restore from an action with the healing trait  * * *  **Effect** Roll twice to determine the number of Hit Points you restore and take the higher result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

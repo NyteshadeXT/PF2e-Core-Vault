@@ -27,12 +27,12 @@ usage: "wornshoes"
 license: "ORC"
 identify:
 description: "These soft leather boots are embossed with simple woodland scenes. The boots grant a +1 item bonus to Acrobatics and allow you to ignore difficult terrain from plants and fungi."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

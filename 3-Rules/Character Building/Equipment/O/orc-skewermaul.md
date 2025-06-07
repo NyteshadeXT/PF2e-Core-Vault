@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "As dwarves poured out of the Darklands following their Quest for Sky, the orcs driven before them adapted to their tactics—including dwarves' heavily armored infantry charges. Surviving orcs developed a response: a weapon that combines a spear and maul to crush heavy armor and skewer charging foes. Although rarely seen today, the weapon is remarkably effective in the right situation."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "When you critically hit with this weapon, the target becomes [[Conditions/Frightened|Frightened 2]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

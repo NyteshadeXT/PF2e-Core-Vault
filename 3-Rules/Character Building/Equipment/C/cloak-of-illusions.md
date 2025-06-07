@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This cloak flows, covering and concealing the wearer's body. The cloak allows you to cast [[Spells/Figment|Figment]] as an occult innate cantrip. Although naturally a dull gray, while invested the cloak picks up colors and patterns from its surroundings, granting a +1 item bonus to Stealth checks.  **Activate—Draw Hood** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** You draw the hood up and gain the effects of [[Spells/Invisibility|Invisibility]], with the spell's normal duration or until you pull the hood back down, whichever comes first."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

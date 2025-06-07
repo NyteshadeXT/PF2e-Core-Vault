@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** any  **Activate** `pf2:1` (concentrate)  * * *  This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank [[Spells/Silence|Silence]] spell (DC 25).  **Craft Requirements** Supply one casting of _silence_ at 4th rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

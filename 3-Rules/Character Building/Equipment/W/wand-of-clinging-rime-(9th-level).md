@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A thin layer of frost coats this gnarled holly wand.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 9th-rank [[Spells/Frigid Flurry|Frigid Flurry]]. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes 3d6 persistent cold damage.  * * *  **Craft Requirements** Supply a casting of [[Spells/Frigid Flurry|Frigid Flurry]] of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

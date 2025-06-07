@@ -27,12 +27,12 @@ usage: "worneyeglasses"
 license: "ORC"
 identify:
 description: "These sand-colored goggles keep the harsh weather of the Cinderlands at bay. While wearing the goggles, you ignore penalties to Perception from desert weather effects and gain a +1 bonus to Perception checks involving sight."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

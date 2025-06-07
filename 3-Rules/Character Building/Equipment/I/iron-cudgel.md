@@ -27,12 +27,12 @@ usage: "affixed to melee weapon"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a melee weapon  **Activate** `pf2:1` (manipulate)  * * *  This miniature club is typically affixed to a weapon by an iron chain. When you activate the cudgel, you use [[Feats/Brutal Finish|Brutal Finish]], as the fighter feat. You must meet the normal requirements, including those of the press trait.  If you have the Brutal Finish feat, add an additional weapon damage die on a success or a failure to the normal results."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

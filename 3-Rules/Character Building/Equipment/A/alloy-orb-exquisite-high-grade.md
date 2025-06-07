@@ -27,12 +27,12 @@ usage: "affixed to a metal weapon"
 license: "ORC"
 identify:
 description: "Although solid, this orb of metal swirls with bright silver and dark iron colors, as if made of liquid."
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: "([[concentrate]])"
 frequency:
-trigger:
-mechanics: "When you activate the _alloy orb_, select adamantine, cold iron, or dawnsilver. The affixed weapon functions as the chosen material for 1 minute, suppressing its original material. This orb works on weapons of any level."
+trigger1:
+mechanics1: "When you activate the _alloy orb_, select adamantine, cold iron, or dawnsilver. The affixed weapon functions as the chosen material for 1 minute, suppressing its original material. This orb works on weapons of any level."
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[Conditions/Restrained|Restrained]] for 1 round.  **Activate** `pf2:1` command, Interact  * * *  **Effect** The armor wraps around you, allowing you to don it by the time the activation finishes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

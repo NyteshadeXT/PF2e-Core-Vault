@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wooden shield (Hardness 10, HP 40, BT 20) is carved with images of overlapping fletched arrows.  * * *  **Activate** `pf2:r` Interact  **Trigger** A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker has not yet rolled their attack  * * *  **Effect** The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the [[Feats/Shield Block|Shield Block]] reaction."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

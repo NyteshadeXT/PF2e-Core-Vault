@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wand is a slender length of ice-blue glass.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Howling Blizzard|Howling Blizzard]] at 5th-rank. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.  * * *  **Craft Requirements** Supply a casting of _howling blizzard_ at 5th-rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

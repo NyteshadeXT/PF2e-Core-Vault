@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** any  **Activate** `pf2:1` Interact  * * *  Rusting ammunition is made using a rust monster's saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes 3d8 persistent force damage for up to 5 rounds. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. For an object, the ammunition destroys a 5-foot cube.  * * *  **Craft Requirements** Supply the saliva of a [[Bestiary 1/Rust Monster|Rust Monster]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

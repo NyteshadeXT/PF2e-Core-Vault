@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This golden ring has three diamonds set into its face.  **Activate** `pf2:r` envision  **Trigger** You are targeted by a spell  * * *  **Effect** The ring replicates the effects of an 8th-rank [[Spells/Spell Turning|Spell Turning]] with a counteract modifier of 1d20+35, possibly causing the triggering spell to reflect back on its caster.  The ring can reflect no more than 9 total ranks of spells per day. If you activate the ring to reflect a spell that would exceed this limit, the attempt fails, but the attempted usage of the ring does not count toward the daily limit."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

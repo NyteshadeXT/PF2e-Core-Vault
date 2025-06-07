@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "The Flood Truce is a season of relative peace, and this tattoo of a river can soothe your temper when you might otherwise lash out. You gain a +1 item bonus to Diplomacy checks made against orcs who honor the Flood Truce.  **Activate—Embody the Truce** `pf2:r` (concentrate)  **Frequency** once per day  **Trigger** A mental effect would compel you to harm an ally or bystander  * * *  **Effect** Attempt a counteract check with a counteract rank of 2 to end the effect."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

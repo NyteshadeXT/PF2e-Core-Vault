@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "Eerie symbols cover your armor, inspiring terror in your foes. Frightened enemies within 30 feet that can see you must attempt a DC 20 Will check save at the end of their turn; on a failure, the value of their [[Conditions/Frightened|Frightened]] condition doesn't decrease below 1 that turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

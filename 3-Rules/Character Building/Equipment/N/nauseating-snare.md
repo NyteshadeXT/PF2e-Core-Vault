@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 24 Fortitude check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature becomes [[Conditions/Sickened|Sickened 1]].  **Failure** The creature becomes [[Conditions/Sickened|Sickened 2]].  **Critical Failure** The creature becomes [[Conditions/Sickened|Sickened 3]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

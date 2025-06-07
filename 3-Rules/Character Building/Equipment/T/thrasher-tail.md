@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Kobolds admire well-designed objects, especially if it gives them an opportunity to pack it with traps and surprises. This prosthetic tail hides numerous blades and spikes, tensioned and wound around a spring-loaded trigger at the base of the prosthesis. Resetting and reattaching a sprung thrasher tail takes 10 minutes.  **Activate** `pf2:r`  **Trigger** You're [[Conditions/Grabbed|Grabbed]]  * * *  **Effect** Your tail comes off in your opponent's hand, and the mechanism unwinds, causing the blades and spikes to protrude and the tail to spin and thrash. The tail deals 8d6 slashing to the opponent who has you grabbed with a DC 25 Reflex check. Regardless of the result of their save, you're no longer grabbed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

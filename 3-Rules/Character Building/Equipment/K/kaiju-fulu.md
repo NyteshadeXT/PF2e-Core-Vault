@@ -27,12 +27,12 @@ usage: "affixed to load bearing wall or pillar"
 license: "ORC"
 identify:
 description: "**Duration** 1 week  Despite the name, a kaiju fulu protects a building against damage of all sorts. When an affixed structure no larger than 100 feet × 100 feet and up to 50 feet tall takes damage, the structure is as hard as standard-grade adamantine against that damage and any damage that occurs within 1 hour thereafter. The fulu then crumbles to dust, and its effects end."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

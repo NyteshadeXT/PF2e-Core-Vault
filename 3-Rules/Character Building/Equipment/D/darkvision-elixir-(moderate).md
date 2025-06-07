@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for 1 hour.  [[Equipment Effects/Effect_ Darkvision Elixir (Moderate)|Effect: Darkvision Elixir (Moderate)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

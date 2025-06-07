@@ -27,12 +27,12 @@ usage: "affixed to armor or travelers clothing"
 license: "ORC"
 identify:
 description: "Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement. "
-powerTitle: "Effect"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "The process of attaching the plating takes 10 minutes and grants the wearer of the armor 30 temporary Hit Points for 1 hour or until lost. Removing the plating early destroys it."
+powerTitle1: "Effect"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "The process of attaching the plating takes 10 minutes and grants the wearer of the armor 30 temporary Hit Points for 1 hour or until lost. Removing the plating early destroys it."
 powerTitle2:
 actionEconomy2:
 type2:

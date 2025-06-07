@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Fumes from the forges of Hell drain health and strength alike.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 36 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** 7d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 8d8 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** 10d8 poison damage and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

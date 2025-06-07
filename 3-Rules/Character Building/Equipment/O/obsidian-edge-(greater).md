@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "This black obsidian blade is a _+1 striking flaming gun sword_. Magma seeps along its many cracks and crags, and the handle is hot but not scalding to the touch.  * * *  **Activate—Explosion of Shards** `pf2:1` (manipulate)  **Requirements** Your most recent action this turn was a successful ranged Strike with _greater obsidian edge_  **Frequency** once per 10 minutes  **Effect** Magma coats the sword blade completely before exploding from your weapon in a 15-foot emanation of fire and glass. Creatures in the area take 3d6 fire damage and 2d6 piercing damage with a DC 25 Reflex check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

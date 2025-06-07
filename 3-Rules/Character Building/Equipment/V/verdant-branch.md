@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Woody vines and branches curl and twist around each other, growing small twigs, leaves, and flowers across the surface of this prosthetic arm or leg.  **Activate** `pf2:1` command, envision  **Frequency** once per day  * * *  **Effect** A branch grows from your prosthesis, quickly flowering and then producing 1d4 ripe and flavorful fruits. A creature can pick and eat a fruit with an Interact action to regain 2d6+5 healing Hit Points. The fruits wither away after 10 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

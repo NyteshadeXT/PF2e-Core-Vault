@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.  **Saving Throw** DC 41 Fortitude check  **Onset** 1 day  **Stage 1** [[Conditions/Drained|Drained 1]] (1 day)  **Stage 2**[[Conditions/Drained|Drained 1]] (1 day)  **Stage 3** [[Conditions/Drained|Drained 2]] (1 day)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

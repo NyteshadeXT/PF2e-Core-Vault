@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You coat a small firework with a thick layer of resin and tar, so it sticks firmly onto a target. When a creature enters the square, the rocket launches at the creature and potentially sticks to it. You determine the direction the rocket faces when crafting the snare. The triggering creature must attempt a DC 20 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is dealt a glancing blow by the rocket and becomes [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.  **Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes off-guard for 1 round, and [[Conditions/Clumsy|Clumsy 1]] for 1 minute or until it Escapes (DC 20).  **Critical Failure** As failure, but the creature takes a direct hit. It takes 2d6 bludgeoning damage and is pushed 10 feet in the direction the rocket faces."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

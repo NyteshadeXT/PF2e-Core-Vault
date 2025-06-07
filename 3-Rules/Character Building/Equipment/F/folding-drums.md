@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You can unfold this [[Equipment/Musical Instrument (Virtuoso heavy)|virtuoso percussion instrument]] into a hand drum (1 Bulk), a marching drum set with a shoulder harness and back brace (3 Bulk), or a large standing drum set with a built-in stool (16 Bulk). Changing the _folding drum_'s size is a 3-action Interact activity, and the drums must have sufficient open space to accommodate their new size.  * * *  **Activate** `pf2:1` Interact (concentrate)  **Frequency** once per hour  **Effect** You play a pounding rhythm on the drum. If the next action you use is to cast a composition cantrip that has an emanation, increase the area of the emanation by 30 feet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

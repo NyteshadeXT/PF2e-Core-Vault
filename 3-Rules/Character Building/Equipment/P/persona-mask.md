@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "Despite covering the entire face, this alabaster mask does not hinder vision or other senses. Wearing the mask grants a +1 item bonus to Performance checks while acting, orating, performing comedy, or singing.  **Activate—Assume Role** `pf2:1` (concentrate)  * * *  **Effect** You change the mask's appearance into an artistic rendition of a dramatic character of your choice."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

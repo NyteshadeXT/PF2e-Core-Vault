@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This shield is grown entirely of specially treated fungi, giving it the appearance of a frilly disc. The shield has Hardness 4, HP 64, and BT 32.  When left atop at least 1 bulk of organic matter, it gains fast healing 1; after 10 minutes 1 Bulk of the organic matter has been consumed by the shield. This shield doubles its hardness against bludgeoning, electricity, and sonic damage.  **Activate** `pf2:r` manipulate  **Trigger** The shield is broken  * * *  **Effect** The shield spews spores into one adjacent square, dealing 2d6 persistent poison damage to all creatures in within it; a successful DC 24 Fortitude check save negates the damage.  * * *  **Craft Requirements** You are trained in Nature, and can cast a fungus spell or are fungus."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

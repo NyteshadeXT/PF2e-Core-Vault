@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You attempt a Diplomacy check to [[Actions/Make an Impression|Make an Impression]].  These wooden discs sometimes form spontaneously at the Wood Pile, a secret conrasu location suffused with extraplanar energy. A conrasu coin can be activated to call upon the power of a specific type of aeon.  This coin has small wings like an arbiter, the messenger and diplomat aeon. When you activate the coin, you gain a +2 circumstance bonus on the Diplomacy check, which increases to a +3 circumstance bonus to Make an Impression on a lawful creature."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

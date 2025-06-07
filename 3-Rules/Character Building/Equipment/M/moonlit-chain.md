@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "This _+1 silver chain_ shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had low-light vision.  **Activate—Dim Sight** `pf2:1` (manipulate)  **Frequency** one per day  * * *  **Effect** You touch the stitched image of the new moon on the armor's collar and suppress the dazzled condition for 1 minute.  **Craft Requirements** The initial raw materials must include 33 gp of silver."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

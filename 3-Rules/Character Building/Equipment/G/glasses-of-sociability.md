@@ -27,12 +27,12 @@ usage: "worneyepiece"
 license: "ORC"
 identify:
 description: "These wire-rim glasses with large, circular lenses were invented for the sole purpose of avoiding awkward confrontations at social gatherings. They grant you a +1 item bonus to Diplomacy.  * * *  **Activate** `pf2:1` envision  * * *  **Effect** You stare at another creature and instantly remember their name if you've met and exchanged names. The glasses rely on your latent memories, so if the creature is disguising their identity, the glasses don't penetrate the disguise. If a doppelganger was disguised as an innkeeper you met, the glasses would give you the innkeeper's name, and if a noble you met before was in disguise as a masked vigilante, the glasses wouldn't reveal their name."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

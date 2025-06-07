@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate, fortune)  **Trigger** You make an attack with the affixed weapon.  * * *  This teardrop-shaped piece of iron is a naturally occurring mineral, said to be a solidified tear of bellicose joy shed by Gorum during his battles. When you activate the Gorum's tear, you roll your next attack roll twice and take the better result, ignoring any circumstance penalties. You then become [[Conditions/Off-Guard|Off-Guard]] to the creature you targeted until the beginning of your next turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

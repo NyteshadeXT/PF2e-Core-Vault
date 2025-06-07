@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This ash staff is decorated with animals, elementals, and dragons. Creatures summoned using this staff gain a number of temporary Hit Points equal to the rank of the spell used to summon them.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]] *   **1st** [[Spells/Summon Animal|Summon Animal]] *   **2nd** [[Spells/Marvelous Mount|Marvelous Mount]], [[Spells/Mist|Mist]], [[Spells/Summon Animal|Summon Animal]], [[Spells/Summon Elemental|Summon Elemental]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

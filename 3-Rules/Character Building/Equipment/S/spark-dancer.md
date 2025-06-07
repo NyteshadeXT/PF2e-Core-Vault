@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+2 greater striking pepperbox_ cycles through several magical cores, swapping in new ones while the previous ones cool. The gun deals fire or electricity damage, alternating with each attack as it rotates cores. Arcadian gunslingers liken the rotating cores to a group of dancers, each taking their turn in the spotlight.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  **Effect** The _spark dancer_ casts either [[Spells/Fireball|Fireball]] or [[Spells/Lightning Bolt|Lightning Bolt]], depending on whether the current core would deal fire or electricity damage, as a 7th-rank arcane spell (DC 30 Reflex check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

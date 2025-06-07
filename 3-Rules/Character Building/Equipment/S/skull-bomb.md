@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a [[Spells/Create Undead|Create Undead]] ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the humanoid trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.  * * *  Throw Skull `pf2:2` (manipulate)  The creature detaches its skull bomb and hurls the volatile explosive at a point within 30 feet. The skull explodes, dealing 7d6 fire damage to creatures within a 15-foot burst (DC 24 Reflex check save). The skull is permanently destroyed and can't be used again, and the throwing creature is permanently [[Conditions/Blinded|Blinded]] and headless."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

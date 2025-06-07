@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "**Access** Member of the Esoteric Order of the Palatine Eye  * * *  This pin is a valuable copy of a popular pin sold in markets throughout Osirion. The original pin is a solid piece, often purchased by tourists. The glittering scarab, though, can be squeezed gently, causing the wings to part and reveal an eye painted underneath them. This pin is used to gain entrance to most meetings of the Esoteric Order of the Palatine Eye. Someone who specifically examines the scarab can find the hidden eye with a successful DC 20 Perception check check, though if they know about glittering scarabs, they can simply squeeze it to check for the eye."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Toad tears can be mixed with any other foodstuff or drink, but the poison can also be ingested as is. The process of refining giant toad poison lessens its deadly qualities, and as a result, toad tears are rarely directly fatal. Yet those who are exposed to toad tears often lose control of their actions, making it a dangerous poison nevertheless.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 19 Fortitude check  **Onset** 5 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** stupefied 1 and [[Conditions/Confused|Confused]] (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

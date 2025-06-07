@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell (add 1 action)  * * *  You can use this slimy, rotting mushroom as a spell catalyst when you cast an [[Spells/Acid Grip|Acid Grip]] spell by tapping it against the target, causing the mushroom to release a cloud of necrotic spores. When you do, _acid grip_ loses the acid trait, gains the fungus trait, and all acid damage the spell deals becomes void damage. On a hit, the target additionally gains the [[Conditions/Enfeebled|Enfeebled 4]] and [[Conditions/Sickened|Sickened 4]] conditions as the spores consume their flesh. As long as the target is taking persistent void damage, they can't reduce the value of their sickened condition below 1.  [[Equipment Effects/Effect_ Necrotic Cap|Effect: Necrotic Cap]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

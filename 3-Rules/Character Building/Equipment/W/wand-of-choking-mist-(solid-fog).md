@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This blackened wood wand has a smoldering tip, emitting a slight trail of steam.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Solid Fog|Solid Fog]] but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.  * * *  **Craft Requirements** Supply a casting of [[Spells/Solid Fog|Solid Fog]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

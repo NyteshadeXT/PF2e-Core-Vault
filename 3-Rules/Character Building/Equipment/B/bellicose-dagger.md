@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The hilt of a bellicose dagger is etched with the word for "war" in various languages. Having absorbed the spirit of violence over the course of its existence, the weapon now craves bloodshed. A bellicose dagger is a _+1 striking wounding dagger_. However, anytime you interact with creatures, no matter the context, you must succeed at a DC 25 Will check save or else find you have, as a reaction, drawn the dagger.  When you use the bellicose dagger as a weapon for the first time, it fuses to you. While it's in your possession, you take a –2 circumstance penalty to Diplomacy checks and skill checks to avoid fighting, such as Deception checks to trick your way out of a scuffle or Stealth checks to sneak past enemies."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

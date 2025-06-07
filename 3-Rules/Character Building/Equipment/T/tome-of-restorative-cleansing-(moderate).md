@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This book is dark blue on the night of the new moon, gradually shifting to bright red as the moon waxes.  * * *  **Activate** `pf2:0` envision (healing, necromancy, vitality)  **Frequency** once per day  **Requirements** Your last action was to cast a spell prepared from this grimoire, and the spell removed a harmful condition or affliction from yourself or an ally  **Effect** Choose one creature whose condition was removed by the required spell. That creature gains 2d8 temporary Hit Points that last for 1 hour.  [[Equipment Effects/Effect_ Tome of Restorative Cleansing|Effect: Tome of Restorative Cleansing]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

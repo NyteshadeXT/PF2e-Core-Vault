@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The blade of this _+4 major striking [[Equipment/Keen|Keen]] [[Equipment/Returning|Returning]] [[Equipment/Quickstrike|Quickstrike]] dwarven waraxe_ is carved with an intricate design depicting countless generations of great dwarven warriors and leaders.  The axe has the thrown 30 feet weapon trait, in addition to the normal weapon traits for a dwarven waraxe. Strikes with the axe deal an additional 1d6 damage to orcs.  While the axe is in your possession, you gain a +4 item bonus when Crafting armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons.  If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are [[Conditions/Stupefied|Stupefied 4]] while holding the axe, and if you are an orc, you are also [[Conditions/Drained|Drained 4]] and [[Conditions/Enfeebled|Enfeebled 4]] while holding it.  * * *  **Activate** `pf2:3` envision, Interact  **Frequency** once per week  **Effect** The axe casts a 10th-rank [[Spells/Summon Elemental|Summon Elemental]] spell to conjure an elite elemental avalanche. The spell is automatically sustained, requiring no action on your part but still allowing you to command the elemental on each of your turns. You can Dismiss the Spell.  * * *  **Destruction** If an orc beheads a dwarven king with the _Axe of the Dwarven Lords_, the axe rusts away to nothing."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

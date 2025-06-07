@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` envision, Interact  * * *  Carved from a chunk of sturdy hardwood, this small charm is shaped like a broom, a wooden barrel, a lantern, or another ordinary item. When activated, the pendant becomes a full-size version of the item it represents, and you merge with the item with the effects of [[Spells/One with Stone|One with Stone]], except the item doesn't need to be made of stone and doesn't require the volume to fit you and your worn or held possessions. While merged with the item, you can hear but can't see; unlike with _one with stone_, you can't cast spells. The effect ends after ten minutes or when you Dismiss the effect, at which point you are forcibly expelled and the item you occupied becomes a mundane item."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  This dark, iridescent scale is about the size of a small coin. When you swallow the scale, you immediately grow a patch of scales that cover the majority of your body.  For 1 hour, you can hold your breath for 15 rounds plus your Constitution modifier (instead of 5 rounds + your Constitution modifier) before drowning. It has no effect in non-aquatic environments that require you to hold your breath.  After this time, the scales wither and fall off your body."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

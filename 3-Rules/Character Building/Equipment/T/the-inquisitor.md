@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Books (Int)  **Alignment** lawful neutral  * * *  The Inquisitor represents the search for the truth and the power to see through lies. As long as you have The Inquisitor invested, the results of your Perception Checks to [[Actions/Sense Motive|Sense Motive]] against targets that are equal to or lower than your level are increased by one degree of success. Against targets that are higher level than you, you instead gain a +2 item bonus to your check. This bonus increases to +3 if you are at least 17th level.  **Activate** `pf2:2` envision, Interact (linguistic, mental)  **Frequency** once per day  * * *  **Effect** You swipe the card over the head of an adjacent creature to delve into their thoughts. You cast [[Spells/Mind Probe|Mind Probe]], but as a two-action spell rather than one that takes 1 minute to cast. The rank of the spell is one-half your level, rounded down (minimum 5th level), and the save DC is your class DC or spell DC (Will check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

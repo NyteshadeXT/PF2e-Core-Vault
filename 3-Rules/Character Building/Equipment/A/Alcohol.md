@@ -29,13 +29,13 @@ description: "Alcohol is a common substance available in stunning variety. The P
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: "([[interact|interact (ingested)]])"
 frequency: 
 requirement:
-trigger:
-mechanics: "**Saving Throw** DC 12 Fortitude check  **Onset** 10 minute <br>**Stage 1** +1 item bonus to saving throws against fear (10 minutes)<br>**Stage 2** [[Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)<br>**Stage 3** [[Clumsy 1]], [[Off-Guard]], [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 4** [[Clumsy|Clumsy 2]] and [[Sickened|Sickened 2]] (10 minutes)<br>**Stage 5** [[Clumsy|Clumsy 2]], [[Sickened|Sickened 2]], and [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 6** [[Unconscious]] (8 hours)<br>**Stage 7** death"
+trigger1:
+mechanics1: "**Saving Throw** DC 12 Fortitude check  **Onset** 10 minute <br>**Stage 1** +1 item bonus to saving throws against fear (10 minutes)<br>**Stage 2** [[Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)<br>**Stage 3** [[Clumsy 1]], [[Off-Guard]], [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 4** [[Clumsy|Clumsy 2]] and [[Sickened|Sickened 2]] (10 minutes)<br>**Stage 5** [[Clumsy|Clumsy 2]], [[Sickened|Sickened 2]], and [[Stupefied|Stupefied 2]] (10 minutes)<br>**Stage 6** [[Unconscious]] (8 hours)<br>**Stage 7** death"
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #

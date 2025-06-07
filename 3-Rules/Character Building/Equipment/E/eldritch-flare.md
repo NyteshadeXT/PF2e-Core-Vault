@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  This poison draws power from the magic of its victim. If a creature under the effects of eldritch flare Casts a Spell, excess magical energy feeds back into the toxin, increasing the DC of the poison by 2 that round. In addition, if the spell deals damage, the poison deals half its damage as one of the types of damage the spell deals (the other half remains poison damage). If the target is immune or has resistance to the spell's damage, the poison deals half its damage as mental damage instead. If the victim casts no spells during a round while affected, the poison still deals its poison damage.  **Saving Throw** DC 35 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 8d6 poison (1 round)  **Stage 2** 10d6 poison (1 round)  **Stage 3** 12d6 poison damage (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

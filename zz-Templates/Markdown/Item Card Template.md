@@ -2,7 +2,7 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: pf2e-items, h-line
 name: ""
 aliases:
 source: ""
@@ -33,13 +33,13 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
-actionEconomy: 
-type: 
-frequency: 
-requirement:
-trigger:
-mechanics: ""
+powerTitle1: "Effect"
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -62,6 +62,17 @@ frequency3:
 requirement3:
 trigger3: 
 mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+mechanics4: "**Secondary Effect** "
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -139,249 +150,231 @@ dv.span(`
 > `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
 
 ```dataviewjs
-// Get rarity and traits from YAML
-let rarity = dv.current().rarity;
-let traits = [];
+const d = dv.current();
 
+// ─── CORE PROPERTIES & TRAITS ─────────────────────────────────
+let coreOut = [];
+if (d.rarity?.trim()) {
+  coreOut.push(
+    `<span class="pf2e-rarity ${d.rarity.toLowerCase()}">${d.rarity.toUpperCase()}</span>`
+  );
+}
+let traitList = [];
 for (let i = 1; i <= 8; i++) {
-  let traitValue = dv.current()[`trait0${i}`];
-  if (traitValue) {
-    traits.push(traitValue);
+  let t = d[`trait0${i}`]?.trim();
+  if (t) {
+    traitList.push(`<span class="pf2e-blocktrait">[[${t.toLowerCase()}|${t.toUpperCase()}]]</span>`);
   }
 }
+if (traitList.length) coreOut.push(traitList.join(" "));
+if (coreOut.length) dv.paragraph(coreOut.join(" "));
 
-let output = "";
-if (rarity) {
-  let rarityClass = rarity.toLowerCase();
-  let rarityLabel = rarity.toUpperCase();
-  output += `<span class="pf2e-rarity ${rarityClass}">${rarityLabel}</span>`;
-}
+// ─── STATS & PROPERTIES ────────────────────────────────────────
+let stats = [];
 
-traits.forEach(t => {
-  const traitLink = `[[${t.toLowerCase()}|${t.toUpperCase()}]]`;
-  output += `<span class="pf2e-blocktrait">${traitLink}</span>`;
-});
-
-dv.paragraph(output);
-
-```
-
-```dataviewjs
-const data = dv.current();
-let output = [];
-
-// =========================
-// Line 1: Price; Damage; Bulk
-// =========================
+// Price / Damage / Bulk
 let line1 = [];
-
-if (data.value) {
-  let price = `**Price** ${data.value}`;
-  if (data.subvalue) price += ` ${data.subvalue}`;
-  line1.push(price);
+if (d.value?.toString().trim()) {
+  let p = `**Price** ${d.value}` + (d.subvalue ? ` ${d.subvalue}` : "");
+  line1.push(p);
 }
-
-if (data.dmg1 && data.dmg1Type) {
-  let dmg = `**Damage** ${data.dmg1} ${data.dmg1Type}`;
-  if (data.dmg2 && data.dmg2Type) dmg += `, ${data.dmg2} ${data.dmg2Type}`;
-  line1.push(dmg);
+if (d.dmg1 && d.dmg1Type) {
+  let dm = `**Damage** ${d.dmg1} ${d.dmg1Type}` +
+           (d.dmg2 && d.dmg2Type ? `, ${d.dmg2} ${d.dmg2Type}` : "");
+  line1.push(dm);
 }
+if (d.weight?.toString().trim()) line1.push(`**Bulk** ${d.weight}`);
+if (line1.length) stats.push(line1.join("; "));
 
-if (data.weight) line1.push(`**Bulk** ${data.weight}`);
-
-if (line1.length > 0) output.push(line1.join("; "));
-
-// =========================
-// Line 2: Hands; Range; Reload
-// =========================
+// Hands / Range / Reload
 let line2 = [];
+if (d.hands)   line2.push(`**Hands** ${d.hands}`);
+if (d.range)   line2.push(`**Range** ${d.range}`);
+if (d.reload)  line2.push(`**Reload** ${d.reload}`);
+if (line2.length) stats.push(line2.join("; "));
 
-if (data.hands) line2.push(`**Hands** ${data.hands}`);
-if (data.range) line2.push(`**Range** ${data.range}`);
-if (data.reload) line2.push(`**Reload** ${data.reload}`);
-
-if (line2.length > 0) output.push(line2.join("; "));
-
-// =========================
-// Line 3: Type; Category; Group
-// =========================
+// Type / Category / Group
 let line3 = [];
+if (d.weaponType)           line3.push(`**Type** ${d.weaponType}`);
+let cats = [d.weaponCategory, d.armorCategory].filter(x => x).join(" – ");
+if (cats)                   line3.push(`**Category** ${cats}`);
+if (d.group)                line3.push(`**Group** ${d.group}`);
+if (line3.length)           stats.push(line3.join("; "));
 
-if (data.weaponType) line3.push(`**Type** ${data.weaponType}`);
+// Ammo
+if (d.ammoType) stats.push(`**Ammo** ${d.ammoType}`);
 
-let categoryParts = [];
-if (data.weaponCategory) categoryParts.push(data.weaponCategory);
-if (data.armorCategory) categoryParts.push(data.armorCategory);
-if (categoryParts.length > 0) line3.push(`**Category** ${categoryParts.join(" – ")}`);
-
-if (data.group) line3.push(`**Group** ${data.group}`);
-
-if (line3.length > 0) output.push(line3.join("; "));
-
-// =========================
-// Ammo Type
-// =========================
-if (data.ammoType) output.push(`**Ammo** ${data.ammoType}`);
-
-// =========================
 // Str Requirement
-// =========================
-if (data.strRequirement) output.push(`**Str** ${data.strRequirement}`);
+if (d.strRequirement) stats.push(`**Str** ${d.strRequirement}`);
 
-// =========================
-// Base Armor and Weapon
-// =========================
-if (data.armorBase || data.weaponBase) {
-  let base = [];
-  if (data.armorBase) base.push(`**Base Armor** ${data.armorBase}`);
-  if (data.weaponBase) base.push(`**Base Weapon** ${data.weaponBase}`);
-  output.push(base.join("; "));
+// Base Armor / Weapon
+if (d.armorBase || d.weaponBase) {
+  let b = [];
+  if (d.armorBase)  b.push(`**Base Armor** ${d.armorBase}`);
+  if (d.weaponBase) b.push(`**Base Weapon** ${d.weaponBase}`);
+  stats.push(b.join("; "));
 }
 
-// =========================
-// Armor Stats: AC, Dex Cap, Penalties
-// =========================
-let armorStats = [];
-if (data.baseAC != null) armorStats.push(`**AC** +${data.baseAC}`);
-if (data.dexCap != null) armorStats.push(`**Dex Cap** +${data.dexCap}`);
-if (data.checkPenalty != null) armorStats.push(`**Check Penalty** ${data.checkPenalty}`);
-if (data.speedPenalty != null) armorStats.push(`**Speed Penalty** ${data.speedPenalty}`);
-if (armorStats.length > 0) output.push(armorStats.join("; "));
+// AC / Dex Cap / Penalties
+let arm = [];
+if (d.baseAC      != null) arm.push(`**AC** +${d.baseAC}`);
+if (d.dexCap      != null) arm.push(`**Dex Cap** +${d.dexCap}`);
+if (d.checkPenalty!= null) arm.push(`**Check Penalty** ${d.checkPenalty}`);
+if (d.speedPenalty!= null) arm.push(`**Speed Penalty** ${d.speedPenalty}`);
+if (arm.length)           stats.push(arm.join("; "));
 
-// =========================
-// Durability: Hardness, HP, BT
-// =========================
-let durabilityLine = [];
+// Durability (Hardness / HP / BT)
+let dur = [];
+if (d.hardness  != null) dur.push(`**Hardness** ${d.hardness}`);
+if (d.hitpoints != null) dur.push(`**HP** ${d.hitpoints}`);
+if (d.break     != null) dur.push(`**BT** ${d.break}`);
+if (dur.length)          stats.push(dur.join("; "));
 
-if (data.hardness != null) durabilityLine.push(`**Hardness** ${data.hardness}`);
-if (data.hitpoints != null) durabilityLine.push(`**HP** ${data.hitpoints}`);
-if (data.break != null) durabilityLine.push(`**BT** ${data.break}`);
+// Usage / Craft / License / Invest
+if (d.usage)   stats.push(`**Usage** ${d.usage}`);
+if (d.craft)   stats.push(`**Craft** ${d.craft}`);
+if (d.license) stats.push(`**License** ${d.license}`);
+if (d.invest)  stats.push(`**Invest** ${d.invest}`);
 
-if (durabilityLine.length > 0) output.push(durabilityLine.join("; "));
+if (stats.length) dv.list(stats);
 
-// =========================
-// Usage, Craft, License, Invest
-// =========================
-if (data.usage) output.push(`**Usage** ${data.usage}`);
-if (data.craft) output.push(`**Craft** ${data.craft}`);
-if (data.license) output.push(`**License** ${data.license}`);
-if (data.invest) output.push(`**Invest** ${data.invest}`);
+// ─── INTELLIGENT ITEM BOX ───────────────────────────────────────
+const hasIntel =
+     !!d.perception?.trim() ||
+     !!d.communication?.trim() ||
+     !!d.skill1?.trim()    ||
+     !!d.skill2?.trim()    ||
+     !!d.skill3?.trim()    ||
+     typeof d.int === "number" ||
+     typeof d.wis === "number" ||
+     typeof d.cha === "number" ||
+     !!d.will?.trim();
 
-// Render final stat block
-dv.list(output);
+if (hasIntel) {
+  // Create the box container
+  const box = document.createElement("div");
+  box.classList.add("pf2e-intelligent-item");
+
+  // 1) Header as an H2
+  const h2 = document.createElement("h2");
+  h2.textContent = "Intelligent Item";
+  box.appendChild(h2);
+
+  // Helper to build each line
+  function mkLine(pairs) {
+    const row = document.createElement("div");
+    pairs.forEach((x, i) => {
+      const s = document.createElement("strong");
+      s.textContent = x.label + " ";
+      row.appendChild(s);
+      row.appendChild(document.createTextNode(x.value));
+      if (i < pairs.length - 1) {
+        row.appendChild(document.createTextNode("; "));
+      }
+    });
+    return row;
+  }
+
+  // 2) Perception / Communication
+  let L1 = [];
+  if (d.perception?.trim())    L1.push({ label: "Perception",    value: d.perception.trim() });
+  if (d.communication?.trim()) L1.push({ label: "Communication", value: d.communication.trim() });
+  if (L1.length)               box.appendChild(mkLine(L1));
+
+  // 3) Skills
+  let SK = [d.skill1, d.skill2, d.skill3]
+             .filter(x => x?.trim())
+             .map(x => x.trim());
+  if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));
+
+  // 4) INT / WIS / CHA
+  let MS = [];
+  if (typeof d.int === "number") MS.push({ label: "INT", value: d.int });
+  if (typeof d.wis === "number") MS.push({ label: "WIS", value: d.wis });
+  if (typeof d.cha === "number") MS.push({ label: "CHA", value: d.cha });
+  if (MS.length) box.appendChild(mkLine(MS));
+
+  // 5) Will
+  if (d.will?.trim()) {
+    box.appendChild(mkLine([{ label: "Will", value: d.will.trim() }]));
+  }
+
+  // 6) Inject into the document (no bullet)
+  dv.paragraph("");
+  dv.el("div", box, {});
+}
+
+// ─── DESCRIPTION ────────────────────────────────────────────────
+if (d.description?.trim()) {
+  dv.paragraph(d.description);
+}
+
+// ─── ABILITIES #1–4 ────────────────────────────────────────────
+function getIcon(ae) {
+  if (!ae) return "";
+  let m = ae.toString().trim().toLowerCase();
+  return {
+    "1":"`pf2:1`","2":"`pf2:2`","3":"`pf2:3`","0":"`pf2:0`",
+    "r":"`pf2:r`","reaction":"`pf2:r`",
+    "f":"`pf2:f`","free":"`pf2:f`"
+  }[m]||"";
+}
+
+function createPowerBlock(title, action, type, frequency, activation, requirement, trigger, mechanics) {
+  let icon = getIcon(action);
+  let block = `### **${title}** ${icon} ${type || ""}\n\n`;
+  if (frequency?.trim())   block += `**Frequency:** ${frequency}\n\n`;
+  if (activation?.trim())  block += `**Activation:** ${activation}\n\n`;
+  if (requirement?.trim()) block += `**Requirements:** ${requirement}\n\n`;
+  if (trigger?.trim())     block += `**Trigger:** ${trigger}\n\n`;
+  block += `${mechanics || ""}\n`;
+  return block;
+}
+
+let abilities = [];
+for (let i = 1; i <= 4; i++) {
+  let t = d[`powerTitle${i}`]?.trim();
+  if (t) {
+    if (i > 1) abilities.push("<hr class='pf2e-divider'>");
+    abilities.push(
+      createPowerBlock(
+        d[`powerTitle${i}`],
+        d[`actionEconomy${i}`],
+        d[`type${i}`],
+        d[`frequency${i}`],
+        d[`activation${i}`],
+        d[`requirement${i}`],
+        d[`trigger${i}`],
+        d[`mechanics${i}`]
+      )
+    );
+  }
+}
+
+if (abilities.length) {
+  dv.paragraph(
+    `<div class="pf2e-ability-textbox">\n\n` +
+    abilities.join("\n\n") +
+    `\n\n</div>`
+  );
+}
+
+// ─── DESTRUCTION & SOURCE ───────────────────────────────────────
+if (d.destruction?.trim()) {
+  dv.paragraph(`**Destruction:** ${d.destruction.trim()}`);
+}
+if (d.source?.trim() || d.pg?.toString().trim()) {
+  dv.paragraph(
+    `*Source: ${d.source || "Unknown"}${d.pg ? `, pg. ${d.pg}` : ""}*`
+  );
+}
+
+// ─── MAGIC ITEM PROPERTIES ───────────────────────────────────────
+let mg = [];
+if (d.weaponBase?.trim()) mg.push(`**Weapon Base** ${d.weaponBase}`);
+if (d.armorBase?.trim())  mg.push(`**Armor Base** ${d.armorBase}`);
+if (d.shieldBase?.trim()) mg.push(`**Shield Base** ${d.shieldBase}`);
+if (mg.length) dv.list(mg);
 
 ```
 
-```dataviewjs
-const { description } = dv.current();
-
-if (description && description.trim() !== "") {
-  dv.paragraph(description);
-}
-
-```
-
----
-
-```dataviewjs
-const data = dv.current();
-
-// Only display if there's a primary, secondary or tertiary power
-const entry = dv.current();
-
-if (entry.powerTitle || entry.powerTitle2 || entry.powerTitle3) {
-  let output = "";
-
-  function getActionIconCode(actionEconomy) {
-    if (!actionEconomy) return "";
-    const trimmed = actionEconomy.toString().trim().toLowerCase();
-    switch (trimmed) {
-      case "1": return "`pf2:1`";
-      case "2": return "`pf2:2`";
-      case "3": return "`pf2:3`";
-      case "0": return "`pf2:0`";
-      case "r":
-      case "reaction": return "`pf2:r`";
-      case "f":
-      case "free": return "`pf2:f`";
-      default: return "";
-    }
-  }
-
-  function createPowerBlock(title, action, type, frequency, activation, requirement, trigger, mechanics) {
-    const icon = getActionIconCode(action);
-    let block = `### **${title}** ${icon} ${type ?? ""}\n\n`;
-
-    if (frequency?.trim()) block += `**Frequency:** ${frequency}\n\n`;
-    if (activation?.trim()) block += `**Activation:** ${activation}\n\n`;
-    if (requirement?.trim()) block += `**Requirements:** ${requirement}\n\n`;
-    if (trigger?.trim()) block += `**Trigger:** ${trigger}\n\n`;
-
-    block += `${mechanics ?? ""}\n`;
-    return block;
-  }
-
-  output += "<div class='pf2e-ability-textbox'>\n\n";
-
-  if (entry.powerTitle) {
-    output += createPowerBlock(
-      entry.powerTitle,
-      entry.actionEconomy,
-      entry.type,
-      entry.frequency,
-      entry.activation,
-      entry.requirement,
-      entry.trigger,
-      entry.mechanics
-    );
-  }
-
-  if (entry.powerTitle2) {
-    if (entry.powerTitle) output += "\n<hr class='pf2e-divider'>\n\n";
-    output += createPowerBlock(
-      entry.powerTitle2,
-      entry.actionEconomy2,
-      entry.type2,
-      entry.frequency2,
-      entry.activation2,
-      entry.requirement2,
-      entry.trigger2,
-      entry.mechanics2
-    );
-  }
-
-  if (entry.powerTitle3) {
-    if (entry.powerTitle || entry.powerTitle2) output += "\n<hr class='pf2e-divider'>\n\n";
-    output += createPowerBlock(
-      entry.powerTitle3,
-      entry.actionEconomy3,
-      entry.type3,
-      entry.frequency3,
-      entry.activation3,
-      entry.requirement3,
-      entry.trigger3,
-      entry.mechanics3
-    );
-  }
-
-  output += "\n</div>\n";
-  dv.paragraph(output);
-}
-
-const { destruction, source, pg } = dv.current();
-
-let output = "";
-
-// Add Destruction, if present
-if (destruction && destruction.trim() !== "") {
-  output += `**Destruction:** ${destruction.trim()}\n\n`;
-}
-
-// Append Source info
-if (source || pg) {
-  output += `*Source: ${source ?? "Unknown"}${pg ? `, pg. ${pg}` : ""}*`;
-}
-
-dv.paragraph(output);
-
-```

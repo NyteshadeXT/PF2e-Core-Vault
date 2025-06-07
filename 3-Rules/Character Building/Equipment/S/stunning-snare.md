@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 10d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 32 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] for 1 round and [[Conditions/Stunned|Stunned 1]].  **Failure** The creature takes full damage and is off-guard for 1 round and [[Conditions/Stunned|Stunned 2]].  **Critical Failure** The creature takes double damage and is off-guard for 1 minute and [[Conditions/Stunned|Stunned 4]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

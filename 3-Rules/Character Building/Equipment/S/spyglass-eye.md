@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Polished to a perfect surface and incredibly clear, this special magical prosthetic eye allows you to clearly see small details as well as things a great distance away.  **Activate** `pf2:2` envision  **Frequency** once per hour  * * *  **Effect** A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

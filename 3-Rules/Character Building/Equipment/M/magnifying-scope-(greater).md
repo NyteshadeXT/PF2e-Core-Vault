@@ -27,12 +27,12 @@ usage: "attached to crossbow or firearm scope"
 license: "ORC"
 identify:
 description: "These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +2 item bonus to visual Perception checks to [[Actions/Seek|Seek]] creatures through the scope.  **Activate—Zoom In** `pf2:1` (manipulate)  * * *  **Effect** You zoom in on your targets to make it easier to hit them at a distance. You increase the range increment of the weapon to which the scope is attached by 10 feet until the beginning of your next turn or until you're no longer wielding the weapon, whichever comes first."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

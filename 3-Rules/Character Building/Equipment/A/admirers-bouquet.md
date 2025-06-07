@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "An admirer's bouquet appears to be a colorful silken handkerchief that exudes a pleasant floral scent until it's picked up, at which point a dozen vibrantly colored long- stemmed flowers appear in the carrier's hand, the stems wrapped in the silk. "
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[Interact]])
 frequency: "once per minute"
-trigger:
-mechanics: "By taking a deep sniff of the pleasant-smelling flowers, you can speed your recovery from nausea and reduce your [[Conditions/Sickened|Sickened]] value by 1."
+trigger1:
+mechanics1: "By taking a deep sniff of the pleasant-smelling flowers, you can speed your recovery from nausea and reduce your [[Conditions/Sickened|Sickened]] value by 1."
 powerTitle2: "Effect"
 actionEconomy2: r
 type2: ([[Interact]])

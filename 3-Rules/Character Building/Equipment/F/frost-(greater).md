@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "This weapon is empowered with freezing ice. It deals an additional 1d6 cold damage on a successful Strike. On a critical hit, the target is also [[Conditions/Slowed|Slowed 1]] until the end of your next turn unless it succeeds at a DC 34 Fortitude check save.  Cold damage dealt by this weapon ignores the target's cold resistance."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

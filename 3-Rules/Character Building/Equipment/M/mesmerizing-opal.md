@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  * * *  This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to [[Actions/Feint|Feint]]. If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

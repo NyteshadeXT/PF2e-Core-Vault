@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  * * *  When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A [[Spells/Spiritual Weapon|Spiritual Weapon]] empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Conditions/Dazzled|Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of 4th level or below.  [[Equipment Effects/Effect_ Dazzling Rosary|Effect: Dazzling Rosary]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

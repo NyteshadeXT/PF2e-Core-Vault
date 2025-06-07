@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Long associated with a notorious crime boss in Nantambu, this stout _+1 striking fearsome club_ is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip. It emits a ghastly groan when swung.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  * * *  **Effect** You gesture at a square within 40 feet with _Habu's Cudgel_. The club causes a frightful wail to unleash from that square and casts [[Spells/Fear|Fear]] (DC 24 Will check) targeting the creature in that square and all adjacent creatures."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

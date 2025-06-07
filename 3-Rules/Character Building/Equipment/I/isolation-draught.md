@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 25 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Dazzled|Dazzled]], -3 to all Perception checks (1 minute)  **Stage 2** dazzled, [[Conditions/Deafened|Deafened]], -5 to all Perception checks (1 minute)  **Stage 3** [[Conditions/Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

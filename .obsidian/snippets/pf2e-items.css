@@ -1,0 +1,12 @@
+.pf2e-intelligent-item {
+  background-color: #f8f3e5;
+  border: 2px solid #7a2e1b;
+  border-radius: 6px;
+  padding: 0.75em;
+  margin: 1em 0;
+  font-family: var(--font-text);
+}
+
+.pf2e-intelligent-item div {
+  margin-bottom: 0.2em;
+}

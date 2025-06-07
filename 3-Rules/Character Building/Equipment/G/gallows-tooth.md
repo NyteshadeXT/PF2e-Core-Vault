@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[Conditions/Off-Guard|Off-Guard]] against the Strike and until the end of your turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

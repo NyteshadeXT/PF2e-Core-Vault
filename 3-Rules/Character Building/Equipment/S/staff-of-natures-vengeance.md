@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This stout staff is made from gnarled hawthorn. When used as a weapon, a _staff of nature's vengeance_ permanently has the effects of [[Spells/Shillelagh|Shillelagh]].  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]] *   **1st** [[Spells/Shocking Grasp|Shocking Grasp]], [[Spells/Spider Sting|Spider Sting]] *   **2nd** [[Spells/Floating Flame|Floating Flame]], [[Spells/Vomit Swarm|Vomit Swarm]] *   **3rd** [[Spells/Earthbind|Earthbind]], [[Spells/Wall of Thorns|Wall of Thorns]] *   **4th** [[Spells/Bestial Curse|Bestial Curse]], [[Spells/Spike Stones|Spike Stones]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells, plus one casting of _shillelagh_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

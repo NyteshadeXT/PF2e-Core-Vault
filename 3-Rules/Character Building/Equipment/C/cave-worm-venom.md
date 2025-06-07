@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  Venom from enormous cave worms leaves a victim weakened.  **Saving Throw** DC 32 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 2** 6d6 poison damage and enfeebled 2 (1 round)  **Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

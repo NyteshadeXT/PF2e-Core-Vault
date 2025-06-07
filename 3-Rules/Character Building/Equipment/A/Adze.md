@@ -28,12 +28,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "A common cutting tool, an adze resembles an axe—but the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among woodworkers, and tripkee builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it."
-powerTitle: "Critical Specialization"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its striking rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
+powerTitle1: "Critical Specialization"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its striking rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
 powerTitle2:
 actionEconomy2:
 type2:

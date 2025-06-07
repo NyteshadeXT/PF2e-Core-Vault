@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This tarnished necklace can be attuned only by someone who is holy or unholy. When you attune it, it transforms into your deity's religious symbol or a personal symbol if you don't have a deity. You receive a +3 item bonus to Religion and a +1 circumstance bonus to saves against holy and unholy effects.  **Activate—Presence** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** The symbol casts 6th-rank [[Spells/Bane|Bane]], [[Spells/Bless|Bless]], [[Spells/Divine Wrath|Divine Wrath]], or [[Spells/Cleanse Affliction|Cleanse Affliction]]. Add 6th-rank [[Spells/Summon Celestial|Summon Celestial]] to this list if you are holy and 6th-rank [[Spells/Summon Fiend|Summon Fiend]] if you are unholy.  The counteract DC of these effects is 38, and the counteract modifier is +28.  * * *  **Craft Requirements** You must be holy or unholy."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

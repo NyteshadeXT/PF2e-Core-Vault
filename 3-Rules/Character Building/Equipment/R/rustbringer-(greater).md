@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The handle, chain, and spiked ball of this _+3 greater striking greater corrosive flail_ are all made of iron so rusted that the weapon appears nonfunctional at first glance. On Strikes against a creature that's primarily made of metal, it gains the deadly d10 trait.  **Activate—Rusting Disarm** `pf2:r`  **Trigger** You critically succeed at a [[Actions/Disarm|Disarm]] attempt with the flail against a metal weapon  * * *  **Effect** Flakes of acid-laden rust are deposited on the disarmed weapon. The weapon takes 4d6 acid damage, ignoring the weapon's Hardness."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

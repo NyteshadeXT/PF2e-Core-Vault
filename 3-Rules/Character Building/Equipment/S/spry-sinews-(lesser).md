@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "The tendons in your legs are uncommonly stretchy. When you [[Actions/Leap|Leap]], you increase the horizontal distance of your Leap by 5 feet and the vertical distance by 3 feet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "wornbracers"
 license: "ORC"
 identify:
 description: "These heavy gloves are reinforced with thick animal hide and sharpened bone.  **Activate—Shredding Finisher** `pf2:1` (manipulate)  **Frequency** once per hour  **Requirements** You hit the same creature with two unarmed Strikes in the same round  * * *  **Effect** The gauntlets' spikes dig into the creature just before you tear them free, dealing 2d6 piercing damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

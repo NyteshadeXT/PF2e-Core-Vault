@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Abraxas teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to Thievery checks.  **Activate** `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** Abraxas reaches through your hands and creates threads to yank thoughts from the mind of another. The thoughtwhip claw casts [[Spells/Mind Probe|Mind Probe]] on a creature within range, with a DC of 28."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

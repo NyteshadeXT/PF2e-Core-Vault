@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Sparks of crackling electricity arc from this +1 magic warhammer, and the head thrums with distant thunder. Any hit with this hammer deals 1 electricity damage. You can use a special action while holding the hammer to transform the sparks into lightning bolts.  **Electrify** `pf2:1` (concentrate) Until the end of your turn, the hammer deals 1d6 electricity damage instead of just 1. After you use this action, you can't use it again for 10 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

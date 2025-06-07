@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A phrase of luck is carved into the handle of this wooden teaspoon. While a variety of other cutlery with similar properties exists, a spoon is often the most convenient and inconspicuous to carry.  * * *  **Activate - Purify** `pf2:2` (manipulate)  **Frequency** once per day  **Effect** You stir the spoon in food or drink, casting [[Spells/Cleanse Cuisine|Cleanse Cuisine]] on the substance as you stir. This small spoon can purify up to 1 gallon of food or drink."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

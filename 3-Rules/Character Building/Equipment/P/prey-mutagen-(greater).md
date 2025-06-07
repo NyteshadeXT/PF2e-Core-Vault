@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  A mixture of fey blood and rare ingredients give you incredible speed but also cause you to become particularly attractive to predators.  **Benefit** You gain a +30 status bonus to your speed and are able to use the following reaction:  **Timely Dodge** `pf2:r`  **Trigger** You are targeted by a Strike  **Effect** You dart aside, gaining a +3 circumstance bonus to AC, then Step after the Strike resolves.  **Drawback** The range at which creatures can detect you with scent or tremorsense doubles. Animals and beasts gain a +2 circumstance bonus to attack rolls against you.  The duration is 1 hour.  [[Equipment Effects/Effect_ Prey Mutagen|Effect: Prey Mutagen]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

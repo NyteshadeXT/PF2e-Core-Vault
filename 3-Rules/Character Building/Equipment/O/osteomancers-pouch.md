@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This leather pouch holds a pair of six-sided dice carved from actual knucklebones. When rolled, the dice grant you a vision of a distant location, though their power is unreliable.  **Activate—Roll the Bones** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You roll the dice. If you roll two 1s, the activation fails with no effect. Otherwise, the dice cast [[Spells/Clairvoyance|Clairvoyance]] for you. When cast in this way, the spell's range becomes 100 feet × the result of your roll."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  Better known as the shrieking toadstool, the tragzioma fungus releases spores when disturbed by browsers, sending nearby creatures into a screaming panic that attracts opportunistic carnivores. Delicate alchemical processes have stabilized and concentrated the spores into a poison.  * * *  **Saving Throw** DC 28 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Frightened|Frightened 2]] (1 round)  **Stage 2** [[Conditions/Frightened|Frightened 3]] (1 round)  **Stage 3** frightened 3 and [[Conditions/Fleeing|Fleeing]] for 1 round (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

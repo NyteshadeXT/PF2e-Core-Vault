@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Shields (Con)  **Alignment** neutral evil  * * *  _The Sickness_ represents disease of the body or soul. As long as _The Sickness_ is invested, it grants you a +2 item bonus to saving throws against disease. If you roll a success on a save against a disease, you get a critical success instead. If you are 20th-level, the item bonus increases to +3.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You flick a corner of the card, as if casting aside a tiny pest or fleck of filth from its surface; you cast [[Spells/Abyssal Plague|Abyssal Plague]]. If you are at least 15th-level, you can instead choose to cast [[Spells/Spiritual Epidemic|Spiritual Epidemic]]. Regardless of which spell you cast, the rank of the spell is half your level, rounded down (minimum 6th level), and the save DC is equal to your class DC or spell DC.  _Abyssal Plague_ Fortitude check  _Spiritual Epidemic_ Fortitude check"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

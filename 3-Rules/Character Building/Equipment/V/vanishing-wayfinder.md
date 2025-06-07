@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "A vanishing wayfinder is crafted of ivory chased with gold and silver. It has the usual functions of a [[Equipment/Wayfinder|Wayfinder]] and the following additional activation.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You turn the wayfinder in a circle while invoking its command word, gaining the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell for 5 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

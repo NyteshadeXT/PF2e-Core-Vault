@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wand juts from an ornate hilt like a short, wooden dagger blade.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Spiritual Weapon|Spiritual Weapon]] at 6th-rank. When you critically hit, you apply the weapon's critical specialization effect. In addition, you can etch one of the following property runes onto the wand: _corrosive_, _flaming_, _frost_, _shock_, _thundering_, or their respective greater versions. The _spiritual weapon's_ Strikes gain the effects of this rune.  * * *  **Craft Requirements** Supply a casting of spiritual weapon of 6th-rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Made of overlapping, lustrous black scales of standard-grade adamantine, this +2 _greater resilient [[Equipment/Fortification|Fortification]] adamantine scale mail_ seems to momentarily thicken at the point of impact when hit.  Whenever the armor's _fortification_ rune successfully turns a significant foe's critical hit into a normal hit, one of the scales on the armor turns violet. You gain resistance to physical damage equal to the number of violet scales, to a maximum of 8.  At dawn each day, all the violet scales return to normal.  * * *  **Craft Requirements** The initial raw materials must include 1,600 gp of adamantine.  [[Equipment Effects/Effect_ Impenetrable Scale|Effect: Impenetrable Scale]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

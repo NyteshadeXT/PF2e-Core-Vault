@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (concentrate, manipulate)  * * *  This magical bulb is harvested from an ancient grove rich in primal plant magic. When you activate the bulb, you either eat it to have it cast a 6th-rank [[Spells/Plant Form|Plant Form]] spell affecting you, or plant it in the ground next to you to have it cast a 6th-rank [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] spell. If you choose the summoning option, the plant or fungus appears where you planted the bulb, and you can Sustain the activation to keep control of the creature."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

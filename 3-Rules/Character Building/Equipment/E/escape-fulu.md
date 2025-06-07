@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You attempt to [[Actions/Escape|Escape]].  * * *  The _escape fulu_ is a charm common among wealthy people, who wear the talisman in case of kidnapping. When you Activate this fulu, for 1 minute, you gain a +2 status bonus to your attempts to Escape as well as to Stealth checks to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]].  [[Equipment Effects/Effect_ Escape Fulu|Effect: Escape Fulu]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

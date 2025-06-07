@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  When this pebble hits a creature or a hard surface, it explodes with a deafening bang. A blasting stone deals 3d4 sonic damage and 3 sonic splash damage, and each creature within 10 feet of the space in which the stone exploded must succeed at a DC 28 Fortitude check saving throw with the listed DC or be [[Conditions/Deafened|Deafened]] until the end of its next turn. You gain a +2 item bonus to attack rolls."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

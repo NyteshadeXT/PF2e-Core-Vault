@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash _oil of unlife_ onto an undead creature, or a living creature with void healing, the oil absorbs quickly into its body, and the creature regains 2d8+5 Hit Points. You can pour _oil of unlife_ on an incorporeal undead; in this case, the creature absorbs the oil into itself."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

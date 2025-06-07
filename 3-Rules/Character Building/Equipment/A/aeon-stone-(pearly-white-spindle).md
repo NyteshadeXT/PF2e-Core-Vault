@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "When you invest this _aeon stone_, it slowly starts healing your wounds, restoring 1 HP every minute.  The resonant power grants you resistance 1 to void damage.  [[Equipment Effects/Effect_ Aeon Stone Resonance (Pearly White Spindle)|Effect: Aeon Stone Resonance (Pearly White Spindle)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

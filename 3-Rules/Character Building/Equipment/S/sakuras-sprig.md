@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You strike an unholy target with the affixed weapon  **Requirements** You're trained in the affixed weapon.  * * *  This small glowing sprig of cherry tree flowers is only granted by Sakura, the kami of Silvertree. When activated, the affixed weapon gains the holy trait for the triggering attack and all other attacks for 1 minute.  [[Equipment Effects/Effect_ Sakura's Sprig|Effect: Sakura's Sprig]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking thundering light mace_ has twin tips, perfectly spaced to resonate when striking foes.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You tap the tuning mace against a nearby surface to cast 4th-rank [[Spells/Noise Blast|Noise Blast]] with a DC of 25."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` envision  * * *  This simple charm is made from compacted grave dirt infused with bone dust. A [[Spells/Harm|Harm]] spell that's empowered by this catalyst can reach faraway targets. If the _harm_ spell is cast with 1 action, its range is 30 feet; if it's cast with 2 actions, its range is 60 feet. This has no effect on the three-action area version of _harm_, though in most cases, you don't have enough actions to Activate the token and cast a three-action _harm_ anyway."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

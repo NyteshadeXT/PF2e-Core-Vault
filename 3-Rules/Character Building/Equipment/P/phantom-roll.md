@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** 10 minutes (Interact)  A phantom roll contains vegetables, greens, and fine, clear noodles, all wrapped in transparent, edible starch paper and alchemically treated and laced with a tangy sauce. Upon eating the roll, you gain a +1 item bonus to Stealth checks you attempt during the [[Actions/Avoid Notice|Avoid Notice]] exploration activity. You can also Avoid Notice at full Speed or combine it with Investigate or Scout while moving at half Speed. These effects expire 24 hours after you eat the roll or when you make your next daily preparations, whichever comes first."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

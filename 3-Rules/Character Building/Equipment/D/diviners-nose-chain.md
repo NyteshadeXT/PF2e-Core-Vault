@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "The diviner's nose chain is worn by attaching piercings to the ear and nose, creating a connection between the senses of hearing and smell. The diviner's nose chain grants you scent out to 30 feet as an imprecise sense, and a +1 item bonus to checks to Seek or Sense Motive."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

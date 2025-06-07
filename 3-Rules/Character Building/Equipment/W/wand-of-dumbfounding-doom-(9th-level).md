@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Carvings of skulls, monsters, and all manner of violence decorate this wand of blackened bone, but it makes absurd sounds when Activated, such as a honking horn, a manic giggle, or a daydreamy sigh.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 9th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.  * * *  **Craft Requirements** Supply a casting of [[Spells/Impending Doom|Impending Doom]] of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

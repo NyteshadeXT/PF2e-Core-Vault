@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This lemony tea blended from rare Vudrani herbs and flowers is widely circulated by occult circles looking to transcend the boundaries of reality. The saving throw for addiction to dreamtime tea is DC 19.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 minute)  **Stage 2** [[Conditions/Unconscious|Unconscious]] and can ask a question with the effects of [[Spells/Augury|Augury]] except the flat check DC is 10 (10 minutes)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

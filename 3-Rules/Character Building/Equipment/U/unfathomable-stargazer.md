@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "An unfathomable stargazer is a handheld brass telescope etched with constellations, the patterns of which form bizarre, shifting runes. You can observe the night sky with an unfathomable stargazer, however, the constellations you glimpse through the telescope distort with expanding and contracting fields of darkness among them. You use Occultism instead of Perception or Astronomy Lore when observing the skies with this item, and gain a +2 item bonus on all checks to do so. Once you use it, it fuses to you, and you must succeed at a DC 35 Will check save to use another device to observe the stars, including your naked eyes. The telescope imposes a –4 circumstance penalty to Survival checks to Sense Direction or navigate. If you critically fail this Survival check, you're subjected to [[Spells/Warp Mind|Warp Mind]] (DC 34 Will check) as you glimpse something horrifying and alien amid the darkness."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

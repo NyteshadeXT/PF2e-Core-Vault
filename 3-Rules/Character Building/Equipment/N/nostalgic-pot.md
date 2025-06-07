@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This small pot filled with pebbles is imbued with the nostalgia of its owner. While this pot is on your person, you get a +1 item bonus to saves against emotion effects.  **Jingling Memories** `pf2:1` (concentrate, emotion)  **Frequency** once per day  * * *  **Effect** You shake the pot, granting a +1 item bonus to an ally to save against an emotion effect."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

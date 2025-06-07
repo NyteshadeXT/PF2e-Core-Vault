@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This coin usually resembles ancient currency. An intricate matrix of gold and platinum wires inside the coin causes it to float an inch in the air and spin if placed on a wayfinder.  * * *  **Activate** `pf2:1` command  **Requirements** The coin is levitating above a [[Equipment/Wayfinder|Wayfinder]]  **Effect** You give the coin a message of 25 words or fewer. The message repeats in your voice the next time the coin is floated above a _wayfinder_. A _Pathfinder's coin_ can hold only one message at a time, and it replays its message only once."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

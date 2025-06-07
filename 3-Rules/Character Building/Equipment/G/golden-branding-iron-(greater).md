@@ -27,12 +27,12 @@ usage: "affixed to a two handed firearm or crossbow"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You hit a target with a ranged Strike with the affixed weapon  **Requirements** You're an expert with the affixed weapon.  * * *  This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.  You harmlessly place your unique magical sigil, which is about 1 square inch in size, anywhere on the target creature, as long as the location is visible to you. The mark is only visible to you and up to 6 of your allies. The mark can be scrubbed or scraped off with 5 minutes of work. It fades naturally over the course of a year."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

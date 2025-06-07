@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/anima-robe-artifact.md",
+                "file": "3-Rules/Character Building/Equipment/A/abysium-powder.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "anima-robe-artifact"
+              "title": "abysium-powder"
             }
           },
           {
@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Item Card Template.md",
+                "file": "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Item Card Template"
-            }
-          },
-          {
-            "id": "be726b41cf18e011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/A/alchemist's-toolkit.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "alchemist's-toolkit"
+              "title": "abadars-flawless-scale"
             }
           },
           {
@@ -76,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Encounter at Blackwall Keep"
             }
+          },
+          {
+            "id": "f28b3e2914c94829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Uniques/Shesht.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Shesht"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,34 +297,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "38636605113f3d57",
+  "active": "f1b62992fc2b6646",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/A/anima-robe-artifact.md",
-    "zz-Templates/Markdown/Insert Item.md",
     "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/A/abysium-powder.md",
+    "3-Rules/Character Building/Equipment/A/accolade-robe.md",
+    "3-Rules/Character Building/Equipment/A/Abysium Ingot.md",
+    "3-Rules/Character Building/Equipment/A/absolute-solvent-(moderate).md",
+    "3-Rules/Character Building/Equipment/A/absolute-solvent-(greater).md",
+    "3-Rules/Character Building/Equipment/A/aboutface-figurehead.md",
+    "3-Rules/Character Building/Equipment/A/ablative-shield-plating-(lesser).md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(greater).md",
+    "3-Rules/Character Building/Equipment/A/anima-robe-artifact.md",
+    "3-Rules/Character Building/Equipment/A/absolute-solvent-(lesser).md",
+    "3-Rules/Character Building/Equipment/A/ablative-shield-plating-(moderate).md",
+    "3-Rules/Character Building/Equipment/A/ablative-armor-plating-(moderate).md",
+    "3-Rules/Character Building/Equipment/A/aeon-stone-(peering).md",
+    "3-Rules/Character Building/Equipment/A/animal-bed.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/A/anglerfish-lantern.md",
     "3-Rules/Character Building/Equipment/A/anima-robe.md",
     "3-Rules/Character Building/Equipment/A/anglerfish-lantern-(submersible).md",
-    "3-Rules/Bestiaries/Rulebooks/Vehicles/Bathysphere.md",
-    "3-Rules/Character Building/Equipment/A/anglerfish-lantern.md",
     "3-Rules/Character Building/Equipment/A/angelic-opera-cloak.md",
+    "3-Rules/Character Building/Equipment/A/anchor-spear.md",
+    "3-Rules/Character Building/Equipment/A/anchor-of-aquatic-exploration.md",
+    "3-Rules/Character Building/Equipment/A/animal-staff.md",
     "3-Rules/Character Building/Equipment/A/alchemist's-toolkit.md",
-    "3-Rules/Character Building/Equipment/A/anathema-fulu.md",
-    "3-Rules/Character Building/Equipment/A/anchoring-(greater).md",
-    "3-Rules/Character Building/Equipment/A/anchoring.md",
-    "3-Rules/Character Building/Equipment/A/alcohol.md",
-    "1-GM Toolkit/ToDo List.md",
     "3-Rules/Character Building/Equipment/A/aklys.md",
-    "3-Rules/Character Building/Equipment/A/air-repeater.md",
-    "3-Rules/Character Building/Equipment/A/adze.md",
-    "3-Rules/Character Building/Equipment/A/air-bladder.md",
-    "3-Rules/Character Building/Equipment/A/aim-aiding.md",
-    "3-Rules/Character Building/Equipment/A/advancing.md",
-    "3-Rules/Character Building/Equipment/A/ablative-shield-plating-(greater).md",
-    "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
-    "3-Rules/Character Building/Equipment/A/addiction-suppressant-(moderate).md",
-    "3-Rules/Character Building/Equipment/A/admonishing-band.md",
-    "3-Rules/Character Building/Equipment/A/advancing-greater.md",
-    "3-Rules/Character Building/Equipment/A/addlebrain.md",
+    "3-Rules/Character Building/Equipment/A/alacritous-horseshoes.md",
     "zz-Attachments/amnemonic charm.png",
     "zz-Attachments/Zerathos Holy Symbol.png",
     "zz-Attachments/Vorthron Holy Symbol.png",

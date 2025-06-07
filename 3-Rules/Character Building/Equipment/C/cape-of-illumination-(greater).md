@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This golden cape, embroidered with vibrant red sun rays, sparkles like sunlight reflecting off the ocean.  **Activate** `pf2:2` command, Interact  **Effect** The cape glows with the effects of 7th-rank [[Spells/Light|Light]]. You can Activate the cape again to Dismiss the effect.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per hour  **Effect** You draw the cape and unleash a blinding flash of light. All enemies within 30 feet that can see you must attempt a DC 34 Fortitude check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.  **Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.  **Critical Failure** The creature is blinded for 1 round and dazzled for 1 hour."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

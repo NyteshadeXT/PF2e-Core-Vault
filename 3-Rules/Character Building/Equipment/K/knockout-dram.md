@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This soporific chemical comes in liquid form and is virtually undetectable by taste or scent. It's most commonly slipped into a victim's drink to quickly induce a deep unconsciousness.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 23 Fortitude check  **Onset** 1 minute  **Maximum Duration** 10 hours  **Stage 1** fall [[Conditions/Unconscious|Unconscious]] and can't attempt Perception checks to wake up (1 minute)  **Stage 2** sleep normally (1d4 hours)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  You can throw a _stalagmite seed_, use it as a sling stone, or pack it into firearm ammunition. When you use the seed, you aim it at a 5-foot square rather than a specific target. Stalagmites of assorted sizes erupt in the square the seed lands in, dealing 6d6 piercing damage to any creature within that space (DC 23 Reflex check save). The stalagmites remain for 1 minute, creating difficult terrain in that space, before they crumble into dust."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

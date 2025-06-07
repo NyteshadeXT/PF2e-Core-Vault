@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This gnarled staff is covered with thorns and coated with a glistening lacquer that acts as a minor irritant. While holding the staff, you aren't affected by its coating or thorns, and you reduce the DC of your flat checks to overcome persistent poison damage from 15 to 10.  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrips** [[Spells/Guidance|Guidance]] *   **1st** [[Spells/Detect Poison|Detect Poison]], [[Spells/Spider Sting|Spider Sting]] *   **2nd** [[Spells/Enhance Victuals|Enhance Victuals]], [[Spells/Imp Sting|Imp Sting]] *   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Stinking Cloud|Stinking Cloud]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

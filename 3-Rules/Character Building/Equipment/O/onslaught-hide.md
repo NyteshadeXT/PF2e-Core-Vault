@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "This _+1 resilient hide armor_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the [[Feats/Sudden Charge|Sudden Charge]] class feat while wearing this armor, your Strike deals an additional 1d8 untyped damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

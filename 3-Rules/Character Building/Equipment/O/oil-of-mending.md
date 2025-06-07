@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** 1 minute (manipulate)  * * *  A vial of oil of mending appears to have countless translucent threads swirling within. Applying this oil to an item casts a 2nd-rank [[Spells/Mending|Mending]] spell to repair the item."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This chilly ammunition is dark blue and cold to the touch. When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

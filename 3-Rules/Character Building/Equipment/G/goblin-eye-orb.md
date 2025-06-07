@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a weapon  **Activate** `pf2:0` (concentrate)  **Trigger** You attempt a Strike with the affixed firearm or crossbow against an enemy that's concealed or hidden to you.  **Requirements** You're an expert with the affixed firearm or crossbow and an expert in Perception.  * * *  This colorful marble dangles from a leather thong wrapped around the affixed weapon. When you activate the band, for the triggering Strike, you don't need to attempt a flat check due to the enemy being concealed or hidden to you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

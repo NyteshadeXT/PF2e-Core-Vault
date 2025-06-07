@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "An alchemical fuse is a length of treated cord that can be used to time the detonation of an alchemical bomb or a stick of pyronite, or simply as a timer—at the GM's option, fuses can be used as timers to trigger other devices that can be triggered with a single appropriate action, as well."
-powerTitle: "Attach"
-actionEconomy: 1
+powerTitle1: "Attach"
+actionEconomy1: 1
 type: "([[Interact]])"
 frequency:
-trigger:
-mechanics: "You attach the alchemical fuse to an alchemical bomb, stick of pyronite, or other device that can be triggered by a fuse. Alternately, you can attach one fuse to another to extend its burn time by 1 round."
+trigger1:
+mechanics1: "You attach the alchemical fuse to an alchemical bomb, stick of pyronite, or other device that can be triggered by a fuse. Alternately, you can attach one fuse to another to extend its burn time by 1 round."
 powerTitle2: "Light"
 actionEconomy2: 1
 type2: "([[Interact]])"

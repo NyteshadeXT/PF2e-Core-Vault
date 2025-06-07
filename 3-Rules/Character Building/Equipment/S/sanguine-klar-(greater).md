@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This _+2 greater striking wounding klar_ (Hardness 13, HP 100, BT 50) is built with spikes made of beasts' fangs.  **Activate** `pf2:0` envision  **Frequency** once per round  **Trigger** You or a creature within 30 feet of you suffers bleed damage  * * *  **Effect** The sanguine klar regains a number of Hit Points equal to the bleed damage, up to an amount equal to its Hardness."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

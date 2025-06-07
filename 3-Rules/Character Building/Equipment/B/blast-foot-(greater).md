@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "These prosthetic feet and legs, created by dwarven alchemists and spellcasters together, are engraved with simple but effective evocation symbols on the ball and heel, empowering you to leap to great heights and blast foes with your feet.  * * *  **Activate** `pf2:1` envision  **Frequency** once per minute  * * *  **Effect** You blast off from the ground, using the force to leap through the air. The _blast feet_ cast [[Spells/Jump|Jump]] on you.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You blast from your feet, dealing 8d6 force damage to all creatures in a 30-foot cone, with a DC 27 Reflex check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This black-feathered quill has a glowing nib with a small amount of glowing ink inside it.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting [[Spells/Magic Passage|Magic Passage]] on the touched surface."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

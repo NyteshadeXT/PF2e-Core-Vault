@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "A weapon with this rune is empowered by flickering flame. The weapon deals an additional 1d6 fire damage on a successful Strike, plus 2d10 persistent fire damage on a critical hit.  Fire damage dealt by this weapon (including the persistent fire damage) ignores the target's fire resistance."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

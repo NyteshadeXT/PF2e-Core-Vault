@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+2 greater striking katar_ masterfully crafted from the adamantine-laced fang of a shuln can puncture even the toughest of armors.  * * *  **Activate—Piercing Critical** `pf2:1` (concentrate)  **Frequency** once per round  **Requirements** Your last action was to score a critical hit with the _shuln fang katar_ against a creature that is wearing armor  **Effect** You deal the same amount of damage as the critical hit to the creature's armor, bypassing any Hardness lower than 10, like adamantine.  * * *  **Craft Requirements** The initial raw materials must include a fang from a shuln."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

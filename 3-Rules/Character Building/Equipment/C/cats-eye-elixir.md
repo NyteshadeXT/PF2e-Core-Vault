@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  After you consume this elixir, your vision sharpens and you become sensitive to even the most minute movements.  For the next minute, you reduce the flat check to target [[Conditions/Hidden|Hidden]] creatures to DC 5 Flat check, and you don't need to attempt a flat check to target [[Conditions/Concealed|Concealed]] creatures. These benefits apply only against creatures within 30 feet of you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This polished wooden staff bears a swirling motif reminiscent of the folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to checks to identify mental magic.  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrip** [[Spells/Daze|Daze]] *   **1st** [[Spells/Mindlink|Mindlink]] [[Spells/Phantom Pain|Phantom Pain]] *   **2nd** [[Spells/Paranoia|Paranoia]] *   **3rd** [[Spells/Hypercognition|Hypercognition]] [[Spells/Phantom Pain|Phantom Pain]] *   **4th** [[Spells/Rewrite Memory|Rewrite Memory]] [[Spells/Telepathy|Telepathy]] *   **5th** [[Spells/Hallucination|Hallucination]] [[Spells/Phantom Pain|Phantom Pain]] [[Spells/Synaptic Pulse|Synaptic Pulse]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "Vigilant Seal members use these containers when transporting samples and relics.  The containers are soundproof, airtight, and studded with lead sheets, mistletoe, and other materials that block magical auras. Up to 1 Bulk of objects can be placed inside a sealing chest; the magic auras and curses of any objects placed within the chest cannot extend beyond the box unless they are of a greater level than the chest. Artifacts and similarly powerful items are unaffected regardless of level. Many cursed items prevent their bearer from removing them, but a successful remove curse gives enough time to stash the item in the chest."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

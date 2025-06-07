@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:3` (manipulate)  **Access** Tian Xia origin  * * *  These cool noodles are served with dark fermented sauces and vinegars before finally being tossed with spicy chili oil.  When you consume the noodles, you temporarily ignore the -1 status penalty to AC and saving throws caused by the [[Conditions/Fatigued|Fatigued]] condition for 1 hour."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

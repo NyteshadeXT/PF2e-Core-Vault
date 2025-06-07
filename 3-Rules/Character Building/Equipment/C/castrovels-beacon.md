@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The tip of this _+2 greater striking brilliant standard-grade cold iron rapier_ shines with a flickering sheen of green light that mimics the glittering appearance of Castrovel in the night sky. The carrier of _Castrovel's Beacon_ instinctively knows Castrovel's position in the sky even if it hasn't actually yet risen into view, which grants the wielder a +2 item bonus to [[Actions/Sense Direction|Sense Direction]] when using the stars to orient themself. Additionally, the weapon grants a +2 item bonus to all saving throws against effects that cause the [[Conditions/Dazzled|Dazzled]] or [[Conditions/Blinded|Blinded]] conditions.  When its _brilliant_ rune is activated, the counteract rank is 6 and the counteract modifier is +21.  **Activate—Starlight Burst** `pf2:1` (manipulate)  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Vibrant Pattern|Vibrant Pattern]] from _Castrovel's Beacon_ as a 6th-rank arcane spell with a DC 31 Will check save. Creatures with the elf trait are immune to Starlight Burst, and creatures with the demon trait take a –2 item penalty on all Will saves against the effect."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

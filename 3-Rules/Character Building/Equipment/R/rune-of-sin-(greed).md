@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "This jagged glyph, the greed Thassilonian rune of sin, reacts to transmutation magic. When you Cast a transmutation Spell, you gain resistance 5 to damage from spells until the start of your next turn. This resistance is increased to 7 against transmutation spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "This two-pronged fork of metal emits a constant low hum, vibrating slightly when touched. The spell attack roll of any spell cast by activating this item is +19, and the spell DC is 29.  *   **Armor** You gain resistance 10 to sonic damage and a +2 item bonus to saving throws against effects with the auditory or sonic trait. *   **Weapon** After you cast a sonic spell by activating the fork, the weapon reverberates with trapped sound waves. Your next Strike causes the target to be [[Conditions/Deafened|Deafened]] for 1 minute if it hits (or for 1 hour on a critical hit). If you don't make a Strike by the end of your next turn, the sound waves dissipate with no effect.  [[Equipment Effects/Effect_ Resonating Fork - Armor|Effect: Resonating Fork - Armor]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Bullhorn|Bullhorn]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 4th-rank [[Spells/Noise Blast|Noise Blast]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Painful Vibrations|Painful Vibrations]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

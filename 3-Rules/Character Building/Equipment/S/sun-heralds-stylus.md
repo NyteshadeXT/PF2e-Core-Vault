@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This writing instrument was made from the spur of one of the giant divine roosters that heralds the presence of Shizuru. While you hold it, you gain a +2 item bonus to Calligraphy Lore and Medicine checks.  **Activate—Rejuvenating Ink** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Drawing a circle on the ground with your stylus, you cast [[Spells/Field of Life|Field of Life]] centered on yourself.  * * *  **Craft Requirements** The feathers must be plucked from a living divine rooster or given by the bird to a chosen mortal."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

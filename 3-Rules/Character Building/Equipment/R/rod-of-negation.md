@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This long, plain, leaden rod can disrupt magic.  **Activate** `pf2:2` Interact  * * *  **Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+23. Once activated, the rod can't be activated again for 2d6 hours."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

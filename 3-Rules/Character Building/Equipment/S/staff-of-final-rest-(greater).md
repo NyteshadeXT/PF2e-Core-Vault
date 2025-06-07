@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This white marble staff is carved into the figure of an abstract knight, its shield bearing the symbol of Lastwall, with a wickedly pointed sword made of dark wood raised high above its head. When you wield it as a weapon, it gains the versatile P trait and functions as a wooden stake, allowing you to use it to stake vampires, and your Strikes with the staff gain a +2 circumstance bonus to damage rolls against undead.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]] *   **1st** [[Spells/Infuse Vitality|Infuse Vitality]], [[Spells/Heal|Heal]] *   **2nd** [[Spells/Heal|Heal]], [[Spells/Peaceful Rest|Peaceful Rest]] *   **3rd** [[Spells/Bind Undead|Bind Undead]], [[Spells/Infuse Vitality|Infuse Vitality]], [[Spells/Heal|Heal]] *   **4th** [[Spells/Heal|Heal]], [[Spells/Holy Cascade|Holy Cascade]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

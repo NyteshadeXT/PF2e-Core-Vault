@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Black lotus extract causes severe internal bleeding.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 42 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 13d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)  **Stage 2** 15d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)  **Stage 3** 17d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

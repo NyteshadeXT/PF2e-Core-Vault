@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "While invested, this _aeon stone_ grants the benefit of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune to your weapons and unarmed attacks.  The resonant power grants a special activation.  * * *  **Activate** `pf2:1` envision  **Frequency** once per minute  **Effect** You gain the effects of [[Spells/See the Unseen|See the Unseen]] for 1 round."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

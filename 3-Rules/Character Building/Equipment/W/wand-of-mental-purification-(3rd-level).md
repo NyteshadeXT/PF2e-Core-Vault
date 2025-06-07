@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Red feathers hang from the handle of this ivory wand. Holding it brings a sense of gentle calm.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 3rd-rank [[Spells/Soothe|Soothe]], and can attempt to counteract one mental effect on the same target. Treat the [[Spells/Soothe|Soothe]] spell's rank as 1 higher for this counteract check.  * * *  **Craft Requirements** Supply a casting of _soothe_ of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

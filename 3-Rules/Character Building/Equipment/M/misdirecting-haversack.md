@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This brown leather satchel is made from a heavily oiled and rustic leather. The satchel is large enough to hold up to 1 Bulk worth of items.  * * *  **Activate** 1 minute (envision, Interact)  * * *  **Effect** Documents inside the haversack become magically disguised as documents of a similar type but with misleading information. Anyone inspecting a document notices the disguise with a successful DC 20 Perception check check, but determining the actual text requires a successful DC 20 Society check check to Decipher Writing. This lasts until you use this activation again, which ends the effect for all previously disguised documents; until you use the second activation to end the effect for a single document; or until a document in the haversack remains outside the haversack for at least 1 hour, ending the effect for that document.  * * *  **Activate** `pf2:1` command  * * *  **Effect** You revert one of the documents back to its original state."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

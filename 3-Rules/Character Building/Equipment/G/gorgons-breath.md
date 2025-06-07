@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Gorgon's breath is a fine powder that can easily enter living creatures' bloodstreams through their lungs before binding to mucous membranes and causing any nearby soft tissues to harden.  **Saving Throw** DC 32 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** 4d6 bludgeoning and slowed 1 (1 round)  **Stage 3** [[Conditions/Petrified|Petrified]] (1 round)  **Stage 4** petrified permanently"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

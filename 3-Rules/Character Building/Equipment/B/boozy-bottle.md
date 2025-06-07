@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "This tattoo depicts a container of alcohol, traditionally a small, uncorked brown bottle. You gain a +1 item bonus to saving throws against poison.  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger** You fail (but don't critically fail) an initial saving throw against a poison, or you gain persistent poison damage  * * *  **Effect** You pick your poison. Calling out the name of a drink as though ordering at a bar, you negate the triggering poison. Instead, you gain the alcohol affliction at stage 2. The DC of this magical alcohol is the DC of the triggering poison save or DC 20 for persistent poison damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

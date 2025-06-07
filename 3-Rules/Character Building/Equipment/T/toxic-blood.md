@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "Your blood flows with tetrodotoxin or a similar toxin, poisoning enemies who dare to bite you.  Creatures that damage you with an attack using their mouths (such as a jaws or fang Strike) must attempt a DC 26 Fortitude check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is [[Conditions/Sickened|Sickened 1]].  **Failure** The creature takes 2d6 poison damage and is sickened 1.  **Critical Failure** The creature takes 4d6 poison damage and is [[Conditions/Sickened|Sickened 2]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to a creature"
 license: "ORC"
 identify:
 description: "This handsome tassel comes in a variety of colors to match your companion's collar or bridle. While attached, the tassel gives the companion a +1 item bonus to Acrobatics checks to Balance, and to their Reflex DC against Trip attacks."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

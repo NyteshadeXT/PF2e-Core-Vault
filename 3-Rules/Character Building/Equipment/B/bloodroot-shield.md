@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wooden shield is an interwoven knot of still-living tree roots (Hardness 6, HP 36, BT 18).  **Activate—Thirsty Roots** `pf2:1` (manipulate)  **Frequency** once per day  * * *  **Effect** You hold out the shield as the roots untangle themselves and launch forward, dealing 9d6 void damage to all creatures in a 60-foot line (DC 25 Reflex check save). On a failed save, a creature takes an additional 5 persistent bleed damage. The shield regains a number of Hit Points equal to half the void damage dealt."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

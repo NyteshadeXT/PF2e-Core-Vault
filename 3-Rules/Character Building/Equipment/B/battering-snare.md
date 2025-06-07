@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This snare consists of a flat rock or metal plate held in place with a spring or flexible branch. When triggered, the flat object swings wide and smacks the triggering creature violently. The first creature to enter its square receives 2d6 bludgeoning damage (DC 16 Reflex check). On a critical failure, the creature is also [[Conditions/Stunned|Stunned 1]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is [[Conditions/Concealed|Concealed]] by this poison, then the cloud of dust also conceals other creatures from the victim.  **Saving Throw** DC 42 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 10d6 poison and [[Conditions/Drained|Drained 1]] (1 round)  **Stage 2** 12d6 poison, drained 1, and concealed (1 round)  **Stage 3** 15d6 poison, drained 1, and concealed (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

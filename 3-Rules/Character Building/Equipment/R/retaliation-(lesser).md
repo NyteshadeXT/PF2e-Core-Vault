@@ -27,12 +27,12 @@ usage: "applied to shield"
 license: "ORC"
 identify:
 description: "Shields with a retaliation rune use the impact of weapons to generate blasts of explosive force that counterattack foes.  **Activate** `pf2:0` envision  **Frequency** once per hour  **Trigger** You Shield Block a melee Strike  * * *  **Effect** You unleash force damage against the creature that made the triggering attack. This attack deals 4d4 force (DC 20 Reflex check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

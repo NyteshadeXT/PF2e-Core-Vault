@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Instead of chain links, this _+3 greater resilient chain shirt_ is assembled from metal "leaves" that each resemble a small blade.  **Activate** `pf2:1` Interact  * * *  **Effect** You pull a link from the armor, which transforms into a _+3 greater striking [[Equipment/Dagger|Dagger]]_. The dagger disappears and reappears as a link in the armor after you Strike with it, or at the end of this turn if you don't make a Strike. You can Activate the blade byrnie in place of an Interact action to draw a weapon for abilities such as the [[Feats/Quick Draw|Quick Draw]] feat.  Upgrading the runes on the blade byrnie makes the daggers pulled from it more powerful. The daggers have a _+3 weapon potency_ rune if the armor has a _+3 armor potency_ rune."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

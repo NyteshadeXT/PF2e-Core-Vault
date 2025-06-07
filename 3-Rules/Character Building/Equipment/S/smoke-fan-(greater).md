@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  When you Activate a smoke fan, it creates a cloud of colored smoke. The smoke fills a 20-foot radius. The creator chooses the smoke's color when creating the smoke fan, or the creator can choose for the smoke to be a mixture of colors. Creatures within the smoke's area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

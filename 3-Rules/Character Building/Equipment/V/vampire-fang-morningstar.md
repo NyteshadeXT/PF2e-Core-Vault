@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking wounding morningstar_ is studded with teeth pulled from a vampire, which usually requires an animate donor, given vampires' tendency to turn to dust when destroyed.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per minute  **Requirements** Your last action was a successful Strike with this weapon and you're not in direct sunlight  **Effect** The _vampire-fang morningstar_ absorbs blood from the target, healing the wielder for 10 healing Hit Points.  * * *  **Craft Requirements** The initial raw materials must include teeth from a vampire."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "This kit of bandages, herbs, and suturing tools is necessary for Medicine checks to [[Actions/Administer First Aid|Administer First Aid]], [[Actions/Treat Disease|Treat Disease]], [[Actions/Treat Poison|Treat Poison]], or [[Actions/Treat Wounds|Treat Wounds]]. Expanded healer's toolkits provide a +1 item bonus to such checks. If you wear your healer's toolkit, you can draw and replace its tools as part of the action that uses them."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

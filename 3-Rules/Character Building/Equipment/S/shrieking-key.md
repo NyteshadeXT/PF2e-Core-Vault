@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A skull-topped metal _shrieking key_ appears to be a _[[Equipment/Skeleton Key|Skeleton Key]]_, useful in place of _[[Equipment/Thieves' Toolkit|Thieves' Tools]]_ when attempting to Pick a Lock. A _shrieking key_ has no activation, however. When you use it to Pick a Lock, the key emits a loud shriek audible for 500 feet despite ambient noise. Physical barriers still block or muffle the shriek as normal. You also take a –2 circumstance penalty to the Thievery check rather than enjoying a bonus. After you attempt such a check with the key the first time, it fuses to you, returning to your possession if discarded. To use another device to Pick a Lock, you must first succeed at a DC 20 Will check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

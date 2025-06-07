@@ -27,12 +27,12 @@ usage: "wornshoes"
 license: "ORC"
 identify:
 description: "These sleek red boots make your legs feel like they're bursting with energy. You gain a +5-foot item bonus to your land Speed and to any climb or swim Speeds you have.  **Activate—Quickening Stomp** `pf2:1` (manipulate)  **Frequency** once per day  * * *  **Effect** You stomp three times and gain the [[Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Actions/Climb|Climb]], or [[Actions/Swim|Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

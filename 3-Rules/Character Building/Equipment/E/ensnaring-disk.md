@@ -27,12 +27,12 @@ usage: "affixed to a shield"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You use the affixed shield to Shield Block a melee weapon attack  **Requirements** You are an expert in Athletics.  * * *  This coin-sized metal disk is inscribed with arcane symbols and mounted on the inner surface of a shield. When you Activate the disk, the triggering weapon momentarily sticks to your shield, allowing you to attempt to [[Actions/Disarm|Disarm]] it from its wielder with a +2 item bonus. If you roll a critical failure on this check, you get a failure instead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

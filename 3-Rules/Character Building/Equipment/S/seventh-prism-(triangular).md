@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  Beloved by the church of the Seventh Veil, a _seventh prism_ is a crystal that disperses its internal light, casting an aurora of color. If you use a seventh prism to cast [[Spells/Dizzying Colors|Dizzying Colors]], targets are [[Conditions/Dazzled|Dazzled]] for twice as long as their saving throw indicates. On a critical failure, the target is dazzled for 1 minute after its [[Conditions/Blinded|Blinded]] condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult to see details."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

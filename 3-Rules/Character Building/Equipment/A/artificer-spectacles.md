@@ -27,12 +27,12 @@ usage: "worneyeglasses"
 license: "ORC"
 identify:
 description: "These seemingly ordinary rectangular eyeglasses feature clear lenses framed in copper. When invested and worn, they rest perfectly on the bridge of the nose and can only be removed by the wearer. You gain a +3 item bonus to Crafting checks and any skill check made to Identify Magic. When you invest the spectacles, you either increase your Intelligence score by 2 or increase it to 18, whichever is higher. You must select the skills and languages the first time you invest the item, and whenever you invest the same artificer spectacles, you get the same skills and languages you chose the first time.  **Activate** `pf2:2` Interact  **Frequency** once per hour  * * *  **Effect** You cast a 3rd-rank [[Spells/Mending|Mending]]spell on an item you touch."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

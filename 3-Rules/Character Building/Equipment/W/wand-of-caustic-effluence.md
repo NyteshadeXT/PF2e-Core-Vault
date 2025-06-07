@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This dirty metal wand is covered in an oily acrid smelling film.  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Grease|Grease]], but the grease is caustic. If you cast this spell on an area, any creature that fails their Reflex save and falls [[Conditions/Prone|Prone]], or that begins their turn prone, takes 1d6 acid damage. If you cast this spell on an unattended object, the first creature to pick up the object during the duration takes 1d6 persistent acid damage. If you cast this spell on an attended object and the holder or wielder fails their Acrobatics or Reflex save, the holder or wielder takes 1d6 persistent acid damage. If you cast this spell on a worn object, any creature who [[Actions/Grapple|Grapple]] s or Grabs the wearer takes 1d6 acid damage.  * * *  **Craft Requirements** Supply a casting of _grease_"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

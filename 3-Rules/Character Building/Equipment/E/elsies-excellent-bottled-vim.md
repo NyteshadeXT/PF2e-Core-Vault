@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  A dose of this slightly fizzy, pale-pink tonic vitalizes the body and bolsters the spirit, bringing those suffering from aches and pains brought on by illness some temporary respite. For 8 hours after drinking this elixir, reduce the value of one of the following conditions you're suffering by 1: [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Sickened|Sickened]]. A condition whose value is reduced to 0 is not removed; after 8 hours, the condition returns to its original value, unless its duration expired or it was removed by another means."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

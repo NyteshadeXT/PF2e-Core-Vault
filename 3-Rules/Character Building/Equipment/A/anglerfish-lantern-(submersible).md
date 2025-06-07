@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This [[Lantern (Bull's Eye)]] is either stylized after an anglerfish or made from the taxidermy of one. While it can be lit as usual, the _submersible anglerfish lantern_ automatically shines when submerged in water."
-powerTitle: "Mesmerizing Lights"
-actionEconomy: 2
+powerTitle1: "Mesmerizing Lights"
+actionEconomy1: 2
 type: "([[concentrate]], [[manipulate]])"
 frequency: "once per hour"
-trigger:
-mechanics: "All creatures within the bright light of the _submersible anglerfish lantern_ must succeed at a DC 24 Will check save or be [[Fascinated]] by the light for 1 round (1 minute on a critical failure). The fascination ends if the light is extinguished. Aquatic animals and creatures with the water trait take a –2 circumstance penalty to this check. Regardless of the result, the creature then becomes immune to this effect for the next 24 hours."
+trigger1:
+mechanics1: "All creatures within the bright light of the _submersible anglerfish lantern_ must succeed at a DC 24 Will check save or be [[Fascinated]] by the light for 1 round (1 minute on a critical failure). The fascination ends if the light is extinguished. Aquatic animals and creatures with the water trait take a –2 circumstance penalty to this check. Regardless of the result, the creature then becomes immune to this effect for the next 24 hours."
 powerTitle2: "Dive!"
 actionEconomy2: 
 type2: "1 minute ([[concentrate]], [[manipulate]])"

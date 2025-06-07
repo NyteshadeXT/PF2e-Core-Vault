@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Classic summoning circles are engraved into the batons of this massive papyrus scroll.  * * *  **Activate** `pf2:0` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to Cast a Spell prepared from this spellbook that summons one or more creatures, you infuse one of the summoned creatures with the spell's energies, causing it to arrive with 10 temporary Hit Points that last for up to 1 minute."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

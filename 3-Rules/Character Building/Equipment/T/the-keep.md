@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Hammers (Str)  **Alignment** neutral good  * * *  _The Keep_ represents steadfastness and being unshakable to threats. As long as _The Keep_ is invested, you gain a +2 item bonus to saving throws against fear effects. Whenever you become [[Conditions/Frightened|Frightened]], reduce the condition value by 1 (to a minimum of 0). If you are 20th level, the item bonus increases to +3.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Planar Palace|Planar Palace]]. The rank of the spell is one-half your level, rounded down (minimum 7th level), and the interior of the mansion appears to be the inside of a resplendent keep made of stone."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

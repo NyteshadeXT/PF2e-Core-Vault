@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "While this sinister-looking weapon isn't inherently evil, its unsettling appearance and powers particularly appeal to those who revel in causing pain. A grisly scythe has a twisted thorny haft and a blade that appears to be rusted, but it functions as a _+1 striking wounding scythe_.  **Activate** `pf2:r` command  **Frequency** once per hour  **Trigger** Your attack roll with the grisly scythe is a critical success  * * *  **Effect** Instead of inflicting slashing damage with the grisly scythe, you inflict void damage. You regain a number of hit points equal to half the void damage inflicted, and the creature struck becomes [[Conditions/Sickened|Sickened 1]] from the agony."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

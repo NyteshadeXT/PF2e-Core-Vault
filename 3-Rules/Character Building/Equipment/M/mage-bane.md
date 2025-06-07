@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.  * * *  **Activate** `pf2:3` Interact (Injury)  **Saving Throw** DC 32 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 2d6 mental damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)  **Stage 2** 3d6 mental damage and [[Conditions/Stupefied|Stupefied 3]] (1 round)  **Stage 3** 4d6 mental damage and [[Conditions/Stupefied|Stupefied 4]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

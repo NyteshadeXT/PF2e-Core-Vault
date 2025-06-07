@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "You can sense your surroundings using sonic pings rather than relying on your vision. You gain echolocation at 40 feet, allowing you to use hearing as a precise sense."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

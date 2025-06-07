@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being stupefied due to this poison doubles when applied to Deception checks to Lie, Perception checks to [[Actions/Sense Motive|Sense Motive]], and Perception DCs to detect a Lie.  **Saving Throw** DC 28 Fortitude check  **Onset** 1 minute  **Maximum Duration** 10 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)  **Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 minute)  **Stage 3** [[Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Bane oil comes in as many forms as the bane weapon property rune. Coating a weapon with the oil gives the weapon the benefit of one type of [[Equipment/Bane|Bane]] rune for 1 minute. A weapon can be coated in only one type of bane oil at a time. Any new application of this oil supersedes any previous one. If a weapon has the bane rune, this oil has no effect if it's of the same type as the rune."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

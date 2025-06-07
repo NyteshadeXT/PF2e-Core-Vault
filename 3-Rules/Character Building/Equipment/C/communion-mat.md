@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This pageless grimoire is made up of two durable covers that open to display a small ritual circle. When you first invest the grimoire, you and your familiar each press a limb to a corner of the mat. The ritual circle then morphs to one matching the tradition of your patron, the spells contained in your familiar appearing in the margins. During your daily preparations, your familiar performs a small jaunt around the open ritual circle to strengthen its connection to your patron.  **Activate** `pf2:0` envision (spellshape)  **Frequency** once per 10 minutes  * * *  **Effect** If your next action is to cast one of the granted spells from your patron's theme or one of the spells your familiar learned from a lesson, your patron takes notice that you're putting their power to good use and strengthens your familiar with a surge of magic. Your familiar [[Actions/Sustain|Sustains]] one of your Spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

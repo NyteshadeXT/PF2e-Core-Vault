@@ -27,12 +27,12 @@ usage: "etched onto a shield"
 license: "ORC"
 identify:
 description: "Reinforcing runes make a shield significantly more durable, allowing it to effectively block more powerful attacks.  * * *  The shield's Hardness increases by 3, it gains an additional 64 Hit Points, and its BT increases by 32 (maximum 13 Hardness, 104 HP, and 52 BT)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

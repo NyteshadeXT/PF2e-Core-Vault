@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.  * * *  **Activate** `pf2:2` Interact (Injury)  **Saving Throw** DC 15 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This steel _+1 dagger_ is chipped and worn but no less deadly for its much-used appearance. When you critically succeed at an attack roll with _Little Love_, you can activate the dagger to spring away from your foes.  **Activate** `pf2:0` (manipulate)  **Frequency** once per 10 minutes  **Trigger** You critically hit a creature with _Little Love_  * * *  **Effect** You [[Actions/Leap|Leap]] (or Vault, if you're Spring-Heeled Jack)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

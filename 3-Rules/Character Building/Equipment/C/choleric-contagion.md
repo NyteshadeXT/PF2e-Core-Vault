@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  This vile poison is contagious, causing the victim's skin to secrete the toxin, allowing it to spread to others. While under the effects of choleric contagion, the first time during per round the victim succeeds at an attack roll with an unarmed attack against another creature, the target of the attack is exposed to the poison.  **Saving Throw** DC 40 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 6d10 poison (1 round)  **Stage 2** 8d10 poison (1 round)  **Stage 3** 10d10 poison (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

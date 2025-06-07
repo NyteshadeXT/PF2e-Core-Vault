@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  * * *  This pendant is forged from grainy steel and depicts a snorting bull's face. The pendant must be attached to the chest area or on a shoulder guard. When you activate the pendant, attempt an Athletics check to [[Actions/Shove|Shove]] with a +1 item bonus to check. Increase the distance you Shove your target to 10 feet on a success or 20 feet on a critical success.  [[Equipment Effects/Effect_ Bronze Bull Pendant|Effect: Bronze Bull Pendant]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

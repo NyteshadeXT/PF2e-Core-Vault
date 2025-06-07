@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "This burgundy moss grows in heart-shaped clumps and releases a pleasant, calming scent. The spell DC of any spell cast by Activating this item is 29.  *   **Armor** You gain resistance 10 to mental damage and a +1 item bonus to saving throws against effects with the emotion trait. *   **Weapon** After you cast a healing spell by activating the heartmoss, the weapon exudes a soothing scent. Your Strikes with the affixed weapon have the nonlethal trait for 1 minute. Until the end of your next turn, Strikes with the affixed weapon cause the target to be [[Conditions/Stupefied|Stupefied 3]] for 1 round if it hits (or for 3 rounds on a critical hit).  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Stabilize|Stabilize]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 3rd-rank [[Spells/Heal|Heal]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 4th-rank [[Spells/Sound Body|Sound Body]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Healing Well|Healing Well]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

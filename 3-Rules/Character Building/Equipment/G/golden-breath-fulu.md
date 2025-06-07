@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You take damage.  * * *  An enterprising chirurgeon reversed the forces evoked by a _void thousand-pains fulu_ to create the _golden breath fulu_, which fortifies ki and the body as elements move out of balance. When you Activate this fulu, you regain 75 healing Hit Points and attempt a flat check to end any persistent damage affecting you. The fulu is particularly appropriate help for ending any persistent damage. Also, if you would regain more Hit Points from the fulu than your maximum, you can gain the excess as temporary Hit Points or distribute the excess among creatures of your choice within 30 feet. The temporary Hit Points last for 1 minute.  [[Equipment Effects/Effect_ Golden Breath Fulu|Effect: Golden Breath Fulu]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "Special cells in your skin can change color to help you blend in with your environment. You gain a +2 item bonus to Stealth checks to [[Actions/Sneak|Sneak]] and [[Actions/Hide|Hide]].  * * *  **Activate—Background Adaptation** `pf2:2` (concentrate)  **Frequency** once per hour  **Effect** For 1 minute, you can Hide without needing cover or concealment to do so. This doesn't allow you to Sneak without ending your movement in cover or concealment, however, as your skin's attempts to match the background as you move produce noticeable rippling waves of color."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

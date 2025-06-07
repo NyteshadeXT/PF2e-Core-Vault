@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The haft of this +2 striking trident is carved with intricate designs of swarming rodents sacred to Hanspur, the drowned god of the Sellen River.  When used against a swarm, it ignores the swarm's resistance to piercing damage, if any.  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** While floating down a river on a raft or boat, you plunge the _rat-catcher trident_ into the water. The trident casts a 5th-rank [[Spells/Control Water|Control Water]] spell on the body of water."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

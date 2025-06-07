@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "Slowly spinning at the center of this crystalline orb is a single snowflake, and its surface remains lightly covered in frost no matter how hot the weather is outside. The spell attack roll of any spell cast by activating this item is +20, and the spell DC is 30.  *   **Armor** You gain resistance 10 to cold. *   **Weapon** After you cast a cold spell by activating the _crystal_, your Strikes with the weapon deal an additional 1d8 cold damage until the end of your next turn.  [[Equipment Effects/Effect_ Rime Crystal - Armor|Effect: Rime Crystal - Armor]]  [[Equipment Effects/Effect_ Rime Crystal - Weapon|Effect: Rime Crystal - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Ray of Frost|Ray of Frost]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Ice Storm|Ice Storm]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Cone of Cold|Cone of Cold]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

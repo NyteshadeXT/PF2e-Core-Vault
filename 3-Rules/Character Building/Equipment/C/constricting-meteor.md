@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "The weights of this _+1 striking meteor hammer_ are shaped like snake heads, and anaconda scales adorn the chain.  * * *  **Activate—Coiling Chain** `pf2:1` (concentrate)  **Requirements** Your last action was a successful melee Strike or [[Actions/Trip|Trip]] with the _constricting meteor_  **Effect** The chain of the meteor hammer wraps around the target and squeezes. Attempt an Athletics check to [[Actions/Grapple|Grapple]] the creature with a +1 item bonus. In addition to being [[Conditions/Grabbed|Grabbed]] on a success, the target takes 1d10+7 bludgeoning damage.  * * *  **Craft Requirements** The initial raw materials must include the scales of a giant anaconda."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Access** Member of a secret society  * * *  This parchment is crafted with illusion magic, allowing for the transfer of secret messages. You can fill the parchment with the usual amount of text, encoding your secret message within the innocuous message.  * * *  **Activate** 1 minute (Interact)  **Effect** You tap the letters of your secret message one at a time, causing the letters to glow momentarily before fading to their standard ink color, and a symbol of your choice appears at the corner of the page. The next time someone taps the symbol with a writing instrument, the chosen letters glow again, revealing the secret message, and then the power of the parchment is spent."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

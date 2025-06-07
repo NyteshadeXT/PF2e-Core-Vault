@@ -27,12 +27,12 @@ usage: "affixed to a shield"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:r` (concentrate)  **Trigger** You would take damage from a physical attack while you are wielding the affixed shield  * * *  This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, use the [[Feats/Shield Block|Shield Block]] reaction even if you don't have the shield raised and even if you don't normally have that reaction. Increase the shield's Hardness by 5 against the triggering attack. The shield remains raised after the block.  [[Equipment Effects/Effect_ Swift Block Cabochon|Effect: Swift Block Cabochon]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

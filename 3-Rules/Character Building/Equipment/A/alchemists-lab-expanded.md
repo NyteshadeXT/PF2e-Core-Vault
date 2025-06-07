@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "You need an alchemist's lab to [[Craft]] alchemical items during downtime.  An expanded alchemist's lab gives a +1 item bonus to [[Skills#Crafting|Crafting]] checks to create alchemical items."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.  * * *  **Benefit** For 1 minute, you gain fast healing 2 and automatically succeed at flat checks to recover from persistent bleed damage.  **Drawback** Your thickened skin makes quick movement difficult, and your excess skin flakes off with the slightest movement. You take a -2 penalty to Reflex saves for 1 minute. Any creature attempting to [[Actions/Track|Track]] you in the next 24 hours gains a +4 circumstance bonus to their check.  [[Equipment Effects/Effect_ Ichthyosis Mutagen|Effect: Ichthyosis Mutagen]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

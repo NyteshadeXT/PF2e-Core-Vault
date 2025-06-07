@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This long, thin +1 striking [[Equipment/Wounding|Wounding]] dagger has a smooth edge on one side and a serrated edge on the other.  Its persistent bleed damage comes from slicing away long strips of the target's flesh, and it deals 1d8 bleed on a hit instead of 1d6. A creature takes a -2 status penalty to saving throws against diseases for as long as it has persistent bleed damage from this knife."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

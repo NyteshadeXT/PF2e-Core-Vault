@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This snare uses clockwork stressed almost to the breaking point, which activates with a powerful explosion that deals 3d8 piercing damage to the first creature entering the snare's square. The creature must attempt a DC 19 Reflex check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and 3 bleed damage.  **Critical Failure** The creature takes double damage and 6 bleed damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

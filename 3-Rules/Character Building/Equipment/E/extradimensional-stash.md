@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Granted by [[Feats/Extradimensional Stash|Extradimensional Stash]]  When you perform sleight of hand, you fold space so that objects really do disappear. You create a small extradimensional space somewhere within in your clothing that can hold up to 5 Bulk worth of objects. The space functions as a bag of holding, but can hold only up to 5 Bulk, has no Bulk of its own, and can be Interacted with using only one hand.  In addition, when you Palm an Object, you can place it directly into this extradimensional space as long as the space has sufficient free space to hold the object."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

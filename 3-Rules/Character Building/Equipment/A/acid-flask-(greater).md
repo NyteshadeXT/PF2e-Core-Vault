@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: 
-powerTitle: "Acid"
-actionEconomy: 1
+powerTitle1: "Acid"
+actionEconomy1: 1
 type: ([[Strike]])
 frequency:
-trigger:
-mechanics: "This flask filled with corrosive acid deals 1 acid damage, `dice: 3d6` 3d6 persistent acid damage, and 3 acid splash damage. You gain a +2 item bonus to attack rolls."
+trigger1:
+mechanics1: "This flask filled with corrosive acid deals 1 acid damage, `dice: 3d6` 3d6 persistent acid damage, and 3 acid splash damage. You gain a +2 item bonus to attack rolls."
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  * * *  Sold only in single sticks, this foul incense comes coated with a bevy of alchemical smoke that activates in the presence of intense heat, releasing its namesake pungent odor. Adding this catalyst to a [[Spells/Wall of Fire|Wall of Fire]] spell fills all squares adjacent to the wall with thick, foul smoke. Creatures in this area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to creatures in the area. The smoke lasts for the duration of the spell. The incense can be used with a _wall of fire_ of any level."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

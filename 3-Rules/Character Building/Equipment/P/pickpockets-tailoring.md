@@ -27,12 +27,12 @@ usage: "sewn into clothing"
 license: "ORC"
 identify:
 description: "Pickpocket's tailoring modifies an existing outfit by adding concealed interior pockets and strategically opened seams for hiding small objects inside the lining. You gain a +1 item bonus to Stealth checks to Conceal an Object of light Bulk or less in the pockets. When you get a failure (but not a critical failure, which works as normal) on a Stealth check to Conceal such an Object, observers know you're concealing an object somewhere, but they don't find the object unless they succeed at a DC 20 Perception check check to locate the seams in the garment."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

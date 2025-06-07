@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  The save for addiction to succubus kiss is DC 28 Fortitude check, and the addiction has the virulent trait.  **Saving Throw** DC 24 Fortitude check  **Onset** 1 minute  **Maximum Duration** 8 hours  **Stage 1** +2 item bonus to initiative checks (10 minutes) and to all saving throws against emotion and mental effects  [[Equipment Effects/Effect_ Succubus Kiss (Stage 1)|Effect: Succubus Kiss (Stage 1)]]  **Stage 2** as stage 1 plus [[Conditions/Drained|Drained 1]] (1 hour)  [[Equipment Effects/Effect_ Succubus Kiss (Stage 2)|Effect: Succubus Kiss (Stage 2)]]  **Stage 3** as stage 2 plus [[Conditions/Blinded|Blindness]] or [[Conditions/Deafened|Deafness]] (1 hour)  **Stage 4** blindness and deafness (1 hour)  **Stage 5** [[Conditions/Unconscious|Unconscious]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

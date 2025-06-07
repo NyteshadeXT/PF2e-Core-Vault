@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This ivory flute is adorned with many carvings of eyes. Each has jade pupils and a semiprecious stone as its iris. The eyes flutter open and closed when the flute is played, as if it held the eyes of many independent beings. While playing the flute, you gain a +1 item bonus to Perception checks and Performance checks.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Guidance|Guidance]], [[Spells/Read Aura|Read Aura]] *   **1st** [[Spells/Detect Alignment|Detect Alignment]] *   **2nd** [[Spells/Augury|Augury]], [[Spells/See the Unseen|See the Unseen]] *   **3rd** [[Spells/Clairaudience|Clairaudience]], [[Spells/Hypercognition|Hypercognition]], [[Spells/Wanderer's Guide|Wanderer's Guide]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

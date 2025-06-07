@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "A shining wayfinder is a polished silver compass blessed by the power of benevolent deities. It has the usual functions of a [[Equipment/Wayfinder|Wayfinder]], except instead of an activation to cast light, the shining wayfinder has the following two activations.  * * *  **Activate** `pf2:2` command, Interact  * * *  **Effect** You hold the wayfinder and ask for guidance. The wayfinder casts [[Spells/Guidance|Guidance]] on you.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You call upon the wayfinder's divine blessings for yourself and your allies. The wayfinder casts [[Spells/Bless|Bless]], with an emanation centered on itself. Once per turn, you can use a single action, which has the concentrate trait, to increase the emanation's radius by 5 feet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

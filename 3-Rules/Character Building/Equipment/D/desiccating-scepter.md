@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Often wielded by priests of cruel desert gods, this thin scepter is carved from dry, yellowed bone and can destroy the moisture in anything it touches.  **Activate** `pf2:1` Interact  **Frequency** twice per day  * * *  **Effect** You touch the scepter to a body of water containing 20 gallons or less, which is instantly reduced to dust; larger bodies of water are unaffected. Alternatively, you can touch a creature whose body contains water with the scepter; the target takes 4d6 fire damage and must attempt a DC 19 Fortitude check save.  * * *  **Critical Success** The target is unaffected.  **Success** The target takes half damage.  **Failure** The target takes full damage and is [[Conditions/Slowed|Slowed 1]].  **Critical Failure** As failure, but the target is [[Conditions/Slowed|Slowed 2]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This round, flat amulet can be made of metal, clay, or leather and is usually highly personalized with runes, sigils, lines of poetry, or a depiction of a storyteller at work. In Azimbye's case, their gold-rimmed metal amulet boasts fine dwarven workmanship, and bears lines from one of the oldest epic poems of the legendary folk hero Kgalaserke on one side and a stylized portrait of a storytelling event in Ranage's Circle on the other. While wearing the amulet, you gain a +1 item bonus to Performance checks.  * * *  **Activate—Enamoring Story** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** The perfect anecdote or story to impress your interlocutor comes floating to your memory.  * * *  You attempt to [[Actions/make-an-impression skill=performance|make-an-impression skill=performance]]{Make an Impression} or [[Actions/request skill=performance|request skill=performance]]{Request}, using a Performance check instead of a Diplomacy check."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

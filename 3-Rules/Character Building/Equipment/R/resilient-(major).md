@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +3 item bonus to saving throws.  You can upgrade the _resilient_ rune already etched on a suit of armor using the normal process for upgrading items and runes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

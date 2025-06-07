@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "This small piece of wood is finely carved to depict a foxglove. The spell DC of any spell cast by Activating this item is 24.  *   **Armor** You gain resistance 5 to poison damage. *   **Weapon** After you cast a plant spell by activating the foxglove token, your Strikes with the weapon it's attached to deal an additional 1d6 poison damage until the end of your next turn.  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Puff of Poison|Puff of Poison]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 3rd-rank [[Spells/Noxious Vapors|Noxious Vapors]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Concocted from the formulas provided by otherworldly refugees to Irrisen, mustard powder is rumored to be devastating to entire armies with proper dispersal. Recipes have quickly spread across Golarion. Mustard powder's sickened condition ends when the poison's other effects do.  **Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison and [[Conditions/Dazzled|Dazzled]] (1 round)  **Stage 2** 2d4 poison, dazzled, [[Conditions/Sickened|Sickened 1]], and unable to smell (1 round)  **Stage 3** 2d6 poison, dazzled, [[Conditions/Sickened|Sickened 2]], and unable to smell (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

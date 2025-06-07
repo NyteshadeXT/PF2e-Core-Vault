@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:3` Interact  * * *  This gritty salve can be applied to the skin of a creature to form a thin layer of smooth stone on its body for 20 minutes. During this time, it gains resistance 3 to piercing and slashing damage. Further, the creature gains a +2 item bonus to [[Actions/Impersonate|Impersonate]] a statue or creature made of stone for 8 hours, or until its body is fully submersed in water.  [[Equipment Effects/Effect_ Statue Skin Salve|Effect: Statue Skin Salve]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

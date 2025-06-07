@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  You can rub this bronze-colored oil onto a melee weapon to grant it the _[[Equipment/Animated|Animated]]_ rune. Once you fail a flat check for the weapon, causing it to fall, this effect ends."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

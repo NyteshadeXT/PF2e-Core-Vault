@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "This small tattoo of a swallow always points toward your home. The tattooing must take place at a location you consider to be your home, or the magic fails to bind with the ink. When you travel to your home using teleportation that can be off target, such as teleport or plane shift, you arrive exactly at your home. If your home is destroyed or you come to believe a new place is your home, this tattoo fades from your skin.  **Activate** `pf2:1` envision  * * *  **Effect** You sense the direction toward your home."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  This device resembles a teapot with a trigger. When filled with cloth fuel (worth 1 cp) and lit, it smolders and gradually fills with smoke for 10 minutes, during which time you can squeeze the trigger to spray smoke.  * * *  **Spray Smoke** `pf2:1` (manipulate)  **Frequency** once per minute  * * *  **Effect** You expel smoke into an adjacent 5-foot square. All creatures in that area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to them. The smoke lasts for 1d4 rounds or until dispersed by strong wind."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

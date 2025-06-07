@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed weapon was a critical success.  * * *  The bright red tassels of the creature known as Taljjae are a ubiquitous motif in Hwanggot and are used as charms to pray for good fortune and reward for great effort. They adorn clothing, weapons, and even drinking gourds. These particular tassels carry within them a potent fraction of the mysterious fey's power. When you activate a Taljjae tassel, your weapon gains the properties of the [[Equipment/Grievous|Grievous]] rune for the duration of the triggering attack."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You set snake fangs, poison stingers, or other venomous animal parts in the ground where they can be touched or stepped on by a creature that enters the snare's square. The first creature to enter the square must attempt a DC 20 Reflex check saving throw.  **Success** The target is unaffected.  **Failure** The target takes 1 piercing damage and 2d8 poison damage.  **Critical Failure** The target takes 2 piercing damage and 4d8 poison damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This snare consists of a hidden canister of [[Equipment/Caltrops|Caltrops]] attached to a trip wire. When the snare is triggered, it flings the caltrops into either the snare's square or a square adjacent to the snare. You choose which square when you set up the snare.  If the caltrops scatter into the same square as a creature, that creature must attempt the Acrobatics check immediately.  * * *  **Craft Requirements** Supply a container of caltrops."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

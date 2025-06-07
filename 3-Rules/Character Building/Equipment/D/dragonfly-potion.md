@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  Your eyes transform into those of a giant dragonfly, the thousands of separate facets wrapping around your head, and a pair of long, delicate, insectile wings grow from your upper back. You gain a fly Speed equal to your land Speed.  Additionally, you gain low-light vision and a +2 item bonus to visual Perception checks, and you can't be flanked except by creatures higher level than you are (though lower-level creatures can still help their higher-level allies flank). These effects last for 1 minute.  [[Equipment Effects/Effect_ Dragonfly Potion|Effect: Dragonfly Potion]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

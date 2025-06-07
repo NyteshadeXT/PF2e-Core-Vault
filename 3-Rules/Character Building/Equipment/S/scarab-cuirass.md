@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "The cuirass of this _+1 deathless resilient leather armor_, stitched to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance 5 to void damage.  * * *  **Activate** `pf2:2` command, Interact  * * *  **Effect** You cast a 1st-rank [[Spells/Pest Form|Pest Form]]. You can only become a scarab beetle.  * * *  **Craft Requirements** Supply one casting of _pest form_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

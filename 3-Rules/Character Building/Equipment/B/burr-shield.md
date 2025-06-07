@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This well-crafted wooden shield is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were _[[Equipment/Shield Spikes|+1 Striking Shield Spikes]]_.  * * *  **Activate** `pf2:1` Interact  **Requirements** Your previous action was a successful Strike with the burrs  * * *  **Effect** One of the burrs catches on the Strike's target, inflicting 1d10 bleed.  * * *      | Hardness | HP | BT | | --- | --- | --- | | 5 | 30 | 15 |"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

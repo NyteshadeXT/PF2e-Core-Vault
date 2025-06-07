@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Those who are in tune with nature understand well the transience of life and the migration of souls. Just as the moon waxes and wanes, so too are the candles of life lit and extinguished. The ritual for creating this item requires an animal sacrifice in direct moonlight, the belief being that creatures sacrificed in this way are blessed to reincarnate into better lives. While wearing this silver, crescent-shaped necklace, your unarmed melee Strikes are silver weapons with the properties of the [[Equipment/Ghost Touch|Ghost Touch]] rune."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

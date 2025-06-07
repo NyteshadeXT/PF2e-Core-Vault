@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "More often called by their nickname "screamswords," the _Nexian sealing blades_ were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are _+1 striking disrupting silver longswords_ with a couple of extra tricks. Each Nexian sealing blade can sense undead within 60 feet and responds by screaming loudly until there are no longer undead within that range. This same screaming can be unleashed as a sonic blast if needed.  **Activate** `pf2:2` interact  **Frequency** once per day  * * *  **Effect** the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30-foot cone takes 6d6 sonic damage (DC 25 Fortitude check save). Any creature who fails is [[Conditions/Deafened|Deafened]] for 1 round, or 1 hour on a critical failure"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

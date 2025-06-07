@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This pigmented dust is often used to add color to the lights of a performance. Prismatic dust can be activated while you are adjacent to a source of magical bright light. When activated, the dust is sprinkled into the light, changing the light's color into the color of the dust for 1 hour. The color of the dust is determined upon the dust's creation."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

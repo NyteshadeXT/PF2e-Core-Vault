@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Northern peoples design magical tattoos to protect against wintry weather, typically in geometric patterns with a combination of straight lines and whorls. This tattoo negates any damage you take from severe environmental cold and reduces damage you take from extreme cold to equal that of severe cold.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** Until the end of your next turn, you ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "These symbols convey protective forces from the Elemental Planes. You gain resistance 10 to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple _energy-resistant_ runes can be etched onto a suit of armor; rather than using only the strongest effect, each must provide resistance to a different damage type. For instance, a _+2 acid-resistant greater fire-resistant breastplate_ would give you acid resistance 5 and fire resistance 10."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

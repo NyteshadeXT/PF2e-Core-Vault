@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This finely cut garnet brooch fills your mind with vigor and occasional bursts of mental clarity. While wearing the brooch, you gain a +1 item bonus to checks to Recall Knowledge with Lore skills.  * * *  **Activate** `pf2:2` envision (fortune)  **Frequency** once per day  * * *  **Effect** You think hard on a topic and receive a sudden inspiration. You attempt to Recall Knowledge using Lore. On this check, you roll twice and take the higher result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

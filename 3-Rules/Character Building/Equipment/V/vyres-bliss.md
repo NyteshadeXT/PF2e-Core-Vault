@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Vyre's Bliss is a toxin that looks and tastes like fine wine.  **Saving Throw** DC 43 Fortitude check  **Maximum Duration** 24 hours  **Stage 1** [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 2** off-guard, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Stupefied|Stupefied 2]] (1 round)  **Stage 3** off-guard, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Stupefied|Stupefied 3]] (1 round)  **Stage 4** clumsy 2, stupefied 3, and [[Conditions/Unconscious|Unconscious]] (8 hours)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  The light-brown liquid of a sure-step potion helps you find your footing. After drinking it, you gain a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] for 1 hour. In addition, you can Step into difficult terrain, and you aren't [[Conditions/Off-Guard|Off-Guard]] on uneven ground."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

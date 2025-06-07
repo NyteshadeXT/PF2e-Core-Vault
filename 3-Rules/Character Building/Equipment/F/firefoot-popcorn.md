@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  When you consume firefoot popcorn, for 1 minute, you can [[Actions/Leap|Leap]] double the normal distance. You can also attempt to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]] as a single action. If you do, you don't perform the initial Stride (nor do you fall if you don't Stride 10 feet).  Each time you Leap 10 feet or more, your feet make a popping sound that can be heard from at least 100 feet, and the space you left fills with waves of intense heat. For 1 minute, that square is hazardous terrain that deals 1d6 fire to any creature that moves into it."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

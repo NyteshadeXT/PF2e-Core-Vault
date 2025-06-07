@@ -27,12 +27,12 @@ usage: "worneyepiece"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  This heavy set of mechanical goggles contains a variety of different lenses for different situations, including lenses that filter light at different intensities and frequencies and even some that capture heat and other stimuli. Clockwork mechanisms can swap between the lenses rapidly as needed. However, many of these lenses can only capture a single stimulus once and then are forever etched with it, making them unsuitable for long-term use.  When activated, the clockwork mechanism on the goggles rapidly switches between the different lenses, granting you low-light vision and darkvision for 10 minutes.  [[Equipment Effects/Effect_ Clockwork Goggles|Effect: Clockwork Goggles]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

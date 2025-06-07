@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+3 [[Equipment/Vitalizing (Greater)|Vitalizing (Greater)]] greater striking silver longsword_ is made from the purest silver. The blade is carefully etched to depict a vast and sprawling necropolis, a place where the dead are laid to rest. Whenever you critically hit an undead creature with _final rest_, the undead creature takes 3d6 persistent spirit damage, with a DC 36 Fortitude check.  **Critical Success** No effect.  **Success** The creature takes half the persistent spirit damage.  **Failure** The creature is [[Conditions/Stunned|Stunned 1]] and takes the full persistent spirit damage.  **Critical Failure** The creature is [[Conditions/Stunned|Stunned]] and takes double the persistent spirit damage.  * * *  **Activate** `pf2:2` command, envision  **Frequency** once per day  **Effect** You hold the sword aloft, making it cast [[Spells/Sunburst|Sunburst]] (DC 38 Reflex check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

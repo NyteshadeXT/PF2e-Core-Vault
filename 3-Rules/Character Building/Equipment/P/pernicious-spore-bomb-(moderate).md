@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  This flask contains fast-growing mold spores, which quickly take root but just as quickly rot away. You gain a +1 item bonus to attack rolls. The bomb deals 2 poison damage, 2d4 persistent piercing damage, and 2 poison splash damage. Except on a critical failure, the bomb's splash area is coated in vegetation, becoming difficult terrain for 1 round."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

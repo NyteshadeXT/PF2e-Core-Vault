@@ -27,12 +27,12 @@ usage: "etched onto bludgeoning weapon"
 license: "ORC"
 identify:
 description: "Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.  [[Equipment Effects/Effect_ Crushing (Greater)|Effect: Crushing (Greater)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

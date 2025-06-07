@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "These _olfactory stimulators_ can be enhanced to better localize scents.  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect** Your olfactory stimulators twitch as they gather even more information. You gain imprecise scent with a range of 30 feet for 1 minute.  [[Equipment Effects/Effect_ Bloodhound Olfactory Stimulators|Effect: Bloodhound Olfactory Stimulators]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This grimoire takes the form of a series of baked clay tablets. Any text inked upon it turns swiftly into carved depressions.  * * *  **Activate** `pf2:1` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to cast a beneficial abjuration spell on yourself or a single ally, you use the tablets' power to infuse the warding with additional abjurations and attempt to remove a harmful effect. Your spell attempts to counteract a harmful spell effect of your choice on the target. This isn't without risks, however. If your attempt fails to remove the harmful effect, the warding energy is consumed by the unyielding malediction, and you lose the abjuration spell's normal effects."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

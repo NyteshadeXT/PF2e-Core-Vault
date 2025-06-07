@@ -28,12 +28,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _[[Weapon Potency (+2)|+2]] [[striking-(greater)|greater striking]] [[Jezail|jezail]]_ features a preserved alicorn horn mounted underneath the barrel. Such a horn is usually willingly granted by the creature at the end of its natural lifespan, but some wicked gunsmiths acquire the horn through violence."
-powerTitle: "Glimmer Beam"
-actionEconomy: 2
+powerTitle1: "Glimmer Beam"
+actionEconomy1: 2
 type: "([[manipulate]])"
 frequency: "once per day"
-trigger:
-mechanics: "The _alicorn trigger_ unleashes a beam of radiant light in a 60-foot line. Creatures in the area of effect take `dice: 6d6` 6d6 fire damage and must attempt a DC 33 Fortitude check save.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes half damage and is [[Dazzled|Dazzled 1]].<br>**Failure** The creature takes full damage and is [[Blinded]] for 1 round.<br>**Critical Failure** The creature takes double damage and is [[Blinded]] for 1 minute."
+trigger1:
+mechanics1: "The _alicorn trigger_ unleashes a beam of radiant light in a 60-foot line. Creatures in the area of effect take `dice: 6d6` 6d6 fire damage and must attempt a DC 33 Fortitude check save.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes half damage and is [[Dazzled|Dazzled 1]].<br>**Failure** The creature takes full damage and is [[Blinded]] for 1 round.<br>**Critical Failure** The creature takes double damage and is [[Blinded]] for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:

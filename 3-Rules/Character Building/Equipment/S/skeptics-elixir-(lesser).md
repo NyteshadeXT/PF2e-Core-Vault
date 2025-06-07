@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Duration** 1 minute  **Activate** `pf2:1` Interact  * * *  This elixir sharpens your mind and allows you to see through lies, falsehoods, and magical trickery. You gain a +1 item bonus to Perception checks and Perception DCs to notice falsehoods, whether they're spoken lies or written deceit. You gain this same item bonus to Will saves.  [[Equipment Effects/Effect_ Skeptic's Elixir (Lesser)|Effect: Skeptic's Elixir (Lesser)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Usage** Two hands  * * *  Granny's hedge trimmer resembles a polearm, with whirring blades attached to the end of a pole. The item can be used as a simple weapon in the polearm group that deals 1d4 slashing damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

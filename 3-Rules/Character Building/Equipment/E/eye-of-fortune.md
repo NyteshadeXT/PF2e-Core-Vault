@@ -27,12 +27,12 @@ usage: "worneyepiece"
 license: "ORC"
 identify:
 description: "Adherents of Erastil, god of the hunt, create these magical eye patches. An _eye of fortune_ has a jeweled eye symbol on its front, allowing you to magically see through the eye patch as though it were transparent.  **Activate—Luck Beyond Sight** `pf2:0` (concentrate, fortune)  **Trigger** You attack a concealed or hidden creature and haven't attempted the flat check yet  * * *  **Effect** You can roll the flat check for the concealed or hidden condition twice and use the higher result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

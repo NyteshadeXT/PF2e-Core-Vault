@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+2 greater striking shock rapier_ has a golden blade, and miniature electric arcs flash across its guard while it's wielded. When out of its sheath under an open sky, the blade causes storm clouds to gather slowly above.  * * *  **Activate—Lightning Stab** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You cast a 6th-rank [[Spells/Lightning Bolt|Lightning Bolt]] (DC 33).  * * *  **Activate—Divert Lightning** `pf2:r` (concentrate)  **Frequency** once per 10 minutes  **Trigger** An electricity effect targets you or a creature within 10 feet of you, or has you or a creature within 10 feet of you in its area  * * *  **Effect** You try to divert the electricity off course, to be absorbed by _storm flash_. Choose one eligible creature to protect and roll a melee attack roll against the DC of the electricity effect. If you succeed, the chosen creature takes no electricity damage from the triggering effect."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

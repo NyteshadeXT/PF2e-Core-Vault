@@ -27,12 +27,12 @@ usage: "held in one plus hands "
 license: "ORC"
 identify:
 description: "As the name implies, a shield bow is a bow with an integrated shielding surface. While versatile and effective, a shield bow's architecture limits its flexibility somewhat, decreasing its total draw strength and penetrating power."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -2,7 +2,7 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-item, h-line
+cssclass: pf2e-items, h-line
 name: ""
 aliases:
 source: ""
@@ -62,6 +62,17 @@ frequency3:
 requirement3:
 trigger3: 
 mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+mechanics4: "**Secondary Effect** "
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #

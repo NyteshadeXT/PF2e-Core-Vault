@@ -27,12 +27,12 @@ usage: "applied to armor"
 license: "ORC"
 identify:
 description: "Using fabrics and fashion accessories, you disguise your armor to look like everyday clothing. After applying this adjustment, you can attempt a Stealth check to [[Actions/Conceal an Object|Conceal an Object]] to hide the nature of your armor. You gain a +1 item bonus to this check. The added weight and care make it more difficult to move around in the armor, increasing the armor's check penalty by 1, its Strength entry value by 2, and its Bulk by 1."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

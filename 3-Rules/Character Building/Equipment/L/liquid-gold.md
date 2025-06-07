@@ -27,12 +27,12 @@ usage: "affixed to a one handed firearm or hand crossbow"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` Interact  **Trigger** You roll for initiative  **Requirements** You're an expert in Stealth.  * * *  This glass vial containing liquid gold is fastened to a weapon by a fine gold chain.  You draw the attached weapon as a free action instead of as a reaction."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 33 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 6 minutes  **Stage 1** 7d8 poison damage (1 minute)  **Stage 2** 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)  **Stage 3** 8d10 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

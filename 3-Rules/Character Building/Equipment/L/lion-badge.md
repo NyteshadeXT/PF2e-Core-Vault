@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You gain the [[Conditions/Frightened|Frightened]] condition as a result of a Will save  **Requirements** You're an expert in Will saves.  * * *  This plain wooden badge has the face of a roaring lion etched onto its surface. When you activate this talisman, reduce the value of your frightened condition by 1 (to a minimum of 0). When this talisman is used, the image of the lion fades and the item becomes a plain, non-magical wooden badge."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

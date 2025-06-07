@@ -27,12 +27,12 @@ usage: "affixed to headgear"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a Nature check to [[Actions/Recall Knowledge|Recall Knowledge]] but haven't rolled  **Requirements** You're trained in Nature.  * * *  This simple white flower is placed into a hat or worn braided into your hair. When activated, it releases a soothing scent, which helps you focus your mind. When you activate the talisman, you Recall Knowledge three times, rather than once. If you use Nature for any of these checks and get a critical failure, that check is instead a failure."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` envision  * * *  This catalyst is a bird's claw soaked in a mixture of blood and grave dirt. A [[Spells/Shadow Spy|Shadow Spy]] spell empowered by it creates an unusually long-lasting homunculus. Instead of the spell expiring when you next make your daily preparations, you can renew it by expending a spell slot for shadow spy again, maintaining the same homunculus so it can continue its observations. Steadfast sentinels are often used by powerful spellcasters of Geb to covertly monitor their rivals."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

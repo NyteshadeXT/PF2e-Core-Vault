@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This twisted and grim-looking staff is adorned with hideous skull and bone motifs. Creatures summoned using this staff gain a number of temporary Hit Points equal to the rank of the spell used to summon them.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Void Warp|Void Warp]] *   **1st** [[Spells/Grim Tendrils|Grim Tendrils]], [[Spells/Summon Undead|Summon Undead]] *   **2nd** [[Spells/Peaceful Rest|Peaceful Rest]], [[Spells/Summon Undead|Summon Undead]] *   **3rd** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vampiric Feast|Vampiric Feast]] *   **4th** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vision of Death|Vision of Death]] *   **5th** [[Spells/Invoke Spirits|Invoke Spirits]], [[Spells/Peaceful Rest|Peaceful Rest]], [[Spells/Summon Undead|Summon Undead]] *   **6th** [[Spells/Summon Undead|Summon Undead]], [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

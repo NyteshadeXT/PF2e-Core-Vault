@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Ammunition** any  * * *  Carved with stylized images of water or aquatic life, depth charges that are fired underwater or at a submerged target function with their normal range increments and can hit no matter their normal damage type. This ammunition explodes if it hits a target underwater, dealing 13d6 bludgeoning damage in a 20-foot burst DC 36 Fortitude check according to its type. This burst doesn't extend out of the water."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

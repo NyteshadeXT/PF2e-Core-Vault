@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** round  **Activate** `pf2:1` Interact  This bullet is fashioned from a rubbery substance and stamped with the image of a diminutive ant twitching in surprise. The bullet deals no damage on a successful hit. Instead, the target must attempt a DC 19 Fortitude check save.  * * *  **Success** The target is unaffected.  **Failure** The target shrinks to Tiny size for 1d4 rounds. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 1]] for this duration.  **Critical Failure** The target shrinks to Tiny size for 1 minute. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 2]] for this duration"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

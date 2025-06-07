@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` Interact  * * *  The end of this ammunition is a metallic tuning fork with magical etchings. When an activated resonating arrow hits its target, the tuning fork resonates with residual energy from the shot, transforming it into dangerous sound waves. This deals 5d10 sonic damage to the target and each creature within 10 feet of it with a DC 28 Fortitude check save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

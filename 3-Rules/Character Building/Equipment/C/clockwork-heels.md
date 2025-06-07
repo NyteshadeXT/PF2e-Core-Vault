@@ -27,12 +27,12 @@ usage: "wornshoes"
 license: "ORC"
 identify:
 description: "This clockwork footwear features a marvelous mechanical heel built into the base to increase your speed. When you lean your weight onto your heel, a springboard triggers and pops out small metal wheels that propel you forward. You gain a +5-foot item bonus to your Speed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

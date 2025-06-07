@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "The nectar of a night-blooming desert flower attacks a victim's central nervous system and causes feelings of panic.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage and [[Conditions/Frightened|Frightened 1]] (1 round)  **Stage 2** 1d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 round)  **Stage 3** 1d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

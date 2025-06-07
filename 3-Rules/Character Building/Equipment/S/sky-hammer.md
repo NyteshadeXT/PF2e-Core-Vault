@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The sturdy head of this _+3 major striking [[Equipment/Flaming|Flaming]] [[Equipment/Shock|Shock]] orichalcum warhammer_ is shaped like a blazing comet.  **Activate—Comet Fall** `pf2:r` (concentration)  **Trigger** Your attack roll with the _sky hammer_ is a critical success  * * *  **Effect** A 6th-rank arcane [[Spells/Fireball|Fireball]] spell explodes, centered on the _sky hammer_. The spell DC is 45. You are immune to the _fireball's_ effect, though your allies are not.  * * *  **Craft Requirements** Supply a casting of _fireball_ (6th rank), and the initial raw materials must include 12,375 gp of orichalcum."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

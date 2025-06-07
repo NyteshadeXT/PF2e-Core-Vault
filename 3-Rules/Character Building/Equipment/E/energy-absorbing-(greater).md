@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "As with _energy-resistant_ runes, these runes convey protective forces from the Elemental Planes. You gain 10 resistance to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple energy-absorbing runes can be etched onto a suit of armor; rather than using only the highest-level effect, each must provide resistance to a different type. When an energy-absorbing rune provides resistance to damage from a foe's attack or ability, the armor itself appears to become infused with that energy, be it dripping with acid, riming over in frost, crackling with lightning, or flickering with flames. This effect does not inflict damage itself and ends at the start of your next turn, or as soon as you take the following reaction.  **Activate** `pf2:r` envision  **Trigger** Your armor is infused with energy and you take damage from a melee Strike  * * *  **Effect** You unleash the infused energy against the triggering melee Strike, inflicting 4d6 damage of that energy type to the creature who made the melee Strike."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Fitted into each of these prosthetic legs is a large spring, tightly bound around a collapsible shaft. When released, the spring unspools rapidly and the shaft telescopes out and back, returning to its compressed form and catapulting you forward.  * * *  **Activate** `pf2:1` envision, Interact  **Frequency** once per hour  * * *  **Effect** You Stride up to twice your speed or [[Actions/Leap|Leap]] up to 20 feet horizontally and 5 feet vertically."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Ammunition** round  **Activate** `pf2:1` envision  * * *  The magic-infused metal of this bullet's golden casing allows it to curve just a bit in flight once the bullet has been fired, allowing you to ignore the bonus to AC granted to a target in standard or lesser cover."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell (add 1 action)  * * *  When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Spells/Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 29 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Conditions/Slowed|Slowed 2]] for 1 round, then [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

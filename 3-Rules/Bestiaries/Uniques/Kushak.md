@@ -30,7 +30,6 @@ skills:
   - Athletics: +12
   - Stealth: +9
   - Survival: +8
-  - Perception: +8
 attributes:
   - str: 4
   - dex: 2
@@ -38,7 +37,7 @@ attributes:
   - int: 0
   - wis: 1
   - cha: 1
-speed: 25 feet, swim 25 feet
+speed: 25 feet, swim 20 feet
 
 ac: 20
 saves:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  This flask is full of shrapnel and anti-coagulants designed to make targets bleed out. It deals 1 slashing, 2d6 persistent bleed damage and 2 slashing splash damage. You gain a +1 item bonus to attack rolls."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

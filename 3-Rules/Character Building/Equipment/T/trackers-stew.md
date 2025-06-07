@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** 10 minutes (Interact)  Alchemical reagents add punch to tracker's stew: a rich, fiery mixture of tomatoes, ground nuts, onions, and tubers, often with poultry added. It's usually served with or over rice or noodles. Once you've eaten the stew, it improves your ability to sense and follow tracks for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to Survival checks to Cover Tracks and [[Actions/Track|Track]]. You can do either while moving at full speed or both while moving at half speed.  [[Equipment Effects/Effect_ Tracker's Stew|Effect: Tracker's Stew]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

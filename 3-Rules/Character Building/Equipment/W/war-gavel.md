@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "A war gavel is similar in construction to a palstave axe, but instead of inserting a metal wedge, it uses a heavier wooden head that is either carved into several points or inset with pointed objects like the teeth of large mammals."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

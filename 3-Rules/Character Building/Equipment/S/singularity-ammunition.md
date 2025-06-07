@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** Any  **Activate** `pf2:1` Interact  * * *  Singularity ammunition seems to pull in the light around it, swirling along the surface in a misty pattern. An activated singularity arrow creates a strong gravitational force, centered on the creature hit. All creatures in a 10-foot emanation from the target must succeed at a DC 30 Fortitude check save or be pulled 5 feet closer to the target. The singularity then explodes, dealing 7d12 bludgeoning damage to the original target and all creatures in a 5-foot emanation (DC 28 Reflex check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

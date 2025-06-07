@@ -27,12 +27,12 @@ usage: "worn eye piece"
 license: "ORC"
 identify:
 description: "These brass goggles are engraved with flame patterns and have thick, heavy lenses.  While worn, they give you a +1 item bonus to [[Skills#Crafting|Crafting]] checks to [[Craft]] alchemical items. When making Strikes with alchemical bombs, you ignore lesser cover.  If your Strike with an alchemical bomb fails (but doesn't critically fail), you gain a +1 item bonus to the splash damage the target of the Strike takes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

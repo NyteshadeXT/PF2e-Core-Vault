@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "A mask helps you use the [[Actions/Impersonate|Impersonate]] action to pass yourself off as someone you aren't.  Rubber masks are sculpted to resemble the face of another creature. You can use this mask to help decrease the difficulty of Impersonating a specific creature with a very different face than yours."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

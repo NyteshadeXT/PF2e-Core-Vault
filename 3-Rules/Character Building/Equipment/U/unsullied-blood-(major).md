@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` envision  * * *  Blood offered from a willing donor was taken directly from the vein and stored in an ornate vial that keeps it as pure and red as the day it was extracted. When this catalyst is added to a [[Spells/Vampiric Feast|Vampiric Feast]], [[Spells/Vampiric Maiden|Vampiric Maiden]], or [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]] spell of any level, instead of gaining temporary Hit Points based on the damage dealt, you recover half of the damage dealt as Hit Points. If the amount of Hit Points that would be restored by the spell exceeds your Hit Point maximum, you gain the excess as temporary Hit Points."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

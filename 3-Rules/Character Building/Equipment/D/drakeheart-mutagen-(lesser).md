@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Your skin grows scales like a drake, and your eyesight become sharp and your pupils slitted, but your mind and reflexes slow.  **Benefit** You gain +4 item bonus to AC, a Dexterity cap of +2 (as usual, use your lowest Dexterity cap if you have more than one), and a +1 item bonus to Perception checks. If you're wearing armor, you still calculate your proficiency bonus to AC based on your proficiency in the armor you're wearing, even if the drakeheart mutagen has a higher item bonus. You also gain the [[Actions/Final Surge|Final Surge]] action.  **Drawback** You take a -1 penalty to Will saves, Reflex saves, and all skill checks to [[Actions/Recall Knowledge|Recall Knowledge]].  **Duration** 1 minute or until you use Final Surge, whichever comes first.  [[Equipment Effects/Effect_ Drakeheart Mutagen (Lesser)|Effect: Drakeheart Mutagen (Lesser)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _returning throwing knife_ is specially made for Lyrune-Quah hunters, and its blade is carved with constellations.  **Ribbon Wrap** `pf2:r` (concentrate)  **Frequency** once per hour  **Trigger** You deal damage to a target with the starknife  * * *  **Effect** Silver ribbons of starlight entangle the target, dealing 4d6 spirit damage. This is silver damage for the purposes of weaknesses, resistances, and the like. The target must attempt a DC 24 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Clumsy|Clumsy 1]].  **Failure** The creature takes full damage and is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure** The creature takes full damage and is [[Conditions/Restrained|Restrained]] with an [[Actions/Escape|Escape]] DC of 24."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

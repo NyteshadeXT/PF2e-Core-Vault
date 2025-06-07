@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` command  **Trigger** You become [[Conditions/Blinded|Blinded]], or an effect otherwise impedes your vision  **Requirements** You are an expert in Perception.  * * *  This eye, harvested from a monster, looks like it's peacefully sleeping but gives you a backup when you can't use your eyes. When the eye is activated, the eyelid pops open, and the eye stares frantically about. You see through the eye with normal vision until the end of your next turn, when the eye withers and flakes away."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

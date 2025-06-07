@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.  **Activate** `pf2:1` Interact (Contact)  **Saving Throw** DC 37 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 6d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)  **Stage 2** 7d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 round)  **Stage 3** 9d6 poison damage and [[Conditions/Sickened|Sickened 4]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

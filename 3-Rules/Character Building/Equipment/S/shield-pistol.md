@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "These unique firearms are designed to attach to shields while still firing normally. Shield pistols are popular among Firebrands in the Shackles as they allow them to hold a blade and a firearm in each hand without giving up on defense. As is normal with firearms, a character doesn't have access to shield pistols unless they separately have access to firearms."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

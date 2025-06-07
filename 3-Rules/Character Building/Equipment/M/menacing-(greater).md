@@ -27,12 +27,12 @@ usage: "applied to any visible article of clothing"
 license: "ORC"
 identify:
 description: "Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +2 item bonus to Intimidation checks to [[Actions/Coerce|Coerce]] others.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** The rune casts a 3rd-rank [[Spells/Fear|Fear]]spell (DC 25)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

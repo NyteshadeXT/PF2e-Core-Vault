@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` envision, Interact  A glimmering missive sparkles as you compose it. When activated, it explodes, disintegrating into a shower of multicolored motes in a 10-foot burst from a corner of the missive's space. Creatures in the area are covered in sparkling dust that remains luminous for 1 hour. Visible creatures can't be [[Conditions/Concealed|Concealed]] while covered by the luminous dust; any [[Conditions/Invisible|Invisible]] creatures are concealed while covered in the luminous dust, rather than being undetected."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

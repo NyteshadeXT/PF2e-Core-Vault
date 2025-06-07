@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This band of interwoven gold and copper, traced with Aklo symbols, is topped with a gleaming, luminescent opal gently bleeding wisps of shadowstuff.  * * *  **Activate** `pf2:3` command  * * *  **Effect** You attempt to make the ring cast an arcane [[Spells/Wish|Wish]] spell. However, if the ring doesn't deem the wish to be sufficiently selfless, the wish isn't cast and the ring can't be activated for 24 hours.  You are [[Conditions/Drained|Drained 3]], whether or not the ring refuses the wish.  * * *  Once the wish is cast, the Ring of Recalcitrant Wishes has no powers, though it is rumored that the wearer's death in an act of profound self-sacrifice restores the wish to the ring."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

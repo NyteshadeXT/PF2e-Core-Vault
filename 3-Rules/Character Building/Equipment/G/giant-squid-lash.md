@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Three dried tentacles from a giant squid studded with pufferfish spines have been twisted together to form this robust _+1 [[Equipment/Wounding|Wounding]] whip_. With a clever flick of the wrist, they can be unfurled into a deadly arc of poisonous barbs.  * * *  **Activate—Poison Barrage** `pf2:2` (manipulate)  **Frequency** once per hour  **Effect** You lash out with the whip's three tentacles in a 15-foot cone. Each creature inside the cone must attempt a DC 27 Fortitude check save or take 4d6 poison damage. On a critical failure, the creature also takes 1d6 persistent poison damage.  * * *  **Craft Requirements** The initial raw materials must include three tentacles from a giant squid."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

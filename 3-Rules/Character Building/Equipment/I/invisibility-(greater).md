@@ -27,12 +27,12 @@ usage: "etched onto light armor"
 license: "ORC"
 identify:
 description: "Light seems to partially penetrate this armor.  **Activate—Go Invisible** `pf2:1` (concentrate)  **Frequency** three times per day  * * *  **Effect** With a thought, you become invisible for 1 minute, gaining the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell.  **Craft Requirements** Supply one casting of _invisibility_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

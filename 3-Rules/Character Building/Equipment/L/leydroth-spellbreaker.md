@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "The larynx of a leydroth, a dangerous creature whose roar can unravel magic, is integrated into the firing mechanism of this _+3 greater striking blunderbuss_.  * * *  **Activate—Dispelling Blast** `pf2:2` (manipulate)  **Frequency** once per day  **Effect** The _leydroth spellbreaker_ emits a 30-foot cone of dispelling energy. Attempt a single counteract check at +25 against each spell or magical effect in the area, plus one item or effect on each creature in the area, with the effects of [[Spells/Dispel Magic|Dispel Magic]].  * * *  **Craft Requirements** The initial raw materials must include the larynx of a leydroth."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

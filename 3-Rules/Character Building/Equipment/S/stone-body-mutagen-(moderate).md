@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  This mutagen calcifies your body making it as hard as stone.  **Benefit** You gain resistance 5 to physical damage (except bludgeoning).  **Drawback** Your speeds are reduced by 10 feet (minimum 5 feet) and you take a -2 penalty to Reflex saves.  **Duration** 1 hour.  [[Equipment Effects/Effect_ Stone Body Mutagen (Moderate)|Effect: Stone Body Mutagen (Moderate)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` envision  * * *  The vengeful wails of a revenant, barely contained in this rattling jar, infuse your magic with all of their spite and malice. If a target fails its saving throw against your [[Spells/Seal Fate|Seal Fate]] spell after you've added this catalyst, it takes 1d6 persistent of the type chosen for the spell (2d6 persistent if it critically fails)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

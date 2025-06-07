@@ -29,14 +29,14 @@ description: "This foul-smelling, slick black oil pulses faintly with necrotic e
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Undead Bane"
-actionEconomy: 2
+powerTitle1: "Undead Bane"
+actionEconomy1: 2
 type: "[[Interact]]"
 frequency: 
 requirement:
 activation:
-trigger:
-mechanics: "For 1 hour, the oiled weapon temporarily gains the [[3-Rules/Character Building/Equipment/B/bane|bane]] rune versus undead.  Against any creature related to the Spawn of Kyuss, including Kyuss worms, Kyuss spawns, or Kyuss himself, the weapon deals an extra 1d6 precision damage, bringing the total bonus damage to 2d6."
+trigger1:
+mechanics1: "For 1 hour, the oiled weapon temporarily gains the [[3-Rules/Character Building/Equipment/B/bane|bane]] rune versus undead.  Against any creature related to the Spawn of Kyuss, including Kyuss worms, Kyuss spawns, or Kyuss himself, the weapon deals an extra 1d6 precision damage, bringing the total bonus damage to 2d6."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -292,7 +292,7 @@ function createPowerBlock(powerTitle, actionEconomy, type, frequency, activation
   }
 
   if (trigger && trigger.trim() !== "") {
-    sectionLines.push(`**Trigger:** ${trigger}`);
+    sectionLines.push(`**trigger1:** ${trigger}`);
   }
 
   const combinedOutput = sectionLines.length > 0 ? sectionLines.join("\n\n") + "\n\n" : "";

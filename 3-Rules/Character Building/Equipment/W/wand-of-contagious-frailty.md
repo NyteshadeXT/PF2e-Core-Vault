@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Cracks and healed fractures spiderweb the shaft of this bone wand, worsening each time the wand is used. The bone's worn epiphysis forms the wand's pommel, and black leather wraps around the handle.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Enfeeble|Enfeeble]]. After you cast the spell, if the target is enfeebled, it releases a 10-foot emanation that doesn't include itself. Each creature in that area must attempt a Fortitude save as if struck by the [[Spells/Enfeeble|Enfeeble]] but gets an outcome one degree of success better than it rolled.  * * *  **Craft Requirements** Supply a casting of [[Spells/Enfeeble|Enfeeble]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

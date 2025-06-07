@@ -28,12 +28,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "This white _[[Weapon Potency (+1)|+1]] [[Striking|striking]] [[Lance|lance]]_ is made from the horn of a unicorn, willingly granted at the end of its lifetime. In addition to its normal damage, it deals 1 spirit damage on successful attacks. You can make the lance glow like a torch or suppress its light by using an action, which has the concentrate trait."
-powerTitle: "Shining Charge"
-actionEconomy: 2
+powerTitle1: "Shining Charge"
+actionEconomy1: 2
 type: "([[Interact]] ([[magical]], [[necromancy]]))"
 frequency: "once per hour"
-trigger:
-mechanics: "You evoke the spirit of the unicorn that donated the _alicorn lance_'s horn, which you ride in a shining charge. Move up to twice your Speed and make a Strike with the _alicorn lance_; you gain the effects of the lance's jousting trait on this Strike. If you were already mounted when you Activate the horn, the unicorn spirit takes shape around your steed, granting it a +10–foot status bonus to its Speed for the charge."
+trigger1:
+mechanics1: "You evoke the spirit of the unicorn that donated the _alicorn lance_'s horn, which you ride in a shining charge. Move up to twice your Speed and make a Strike with the _alicorn lance_; you gain the effects of the lance's jousting trait on this Strike. If you were already mounted when you Activate the horn, the unicorn spirit takes shape around your steed, granting it a +10–foot status bonus to its Speed for the charge."
 powerTitle2:
 actionEconomy2:
 type2:

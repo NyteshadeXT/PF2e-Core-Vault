@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Carved from white ash wood, a _staff of air_ crackles with electrical sparks, and a breeze always follows the wielder. While wielding a staff of air, you feel lighter on your feet, and you can Step into difficult terrain once per round.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gale Blast|Gale Blast]] *   **1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gust of Wind|Gust of Wind]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

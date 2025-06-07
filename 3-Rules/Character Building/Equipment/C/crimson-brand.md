@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "These ominous swords are decorated with crimson lacquer and serve as perfect conduits for the Crimson Oath's power. The first was granted to Clarethe Iomedar by a mysterious patron who many Reclaimers believe to be an emissary of Ragathiel.  A crimson brand is a +1 striking [[Equipment/Wounding|Wounding]] bastard sword. When the wielder uses the crimson brand to cast [[Spells/Invoke the Crimson Oath|Invoke the Crimson Oath]], they can generate a 60-foot line or a 30-foot cone instead of the normal 20-foot cone.  Whenever the wielder would inflict persistent bleed damage on an undead creature with the _crimson brand_, they can instead wreathe the creature in ruby energy, inflicting the same amount of persistent vitality damage instead of persistent bleed damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

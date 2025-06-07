@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The steel head of this _+1 striking earthbreaker_ has a large crack that zigzags down its center, making it look like it could crack in half with any swing. This belies the hammer's strength; its strikes can shatter stone with ease.  **Activate—Create Faultline** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** You Strike an object or raised shield with the faultline hammer and would deal piercing damage to that object  * * *  **Effect** Until the end of your next turn, any weapon that Strikes the object deals additional damage as though the weapon had the razing trait. The triggering Strike also deals this additional damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

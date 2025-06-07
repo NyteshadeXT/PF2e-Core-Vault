@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed weapon hits a target  **Requirements** You're an expert with the affixed weapon.  * * *  This small glass vial contains a drop of holy water. When activated, the weapon's physical damage for the Strike becomes spirit damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

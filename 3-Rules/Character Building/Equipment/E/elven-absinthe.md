@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Specialists in Kyonin prepare this emerald-green beverage.  * * *  **Activate** `pf2:1` Interact  **Saving Throw** DC 20 Fortitude check  **Onset** 1 hour  **Maximum Duration** 1 day  **Stage 1** +2 item bonus to Diplomacy and Performance checks (1 hour)  **Stage 2** [[Conditions/Drained|Drained 2]] (1 hour)  **Stage 3** [[Conditions/Stupefied|Stupefied 4]] (1 hour)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  A potion of annulment magically breaks a supernatural deal you have made, such as an infernal contract, a sea hag's bargain, or the [[Spells/Geas|Geas]] ritual. Upon drinking the potion, attempt a counteract check against the highest- level such effect, with a counteract modifier of +24. If the check is successful, the deal ends for all parties. You're not penalized for breaking the contract, but you also enjoy none of its benefits or rewards. Individuals with whom you shared the contract are aware it has been annulled and may seek vengeance. This potion can't rewind time or negate effects that have already occurred; for example, if you have killed someone to fulfill an infernal contract, drinking this potion and canceling the contract doesn't bring the dead individual back to life."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

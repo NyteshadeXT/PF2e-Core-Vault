@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The massive stinger of a black scorpion adds significant weight to this _+2 greater striking [[Equipment/Fearsome|Fearsome]] mace_. On a critical hit, the target is exposed to black scorpion venom.  * * *  **Black Scorpion Venom** (poison)  **Saving Throw** DC 36 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 2d12 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)  **Stage 2** 3d12 poison damage, clumsy 2, and [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 3** 4d12 poison damage, [[Conditions/Clumsy|Clumsy 4]], and [[Conditions/Slowed|Slowed 2]] (1 round).  * * *  **Craft Requirements** The initial raw materials must include the intact stinger of a black scorpion."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

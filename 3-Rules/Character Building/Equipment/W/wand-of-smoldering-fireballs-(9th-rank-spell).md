@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This blackened, heavily burned stick smells faintly of saltpeter.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Fireball|Fireball]] at 9th-rank. Each creature that fails its save takes 4d6 persistent fire damage.  * * *  **Craft Requirements** Supply a casting of _fireball_ at 9th-rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

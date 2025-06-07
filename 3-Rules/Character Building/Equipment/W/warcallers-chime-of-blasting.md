@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This chime features carvings of destructive runes. When activated, it creates the effects of a 3rd-rank [[Spells/Noise Blast|Noise Blast]] centered on you (DC 20 Fortitude check save). Instead of the spell's normal range, it has a 5-foot emanation. In addition, creatures that critically fail their save are knocked [[Conditions/Prone|Prone]] by the chime's effect. You can use this chime once per day."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 15, HP 60, BT 30). The shield comes with a thick leather cover to conceal the head.  * * *  **Activate—Petrifying Gaze** `pf2:2` (manipulate, visual)  **Frequency** once per day  * * *  **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 35 [[Spells/Petrify|Petrify]] spell with a range of 30 feet.  * * *  **Craft Requirements** The initial raw materials must include the head of a medusa.      | Hardness | HP | BT | | --- | --- | --- | | 15 | 60 | 30 |"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

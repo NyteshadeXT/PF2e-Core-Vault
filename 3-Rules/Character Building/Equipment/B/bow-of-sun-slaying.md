@@ -27,12 +27,12 @@ usage: "held in one plus hands "
 license: "ORC"
 identify:
 description: "The B_ow of Sun Slaying_ is a _+3 major striking greater frost composite shortbow_ constructed out of wood, horn, and sinew. It bears carvings of a long-forgotten demigod who legends say possessed the ability to destroy the sun with a single arrow.  **Activate—Darkness for My Foes** `pf2:1` (concentrate)  **Frequency** once per day  **Requirements** Your last action was a successful Strike against your foe with this weapon  * * *  **Effect** You whisper, "Darkness for my foes," and the target of your last attack takes 10d6 cold + 10d6 spirit damage (DC 45 Will check save)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

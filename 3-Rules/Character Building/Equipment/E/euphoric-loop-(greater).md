@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [[Spells/Charm|Charm]] spell, the enchantment creates a blissful experience for all targets of the charm spell, up to 10. When the spell ends, even if you Dismiss it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will check save against your spell DC.  * * *  **Critical Success** The target is unaffected.  **Success** The target is [[Conditions/Stunned|Stunned 1]] or, if the spell ended because of a hostile action, [[Conditions/Confused|Confused]] for 1 round.  **Failure** The target is [[Conditions/Stunned|Stunned 2]] or, if the spell ended because of a hostile action, confused for 1 round.  **Critical Failure** The target is [[Conditions/Stunned|Stunned 3]] or, if the spell ended because of a hostile action, confused for 2 rounds."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

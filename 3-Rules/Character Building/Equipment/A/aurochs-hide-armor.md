@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Made of the sturdy, thick hide of the aurochs and tempered to be both flexible and durable, this _+1 resilient hide armor_ is imbued with the aurochs' natural defenses against venomous predators. You gain resistance 5 to poison damage.  **Activate—Stubborn Skin** `pf2:1`  You pull the layers of the armor taut, stiffening your body against incoming forces for 1 minute. While the armor is taut, you have a –1 penalty to Reflex saves and a +2 item bonus to Fortitude saves.  [[Equipment Effects/Effect_ Stubborn Skin|Effect: Stubborn Skin]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

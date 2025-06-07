@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Ammunition** pellet  **Activate** `pf2:1` Interact  * * *  These round, black pellets are made from magically enhanced magnetic lodestone. They can be loaded into an air repeater or long air repeater. When activated, lodestone pellets provide a +1 circumstance bonus to ranged Strikes made against creatures made of metal or wearing metal armor."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "You conceal a rounded board or thin metal plate just beneath the ground, concave side down. The first creature to enter the snare's square finds it unexpectedly springy and is bounced back out of the square when the flattened board springs back into place. The triggering creature must succeed at a DC 17 Fortitude check saving throw or be moved into an adjacent square (chosen by you when you craft the snare). This is forced movement. On a critical failure, the creature falls [[Conditions/Prone|Prone]] in that square."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

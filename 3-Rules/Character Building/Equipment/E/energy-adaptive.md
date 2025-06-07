@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.  * * *  **Activate** `pf2:r` envision  **Frequency** once per hour  **Trigger** You take acid, cold, electricity, or fire damage  **Effect** You gain resistance 5 to the triggering damage type. This doesn't apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you.  [[Equipment Effects/Effect_ Energy Adaptive|Effect: Energy Adaptive]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "This weapon features stylized etchings of giants. A giant-killing weapon deals an additional 2d6 mental damage on a successful Strike against a giant. Mental damage dealt by this weapon ignores the target's mental resistance.  On a critical hit, instead of being [[Conditions/Enfeebled|Enfeebled 1]], the giant must attempt a DC 34 Fortitude check save with the following effects.  * * *  **Critical Success** The giant is enfeebled 1 until the end of your next turn.  **Success** The giant is [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn and takes 1d10 mental damage.  **Failure** The giant is enfeebled 2 for the next minute and takes 2d10 mental damage.  **Critical Failure** The giant is [[Conditions/Enfeebled|Enfeebled 4]] for the next minute and takes 4d10 mental damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

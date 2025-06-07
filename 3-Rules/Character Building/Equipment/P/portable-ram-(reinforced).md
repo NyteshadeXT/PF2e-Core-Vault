@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "A portable ram is a handheld, ironshod wooden beam designed to knock open doors, gates, and other similar obstacles. You gain a +2 item bonus to checks to [[Actions/Force Open|Force Open]] these obstacles."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

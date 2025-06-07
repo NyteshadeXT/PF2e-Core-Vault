@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "This _+2 greater striking impactful sansetsukon_ is made of metal colored pale blue that echoes howling winds when swung and emits the force of a storm when it connects.  **Activate—Sonic Gale** `pf2:r` (concentrate, force, magical)  **Trigger** You critically hit with the _twisting gale_  **Frequency** once per 10 minutes  * * *  **Effect** The energy of your follow-through erupts from your opponent in a wave of concussive energy. You deal sonic damage equal to your normal Strike damage with the twisting gale in a 30-foot cone behind your target. Creatures in the area, not including your target, must attempt a Fortitude check save against your class DC."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

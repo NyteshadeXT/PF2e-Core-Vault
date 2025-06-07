@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "Adder venom is a simple but effective way to enhance a weapon.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 18 Fortitude check  **Maximum Duration** 3 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage 2** 1d6 poison damage (1 round)  **Stage 3** 1d8 poison damage (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

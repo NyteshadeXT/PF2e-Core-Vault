@@ -28,12 +28,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This fleshy _[[Weapon Potency (+1)|+1]] [[Striking|striking]] [[Whip|whip]]_ is obviously crafted from the tentacle of some fearsome beast, likely an alghollthu, and constantly drips slime.  "
-powerTitle: "Alghollthu Slime"
-actionEconomy: 1
+powerTitle1: "Alghollthu Slime"
+actionEconomy1: 1
 type: "([[command]])"
 frequency: "once per day"
-trigger:
-mechanics: "The next creature you successfully Strike with this weapon is exposed to alghollthu slime.  **Alghollthu Slime** (curse, occult)  **Saving Throw** DC 25 Fortitude check  <br>**Stage 1** no ill effect (1 round)  <br>**Stage 2** the victim's skin softens, making the creature [[Drained|Drained 1]] (1 round)  <br>**Stage 3** the victim's skin transforms into a clear, slimy membrane, making it [[Drained|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A remove disease spell can counteract this curse, but immunity to disease offers no protection against it."
+trigger1:
+mechanics1: "The next creature you successfully Strike with this weapon is exposed to alghollthu slime.  **Alghollthu Slime** (curse, occult)  **Saving Throw** DC 25 Fortitude check  <br>**Stage 1** no ill effect (1 round)  <br>**Stage 2** the victim's skin softens, making the creature [[Drained|Drained 1]] (1 round)  <br>**Stage 3** the victim's skin transforms into a clear, slimy membrane, making it [[Drained|Drained 2]] until the curse ends; every hour this membrane remains dry, the creature's drained condition increases by 1 (permanent). A remove disease spell can counteract this curse, but immunity to disease offers no protection against it."
 powerTitle2:
 actionEconomy2:
 type2:

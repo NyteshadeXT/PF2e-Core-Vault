@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "An almost-impossible number of axes spring out at a target with lethal force. When a creature enters the snare's square, it's nearly buried beneath a storm of sharpened metal, which deals 16d8 slashing damage (DC 33 Reflex check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

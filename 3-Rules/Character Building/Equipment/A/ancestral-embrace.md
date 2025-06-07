@@ -28,12 +28,12 @@ usage: "worn armor"
 license: "ORC"
 identify:
 description: "This brightly colored _[[Weapon Potency (+3)|+4]] [[resilient-(major)|major resilient]] [[Leather Armor|leather armor]]_ is inscribed with a spiral that has no end or beginning. Though it is a symbol of the ancient religion of Holy Xatramba, it also serves as a religious symbol of Pharasma. When you invest the armor, you gain void resistance 25 and can draw on the power of your ancestors. You gain an ancestry feat from your ancestry; the feat can be any level, but you must meet any other prerequisites of the feat. You lose the feat when the investment ends, and you can select a different feat each time you invest the armor again."
-powerTitle: "Ancestry Echo"
-actionEconomy: 0
+powerTitle1: "Ancestry Echo"
+actionEconomy1: 0
 type: "([[envision]])"
 frequency: "oncer per day"
-trigger: "You use an ancestry feat that has a limited number of uses per day"
-mechanics: "You gain an additional use of the ancestry feat. If you do not use it before the next time you make your daily preparations, the use is lost."
+trigger1: "You use an ancestry feat that has a limited number of uses per day"
+mechanics1: "You gain an additional use of the ancestry feat. If you do not use it before the next time you make your daily preparations, the use is lost."
 powerTitle2: "Legend Lore"
 actionEconomy2: 0
 type2: "([[envision]])"

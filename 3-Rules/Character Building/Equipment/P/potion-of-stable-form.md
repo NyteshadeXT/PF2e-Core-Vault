@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This aromatic potion is brewed from the white flowers and black roots of the magical herb moly. When you drink this potion, it immediately attempts to counteract all hostile transmutation effects affecting you (counteract rank 5, counteract check modifier +17). For the next hour, you gain a +2 item bonus against transmutation effects, which is +3 against polymorph effects. If you roll a success against a polymorph effect during that time, you get a critical success instead.  [[Equipment Effects/Effect_ Potion of Stable Form|Effect: Potion of Stable Form]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

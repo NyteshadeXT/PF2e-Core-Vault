@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The steely blue blade of this _+2 striking frost rapier_ emerges from a hilt wrapped in thick leather and trimmed in fur to protect the wielder's hand.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  **Requirements** You hit a creature using the _rime foil_ as your last action  * * *  **Effect** You cast 5th-rank [[Spells/Phantom Prison|Phantom Prison]] on the target (DC 22 Will check to disbelieve). If the target has been damaged by a _shattered plan_ in the last round, the DC is instead DC 24 Will check.  * * *  **Special** The rime foil pairs with the _shattered plan_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This thick silver coin is deeply worn on one side, creating a shallow dip.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per hour  * * *  **Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Conditions/Frightened|Frightened]] condition by 1."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

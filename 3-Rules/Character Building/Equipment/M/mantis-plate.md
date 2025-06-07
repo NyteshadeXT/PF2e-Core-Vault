@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "The beautiful plates of this _+2 resilient [[Equipment/Ready (Greater)|Greater Ready]] full plate_ armor are shaped from the carapace of a deadly mantis, providing excellent protection with added flexibility. When wearing a suit of mantis plate, you gain a +2 item bonus to your Athletics DC.  * * *  **Activate—Mandible Vambraces** `pf2:2` (concentrate, manipulate)  **Effect** Make a melee Strike. If you succeed, the target is caught by the spikes on the armor's forearms, taking an additional 6d6 piercing damage (DC 30 Reflex check save).  * * *  **Craft Requirements** The initial raw materials must include the arms and carapace of a deadly mantis."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Designed by a gunsmith as a personal challenge, a _howler pistol_ strikes a miniature version of the _sonic horn_ siege weapon's resonating orb with its hammer to generate beams of sonic energy. A _howler pistol_ is a _+1 striking dragon mouth pistol_ that deals sonic damage instead of piercing damage and doesn't have the concussive trait.  * * *  **Activate—Resonant Shatter** `pf2:2` (manipulate)  **Frequency** once per day  **Requirements** The _howler pistol_ is loaded  **Effect** You over-torque the _howler pistol_'s hammer to strike the resonating orb harder than normal. The gun fires a concentrated burst of sonic energy that shatters a nearby stone or rock surface, creating a 10-foot burst at a point of impact within the gun's first range increment. Creatures in the area take 5d6 piercing damage (DC 27 Reflex check save).  * * *  **Craft Requirements** The initial raw materials must include the powdered horn from a soniphak, processed into a resonating orb."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

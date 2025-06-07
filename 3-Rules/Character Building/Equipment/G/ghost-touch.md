@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "A weapon etched with this rune can harm creatures without physical form. A _ghost touch_ weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to _ghost touch_ weapons.  Incorporeal creatures can touch, hold, and wield _ghost touch_ weapons (unlike most physical objects)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

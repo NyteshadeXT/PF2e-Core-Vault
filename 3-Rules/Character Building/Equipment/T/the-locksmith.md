@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Key (Dex)  **Alignment** lawful neutral  * * *  _The Locksmith_ represents opening locks, including metaphorical locks such as unlocking fate. As long as you have _The Locksmith_ invested, it grants you a +2 item bonus to Thievery checks to [[Actions/Pick a Lock|Pick a Lock]]. This increases to a +3 item bonus if you are at least 17th level.  **Activate** `pf2:r` envision, Interact  **Trigger** You would be afflicted by a curse or a disease  **Frequency** once per day  * * *  **Effect** You mimic the turning of a key in a lock and free yourself from your unpleasant fate. You attempt to counteract the triggering affliction, using half your level (rounded up) as the counteract rank and a counteract check modifier equal to your class DC – 10."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

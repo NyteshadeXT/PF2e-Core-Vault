@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+2 brilliant greater striking rapier_ is formed entirely out of radiant energy, even more so than a usual brilliant weapon, and has left its physical form behind entirely. Instead of dealing piercing damage, it deals fire damage, and in addition to a rapier's normal weapon traits, it gains the versatile spirit or vitality trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

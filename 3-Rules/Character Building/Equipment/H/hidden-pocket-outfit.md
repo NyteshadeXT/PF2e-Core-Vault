@@ -27,12 +27,12 @@ usage: "worngarment"
 license: "ORC"
 identify:
 description: "Usually worn by actors but also popular with anyone intent on subterfuge, this outfit resembles a normal piece of clothing, but with multiple pockets designed to conceal blood pack squibs and similar small items. When wearing this outfit, you automatically succeed on all relevant checks to Conceal an Object on your person as long as the object is of light or negligible Bulk. However, someone specifically searching you can still attempt a Perception check against your Stealth DC."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

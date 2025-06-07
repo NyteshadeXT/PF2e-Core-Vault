@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to Performance checks and a +5-foot status bonus to your Speed.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Shield|Shield]] *   **1st** [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Sure Strike|Sure Strike]] *   **2nd** [[Spells/False Vitality|False Vitality]], [[Spells/Noise Blast|Noise Blast]], [[Spells/Spiritual Weapon|Spiritual Weapon]] *   **3rd** [[Spells/Haste|Haste]], [[Spells/Heroism|Heroism]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

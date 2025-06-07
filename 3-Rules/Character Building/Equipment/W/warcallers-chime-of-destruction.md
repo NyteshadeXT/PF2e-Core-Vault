@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A series of shattered mountains are carved into this chime. When activated, you touch the chime against an unattended object, casting [[Spells/Shatter|Shatter]] upon the object, ignoring the object's Hardness if it's 6 or lower. You can use this chime once per day."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

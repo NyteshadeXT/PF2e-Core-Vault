@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 2nd-rank and has a +8 counteract modifier each effect on you that has the emotion trait or is inflicting the [[Conditions/Stupefied|Stupefied]] condition on you, using the listed counteract rank and modifier."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

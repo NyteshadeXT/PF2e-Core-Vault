@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` command  **Trigger** You lose the [[Conditions/Dying|Dying]] condition  **Requirements** You have a [[Conditions/Wounded|Wounded]] value of 1 or more.  * * *  This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts a 6th-rank [[Spells/Heroism|Heroism]] on you. If you lose the wounded condition, the _heroism_ ends immediately."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

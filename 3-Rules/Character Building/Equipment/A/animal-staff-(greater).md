@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to Nature checks to identify animals.  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrip** [[Spells/Know the Way|Know the Way]] *   **1st** [[Spells/Runic Body|Runic Body]] [[Spells/Summon Animal|Summon Animal]] *   **2nd** [[Spells/Animal Messenger|Animal Messenger]] [[Spells/Speak with Animals|Speak with Animals]] [[Spells/Summon Animal|Summon Animal]] *   **3rd** [[Spells/Animal Form|Animal Form]] [[Spells/Summon Animal|Summon Animal]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

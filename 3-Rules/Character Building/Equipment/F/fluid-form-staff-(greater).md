@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "A glass orb atop this metal staff contains fine sand. While wielding the staff, you gain a +2 circumstance bonus to Perception checks to identify morph and polymorph magic.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **1st** [[Spells/Pest Form|Pest Form]] *   **2nd** [[Spells/Animal Form|Animal Form]], [[Spells/Enlarge|Enlarge]], [[Spells/Shrink|Shrink]] *   **3rd** [[Spells/Feet to Fins|Feet to Fins]], [[Spells/Insect Form|Insect Form]] *   **4th** [[Spells/Aerial Form|Aerial Form]], [[Spells/Animal Form|Animal Form]], [[Spells/Dinosaur Form|Dinosaur Form]]  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

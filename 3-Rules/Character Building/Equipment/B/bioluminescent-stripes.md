@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "A line of glands embedded in your skin secretes a chemical that glows when it interacts with the air. As a single action, you can activate your bioluminescent stripes to glow with a bright light in a 20-foot radius and dim light for the next 20 feet. While you are glowing, you can't be [[Conditions/Undetected|Undetected]] and you take a –4 item penalty to Stealth checks to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]]. You can Dismiss the glow as a free action."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

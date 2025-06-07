@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  An energizing treat is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [[Conditions/Quickened|Quickened]] for 1 minute. It can use the extra action each round only for Strike, Stride, and Support actions, and it can do so only if it normally has those actions available and you take the proper action to command it."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

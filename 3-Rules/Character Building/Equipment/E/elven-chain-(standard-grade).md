@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Elven chain is a [[Equipment/Chain Shirt|Chain Shirt]] made of dawnsilver that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.  Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts-even other dawnsilver chain shirts-elven chain does not have the noisy trait. This suit of armor can be etched with runes like any other dawnsilver chain shirt.  **Craft Requirements** The initial raw materials must include dawnsilver worth at least 3,125 sp."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

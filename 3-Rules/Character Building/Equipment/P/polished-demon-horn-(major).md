@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "This spellheart is fashioned from the tip of a demon's horn that's been polished until smooth and shiny. The spell DC of any spell cast by Activating this item is 29.  *   **Armor** You gain resistance 10 to unholy. *   **Weapon** After you cast an enchantment spell by Activating the _horn_, your Strikes with the weapon deal an additional 1d8 mental damage until end of your next turn.  [[Equipment Effects/Effect_ Polished Demon Horn - Armor|Effect: Polished Demon Horn - Armor]]  [[Equipment Effects/Effect_ Polished Demon Horn - Weapon|Effect: Polished Demon Horn - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Daze|Daze]] (DC 29 Will check).  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 4th-rank [[Spells/Agonizing Despair|Agonizing Despair]] (DC 29 Will check).  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Outcast's Curse|Outcast's Curse]] (DC 29 Will check)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

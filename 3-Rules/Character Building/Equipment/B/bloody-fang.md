@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The bladed inner curve of this _+2 greater striking keen wounding dagger_ has a jagged, saw-like edge, while its handle is wrapped in red leather. Carved from the mandible of a giant praying mantis, this magical weapon's blade is as sharp and serviceable as steel.  **Activate—Sweeping Slash** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You swing the dagger in a wide arc, causing a horizontal swipe of blood-red energy to sweep out in a 30-foot cone. All living creatures in the area take 15d6 slashing damage (DC 34 Reflex check save), plus 1d6 bleed damage on a failed save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

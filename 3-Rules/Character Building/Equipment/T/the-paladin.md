@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Hammer (Str)  **Alignment** lawful good  * * *  _The Paladin_ represents righteousness and resolute defense. As long as you have _The Paladin_ invested, you gain the [[Feats/Shield Block|Shield Block]] general feat. If you already possess this feat, you gain an additional reaction at the start of your turn that can only be used to Shield Block.  **Activate** `pf2:r` envision  **Trigger** You fail or critically fail a saving throw  **Frequency** once per day  * * *  **Effect** Adjust the result of your saving throw up by one degree of success."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

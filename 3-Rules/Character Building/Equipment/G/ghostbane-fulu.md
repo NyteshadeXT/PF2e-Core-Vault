@@ -27,12 +27,12 @@ usage: "affixed to armor or travelers clothing"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a weapon  **Activate** `pf2:0` envision  **Trigger** You successfully Strike an incorporeal creature with the weapon to which the fulu is affixed, but you haven't rolled damage.  * * *  This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefit of the _ghost touch_ property rune against the triggering incorporeal creature for 1 minute.  [[Equipment Effects/Effect_ Ghostbane Fulu|Effect: Ghostbane Fulu]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

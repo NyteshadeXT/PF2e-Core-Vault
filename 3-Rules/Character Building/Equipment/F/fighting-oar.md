@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "A fighting oar is a sturdy boat oar, typically made of wood, whose haft and blades are reinforced for use in combat. A fighting oar adds its item bonus from weapon potency runes (if any) as an item bonus on Piloting Lore and Sailing Lore checks made to pilot a rowed vehicle."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

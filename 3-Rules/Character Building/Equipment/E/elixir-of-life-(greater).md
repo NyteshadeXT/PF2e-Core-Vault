@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Elixirs of life accelerate a living creature's natural healing processes and immune system. Upon drinking this elixir, you regain 7d6+18 healing Hit Points and gain +2 item bonus to saving throws against diseases and poisons for 10 minutes.  [[Equipment Effects/Effect_ Elixir of Life|Effect: Elixir of Life]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

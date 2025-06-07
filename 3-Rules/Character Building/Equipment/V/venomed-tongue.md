@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Secrets must be unraveled, no matter how painful. This tattoo of braided tongues provides a +1 item bonus to Deception checks.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** Abraxas fills your tongue with venom, causing your deceptions to poison your foes. You use Deception to [[Actions/Create a Diversion|Create a Diversion]], [[Actions/Feint|Feint]], or [[Actions/Lie|Lie]]. Choose one target against whom your Deception check succeeded; that target takes 2d6 persistent poison damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

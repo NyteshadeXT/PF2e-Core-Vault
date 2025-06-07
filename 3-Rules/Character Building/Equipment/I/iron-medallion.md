@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a Will save against a fear effect but haven't rolled yet  * * *  This small medallion is shaped like a shield. When you activate it, you gain a +2 status bonus to the triggering save and other saves against fear for 1 minute. On the triggering save, if the outcome of your roll is a failure, you get a success instead. If the outcome is a critical failure, you get a failure instead.  [[Equipment Effects/Effect_ Iron Medallion|Effect: Iron Medallion]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

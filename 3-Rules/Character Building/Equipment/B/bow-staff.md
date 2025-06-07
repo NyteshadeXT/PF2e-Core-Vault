@@ -27,12 +27,12 @@ usage: "held in one plus hands "
 license: "ORC"
 identify:
 description: "The bow staff is a whipstaff with a retracting spool of wire inside a metal cap on one end and a hooked protrusion on the other. A wielder trained in the weapon's use can quickly spool and attach or detach the wire to transition the weapon between bow and staff functionality."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

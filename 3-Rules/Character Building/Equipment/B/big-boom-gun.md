@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Developed by a goblin weaponsmith who missed the "hand" part of "hand cannon," this comically oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder. This hand cannon is a martial weapon instead of a simple weapon. It has the fatal d12 trait and a range increment of 20 feet. It also has the following modified critical failure condition.  **Critical Failure** The attack misses, the weapon misfires, and you take 1d12 fire damage as it explodes in your face."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

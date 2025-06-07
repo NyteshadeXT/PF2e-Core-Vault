@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This silver brooch features an enormous freshwater pearl pulled from the depths of Lake Encarthan. They are often given to trading partners among Drumish merchants as a sign of favor—not as favored as a fellow Kalistocrat, but nonetheless worth treating well. Openly wearing a _Drumish pearl token_ can work wonders when traveling through Druma, whether on legitimate mercantile business or not, but those who flaunt the token inappropriately must beware of repercussions from the Drumish government! The wearer of a _Drumish pearl token_ benefits from a +2 item bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] and to their Perception DC when someone attempts to Lie to them.  **Activate—Subversive Friendship** `pf2:r` (concentrate, emotion, mental)  **Frequency** once per day  **Trigger** You succeed at [[Actions/Make an Impression|Making an Impression]]  * * *  **Effect** You automatically increase the target's attitude to helpful. If the target's initial attitude was unfriendly or hostile, they revert to this attitude after 10 minutes and realize they've been manipulated by you. Afterward, they might decide to act against you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

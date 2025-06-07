@@ -27,12 +27,12 @@ usage: "each rune applied to a separate item that has pockets"
 license: "ORC"
 identify:
 description: "These runes always come in pairs and can be applied to a garment's pockets to be activated.  **Activate** `pf2:1` command  **Frequency** once per day  **Requirements** The paired items are both invested, typically by two different characters, and are on the same plane as each other  * * *  **Effect** Items in the pockets (up to 10 negligible Bulk items or 1 light Bulk item per pocket) trade places via teleportation."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

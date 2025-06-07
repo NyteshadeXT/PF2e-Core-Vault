@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  A thick, sulfurous, irritating gas fills this golden-yellow flask. The bomb deals 1d4 acid damage and 1 acid splash damage. On a hit, the target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn, or becomes [[Conditions/Sickened|Sickened 1]] on a critical hit. Creatures hit with this bomb are temporarily immune to the effects of the bomb for 1 minute.  [[Equipment Effects/Effect_ Sulfur Bomb|Effect: Sulfur Bomb]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

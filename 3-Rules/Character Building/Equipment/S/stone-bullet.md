@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This sling bullet looks like a petrified serpent's eye. A creature hit by an activated _stone bullet_ is subject to the effects of a 6th-rank [[Spells/Petrify|Petrify]] spell (DC 34 Fortitude check).  * * *  **Craft Requirements** Supply one casting of [[Spells/Petrify|Petrify]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The visages of beasts are carved into the painted wood of a _beast staff_, with a large head on top. When used as a weapon, the staff is a _+2 striking staff_. While wielding the staff while you have it prepared, you're affected by [[Spells/Speak with Animals|Speak with Animals]]. If you have [[Feats/Animal Empathy|Animal Empathy]], you gain a +2 circumstance bonus on checks using it.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gouging Claw|Gouging Claw]] *   **1st** [[Spells/Runic Body|Runic Body]], [[Spells/Pest Form|Pest Form]] *   **2nd** [[Spells/Animal Form|Animal Form]], [[Spells/Enlarge|Enlarge]] *   **3rd** [[Spells/Animal Form|Animal Form]], [[Spells/Insect Form|Insect Form]] *   **4th** [[Spells/Animal Form|Animal Form]], [[Spells/Bestial Curse|Bestial Curse]], [[Spells/Insect Form|Insect Form]], [[Spells/Pest Form|Pest Form]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

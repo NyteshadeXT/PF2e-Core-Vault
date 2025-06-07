@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: 
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[manipulate]])
 frequency:
-trigger:
-mechanics: "Originally formulated as a means of dissolving [[everlasting-adhesive|Everlasting Adhesive]], this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as [[glue-bomb-(lesser)|Glue Bomb]], at 3rd-rank and has a counteract modifier of +9."
+trigger1:
+mechanics1: "Originally formulated as a means of dissolving [[everlasting-adhesive|Everlasting Adhesive]], this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as [[glue-bomb-(lesser)|Glue Bomb]], at 3rd-rank and has a counteract modifier of +9."
 powerTitle2:
 actionEconomy2:
 type2:

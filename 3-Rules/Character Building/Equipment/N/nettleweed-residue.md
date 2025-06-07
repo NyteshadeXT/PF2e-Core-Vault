@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Concentrated sap of stinging weeds makes an effective toxin.  **Saving Throw** DC 27 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** 3d6 poison damage (1 minute)  **Stage 2** 4d6 poison damage (1 minute)  **Stage 3** 6d6 poison damage (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

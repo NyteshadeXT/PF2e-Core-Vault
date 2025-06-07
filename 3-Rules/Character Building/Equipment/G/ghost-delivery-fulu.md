@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Duration** 1 week  A ghost delivery fulu's inscription resembles a dovecote with spirits around it, and it has a prominent stamp in red wax. This fulu activates once affixed, becoming the homing location of ghost courier fulus with a matching stamp. Delivered ghost courier fulu messages stick to the ghost delivery fulu but can be easily removed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

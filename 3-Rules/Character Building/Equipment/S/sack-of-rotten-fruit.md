@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  Each of these unassuming sacks contains enough rotting fruit to provide a fungus leshy with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt an DC 15 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]]. The range increment of a thrown sack of rotten fruit is 20 feet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

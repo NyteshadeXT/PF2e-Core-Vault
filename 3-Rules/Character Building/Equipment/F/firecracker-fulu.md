@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You critically succeed at an attack roll with the affixed weapon.  * * *  The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

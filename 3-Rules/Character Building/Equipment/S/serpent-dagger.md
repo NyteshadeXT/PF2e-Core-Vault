@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The serrated blade of this _+1 striking dagger_ has a greenish tinge, and the hilt is sculpted to look like the head of a serpent about to strike.  When you critically succeed at an attack roll with the _serpent dagger_, the target becomes [[Conditions/Sickened|Sickened 1]] unless it succeeds at a DC 19 Fortitude check save. This is a poison effect.  In addition, you can activate the dagger to poison a creature with a more potent poison.  * * *  **Activate—Drip Poison** `pf2:0` (manipulate)  **Frequency** once per day  **Trigger** You damage a creature with the _serpent dagger_  **Effect** You poison the creature you hit with dagger venom.  * * *  **Dagger Venom** (poison)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 4 rounds  **Stage 1** 1d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

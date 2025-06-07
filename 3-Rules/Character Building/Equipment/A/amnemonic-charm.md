@@ -27,13 +27,13 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "This ornate locket, usually containing a faceless, humanoid portrait, is typically worn on a chain around the neck or attached to your clothing."
-powerTitle: "Effect"
-actionEconomy: 0
+powerTitle1: "Effect"
+actionEconomy1: 0
 type: "([[envision]])"
 frequency:
-trigger: "You fail or critically fail a [[Skills#Deception|Deception]], [[Skills#Diplomacy|Diplomacy]], or [[Skills#Intimidation|Intimidation]] check to [[Coerce]], [[Lie]], [[Make an Impression]], or [[Request]]"
+trigger1: "You fail or critically fail a [[Skills#Deception|Deception]], [[Skills#Diplomacy|Diplomacy]], or [[Skills#Intimidation|Intimidation]] check to [[Coerce]], [[Lie]], [[Make an Impression]], or [[Request]]"
 requirement: "You're a master in the skill you failed with."
-mechanics: "When activated, the charm casts a [[Rewrite Memory]]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target."
+mechanics1: "When activated, the charm casts a [[Rewrite Memory]]] spell (DC 26 Will check) against a single target of the check, removing all memory of your failed attempt and potentially allowing you to make another attempt. The effect can't remove more than 3 minutes of memories from its target."
 powerTitle2:
 actionEconomy2:
 type2:

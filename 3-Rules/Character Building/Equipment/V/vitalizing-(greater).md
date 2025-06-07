@@ -27,12 +27,12 @@ usage: "etched onto melee weapon"
 license: "ORC"
 identify:
 description: "A _greater vitalizing_ weapon pulses with vital energy, dealing an extra 2d6 persistent vitality damage to undead.  On a critical hit, the undead creature is [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] as long as it has the persistent damage from this rune."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

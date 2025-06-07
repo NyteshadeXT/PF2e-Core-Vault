@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This blue cloak is surprisingly light for its length and seems to catch wind bursts in its tail, flying out behind the wearer while cushioning falls and easing jumps. The sides of the cloak are slightly weighted, making it easy to grab ahold of when it fills with air. This cloak grants you a +1 item bonus to Athletics checks to [[Actions/Leap|Leap]] and a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] or [[Actions/Maneuver in Flight|Maneuver in Flight]]."
-powerTitle: "Fall Gently"
-actionEconomy: r
+powerTitle1: "Fall Gently"
+actionEconomy1: r
 type: "([[concentrate]], [[air]])"
 frequency: "once per day"
-trigger: "You're falling"
-mechanics: "The cloak catches the air and you grab onto its edges, utilizing the draft to guide you to safety. Treat your fall as 30 feet shorter and glide to a space of your choice at the bottom of your fall, which must be within 20 feet of where you would've landed"
+trigger1: "You're falling"
+mechanics1: "The cloak catches the air and you grab onto its edges, utilizing the draft to guide you to safety. Treat your fall as 30 feet shorter and glide to a space of your choice at the bottom of your fall, which must be within 20 feet of where you would've landed"
 powerTitle2:
 actionEconomy2:
 type2:

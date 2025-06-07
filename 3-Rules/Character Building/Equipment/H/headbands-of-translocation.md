@@ -27,12 +27,12 @@ usage: "wornheadwear"
 license: "ORC"
 identify:
 description: "_Headbands of translocation_ are silk bands that come in pairs and usually feature a prominent symbol of a nation or team. If both wearers Invest their headbands at the same time and think of the same symbol while doing so, both headbands change to display that symbol until they are removed. If you both have Invested your headbands, you can Aid each other without taking an action to prepare and when you get a critical failure when attempting to Aid an ally with a paired headband, you get a failure instead.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** You remove your headband, which teleports you to a space adjacent to the other Invested wearer's location, if you are within 1 mile of each other."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

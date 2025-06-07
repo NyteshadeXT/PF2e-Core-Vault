@@ -27,12 +27,12 @@ usage: "affixed to unarmored defense item"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You are knocked [[Conditions/Prone|Prone]]  **Requirements** You're an expert in Acrobatics, and you are unarmored.  * * *  This plain copper coin is typically affixed near the feet, on a pant leg or hem. When you Activate it, you Stand and can't be knocked prone again on the current turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

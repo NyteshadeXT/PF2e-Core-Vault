@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This white wood staff is capped at each end with a golden cross adorned with ruby cabochons. A _staff of healing_ grants a +2 item bonus to the Hit Points you restore anytime you cast the _heal_ spell using your own spell slots or charges from the staff.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Stabilize|Stabilize]] *   **1st** [[Spells/Heal|Heal]] *   **2nd** [[Spells/Clear Mind|Clear Mind]] [[Spells/Heal|Heal]] [[Spells/Sound Body|Sound Body]] *   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]] [[Spells/Heal|Heal]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

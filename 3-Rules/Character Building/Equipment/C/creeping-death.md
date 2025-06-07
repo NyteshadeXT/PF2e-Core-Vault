@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  * * *  **Saving Throw** DC 22 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** 2d6 poison damage and [[Conditions/Stunned|Stunned 1]] (2 rounds)  **Stage 2** 2d6 poison damage and [[Conditions/Confused|Confused]] (1 round)  **Stage 3** 2d6 poison damage and controlled (2 days)  **Stage 4** dead. A creature that dies while infected with creeping death immediately releases a burst of spores in a 15-foot emanation, exposing creatures in the area to creeping death. If the corpse of a creature killed by creeping death isn't burned, it rises as the host of a cythnophorian 12 hours later."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

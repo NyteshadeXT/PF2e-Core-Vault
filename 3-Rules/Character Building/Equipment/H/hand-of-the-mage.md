@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a peculiar pattern.  **Activate** `pf2:2` command, envision  * * *  **Effect** You cast [[Spells/Telekinetic Hand|Telekinetic Hand]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

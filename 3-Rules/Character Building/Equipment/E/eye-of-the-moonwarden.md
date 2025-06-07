@@ -27,12 +27,12 @@ usage: "wornnecklace"
 license: "ORC"
 identify:
 description: "This beaded pendant crafted by Lyrune-Quah shamans features an uncut moonstone that warns the wearer of danger. When a hostile creature comes within 30 feet of you, the stone glows with moonlight only you can see.  **Activate—Lunar Illumination** `pf2:1` (concentrate)  **Frequency** once per hour  * * *  **Effect** Bright moonlight shines out of the gem in a 30-foot emanation, forcing hostile creatures in the area to make a DC 26 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 round."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "wornepaulet"
 license: "ORC"
 identify:
 description: "These gleaming golden epaulets are issued to Eagle Knight officers and worn as part of the uniform. While they can be enchanted to provide a variety of effects, the Golden Legion epaulet remains the most common.  * * *  **Activate** `pf2:1` (Command)  **Frequency** once per day  * * *  **Effect** Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.  [[Equipment Effects/Effect_ Golden Legion Epaulet|Effect: Golden Legion Epaulet]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

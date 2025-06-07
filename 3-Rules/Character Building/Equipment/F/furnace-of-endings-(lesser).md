@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Ash Cultists make use of these metal scroll cases to deliver secret messages or as ways to "smuggle" stolen documents since initial inspections find an elegant yet empty case. The cases are enchanted to instantly immolate any parchment or document placed inside of it. While invested, you can Interact with the scroll case to recreate the last message that was destroyed this way. For as long as the case is open, ashes will rise into the air, recreating the text of the message exactly as it was written. When you close the case or leave it unattended for 1 minute, the message scatters until the next time you Interact with it."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

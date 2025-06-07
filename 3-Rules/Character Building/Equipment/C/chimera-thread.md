@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Activate** 10 minutes (Interact)  * * *  This multicolored skein is twisted together from strands of many different materials. When used to stitch together pieces from the carcasses of two or more animals, it fuses them into a single intact carcass of an outlandish-looking monster with characteristics of the component species. The thread disappears, leaving no obvious seams and smoothing the transition between the parts of the creatures."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

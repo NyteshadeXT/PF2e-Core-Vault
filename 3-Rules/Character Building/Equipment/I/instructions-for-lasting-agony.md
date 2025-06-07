@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This worn and stained manual emits a chill when opened.  * * *  **Activate** `pf2:1` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to cast a harmful necromancy spell that you prepared from this grimoire and that allows a saving throw, you warp and twist void energy into the spell to cause intense pain. If the target fails its saving throw against the spell, it becomes [[Conditions/Sickened|Sickened 1]] by the pain."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

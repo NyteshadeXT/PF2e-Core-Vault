@@ -27,12 +27,12 @@ usage: "wornboots"
 license: "ORC"
 identify:
 description: "While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to [[Actions/Force Open|Force Open]] and [[Actions/Shove|Shove]]. When you invest the boots, you either increase your Strength modifier by 1 or increase it to +4, whichever is higher.  * * *  **Activate** `pf2:0` envision  **Frequency** once per hour  **Trigger** You succeed or critically succeed with a Shove  **Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[Conditions/Prone|Prone]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking shortsword_ has the design of a fanged mouth carved into the handle. Whenever the blade draws blood, it glows with a dull red energy, as if empowered by the taste of blood.  **Activate—Drink Life** `pf2:2` (concentration)  **Frequency** once per day  * * *  **Effect** The blood-drinker blade guides your hand to cut a foe and feeds you from their blood. Make a Strike with the blade. On a hit, the attack deals an additional 1d8 persistent bleed damage. You also gain 1d8 temporary Hit Points for 1 minute.  [[Equipment Effects/Effect_ Blood-Drinker Blade|Effect: Blood-Drinker Blade]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

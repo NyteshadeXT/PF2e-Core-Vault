@@ -27,12 +27,12 @@ usage: "wornheadwear"
 license: "ORC"
 identify:
 description: "This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity's servitors, granting you a +2 item bonus to Religion checks.  **Activate** 1 minute (command)  **Frequency** once per week  * * *  **Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-rank [[Spells/Read Omens|Read Omens]] spell that grants you cryptic but useful advice."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "applied to a basket bag or other container"
 license: "ORC"
 identify:
 description: "_Preserving runes_ are common among merchants and other travelers who are on the road for weeks or months at a time. Any non-magical food and drink inside a container with a _greater preserving rune_ never spoils. This feature doesn't prolong the duration of alchemical items.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** The container casts [[Spells/Cleanse Cuisine|Cleanse Cuisine]] on all the food and drink within."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

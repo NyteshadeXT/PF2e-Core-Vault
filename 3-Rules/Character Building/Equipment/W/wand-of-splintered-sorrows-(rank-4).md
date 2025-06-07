@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wooden wand is roughly cut, as if it had been crudely chopped from a tree and left forgotten. When held, the wand imparts feelings of deep sorrow.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[Conditions/Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[Conditions/Slowed|Slowed 1]] for the same duration.  * * *  **Craft Requirements** Supply a casting of _splinter volley_ of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

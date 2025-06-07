@@ -27,12 +27,12 @@ usage: "affixed to firearm with a reload of 1"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a firearm with a reload of 1  **Activate** `pf2:0` (concentrate)  **Trigger** You miss on a ranged Strike with the affixed weapon using an ordinary 0-level piece of ammunition.  * * *  This small magnetite block is attached to the barrel of the firearm by a thin metal wire drilled through a hole in its center. When you activate the lodestone, the ammunition from your missed shot is immediately recalled to your firearm, allowing you to fire again without reloading."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  Dragon scales of all sorts can be powerful magical reagents, infusing magic with the might of their breath. When used to cast [[Spells/Force Barrage|Force Barrage]], a scale from a dragon's throat causes the spell to lose the force trait and damage type. Instead, the spell has the damage type of the breath weapon belonging to the dragon the scale came from, along with that trait. Damage types are associated with the following dragons, with uncommon dragons noted with an asterisk.  [[Equipment Effects/Effect_ Dragon Throat Scale|Effect: Dragon Throat Scale]]  * * *  **Acid:** Black, brine\*, copper  **Cold:** Silver, white  **Electricity:** Blue, bronze, cloud\*, sky\*  **Fire:** Brass, gold, magma\*, red, underworld\*  **Mental:** Sovereign\*  **Poison:** Green  **Void**: Umbral\*"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

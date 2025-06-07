@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "This ornate doorknob can open doors both material and metaphysical, revealing dreams and nightmares. The spell DC of any spell cast by activating this item is 20.  *   **Armor** You gain a +1 item bonus to Thievery checks to Pick a Lock. *   **Weapon** If you critically succeed at a Strike with the weapon, the target is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.  [[Equipment Effects/Effect_ Phantasmal Doorknob - Armor|Effect: Phantasmal Doorknob - Armor]]  [[Equipment Effects/Effect_ Phantasmal Doorknob - Weapon|Effect: Phantasmal Doorknob - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Ghost Sound|Ghost Sound]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Phantasmal Treasure|Phantasmal Treasure]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

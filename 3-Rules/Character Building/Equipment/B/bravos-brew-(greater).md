@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This flask of foaming beer grants courage. For the next hour after drinking this elixir, you gain a +3 item bonus to Will saves, or +4 when attempting Will saves against fear. If you roll a success on a save against fear, you get a critical success instead.  [[Equipment Effects/Effect_ Bravo's Brew|Effect: Bravo's Brew]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

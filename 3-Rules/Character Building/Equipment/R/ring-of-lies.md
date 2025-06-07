@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to Deception checks.  **Activate—Sweeten Lies** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [[Spells/Honeyed Words|Honeyed Words]] on you with no visual manifestations of a spell being cast."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

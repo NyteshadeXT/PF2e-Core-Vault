@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "An antenna with a bioluminescent lure protrudes from your head, drawing enemies' attention. When not activated, the antenna lays flat and blends in with your hair or skin."
-powerTitle: "Raise Lure"
-actionEconomy: 1
+powerTitle1: "Raise Lure"
+actionEconomy1: 1
 type: "([[manipulate]], [[mental]], [[visual]])"
 frequency: "once per day"
-trigger:
-mechanics: "Until the beginning of your next turn, the lure raises above your head and lights up with multicolored flashes that draws creatures closer. Any creature that begins its turn within 20 feet of you must succeed at a DC 23 Will check save or become [[Fascinated]] by the lure and must spend at least one of its actions to move toward you. The fascination ends at the end of the creature's turn."
+trigger1:
+mechanics1: "Until the beginning of your next turn, the lure raises above your head and lights up with multicolored flashes that draws creatures closer. Any creature that begins its turn within 20 feet of you must succeed at a DC 23 Will check save or become [[Fascinated]] by the lure and must spend at least one of its actions to move toward you. The fascination ends at the end of the creature's turn."
 powerTitle2:
 actionEconomy2:
 type2:

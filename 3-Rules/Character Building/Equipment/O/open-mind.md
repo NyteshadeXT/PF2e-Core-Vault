@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Abraxas teaches knowledge is the only power that matters. This tattoo of a stylized eye provides a +1 item bonus to Lore checks.  **Activate** `pf2:1` envision  **Frequency** once per hour  * * *  **Effect** Abraxas opens your inner eye; you gain the effects of [[Spells/Hypercognition|Hypercognition]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

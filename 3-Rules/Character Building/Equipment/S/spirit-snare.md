@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This complicated snare is affixed with various crystals and Stasian coils attached to strange electrical relays, working on the same principles as etheric spirit singers. When an incorporeal creature enters its square, the device lets loose an ectoplasmic web that lashes around the creature's spectral form. The creature must succeed a DC 26 Reflex checksaving throw or become [[Conditions/Immobilized|Immobilized]] for 1 round. On a critical failure, the creature becomes [[Conditions/Immobilized|Immobilized]] for 1 minute. In either case, the incorporeal creature can attempt to [[Actions/Escape|Escape]] ([[Actions/escape dc=26|escape dc=26]]{DC 26})."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

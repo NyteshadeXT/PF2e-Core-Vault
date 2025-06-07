@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This magical cloak was crafted from the feathers and scales of a legendary giant fish that could transform into a resplendent bird.  **Activate—Cut Air and Sea** `pf2:1` (concentrate, manipulate)  * * *  **Effect** The cloak ripples, becoming either giant eagle feathers or iridescent fish scales. Until you next Activate the cloak, you gain either a swim Speed of 60 feet and the ability to breathe underwater or a fly Speed of 40 feet."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

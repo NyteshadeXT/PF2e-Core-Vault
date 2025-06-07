@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  Sap from redpitch pines, if properly distilled into a gummy, incendiary mass, ignites when exposed to the air. A redpitch bomb deals the listed fire damage, persistent fire damage, and splash damage. Many types grant an item bonus to attack rolls.  The bomb deals 1 fire damage, 1d4 persistent fire damage, and 1 fire splash damage. On a critical hit, the target is [[Conditions/Clumsy|Clumsy 1]] until the start of your next turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

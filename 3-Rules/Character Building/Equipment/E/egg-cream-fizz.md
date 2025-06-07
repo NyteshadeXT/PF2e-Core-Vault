@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Containing neither eggs nor cream, an egg cream fizz contains milk or nut milk, sparkling water, and flavored syrup, frothed and chilled. Upon drinking, you feel lighter and more buoyant, gaining a +5-foot item bonus to your Speed for 10 minutes. During this time, you also gain another effect determined by the drink's syrup, which is chosen when the drink is created.  *   **Chocolate** You gain a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]], Maneuver in Flight, and Squeeze. *   **Strawberry** You gain a +1 item bonus to Athletics checks to Climb, [[Actions/Leap|Leap]], and Swim. *   **Vanilla** You can Step into difficult terrain.  [[Equipment Effects/Effect_ Egg Cream Fizz|Effect: Egg Cream Fizz]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

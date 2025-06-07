@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Shattered pieces of a glass mirror, formed into a reflective mosaic, comprise the irregular shaft of this wand. The handle is black and polished smooth, the pommel capped with a tiny reflective orb.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Mirror Image|Mirror Image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing.  * * *  **Craft Requirements** Supply a casting of [[Spells/Mirror Image|Mirror Image]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

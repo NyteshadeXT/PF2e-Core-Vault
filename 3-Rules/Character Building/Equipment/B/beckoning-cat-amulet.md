@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You use a feat or ability to reroll a failed or critically failed Reflex saving throw (such as Cat's Luck or Halfling Luck).  This clay figurine resembles a white cat with a paw outstretched. When it's activated, any allies within 10 feet who also just failed or critically failed a Reflex saving throw from the same source (such as a fireball spell) can also reroll their saving throw and use the better result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

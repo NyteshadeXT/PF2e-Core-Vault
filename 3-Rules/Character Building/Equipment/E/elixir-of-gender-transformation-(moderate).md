@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This clear, bitter liquid can be ingested to change certain secondary sex characteristics. Different formulations create different changes—for example, one variety might cause the voice to deepen and promote body and facial hair growth, while another might cause fat redistribution around the hips and the growth of breasts. These changes tend to be accompanied by shifting of the fat in the face, sometimes dramatically or sometimes more subtly changing the user's appearance.  The elixir must be taken once a month, and changes occur over the course of a year."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A replacement lens for a [[Equipment/Starless Scope|Starless Scope]]. If you know the formula for the _starless scope_, you can Craft a new lens with a DC 25 Crafting check (master) check.  * * *  **Activate** `pf2:2` Interact (manipulate); You can replace a broken lens in a _starless scope_ with an undamaged one."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

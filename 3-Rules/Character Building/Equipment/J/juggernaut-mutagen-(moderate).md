@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Your body becomes sturdy and ponderous.  **Benefit** You gain a +2 item bonus to Fortitude saves and 10 temporary Hit Points. Whenever you are at maximum Hit Points for at least 1 full minute, you regain the temporary Hit Points.  **Drawback** You take a -2 penalty to Will saves, Perception checks and initiative rolls.  **Duration** 10 minute.  [[Equipment Effects/Effect_ Juggernaut Mutagen (Moderate)|Effect: Juggernaut Mutagen (Moderate)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

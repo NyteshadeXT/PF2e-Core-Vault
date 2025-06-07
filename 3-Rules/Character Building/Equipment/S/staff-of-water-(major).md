@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "A staff of water is most often made of driftwood, sometimes lacquered blue. Carved versions often have a wave pattern. The staff smells of rain or brine. While wielding a staff of water, you have resistance 10 to fire.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Spout|Spout]] *   **1st** [[Spells/Create Water|Create Water]], [[Spells/Hydraulic Push|Hydraulic Push]] *   **2nd** [[Spells/Quench|Quench]], [[Spells/Water Walk|Water Walk]] *   **3rd** [[Spells/Aqueous Orb|Aqueous Orb]], [[Spells/Wall of Water|Wall of Water]] *   **4th** [[Spells/Crashing Wave|Crashing Wave]], [[Spells/Hydraulic Torrent|Hydraulic Torrent]] *   **5th** [[Spells/Control Water|Control Water]], [[Spells/Geyser|Geyser]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

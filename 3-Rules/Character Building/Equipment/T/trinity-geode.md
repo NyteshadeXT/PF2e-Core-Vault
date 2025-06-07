@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "The crystal chamber within this split geode is divided into three lobes of equal size. The spell DC of any spell cast by Activating this item is 17.  *   **Armor** After you cast an earth spell by Activating the _geode_, you gain resistance 1 to physical damage (except adamantine) until the end of your next turn, or double the resistance for a non-cantrip spell. *   **Weapon** After you cast an earth spell by Activating the geode, your Strikes with the weapon deal an additional 1d4 bludgeoning damage until the end of your next turn.  [[Equipment Effects/Effect_ Trinity Geode - Armor|Effect: Trinity Geode - Armor]]  [[Equipment Effects/Effect_ Trinity Geode - Weapon|Effect: Trinity Geode - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Scatter Scree|Scatter Scree]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

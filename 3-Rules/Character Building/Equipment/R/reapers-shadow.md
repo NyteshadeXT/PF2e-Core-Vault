@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  Derived from duskwood sap tapped during the winter solstice, this toxin erodes the connection between body and soul, tricking the latter into assuming the former has already died. Survivors of this near-death experience report ominous tunnel vision, as if the Grim Reaper lurks in their peripheral vision and awaits their final breath.  * * *  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 2d12 void damage and [[Conditions/Doomed|Doomed 1]] for 1 round (1 round)  **Stage 2** 3d12 void damage and doomed 1 for 1 round (1 round)  **Stage 3** 3d12 void damage and doomed 1 (1 round)  **Stage 4** 3d12 void damage and [[Conditions/Doomed|Doomed 2]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

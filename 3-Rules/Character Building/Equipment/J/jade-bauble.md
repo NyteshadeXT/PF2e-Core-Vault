@@ -27,12 +27,12 @@ usage: "affixed to melee weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  * * *  This bit of jade is usually carved in the shape of a duelist, or sometimes a multi-armed creature. When you activate the bauble, it magically draws the attention of foes. Until the start of your next turn, enemies within the reach of the weapon the talisman is affixed to are [[Conditions/Off-Guard|Off-Guard]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

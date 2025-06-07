@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You attempt a Diplomacy check to Make an Impression.  * * *  This red fulu contains blessings for one's relationship from Shelyn, goddess of beauty and love. You get a +2 status bonus to the Diplomacy check, and if you roll a critical failure on the check, you get a failure instead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

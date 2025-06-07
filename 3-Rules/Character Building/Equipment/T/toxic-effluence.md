@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  * * *  This dark green sludge has a caustic scent and gritty texture. Capable of entering the body through contact with flesh, toxic effluence becomes harmful once it hits the bloodstream, where it causes internal chemical burns, intense pain, and muscle spasms.  * * *  **Saving Throw** DC 29 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 3d6 poison damage, 3d6 fire damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 4d6 poison damage, 4d6 fire damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** 5d6 poison damage, 5d6 fire damage, [[Conditions/Clumsy|Clumsy 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

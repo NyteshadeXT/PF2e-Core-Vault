@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This fairly simple ring has no gemstone inlaid, but the band is cast to resembled a fanged wolf's head.  Once per day, during your daily preparations, you can meditate on this ring to grant yourself 5 temporary Hit Points. These last until your next daily preparation, as long as you are wearing the ring.  [[Equipment Effects/Effect_ Stalwart's Ring|Effect: Stalwart's Ring]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

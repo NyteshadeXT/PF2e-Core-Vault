@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You take the [[Actions/Leap|Leap]] action.  * * *  Tradition says the _dragonfly fulu_ should be affixed to the upper back, like the wings of an insect. When you Activate this fulu, you gain a +2 status bonus to Athletics checks to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]] for 1 minute. During this time, you can attempt an Athletics check to High Jump or Long Jump as a single action without the Stride requirement. You can also High Jump or Long Jump from a nonsolid substance, such as air or water, but if you use this power of the fulu, its effects ends after you jump.  [[Equipment Effects/Effect_ Dragonfly Fulu|Effect: Dragonfly Fulu]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

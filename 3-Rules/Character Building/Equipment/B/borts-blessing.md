@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations.  In addition, the wearer receives a +1 item bonus to Diplomacy checks to Make an Impression."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

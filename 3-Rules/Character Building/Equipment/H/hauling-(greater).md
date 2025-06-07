@@ -27,12 +27,12 @@ usage: "etched onto a weapon"
 license: "ORC"
 identify:
 description: "Hauling weapons are adept at moving creatures around the battlefield after a successful attack.  **Activate** `pf2:r` Command  **Frequency** once per hour  **Trigger** You succeed at an attack roll to Strike with a weapon with the hauling rune  * * *  **Effect** The target must succeed at a DC 28 Reflex check save or be moved 10 feet in a direction you choose. This is forced movement."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

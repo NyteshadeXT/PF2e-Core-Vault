@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Tangle root toxin sees use to impede opponents in athletic competitions, in addition to espionage and tracking.  **Saving Throw** DC 26 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Conditions/Clumsy|Clumsy 1]] and -10-foot status penalty to all Speeds (1 minute)  **Stage 2** [[Conditions/Clumsy|Clumsy 2]] and -20-foot status penalty to all Speeds (1 minute)  **Stage 3** [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Off-Guard|Off-Guard]], and -30-foot status penalty to all Speeds"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "This satchel contains all the basic equipment found in a climbing kit plus the specialized equipment—including a harness, belay device, and locking clips—needed for descents. When Climbing down with a rappelling kit, you move twice as fast as usual based on your check result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

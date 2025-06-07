@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0`  **Trigger** You use Quick Alchemy to craft an alchemical poison that's at least 1 level lower than your advanced alchemy level.  Originally used in dental procedures, toothwort numbs the gums by deadening nerves. When the oils are extracted and distilled, toothwort has a secondary reputation among alchemists for enhancing the duration of poisons. When adding toothwort extract to an alchemical poison, you can extend the maximum duration of the poison by 1 round."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

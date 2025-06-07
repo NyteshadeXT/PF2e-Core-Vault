@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  * * *  This small bronze cylinder is about the size of a potion bottle. When you activate the launcher, it fires an unattached net requiring only a single hand, and at a greater distance. As normal, you make a ranged attack roll against a Medium or smaller creature, but you can target a creature up to 60 feet away, instead of only 20 feet away. The net trap otherwise functions as an unattached [[Equipment/Net|Net]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "A sleek and impossibly lightweight blade attached to a haft scriven with lightning bolts make up this _+3 greater striking nodachi_.  **Activate—Prepare Flash** `pf2:2` (concentrate)  **Frequency** once per 10 minutes  * * *  **Effect** You concentrate with complete focus on your surroundings, breathing in the flashblade's magic to make you lighter and faster, and the blade of your sword more flexible. You Ready a melee Strike, increasing the flashblade's reach for that Strike to 25 feet. If the trigger doesn't occur, this doesn't count against the flashblade's frequency."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

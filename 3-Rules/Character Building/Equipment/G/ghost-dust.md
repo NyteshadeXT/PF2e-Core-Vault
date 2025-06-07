@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  **Requirements** You are trained in Stealth  * * *  This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-rank [[Spells/Invisibility|Invisibility]] spell on you. You may then Stride or Step. You can instead Burrow, Climb, Fly, or Swim if you have the corresponding Speed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

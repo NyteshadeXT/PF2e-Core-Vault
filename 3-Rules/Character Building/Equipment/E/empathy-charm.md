@@ -27,12 +27,12 @@ usage: "affixed to harness"
 license: "ORC"
 identify:
 description: "This charm, usually placed on an animal companion's collar, contains a single strand of your hair, as well as one of your animal companion's, creating a link that better transmits emotional cues to a trained psychological assistance animal.  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You attempt a saving throw against an emotion effect  **Requirements** Your animal companion wearing the empathy charm is within 10 feet  * * *  **Effect** Your animal companion senses the effect and attempts to calm you. You gain a +1 circumstance bonus against the triggering save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact or Strike  * * *  A viscous acidic goo fills this glass vial, specially designed to eat through metallic objects. You can throw the steelscour as an alchemical bomb, targeting a metal creature or metal object held by a creature. You gain a +3 item bonus to attack rolls. It deals 4d8 persistent acid damage that ignores up to 15 hardness from metal. Steelscour has no effect on living or undead flesh and deals half damage to objects constructed of non-metal materials.  Instead of using steelscour as a bomb, you can pour it on an adjacent unattended metal object with an Interact action, automatically dealing the listed persistent acid damage for 5 rounds with no flat check to end the condition. When used this way, steelscour loses the bomb trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

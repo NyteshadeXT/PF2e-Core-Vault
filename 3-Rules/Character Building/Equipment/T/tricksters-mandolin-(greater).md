@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "Sought after by many unscrupulous bards, this instrument is surprisingly light and easy to carry, but also empowered with a number of spells carefully selected to help with fooling others or making a hasty retreat. While playing the mandolin, you gain a +1 item bonus to Deception and Performance checks.  * * *  **Activate** `pf2:1` envision  **Effect** You change the instrument's color and shape to one you prefer, and you can turn it into a different handheld string instrument that takes two hands to play.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Prestidigitation|Prestidigitation]] *   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Item Facade|Item Facade]], [[Spells/Ventriloquism|Ventriloquism]] *   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Invisibility|Invisibility]], [[Spells/Mirror Image|Mirror Image]] *   **3rd** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Phantom Prison|Phantom Prison]], [[Spells/Sculpt Sound|Sculpt Sound]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to melee weapon"
 license: "ORC"
 identify:
 description: "**Usage** affixed to a weapon  **Activate** `pf2:1` (manipulate)  * * *  This small iron band has a shifting weight that helps equalize the affixed weapon's balance. When you activate it, you use [[Feats/Certain Strike|Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the press trait.  If you have the Certain Strike feat, the failure effect increases to deal the weapon's normal damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

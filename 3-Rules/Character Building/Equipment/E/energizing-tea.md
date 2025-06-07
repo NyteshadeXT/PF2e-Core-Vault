@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact or 10 minutes (concentrate, Interact)  * * *  This sweet and refreshing tea is made by adding a mixture of honey, lemon slices, and sliced ginger. This is considered to be the bare minimum when serving energizing tea, and many go above and beyond by adding additional citrus fruits or berries to the mix or refusing to serve the tea at all without accompanying it with a full platter of spiced pastries and sweets. This golden tea has energizing properties and, when consumed, grants you a +1 item bonus to Athletics and Acrobatics checks for 10 minutes.  [[Equipment Effects/Effect_ Energizing Tea|Effect: Energizing Tea]]  * * *  **Tea Ceremony** The duration increases to 1 hour."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

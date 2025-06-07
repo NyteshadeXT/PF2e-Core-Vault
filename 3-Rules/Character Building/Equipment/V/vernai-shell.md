@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Made from the finest plates of monstrous insect chitin, this _+2 greater resilient mantis shell_ offers superior protection from Mediogalti's hot weather while also allowing the wearer to blend into almost any situation and strike with hidden blades. While wearing this armor, you are protected from extreme heat and severe heat effects. _Vernai shell_ armor includes two extradimensional spaces built into each of the armor's gloves, granting the wearer two places to store items. Each glove can hold one item of 1 Bulk or less. While an item is stored in one of the two gloves, there is nothing to indicate that an item is being held inside it.  * * *  **Activate—Store Item** `pf2:1` (manipulate)  **Requirements** At least one of the _Vernai shell's_ two extradimensional spaces is empty  **Effect** One item you're holding with a Bulk of 1 or less vanishes into one of the armor's extradimensional spaces.  * * *  **Activate—Retrieve Item** `pf2:0` (manipulate)  **Requirements** An item is stored in at least one of the _Vernai shell's_ extradimensional spaces, and you have a free hand  **Effect** One item of your choice in either extradimensional space appears in your hand. You can't Retrieve Item again for 1 minute."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

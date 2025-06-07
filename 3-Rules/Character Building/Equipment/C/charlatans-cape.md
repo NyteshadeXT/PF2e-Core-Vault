@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This bright red-and-gold cape is often interlaced with glittery threads and serves as a distraction. While wearing the cape, you gain a +2 item bonus to Deception checks.  **Activate—Puff of Smoke** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

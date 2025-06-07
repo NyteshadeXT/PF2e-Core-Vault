@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  A _philter of empty dreams_ is a dose of glowing blue liquid that prevents dreams. When you drink a _philter of empty dreams_, you have no dreams for the next 8 hours and gain a +1 item bonus to saving throws against dream- or nightmare-themed effects (including saving throws against the effects of midnight milk). If you're suffering from an addiction to midnight milk when you drink a _philter of empty dreams_, the potion attempts to counteract the addiction with a counteract rank of 4 and a +15 modifier for the roll. If an intellect devourer who's controlling a stolen body uses the body to drink a _philter of empty dreams_, the intellect devourer must succeed at a DC 24 Fortitude check save or be forced to Exit the Body immediately."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

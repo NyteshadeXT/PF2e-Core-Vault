@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Ammunition** Any  **Activate** `pf2:1` Interact  * * *  This arrow is made of polished animal horn, with the head of a rhinoceros carved in place of a traditional arrowhead. When an activated rhino shot is fired, the ethereal form of a large rhinoceros takes shape around the projectile. On a successful Strike, the attack deals an additional 2d6 force damage, and the target must succeed at a DC 19 Fortitude check or be knocked [[Conditions/Prone|Prone]]. If the hit with the _rhino shot_ was a critical success, the target is knocked prone unless it critically succeeds at its save."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

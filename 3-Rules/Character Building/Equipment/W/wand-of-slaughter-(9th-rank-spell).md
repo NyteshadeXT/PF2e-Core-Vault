@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Execute|Execute]] at 9th-rank. If the spell slays a living target, the corpse releases grim energy in a 20-foot emanation, dealing 18 void damage.  * * *  **Craft Requirements** Supply a casting of _execute_ at 9th-rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

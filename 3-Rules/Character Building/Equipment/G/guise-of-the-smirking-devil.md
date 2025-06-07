@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer's mouth, leaving the rest of the face uncovered. You gain a +2 item bonus to Intimidation checks.  **Activate—Hideous Wail** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** The mask emits a soul-chilling scream that deals 6d10 void damage to each living creature in a 20-foot emanation (DC 25 Fortitude check save).  * * *  **Craft Requirements** Supply a casting of [[Spells/Wails of the Damned|Wails of the Damned]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

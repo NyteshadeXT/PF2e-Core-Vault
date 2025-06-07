@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Often taken recreationally, mindmurk oil dulls the mind, creating a pleasant and euphoric stupor that inhibits the imbiber's decision-making skills and mental capacity.  * * *  **Saving Throw** DC 20 Fortitude check  **Onset** 30 minutes  **Maximum Duration** 1 hour  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (5 minutes)  **Stage 2** [[Conditions/Stupefied|Stupefied 2]] (5 minutes)  **Stage 3** [[Conditions/Stupefied|Stupefied 3]] (5 minutes)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

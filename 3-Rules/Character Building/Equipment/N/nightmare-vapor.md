@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Purportedly sourced from any number of outlandish locales, nightmare vapor is most often created by boiling the sweat collected from humanoids caught in the throes of terrible nightmares.  * * *  **Activate** `pf2:1` Interact (Inhaled)  **Saving Throw** DC 36 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Confused|Confused]] (1 round)  **Stage 2** confused and [[Conditions/Off-Guard|Off-Guard]] (1 round)  **Stage 3** confused, off-guard, and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

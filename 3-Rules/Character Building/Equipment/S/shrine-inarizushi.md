@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** one minute (Interact)  A splash of sacred sake in the rice vinegar used to prepare this sushi makes it a suitable offering to the goddess Daikitsu and her favored fox servants. You place the sushi before a shrine of the goddess Daikitsu or in a wilderness area that naturally harbors foxes. For the next hour, whenever you are in exploration mode, roll a separate [[Actions/Search|Search]] activity check with a +1 status bonus; this does not affect your Speed. If the check succeeds, a fox appears to inform you of this discovery as best as it can, although it cannot speak.  [[Equipment Effects/Effect_ Shrine Inarizushi|Effect: Shrine Inarizushi]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

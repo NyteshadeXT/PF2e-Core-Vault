@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.  **Saving Throw** DC 37 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 10d6 poison damage (1 round)  **Stage 2** 12d6 poison damage (1 round)  **Stage 3** 14d6 poison damage (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  A _gecko potion_ is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you gain a +1 item bonus to [[Actions/Climb|Climb]] and [[Actions/Palm an Object|Palm an Object]] checks and to your Reflex DC against [[Actions/Disarm|Disarm]] attempts.  [[Equipment Effects/Effect_ Gecko Potion|Effect: Gecko Potion]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

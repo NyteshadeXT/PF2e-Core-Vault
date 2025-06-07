@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This matching mortar and pestle are made from immaculate duskwood that looks nearly olive in the right light.  **Activate** 1 minute (Interact)  **Frequency** once per hour  * * *  **Effect** You use the _mortar of hidden meaning_ to grind tea leaves (or another suitable substance for making a hot beverage). While grinding the tea leaves, which takes no less than 1 minute, you can speak a message into the mortar. After the leaves are steeped in hot water, the first person who drinks from the resulting brew hears the message whispered in their ear."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

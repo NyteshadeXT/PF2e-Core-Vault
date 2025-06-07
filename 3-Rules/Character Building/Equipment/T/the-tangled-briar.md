@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Shields (Con)  **Alignment** lawful evil  * * *  _The Tangled Briar_ signifies the return of ancient triumphs. As long as you have _The Tangled Briar_ invested, you gain [[Feats/Toughness|Toughness]] as a bonus feat. If you already possess this feat, increase your maximum Hit Points by twice your level.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You raise the card up above your head and invoke the thorns and briars of the tangled parts of the world; you cast [[Spells/Wall of Thorns|Wall of Thorns]]. The rank of the spell is half your level, rounded down (minimum 6th level). The brambles within this particular wall of thorns are treated as greater difficult terrain."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to a ranged weapon"
 license: "ORC"
 identify:
 description: "**Duration** 1 hour  * * *  Incorporating green in its writing, a _discord fulu_ is a popular but unethical tool often deployed on romantic rivals to foil their advances. While the fulu is affixed to it, a creature treats its attitude toward other creatures as one step worse than it is. The creature also takes a –1 status penalty to Diplomacy checks. The first failure the creature rolls on a Diplomacy check becomes a critical failure instead, and the fulu turns to ash, ending its effect.  [[Equipment Effects/Effect_ Discord Fulu|Effect: Discord Fulu]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

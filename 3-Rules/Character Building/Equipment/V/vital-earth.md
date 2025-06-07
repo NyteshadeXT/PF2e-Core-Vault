@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Life-infused soil from the Plane of Earth, _vital earth_ is glittering dust you inhale that causes you to not need air or water for 24 hours. Also, for this time, your wounds close easily, like molding clay, meaning someone attempting to [[Actions/Administer First Aid|Administer First Aid]] or [[Actions/Treat Wounds|Treat Wounds]] on you doesn't need a healer's toolkit and gains a +1 item bonus to the Medicine check."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

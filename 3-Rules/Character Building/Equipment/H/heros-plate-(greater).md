@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Golden images of heroic deeds decorate the black plates of this _+2 greater resilient full plate_. You gain resistance 10 to mental damage and a +2 status bonus to saves against fear.  **Activate—Personal Legend** `pf2:1` (concentration)  **Frequency** once per day  * * *  **Effect** The scenes depicted on your armor shift and change, making room to accommodate your current heroic feats. You cast 6th-rank [[Spells/Heroism|Heroism]] on yourself."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

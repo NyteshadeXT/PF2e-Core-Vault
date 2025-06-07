@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Solidified radiance comprises this slender, featureless wand. It sheds bright light in a 20-foot radius and dim light for the next 20 feet. After you Activate the wand, the light fades, so it only sheds dim light in a 20-foot radius. The wand returns to its original brightness each dawn.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast 5th-rank [[Spells/Holy Light|Holy Light]], dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Dazzled|Dazzled]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude check saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).  * * *  **Craft Requirements** Supply a casting of [[Spells/Holy Light|Holy Light]] of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

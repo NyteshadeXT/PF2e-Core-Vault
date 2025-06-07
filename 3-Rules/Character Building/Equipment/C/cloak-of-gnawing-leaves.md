@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer.  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You are damaged by a melee attack from an adjacent creature  * * *  **Effect** The leaves lash out at your attacker, rising up to reveal snapping jaws made of wicked thorns. The triggering creature must attempt a DC 17 Reflex check saving throw.  **Success** The creature is unaffected.  **Failure** The creature takes 1d4 piercing.  **Critical Failure** The creature takes 2d4 piercing and 1 bleed."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

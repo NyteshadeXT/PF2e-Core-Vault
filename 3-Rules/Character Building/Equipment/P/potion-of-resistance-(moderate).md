@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this thick, fortifying potion grants 10 resistance against a single damage type for 1 hour. Each _potion of resistance_ is created to defend against acid, cold, electricity, fire, or sonic damage (and is called a _lesser potion of fire resistance_ or the like)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

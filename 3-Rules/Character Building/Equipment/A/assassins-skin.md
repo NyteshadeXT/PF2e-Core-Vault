@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "This _+2 greater resilient leather armor_ was made from the flayed hide of an Elysian pegasus, then dyed a bright crimson so that it appears slick with fresh blood. The wearer of _assassin's skin_ gains a +3 item bonus to [[Actions/Escape|Escape]] checks.  **Activate—Blood Revitalization** `pf2:0` (concentrate)  **Frequency** once per hour  **Trigger** You would take persistent bleed damage  * * *  **Effect** You don't take the persistent bleed damage and instead regain Hit Points equal to the bleed damage. The persistent bleed damage ends."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

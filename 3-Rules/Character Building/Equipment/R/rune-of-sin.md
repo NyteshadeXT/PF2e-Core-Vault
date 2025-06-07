@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "This jagged glyph, one of the Thassilonian runes of sin, reacts to magic of a particular school (there's no rune for divination, as it was considered lesser within sin magic). When you Cast a Spell of the school matching the sin, you gain resistance 5 to damage from spells until the start of your next turn. This resistance is increased to 7 against spells of the matching school. This tattoo has the school trait matching the rune: abjuration for envy, necromancy for gluttony, transmutation for greed, enchantment for lust, illusion for pride, conjuration for sloth, and evocation for wrath."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *  This robust porridge—made from a cockatrice distilled into a broth, hot peppers from a demonic source, and various toppings—causes diners to utter a ghostly wail from the intense heat.  Consuming the porridge grants you a +2 item bonus to saving throws against being [[Conditions/Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.  [[Equipment Effects/Effect_ Ghost Fowl Porridge|Effect: Ghost Fowl Porridge]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

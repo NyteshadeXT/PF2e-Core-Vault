@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This oil, which is pressed from vrock spores and mixed with a combination of acacia ash and thistle seeds, seeps into the skin of living creatures, initially inspiring irritability that unpredictably manifests as berserk rage.  * * *  **Activate** `pf2:1` Interact (Contact)  **Saving Throw** DC 37 Fortitude check  **Onset** 1d6 minutes  **Maximum Duration** 6 rounds  **Stage 1** 4d6 mental damage, [[Conditions/Quickened|Quickened 1]], attack nearby creatures as if [[Conditions/Confused|Confused]] (1 round)  **Stage 2** 6d6 mental damage, attack nearby creatures as if confused (1 round)  **Stage 3** 8d6 mental damage, [[Conditions/Fatigued|Fatigued]], attack nearby creatures as if confused (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: 
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[Interact]])
 frequency:
-trigger:
-mechanics: "When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain a +4 item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.  An addiction suppressant must be a higher level than the drug it is meant to suppress in order to work."
+trigger1:
+mechanics1: "When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain a +4 item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.  An addiction suppressant must be a higher level than the drug it is meant to suppress in order to work."
 powerTitle2:
 actionEconomy2:
 type2:

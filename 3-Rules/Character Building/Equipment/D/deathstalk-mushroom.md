@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Deathstalk mushrooms that have been alchemically treated into this poison cause those who succumb to suffer horrific hallucinations in which everyone around them distorts into demonic shapes shortly before their own bodies begin to break down and melt from within. Creatures with the fungus trait are immune to this poison and often find the flavor of a deathstalk mushroom to be rather pleasant.  **Saving Throw** DC 35 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)  **Stage 2** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 2]] (1 minute)  **Stage 3** 16d6 poison damage, confused, and [[Conditions/Stupefied|Stupefied 3]] (1 minute)  **Stage 4** 17d6 poison damage, confused, and [[Conditions/Stupefied|Stupefied 4]] (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

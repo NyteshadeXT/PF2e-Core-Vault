@@ -27,12 +27,12 @@ usage: "wornmask"
 license: "ORC"
 identify:
 description: "This terrifying mask is crafted in the visage of a leering demon and grants a +2 item bonus to Intimidation checks.  **Activate—Leering Mask** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** The mask casts a 3rd-rank [[Spells/Fear|Fear]] spell with a DC of 29."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

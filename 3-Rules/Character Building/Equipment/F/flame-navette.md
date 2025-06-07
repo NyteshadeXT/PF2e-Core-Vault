@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Usage** affixed to armor  **Activate** `pf2:1` (concentrate)  * * *  This piece of bronzite is shaped like an oval with points at both ends. It has a carved flame at its center and is traditionally worn over the heart. You can activate only one _flame navette_ per day. When you activate the navette, you gain the benefit of the fighter's [[Feats/Determination|Determination]] class feat, with a counteract rank of 8 and a counteract modifier of +22.  If you have the Determination feat, you can use your own modifier if it's better."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

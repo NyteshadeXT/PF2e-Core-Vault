@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  This clay vessel launches gobs of clinging mud and grit. You gain a +3 item bonus to attack rolls. The bomb deals 4d6 bludgeoning damage and 4 bludgeoning splash damage. On a critical hit, the target is [[Conditions/Dazzled|Dazzled]] until the start of your next turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

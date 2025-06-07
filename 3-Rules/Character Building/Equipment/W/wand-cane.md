@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Though it appears to be a basic cane, the inner workings of the _wand cane_ are an intricate network of lenses and magical circuits, with a slot at the top to insert a wand. The _wand cane_ then spends 1 minute attuning to the wand, after which the wand can be used through the cane."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

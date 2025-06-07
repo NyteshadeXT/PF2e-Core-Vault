@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This faintly glowing powder rapidly induces the symptoms of abysium poisoning."
-powerTitle: "Abysium Poisioning"
-actionEconomy: 2
-type: ([[Interact]])
-frequency:
-trigger:
-mechanics: "**Saving Throw** DC 27 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes<br>**Stage 1** `dice: 8d6` 8d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 minute)<br>**Stage 2** `dice: 9d6` 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)<br>**Stage 3** `dice: 10d6` 10d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)"
+powerTitle1: "Abysium Poisioning"
+actionEconomy1: 2
+type1: ([[Interact]])
+frequency1:
+trigger1:
+mechanics1: "**Saving Throw** DC 27 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes<br>**Stage 1** `dice: 8d6` 8d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 minute)<br>**Stage 2** `dice: 9d6` 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)<br>**Stage 3** `dice: 10d6` 10d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)"
 powerTitle2:
 actionEconomy2:
 type2:

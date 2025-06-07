@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Your skin becomes a canvas that records history as you learn it. When you receive the tattoo, choose a Lore skill. You can add the visual trait to the [[Actions/Recall Knowledge|Recall Knowledge]] action in order to study your tattoos, granting you a +1 item bonus to your check using the chosen Lore skill. A storied skin tattoo starts with an icon that represents a central event in your subject of study and is usually placed on the forehead or over the heart. Each time you learn about a major event in the history of that subject, an image, design, or symbol appears on your skin to represent the event.  **Activate—Living History** `pf2:1` (concentrate)  **Frequency** once per minute  * * *  **Effect** The tattoo's design animates for 1 round, crudely portraying some scene associated with the chosen Lore skill."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

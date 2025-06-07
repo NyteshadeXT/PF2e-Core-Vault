@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "Carved of acacia wood, a ring of ravenousness is inlaid with a geometric pattern. The ring appears to be a _[[Equipment/Ring of Sustenance|Ring of Sustenance]]_. Once you invest it, though, it fuses to you, its effects activating immediately. While wearing the ring, you require twice the normal amount of food and drink for a creature your size to avoid starvation and thirst."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  _Ashes of the war god_ may be applied to armor, a weapon, or mixed into an elixir or potion.  **Armor** The armor becomes _+3 major resilient armor_ for 1 day. It retains any property runes.  **Elixir or Potion** In addition to the normal effects drinking the elixir or potion grant you, you gain a +3 item bonus to Athletics checks and Fortitude saves for 1 hour.  **Weapon** The weapon becomes a _+3 major striking weapon_ for 1 day. It retains any property runes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

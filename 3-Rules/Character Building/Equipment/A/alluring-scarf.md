@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This thin, multicolored scarf shifts between hues in almost dizzying patterns."
-powerTitle: "Effect"
-actionEconomy: 2
+powerTitle1: "Effect"
+actionEconomy1: 2
 type: "[[Interact]] ([[emotion]], [[enchantment]], [[mental]], [[visual]])"
 frequency: "once per day"
-trigger:
-mechanics: "You Stride. All creatures within 10 feet of you when you started the Stride must attempt a DC 24 Will check save. On a failure, a creature becomes [[Fascinated]] and must spend at least one of its actions on its next turn to move toward you. A fascinated creature can attempt another Will save if you move more than 30 feet away from them, and as normal, acting hostile to a creature or its allies breaks fascination automatically. Creatures that critically failed their save don't receive further saves if you move more than 30 feet away, and acting hostile to such a creature's allies allows them to attempt another save, rather than automatically ending the fascination. You can Sustain the Activation for up to 1 minute."
+trigger1:
+mechanics1: "You Stride. All creatures within 10 feet of you when you started the Stride must attempt a DC 24 Will check save. On a failure, a creature becomes [[Fascinated]] and must spend at least one of its actions on its next turn to move toward you. A fascinated creature can attempt another Will save if you move more than 30 feet away from them, and as normal, acting hostile to a creature or its allies breaks fascination automatically. Creatures that critically failed their save don't receive further saves if you move more than 30 feet away, and acting hostile to such a creature's allies allows them to attempt another save, rather than automatically ending the fascination. You can Sustain the Activation for up to 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:

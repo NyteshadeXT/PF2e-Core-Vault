@@ -27,12 +27,12 @@ usage: "worncloak"
 license: "ORC"
 identify:
 description: "This lush velvet capelet is embroidered with images of musicians playing a wide variety of instruments. The images animate when you make art, remaining embroidered, but smoothly unknitting and reknitting in time with your performance. The figures play music that perfectly accompanies your instrument, voice, or movements, granting you a +2 item bonus to Performance checks."
-powerTitle: "Bardic Focus"
-actionEconomy: 0
+powerTitle1: "Bardic Focus"
+actionEconomy1: 0
 type: ([[Envision]])
 frequency: "once per day"
-trigger:
-mechanics: "You gain 1 Focus Point, which you can use only to cast a bard composition spell. If not used by the end of your turn, this Focus Point is lost.."
+trigger1:
+mechanics1: "You gain 1 Focus Point, which you can use only to cast a bard composition spell. If not used by the end of your turn, this Focus Point is lost.."
 powerTitle2:
 actionEconomy2: 2
 type2: ([[envision]], [[Interact]])

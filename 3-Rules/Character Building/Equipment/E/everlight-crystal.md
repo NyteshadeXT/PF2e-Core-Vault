@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "An _everlight_ crystal is one of the most common applications of permanent magic. This stone or gem sheds magical bright light constantly in a 20-foot radius (and dim light for the next 20 feet). The light requires no oxygen, generates no heat, and can't be extinguished, though the crystal can be covered."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

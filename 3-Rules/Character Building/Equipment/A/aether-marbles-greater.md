@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Aether marbles create violent, lingering eddies of force that extend partially into unseen planes. "
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[Strike]])
 frequency:
-trigger:
-mechanics: "You gain a +3 item bonus to attack rolls with the bomb. When the bomb explodes, it deals 4d6 force damage and 4 force splash damage.  Surfaces in the splash area are filled with twisting eddies of force, which are difficult terrain for incorporeal creatures but not for corporeal ones. The force eddies in a square disperse after an incorporeal creature enters the square."
+trigger1:
+mechanics1: "You gain a +3 item bonus to attack rolls with the bomb. When the bomb explodes, it deals 4d6 force damage and 4 force splash damage.  Surfaces in the splash area are filled with twisting eddies of force, which are difficult terrain for incorporeal creatures but not for corporeal ones. The force eddies in a square disperse after an incorporeal creature enters the square."
 powerTitle2:
 actionEconomy2:
 type2:

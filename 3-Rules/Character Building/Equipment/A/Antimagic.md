@@ -27,12 +27,12 @@ usage: "etched onto armor"
 license: "ORC"
 identify:
 description: "This intricate rune displaces spell energy, granting you a +1 status bonus to saving throws against magical effects.  * * *  **Activate—Antimagic Armor** `pf2:r` (concentrate)  **Frequency** once per day  **Trigger** A spell targets you or includes you in its area  **Effect** The armor attempts to counteract the triggering spell with the effect of a 7th-rank [[Spells/Dispel Magic|Dispel Magic]] spell and a counteract modifier of +26.  * * *  **Craft Requirements** Supply one casting of _dispel magic_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

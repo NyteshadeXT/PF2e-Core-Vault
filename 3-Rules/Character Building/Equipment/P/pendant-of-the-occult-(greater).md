@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This amulet is hollow and shaped in the form of an unblinking eye. Its cavity typically holds some fragment of occult text. While wearing the pendant, you gain a +2 item bonus to Occultism checks, and you can cast the [[Spells/Guidance|Guidance]] cantrip as an occult innate spell.  The pendant can be activated.  **Activate—Dream Message** 10 minutes (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You cast a 4th-rank [[Spells/Dream Message|Dream Message]] spell."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

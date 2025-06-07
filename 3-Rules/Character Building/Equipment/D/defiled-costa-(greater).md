@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` envision  * * *  This still-bloody rib was taken from a priest of Urgathoa at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [[Spells/Mask of Terror|Mask of Terror]] spell cast using this catalyst, it also takes 6d10 mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. A creature who critically fails against this safe is killed instantly. This effect has the incapacitation trait.  Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

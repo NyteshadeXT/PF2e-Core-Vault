@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This waterskin coruscates with holy energy, causing it to slowly fill itself with special blessed water unique to the item. After using any of the activations, the waterskin is empty, but slowly refills itself. It becomes full enough to use again at the next dawn.  * * *  **Activate** `pf2:2` command, Interact  **Requirements** The anointed waterskin is full  * * *  **Effect** You throw the anointed waterskin up to 60 feet. The water explodes out of it, with the effects of [[Spells/Holy Cascade|Holy Cascade]] (DC 25).  * * *  **Activate** `pf2:1` Interact  **Requirements** The anointed waterskin is full  * * *  **Effect** You drink the water within the waterskin, granting you the effects of [[Spells/Bless|Bless]]. As normal with the spell, you can increase the radius with a single action with the concentrate trait.  * * *  **Activate** 1 minute (command, Interact)  **Requirements** The anointed waterskin is full  * * *  **Effect** You decant the water, creating up to 10 vials of _[[Equipment/Holy Water|Holy Water]]_. You must provide the vials."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

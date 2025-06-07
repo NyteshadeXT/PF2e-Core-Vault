@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activation** `pf2:1` Interact  This gritty, spicy fluid causes you to grow a sixth finger on each hand and gives you a spiderlike grip.  You gain a +2 item bonus to your Reflex DC to keep from being [[Actions/Disarm|Disarmed]] and a [[Actions/Climb|Climb]] Speed of 20 feet for the listed duration.  * * *  **Duration** 8 hours.  [[Equipment Effects/Effect_ Sixfingers Elixir (Greater)|Effect: Sixfingers Elixir (Greater)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

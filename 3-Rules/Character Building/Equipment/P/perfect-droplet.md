@@ -27,12 +27,12 @@ usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
 description: "Intense blue water magically holds its shape-a perfect sphere. The spell DC of any spell cast by Activating this item is 17.  *   **Armor** You gain resistance 2 to water effects and attacks by water creatures. *   **Weapon** After you cast a water spell by Activating the _droplet_, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the water trait in this way.  [[Equipment Effects/Effect_ Perfect Droplet - Armor|Effect: Perfect Droplet - Armor]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Spout|Spout]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

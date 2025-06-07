@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  A mutator onyx is a jet-black, alien mineral first found within the walls of the Onyx Citadel but is now used primarily as an alchemical teaching or experimentation tool within Oprak. Pressing the gem into a solid, unattended inanimate object with Hardness 5 or less transforms that object's surface into a curious syrupy, liquid-like state, reducing its Hardness to 0. One mutator onyx can transform up to a 5-foot cube. After 10 minutes, the matter reverts to its solid state, regaining its Hardness."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

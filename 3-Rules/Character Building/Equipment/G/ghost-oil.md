@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The vials containing this translucent, unsubstantial oil are always cold to the touch. Applying _ghost oil_ to a melee weapon you're wielding or carrying causes it to become semitransparent and gain the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ rune, but it also makes the weapon unable to harm corporeal creatures. The oil has no effect when applied to another creature's weapon. The effect of the oil lasts for 1 minute.  [[Equipment Effects/Effect_ Ghost Oil|Effect: Ghost Oil]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

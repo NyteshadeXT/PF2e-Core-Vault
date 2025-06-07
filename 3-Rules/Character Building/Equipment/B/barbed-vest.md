@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "Viciously sharp spiked chains wrap around this [[Equipment/Studded Leather Armor|Studded Leather Armor]] that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.  The barbed vest doesn't fuse to you in the usual way. It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [[Spells/Cleanse Affliction|Cleanse Affliction]] spell.  Anytime you activate the barbed vest, its chains tighten around you, dealing 1d6 persistent piercing damage. You can remove this persistent damage as normal, but only after deactivating the item's magic as a single action.  **Activate** `pf2:2` Interact  **Frequency** Once per day  * * *  **Effect** The barbed vest casts [[Spells/Spiritual Weapon|Spiritual Weapon]], summoning a [[Equipment/Spiked Chain|Spiked Chain]] to fight for you."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

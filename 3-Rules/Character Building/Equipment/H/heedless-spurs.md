@@ -27,12 +27,12 @@ usage: "wornanklets"
 license: "ORC"
 identify:
 description: "These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a -1 item penalty on Stealth checks. If used as a weapon, they are treated as a [[Equipment/Spiked Gauntlet|Spiked Gauntlet]].  **Activate** `pf2:1` Interact  **Frequency** once per 10 minutes  **Requirements** You are riding a mount  * * *  **Effect** You kick both spurs into your mount's flank. Your mount takes 2d6 bleed and gains the quickened condition for 1 minute or until the persistent bleed damage ends, whichever comes first. It can use the extra action only to Stride."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You succeed at a Strike with the affixed weapon.  * * *  This imposing fang is engraved with an intricate arrangement of symbols, glyphs, and patterns and dangles from a leather strap bound to the hilt of the affixed weapon. When you Activate the trophy, your weapon is momentarily transformed into a magical construct of draconic fury. On the triggering Strike and until the end of your next turn, the damage type of the affixed weapon changes to the type matching the dragon the claw came from. This change overrides the versatile trait and similar abilities.  * * *  **Craft Requirements** Supply one tooth from an adult or older dragon."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

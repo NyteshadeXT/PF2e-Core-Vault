@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Bound in sturdy leather, this thick book has several colorful bookmarks and page dividers. Its title and text shift between numerous languages.  **Activate** `pf2:0` envision  **Frequency** once per day  **Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[Spells/Translate|Translate]] or [[Spells/Truespeech|Truespeech]]  * * *  **Effect** The grimoire absorbs knowledge of one language translated this way (caster's choice if more than one), allowing its bearer to communicate on a rudimentary level in that language even after the spell's duration has elapsed. The _linguist's dictionary_ can hold one language at a time."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

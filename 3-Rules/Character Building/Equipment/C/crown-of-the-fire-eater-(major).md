@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "A wreath of flames dances around the rim of this golden crown. You gain resistance 15 to fire.  * * *  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger** You take fire damage  * * *  **Effect** You absorb some of the flame that would harm you. Increase your fire resistance from the crown from 15 to 35. Just after taking any remaining fire damage, you regain a number of Hit Points equal to 35 or the fire damage dealt by the triggering attack before damage resistance, whichever is less."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

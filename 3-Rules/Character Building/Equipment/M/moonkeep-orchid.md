@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "These magical flowers are infused with the power to counteract the curse of the werecreature. Intentionally growing these flowers is nearly impossible, as they don't produce seeds, and the primal magic required to produce them has been lost to time. They occasionally grow in places where a particular powerful werecreature is buried, though if an exact process to guarantee their growth exists, it remains a mystery.  This pale orchid glows nearly white when exposed to moonlight. When you eat the flower, you gain its protection for 3 days. During this time, your curse of the werecreature and moon frenzy don't cause you to automatically transform during a full moon, and you retain full control of your faculties during a full moon."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

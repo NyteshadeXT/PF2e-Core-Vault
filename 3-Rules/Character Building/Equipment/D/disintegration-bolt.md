@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  The shaft of this bolt is scorched and blackened, and handling it coats your fingers with a fine black powder. When an activated _disintegration bolt_ hits a target, it is subject to a [[Spells/Disintegrate|Disintegrate]] spell requiring a DC 34 Fortitude check save. As with the spell, a critical hit on the attack roll causes the target's saving throw outcome to be one degree worse.  * * *  **Craft Requirements** Supply one casting of _disintegrate_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

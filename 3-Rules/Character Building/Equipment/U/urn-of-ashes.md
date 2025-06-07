@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  **Activate—Doom the Urn** `pf2:r` (concentrate)  **Trigger** You would become [[Conditions/Doomed|Doomed]], or your doomed value would increase  **Requirements** The ashes aren't doomed  * * *  **Effect** The ashes in the urn intervene, taking the doomed condition in your place, and you don't gain or increase the value of your doomed condition. Each night when you get a full night's rest, you can reduce your own doomed condition or that of the urn, but not both.  * * *  **Activate—Spirit's Wrath** `pf2:1` (attack, concentrate, manipulate)  **Frequency** once per round  * * *  **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

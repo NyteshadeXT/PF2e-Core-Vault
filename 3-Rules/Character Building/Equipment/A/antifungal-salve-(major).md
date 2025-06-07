@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This foul-smelling pink paste is traditionally kept in a tightly sealed jar. Spreading the salve on exposed skin grants a +4 item bonus to saving throws against all afflictions that have the fungus trait or that originate from creatures with the fungus trait. The bonus lasts for 6 hours.  When you apply the salve, the target can immediately attempt a saving throw against one fungal affliction of 14th level or lower that is affecting them. If they succeed, the affliction is neutralized.  [[Equipment Effects/Effect_ Antifungal Salve|Effect: Antifungal Salve]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

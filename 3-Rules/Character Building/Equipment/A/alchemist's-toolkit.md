@@ -33,13 +33,13 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: ""
-actionEconomy: 
+powerTitle1: ""
+actionEconomy1: 
 type: 
 frequency: 
 requirement:
-trigger:
-mechanics: ""
+trigger1:
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #

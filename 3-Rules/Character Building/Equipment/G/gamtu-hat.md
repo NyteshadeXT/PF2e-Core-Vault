@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "You conjure a magical gamtu hat, which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear.  **Activate—Hat Trick** `pf2:2` (manipulate)  * * *  **Effect** You tap the hat and gain the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell, which lasts for the spell's normal duration, until the hat is removed, or until the hat's normal duration runs out, whichever comes first. After the spell ends, the gamtu disappears."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

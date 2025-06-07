@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This ornate metal staff shines with precious inlays of gold. When you Cast a Spell from the staff, the illusory image of something you desire flashes across its surface. While wielding the staff, you gain a +2 status bonus to checks to disbelieve an illusion.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Figment|Figment]] *   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Illusory Object|Illusory Object]] *   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Object|Illusory Object]], [[Spells/Item Facade|Item Facade]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "worngarment"
 license: "ORC"
 identify:
 description: "Although not all wizards have gone through formal training, it's become tradition to enchant robes representing the arduous training required and festoon them with honors one has earned. Typically, an _accolade robe_ is styled after a single wizard school, with appropriate colors and symbols. Wearing these robes grants a +3 item bonus to Arcana checks.  The pockets of the robe tie to an extradimensional space that can hold 1 Bulk of items, none of which can have greater than light Bulk. The items must be related to spellcasting and academics—spellbooks, scrolls, wands, scholarly journals, and other academic supplies the GM allows. These items do not count against your Bulk limit. You can Interact to retrieve or stow items normally."
-powerTitle: "Review"
-actionEconomy: 1
+powerTitle1: "Review"
+actionEconomy1: 1
 type: ([[concentrate]], [[manipulate]])
 frequency: "You can activate the robe's Review once per minute as a free action."
-trigger:
-mechanics: "You retrieve an item of your choice from the robe's storage, then Recall Knowledge."
+trigger1:
+mechanics1: "You retrieve an item of your choice from the robe's storage, then Recall Knowledge."
 powerTitle2: "Extra Credit"
 actionEconomy2: 0
 type2: ([[Concentrate]])

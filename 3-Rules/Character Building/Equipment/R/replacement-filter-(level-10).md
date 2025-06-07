@@ -27,12 +27,12 @@ usage: "bonded"
 license: "ORC"
 identify:
 description: "A replacement filter for a [[Equipment/Water Purifier|Water Purifier]]. The counteract modifier using this filter is +17."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

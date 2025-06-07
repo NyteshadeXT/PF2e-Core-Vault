@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "This _+1 resilient leather armor_ has four knobbed ribs that wrap around the torso. The armor grants you resistance 5 to poison damage.  * * *  **Activate** `pf2:1` command  **Frequency** once per 10 minutes  **Effect** The ribs from the armor spread into functional spider limbs. For 1 minute, you gain a climb Speed equal to half your land Speed and have your limbs free as you climb. If you use all your free limbs to help you Climb, your climb Speed equals your land Speed.  [[Equipment Effects/Effect_ Arachnid Harness|Effect: Arachnid Harness]]  * * *  **Craft Requirements** The initial raw materials must include four intact legs from a goliath spider."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

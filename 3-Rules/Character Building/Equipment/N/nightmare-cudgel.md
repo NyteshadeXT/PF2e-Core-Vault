@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Crafted from polished wood, this seemingly mundane _+1 striking [[Equipment/Club|Club]]_ comes with a red leather strap near the handle. The mere sight of the cudgel in a guard's hand fills prisoners with dread.  Good creatures are [[Conditions/Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.  * * *  **Activate** `pf2:2` Interact (emotion, mental)  **Frequency** once per day  * * *  **Effect** You initiate an intimidating walk, thumping the cudgel menacingly against your palm. As part of activating this item, you can Stride twice. For the next minute, whenever you successfully Strike a creature with the _nightmare cudgel_, you can use a free action to attempt an Intimidation check to [[Actions/Demoralize|Demoralize]] the struck creature."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

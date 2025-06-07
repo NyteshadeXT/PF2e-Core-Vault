@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This lockpick houses a small compartment containing many smaller picks and other miniature tools. The lockpick itself is surprisingly malleable, belying the components within. An almost-impossible number of other tools are hidden in the compartment, including an entire set of [[Equipment/Thieves' Toolkit (Infiltrator)|Infiltrator Thieves' Tools]] and any [[Equipment/Thieves' Toolkit (Infiltrator Picks)|Replacement Picks (Infiltrator Picks)]], an [[Equipment/Disguise Kit (Elite)|Elite Disguise Kit]] and any [[Equipment/Disguise Kit (Elite Cosmetics)|Replacement Cosmetics (Elite)]], and an [[Equipment/Climbing Kit (Extreme)|Extreme Climber's Kit]], all while still somehow remaining only light Bulk. This makes the encompassing lockpick a favorite discreet option for rogues infiltrating high society events, as formal wear generally has few pockets and only allows a character to wear a single tool kit of light Bulk."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

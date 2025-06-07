@@ -27,12 +27,12 @@ usage: "worngloves "
 license: "ORC"
 identify:
 description: "Your hands fit through the venomous mouths of this pair of handwraps made from amphisbaena skin. Your unarmed strikes gain the versatile P trait. _Amphisbaena handwraps_ can have weapon runes etched onto them, similar to [[handwraps-of-mighty-blows|Handwraps of Mighty Blows]]."
-powerTitle: "Twin Venom Strike"
-actionEconomy: 2
+powerTitle1: "Twin Venom Strike"
+actionEconomy1: 2
 type: "([[manipulate]])"
 frequency: "once per hour"
-trigger:
-mechanics: "Make two unarmed Strikes. Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until after both attacks. Each Strike deals an additional 1d6 poison damage."
+trigger1:
+mechanics1: "Make two unarmed Strikes. Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until after both attacks. Each Strike deals an additional 1d6 poison damage."
 powerTitle2:
 actionEconomy2:
 type2:

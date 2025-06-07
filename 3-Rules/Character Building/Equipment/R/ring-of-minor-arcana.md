@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "This rose-gold ring is adorned in the center by a somewhat ominous-looking horned skull. This ring gives you the power to cast the following innate arcane cantrips any number of times each day: [[Spells/Detect Magic|Detect Magic]], [[Spells/Telekinetic Hand|Telekinetic Hand]], and [[Spells/Prestidigitation|Prestidigitation]]. Each is cast as a 1st-rank spell. If you are an arcane spellcaster, these can instead be heightened to the rank of your cantrips."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

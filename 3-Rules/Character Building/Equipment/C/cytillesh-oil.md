@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` (manipulate)  * * *  This thick substance is distilled from the mind-robbing cytillesh fungus, though it lacks memory-altering capabilities.  **Saving Throw** DC 19 Fortitude check  **Maximum Duration** 4 rounds  **Stage 1** 1d8 poison damage (1 round)  **Stage 2** 1d10 poison damage (1 round)  **Stage 3** 2d8 poison damage (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

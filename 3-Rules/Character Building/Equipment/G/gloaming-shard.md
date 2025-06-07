@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "The blade of this _+2 striking returning dagger_ shines the color of twilight, with a triangular lattice design on the hilt. A thin string of darkness connects your shadow to that of the blade, even once it leaves your hand.  * * *  **Activate** `pf2:2` Interact (shadow, teleportation)  **Frequency** once per hour  * * *  **Effect** You make a thrown Strike with the gloaming shard at a target within 60 feet. Whether you hit or miss, rather than returning to you, the blade pulls you down into your own shadow and along the connecting thread. You instantly teleport to a space adjacent to the target of your Strike, as [[Spells/Translocate|Translocate]], and then catch the dagger in your hand."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost. Eating one journeybread provides all the food and water you need for a day. If you subsist on nothing else for a week, you become temporarily immune to journeybread until you eat real food and drink water normally for 24 hours.  In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to Athletics checks to [[Actions/Climb|Climb]], [[Actions/Force Open|Force Open]], and [[Actions/Swim|Swim]], and to Fortitude saving throws against being sickened. The number of minutes you can [[Actions/Hustle|Hustle]] changes to your Constitution modifier × 20. These benefits last for 4 hours.  [[Equipment Effects/Effect_ Journeybread (Power)|Effect: Journeybread (Power)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

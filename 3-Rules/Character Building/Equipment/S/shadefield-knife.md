@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking dagger_ made of black stone is carved from the bloodstained earth of the Shadefields and carries the grudge of the Shoanti who perished on that battlefield.  **Activate—Vengeful Blood** `pf2:1` (concentrate, emotion, fear, mental, visual)  **Frequency** once per hour  * * *  **Effect** Blood seeps out of the knife, coating your hand. Enemies within 30 feet who can see this must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] (frightened 1 and [[Conditions/Doomed|Doomed 1]] on a critical failure). The knife continues to bleed for 1 minute or until you make a successful Strike with it, which deals an additional 1d6 persistent bleed damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

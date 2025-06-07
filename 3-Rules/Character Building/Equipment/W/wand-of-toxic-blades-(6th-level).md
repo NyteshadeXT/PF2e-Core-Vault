@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This slender metal wand is tinted green and small images of bladed weapons are etched on its surface.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Equipment/Cave Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.  * * *  **Craft Requirements** Supply a casting of [[Spells/Blade Barrier|Blade Barrier]] of the appropriate rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

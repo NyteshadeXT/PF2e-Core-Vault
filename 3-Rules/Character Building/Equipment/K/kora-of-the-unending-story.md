@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This 21-stringed instrument symbolizes connectivity with the past, present, and future. The kora grants a +2 item bonus to Performance checks made to tell stories when used to accompany song or speech.  The _kora of the unending story_ is a coda instrument—an item that functions like a staff but in the form of a musical instrument.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the kora to cast a spell from its list.  *   **Cantrip** [[Spells/Read Aura|Read Aura]] *   **1st** [[Spells/Object Reading|Object Reading]] *   **2nd** [[Spells/Augury|Augury]] *   **3rd** [[Spells/Mind Reading|Mind Reading]] *   **4th** [[Spells/Read Omens|Read Omens]] *   **5th** [[Spells/Vision of Death|Vision of Death]] *   **6th** [[Spells/Object Reading|Object Reading]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

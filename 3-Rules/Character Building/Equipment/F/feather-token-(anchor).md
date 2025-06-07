@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This feather can be activated only on a boat. When activated, this feather transforms into a massive anchor that causes the boat to immediately stop. After 1 day, the anchor vanishes and the boat can move as normal. The anchor is attached to the boat by a magical chain of force, but the chain can be removed by [[Spells/Dispel Magic|Dispel Magic]] or destroyed (Hardness 30, HP 40)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "etched onto melee weapon"
 license: "ORC"
 identify:
 description: "Small roots grow along the surface of the weapon, clinging tightly to its contours. On a critical hit with the weapon, roots grow from the target. It's [[Conditions/Immobilized|Immobilized]] for 1 round ([[Actions/Escape|Escape]] DC 41) and [[Conditions/Clumsy|Clumsy 1]] for as long as the immobilization lasts."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

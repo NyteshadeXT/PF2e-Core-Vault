@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "Your exposed skin is covered in fine, needle-like hairs that you can flick into the eyes of enemies.  * * *  **Activate—Urticating Burst** `pf2:2` (manipulate)  **Frequency** once per day  **Effect** You flick tiny spines in a 15-foot cone, dealing 5d8 piercing damage to all creatures in the area with a DC 23 Reflex check save. On a critical failure, the creature is also [[Conditions/Blinded|Blinded]] until the end of their next turn."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This large blue toadstool glimmers with soft, magical light similar to moonlight. The spots of white adorning the mushroom's cap glow ethereally, as if illuminated from the inside, shedding dim light in a 10-foot radius.  **Activate—Ward Area** 10 minutes (concentrate, light, manipulate)  * * *  **Effect** You plant the toadstool in the ground, allowing it to connect to all living fungi and plant matter within 120 feet of its planting. For 8 hours, any corporeal creature that touches the affected matter even accidentally begins to glow with bright magical light in a 10-foot emanation, which persists as long as they remain within 120 feet of the planted mushroom. A creature can move through an area containing affected fungi and plant matter without touching it by treating the area as difficult terrain and succeeding at a DC 18 Acrobatics check check."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

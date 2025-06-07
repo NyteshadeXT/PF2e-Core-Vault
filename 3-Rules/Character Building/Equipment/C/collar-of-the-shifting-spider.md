@@ -27,12 +27,12 @@ usage: "worncollar"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` Interact  This intimidating collar contains a hollow central tube and ends in twin metal points shaped like spider fangs. The collar can be filled with an alchemical mutagen as an Interact action. As a free action triggered when you roll initiative, you can activate the collar, causing the metal points to dig into your neck, inflicting 1 piercing and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

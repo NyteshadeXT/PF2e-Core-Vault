@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "A star inked on the back of the hand, usually between the thumb and forefinger, keeps you on the right path.  **Activate** `pf2:2` envision, Interact  * * *  **Effect** As you hold up your hand and align the star in view, you learn which direction you're facing."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

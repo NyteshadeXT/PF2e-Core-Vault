@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *  White, pillowy dough surrounds an interior containing minced meats, spices, and herbs. The dough is steamed with elemental magic to make it light and airy while keeping the meaty center moist.  When you consume a bun, a set of small clouds form around your feet that grant you a fly Speed of 30 feet or your speed, whichever is lower, for 1 minute.  You also have a +2 item bonus to Acrobatics checks to [[Actions/Maneuver in Flight|Maneuver in Flight]].  [[Equipment Effects/Effect_ Cloud Buns (Greater)|Effect: Cloud Buns (Greater)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This crooked staff is made from twisting acacia wood and has a sphere of rough sandstone embedded in the top, to channel the magic of the desert. When wielding this staff in deserts, you gain a +1 circumstance bonus to Survival checks to Subsist, Track, and Cover Tracks.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from the staff's list.  * * *  *   **Cantrip** [[Spells/Know the Way|Know the Way]] *   **1st** [[Spells/Create Water|Create Water]], [[Spells/Vanishing Tracks|Vanishing Tracks]] *   **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Enhance Victuals|Enhance Victuals]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

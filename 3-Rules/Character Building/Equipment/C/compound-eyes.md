@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "You replace your eyes with ones similar to an insect's or a crustacean's, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that's [[Conditions/Concealed|Concealed]] from you, you can roll twice and take the better result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

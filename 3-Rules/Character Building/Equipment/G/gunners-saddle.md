@@ -27,12 +27,12 @@ usage: "wornsaddle"
 license: "ORC"
 identify:
 description: "Developed by marauders from the Mana Wastes, this clockwork saddle comes with a retractable weapon mount that can be used as a tripod to stabilize a weapon with the kickback trait. Just like a normal tripod, you Interact to deploy the tripod to stabilize the firearm, and then again to retract the tripod to move it. The saddle uses complex hydraulics to protect the steed from the firearm's recoil."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

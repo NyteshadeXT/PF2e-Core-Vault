@@ -27,13 +27,13 @@ usage: "affixed to firearm"
 license: "ORC"
 identify:
 description: "A tiny copper gear is attached to the side of a firearm with a matching bolt or pin."
-powerTitle: "Adapt"
-actionEconomy: 0
+powerTitle1: "Adapt"
+actionEconomy1: 0
 type: ([[concentrate]])
 frequency:
 requirement: "You're wielding the affixed firearm."
-trigger:
-mechanics: "When you activate the _adaptive cogwheel_, the affixed weapon magically transfigures itself into the form of any simple or martial firearm to which you have access, harmlessly ejecting any contained ammunition in the process. Any runes or attached items present on the affixed weapon remain active unless incompatible with its new form, in which case they're suppressed for the duration of the transformation. The effect lasts until the beginning of your next turn."
+trigger1:
+mechanics1: "When you activate the _adaptive cogwheel_, the affixed weapon magically transfigures itself into the form of any simple or martial firearm to which you have access, harmlessly ejecting any contained ammunition in the process. Any runes or attached items present on the affixed weapon remain active unless incompatible with its new form, in which case they're suppressed for the duration of the transformation. The effect lasts until the beginning of your next turn."
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "wornheadwear"
 license: "ORC"
 identify:
 description: "This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and is adorned with symbols or runes. It grants you a +1 item bonus to Arcana checks and allows you to cast the [[Spells/Prestidigitation|Prestidigitation]] cantrip as an arcane innate cantrip."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

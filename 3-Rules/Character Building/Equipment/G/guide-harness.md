@@ -27,12 +27,12 @@ usage: "worn"
 license: "ORC"
 identify:
 description: "The grip of this guide harness fits comfortably in the hand. Guide harnesses are purpose-built for low-sight or blind adventurers who have guide animals. Usually fastened with side straps placed through a martingale, guide harnesses can be easily reconfigured to allow them to be worn by any animal companion."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

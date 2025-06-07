@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "These thieves' tools provide their owner the ability to have continued control over a lock while leaving it in place. They grant a +1 item bonus to Thievery checks to Pick a Lock. Upon completely opening a lock by picking it with these tools, the tools produce a temporary copy of the key for the picked lock. This phantom key can lock or unlock the lock just like the original key. The key appears attached to the thieves' tools case by a fine silver chain and lasts for 12 hours before it fades into nothing. Only one key created this way can exist in the same set of thieves' tools. Creating a new key replaces the previous one."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

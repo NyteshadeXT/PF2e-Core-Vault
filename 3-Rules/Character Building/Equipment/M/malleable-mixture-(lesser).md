@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Your bones, muscles, and organs become vastly softer and more pliable. You can fit into and through small or narrow spaces as though you were 1 size smaller than your normal size (minimum small), and you gain a +2 item bonus to your Fortitude and Reflex DCs against attempts to Grapple, Shove, or Trip you for 1 minute.  [[Equipment Effects/Effect_ Malleable Mixture (Lesser)|Effect: Malleable Mixture (Lesser)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

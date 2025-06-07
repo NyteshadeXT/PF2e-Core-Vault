@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This snare forces air through several high-pitched, whistle-like pipes or reeds. The shrill noise can be heard clearly up to 2 miles away but is most intense near the snare's trigger. The snare deals 4d6 sonic damage (DC 22 Fortitude check save) to creatures within 10 feet; a creature that fails this save is [[Conditions/Deafened|Deafened]] for 1 round (1 hour on a critical failure). The triggering creature is deafened for 1 minute on a failure, or 1 hour on a critical failure."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

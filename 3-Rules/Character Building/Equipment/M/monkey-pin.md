@@ -27,12 +27,12 @@ usage: "affixed to armor"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (concentrate)  * * *  This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a [[Actions/Climb|Climb]] action with a +1 item bonus on the check. On this check and until the end of your turn, if you succeed on an Athletics check to Climb, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

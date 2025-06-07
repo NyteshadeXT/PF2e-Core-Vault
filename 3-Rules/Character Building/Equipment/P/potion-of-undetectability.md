@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this dull-black liquid makes you undetectable to detection effects.  This grants the same effects as [[Spells/Hidden Mind|Hidden Mind]] but without the bonus against mental effects. You also gain the effects of a 4th-rank [[Spells/Invisibility|Invisibility]] spell, which protects against [[Spells/See the Unseen|See the Unseen]] spells of 8th rank and lower and has a DC of 36 against [[Spells/Truesight|Truesight]].  The potion's effects last for 10 minutes."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

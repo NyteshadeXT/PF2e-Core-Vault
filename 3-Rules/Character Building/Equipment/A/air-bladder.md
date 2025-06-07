@@ -29,14 +29,14 @@ description: "This weighted animal bladder can be inflated with air in preparati
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
-actionEconomy: 
+powerTitle1: "Effect"
+actionEconomy1: 
 type: 
 frequency: 
 requirement:
 activation:
-trigger:
-mechanics: "As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath. You can inflate the bladder or remove its attached weight as an Interact action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round."
+trigger1:
+mechanics1: "As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath. You can inflate the bladder or remove its attached weight as an Interact action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #

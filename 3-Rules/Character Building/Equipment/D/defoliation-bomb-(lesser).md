@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  This brightly painted ceramic sphere contains chemicals that cause plants to wither and die. A defoliation bomb deals the 1d6 void damage, 1d4 persistent void damage, and 1 void splash damage to all plants in the area. Non-creature plants in the area immediately wither and die."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

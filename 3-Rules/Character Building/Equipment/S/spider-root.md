@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim clumsy and maladroit.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 28 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 minute)  **Stage 2** 4d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 minute)  **Stage 3** 6d6 poison damage and [[Conditions/Clumsy|Clumsy 3]] (1 minute)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

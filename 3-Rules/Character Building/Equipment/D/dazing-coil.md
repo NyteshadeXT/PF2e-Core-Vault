@@ -27,12 +27,12 @@ usage: "affixed to weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` (concentrate)  **Trigger** You deal damage to an [[Conditions/Off-Guard|Off-Guard]] creature with the affixed weapon  * * *  This knot of copper wire reshapes itself in a new pattern every time its affixed weapon deals damage. When you activate the coil, the damaged creature must succeed at a DC 31 Will check save or be [[Conditions/Stunned|Stunned 1]]. If it critically fails, it instead becomes [[Conditions/Stunned|Stunned 2]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

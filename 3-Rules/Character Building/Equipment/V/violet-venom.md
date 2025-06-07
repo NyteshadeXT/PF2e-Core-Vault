@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.  * * *  **Activate** `pf2:1` Interact (Contact)  **Saving Throw** DC 17 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage plus [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 1d6 poison damage plus [[Conditions/Drained|Drained 1]] (1 round)  **Stage 3** 2d6 poison damage plus enfeebled 1 (1 round)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

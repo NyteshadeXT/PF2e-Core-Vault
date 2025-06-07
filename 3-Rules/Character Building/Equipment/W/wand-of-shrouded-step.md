@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "When you move this delicately carved poplar wand, it looks indistinct, leaving a trail of afterimages in its wake.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.  * * *  **Craft Requirements** Supply a casting of [[Spells/Fleet Step|Fleet Step]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

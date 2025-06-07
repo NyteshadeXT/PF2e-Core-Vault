@@ -27,12 +27,12 @@ usage: "implanted"
 license: "ORC"
 identify:
 description: "You have a strong, prehensile tail. You gain a tail unarmed attack that deals 1d6 bludgeoning damage. This tail is in the brawling group. You gain a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] and to Athletics checks to Climb. You can also use your tail for the [[Actions/Grab an Edge|Grab an Edge]] action, even if your hands are otherwise occupied.  You can use your tail unarmed attack to [[Actions/Grapple|Grapple]] even if you don't have a free hand. You gain a +2 item bonus to Athletics checks to Grapple."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "The battle saddle is a special saddle for a mount that has two large, winglike blades. These blades normally lie flat alongside the saddle, providing additional protection for the rider, but they can be deployed with a tug on the reins to slash at enemies adjacent to the mount. When using a battle saddle to parry, you can decide whether the circumstance bonus to AC applies to you or to your mount."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  A _Sairazul blue_ potion is a rich navy blue in color. Subjects of the Crystalline Queen produced the potion to protect themselves from the radiation Ayrzul left behind. For the next 8 hours, your skin becomes navy blue, and you gain resistance 5 to poison damage and void damage.  [[Equipment Effects/Effect_ Sairazul Blue|Effect: Sairazul Blue]]  If you drop to 0 Hit Points due to poison or void damage, the _Sairazul blue_ within your body reacts, healing you for 8d8 healing Hit Points. The resistances the potion grants then end."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

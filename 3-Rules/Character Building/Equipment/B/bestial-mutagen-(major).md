@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Your features transform into something bestial and lumbering.  **Benefit** You gain a +4 item bonus to Athletics checks and unarmed attack rolls. You gain a claw unarmed attack (4d8 slashing damage) with the agile trait and a jaws unarmed attack (4d10 piercing damage). [[Equipment/Striking|Striking]] runes don't modify the damage caused by these attacks. You gain weapon specialization with the claw and jaws, or greater weapon specialization if you already have weapon specialization with these unarmed attacks.  **Drawback** You take a -2 penalty to Reflex saves, Acrobatics checks, and Stealth Checks.  **Duration** 1 hour.  [[Equipment Effects/Effect_ Bestial Mutagen (Major)|Effect: Bestial Mutagen (Major)]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

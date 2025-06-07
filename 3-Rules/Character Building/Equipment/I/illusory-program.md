@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Produced to promote plays, _illusory programs_ are thin pamphlets infused with minor magic. Upon opening one of these pamphlets, readers are treated to a series of tiny illusions that stand on each page, typically showcasing highlights of the performance or profiles of the cast. The magic woven into each page is of the cheap, short-lived variety, fading 24 hours after the program has been opened."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

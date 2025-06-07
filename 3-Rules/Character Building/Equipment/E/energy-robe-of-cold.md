@@ -27,12 +27,12 @@ usage: "wornclothing"
 license: "ORC"
 identify:
 description: "This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to cold.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain the effects of [[Spells/Water Walk|Water Walk]] for 1 minute, as you momentarily flash freeze the surface of water as you walk across it."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

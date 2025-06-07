@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Hardened clumps of _amphisbaena spittle_ can be harvested from the dual-headed snake's hunting grounds."
-powerTitle: "Effect"
-actionEconomy: 
+powerTitle1: "Effect"
+actionEconomy1: 
 type: "([[Cast a Spell]])"
 frequency:
-trigger:
-mechanics: "When a casting of [[Web of Eyes]] is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being flanked until the start of its next turn."
+trigger1:
+mechanics1: "When a casting of [[Web of Eyes]] is empowered with this catalyst, you can place an additional scrying sensor on the back of each target's head, in the shape of a closed snake's eye. When a target shares their vision with the others affected by the spell, the eye blinks open, preventing the target from being flanked until the start of its next turn."
 powerTitle2:
 actionEconomy2:
 type2:

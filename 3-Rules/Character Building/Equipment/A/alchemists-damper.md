@@ -27,12 +27,12 @@ usage: "affixed to firearm with the kickback trait"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You attack with the affixed firearm  **Requirements** You're an expert with the affixed firearm.  * * *  A glass tube of mercury is contained within this golden clasp that's fitted in front of a firearm's trigger. On the triggering Strike, the mercury turns briefly to gold, reducing the effect of recoil, allowing you to ignore the circumstance penalty of the attached weapon's kickback weapon trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

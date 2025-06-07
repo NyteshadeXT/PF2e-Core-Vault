@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  This black incense smells of fresh earth and ash. You activate the incense by lighting it, whereupon it fills a 10-foot emanation with oily smoke and potent void energy. _Undead_ creatures, including _incorporeal_ undead, gain fast healing 4 while in the area; though this healing comes from void energy, it doesn't negatively impact living creatures. Once lit, the incense burns for 1 minute, and it can't be extinguished."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

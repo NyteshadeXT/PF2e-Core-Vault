@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Used by gunwitches who want a bit more power each day, a _pistol wand_ is a firearm that also contains an [[Spells/Enfeeble|Enfeeble]] spell that can be cast using the same rules as a wand. Many other variants exist with different 1st-rank spells. This _+1 flintlock pistol_ has a [[Equipment/Reinforced Stock|Reinforced Stock]] permanently attached to it, and the pistol's _potency rune_ (and any other runes) applies to Strikes with the stock as well.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast _enfeeble_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

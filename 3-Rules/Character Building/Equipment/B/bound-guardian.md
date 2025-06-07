@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "A bound guardian is a tattoo guardian bonded to your skin, which you can temporarily animate to protect you. If your soul leaves your body, your tattoo guardian might be destroyed (see the sidebar, Bestiary 3 262).  **Activate** `pf2:3` command, envision, Interact (conjuration)  **Frequency** once per day  * * *  **Effect** You animate your tattoo guardian, otherwise using the duration and other parameters of a 4th-rank [[Spells/Summon Construct|Summon Construct]] spell. You can have the guardian Fly Free as part of Activating your tattoo. If your tattoo guardian drops to 0 HP, the activation ends, and the inanimate tattoo returns to your skin."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

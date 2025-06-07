@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "In an effort to spread the knowledge of magic as widely as possible, worshippers of Nethys discovered a way to bind cantrips into cards accessible even to non-spellcasters. The deck contains thick parchment cards, each roughly half the size of a playing card. In precise, no-nonsense script, each card simply states the name of its cantrip, color-coded based on its school.  This pack contains 5 cards of a single common cantrip.  * * *  **Activate** `pf2:1` or more (envision, Interact)  * * *  **Effect** You envision your desired cantrip, causing its card to rise to the top of the deck, and draw the card. The deck casts that cantrip as a 1st-rank spell, with a DC of 15 and a spell attack modifier of +5. The card crumbles into dust as the cantrip takes effect. The activation takes the same number of actions as the cantrip you chose takes to cast."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

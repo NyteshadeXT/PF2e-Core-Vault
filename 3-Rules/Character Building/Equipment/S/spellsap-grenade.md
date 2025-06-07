@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  The mixture of reagents, liquid djezet, and solid metal shrapnel inside this grenade explodes on contact with air. A _spellsap grenade_ deals3d4 slashing damage and 3 splash damage. You gain a +2 item bonus to attack rolls. On a hit against a prepared or spontaneous spellcaster, the target must succeed at a DC 30 Will check or lose one prepared spell or one spontaneous spell slot. The spell is randomly selected from among the caster's highest three spell ranks (and then from among the spells prepared in that rank, for a prepared spellcaster)."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

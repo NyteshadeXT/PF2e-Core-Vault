@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "Caution and misdirection are the hallmarks of your hold. You've encountered more travelers than most of Belkzen's holds ever see, and you need to understand how to deal with them. You're a proud member of the Cleft Head Hold or have been found worthy of wearing their mark. This tattoo is a crooked line that begins high above one eye and zigzags toward your mouth. The tattoo's grim appearance can help mask your true motivations. You gain a +2 item bonus to Deception checks to [[Actions/Feint|Feint]].  **Activate—Unexpected Strike** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** You Strike a creature that has the [[Conditions/Off-Guard|Off-Guard]] condition with a weapon attack  * * *  **Effect** You deal an extra 2d6 precision damage to the target."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

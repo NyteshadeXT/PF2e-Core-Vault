@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** Cast a Spell  * * *  This delicate strand of spiderweb sticks to the target of a [[Spells/Spider Sting|Spider Sting]] spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become [[Conditions/Clumsy|Clumsy]] instead of [[Conditions/Enfeebled|Enfeebled]]."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

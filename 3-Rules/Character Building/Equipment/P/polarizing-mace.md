@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Even grasping the amber handle of this _+1 striking shock light mace_ makes your hair stand on end.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  **Requirements** The wielder of a _grounding spike_ is within 30 feet  * * *  **Effect** A great surge of electricity connects your paired weapons. All creatures in a line between you and the wielder of the grounding spike take 4d12 electricity (DC 24 Reflex check).  **Special** The polarizing mace pairs with the _grounding spike_."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

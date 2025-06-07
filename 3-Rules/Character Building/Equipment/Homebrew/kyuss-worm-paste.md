@@ -29,14 +29,14 @@ description: "This cup-sized container holds a greenish-brown sludge that reeks 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
-actionEconomy: 3
+powerTitle1: "Effect"
+actionEconomy1: 3
 type: "[[manipulate|Manipulate]]"
 frequency: 
 requirement:
 activation:
-trigger:
-mechanics: "The creature gains immunity to Kyuss worm infestation for 1 hour. Any Kyuss worm or similar parasite that touches the creature during this time dies instantly.  If thrown directly onto a spawn of Kyuss, the paste destroys the worms animating it, reverting it into a normal zombie. This requires a successful Strike using the container (typically an improvised ranged weapon with a 10-foot range increment)."
+trigger1:
+mechanics1: "The creature gains immunity to Kyuss worm infestation for 1 hour. Any Kyuss worm or similar parasite that touches the creature during this time dies instantly.  If thrown directly onto a spawn of Kyuss, the paste destroys the worms animating it, reverting it into a normal zombie. This requires a successful Strike using the container (typically an improvised ranged weapon with a 10-foot range increment)."
 
 
 #========================================================#
@@ -293,7 +293,7 @@ function createPowerBlock(powerTitle, actionEconomy, type, frequency, activation
   }
 
   if (trigger && trigger.trim() !== "") {
-    sectionLines.push(`**Trigger:** ${trigger}`);
+    sectionLines.push(`**trigger1:** ${trigger}`);
   }
 
   const combinedOutput = sectionLines.length > 0 ? sectionLines.join("\n\n") + "\n\n" : "";

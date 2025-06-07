@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Hammer (Str)  **Alignment** chaotic good  * * *  _The Big Sky_ represents widespread change or liberation. As long as you have _The Big Sky_ invested, you gain a +2 item bonus to Perception checks made while you are flying outside during the day and to any check made to [[Actions/Escape|Escape]]. The bonus increases to +3 if you are at least 17th level.  **Activate** `pf2:2` envision  **Frequency** once per day  * * *  **Effect** For 10 minutes, you and up to four creatures you touch ignore difficult terrain and effects that would give a circumstance penalty to Speed. If you are at least 17th level, the targets also ignore greater difficult terrain."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably over the hand. Though a little bulkier than the typical gauntlet, it still functions as a _+1 spiked gauntlet_.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You draw upon Ugly Cute's latent spiritual energy to infuse the gauntlet with forceful power. For 1 minute, _Ugly Cute's gift_ gains the advantages of a [[Equipment/Ghost Touch|Ghost Touch]] property rune and deals an additional 2 force damage on a successful Strike.  [[Equipment Effects/Effect_ Ugly Cute's Gift|Effect: Ugly Cute's Gift]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

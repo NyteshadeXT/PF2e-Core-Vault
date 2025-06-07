@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Strike  * * *  A dwarven daisy is a string of dozens of firecrackers that create tiny, loud explosions. The string ends with a short, wrapped fuse. Pulling off the wrapping in a quick motion lights the fuse and is done as part of the action to Strike. A dwarven daisy deals the listed fire damage and splash damage. A dwarven daisy also has a chance to dazzle its target. A creature struck by a dwarven daisy must succeed at a DC 16 Fortitude check save or become [[Conditions/Dazzled|Dazzled]] for 1 round.  The firework deals 1d6 fire damage and 1 fire splash damage. The DC is 16."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

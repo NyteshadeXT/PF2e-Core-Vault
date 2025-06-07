@@ -27,12 +27,12 @@ usage: "wornshoes"
 license: "ORC"
 identify:
 description: "These soft leather boots are embossed with simple woodland scenes. The boots grant a +2 item bonus to Acrobatics and allow you to ignore difficult terrain from plants and fungi.  You also gain a 10-foot climb Speed while climbing plants or fungi and don't need to use your hands to Climb them."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

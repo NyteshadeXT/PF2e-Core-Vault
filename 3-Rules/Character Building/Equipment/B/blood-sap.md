@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This potent drug is distilled from a certain tropical vine into a deep-red syrup that, over time, stains the user's lips and teeth a vivid shade of red.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 16 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 3 hours  **Stage 1** [[Conditions/Drained|Drained 1]], +1 item bonus to weapon and unarmed attack rolls, Acrobatics checks, and Athletics checks (10 minutes)  **Stage 2** [[Conditions/Slowed|Slowed 1]] (1 hour)"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

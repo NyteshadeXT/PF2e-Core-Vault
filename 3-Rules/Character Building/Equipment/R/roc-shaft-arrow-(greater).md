@@ -27,12 +27,12 @@ usage: "other"
 license: "ORC"
 identify:
 description: "**Ammunition** arrow  **Activate** `pf2:1` Interact  * * *  Each of these arrows is made from an immense roc's flight feather, most of whose vanes have been trimmed to expose the arrow's shaft. When an activated roc-shaft arrow hits a target, the arrow briefly grows a pair of avian wings and attempts to carry off the target. The target must succeed at a DC 34 Fortitude check save or be moved to a space you choose within 20 feet (30 feet on a critical failure). If this would move the target into a hazardous space, this effect gains the incapacitation trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

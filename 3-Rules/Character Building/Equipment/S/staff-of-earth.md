@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "Geometric patterns are etched into the smooth brown and gray surface of a staff of earth, which makes a solid thud whenever tapped against the ground. While wielding a staff of earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that [[Actions/Shove|Shove]] you or knock you [[Conditions/Prone|Prone]].  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Scatter Scree|Scatter Scree]] *   **1st** [[Spells/Pummeling Rubble|Pummeling Rubble]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

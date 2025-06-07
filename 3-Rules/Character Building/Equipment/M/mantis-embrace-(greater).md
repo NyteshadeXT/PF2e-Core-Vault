@@ -27,12 +27,12 @@ usage: "worngloves"
 license: "ORC"
 identify:
 description: "These stylized red gloves are constructed from plates of leather that have been treated to resemble insect chitin. The gloves grant the wearer a +3 item bonus to Athletics checks to [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]].  **Activate—Crushing Embrace** `pf2:1` (manipulate)  **Frequency** once per hour  **Requirements** You are grappling a creature  * * *  **Effect** You Strike the creature you are grappling with a melee weapon or unarmed attack. This Strike deals an additional 5d6 precision damage and gains the death trait. The body of a creature that is slain by Crushing Embrace is so gruesomely damaged that the creature's body cannot be affected by any effect that requires an intact body to function, such as the [[Spells/Talking Corpse|Talking Corpse]] spell."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+1 striking returning spear_ is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the concentrate trait.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  **Effect** You touch the ruby and hurl the spear at a square within 40 feet. When the spear lands, it detonates, dealing 6d6 fire damage (DC 23 Reflex check) to all creatures in a 10-foot emanation. It then flies back to your hand."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

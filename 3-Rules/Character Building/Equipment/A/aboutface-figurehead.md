@@ -27,12 +27,12 @@ usage: "attached to ships bow"
 license: "ORC"
 identify:
 description: "This otherwise plain-looking figurehead has the concerned expression of someone afraid they're being chased. "
-powerTitle: "Effect"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "If the vessel the figurehead is attached to has the sluggish vehicle ability, the figurehead suppresses that ability. Captains frequently give the ability to activate an _aboutface figurehead_ to the person at the helm of their ship."
+powerTitle1: "Effect"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "If the vessel the figurehead is attached to has the sluggish vehicle ability, the figurehead suppresses that ability. Captains frequently give the ability to activate an _aboutface figurehead_ to the person at the helm of their ship."
 powerTitle2: "About Face!"
 actionEconomy2: 1
 type2: ([[concentrate]], [[move]])

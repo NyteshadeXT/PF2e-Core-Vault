@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "You need thieves' tools to [[Actions/Pick a Lock|Pick Locks]] or [[Actions/Disable a Device|Disable Devices]] (of some types) using the Thievery skill. Infiltrator thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.  Smaller and made of stronger materials than most sets of thieves' tools, the items in this kit are much easier to conceal. You gain a +1 item bonus to Stealth checks to [[Actions/Conceal an Object|Conceal]] these tools.  If your thieves' tools are broken, you can repair them by replacing the lock picks with [[Equipment/Thieves' Tools (Concealable Picks)|Replacement Picks]] appropriate to your tools; this doesn't require using the Repair action."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

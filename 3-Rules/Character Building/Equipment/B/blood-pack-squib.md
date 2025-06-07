@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Used by theater troupes in combination with a fake blood pack, this bit of minor magic can simulate a dramatic and sudden wound. A _blood pack squib_ is a small unassuming stone that is keyed to a single fake blood pack in a process that takes 1 minute.  **Activate—Burst Pack** `pf2:1` (manipulate)  **Requirements** The blood pack squib must be within 20 feet of its associated fake blood pack  * * *  **Effect** You lightly squeeze the stone and the fake blood pack dramatically bursts. The creature wearing the fake blood pack gains the benefits of a punctured fake blood pack. A single creature adjacent to the creature wearing the fake blood pack must succeed at a DC 16 Reflex check save or be splattered with the fake blood, becoming [[Conditions/Dazzled|Dazzled]] until the end of their next turn. You can also activate the blood pack squib as a reaction when the fake blood pack is punctured normally."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

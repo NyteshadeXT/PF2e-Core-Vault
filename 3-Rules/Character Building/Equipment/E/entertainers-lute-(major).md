@@ -27,12 +27,12 @@ usage: "held in two hands"
 license: "ORC"
 identify:
 description: "This lustrous lute has a polished body that changes to show whatever decorations or carvings you find most appealing, or which best reinforce the story of the song you're currently playing (as a free action). Its frets are inlaid with mother of pearl. With its mix of enchantment and illusion magic, it's favored by many traveling minstrels. While playing the lute, you gain a +2 item bonus to Diplomacy and Performance checks.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Infectious Enthusiasm|Infectious Enthusiasm]] *   **1st** [[Spells/Bless|Bless]], [[Spells/Ventriloquism|Ventriloquism]] *   **2nd** [[Spells/Calm|Calm]], [[Spells/Mirror Image|Mirror Image]] *   **3rd** [[Spells/Enthrall|Enthrall]], [[Spells/Heroism|Heroism]], [[Spells/Illusory Creature|Illusory Creature]] *   **4th** [[Spells/Honeyed Words|Honeyed Words]], [[Spells/Infectious Melody|Infectious Melody]] *   **5th** [[Spells/Hallucination|Hallucination]], [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Suggestion|Suggestion]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

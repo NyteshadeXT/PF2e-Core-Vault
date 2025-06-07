@@ -28,12 +28,12 @@ group: "Property Rune"
 license: "ORC"
 identify:
 description: "Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. These runes allow for in-depth customization of items. Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: potency runes add a bonus to either attack rolls or AC, striking runes add extra weapon damage dice, a resilient rune grants a bonus to saving throws. Property runes, by contrast, grant more varied effects—typically powers that are constant while the armor is worn or that take effect each time the inscribed item is used, such as a rune that grants energy resistance or one that adds fire damage to a weapon's attacks."
-powerTitle: "Effect"
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics: "Armor etched with this rune aids in routing ranged attacks aimed at an enemy around you. You don't provide enemies cover against your allies' ranged attacks."
+powerTitle1: "Effect"
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1: "Armor etched with this rune aids in routing ranged attacks aimed at an enemy around you. You don't provide enemies cover against your allies' ranged attacks."
 powerTitle2:
 actionEconomy2:
 type2:

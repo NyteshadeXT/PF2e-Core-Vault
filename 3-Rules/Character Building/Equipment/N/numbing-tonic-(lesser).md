@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` Interact  Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain 5 temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.  [[Equipment Effects/Effect_ Numbing Tonic|Effect: Numbing Tonic]]"
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

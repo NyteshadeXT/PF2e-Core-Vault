@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` envision, Interact  Composed to look like an important document, a red-handed missive is a trap used by those who suspect someone has been going through their correspondence. If activated, the missive dissolves into red dye that coats anything touching the missive. Magic in the dye prevents it from washing off for 1 week."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

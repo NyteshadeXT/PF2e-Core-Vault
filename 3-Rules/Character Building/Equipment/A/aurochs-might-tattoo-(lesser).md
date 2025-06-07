@@ -27,12 +27,12 @@ usage: "tattooed on the body"
 license: "ORC"
 identify:
 description: "The aurochs depicted by this tattoo is a powerful symbol of strength and resilience. When upgraded, the tattoo expands to depict an increasingly imposing herd of aurochs.  **Activate—Aurochs Charge** `pf2:2` (concentrate)  **Frequency** once per day  * * *  **Effect** You Stride twice and make a melee Strike against a creature within your reach at any point during your movement. If the Strike hits and deals damage, the target attempts a DC 24 Fortitude check save to avoid being toppled by the impact.  * * *  **Critical Success** The target is unaffected.  **Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the beginning of its next turn.  **Failure** The target is knocked [[Conditions/Prone|Prone]].  **Critical Failure** As failure, but the target also takes 2d6 bludgeoning damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

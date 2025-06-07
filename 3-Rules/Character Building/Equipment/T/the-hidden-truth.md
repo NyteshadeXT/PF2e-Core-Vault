@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Books (Int)  **Alignment** lawful good  * * *  _The Hidden Truth_ represents the act of observing something beyond the obvious to gain obscure lore. As long as this card is invested, you gain a +2 item bonus to Lore checks made to Recall Knowledge, and to all checks made to Research while using the Research subsystem from the Gamemastery Guide. This increases to a +3 bonus if you are at least 17th level.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Truesight|Truesight]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). If you're at least 17th-level, you can affect up to three adjacent willing targets with this spell at the same time as you cast it."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

@@ -27,12 +27,12 @@ usage: "affixed to a ranged weapon"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:0` envision  **Trigger** You hit with a ranged Strike with the affixed weapon  **Requirements** You're an expert with the affixed weapon.  * * *  This nugget of gold and lead amalgam is attached to the weapon by thick, twisted wire or chain. When activated, the target's limbs become like lead weights. For 2 rounds, each time the target Strides it must attempt a DC 23 Fortitude check save. On a failure, it takes a -10-foot status penalty to its Speed for that Stride (to a minimum Speed of 5 feet). On a critical success, the dupe's gold nugget effect ends early."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

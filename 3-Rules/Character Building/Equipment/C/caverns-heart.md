@@ -27,12 +27,12 @@ usage: "etched onto med heavy armor"
 license: "ORC"
 identify:
 description: "This armor can channel your life force into an enhanced [[Spells/Wall of Stone|Wall of Stone]].  * * *  **Activate** `pf2:3` command  **Frequency** once per day  * * *  **Effect** By stamping your foot on the ground and calling out to spirits of stone, you summon a stone wall. This is a wall of stone, except that the wall is tied to your own life force. When the stone wall is damaged, you are damaged instead. If you are reduced to 0 HP, the wall is destroyed. The effect is dismissed if you move more than 30 feet away from the stone wall or if you spend a single action with the concentrate trait."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

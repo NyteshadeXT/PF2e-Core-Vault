@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  When lit, this black candle's eerie blue flame reveals the presence of [[Conditions/Invisible|Invisible]] creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the invisible condition. Their bodies are outlined, not fully visible, so they're [[Conditions/Concealed|Concealed]]. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

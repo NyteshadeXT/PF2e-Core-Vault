@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "Crafting wine from assassin vine berries is a dangerous process, but the resulting ruby-red drink is rich and heady. Alchemical reagents added during fermentation concentrate the vine's connection to its environment and impart them onto the imbiber. "
-powerTitle: "Effect"
-actionEconomy: 1
+powerTitle1: "Effect"
+actionEconomy1: 1
 type: ([[interact]])
 frequency:
-trigger:
-mechanics: "For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet."
+trigger1:
+mechanics1: "For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -281,7 +281,7 @@ function createPowerBlock(powerTitle, actionEconomy, type, frequency, activation
   }
 
   if (trigger && trigger.trim() !== "") {
-    sectionLines.push(`**Trigger:** ${trigger}`);
+    sectionLines.push(`**trigger1:** ${trigger}`);
   }
 
   const combinedOutput = sectionLines.length > 0 ? sectionLines.join("\n\n") + "\n\n" : "";

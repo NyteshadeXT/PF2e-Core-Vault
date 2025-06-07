@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "This wand is made of two copper plates and a ceramic center.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 4th-rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Conditions/Off-Guard|Off-Guard]] for 1 round.  * * *  **Craft Requirements** Supply a casting of _lightning bolt_ at 4th-rank."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

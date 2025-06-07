@@ -27,12 +27,12 @@ usage: "wornarmor"
 license: "ORC"
 identify:
 description: "This _+1 resilient full plate_ is crafted from the most colorful fragments chipped from scales of a dragon turtle's shell, traditionally incorporating that motif in the form of a thicker, sturdier backplate. While wearing this armor, you aren't [[Conditions/Off-Guard|Off-Guard]] from creatures that flank you, and you ignore the armor's speed penalty when you Swim and its check penalty to Athletics checks to Swim."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

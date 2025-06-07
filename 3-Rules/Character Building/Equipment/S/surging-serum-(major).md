@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:1` (manipulate)  * * *  Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it counteracts at 9th-rank and has a +28 Counteract Modifier to remove the [[Conditions/Clumsy|Clumsy]] or [[Conditions/Enfeebled|Enfeebled]] condition from a single source, using the source of that condition to determine the counteract rank and DC."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

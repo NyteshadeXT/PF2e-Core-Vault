@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This staff is tapered at the base and carved into a gem-studded twist at the top. While wielding the staff, you gain a +2 circumstance bonus to checks to identify elemental creatures.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Frostbite|Frostbite]] *   **1st** [[Spells/Breathe Fire|Breathe Fire]], [[Spells/Pummeling Rubble|Pummeling Rubble]], [[Spells/Thunderstrike|Thunderstrike]] *   **2nd** [[Spells/Blazing Bolt|Blazing Bolt]], [[Spells/Resist Energy|Resist Energy]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

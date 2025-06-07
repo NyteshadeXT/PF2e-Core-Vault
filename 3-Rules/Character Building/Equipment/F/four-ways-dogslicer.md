@@ -27,12 +27,12 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This _+2 striking dogslicer_ is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow-one with fiery red light, one with a chill blue, and one that gives off sparks-while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.  * * *  **Activate-Gem Twist** `pf2:1` (manipulate)  **Effect** You twist the gem along the blade corresponding with the desired weapon rune: red for _flaming_, blue for _frost_, or yellow for _shock_. You take 1d6 untyped damage of the type the chosen rune deals. You can instead twist the black gem to disable the active property rune, taking no damage."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

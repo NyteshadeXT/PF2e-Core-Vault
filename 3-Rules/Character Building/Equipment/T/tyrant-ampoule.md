@@ -27,12 +27,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 description: "**Activate** `pf2:2` Interact  The body of a fearsome tyrannosaurus is shrunken and contained in this bottle, its desiccated form barely constrained within the glass. The effigy of a Gargantuan tyrannosaurus forms when you open the bottle, causing devastation as it rampages. The tyrannosaurus Strides up to 40 feet. It can move through the spaces of Huge or smaller creatures and can attempt to Trample each creature whose space it enters, dealing 2d10+12 bludgeoning with a DC 27 Reflex check. It can attempt to Trample each creature only once.  * * *  **Craft Requirements** Supply the corpse of a tyrannosaurus."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

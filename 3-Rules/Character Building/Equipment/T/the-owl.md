@@ -27,12 +27,12 @@ usage: "carried"
 license: "ORC"
 identify:
 description: "**Suit** Stars (Wis)  **Alignment** neutral  * * *  _The Owl_ represents the wisdom of nature and the natural order. As long as you have _The Owl_ invested, it grants a +2 item bonus to Perception checks made to [[Actions/Sense Motive|Sense Motive]], Survival checks to [[Actions/Subsist|Subsist]] in the wild, and Nature checks made when you activate this card. This increases to a +3 bonus if you are at least 17th level.  **Activate** 1 hour (command, envision, Interact)  **Frequency** once per day  * * *  **Effect** After spending an hour meditating, you can ask one question of the region's spirits, as if you had just performed a [[Spells/Commune|Commune]] ritual. Attempt a DC 30 Nature check check to determine the result."
-powerTitle:
-actionEconomy:
-type:
-frequency:
-trigger:
-mechanics:
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:
