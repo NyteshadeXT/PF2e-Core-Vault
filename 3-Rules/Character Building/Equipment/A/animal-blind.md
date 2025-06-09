@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
+name: "animal-blind"
+aliases: "Animal Blind"
+source: "Source: Pathfinder Howl of the Wild"
+pg: "112"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -17,17 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: 
-weight: 
-value: ""
-subvalue: ""
+weight: 2
+value: "5"
+subvalue: "gp"
 invest:
-usage: ""
-license: ""
+usage: "held in two hands"
+license: "ORC"
 identify: ""
-description: ""
-activate: ""
+description: "Simple blinds consist of a series of poles with a cloth to cover them. The cloth covering is styled to represent the natural surroundings such as green and brown leaf and wood patterns for forests, or gray rocks for underground environments. This cloth is either sheer enough to be seen through on one side, or sometimes has small slits cut in it, allowing someone behind it to see what is going on outside while remaining [[Hidden]]. While not the most convincing camouflage, it's good enough to fool many animals and creatures with lower intelligence.<br><br>Animal blinds take 1 minute to set up. Up to two Medium creatures or one Large creature may use the blinds at the same time. You can [[Take Cover]] behind the blind to gain standard cover. If the environment matches the terrain depicted on the blind, your circumstance bonus on Stealth checks to [[Hide]] increases to +4."
 craft: 
 destruction: 
 
@@ -80,7 +79,6 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 range:
 ammoType:
-reload:
 damage: 
 dmg1: 
 dmg1Type: 
@@ -110,7 +108,6 @@ communication:
 skill1:
 skill2:
 skill3:
-skill4:
 int:
 wis:
 cha:
@@ -128,17 +125,4 @@ shieldBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Bo Staff"
-SORT level ASC
-
 ```

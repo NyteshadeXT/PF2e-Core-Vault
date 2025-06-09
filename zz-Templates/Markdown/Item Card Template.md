@@ -27,6 +27,7 @@ usage: ""
 license: ""
 identify: ""
 description: ""
+activate: ""
 craft: 
 destruction: 
 
@@ -79,6 +80,7 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 range:
 ammoType:
+reload:
 damage: 
 dmg1: 
 dmg1Type: 
@@ -108,6 +110,7 @@ communication:
 skill1:
 skill2:
 skill3:
+skill4:
 int:
 wis:
 cha:
@@ -230,11 +233,12 @@ if (d.hitpoints != null) dur.push(`**HP** ${d.hitpoints}`);
 if (d.break     != null) dur.push(`**BT** ${d.break}`);
 if (dur.length)          stats.push(dur.join("; "));
 
-// Usage / Craft / License / Invest
-if (d.usage)   stats.push(`**Usage** ${d.usage}`);
-if (d.craft)   stats.push(`**Craft** ${d.craft}`);
-if (d.license) stats.push(`**License** ${d.license}`);
-if (d.invest)  stats.push(`**Invest** ${d.invest}`);
+// ─── Usage / Activate / Craft / License / Invest ─────────────
+if (d.usage)    stats.push(`**Usage** ${d.usage}`);
+if (d.activate) stats.push(`**Activate** ${d.activate}`);  // ← new line here
+if (d.craft)    stats.push(`**Craft** ${d.craft}`);
+if (d.license)  stats.push(`**License** ${d.license}`);
+if (d.invest)   stats.push(`**Invest** ${d.invest}`);
 
 if (stats.length) dv.list(stats);
 
@@ -245,6 +249,7 @@ const hasIntel =
      !!d.skill1?.trim()    ||
      !!d.skill2?.trim()    ||
      !!d.skill3?.trim()    ||
+     !!d.skill4?.trim()    ||
      typeof d.int === "number" ||
      typeof d.wis === "number" ||
      typeof d.cha === "number" ||
@@ -282,7 +287,7 @@ if (hasIntel) {
   if (L1.length)               box.appendChild(mkLine(L1));
 
   // 3) Skills
-  let SK = [d.skill1, d.skill2, d.skill3]
+  let SK = [d.skill1, d.skill2, d.skill3, d.skill4]
              .filter(x => x?.trim())
              .map(x => x.trim());
   if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));

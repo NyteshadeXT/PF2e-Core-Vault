@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
-trait05: ""
+name: "animal-nip-lesser"
+aliases: "Animal Nip (Lesser)"
+source: "Pathfinder Rage of Elements"
+pg: "200"
+rarity: ""
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "olfactory"
+trait04: "plant"
+trait05: "wood"
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 4
 weight: 
-value: "4"
+value: "15"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: "Animal nip contains a mix of herbaceous, fragrant plants, ground into a coarse powder with a strong scent that attracts a broad spectrum of animals. "
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+actionEconomy1: 
+type1: "([[manipulate]])"
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+trigger1:
+mechanics1: "You activate animal nip by sprinkling it on the ground or a target of your choice. For the next minute, all creatures within 30 feet that have the animal trait must attempt a DC 18 Will check save or become [[Fascinated]] by the smell of the animal nip for 1 round. On a critical failure, they also fall [[Prone]] and roll about on the ground. If the target is subject to a hostile act, the fascination ends immediately. Regardless of the result of the creature's save, it's then immune to animal nip for 1 hour."
 powerTitle2:
 actionEconomy2:
 type2:

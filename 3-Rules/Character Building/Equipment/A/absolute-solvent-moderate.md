@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
+name: "absolute-solvent-moderate"
+aliases: "Absolute Solvent (Moderate)"
+source: "Pathfinder Player Core 2"
+pg: "295"
+rarity: ""
+trait01: "alchemical"
+trait02: "consumable"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 12
+weight: L
+value: "325"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: 
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
-frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+actionEconomy1: 1
+type: ([[manipulate]])
+frequency:
+trigger1:
+mechanics1: "Originally formulated as a means of dissolving [[everlasting-adhesive|Everlasting Adhesive]], this powerful solvent can break almost any adhesive's grip. As absolute solvent is particularly effective against everlasting adhesive, it automatically dissolves everlasting adhesive. It attempts to counteract any other adhesives, such as [[glue-bomb-(lesser)|Glue Bomb]], at 6th-rank and has a counteract modifier of +19."
 powerTitle2:
 actionEconomy2:
 type2:

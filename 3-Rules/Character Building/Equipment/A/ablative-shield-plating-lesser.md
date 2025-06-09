@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
+name: "ablative-shield-plating-lesser"
+aliases: "Ablative Shield Plating (Lesser)"
+source: "Pathfinder Guns & Gears"
+pg: "67"
+rarity: "uncommon"
 trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
+trait02: "gadget"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight: 1
 value: "4"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: "Ablative shield plating is an amalgam device that provides a layer of additional protection for a shield. Ablative shield plating is cobbled together from parts of other shields, wires, scraps, and bits of detritus, adding mass to a shield. "
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+actionEconomy1:
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+trigger1:
+mechanics1: "The process of attaching ablative shield plating takes 10 minutes, and you can't attach ablative shield plating to a shield that has any other attached item, such as a shield boss or shield spikes. When the shield is damaged, this additional material crumples, breaks, and falls apart, absorbing some of the energy of the blow. Otherwise, the additional material slowly crumbles over time. Applying the plating grants the shield 5 temporary Hit Points that last for 1 minute or until lost. Removing the plating early destroys it."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,6 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
 
 ```meta-bind-embed
 [[Item Card Template]]

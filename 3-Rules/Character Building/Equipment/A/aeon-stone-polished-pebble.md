@@ -4,41 +4,41 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
+name: "aeon-stone-polished-pebble"
+aliases: "Aeon Stone (Polished Pebble)"
+source: "Pathfinder Rage of Elements"
+pg: "98"
+rarity: "uncommon"
+trait01: "earth"
+trait02: "invested"
 trait03: "magical"
-trait04: "talisman"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 3
 weight: 
-value: "4"
+value: "50"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "worn"
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: 
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+actionEconomy1: 
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
-powerTitle2:
+trigger1:
+mechanics1: "A _polished pebble aeon stone_ imbues you with the strength of the earth, granting a +1 item bonus to saves and DCs against attempts to grapple or swallow you.  "
+powerTitle2: "Resonant Power"
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "The stone's resonant power allows you to cast [[Grease]] as a primal innate spell once per day. You can target only surfaces, not objects, with this spell."
 craft:
 
 #========================================================#
@@ -75,7 +75,6 @@ weaponBase:
 armorBase:
 
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

@@ -4,42 +4,43 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
+name: "accursed-staff-greater"
+aliases: "Accursed Staff (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "130"
+rarity: ""
+trait01: "magical"
+trait02: "staff"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 10
+weight: 1
+value: "900"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
-powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+description: "Iron strips line the body of an _accursed staff_, capping the bottom and folding into an intricate knot at the top. While wielding an _accursed staff_, you're empowered by the curses you inflict. If an enemy fails a saving throw against a spell you cast that has the curse trait, you gain temporary Hit Points equal to double that spell's rank. These temporary Hit Points last 10 minutes. The enemy must be a significant threat and can't have been a willing subject of the curse."
+powerTitle1: "Spells"
+actionEconomy1:
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+activation: "Cast a Spell"
+trigger1: 
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Daze]]<br>**1st** [[3-Rules/Character Building/Spells/B/Bane|Bane]], [[Ill Omen]]<br>**2nd** [[Blood Vendetta]], [[Warrior's Regret]]<br>**3rd** [[Claim Curse]], [[Cup of Dust]]<br>**4th** [[Outcast's Curse]], [[Cleanse Affliction]], [[Warrior's Regret]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,6 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
 
 ```meta-bind-embed
 [[Item Card Template]]

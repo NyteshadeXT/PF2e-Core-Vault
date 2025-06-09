@@ -7,32 +7,32 @@ notetype: pf2e-item
 name: "anklets-of-alacrity"
 aliases: "Anklets of Alacrity"
 source: "Pathfinder Core Rulebook"
-pg: ""
+pg: "603"
 rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/anklets-of-alacrity.png
 level: 17
 weight: 
 value: "15000"
 subvalue: "gp"
 invest:
-usage: "wornanklets"
+usage: "worn anklets"
 license: "ORC"
 identify:
-description: "These gem-studded golden anklets give you a +3 item bonus to Acrobatics checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Spells/Water Walk|Water Walk]] for the next 10 minutes.  [[Equipment Effects/Effect_ Anklets of Alacrity|Effect: Anklets of Alacrity]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These gem-studded golden anklets give you a +3 item bonus to Acrobatics checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You click the anklets together, gaining a +20-foot status bonus to all your Speeds and the effects of [[Water Walk]] for the next 10 minutes."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

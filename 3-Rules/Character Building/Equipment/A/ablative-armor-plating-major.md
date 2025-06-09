@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
+name: "ablative-armor-plating-major"
+aliases: "Ablative Armor Plating (Major)"
+source: "Pathfinder Guns & Gears"
+pg: "66"
+rarity: "uncommon"
 trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
+trait02: "gadget"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 13
+weight: 1
+value: "600"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "affixed to armor or travelers clothing"
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: "Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement. "
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+actionEconomy1:
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+trigger1:
+mechanics1: "The process of attaching the plating takes 10 minutes and grants the wearer of the armor 30 temporary Hit Points for 1 hour or until lost. Removing the plating early destroys it."
 powerTitle2:
 actionEconomy2:
 type2:

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "ankhrav-duster"
 aliases: "Ankhrav Duster"
 source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
+pg: "101"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "free-hand"
 trait03: "magical"
 trait04: "monk"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -22,37 +22,38 @@ level: 4
 weight: L
 value: "90"
 subvalue: "gp"
+group: "Brawling"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Acid drips from the ankhrav mandibles protruding from this _+1 [[Equipment/Knuckle Duster|Knuckle Duster]]_. Strikes with this weapon deal an additional 1 acid damage.  * * *  **Activate—Caustic Jabs** `pf2:1` (concentrate)  **Frequency** once per hour  **Effect** Until the end of your next turn, your Strikes with the _ankhrav duster_ deal an additional 1d6 persistent acid damage.  [[Equipment Effects/Effect_ Caustic Jabs|Effect: Caustic Jabs]]  * * *  **Craft Requirements** The initial raw materials must include the mandibles of an ankhrav."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Acid drips from the ankhrav mandibles protruding from this _[[Weapon Potency (+1)|+1]] [[knuckle-duster|Knuckle Duster]]_. Strikes with this weapon deal an additional 1 acid damage."
+powerTitle1: "Caustic Jabs"
+actionEconomy1: 1
+type1: "([[concentrate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "Until the end of your next turn, your Strikes with the _ankhrav duster_ deal an additional `dice: 1d6` 1d6 persistent acid damage."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include the mandibles of an ankhrav."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Simple"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Knuckle Duster"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

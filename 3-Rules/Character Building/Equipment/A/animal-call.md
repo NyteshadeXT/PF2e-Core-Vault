@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
+name: "animal-call"
+aliases: "Animal Call"
+source: "Howl of the Wild"
+pg: "112"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -17,17 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: 
 weight: 
-value: ""
-subvalue: ""
+value: "5"
+subvalue: "sp"
 invest:
-usage: ""
-license: ""
+usage: "held in one hand"
+license: "ORC"
 identify: ""
-description: ""
-activate: ""
+description: "Animal calls are often whistles or similar devices that imitate the calls of animals. Each call is for a specific type of animal, such as a duck or bear. When you use the call, it gives you a +1 item bonus to [[Command an Animal]], provided the animal is of the type as the call. You also do not take a circumstance penalty when attempting to [[Demoralize]] that animal for not sharing a language."
 craft: 
 destruction: 
 
@@ -80,7 +79,6 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 range:
 ammoType:
-reload:
 damage: 
 dmg1: 
 dmg1Type: 
@@ -110,7 +108,6 @@ communication:
 skill1:
 skill2:
 skill3:
-skill4:
 int:
 wis:
 cha:
@@ -128,17 +125,4 @@ shieldBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Bo Staff"
-SORT level ASC
-
 ```

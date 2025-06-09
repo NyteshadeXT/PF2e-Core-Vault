@@ -4,42 +4,43 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
+name: "animal-staff-greater"
+aliases: "Animal Staff (Greater)"
+source: "Pathfinder GM Core"
+pg: "278"
+rarity: ""
+trait01: "magical"
+trait02: "staff"
+trait03: "two-hand-d8"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 8
+weight: 1
+value: "460"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
+description: "This staff is topped with carved animal and monster heads. While wielding the staff, you gain a +2 circumstance bonus to [[Skills#Nature|Nature]] checks to identify animals."
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+actionEconomy1:
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+trigger1:
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Know the Way]]<br>**1st** [[Runic Body]], [[Summon Animal]]<br>**2nd** [[Animal Messenger]], [[Speak with Animals]], [[Summon Animal]]<br>**3rd** [[Animal Form]], [[Summon Animal]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+activate: "Cast a Spell"
+craft: "Supply one casting of all listed ranks of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -47,12 +48,12 @@ craft:
 range: 
 ammoType:
 damage: 
-dmg1:
-dmg1Type:
+dmg1: "1d4"
+dmg1Type: "bludgeoning"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Simple"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,7 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---

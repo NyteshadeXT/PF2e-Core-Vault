@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "animal-turning-fulu"
-aliases: "Animal-Turning Fulu"
-source: "Pathfinder #196: The Summer That Never Was"
-pg: "83"
-rarity: "rare"
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "talisman"
-trait05: ""
-trait06: ""
+name: "alchemists-fire-major"
+aliases: "Alchemist's Fire (Major)"
+source: "Pathfinder GM Core"
+pg: ""
+rarity: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "fire"
+trait05: "splash"
+trait06: "common"
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 17
+weight: L
+value: "2500"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). "
-powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[envision]])"
+description: "**Activate** `pf2:1` Strike  * * *  Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. Alchemist's fire deals 4d8 fire damage, 4 persistent fire damage, and 4 fire splash damage. You gain a +3 item bonus to attack rolls."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
-trigger1: "A creature with the animal trait successfully Strikes you."
-mechanics1: "You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[3-Rules/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn."
+trigger1:
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:
@@ -44,9 +44,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 4d8 fire
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,7 +75,3 @@ weaponBase:
 armorBase:
 
 ---
-
-```meta-bind-embed
-[[Item Card Template]]
-```

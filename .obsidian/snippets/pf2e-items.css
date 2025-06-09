@@ -1,6 +1,6 @@
 .pf2e-intelligent-item {
   background-color: #f8f3e5;
-  border: 2px solid #7a2e1b;
+  border: 2px solid;
   border-radius: 6px;
   padding: 0.75em;
   margin: 1em 0;
@@ -10,3 +10,27 @@
 .pf2e-intelligent-item div {
   margin-bottom: 0.2em;
 }
+
+
+/* Ensure all H1 and H2 in item headers render in gold */
+.pf2e-item-header h1,
+.pf2e-item-header h2 {
+  color: #CFB53B !important;
+}
+
+.pf2e-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5em 1em;
+  margin-bottom: 0.75em;
+  /* Solid deep red */
+  background-color: #8B0000;  /* Dark Red */  
+  border-radius: 0.5em;
+  color: var(--text-on-primary);
+  font-size: 1.25em;
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+.pf2e-item-header .item-name { flex: 1; }
+.pf2e-item-header .item-level { opacity: 0.85; }
