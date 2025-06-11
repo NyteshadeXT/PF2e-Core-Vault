@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "arbalest"
 aliases: "Arbalest"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "280"
 rarity: ""
 trait01: "backstabber"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,6 +22,7 @@ level: 0
 weight: 2
 value: "8"
 subvalue: "gp"
+group: "Crossbow"
 invest:
 usage: "held in two hands "
 license: "ORC"
@@ -44,15 +45,15 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 110 ft
+range: "110 ft"
 ammoType:
-damage: 1d10 piercing
-dmg1:
-dmg1Type:
+damage: 
+dmg1: "1d10"
+dmg1Type: "piercing"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Ranged"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,22 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Arbalest")
+SORT level ASC
+
+```
+
+

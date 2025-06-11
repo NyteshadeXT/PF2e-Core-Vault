@@ -40,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft: "The initial raw materials must include a horn from an alicorn."
+craft: "The initial raw materials must include a horn from an [[3-Rules/Bestiaries/Monster Core/Unicorn|Unicorn]]."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,6 +75,7 @@ conditionImmunity:
 #========================================================#
 weaponBase: "Jezail"
 armorBase:
+craftBase: "Unicorn"
 
 ---
 

@@ -40,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft: "The initial raw materials must include the heart of a hellcat."
+craft: "The initial raw materials must include the heart of a [[3-Rules/Bestiaries/Bestiary 2/Hellcat|Hellcat]]."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -74,6 +74,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
+craftBase: "Hellcat"
 
 ---
 

@@ -85,7 +85,18 @@ creatures:
   - 1: Unicorn
 ```
 
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
 
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftbase, "Unicorn")
+SORT level ASC
+
+```
 
 Symbols of grace and purity, unicorns resemble proud and noble horses. They typically have pure white coats, but they are best known for the single, delicate horn that extends from the center of their forehead. While unicorns often serve as protectors of unspoiled wilderness and sacred places, they are themselves highly sought after for their horns, which are said to possess potent magical properties. To many, the mere idea of hunting such a magnificent creature in the hopes of severing its horn is utterly reprehensible. Indeed, a dehorned unicorn is a sorry sight, and few such unicorns survive much longer in the wild.
 

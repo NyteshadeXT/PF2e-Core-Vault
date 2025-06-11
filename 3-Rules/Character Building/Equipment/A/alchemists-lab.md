@@ -29,7 +29,7 @@ description: "You need an alchemist's lab to [[Craft]] alchemical items during d
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Effect"
+powerTitle1: ""
 actionEconomy1: 
 type: 
 frequency: 

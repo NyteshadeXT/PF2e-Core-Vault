@@ -69,10 +69,14 @@ immunity:
 conditionImmunity:
 
 #========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
+#                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase:
+craftBase: 
+  - Abysium Chunk
+  - Abysium Ingot
 
 ---
 

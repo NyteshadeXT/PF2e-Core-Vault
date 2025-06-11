@@ -94,7 +94,18 @@ creatures:
   - 1: Hellcat
 ```
 
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
 
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftbase, "Hellcat")
+SORT level ASC
+
+```
 
 Hellcats are devious predators native to the fiery pits of Hell. While the fiendish creatures appears as skeletal smilodons, their bones smoking with heat and dripping with boiling blood, they are not undead. They are living hellspawn with transparent flesh that reveals their burning skeletons. A typical hellcat is 9 feet long and weighs 1,000 pounds.
 

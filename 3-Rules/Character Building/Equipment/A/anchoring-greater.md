@@ -4,8 +4,7 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "anchoring-
-greater"
+name: "anchoring-greater"
 aliases: "Anchoring (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: "80"

@@ -32,7 +32,7 @@ actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1: "This aeon stone slowly infuses void energy into your body. The stone deals 1 persistent void damage to you (10 void damage per minute) so long as it's invested, and you can't recover from persistent void damage while you have the stone invested.
+mechanics1: "This aeon stone slowly infuses void energy into your body. The stone deals 1 persistent void damage to you (10 void damage per minute) so long as it's invested, and you can't recover from persistent void damage while you have the stone invested."
 powerTitle2: "Resonant Power"
 actionEconomy2:
 type2:

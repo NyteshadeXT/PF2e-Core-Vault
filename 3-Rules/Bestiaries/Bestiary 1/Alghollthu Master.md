@@ -80,7 +80,18 @@ creatures:
   - 1: Alghollthu Master
 ```
 
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
 
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftBase, "Alghollthu Master")
+SORT level ASC
+
+```
 
 Aboleths form the core of alghollthu society, and while they are the "common folk" of their own societies, they see themselves as masters of all others. Unlike their leaders, who mask their actions using magical disguises, aboleths revel in their monstrous forms, appearing as primeval fish with tentacles. Masters of psychic manipulation, they are a species so ancient that they were present in the world when it was young, before the gods had turned their attention to the planet. They see all other life as something they have the right to control, so the idea that potential slaves might have faith in a higher power other than themselves enrages aboleths.
 

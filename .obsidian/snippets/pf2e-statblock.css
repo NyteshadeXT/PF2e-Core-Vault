@@ -61,7 +61,6 @@
   border: 3px solid #d4af37; /* Gold border */
   color: white;
   text-transform: uppercase;
-  margin-right: 0.5em;
 }
 
 .pf2e-rarity.common {
@@ -83,14 +82,14 @@
 /* Trait Pill Styling */
 .pf2e-blocktrait {
   display: inline-block;
-  padding: 0.15em 0.55em;
+  padding: 0.25em 0.55em;
   font-size: 0.85em;
   font-weight: 600;
   background-color: #7b2716; /* Pathfinder red */
   border: 3px solid #d4af37; /* Gold border */
   border-radius: 999px;
   color: white;
-  margin: 0 0.35em 0.35em 0;
+  margin: 0 0.05em 0.15em 0;
   text-transform: uppercase;
 }
 

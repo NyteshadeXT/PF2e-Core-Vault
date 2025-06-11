@@ -34,13 +34,15 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle: "Effect"
-actionEconomy: 
-type: 
-frequency: 
-requirement:
-trigger:
-mechanics: ""
+powerTitle1: "Effect"
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -51,6 +53,8 @@ type2:
 frequency2: 
 requirement2:
 trigger2: 
+activate2: 
+duration2: 
 mechanics2: "**Secondary Effect** "
 
 #========================================================#
@@ -62,6 +66,8 @@ type3:
 frequency3: 
 requirement3:
 trigger3: 
+activate3: 
+duration3: 
 mechanics3: "**Secondary Effect** "
 
 #========================================================#
@@ -73,6 +79,8 @@ type4:
 frequency4: 
 requirement4:
 trigger4: 
+activate4: 
+duration4: 
 mechanics4: "**Secondary Effect** "
 
 #========================================================#
@@ -117,11 +125,12 @@ cha:
 will:
 
 #========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
+#                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase: 
-armorBase: 
+weaponBase:
+armorBase:
 shieldBase:
+craftBase: 
 
 ---
 
@@ -131,14 +140,16 @@ shieldBase:
 ```
 
 ```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
 
 TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
 FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Bo Staff"
+WHERE contains(weaponbase, "Bo Staff")
 SORT level ASC
 
 ```
+
+

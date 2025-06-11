@@ -40,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft: "The initial raw materials must include a tentacle from an alghollthu."
+craft: "The initial raw materials must include a tentacle from an [[3-Rules/Bestiaries/Bestiary 1/Alghollthu Master|Alghollthu Master]]."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -74,6 +74,7 @@ conditionImmunity:
 #========================================================#
 weaponBase: "Whip"
 armorBase:
+craftBase: "Alghollthu Master"
 
 ---
 
@@ -81,15 +82,3 @@ armorBase:
 [[Item Card Template]]
 ```
 
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Whip"
-SORT level ASC
-
-```

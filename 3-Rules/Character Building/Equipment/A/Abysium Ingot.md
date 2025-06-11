@@ -43,3 +43,17 @@ All objects crafted from abysium shed dim light in a 10-foot radius.
 
 *Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftbase, "Abysium Chunk")
+SORT level ASC
+
+
+```

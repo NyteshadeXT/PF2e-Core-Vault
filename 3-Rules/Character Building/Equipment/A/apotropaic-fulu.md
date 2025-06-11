@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "apotropaic-fulu"
 aliases: "Apotropaic Fulu"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "159"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -23,10 +23,10 @@ weight:
 value: "25"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "affixed over an entrance"
 license: "ORC"
 identify:
-description: "**Usage** affixed over an entrance  * * *  This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude check save or become [[Conditions/Sickened|Sickened 2]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day."
+description: "This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude check save or become [[Sickened|Sickened 2]]; regardless of whether they succeed, the creature becomes temporarily immune for 1 day."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

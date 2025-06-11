@@ -28,7 +28,7 @@ license: "ORC"
 identify:
 description: "An aetheric irritant is a chime that can emit a subsonic frequency that otherworldly beings find unpleasant. "
 powerTitle1: "Effect"
-actionEconomy1: ``
+actionEconomy1: 
 type: ([[manipulate]])
 frequency:
 trigger1:

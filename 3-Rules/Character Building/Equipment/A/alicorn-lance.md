@@ -40,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft: "The initial raw materials must include a horn willingly gifted by a unicorn. In rare instances, an _alicorn lance_ can be made with a forcibly taken horn. However this heinous act pollutes the horn's magic, causing it to glow with a sickly red light, deal spirit damage instead of spirit damage, and make the unicorn spirit evoked in the charge to whinny visibly in pain."
+craft: "The initial raw materials must include a horn willingly gifted by a [[3-Rules/Bestiaries/Monster Core/Unicorn|Unicorn]]. In rare instances, an _alicorn lance_ can be made with a forcibly taken horn. However this heinous act pollutes the horn's magic, causing it to glow with a sickly red light, deal spirit damage instead of spirit damage, and make the unicorn spirit evoked in the charge to whinny visibly in pain."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -74,6 +74,7 @@ conditionImmunity:
 #========================================================#
 weaponBase: "Lance"
 armorBase:
+craftBase: "Unicorn"
 
 ---
 

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "anticorrosion-oil"
 aliases: "Anticorrosion Oil"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "86"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  You can coat objects of 6 Bulk or less with _anticorrosion oil_. For 24 hours, the object takes half damage from acid and from all effects that specifically cause it to rust or corrode, such as contact with a rust monster's antennae."
-powerTitle1:
-actionEconomy1:
-type1:
+description: ""
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You can coat objects of 6 Bulk or less with _anticorrosion oil_. For 24 hours, the object takes half damage from acid and from all effects that specifically cause it to rust or corrode, such as contact with a rust monster's antennae."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

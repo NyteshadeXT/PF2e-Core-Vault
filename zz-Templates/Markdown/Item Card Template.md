@@ -40,6 +40,8 @@ type1:
 frequency1: 
 requirement1:
 trigger1:
+activate1: 
+duration1: 
 mechanics1: ""
 
 #========================================================#
@@ -51,6 +53,8 @@ type2:
 frequency2: 
 requirement2:
 trigger2: 
+activate2: 
+duration2: 
 mechanics2: "**Secondary Effect** "
 
 #========================================================#
@@ -62,6 +66,8 @@ type3:
 frequency3: 
 requirement3:
 trigger3: 
+activate3: 
+duration3: 
 mechanics3: "**Secondary Effect** "
 
 #========================================================#
@@ -73,6 +79,8 @@ type4:
 frequency4: 
 requirement4:
 trigger4: 
+activate4: 
+duration4: 
 mechanics4: "**Secondary Effect** "
 
 #========================================================#
@@ -117,11 +125,12 @@ cha:
 will:
 
 #========================================================#
-#                 MAGIC ITEM PROPERTIES                  #
+#                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase: 
-armorBase: 
+weaponBase:
+armorBase:
 shieldBase:
+craftBase: 
 
 ---
 
@@ -234,8 +243,11 @@ if (d.break     != null) dur.push(`**BT** ${d.break}`);
 if (dur.length)          stats.push(dur.join("; "));
 
 // ─── Usage / Activate / Craft / License / Invest ─────────────
+const rawActivate = d.file.frontmatter.activate;
+if (rawActivate?.toString().trim()) {
+  stats.push(`**Activate** ${rawActivate}`);
+}
 if (d.usage)    stats.push(`**Usage** ${d.usage}`);
-if (d.activate) stats.push(`**Activate** ${d.activate}`);  // ← new line here
 if (d.craft)    stats.push(`**Craft** ${d.craft}`);
 if (d.license)  stats.push(`**License** ${d.license}`);
 if (d.invest)   stats.push(`**Invest** ${d.invest}`);
@@ -325,35 +337,49 @@ function getIcon(ae) {
   }[m]||"";
 }
 
-function createPowerBlock(title, action, type, frequency, activation, requirement, trigger, mechanics) {
+function createPowerBlock(
+  title, action, type, frequency, activate, requirement, trigger, duration, mechanics
+) {
   let icon = getIcon(action);
   let block = `### **${title}** ${icon} ${type || ""}\n\n`;
-  if (frequency?.trim())   block += `**Frequency:** ${frequency}\n\n`;
-  if (activation?.trim())  block += `**Activation:** ${activation}\n\n`;
-  if (requirement?.trim()) block += `**Requirements:** ${requirement}\n\n`;
-  if (trigger?.trim())     block += `**Trigger:** ${trigger}\n\n`;
+
+  if (frequency?.toString().trim())
+    block += `**Frequency:** ${frequency}\n\n`;
+
+  if (activate?.toString().trim())
+    block += `**Activate:** ${activate}\n\n`;
+
+  if (requirement?.toString().trim())
+    block += `**Requirements:** ${requirement}\n\n`;
+
+  if (trigger?.toString().trim())
+    block += `**Trigger:** ${trigger}\n\n`;
+
+  if (duration?.toString().trim())
+    block += `**Duration:** ${duration}\n\n`;
+
   block += `${mechanics || ""}\n`;
   return block;
 }
 
 let abilities = [];
 for (let i = 1; i <= 4; i++) {
-  let t = d[`powerTitle${i}`]?.trim();
-  if (t) {
-    if (i > 1) abilities.push("<hr class='pf2e-divider'>");
-    abilities.push(
-      createPowerBlock(
-        d[`powerTitle${i}`],
-        d[`actionEconomy${i}`],
-        d[`type${i}`],
-        d[`frequency${i}`],
-        d[`activation${i}`],
-        d[`requirement${i}`],
-        d[`trigger${i}`],
-        d[`mechanics${i}`]
-      )
-    );
-  }
+  let title = d[`powerTitle${i}`]?.trim();
+  if (!title) continue;
+  if (i > 1) abilities.push("<hr class='pf2e-divider'>");
+  abilities.push(
+    createPowerBlock(
+      d[`powerTitle${i}`],
+      d[`actionEconomy${i}`],
+      d[`type${i}`],
+      d[`frequency${i}`],
+      d.file.frontmatter[`activate${i}`],
+      d[`requirement${i}`],
+      d[`trigger${i}`],
+      d.file.frontmatter[`duration${i}`],
+      d[`mechanics${i}`]
+    )
+  );
 }
 
 if (abilities.length) {

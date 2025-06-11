@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "antivenom-potion"
 aliases: "Antivenom Potion"
 source: "Pathfinder Adventure: Troubles in Otari"
-pg: ""
+pg: "60"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This cloudy, white liquid helps protect against poisons. When you drink an antivenom potion, you can immediately attempt a DC 10 Flat check to end any persistent poison damage you're taking. In addition, for 1 minute after drinking the potion, you gain a +1 bonus to Fortitude saving throws to avoid taking persistent poison damage."
-powerTitle1:
+description: "This cloudy, white liquid helps protect against poisons. "
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you drink an antivenom potion, you can immediately attempt a DC 10 Flat check to end any persistent poison damage you're taking. In addition, for 1 minute after drinking the potion, you gain a +1 bonus to Fortitude saving throws to avoid taking persistent poison damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

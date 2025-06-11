@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "appetizing-flavor-snare"
 aliases: "Appetizing Flavor Snare"
 source: "Pathfinder Lost Omens Monsters of Myth"
-pg: ""
-rarity: ""
+pg: "112"
+rarity: "rare"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

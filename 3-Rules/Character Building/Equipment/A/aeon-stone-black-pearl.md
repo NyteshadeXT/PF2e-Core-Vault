@@ -32,7 +32,7 @@ actionEconomy1: r
 type: ([[envision]])
 frequency:
 trigger1: "you are targeted by a mental effect"
-mechanics1: "You receive a +4 status bonus to your saving throw against the triggering effect.  Whether or not your save is successful, the aeon stone attempts a counteract check at `1d20+30` 1d20+30 to immediately reflect a copy of the effect back at the originator, targeting it using the creature's own relevant statistics but controlling the effect as if you had cast it.  Every time you activate this aeon stone, attempt a DC 5 Flat check. On a failure, the stone shatters and loses its magical properties forever."
+mechanics1: "You receive a +4 status bonus to your saving throw against the triggering effect.  Whether or not your save is successful, the aeon stone attempts a counteract check at `dice: 1d20+30` 1d20+30 to immediately reflect a copy of the effect back at the originator, targeting it using the creature's own relevant statistics but controlling the effect as if you had cast it.  Every time you activate this aeon stone, attempt a DC 5 Flat check. On a failure, the stone shatters and loses its magical properties forever."
 powerTitle2: "Resonant Power"
 actionEconomy2:
 type2:

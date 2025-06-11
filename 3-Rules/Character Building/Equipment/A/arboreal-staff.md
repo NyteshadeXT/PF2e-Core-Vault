@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "arboreal-staff"
 aliases: "Arboreal Staff"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "193"
+rarity: "rare"
 trait01: "intelligent"
 trait02: "magical"
 trait03: "primal"
 trait04: "staff"
 trait05: "two-hand-d8"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,20 +26,21 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Perception** +25; precise vision (low-light) 60 feet, imprecise hearing 30 feet, imprecise tremorsense 30 feet (only when touching the ground)  **Communication** speech (Arboreal, Common, Sylvan; speak with plants)  **Skills** Diplomacy +22, Forest Lore +25, Nature +25  **Int** +4, **Wis** +6, **Cha** +4  **Will** +27  * * *  Rather than passing on when they feel their death approaching, a rare few elderly arboreals undergo a ritual of preservation. This rite fuses the arboreal's consciousness into a branch, allowing their spirit to live on within the object. The branch functions as a greater verdant staff, though the arboreal spirit allows only partners willing to safeguard nature to use the staff's spells. An arboreal who decides to become an arboreal staff is more connected to shorter-lived species than others of their kind. Most choose to endure to share their knowledge with future generations, but they take a long view in ways that can be frustrating to their wielders.  In addition to the activation and spells of a greater verdant staff, an arboreal staff can cast the spells it holds as if it were the staff's wielder, though it usually does so only to benefit a partner. The staff also has [[Spells/Earthbind|Earthbind]] available as a 3rd-rank spell.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrips** [[Spells/Tangle Vine|Tangle Vine]] *   **1st** [[Spells/Shillelagh|Shillelagh]] (can target the arboreal staff) *   **2nd** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape Wood]], [[Spells/One with Plants|One with Plants]] *   **3rd** [[Spells/Wall of Thorns|Wall of Thorns]], [[Spells/Earthbind|Earthbind]] *   **4th** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Speak with Plants|Speak with Plants]] *   **5th** [[Spells/Plant Form|Plant Form]], [[Spells/Wall of Thorns|Wall of Thorns]]  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle1:
+description: "Rather than passing on when they feel their death approaching, a rare few elderly [[3-Rules/Bestiaries/Monster Core/Arboreal Warden|Arboreal Wardens]] undergo a ritual of preservation. This rite fuses the arboreal's consciousness into a branch, allowing their spirit to live on within the object. The branch functions as a [[verdant-staff-(greater)|Verdant Staff (Greater)]], though the arboreal spirit allows only partners willing to safeguard nature to use the staff's spells. An arboreal who decides to become an arboreal staff is more connected to shorter-lived species than others of their kind. Most choose to endure to share their knowledge with future generations, but they take a long view in ways that can be frustrating to their wielders.  In addition to the activation and spells of a [[verdant-staff-(greater)|Verdant Staff (Greater)]], an arboreal staff can cast the spells it holds as if it were the staff's wielder, though it usually does so only to benefit a partner. The staff also has [[Earthbind]] available as a 3rd-rank spell.  "
+powerTitle1: "Effect"
 actionEconomy1:
+activate1: "Cast a Spell"
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrips** [[Tangle Vine]]<br>**1st** [[Shillelagh]] (can target the arboreal staff)<br>**2nd** [[Oaken Resilience]], [[Entangling Flora]], [[Shape Wood]], [[One with Plants]]<br>**3rd** [[Wall of Thorns]], [[Earthbind]]<br>**4th** [[Oaken Resilience]], [[Speak with Plants]]<br>**5th** [[Plant Form]], [[Wall of Thorns]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells"
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -69,9 +70,27 @@ immunity:
 conditionImmunity:
 
 #========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception: "+25; precise vision (low-light) 60 feet, imprecise hearing 30 feet, imprecise tremorsense 30 feet (only when touching the ground)"
+communication: " speech (Arboreal, Common, Sylvan; speak with plants)"
+skill1: "Diplomacy +22"
+skill2: "Forest Lore +25"
+skill3: "Nature +25"
+skill4:
+int: 4
+wis: 6
+cha: 4
+will: "+27"
+
+#========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

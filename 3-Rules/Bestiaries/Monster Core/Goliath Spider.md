@@ -84,6 +84,18 @@ creatures:
   - 1: Goliath Spider
 ```
 
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftbase, "Goliath Spider")
+SORT level ASC
+
+```
 
 
 Goliath spiders dwell in the deepest jungles, where they build webs as big as temples and feast on prey as large as hippopotami.
