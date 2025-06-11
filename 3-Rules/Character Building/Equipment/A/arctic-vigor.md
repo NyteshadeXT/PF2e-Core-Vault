@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "arctic-vigor"
 aliases: "Arctic Vigor"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "38"
+rarity: "uncommon"
 trait01: "cold"
 trait02: "invested"
 trait03: "magical"
 trait04: "tattoo"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "This tattoo takes the shape of the face of a roaring polar bear with piercing, ice-blue eyes. You don't take damage from extreme cold or severe cold.  * * *  **Activate** `pf2:2` command  **Frequency** once per day  * * *  **Effect** You call forth a blast of polar wind in a 10-foot burst within a range of 30 feet that deals 7d6 cold damage. All creatures in the area must attempt a DC 27 Fortitude check save."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This tattoo takes the shape of the face of a roaring polar bear with piercing, ice-blue eyes. You don't take damage from extreme cold or severe cold."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You call forth a blast of polar wind in a 10-foot burst within a range of 30 feet that deals `dice: 7d6` 7d6 cold damage. All creatures in the area must attempt a DC 27 Fortitude check save."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

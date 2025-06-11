@@ -4,42 +4,43 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "arboreal-boots-(greater)"
-aliases: "Arboreal Boots (Greater)"
-source: "Pathfinder GM Core"
-pg: "285"
-rarity: ""
-trait01: "invested"
-trait02: "primal"
-trait03: ""
-trait04: ""
+name: "arboreal-wand-rank-4"
+aliases: "Arboreal Wand (Rank 4)"
+source: "Pathfinder #201: Pactbreaker"
+pg: "241"
+rarity: "rare"
+trait01: "healing"
+trait02: "magical"
+trait03: "vitality"
+trait04: "wand"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/arboreal-boots.png
-level: 9
+image: zz-Attachments/assets/imageplaceholder.png
+level: 13
 weight: L
-value: "700"
+value: "3000"
 subvalue: "gp"
 invest:
-usage: "wornshoes"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These soft leather boots are embossed with simple woodland scenes. The boots grant a +2 item bonus to [[Skills#Acrobatics|Acrobatics]] and allow you to ignore difficult terrain from plants and fungi.  You also gain a 10-foot climb Speed while climbing plants or fungi and don't need to use your hands to Climb them."
-powerTitle1:
+description: "This gnarled wand is made from the branch of an arboreal."
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
-frequency1:
+frequency1: "once per day, plus overcharge"
 trigger1:
-mechanics1:
+activate1: "Cast a spell"
+mechanics1: "You cast [[Heal]] at the indicated rank. After you cast the spell, the raw primal energy stored within the arboreal from which the wand was made washes over one target you choose and tries to purify its essence. The wand attempts to counteract the lowest level affliction affecting your target. It uses your casting modifier and a counteract rank of half the wand's item level rounded up."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply a casting of _[[heal]]_ of the appropriate rank and a branch freely given by an arboreal"
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
