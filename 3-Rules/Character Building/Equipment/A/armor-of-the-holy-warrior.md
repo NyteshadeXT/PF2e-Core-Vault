@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "armor-of-the-holy-warrior"
 aliases: "Armor of the Holy Warrior"
 source: "Pathfinder Lost Omens Knights of Lastwall"
-pg: ""
-rarity: ""
+pg: "88"
+rarity: "rare"
 trait01: "divine"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -23,16 +23,17 @@ weight: 2
 value: "9000"
 subvalue: "gp"
 invest:
-usage: "wornarmor"
+usage: "worn armor"
+group: "Plate"
 license: "ORC"
 identify:
-description: "Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished _+2 greater resilient half plate_ is decorated with religious motifs and carved with sacred scripture. While wearing armor of the holy warrior, your item bonus from the _greater resilient rune_ increases from +2 to +3; if you upgrade to a _major resilient rune_, the item bonus instead increases from +3 to +4. An undead that critically fails an unarmed attack against you while you wear this armor takes 1d6 vitality damage.  If you are evil, you're [[Conditions/Enfeebled|Enfeebled 2]] while wearing the armor. If you're undead, you also take 2d6 vitality damage each round that you wear the armor.  * * *  **Activate** `pf2:3` command, envision, Interact  **Frequency** once per day  * * *  **Effect** The armor casts the three-action version of a 6th-rank [[Spells/Heal|Heal]] spell."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished _[[Weapon Potency (+2)|+2]] [[Resilient (Greater)|greater resilient]] [[half plate]]_ is decorated with religious motifs and carved with sacred scripture. While wearing armor of the holy warrior, your item bonus from the _greater resilient rune_ increases from +2 to +3; if you upgrade to a _major resilient rune_, the item bonus instead increases from +3 to +4. An undead that critically fails an unarmed attack against you while you wear this armor takes 1d6 vitality damage.  If you are evil, you're [[Enfeebled|Enfeebled 2]] while wearing the armor. If you're undead, you also take `dice: 2d6` 2d6 vitality damage each round that you wear the armor."
+powerTitle1: "Effect"
+actionEconomy1: 3
+type1: "([[command]], [[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The armor casts the three-action version of a 6th-rank [[Heal]] spell."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+baseAC: 7
+modAC: 
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: -3
+speedPenalty: "-10 ft."
+armorCategory: "Heavy"
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +73,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Half-Plate"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

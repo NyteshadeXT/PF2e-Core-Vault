@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "armor-polishing-kit"
 aliases: "Armor Polishing Kit"
 source: "Pathfinder Adventure: Rusthenge"
-pg: ""
+pg: "59"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  * * *  This kit can be used to clean and polish armor. Creatures wearing armor that has been maintained by this kit gain a +1 circumstance bonus on Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] on soldiers, guards, Gorumites, and other martially minded characters. This bonus expires after 24 hours, or if the armor is soiled in some way, such as by walking through a sewer or falling in a mud pit."
+activate: "10 minutes ([[Interact]])"
+description: "This kit can be used to clean and polish armor. Creatures wearing armor that has been maintained by this kit gain a +1 circumstance bonus on Diplomacy checks to [[Make an Impression]] on soldiers, guards, Gorumites, and other martially minded characters. This bonus expires after 24 hours, or if the armor is soiled in some way, such as by walking through a sewer or falling in a mud pit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

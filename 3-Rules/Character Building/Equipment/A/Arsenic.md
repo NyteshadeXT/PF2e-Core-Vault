@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "arsenic"
 aliases: "Arsenic"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "248"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 18 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 5 minutes  **Stage 1** 1d4 poison damage and [[Conditions/Sickened|Sickened 1]] (1 minute)  **Stage 2** 1d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)  **Stage 3** 1d8 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This toxin is a compound of arsenic and other substances. You can't reduce your sickened condition while affected."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "**Saving Throw** DC 18 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 5 minutes<br>**Stage 1** `dice: 1d4` 1d4 poison damage and [[Sickened 1]] (1 minute)<br>**Stage 2** `dice: 1d6` 1d6 poison damage and [[Sickened|Sickened 2]] (1 minute)<br>**Stage 3** `dice: 1d8` 1d8 poison damage and [[Sickened|Sickened 3]] (1 minute)"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

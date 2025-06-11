@@ -242,17 +242,29 @@ if (d.hitpoints != null) dur.push(`**HP** ${d.hitpoints}`);
 if (d.break     != null) dur.push(`**BT** ${d.break}`);
 if (dur.length)          stats.push(dur.join("; "));
 
-// ─── Usage / Activate / Craft / License / Invest ─────────────
+// ─── Usage / Shield / Activate / Craft / License / Invest ─────────────
+if (d.usage) stats.push(`**Usage** ${d.usage}`);
+
+// ─── Shield fields in one line ─────────────────────────────────────────
+if (d.hardness || d.hp || d.bt) {
+  const shieldParts = [];
+  if (d.hardness) shieldParts.push(`**Hardness** ${d.hardness}`);
+  if (d.hp)       shieldParts.push(`**HP** ${d.hp}`);
+  if (d.bt)       shieldParts.push(`**BT** ${d.bt}`);
+  stats.push(shieldParts.join('; '));
+}
+
+// ─── Activate / Craft / License / Invest ─────────────────────────────────
 const rawActivate = d.file.frontmatter.activate;
 if (rawActivate?.toString().trim()) {
   stats.push(`**Activate** ${rawActivate}`);
 }
-if (d.usage)    stats.push(`**Usage** ${d.usage}`);
-if (d.craft)    stats.push(`**Craft** ${d.craft}`);
-if (d.license)  stats.push(`**License** ${d.license}`);
-if (d.invest)   stats.push(`**Invest** ${d.invest}`);
+if (d.craft)   stats.push(`**Craft** ${d.craft}`);
+if (d.license) stats.push(`**License** ${d.license}`);
+if (d.invest)  stats.push(`**Invest** ${d.invest}`);
 
 if (stats.length) dv.list(stats);
+
 
 // ─── INTELLIGENT ITEM BOX ───────────────────────────────────────
 const hasIntel =

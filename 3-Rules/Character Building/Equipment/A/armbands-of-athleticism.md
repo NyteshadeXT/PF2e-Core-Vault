@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "armbands-of-athleticism"
 aliases: "Armbands of Athleticism"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "285"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornarmbands"
 license: "ORC"
 identify:
-description: "Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises.  While fastened to your upper arms, the armbands give you a +2 item bonus to Athletics checks.  In addition, whenever you use an action to Climb or Swim and you succeed at the Athletics check, add a +5-foot item bonus to the distance you move."
+description: "Skilled awl work has imprinted images of a muscled weightlifter into these tiered leather bands, which grant you enhanced stamina and skill when performing athletic exercises.  While fastened to your upper arms, the armbands give you a +2 item bonus to [[Skills#Athletics|Athletics]] checks.  In addition, whenever you use an action to [[Climb]] or [[Swim]] and you succeed at the [[Skills#Athletics|Athletics]] check, add a +5-foot item bonus to the distance you move."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

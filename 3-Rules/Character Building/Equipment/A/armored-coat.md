@@ -3,13 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
-rarity: ""
-trait01: ""
-trait02: ""
+name: "armored-coat"
+aliases: "Armored Coat"
+source: "Pathfinder Knights of Lastwall"
+pg: "87"
+rarity: "Uncommon"
+trait01: "Comfort"
+trait02: "Flexible"
 trait03:
 trait04:
 trait05:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
-group: 
-weight: 
-value: ""
-subvalue: ""
+level: 0
+group: "Leather"
+weight: 2
+value: "20"
+subvalue: "gp"
 invest:
 usage: ""
-license: ""
+license: "OGL"
 identify: ""
-description: ""
+description: "A custom, lightweight mail is fitted within the lining of a coat or similar apparel, physically hiding the armor while maintaining the wearer's fashion. While not nearly as protective as heavier armors, the armored coat allows the wearer to blend in more aesthetically during civilian functions. Like other suits of armor, the armored coat is custom-fitted to an individual's body type, ensuring comfort without sacrificing its defensive capabilities."
 activate: ""
 craft: 
 destruction: 
@@ -100,18 +100,15 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
-strRequirement: 
-checkPenalty: 
+baseAC: 2
+dexCap: 2
+strRequirement: 14
+checkPenalty: -1
 speedPenalty: 
-armorCategory: 
+armorCategory: "Light"
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -141,18 +138,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Bo Staff")
-SORT level ASC
-
-```
-
-

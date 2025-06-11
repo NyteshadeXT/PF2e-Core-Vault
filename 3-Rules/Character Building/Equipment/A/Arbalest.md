@@ -28,12 +28,12 @@ usage: "held in two hands "
 license: "ORC"
 identify:
 description: "This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy."
-powerTitle1:
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The target takes `dice: 1d8` 1d8 [[Persistent Damage|persistent bleed damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls."
 powerTitle2:
 actionEconomy2:
 type2:

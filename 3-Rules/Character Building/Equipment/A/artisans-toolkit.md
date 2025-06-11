@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
+name: "artisans-toolkit"
+aliases: "Artisan's Toolkit"
+source: "Pathfinder Player Core"
+pg: "287"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: 
-weight: 
-value: ""
-subvalue: ""
+weight: 2
+value: "4"
+subvalue: "gp"
 invest:
-usage: ""
-license: ""
+usage: "1 or 2 hands"
+license: "ORC"
 identify: ""
-description: ""
+description: "You need this toolkit to create items from raw materials with the [[Skills#Crafting|Crafting]] skill. Different sets are needed for different work, as determined by the GM; for example, a blacksmith's toolkit differs from a woodworker's toolkit. If you wear your artisan's toolkit, you can draw and replace it as part of the action that uses it."
 activate: ""
 craft: 
 destruction: 
@@ -141,18 +141,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Bo Staff")
-SORT level ASC
-
-```
-
-

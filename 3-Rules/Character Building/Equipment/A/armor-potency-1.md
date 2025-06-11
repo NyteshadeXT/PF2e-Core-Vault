@@ -4,12 +4,12 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "armor-latches"
-aliases: "Armor Latches"
-source: "Pathfinder Treasure Vault"
-pg: "11"
+name: "armor-potency-1"
+aliases: "Armor Potency (+1)"
+source: "Pathfinder GM Core"
+pg: "226"
 rarity: ""
-trait01: "adjustment"
+trait01: "magical"
 trait02: ""
 trait03: ""
 trait04: ""
@@ -18,15 +18,15 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 5
 weight: 
-value: "4"
+value: "160"
 subvalue: "gp"
 invest:
-usage: "applied to armor"
+usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "This armor is easily doffed. A set of armor with armor latches gains the noisy trait; you can't add latches to armor that already possesses the noisy trait. You can remove a set of armor with armor latches with a 3-action activity, which has the manipulate trait. This doesn't affect the time it takes to don the armor."
+description: "Most magic weapons and armor gain their enhancements from potent eldritch runes etched into them. These runes allow for in-depth customization of items. Runes must be physically engraved on items through a special process to convey their effects. They take two forms: fundamental runes and property runes. Fundamental runes offer the most basic and essential benefits: potency runes add a bonus to either attack rolls or AC, striking runes add extra weapon damage dice, a resilient rune grants a bonus to saving throws. Property runes, by contrast, grant more varied effects—typically powers that are constant while the armor is worn or that take effect each time the inscribed item is used, such as a rune that grants energy resistance or one that adds fire damage to a weapon's attacks.<br><br>Magic wards deflect attacks. Increase the armor's item bonus to AC by 1. The armor can be etched with one property rune.  You can upgrade the _armor potency_ rune already etched on a suit of armor using the normal process for upgrading items and runes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "You are an expert in [[Skills#Crafting|Crafting]]."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #

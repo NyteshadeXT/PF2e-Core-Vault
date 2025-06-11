@@ -3,13 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
+name: "armored-cloak"
+aliases: "Armored Cloak"
+source: "Pathfinder Lost Omens Firebrands"
+pg: "83"
 rarity: ""
-trait01: ""
-trait02: ""
+trait01: "comfort"
+trait02: "flexible"
 trait03:
 trait04:
 trait05:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: 
-weight: 
-value: ""
-subvalue: ""
+weight: L
+value: "2"
+subvalue: "gp"
 invest:
 usage: ""
-license: ""
+license: "OGL"
 identify: ""
-description: ""
+description: "This large, thick cloak is fitted with thin strips of metal at key locations along its length. A pair of straps attaches the cloak to your arms, giving you greater control over the cloak's movements. Using these straps, you can constantly move the cloak or keep it wrapped around yourself to block and intercept attacks. Many Firebrands favor wearing armored cloaks over traditional armor for style reasons, such as matching the cloak to the rest of their outfit."
 activate: ""
 craft: 
 destruction: 
@@ -100,18 +100,15 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
-strRequirement: 
-checkPenalty: 
+baseAC: 1
+dexCap: 3
+strRequirement: "+1"
+checkPenalty: -1
 speedPenalty: 
-armorCategory: 
+armorCategory: "Light"
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -141,18 +138,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Bo Staff")
-SORT level ASC
-
-```
-
-

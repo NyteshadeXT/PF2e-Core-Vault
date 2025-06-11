@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "armor-latches"
-aliases: "Armor Latches"
+name: "arbor-wine"
+aliases: "Arbor Vine Wine"
 source: "Pathfinder Treasure Vault"
-pg: "11"
+pg: "47"
 rarity: ""
-trait01: "adjustment"
-trait02: ""
-trait03: ""
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "4"
+level: 9
+weight: L
+value: "130"
 subvalue: "gp"
 invest:
-usage: "applied to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This armor is easily doffed. A set of armor with armor latches gains the noisy trait; you can't add latches to armor that already possesses the noisy trait. You can remove a set of armor with armor latches with a 3-action activity, which has the manipulate trait. This doesn't affect the time it takes to don the armor."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Watering grape or berry bushes with certain alchemical liquids as they grow results in a ruby-red drink that’s rich and heady. The vines develop a connection to their natural environment and impart it onto the wine’s imbiber."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type: ([[interact]])
+frequency:
 trigger1:
-mechanics1:
+mechanics1: "For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,6 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
 
 ```meta-bind-embed
 [[Item Card Template]]
