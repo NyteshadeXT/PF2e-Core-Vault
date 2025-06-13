@@ -4,55 +4,57 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "atmospheric-staff-(greater)"
+name: "atmospheric-staff-greater"
 aliases: "Atmospheric Staff (Greater)"
 source: "Pathfinder Rage of Elements"
-pg: ""
-rarity: ""
+pg: "74"
+rarity: "uncommon"
 trait01: "air"
 trait02: "magical"
 trait03: "staff"
 trait04: "two-hand-d8"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/atmospheric-staff.png
 level: 12
 weight: 2
 value: "1900"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This staff is made of a dense wood and strikes the ground with an imposing boom. At the top of the staff is a perfectly round obsidian sphere that, when stared at for too long, makes viewers feel as though they're heavier than before. When wielding this staff, you gain a +1 item bonus to saves against forced movement.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gale Blast|Gale Blast]] *   **1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gravitational Pull|Gravitational Pull]] *   **2nd** [[Spells/Gentle Breeze|Gentle Breeze]] *   **3rd** [[Spells/Gravity Well|Gravity Well]], [[Spells/Tempest Cloak|Tempest Cloak]] *   **4th** [[Spells/Fly|Fly]], [[Spells/Variable Gravity|Variable Gravity]] *   **5th** [[Spells/Elemental Form|Elemental Form]] (air only), [[Spells/Telekinetic Haul|Telekinetic Haul]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle1:
+description: "This staff is made of a dense wood and strikes the ground with an imposing boom. At the top of the staff is a perfectly round obsidian sphere that, when stared at for too long, makes viewers feel as though they're heavier than before. When wielding this staff, you gain a +1 item bonus to saves against forced movement."
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+activate1: "Cast a Spell"
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Gale Blast]]<br>**1st** [[Air Bubble]], [[Gravitational Pull]]<br>**2nd** [[Gentle Breeze]]<br>**3rd** [[Gravity Well]], [[Tempest Cloak]]<br>**4th** [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Variable Gravity]]<br>**5th** [[Elemental Form]] (air only), [[Telekinetic Haul]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed ranks of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: "bludgeoning"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Simple"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

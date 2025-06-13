@@ -8,7 +8,7 @@ whichparty:
 adventure_status: In Progress
 adventure_level: 2
 total_xp: 2400
-completed_xp: 1880
+completed_xp: 2020
 completed_xp_log:
   - date: 2025-04-10
     xp: 300
@@ -20,6 +20,8 @@ completed_xp_log:
     xp: 60
   - date: 2025-05-29
     xp: 230
+  - date: 2025-06-12
+    xp: 140
 awarded_coin:
   - date: 2025-04-10
     pp: 0
@@ -50,6 +52,11 @@ awarded_coin:
     pp: 0
     gp: 36
     sp: 0
+    cp: 0
+  - date: 2025-06-12
+    pp: 0
+    gp: 142
+    sp: 25
     cp: 0
 awarded_consumable_items:
   - name: Healing Potion (Minor) x2
@@ -88,6 +95,14 @@ awarded_consumable_items:
     ilvl: 3
     gp: 12
     date: 2025-05-08
+  - name: Oak Potion x2
+    ilvl: 4
+    gp: 15
+    date: 2025-06-12
+  - name: Ghost Oil x2
+    ilvl: 4
+    gp: 15
+    date: 2025-06-12
 awarded_permanent_items:
   - name: Magic Wand (Harm)
     ilvl: 0
@@ -1148,7 +1163,7 @@ creatures:
 **Labyrinth Denizens:** Two crafty wargs patrol the passages. If they catch the scent of any non-tengu, they sound a horrific howl before charging into battle. Make [[Skills#Perception|Perception]] checks for any tengu in the area. They move to ambush the attackers if they hear the attack.
 
 **Encounter Difficulty:**   
-- [ ] Trivial (40 XP) Level 4
+> - [<] Trivial (40 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[3-Rules/Bestiaries/Monster Core/Warg|Warg]] W
@@ -1217,7 +1232,7 @@ The acolytes of Vecna bunk here. Normally, two of them remain in the inner sanct
 
 # Encounter 26: The Inner Sanctum
 **Encounter Difficulty:**   
-- [ ] Moderate (100 XP) Level 4
+> - [<] Moderate (100 XP) Level 4
 
 ![[Inner Sanctum.png|right|500]]
 
@@ -1257,12 +1272,12 @@ The ghost moves to attack the PCs, driven by an intense hatred of all non-believ
 > [!tip]+ Treasure
 > In addition to their gear the cultists have 48 gold split between them.  The also each carry an [[Oak Potion]] and a [[Ghost Oil]].  Set upon the altar are a variety of offerings to Vecna. They include two golden goblets worth 5 gp each and a bronze sacrificial dagger set with blood red rubies worth 25 sp.
 > 
-> - [ ] gp::82
-> - [ ] sp::25
-> - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
-> - [ ] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
-> - [ ] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
-> - [ ] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
+> - [<] gp::82
+> - [<] sp::25
+> - [<] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
+> - [<] consumable::[[Oak Potion|Oak Potion]] [ilvl::4] [gp::15]
+> - [<] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
+> - [<] consumable::[[Ghost Oil|Ghost Oil]] [ilvl::4] [gp::15]
 
 # Encounter 27: Laboratory of the Faceless One
 **Encounter Difficulty:**   

@@ -22,6 +22,7 @@ level: 12
 weight: 1
 value: "1750"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand "
 license: "ORC"
@@ -47,13 +48,13 @@ craft: "Supply one casting of all listed levels of all listed spells"
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: "bludgeoning"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Simple"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -86,7 +87,7 @@ will: "+27"
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---

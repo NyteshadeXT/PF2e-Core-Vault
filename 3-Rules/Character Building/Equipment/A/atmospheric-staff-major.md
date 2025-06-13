@@ -4,8 +4,8 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "atmospheric-staff"
-aliases: "Atmospheric Staff"
+name: "atmospheric-staff-major"
+aliases: "Atmospheric Staff (Major)"
 source: "Pathfinder Rage of Elements"
 pg: "74"
 rarity: "uncommon"
@@ -18,9 +18,9 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/atmospheric-staff.png
-level: 8
+level: 16
 weight: 2
-value: "480"
+value: "8900"
 subvalue: "gp"
 group: "Club"
 invest:
@@ -33,8 +33,7 @@ actionEconomy1:
 type1:
 frequency1:
 trigger1:
-activate1: "Cast a Spell"
-mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Gale Blast]]<br>**1st** [[Air Bubble]], [[Gravitational Pull]]<br>**2nd** [[Gentle Breeze]]<br>**3rd** [[Gravity Well]], [[Tempest Cloak]]"
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Gale Blast]]<br>**1st** [[Air Bubble]], [[Gravitational Pull]]<br>**2nd** [[Gentle Breeze]]<br>**3rd** [[Gravity Well]], [[Tempest Cloak]]<br>**4th** [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Variable Gravity]]<br>**5th** [[Elemental Form]] (air only), [[Telekinetic Haul]]<br>**6th** [[Zero Gravity]]<br>**7th** [[Elemental Form]] (air only), [[Vacuum]]"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -77,7 +76,6 @@ weaponBase: "Staff"
 armorBase:
 
 ---
-
 
 ```meta-bind-embed
 [[Item Card Template]]

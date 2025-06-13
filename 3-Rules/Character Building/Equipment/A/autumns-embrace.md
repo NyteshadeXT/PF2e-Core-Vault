@@ -17,22 +17,23 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/autumns-embrace.png
 level: 12
 weight: 1
 value: "2000"
 subvalue: "gp"
 invest:
-usage: "wornarmor"
+usage: "worn armor"
 license: "ORC"
+group: "Wood"
 identify:
-description: "Woven by fey seamstresses as rewards for servants of nature, countless leaves continually changing colors in autumnal hues comprise _autumn's embrace_, a suit of _+2 invisibility resilient leaf weave_. Leaves shed from the armor as they might fall in autumn. When activating the armor's [[Equipment/Invisibility|Invisibility]] property rune, you disappear in a swirl of colorful leaves.  * * *  **Activate** `pf2:2` command, envision (aura)  **Frequency** once per day  **Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20-foot emanation for 1 minute. Creatures within the area are [[Conditions/Concealed|Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Woven by fey seamstresses as rewards for servants of nature, countless leaves continually changing colors in autumnal hues comprise _autumn's embrace_, a suit of _[[armor-potency-2|+2]] [[3-Rules/Character Building/Equipment/I/invisibility|invisibility]] [[resilient]] [[leaf weave]]_. Leaves shed from the armor as they might fall in autumn. When activating the armor's [[3-Rules/Character Building/Equipment/I/invisibility|invisibility]] property rune, you disappear in a swirl of colorful leaves."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "[[command]], [[envision]] ([[aura]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20-foot emanation for 1 minute. Creatures within the area are [[Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can [[Dismiss]] the activation."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 3
 modAC:
-dexCap:
+dexCap: 4
 strRequirement:
-checkPenalty:
+checkPenalty: -1
 speedPenalty:
-armorCategory:
+armorCategory: "Light"
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +73,11 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Leaf Weave"
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

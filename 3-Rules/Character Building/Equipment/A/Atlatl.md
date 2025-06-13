@@ -7,21 +7,22 @@ notetype: pf2e-item
 name: "atlatl"
 aliases: "Atlatl"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "30"
 rarity: ""
 trait01: "propulsive"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/atlatl.png
 level: 0
 weight: 1
 value: "2"
 subvalue: "sp"
+group: "Dart"
 invest:
 usage: "held in one hand "
 license: "ORC"
@@ -45,14 +46,14 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 60 ft
-ammoType:
-damage: 1d6 piercing
-dmg1:
-dmg1Type:
+ammoType: "Dart"
+damage:  
+dmg1: 1d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Ranged"
+weaponCategory: "Simple"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Atlatl")
+SORT level ASC
+
+```

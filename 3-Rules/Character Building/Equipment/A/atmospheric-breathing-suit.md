@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "atmospheric-breathing-suit"
 aliases: "Atmospheric Breathing Suit"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "112"
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -17,7 +17,7 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/atmospheric-breathing-suit.png
 level: 3
 weight: 2
 value: "100"
@@ -75,3 +75,9 @@ weaponBase:
 armorBase:
 
 ---
+
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

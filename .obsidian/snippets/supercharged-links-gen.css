@@ -417,13 +417,13 @@ div[data-id="e932-6989"] div.setting-item-description::after,
 }
 
 div[data-id="b754-5b42"] div.setting-item-description,
-[data-link-tags*="SessionNote" i] {
+[data-link-notetype="SessionNote"  i] {
     color: var(--b754-5b42-color) !important;
     font-weight: var(--b754-5b42-weight);
 }
 
 .c-b754-5b42-use-background div[data-id="b754-5b42"] div.setting-item-description,
-.c-b754-5b42-use-background .data-link-text[data-link-tags*="SessionNote" i] {
+.c-b754-5b42-use-background .data-link-text[data-link-notetype="SessionNote"  i] {
     background-color: var(--b754-5b42-background-color) !important;
     border-radius: 5px;
     padding-left: 2px;
@@ -432,12 +432,12 @@ div[data-id="b754-5b42"] div.setting-item-description,
 }
 
 div[data-id="b754-5b42"] div.setting-item-description::before,
-.data-link-icon[data-link-tags*="SessionNote" i]::before {
+.data-link-icon[data-link-notetype="SessionNote"  i]::before {
     content: var(--b754-5b42-before);
 }
 
 div[data-id="b754-5b42"] div.setting-item-description::after,
-.data-link-icon-after[data-link-tags*="SessionNote" i]::after {
+.data-link-icon-after[data-link-notetype="SessionNote"  i]::after {
     content: var(--b754-5b42-after);
 }
 
@@ -1436,7 +1436,7 @@ settings:
         default: '#ffffff'
     - 
         id: b754-5b42
-        title: tag is SessionNote
+        title: notetype is SessionNote
         description: Example note
         type: heading
         collapsed: true

@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "assassins-skin"
 aliases: "Assassin's Skin"
 source: "Pathfinder Adventure: Prey for Death"
-pg: ""
+pg: "101"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
@@ -22,17 +22,18 @@ level: 15
 weight: 1
 value: "6500"
 subvalue: "gp"
+group: "Leather"
 invest:
-usage: "wornarmor"
+usage: "worn armor"
 license: "ORC"
 identify:
-description: "This _+2 greater resilient leather armor_ was made from the flayed hide of an Elysian pegasus, then dyed a bright crimson so that it appears slick with fresh blood. The wearer of _assassin's skin_ gains a +3 item bonus to [[Actions/Escape|Escape]] checks.  **Activate—Blood Revitalization** `pf2:0` (concentrate)  **Frequency** once per hour  **Trigger** You would take persistent bleed damage  * * *  **Effect** You don't take the persistent bleed damage and instead regain Hit Points equal to the bleed damage. The persistent bleed damage ends."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This _[[armor-potency-2|+2]] [[Resilient (Greater)|greater resilient]] [[leather armor]]_ was made from the flayed hide of an Elysian pegasus, then dyed a bright crimson so that it appears slick with fresh blood. The wearer of _assassin's skin_ gains a +3 item bonus to [[Escape]] checks."
+powerTitle1: "Blood Revitalization"
+actionEconomy1: 0
+type1: "([[concnetrate]])"
+frequency1: "once per hour"
+trigger1: "You would take persistent bleed damage"
+mechanics1: "You don't take the persistent bleed damage and instead regain Hit Points equal to the bleed damage. The persistent bleed damage ends."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 3
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
+dexCap: 4
+strRequirement: 
+checkPenalty: -1
 speedPenalty:
-armorCategory:
+armorCategory: "Light"
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +73,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Leather"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

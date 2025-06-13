@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "avalanche-boots"
 aliases: "Avalanche Boots"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "102"
 rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornboots"
 license: "ORC"
 identify:
-description: "While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to Athletics checks and a +2 circumstance bonus to [[Actions/Force Open|Force Open]] and [[Actions/Shove|Shove]]. When you invest the boots, you either increase your Strength modifier by 1 or increase it to +4, whichever is higher.  * * *  **Activate** `pf2:0` envision  **Frequency** once per hour  **Trigger** You succeed or critically succeed with a Shove  **Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[Conditions/Prone|Prone]]."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "While the insides of these boots are comfortable, fur-lined leather, the outsides are a jumble of slate plates, giving the impression of a rockslide. You gain a +3 item bonus to [[Skills#Athletics|Athletics]] checks and a +2 circumstance bonus to [[Force Open]] and [[Shove]]. When you invest the boots, you either increase your Strength modifier by 1 or increase it to +4, whichever is higher."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
+frequency1: "once per hour"
+trigger1: "You succeed or critically succeed with a [[Shove]]"
+mechanics1: "If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[Prone]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

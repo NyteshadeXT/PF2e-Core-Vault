@@ -259,6 +259,50 @@
         "5-World/Points of Interest/Diamond Lake/Lazare's House.md",
         "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md"
       ]
+    },
+    {
+      "id": "update-me",
+      "lastAccessed": 1749781177446,
+      "markers": [
+        {
+          "id": "ID_c8986bcbeb2a",
+          "type": "default",
+          "loc": [
+            -0.0036462081583744648,
+            0.004379120488787812
+          ],
+          "layer": "%5B%5BLabyrinth%20of%20Vecna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6adaf8289b48",
+          "type": "default",
+          "loc": [
+            -0.0026769638061523438,
+            0.0036279176237956658
+          ],
+          "layer": "%5B%5BLabyrinth%20of%20Vecna.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+      ]
     }
   ],
   "defaultMarker": {

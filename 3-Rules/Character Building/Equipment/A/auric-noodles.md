@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "auric-noodles"
 aliases: "Auric Noodles"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "47"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "processed"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -25,8 +25,9 @@ subvalue: "gp"
 invest:
 usage: "held in two hands"
 license: "ORC"
+activate: "10 minutes ([[Interact]])"
 identify:
-description: "**Activate** 10 minutes (Interact)  Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to Identify Magic, and you can move at full speed while using the [[Actions/Detect Magic|Detect Magic]] exploration activity.  [[Equipment Effects/Effect_ Auric Noodles|Effect: Auric Noodles]]"
+description: "Auric noodles are boiled, then pan-fried and tossed with sliced vegetables and a sticky, savory sauce incorporating alchemical reagents. After you eat the noodles, they boost your ability to sense magic for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to checks to Identify Magic, and you can move at full speed while using the [[3-Rules/Character Building/Actions/Detect Magic|Detect Magic]] exploration activity."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

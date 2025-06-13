@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "avernal-cape"
 aliases: "Avernal Cape"
 source: "Pathfinder #194: Cult of the Cave Worm"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "unique"
 trait01: "earth"
 trait02: "invested"
 trait03: "magical"
 trait04: "relic"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "Made from preserved crimson worm hide, this thick leather cape can deflect incoming blows without serious damage. It functions as a [[Equipment/Dueling Cape|Dueling Cape]] and while moved into a protective position, it also grants you fire resistance equal to twice the relic's number of gifts.  [[Equipment Effects/Effect_ Dueling Cape|Effect: Dueling Cape]]"
-powerTitle1:
+description: "Made from preserved crimson worm hide, this thick leather cape can deflect incoming blows without serious damage. It functions as a [[Dueling Cape]] and while moved into a protective position, it also grants you fire resistance equal to twice the relic's number of gifts."
+powerTitle1: "Gifts"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "**Forming the Bond** While wearing the cape, you defeat a foe and spare their life.<br>**Advancing the Bond** Befriend beasts and terrify foes with your physical presence and prowess.<br>**Minor Gifts** [[feral claws]], [[flare bolt]], [[heat haze]]<br>**Major Gifts** [[form of fury]] (snake form), [[searing wave]]"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

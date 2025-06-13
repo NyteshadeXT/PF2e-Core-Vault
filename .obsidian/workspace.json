@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/assassins-bracers-(type-i).md",
+                "file": "3-Rules/Character Building/Equipment/B/backfire-mantle.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "assassins-bracers-(type-i)"
+              "title": "backfire-mantle"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Encounter at Blackwall Keep"
+              "title": "The Three Faces of Evil"
             }
           },
           {
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 317.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -298,42 +298,42 @@
   },
   "active": "2f34af5987923c59",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/A/asp-coil.md",
-    "3-Rules/Character Building/Equipment/A/assassins-bracers-(type-i).md",
-    "3-Rules/Character Building/Equipment/A/arbor-wine-aged.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/A/arbor-wine.md",
-    "3-Rules/Character Building/Equipment/A/ashes-of-the-war-god.md",
-    "3-Rules/Character Building/Equipment/A/ashen-greater.md",
-    "3-Rules/Character Building/Equipment/A/ashen.md",
-    "3-Rules/Character Building/Equipment/A/armor-potency-1.md",
-    "3-Rules/Character Building/Equipment/A/ash-gown-(greater).md",
-    "3-Rules/Character Building/Equipment/A/ash-gown.md",
-    "zz-Attachments/ash-gown.png",
-    "3-Rules/Character Building/Equipment/A/ascendant-dragon-spirit.md",
-    "3-Rules/Character Building/Equipment/A/artisans-toolkit-sterling.md",
-    "3-Rules/Character Building/Equipment/A/artisans-toolkit.md",
-    "3-Rules/Character Building/Equipment/A/artificer-spectacles.md",
-    "3-Rules/Character Building/Equipment/A/artevil-suspension.md",
-    "3-Rules/Character Building/Equipment/A/arsenic.md",
-    "3-Rules/Character Building/Equipment/A/abysium-powder.md",
-    "3-Rules/Character Building/Equipment/A/arrows.md",
-    "3-Rules/Character Building/Equipment/A/arrow-catching-shield.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "3-Rules/Bestiaries/Uniques/Shesht.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 018.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 017.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 015.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 014.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
+    "zz-Templates/GM Templates/Story Notes/Template - Service.md",
     "zz-Templates/Markdown/Item Card Template.md",
-    "3-Rules/Character Building/Equipment/A/arquebus.md",
-    "3-Rules/Character Building/Equipment/A/amphibious-chair.md",
-    "3-Rules/Character Building/Equipment/A/animal-repellent-minor.md",
-    "3-Rules/Character Building/Equipment/A/antimagic-oil.md",
-    "3-Rules/Character Building/Equipment/A/arbalest.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "3-Rules/Character Building/Equipment/B/backfire-mantle.md",
+    "3-Rules/Character Building/Equipment/B/backpack-ballista.md",
+    "3-Rules/Character Building/Equipment/B/Barding of the Zephyr.md",
+    "3-Rules/Character Building/Equipment/B/Bane Ammunition (Greater).md",
+    "3-Rules/Character Building/Equipment/B/Bands of Force.md",
+    "3-Rules/Character Building/Equipment/B/Balisse Feather.md",
+    "3-Rules/Character Building/Equipment/B/Bagpipes of Turmoil.md",
+    "3-Rules/Character Building/Equipment/B/Backpack Ballista.md",
+    "3-Rules/Character Building/Equipment/B/Backpack Catapult.md",
+    "3-Rules/Character Building/Equipment/B/Bag of Cats.md",
+    "3-Rules/Character Building/Equipment/B/Bag of Devouring Type I.md",
+    "3-Rules/Character Building/Equipment/B/Backfire Mantle.md",
+    "3-Rules/Character Building/Equipment/B/bag-of-weasels.md",
+    "3-Rules/Character Building/Equipment/B/bakuwa-lizardfolk-bony-plates.md",
+    "3-Rules/Character Building/Equipment/B/Bagpipes of Turmoil (Major).md",
+    "zz-Attachments/autumns-embrace.png",
+    "zz-Attachments/atmospheric-staff.png",
+    "zz-Attachments/atmospheric-breathing-suit.png",
+    "zz-Attachments/image-5.png",
+    "zz-Attachments/atlatl.png",
+    "zz-Attachments/ash-gown.png",
     "zz-Attachments/armory-bracelet.png",
     "zz-Attachments/archaic-wayfinder.png",
     "zz-Attachments/arboreal-boots.png",
     "zz-Attachments/arachnid-harness.png",
-    "zz-Attachments/antler-arrow.png",
-    "zz-Attachments/anklets-of-alacrity.png",
-    "zz-Attachments/amnemonic charm.png",
-    "zz-Attachments/Zerathos Holy Symbol.png",
-    "zz-Attachments/Vorthron Holy Symbol.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",

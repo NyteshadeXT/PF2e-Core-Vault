@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "astringent-venom"
 aliases: "Astringent Venom"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "67"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
 trait05: "virulent"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,13 +26,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` Interact  This oily, dark-purple powder gives off the distinct odor of boiled leather. When delivered, the poison acts quickly to constrict the victim's blood flow to their extremities and turn their lungs into a soft jelly. A victim of astringent venom is recognizable by the frostbite-like hue of their hands as they loose circulation to their extremities, making it difficult for them to hold things. Each round at the beginning of their turn, a creature affected by astringent venom must succeed at a DC 5 Flat check or drop one random item they're holding.  **Saving Throw** DC 32 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** 6d6 poison (1 round)  **Stage 2** 8d6 poison (1 round)  **Stage 3** 10d6 poison and [[Conditions/Confused|Confused]] (1 round)"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This oily, dark-purple powder gives off the distinct odor of boiled leather. When delivered, the poison acts quickly to constrict the victim's blood flow to their extremities and turn their lungs into a soft jelly. A victim of astringent venom is recognizable by the frostbite-like hue of their hands as they loose circulation to their extremities, making it difficult for them to hold things."
+powerTitle1: "Effect"
+actionEconomy1: 3
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Each round at the beginning of their turn, a creature affected by astringent venom must succeed at a DC 5 Flat check or drop one random item they're holding.  **Saving Throw** DC 32 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds<br>**Stage 1** `dice: 6d6` 6d6 poison (1 round)<br>**Stage 2** `dice: 8d6` 8d6 poison (1 round)<br>**Stage 3** `dice: 10d6` 10d6 poison and [[Confused]] (1 round)"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

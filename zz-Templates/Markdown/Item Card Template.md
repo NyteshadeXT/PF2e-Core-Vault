@@ -119,6 +119,7 @@ skill1:
 skill2:
 skill3:
 skill4:
+skill5: 
 int:
 wis:
 cha:
@@ -274,6 +275,7 @@ const hasIntel =
      !!d.skill2?.trim()    ||
      !!d.skill3?.trim()    ||
      !!d.skill4?.trim()    ||
+     !!d.skill5?.trim()    ||
      typeof d.int === "number" ||
      typeof d.wis === "number" ||
      typeof d.cha === "number" ||
@@ -311,7 +313,7 @@ if (hasIntel) {
   if (L1.length)               box.appendChild(mkLine(L1));
 
   // 3) Skills
-  let SK = [d.skill1, d.skill2, d.skill3, d.skill4]
+  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5]
              .filter(x => x?.trim())
              .map(x => x.trim());
   if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));

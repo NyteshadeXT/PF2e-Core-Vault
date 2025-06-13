@@ -1,5 +1,7 @@
 {
-  "targetAttributes": [],
+  "targetAttributes": [
+    "notetype"
+  ],
   "targetTags": true,
   "getFromInlineField": true,
   "enableTabHeader": true,
@@ -131,8 +133,8 @@
       "selectBackground": true
     },
     {
-      "type": "tag",
-      "name": "",
+      "type": "attribute",
+      "name": "notetype",
       "value": "SessionNote",
       "matchCaseSensitive": false,
       "match": "exact",

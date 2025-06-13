@@ -1,7 +1,6 @@
 ---
 lastUpdate: 05.09.2025
-tags:
-  - "#SessionNote"
+notetype: SessionNote
 ---
 > [!metadata|metadata]- Metadata 
 >> [!metadata|metadataoption]- System
