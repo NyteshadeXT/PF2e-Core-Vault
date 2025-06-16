@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bands-of-force-(greater)"
-aliases: "Bands of Force (Greater)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "bane-ammunition-lesser"
+aliases: "Bane Ammunition (Lesser)"
+source: "Pathfinder Treasure Vault"
+pg: "42"
 rarity: ""
-trait01: "force"
-trait02: "invested"
-trait03: "magical"
-trait04: "common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "poison"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
-weight: L
-value: "4500"
+level: 1
+weight: 
+value: "3"
 subvalue: "gp"
 invest:
-usage: "wornbracers"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Decorated with clear gemstones, these thick metal bands spread an inflexible layer of force over your body. The force grants you a +2 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to the bands as though they were light armor.  **Activate—Return Force** `pf2:r` (force, manipulate)  **Trigger** A creature critically misses you with a melee Strike  * * *  **Effect** You Shove the creature using the bands' Athletics modifier of +21."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. Bane ammunition can be created from any type of ammunition. "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When activated bane ammunition hits a target that has a trait matching the selected type, it takes `dice: 1d4` 1d4 persistent poison damage in addition to the damage the attack normally deals."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

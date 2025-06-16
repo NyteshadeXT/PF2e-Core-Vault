@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "basilisk-eye"
 aliases: "Basilisk Eye"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "263"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
 trait04: "visual"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You [[Feats/Shield Block|Shield Block]] a melee attack with the affixed shield  * * *  This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude check save or become [[Conditions/Slowed|Slowed 1]] for 1 minute as its body slowly stiffens in partial petrification."
-powerTitle1:
-actionEconomy1:
-type1:
+description: 
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You [[Shield Block]] a melee attack with the affixed shield"
+mechanics1: "This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude check save or become [[Slowed 1]] for 1 minute as its body slowly stiffens in partial petrification."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

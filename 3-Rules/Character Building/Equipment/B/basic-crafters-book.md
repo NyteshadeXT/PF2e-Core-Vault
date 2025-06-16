@@ -3,9 +3,9 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "backpack"
-aliases: "Backpack"
-source: "Pathfinder Player Core"
+name: "basic-crafters-book"
+aliases: "Basic Crafter's Book"
+source: "Source: Pathfinder Player Core"
 pg: "287"
 rarity: ""
 trait01: ""
@@ -23,10 +23,10 @@ weight:
 value: "1"
 subvalue: "sp"
 invest:
-usage: ""
+usage: "held in 2 hands"
 license: "ORC"
 identify: ""
-description: "A backpack holds up to 4 Bulk of items, and the first 2 Bulk of these items don't count against your Bulk limits. If you're carrying or stowing the pack rather than wearing it on your back, its Bulk is light instead of negligible."
+description: "This book contains the formulas for Crafting the 0-level common items in Chapter 6 of the Pathfinder Player Core."
 activate: ""
 craft: 
 destruction: 

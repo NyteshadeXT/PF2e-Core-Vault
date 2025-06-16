@@ -1,6 +1,4 @@
 ---
-
----
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
@@ -9,11 +7,11 @@ notetype: pf2e-item
 name: "backfire-mantle-(greater)"
 aliases: "Backfire Mantle (Greater)"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "179"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""

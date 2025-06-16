@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "barbed-vest"
 aliases: "Barbed Vest"
 source: "Pathfinder #159: All or Nothing"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Viciously sharp spiked chains wrap around this [[Equipment/Studded Leather Armor|Studded Leather Armor]] that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.  The barbed vest doesn't fuse to you in the usual way. It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [[Spells/Cleanse Affliction|Cleanse Affliction]] spell.  Anytime you activate the barbed vest, its chains tighten around you, dealing 1d6 persistent piercing damage. You can remove this persistent damage as normal, but only after deactivating the item's magic as a single action.  **Activate** `pf2:2` Interact  **Frequency** Once per day  * * *  **Effect** The barbed vest casts [[Spells/Spiritual Weapon|Spiritual Weapon]], summoning a [[Equipment/Spiked Chain|Spiked Chain]] to fight for you."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Viciously sharp spiked chains wrap around this [[Studded Leather Armor]] that can be used to magically harm the wearer and channel supernatural abilities without somehow tearing at the leather itself.  The barbed vest doesn't fuse to you in the usual way. It can be removed and discarded, but 1 day after doing so, you feel driven to recollect the vest at any cost until the curse is removed with a [[Cleanse Affliction]] spell.  Anytime you activate the barbed vest, its chains tighten around you, dealing `dice: 1d6` 1d6 persistent piercing damage. You can remove this persistent damage as normal, but only after deactivating the item's magic as a single action."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The barbed vest casts [[Spiritual Weapon]], summoning a [[Spiked Chain]] to fight for you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

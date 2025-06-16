@@ -3,11 +3,11 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "backpack"
-aliases: "Backpack"
-source: "Pathfinder Player Core"
-pg: "287"
-rarity: ""
+name: "backpack-catapult-stone"
+aliases: "Backpack Catapult Stone"
+source: "Pathfinder Guns and Gears"
+pg: "62"
+rarity: "uncommon"
 trait01: ""
 trait02: ""
 trait03:
@@ -18,15 +18,15 @@ trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
-group: 
-weight: 
+group: "Sling"
+weight: 1
 value: "1"
 subvalue: "sp"
 invest:
 usage: ""
-license: "ORC"
+license: "OGL"
 identify: ""
-description: "A backpack holds up to 4 Bulk of items, and the first 2 Bulk of these items don't count against your Bulk limits. If you're carrying or stowing the pack rather than wearing it on your back, its Bulk is light instead of negligible."
+description: "Ammunition for a [[backpack catapult]]. Listed price is per 10 ammunition."
 activate: ""
 craft: 
 destruction: 
@@ -94,8 +94,8 @@ dmg1:
 dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: 
-weaponCategory: 
+weaponType: "Ranged"
+weaponCategory: "Ammunition"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #

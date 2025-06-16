@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bane-ammunition-(lesser)"
-aliases: "Bane Ammunition (Lesser)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "balisse-feather-greater"
+aliases: "Balisse Feather (Greater)"
+source: "Pathfinder Player Core 2"
+pg: "305"
 rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "poison"
-trait04: "common"
+trait01: "consumable"
+trait02: "holy"
+trait03: "magical"
+trait04: "talisman"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 16
 weight: 
-value: "3"
+value: "2000"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` Interact  * * *  Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. When activated bane ammunition hits a target that has a trait matching the selected type, it takes 1d4 persistent poison damage in addition to the damage the attack normally deals."
-powerTitle1:
-actionEconomy1:
-type1:
+description: 
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or a noncombatant within the last minute."
+mechanics1: "This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 35 Will check save or take a –2 status penalty to AC and saving throws and reduce its resistances by 10. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

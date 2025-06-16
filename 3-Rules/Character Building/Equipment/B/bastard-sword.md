@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "bastard-sword"
 aliases: "Bastard Sword"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "278"
 rarity: ""
 trait01: "two-hand-d12"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -24,6 +24,7 @@ value: "4"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
+group: "Sword"
 license: "ORC"
 identify:
 description: "This broad-bladed sword, sometimes called the hand-and-a-half sword, has a longer grip so it can be held in one hand or used with two hands to provide extra slashing power."
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d8 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d8
+dmg1Type: "slashing"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Bastard Sword")
+SORT level ASC
+
+```

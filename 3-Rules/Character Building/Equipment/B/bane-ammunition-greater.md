@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "balisse-feather-(greater)"
-aliases: "Balisse Feather (Greater)"
-source: "Pathfinder Player Core 2"
-pg: ""
+name: "bane-ammunition-greater"
+aliases: "Bane Ammunition (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "42"
 rarity: ""
-trait01: "consumable"
-trait02: "holy"
-trait03: "magical"
-trait04: "talisman"
-trait05: "common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "poison"
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 16
+level: 11
 weight: 
-value: "2000"
+value: "250"
 subvalue: "gp"
 invest:
-usage: "affixed to weapon"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:0` (concentrate)  **Trigger** You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or a noncombatant within the last minute.  * * *  This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 35 Will check save or take a –2 status penalty to AC and saving throws and reduce its resistances by 10. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. Bane ammunition can be created from any type of ammunition. "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When activated bane ammunition hits a target that has a trait matching the selected type, it takes `dice: 3d6` 3d6 persistent poison damage in addition to the damage the attack normally deals."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

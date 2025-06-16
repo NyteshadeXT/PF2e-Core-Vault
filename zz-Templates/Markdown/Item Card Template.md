@@ -203,7 +203,8 @@ if (line1.length) stats.push(line1.join("; "));
 let line2 = [];
 if (d.hands)   line2.push(`**Hands** ${d.hands}`);
 if (d.range)   line2.push(`**Range** ${d.range}`);
-if (d.reload)  line2.push(`**Reload** ${d.reload}`);
+if (d.reload !== undefined && d.reload !== null && d.reload !== "")
+  line2.push(`**Reload** ${d.reload}`);
 if (line2.length) stats.push(line2.join("; "));
 
 // Type / Category / Group

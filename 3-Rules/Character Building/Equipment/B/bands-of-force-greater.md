@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bagpipes-of-turmoil-(greater)"
-aliases: "Bagpipes of Turmoil (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "bands-of-force-greater"
+aliases: "Bands of Force (Greater)"
+source: "Pathfinder GM Core"
+pg: "286"
 rarity: ""
-trait01: "coda"
-trait02: "occult"
-trait03: "staff"
-trait04: "common"
+trait01: "force"
+trait02: "invested"
+trait03: "magical"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 8
-weight: 1
-value: "460"
+image: zz-Attachments/bands-of-force.png
+level: 14
+weight: L
+value: "4500"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "wornbracers"
 license: "ORC"
 identify:
-description: "While those who appreciate bagpipes may like the sound of this gray reed and black leather instrument, its real purpose is to sow turmoil against a performer's enemies, spreading discord with each note. While playing the bagpipes, you gain a +1 item bonus to Performance checks and to Intimidation checks made to [[Actions/Demoralize|Demoralize]].  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Daze|Daze]] *   **1st** [[Spells/Bane|Bane]] *   **2nd** [[Spells/Deafness|Deafness]], [[Spells/Knock|Knock]], [[Spells/Shatter|Shatter]] *   **3rd** [[Spells/Agonizing Despair|Agonizing Despair]], [[Spells/Paralyze|Paralyze]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Decorated with clear gemstones, these thick metal bands spread an inflexible layer of force over your body. The force grants you a +2 item bonus to AC and saving throws, and a maximum Dexterity modifier of +5 as armor. You can affix talismans to the bands as though they were light armor."
+powerTitle1: "Return Force"
+actionEconomy1: r
+type1: "([[3-Rules/Trait Reference/F/force|force]], [[manipulate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "A creature critically misses you with a melee Strike"
+mechanics1: "You Shove the creature using the bands' [[Skills#Athletics|Athletics]] modifier of +21."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "barding-saddle"
 aliases: "Barding Saddle"
 source: "Pathfinder Lost Omens Knights of Lastwall"
-pg: ""
-rarity: ""
+pg: "88"
+rarity: "uncommon"
 trait01: "companion"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This saddle is covered with well-polished metal plates on the outside and adjusts itself to fit any mount.  **Activate** `pf2:2` Interact  * * *  **Effect** You touch the metal plates of the saddle, and they begin to unfold and adapt to the creature, covering your mount in heavy barding. This leaves the mount covered with the barding and wearing a simple-looking saddle. The bulk of the saddle is unchanged in either form, but your mount is not affected by the restrictions, nor the benefits, of wearing barding while in saddle form. If the mount is already wearing any barding, this has no effect. You can make the barding return to its saddle form by following the same process."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This saddle is covered with well-polished metal plates on the outside and adjusts itself to fit any mount."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You touch the metal plates of the saddle, and they begin to unfold and adapt to the creature, covering your mount in heavy barding. This leaves the mount covered with the barding and wearing a simple-looking saddle. The bulk of the saddle is unchanged in either form, but your mount is not affected by the restrictions, nor the benefits, of wearing barding while in saddle form. If the mount is already wearing any barding, this has no effect. You can make the barding return to its saddle form by following the same process."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

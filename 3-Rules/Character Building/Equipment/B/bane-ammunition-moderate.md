@@ -4,15 +4,15 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bane-ammunition-(moderate)"
+name: "bane-ammunition-moderate"
 aliases: "Bane Ammunition (Moderate)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "42"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "poison"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` Interact  * * *  Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. When activated bane ammunition hits a target that has a trait matching the selected type, it takes 2d6 persistent poison damage in addition to the damage the attack normally deals."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Monster hunters favor bane ammunition that contains a capsule of reagents tailored to a particular type of creature—aberration, animal, beast, dragon, fey, giant, ooze, or both fungus and plant. Each type requires a different formula. Bane ammunition can be created from any type of ammunition. "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When activated bane ammunition hits a target that has a trait matching the selected type, it takes `dice: 2d6` 2d6 persistent poison damage in addition to the damage the attack normally deals."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

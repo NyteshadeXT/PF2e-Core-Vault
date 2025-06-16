@@ -12,7 +12,7 @@ tags:
 ## Table of Contents
 
 - [[Acid]]
-- [[Bane]]
+- [[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Bane]]
 - [[Chaotic]]
 - [[Charisma]]
 - [[Cold]]

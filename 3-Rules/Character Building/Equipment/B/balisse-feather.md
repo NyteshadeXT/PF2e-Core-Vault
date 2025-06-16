@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "balisse-feather"
 aliases: "Balisse Feather"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "305"
 rarity: ""
 trait01: "consumable"
 trait02: "holy"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:0` (concentrate)  **Trigger** You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or a noncombatant within the last minute.  * * *  This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will check save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait."
-powerTitle1:
-actionEconomy1:
-type1:
+description: ""
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You deal damage using the affixed weapon to a creature that has the unholy trait or that you witnessed harm an ally, an innocent, or a noncombatant within the last minute."
+mechanics1: "This long, fire-red feather smolders from the weapon it adorns. When you activate the feather, the creature you damaged burns with sacred light. The creature must succeed at a DC 29 Will check save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn. This item has no effect on a creature with the holy trait."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

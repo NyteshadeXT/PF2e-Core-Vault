@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/backfire-mantle.md",
-                "mode": "source",
+                "file": "3-Rules/Character Building/Equipment/B/bastion-of-the-inheritor.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "backfire-mantle"
+              "title": "bastion-of-the-inheritor"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "Shesht"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,44 +297,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f34af5987923c59",
+  "active": "21493dc23a61fa61",
   "lastOpenFiles": [
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "3-Rules/Bestiaries/Uniques/Shesht.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 018.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 017.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 015.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 014.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Session Note.md",
-    "zz-Templates/GM Templates/Story Notes/Template - Service.md",
     "zz-Templates/Markdown/Item Card Template.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "3-Rules/Character Building/Equipment/B/backfire-mantle.md",
-    "3-Rules/Character Building/Equipment/B/backpack-ballista.md",
-    "3-Rules/Character Building/Equipment/B/Barding of the Zephyr.md",
-    "3-Rules/Character Building/Equipment/B/Bane Ammunition (Greater).md",
-    "3-Rules/Character Building/Equipment/B/Bands of Force.md",
-    "3-Rules/Character Building/Equipment/B/Balisse Feather.md",
-    "3-Rules/Character Building/Equipment/B/Bagpipes of Turmoil.md",
-    "3-Rules/Character Building/Equipment/B/Backpack Ballista.md",
-    "3-Rules/Character Building/Equipment/B/Backpack Catapult.md",
-    "3-Rules/Character Building/Equipment/B/Bag of Cats.md",
-    "3-Rules/Character Building/Equipment/B/Bag of Devouring Type I.md",
-    "3-Rules/Character Building/Equipment/B/Backfire Mantle.md",
-    "3-Rules/Character Building/Equipment/B/bag-of-weasels.md",
-    "3-Rules/Character Building/Equipment/B/bakuwa-lizardfolk-bony-plates.md",
-    "3-Rules/Character Building/Equipment/B/Bagpipes of Turmoil (Major).md",
+    "3-Rules/Character Building/Equipment/B/bastion-of-the-inheritor.md",
+    "3-Rules/Character Building/Equipment/B/bastion-plate.md",
+    "3-Rules/Character Building/Equipment/B/bastard-sword.md",
+    "3-Rules/Character Building/Equipment/A/anchor-spear.md",
+    "3-Rules/Character Building/Equipment/A/aklys.md",
+    "3-Rules/Character Building/Equipment/A/adze.md",
+    "3-Rules/Character Building/Equipment/A/accursed-staff.md",
+    "3-Rules/Character Building/Equipment/A/accompaniment-cloak.md",
+    "3-Rules/Bestiaries/Uniques/Shesht.md",
+    "3-Rules/Character Building/Equipment/B/basilisk-eye.md",
+    "3-Rules/Character Building/Equipment/B/barricade-buster.md",
+    "3-Rules/Character Building/Equipment/B/battle-lute.md",
+    "3-Rules/Character Building/Equipment/B/batsbreath-cane.md",
+    "3-Rules/Character Building/Equipment/B/barricade-stone-sphere.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "zz-Attachments/bastion-of-the-inheritor.png",
+    "3-Rules/Character Building/Equipment/B/Bastion Plate.md",
+    "3-Rules/Character Building/Equipment/B/Bastion of the Inheritor.md",
+    "3-Rules/Character Building/Equipment/B/Basic Ingredient.md",
+    "3-Rules/Character Building/Equipment/B/basic-face-mask.md",
+    "3-Rules/Character Building/Equipment/B/basic-crafters-book.md",
+    "3-Rules/Character Building/Equipment/B/Beast Staff.md",
+    "3-Rules/Character Building/Equipment/B/Battle Axe.md",
+    "3-Rules/Character Building/Equipment/B/barricade-stone-cylinder.md",
+    "3-Rules/Character Building/Equipment/B/barricade-stone-cube.md",
+    "zz-Attachments/bargainers-instrument.png",
+    "zz-Attachments/bands-of-force.png",
+    "zz-Attachments/bagpipes-of-turmoil.png",
     "zz-Attachments/autumns-embrace.png",
     "zz-Attachments/atmospheric-staff.png",
     "zz-Attachments/atmospheric-breathing-suit.png",
     "zz-Attachments/image-5.png",
     "zz-Attachments/atlatl.png",
     "zz-Attachments/ash-gown.png",
-    "zz-Attachments/armory-bracelet.png",
-    "zz-Attachments/archaic-wayfinder.png",
-    "zz-Attachments/arboreal-boots.png",
-    "zz-Attachments/arachnid-harness.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",

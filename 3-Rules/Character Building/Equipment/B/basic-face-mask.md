@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "backpack"
-aliases: "Backpack"
-source: "Pathfinder Player Core"
-pg: "287"
+name: "basic-face-mask"
+aliases: "Basic Face Mask"
+source: "Treasure Vault"
+pg: "105"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -20,13 +20,13 @@ image: zz-Attachments/assets/imageplaceholder.png
 level: 0
 group: 
 weight: 
-value: "1"
+value: "3"
 subvalue: "sp"
 invest:
-usage: ""
-license: "ORC"
+usage: "worn"
+license: "OGL"
 identify: ""
-description: "A backpack holds up to 4 Bulk of items, and the first 2 Bulk of these items don't count against your Bulk limits. If you're carrying or stowing the pack rather than wearing it on your back, its Bulk is light instead of negligible."
+description: "This simple cloth mask, sewn to closely fit your face, is fastened by two sets of strings drawn across your face and secured behind your head. While wearing the mask, you gain a +1 item bonus on any initial saves to avoid contracting airborne diseases, such as choking death or tuberculosis."
 activate: ""
 craft: 
 destruction: 

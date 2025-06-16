@@ -5,8 +5,8 @@
 > **[[Encounter Builder]]**
 > [![[Encounter.jpg\|htiny]]](/1-GM%20Toolkit/Encounter%20Builder)
 >
-> **[[Link]]**
-> [![[AdventureIcon.png\|sban htiny ctr]]](Lampoteuo)
+> **[[Travel Calculator]]**
+> [![[AdventureIcon.png\|sban htiny ctr]]](/1-GM%20Toolkit/Travel%Calculator)
 > 
 > **[[Link]]**
 > [![[PartyLogo.jpg\|sban htiny ctr p+t]]|](Party%201%2FExample%20Party%201)

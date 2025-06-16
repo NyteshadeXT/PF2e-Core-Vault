@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "bag-of-cats"
 aliases: "Bag of Cats"
 source: "Pathfinder #170: Spoken on the Song Wind"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,19 +26,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This beautiful leather bag is lined in soft fur and purrs quietly when pet.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  **Effect** You shake the bag to produce a single cat. You cast a 3rd-rank [[Spells/Summon Animal|Summon Animal]] to produce a [[Monster Core/Leopard|Leopard]].  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  **Effect** You pull the bag over your head and it covers you completely. You then exit the bag in the form of a large cat. You gain the effects of 3rd-rank [[Spells/Animal Form|Animal Form]] but must use the cat battle form."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This beautiful leather bag is lined in soft fur and purrs quietly when pet."
+powerTitle1: "Summon Leopard"
+actionEconomy1: 2
+type1: "(Interact)"
+frequency1: "once per day"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You shake the bag to produce a single cat. You cast a 3rd-rank [[Summon Animal]] to produce a [[3-Rules/Bestiaries/Monster Core/Leopard|Leopard]]."
+powerTitle2: "Transform"
+actionEconomy2: 2
+type2: "([[envision]], [[Interact]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You pull the bag over your head and it covers you completely. You then exit the bag in the form of a large cat. You gain the effects of 3rd-rank [[Animal Form]] but must use the cat battle form."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
