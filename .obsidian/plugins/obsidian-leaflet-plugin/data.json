@@ -262,7 +262,7 @@
     },
     {
       "id": "update-me",
-      "lastAccessed": 1750025534921,
+      "lastAccessed": 1750101179867,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -295,12 +295,77 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_9888aab87978",
+          "type": "default",
+          "loc": [
+            -0.0065135955810546875,
+            0.0027747594858936893
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b8809da5bd9",
+          "type": "default",
+          "loc": [
+            -0.0054607391357421875,
+            0.002759504284601954
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b4a68ca6a1a",
+          "type": "default",
+          "loc": [
+            -0.0072383880615234375,
+            0.003034097907853188
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c83bc8e9a959",
+          "type": "default",
+          "loc": [
+            -0.0041408538818359375,
+            0.0028510354923523655
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
       ]
     }
   ],
