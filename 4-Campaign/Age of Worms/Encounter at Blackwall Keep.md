@@ -353,37 +353,42 @@ Roll for encounters once per day and once at night using the following table.
 | 1-5              | `encounter: 5: Ghoul Soldier`           |
 | 6-10             | `encounter: 1: Ghast, 4: Ghoul Soldier` |
 | 11-25            | `encounter: 5: Lizardfolk Warrior`      |
-| 26-45            | `encounter: 2: Crocodile`               |
+| 26-45            | `encounter: 3: Crocodile`               |
 | 46-55            | `encounter: 1: Ghoul Crocodile`         |
 | 56-75            | `encounter: 6: Hunting Spider`          |
 | 76-85            | `encounter: 1: Ogre Spider`             |
-| 86-95            | `encounter: 1: Emperor Cobra`           |
-| 96-100           | `encounter: 2: Cockatrice`              | 
+| 86-95            | `encounter: 4: Wroggi`           |
+| 96-100           | `encounter: 1: Great Wroggi, 3: Wroggi`              | 
 
 **Ghoul Soldiers:** This pack of ghouls is one of several haunting the Mistmarsh. The cunning creatures use tactics against their opponents, including ambushes (in particular they like to lay prone in pools of murky water, rising when enemies are in reach), 
-- [ ] low (50 XP) Level 6
+- [ ] low (75 XP) Level 5
 
 **Ghast and Ghouls:** As above, except the ghouls follow an even more cunning ghast. 
-- [ ] low (50 XP) Level 6
+- [ ] low (75 XP) Level 5
 
 **Lizardfolk:** These lizardfolk are not of the same tribe as those attacking the keep, and are investigating the intrusion of other lizardfolk through their territory. They'll aggressively attack any group they feel they can kill. 
-- [ ] low (50 XP) Level 6
+- [ ] low (75 XP) Level 5
 
-**Crocodiles, Spiders, Constrictor Snake:** These creatures use normal tactics for their kind, waiting in the water to snatch and drown an opponent. 
-- [ ] trivial (20 XP) Level 5 (Crocodile)
-- [ ] trivial (20 XP) Level 5 (Ghoul Crocodile)
-- [ ] trivial (15 XP) Level 5 (Hunting Spider)
-- [ ] trivial (30 XP) Level 5 (Ogre Spider)
-- [ ] trivial (30 XP) Level 5 (Emperor Cobra)
-- [ ] trivial (30 XP) Level 5 (Cockatrice)
+**Crocodiles and Spiders:** These creatures use normal tactics for their kind, waiting in the water to snatch and drown an opponent. 
+- [ ] trivial (45 XP) Level 5 (Crocodile)
+- [ ] low (60 XP) Level 5 (Ghoul Crocodile)
+- [ ] trivial (50 XP) Level 5 (Hunting Spider)
+- [ ] trivial (40 XP) Level 5 (Ogre Spider)
 
-**Cockatrices:** The first time this encounter appears, the PCs find the petrified remains of some other dangerous swamp creature (any other creature on the table except the undead), evidence of cockatrice activity. The PCs don't encounter the cockatrices until the second time the encounter is rolled. Optionally, the PCs always encounter the cockatrices on the return trip from the lair if they discovered the statues on the way in. 
+**Wroggi:** These creatures use pack tactics in an effort to take down the players. When only one creature is left it will attempt to flee.  If it is able to successfully escape, it will join (injured if necessary) the Great Wroggi encounter and the first time will be the actual Great Wroggi and not the non-combat encounter.
+- [ ] low (60 XP) Level 5 (Wroggi)
+
+**Great Wroggi:** The first time this encounter appears, the PCs find the acidified remains of some other dangerous swamp creature (any other creature on the table except the undead), evidence of Great Wroggi activity. The PCs don't encounter the Great Wroggi until the second time the encounter is rolled. Optionally, the PCs always encounter the Great Wroggi on the return trip from the lair if they discovered the statues on the way in. 
+- [ ] severe (105 XP) Level 5 (Great Wroggi)
+
+> [!warning]
+> **Players should be Level 6 at this point in the adventure!**
 
 # The Twisted Branch Lair 
 ```leaflet
 ### Tutorial: https://youtu.be/54EyMzJP5DU
 ### id must be unique
-id: update-me
+id: twisted-branch-lair
 image: [[Twisted Branch Lair.png]]
 height: 1000px
 width: 70%

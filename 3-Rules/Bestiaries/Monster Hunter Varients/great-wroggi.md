@@ -51,9 +51,7 @@ saves:
   - note: +1 status to all saves vs. magic
 hp: 140
 immunities:
-  - [[poison]] (from its own clouds)
-resistances:
-  - [[poison]] 10
+  - [[poison]]
 
 abilities_mid:
   - name: Toxic Alpha
@@ -77,7 +75,7 @@ attacks:
     desc: "(magical, agile) +15 __Damage__ 2d6+5 slashing"
 
   - name: "___Melee___ `pf2:1` tail swipe"
-    desc: "(magical, reach 10 feet, trip) +14 __Damage__ 2d8+5 bludgeoning <br><br><blockquote>__Breakable__ **AC** 22; **HP** 18; **Effect** The Wroggi loses access to its **Tail Swipe** attack. It also becomes [[flat-footed]] for 1 round after the break due to imbalance..</blockquote>"
+    desc: "(magical, reach 10 feet, trip) +14 __Damage__ 2d8+5 bludgeoning <br><br><blockquote>__Breakable__ **AC** 22; **HP** 18; **Effect** The Wroggi loses access to its **Tail Swipe** attack. It also becomes [[Off-Guard]] for 1 round after the break due to imbalance.</blockquote>"
 
 ```
 
