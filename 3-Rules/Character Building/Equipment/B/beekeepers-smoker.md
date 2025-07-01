@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "beekeepers-smoker"
 aliases: "Beekeeper's Smoker"
 source: "Pathfinder #201: Pactbreaker"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "48"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,19 +26,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  This device resembles a teapot with a trigger. When filled with cloth fuel (worth 1 cp) and lit, it smolders and gradually fills with smoke for 10 minutes, during which time you can squeeze the trigger to spray smoke.  * * *  **Spray Smoke** `pf2:1` (manipulate)  **Frequency** once per minute  * * *  **Effect** You expel smoke into an adjacent 5-foot square. All creatures in that area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to them. The smoke lasts for 1d4 rounds or until dispersed by strong wind."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This device resembles a teapot with a trigger."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "When filled with cloth fuel (worth 1 cp) and lit, it smolders and gradually fills with smoke for 10 minutes, during which time you can squeeze the trigger to spray smoke."
+powerTitle2: "Spray Smoke"
+actionEconomy2: 1
+type2: "([[manipulate]])"
+frequency2: "once per minute"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You expel smoke into an adjacent 5-foot square. All creatures in that area are [[3-Rules/Effects/Conditions/Concealed|Concealed]], and other creatures are concealed to them. The smoke lasts for `dice: 1d4` 1d4 rounds or until dispersed by strong wind."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

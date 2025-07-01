@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "bec-de-corbin"
 aliases: "Bec de Corbin"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "26"
 rarity: ""
 trait01: "razing"
 trait02: "reach"
 trait03: "shove"
 trait04: "versatile-b"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/bec-de-corbin.png
 level: 0
 weight: 2
 value: "4"
@@ -25,6 +25,7 @@ subvalue: "gp"
 invest:
 usage: "held in two hands "
 license: "ORC"
+group: "Polearm"
 identify:
 description: "A bec de corbin is a spiked polearm that uses a hammer head to help balance the spike. The hammer portion can be used as a secondary striking surface, while the spike or fluke is specially designed to punch through armor and shields."
 powerTitle1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d8 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d8
+dmg1Type: "piercing"
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Bec de Corbin")
+SORT level ASC
+
+```

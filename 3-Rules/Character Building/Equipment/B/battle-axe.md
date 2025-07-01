@@ -2,57 +2,51 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
-notetype: pf2e-item
+cssclass: pf2e-item, h-line
 name: "battle-axe"
 aliases: "Battle Axe"
 source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "sweep"
-trait02: "common"
-trait03: ""
-trait04: ""
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+pg: 278
+rarity: 
+trait01: "Sweep"
+trait02: 
+trait03: 
+trait04:
+image: zz-Attachments/battle_axe.png
 level: 0
+group: Axe
 weight: 1
 value: "1"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "held in 1 hands"
 license: "ORC"
-identify:
+identify: 
 description: "These axes are designed explicitly as weapons, rather than tools. They typically weigh less, with a shaft reinforced with metal bands or bolts, and have a sharper blade, making them ideal for chopping limbs rather than wood."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
+powerTitle1: "Critical Specialization"
+actionEconomy1: 
+type1: 
+frequency1: 
+mechanics1: "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its [[Striking]] rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
 mechanics2: "**Secondary Effect** "
-craft:
+craft: 
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 1d8 slashing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
+damage: 
+dmg1: 1d8
+dmg1Type: Slashing
+dmg2: 
+dmg2Type: 
+weaponType: "Martial"
+weaponCategory: "Melee"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +69,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Battle Axe")
+SORT level ASC
+
+```

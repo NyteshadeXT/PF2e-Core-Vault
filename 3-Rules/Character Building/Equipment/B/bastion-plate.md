@@ -7,23 +7,24 @@ notetype: pf2e-item
 name: "bastion-plate"
 aliases: "Bastion Plate"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "9"
 rarity: ""
 trait01: "bulwark"
 trait02: "entrench-melee"
 trait03: "hindering"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/bastion-plate.png
 level: 2
 weight: 5
 value: "33"
 subvalue: "gp"
 invest:
 usage: "wornarmor"
+group: "Plate"
 license: "ORC"
 identify:
 description: "This cumbersome and sturdy plate armor has fluting and additional protection built into the cuirass, helm, pauldrons, and vambraces. Bastion plate was invented for protection in combat tournaments meant to be sporting rather than lethal."
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 6
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+dexCap: 0
+strRequirement: "+4"
+checkPenalty: -3
+speedPenalty: "-10 ft"
+armorCategory: "Heavy"
 resist:
 immunity:
 conditionImmunity:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
