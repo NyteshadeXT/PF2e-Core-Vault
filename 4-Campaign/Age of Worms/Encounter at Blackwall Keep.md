@@ -2,7 +2,8 @@
 tags:
   - "#Adventure"
 art: zz-Attachments/blackwall keep.png
-whichparty: "[[Age of Worms Party Dashboard]]"
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
 adventure_status: Not Started
 adventure_level: "7"
 ---
@@ -57,6 +58,16 @@ He explains that some of the tombs in the Cairn Hills are thought to contain the
 
 Before he can make that visit, however, he has an appointment he must keep. Marzena, a battle mage of the Free City assigned to Blackwall Keep at the northern edge of the Mistmarsh, is an old friend of Allustan and sent him a message about reports of strange green worms in the Cairn Hills. If the PCs have told Allustan about the green worms, he points out Marzena’s message as a possible tie to that mystery. Allustan asks the PCs to escort him to Blackwall Keep, as the Mistmarsh is a dangerous place and monsters have been known to raid outlying farms. 
 
+Read the following when the PCs next speak with Allustan.
+> [!note]+ Read Aloud
+> I’ve been reviewing the glyphs from the Whispering Cairn—what you found there is nothing short of astonishing. I’m convinced they’re written in an ancient dialect of Sussuran. Not just any Sussuran—the Wind Dukes’ ceremonial tongue: Auran.
+> 
+> These tombs may belong to warriors who stood against the primordial forces of chaos—beings of law and air who helped defeat the primordial chaos lord, in the days before history. If that’s true, then the Cairn isn’t just an archaeological curiosity. It’s a scar left by the gods of order... and a warning.  And that brings us to the worms.
+> 
+> You remember the undead I told you about—the ones infested with those vile green parasites. I had dismissed them as something unrelated… until now. Their presence in the hills, their persistence—they feel like echoes of the same war. Where once the Wind Dukes battled the Queen of Chaos, perhaps now, something else is clawing back through the cracks. These worms might be the first signs.
+> 
+> Marzena, an old friend of mine stationed at Blackwall Keep, recently sent me word. She’s seen the worms too—alive, squirming, infecting creatures near the Mistmarsh. If she’s right, then whatever is happening below Diamond Lake is spreading. I need to speak with her… but I won’t risk traveling alone. The marsh is dangerous, and what’s out there may be worse. I want you with me. This may be the beginning of something much bigger.”
+
 # Part One: To Blackwall Keep
 This adventure assumes that the PCs begin in Diamond Lake. Give them time to tie up any loose ends from their previous adventure, identify magic items, brew potions and write scrolls, and otherwise recover from their ordeals under Dourstone Mine. If any of the Eventually, Allustan gathers the PCs for the journey east. Although he has a scroll of teleport, he prefers to keep it in reserve for emergencies and instead plans to travel on horseback to Blackwall Keep. The road to the Keep is 38 miles east through the Mistmarsh along а trail the latter parts of which are hilly. Roll for encounters once per day on the eastbound trip using the following table. Once a particular group is encountered it can't be encountered again (if that encounter is rolled a second time, no encounter occurs that day). 
 
@@ -100,8 +111,11 @@ During this night, you should feel free to roleplay any conversations the PCs ma
 monster: "Allustan-Stats"
 ```
 
-## Blackwall Keep
+Read as the players approach Blackwall Keep,
+> [!note]+ Read Aloud
+> The keep rises like a black fang from the earth, its squat tower the only visible structure. The ground floor is cleverly hidden beneath a false hill, its seams only noticeable from the southern approach, where a broken and hastily repaired door hints at earlier violence.
 
+## Blackwall Keep
 As the PCs and [[Allustan]] cover the last stretch of the southbound trail, they notice an increase in the number of flies and the smell of a battle—smoke and blood. Earlier this morning a large number of lizardfolk surrounded and attacked Blackwall Keep. Both sides inflicted casualties, and by the time the PCs arrive the lizardfolk have pulled back, regrouped, and are preparing for their next sortie against the keep. 
 
 The hilly terrain means it's possible for cautious characters to get close enough to see the keep without being spotted by its residents or attackers (the lizardfolk are focused on the keep rather than the trail). If they do, they can secure a good view of the keep and its current situation. The region surrounding the keep is presented on the poster map provided with this issue. 
@@ -116,7 +130,17 @@ If the PCs watch, they see eight groups of five lizardfolk are arranged in strat
 
 If the PCs charge the keep, they have to deal with all of the lizardfolk as a large group. Barring a few lucky fireballs or something similar, the PCs likely can't win—twelve [[Lizardfolk Warrior|Lizardfolk Warriors]] are an extreme difficulty encounter, a tough challenge for 5th-level PCs, fighting thirty such creatures would be certain death barring a freak combination of rolls in the PCs’ favor. If they want to defeat the lizardfolk, their best bet is to try to tackle them one group at a time, either in ambush-and-run raids or while the lizardfolk are attacking the keep and not able to reinforce each other (killing the leader may also break their morale and convince them to retreat). Alternately, the PCs may try to bypass the lizardfolk and get into the keep to help the soldiers. Either way, [[Allustan]] tells them they need to help the soldiers immediately while he uses his scroll of teleport to return to [[Diamond Lake]] and get reinforcements from the commander of the garrison there. It takes some time for [[Allustan]] to convince the garrison to send reinforcements, and even more time for them to organize and set out. They'll arrive at Blackwall, on foot, in `dice: 1d4+2` 1d4+2 days. 
 
-The PCs might argue that [[Allustan|Allustan's]] spells could provide a significant help in fighting the lizardfolk, and if they ask him to stay, he appears tormented. He clearly loathes leaving the task of defending the keep to the PCs, but at the same time, common sense urges him to use the scroll to get help as soon as he can. If the PCs seem especially set against his leaving, his torment quickly changes to disappointment. He points out that the PCs have already faced more dangerous challenges than lizardfolk, and observes that if they don't think they can handle the problem themselves, perhaps they should consider a new line of work. In the end, [[Allustan]] leaves the PCs to their own devices at Blackwall Keep. It’s up to them to determine if the wizard leaves them as a friend or as something less. 
+Read to the players,
+> [!note]+ Read Aloud
+> Allustan frowns as he surveys the battlefield from your hillside vantage. The smoke rising from the tower, the broken and crudely repaired door, the bodies left to rot—it all tells a grim story.
+> 
+> “I’d stay if I thought we could hold this line alone,” he says, voice low. “But this is no mere raid. The lizardfolk are dug in, coordinated... patient. If they strike again before reinforcements arrive, the keep may fall.” He glances at you, eyes sharp. “You can help them now. I can bring help in days. We each play the part we’re best suited to.”
+
+The PCs might argue that [[Allustan|Allustan's]] spells could provide a significant help in fighting the lizardfolk, and if they ask him to stay, he appears tormented. He clearly loathes leaving the task of defending the keep to the PCs, but at the same time, common sense urges him to use the scroll to get help as soon as he can. If the PCs seem especially set against his leaving, his torment quickly changes to disappointment. He points out that the PCs have already faced more dangerous challenges than lizardfolk, and observes that if they don't think they can handle the problem themselves, perhaps they should consider a new line of work. In the end, [[Allustan]] leaves the PCs to their own devices at Blackwall Keep. It’s up to them to determine if the wizard leaves them as a friend or as something less.  If the PCs protest, Allustan’s expression tightens—torn between reason and regret.
+
+Read aloud to the players, 
+> [!note]+ Read Aloud
+> “I didn’t ask you to chase the Triad. You did. And you prevailed. This... this is just another battle. If you’re not ready to fight it—” he sighs. “Then maybe I was wrong about you after all.” With that, he turns, producing the scroll from his robes. A soft wind kicks up around him as the magic flares. “If I’m right about the worms, this won’t be the last time we face something like this. Be ready.” Then, with a shimmer of air and arcane light, he vanishes.**
 
 ## The Lizardfolk
 There are thirty lizardfolk besieging Blackwall Keep, split into six groups. Four of these groups consist of five [[Lizardfolk Warrior|Lizardfolk Warrior's]]. The fifth and sixth groups each consist of four common lizardfolk and a special character (EL 6 for each of these last two groups). One of these special characters is a 4th-level warrior named Kushak, and the other is a 3rd-level druid named Shesht. Kushak is the leader of this attack, reporting directly to the aggressive and vengeful king of the tribe who is under the claw of Ilthane the black dragon. Kushak looks the same as the other lizardfolk present except he carries a metal shield rather than one made of wood or shell. The shaman, Shesht, is somewhat lazy and believes following the lizard king is the easiest way to power and comfort in the tribe. 
@@ -757,6 +781,17 @@ Ilthane uses this tunnel to access the egg chamber, though she hasn't been here 
 > Advance the players to level 7.
 
 # Part Three: Terror Below
+> [!note]+ Read Aloud — Return to Blackwall Keep  
+> As you approach the battered stronghold, it’s clear the battle is over—but the tension hasn't left. The smell of blood and smoke still clings to the air, and soldiers hurry from post to post with drawn weapons and anxious glances toward the tower. Something is wrong.
+> 
+> A nervous corporal meets you at the gate, face pale and voice shaking. “You’d better come inside,” he says. “It’s… it’s not over.” Inside the keep, the soldiers speak in hushed tones of something worse than lizardfolk. A door in the lower level—long sealed—was broken open during the initial assault. The pale young corporal, shifts nervously and gripping his weapon too tightly. “You should know... we’ve got a problem,” he says. “Something got loose down there.”
+> 
+> He explains: during the initial raid, one of the lizardfolk broke through a reinforced door on the ground floor—a door the soldiers had sealed long ago, not to protect treasure, but to keep something in. They thought it would die. They thought maybe they'd find a cure. “It used to be our friend,” the corporal says, voice cracking. “He changed. Turned into... something else. We didn’t have the heart to kill him. We just locked him away.” Now it’s loose. And it’s not alone. Two soldiers are missing—dragged into the basement. The others have heard sounds ever since: heavy footsteps, low moans, the scratching of bone on stone… and voices. The captives are still alive. For now. 
+> 
+> The soldiers have barricaded the basement door with spare wood and broken doors, but just looking at it you know it won’t hold forever. They say they’ve caught glimpses of the things through gaps—gaunt figures, flesh crawling with green worms, moving with chilling purpose. “They’re not mindless,” a sergeant mutters. “They wait. Plan. Take us one at a time.”  
+> 
+> Just then, a soft thump echoes from below. The barricade shudders slightly. The spawn are waiting.
+
 When the PCs return to Blackwall Keep, they find the soldiers in a panic. It seems that one of the lizardfolk wo entered the keep on the initial raid reached the basement level and smashed the lock on a certain door in ground floor, thinking the extra security meant treasure was inside. The monster once locked behind the door is now free to roam the keep and has snatched two soldiers, dragging them into the basement. The soldiers have used spare wood and doors to barricade the entrance to the basement, but the creatures (they now so hear more than one creature moving around so they know the monster hasn't eaten the two captives) are strong enough that it’s only a temporary solution. They apologize to the PCs for not telling them about the threat earlier, but they still felt reluctant to kill the creature that was once their friend, and thought that by locking it away it would die or they would find a way to save him. As an example of the strength of their secrecy, even Marzena didn't know about the captive spawn, as she was told the last mage went mad and wandered into the swamp one night. The soldiers can describe what their friend looked like when he changed (a zombie-like creature with green worms crawling in his flesh) and the glimpses they've had since then confirm this appearance.
 
 Three spawn now wander the basement level of the keep, forcing the soldiers to share space in the upper levels. The undead trio batter at the soldiers’ barricade every day, and when they break through they grab any soldier within reach, two or more of them grappling their captive, hauling him back to the basement to let the worms do their work (and giving the soldiers time to rebuild the barricade). This shows the monsters aren't mindless zombies and use tactics. Like all spawn created recently in the service of Ithane and Dragotha, their objective is to multiply rather than kill, so they snatch opponents one at a time rather than trying an open battle where potential prey may be killed. 
@@ -770,12 +805,74 @@ party: Age of Worms
 creatures:
   - 3: [[Spawn of Kyuss]]
 ```
+[[spawn-of-kyuss|Spawn of Kyuss]]
+Reinforcements from Diamond Lake arrive two days later. Soldiers march under a weathered banner, and with them comes a sealed letter bearing Allustan’s personal sigil.
 
-Depending on how long the PCs took to deal with the lizardfolk, soldier reinforcements from Diamond Lake should be at the keep. Though Allustan remains at Diamond Lake, he gives the captain of the reinforcements a letter for the PCs asking them to escort Marzena to Diamond Lake so he may discuss what she knows about the green worms.
+Read Allustan's letter to the players, 
+> [!note]+ Read Aloud
+> **To my trusted allies—**
+> 
+> I regret I could not return in person. Events in Diamond Lake have demanded my attention. I fear we are on the edge of something vast and terrible. Please escort Marzena to Diamond Lake at once. Her knowledge of the worms may be critical. With her insights—and your reports—I hope to uncover a path forward. I have begun corresponding with a colleague in Ardentia City, a sage named Eligos. If anyone can divine the true nature of what we’re facing, it’s him. Once we’ve spoken with Marzena, I’ll arrange for you to meet him. Until then—stay alert. This is no longer about cults or tombs. It is about what comes next.
+> 
+> —Allustan
 
 # Concluding the Adventure
 When the PCs bring [[Marzena]] to [[Allustan]], he is grateful for their help and eager to hear the news of their most recent adventures. [[Marzena]] tells [[Allustan]] what's she's heard about green worms in the Cairn Hills, but unfortunately her news offers little new information apart from confirmation that spawn of Kyuss are increasing in number throughout the Cairn Hills. This information and the PCs’ report convinces [[Allustan]] that there is something larger going on, and he tells the PCs about an “old friend” in [[Ardentia City]], a sage named [[Eligos]] who knows a great deal about strange monsters. Their next step is to visit [[Eligos]] in [[Ardentia City]] and share Allustan's compiled notes and their own experiences. Armed with this information, the sage ought to be able to determine what sort of threat the green worms represent to the region and how it can be countered. Note that if the PCs agreed to talk to [[Ardentia City]] officials on behalf of [[Hishka]], the need to meet [[Eligos]] gives them a convenient excuse to travel there and arrange for a treaty between [[Ardentia City]] and the lizardfolk of the Mistmarsh. 
 
+[!note]+ Read Aloud — The Sage's Warning  
+> Allustan listens with growing unease as Marzena recounts her findings—villagers whispering of the dead that won’t stay dead, livestock bloating with green worms, and pale figures watching from the swamp’s edge with glassy, unblinking eyes.  He exhales slowly, setting his teacup aside, and leans forward, voice low.
+> 
+> “This… this is worse than I feared. The spawn are multiplying, yes—but the pattern’s wrong. This isn’t just chaos spreading—it’s deliberate. Directed.”
+> 
+> Rising from his chair, Allustan opens a drawer and retrieves a leather scroll case, worn smooth with age. “You must travel to the Ardentia City. Seek out a sage named Eligos. An eccentric man, but brilliant—and discreet. He moves in circles where even I dare not tread. He’ll know what to look for… and who might be pulling strings behind this.”
+> 
+> He hands you the scroll case. “Tell him everything—the Cairn, the cult, the worms, the Ebon Aspect. Especially the worms.” 
+> 
+> He glances toward the window, then lowers his voice further. “And be careful in the Ardentia City. Not all dangers wear claws and rotting flesh.”
+
+# Epilogue: Back Through the Mistmarsh
+The Mistmarsh is an area of wet ground, grassland, shallow streams, and strange hazards that rests in a bowl-shaped depression west of the Cairn Hills and [[Diamond Lake]]. The marsh is over sixty miles across at its narrowest point. It has no clear border, as it is surrounded by a fringe area of drier grassland. It is named for the harmless mist that lingers from two hours before sunrise to until midmorning, and again for several hours after sunset; the mist limits visibility and also seems to muffle sound. The waterways are either too shallow for boats or too infested with crocodiles. Small ponds are common but never very deep. The drier parts are muddy (often calf-deep on a human) аn occasional "islands" of mangaroo trees are really just great tangles of roots and branches that require climbing rather than walking. These factors make travel slow in the Mistmarsh, limiting exploration to its fringes except for dedicated adventurers or those with magical means of bypassing its obstacles. 
+
+The most significant threats in the marsh are the warring tribes of lizardfolk, a pack of ghouls, crocodiles (including giant crocodiles), giant vermin, cockatrices (rarely seen, but the many statues in the marsh attest to their presence) and now the spawn of kyuss. Blink dogs live in the swamp but avoid humanoid creatures. Clouds of insects are a constant irritation, and in the summer mosquitoes grow so thick as to discourage all but the hardiest traveler. The abundant hiding places for smaller creatures make the Mistmarsh a haven for small game, mainly birds, small reptiles, and wary mammals like boars and deer. 
+
+Most places in the Mistmarsh count as Difficult Terrain, though some places are deeper and count as Greater Difficult Terrain, In areas of shallow bog  movement is halved, and the DCs of abilities with the [[Move]] trait have their checks in the area increase by +2.  A character leading the PCs can make one DC 22 [[Skills#Survival|Survival]] check every four hours of travel to find the best path through the Mistmarsh and avoid serious obstacles; each successful check adds two miles to the normal distance traveled in that four-hour period. 
+
+Roll for encounters once per day and once at night using the following table. 
+#### Mistmarsh Encounters
+| **`dice: D100`** | **Encounter**                           |
+| ---------------- | --------------------------------------- |
+| 1-5              | `encounter: 1: Spawn of Kyuss`           |
+| 6-10             | `encounter: 2: Spawn of Kyuss` |
+| 11-25            | `encounter: 3: Spawn of Kyuss`      |
+| 26-55            | `encounter: 4: Ghoul Crocodile`         |
+| 56-75            | `encounter: 2: Giant Tarantula`          |
+| 76-85            | `encounter: 2: Ogre Spider`             |
+| 86-95            | `encounter: 4: Wroggi`           |
+| 96-100           | `encounter: 3: Great Wroggi`              | 
+
+**Spawn of Kyuss:** Since first traveling to Blackwall Keep, the spawn of kyuss have continued to spread throughout the marsh. They'll aggressively attack any group they feel they can kill. 
+- [ ] trivial (40 XP) Level 7 (Single)
+- [ ] moderate (80 XP) Level 7 (Double)
+- [ ] severe (120 XP) Level 7 (Triple)
+
+**Crocodiles and Spiders:** These creatures use normal tactics for their kind, waiting in the water to snatch and drown an opponent. 
+- [ ] low (60 XP) Level 7 (Ghoul Crocodile)
+- [ ] low (60 XP) Level 7 (Giant Trantula)
+- [ ] trivial (40 XP) Level 7 (Ogre Spider)
+
+**Wroggi:** These creatures use pack tactics in an effort to take down the players. When only one creature is left it will attempt to flee.  If it is able to successfully escape, it will join (injured if necessary) the Great Wroggi encounter and the first time will be the actual Great Wroggi and not the non-combat encounter.
+- [ ] low (45 XP) Level 7 (Wroggi Elite)
+
+**Great Wroggi:** The first time this encounter appears, the PCs find the acidified remains of some other dangerous swamp creature (any other creature on the table except the undead), evidence of Great Wroggi activity. The PCs don't encounter the Great Wroggi until the second time the encounter is rolled. Optionally, the PCs always encounter the Great Wroggi on the return trip from the lair if they discovered the statues on the way in. 
+- [ ] low (50 XP) Level 7 (Great Wroggi)
+
+On the second day of their journey back to Diamond Lake read the following to the players,
+> [!note]+ Cutscene — The Eye That Watches
+> Far from Diamond Lake, deep within the sprawl of an unknown city, a figure walks alone beneath the glow of burning lanterns. The night air hums with magic and menace. In a quiet alley behind a shuttered apothecary, a door opens—not with a creak, but a whisper—and a robed figure slips inside. They pass through silence and shadow until they enter a chamber lined with stone mirrors. As the figure removes their cloak, their features melt away, revealing not a face… but a blank slate of glistening skin.
+> 
+> The mirrors shimmer. One by one, other reflections begin to shift—their watchers stepping forward from hidden nooks. They speak without sound. Then, all freeze as a single presence enters the room. You do not see it—you feel it. A weight. A hunger. Something ancient and wrong. A voice slides into their minds, oily and precise.  “They are coming. The ones who silenced the Triad. Watch them. Learn them. Become them.”
+> 
+> The strange faceless creatures bow their heads. One glances into a mirror—now reflecting a perfect likeness of one of the PCs. The voice returns. “Make ready the hall. Let them see only what I wish them to see.”
 
 
 

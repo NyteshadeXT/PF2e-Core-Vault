@@ -337,7 +337,7 @@
     },
     {
       "id": "update-me",
-      "lastAccessed": 1751121258343,
+      "lastAccessed": 1751474783381,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -439,7 +439,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "4-Campaign/Age of Worms/The Three Faces of Evil.md"
+        "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
       ]
     }
   ],

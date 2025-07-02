@@ -1306,6 +1306,14 @@ The Faceless One wears green robes and a leather mask set with iron studs. Only 
 
 His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
 
+Upon defeating [[The Faceless One]], read the following aloud to the players,
+> [!note]+ Read Aloud
+> As the Faceless One collapses, arcane smoke rising from his robes, a strange and terrible silence falls. The air itself seems to tighten, as if reality is drawing a long, shuddering breath. Then, without warning, a deep tremor shakes the ground, dust raining from the ceiling. A low, bestial growl rolls through the stone halls—not from this room, but from far behind you, echoing up through the corridor like the voice of something ancient stirring from a long slumber.  A sudden pulse of malevolent energy washes over you—cold, hungry, aware. Every instinct screams that something has changed.
+> 
+> From somewhere distant—the direction of the black pool—you hear the splash of water… followed by a wet, dragging sound. Then the shriek of stone under immense weight.  The Faceless One’s death was not a victory. It was a summons.
+> 
+> Something has awoken.
+
 ## Features of the Area
 **The Skeleton** The skeleton is a byproduct of а recent experiment in reanimation using alchemical processes. 
 
@@ -1314,7 +1322,7 @@ His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
 **The Cauldron** The cauldron contains the rest of the unfortunate skeleton’s organs. Breaking the seal releases an awful stench, Anyone in the room must make a DC 15 Fortitude save or become [[Sickened| Sickened 3]]. The cauldron contains а mixture of chemicals and human organs. 
 
 > [!tip]+ Treasure
-> The beakers, tubes, and other glassware are a complete [[3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]]. The liquids within them. include two vials of [[acid-flask-moderate|Acid Flask (Moderate)]], three vials of [[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]], and a wide variety of other chemicals. 
+> The beakers, tubes, and other glassware are a complete [[alchemists-lab-expanded|Alchemist's Lab (Expanded)]]. The liquids within them. include two vials of [[acid-flask-moderate|Acid Flask (Moderate)]], three vials of [[alchemists-fire-moderate|Alchemist's Fire (Moderate)]], and a wide variety of other chemicals. 
 > 
 > Scattered about the Faceless One's laboratory, amidst his tools and equipment, are 11 gp and 11 sp in coins, six garnets worth 3 gp each, а [[Ring of Minor Arcana]], and a [[Sturdy Shield (Minor)]].
 > 
@@ -1322,20 +1330,28 @@ His two acolytes wear tattered purple robes and prominent holy symbols of Vecna.
 > 
 > - [ ] gp::29
 > - [ ] sp::11
-> - [ ] permanent::[[3-Rules/Character Building/Equipment/A/Alchemist's Lab (Expanded)|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
+> - [ ] permanent::[[alchemists-lab-expanded|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
 > - [ ] permanent::[[Ring of Minor Arcana|Ring of Minor Arcana]]] [ilvl::5] [gp::160]
 > - [ ] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
 > - [ ] consumable::[[acid-flask-moderate|Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
 > - [ ] consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[3-Rules/Character Building/Equipment/A/Alchemist's Fire (Moderate)|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
 
 # Part 5: The God in the Pool
 **Encounter Difficulty:**   
 - [ ] Moderate (80 XP) Level 5
 
 ![[Three Faces of Evil Banner.png|right|500]]
+
+When the players arrive back to area 1, read the following:
+> [!note]+ Read Aloud
+> The stone halls fall silent as you approach the dark chamber where your journey began. But as you near the threshold, the silence fractures—a low, thunderous growl rises from within, like the grinding of bone on stone. 
+> 
+> Then, as you step into the room, you see it. The black pool no longer lies still. Its waters have been thrown aside, the stone basin cracked and steaming. In its center, something massive crouches in the shattered remains—a monstrous, six-armed figure, its dull gray skin stretched over bulging muscle, veined with pulsing lines of arcane energy. Three of its limbs end in raw, twisted stumps. It turns toward you, and you see its face—gaunt, skeletal, inhuman, and yet eerily familiar. Its maw curls into a snarl that reverberates in your chest.
+> 
+> The teachings of the Ebon Triad have taken form. Their blasphemous unity has birthed this horror. The Ebon Aspect stands before you—awake, aware, and furious.
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[Ebon Aspect]] W
@@ -1347,7 +1363,7 @@ creatures:
   - 1: [[Ebon Aspect]]         # 1 monster named My Monster will be added, with no HP, AC or modifier.
 ```
 
-А hellish entity slumbers within the pool's depths, slowly gathering the energies it needs to awaken. Unfortunately for the characters, their intrusion into this place arouses its wrath. If the PCs defeat all three cults, the Ebon Aspect rises to avenge its worshipers. As soon as the last of the three high priests (Theldrick in area 10, Grallak Kur in area 21, and The Faceless One in area 27) is slain or driven off, the aspect materailizes fully and clambers up from the pool in area 1. Luckily for the PGs, the Ebon Aspect of the Over- god is in a weak state as it has not yet summoned all its power,
+А hellish entity slumbers within the pool's depths, slowly gathering the energies it needs to awaken. Unfortunately for the characters, their intrusion into this place arouses its wrath. If the PCs defeat all three cults, the Ebon Aspect rises to avenge its worshipers. As soon as the last of the three high priests (Theldrick in area 10, Grallak Kur in area 21, and The Faceless One in area 27) is slain or driven off, the aspect materailizes fully and clambers up from the pool in area 1. Luckily for the PGs, the Ebon Aspect of the Overgod is in a weak state as it has not yet summoned all its power.
 
 If the PCs don't kill the three high priests, and instead capture them, the Ebon Aspect's manifestation is delayed for a short time. Only 1d4 hours after the PCs take their prisoners from this area, the Ebon Aspect manifests in the flesh. This action immediately slays any surviving high priests as it draws on their souls for its birth.
 
@@ -1356,6 +1372,18 @@ The Ebon Aspect takes ten minutes to gather its strength once it emerges, during
 If the PCs escape without killing the Ebon Aspect, the fiend slowly makes its way up into the mines above, killing anyone and everyone it encounters and eventually finding its way to Diamond Lake. If the PCs don't stop it, the Ebon Aspect causes terrible damage and kills dozens before Allustan and several of the clerics and fighters from the Garrison can kill the menace.
 
 # Concluding the Adventure
+Read the following once the Ebon Aspect is defeated:
+> [!note]+ Read Aloud
+> With a final, monstrous howl, the Ebon Aspect collapses—its massive form convulsing as arcs of dark energy lash outward, raking across stone and shadow. Its flesh cracks like brittle stone, revealing glowing veins of arcane power that flicker, sputter, and die. 
+> 
+> Then, with a thunderous crack, the thing implodes into itself, leaving behind only a swirling cloud of black mist and a scorched mark where it once stood. Silence rushes in like a tide. The air feels thinner. Lighter. The suffocating pressure that had filled this place ebbs, as if the dungeon itself exhales in relief. Somewhere, water begins to trickle gently back into the shattered pool, no longer boiling with rage, but cold and still. And yet... the silence is not peace.
+> 
+> This was not merely a creature. It was an idea made flesh—a manifestation of heresy and hatred, drawn forth by the faith of madmen. You have destroyed it… but its echo lingers. You feel it in the walls. In your bones. In the faint scent of ash and blood that no breeze can carry away. The Ebon Triad may be scattered, its gods once again divided. Though the Ebon Aspect is gone, you feel as if something ancient has stirred. That which slumbers in deeper shadows... might be listening once more.
+> 
+> And then—a final breeze brushes through the chamber, impossibly cold and dry. It carries no sound, no voice, yet each of you feels a thought pressed into your mind, unbidden and absolute: 
+> 
+> **"This is only the beginning."**
+
 Once the PCs escape from the Dark Cathedral, they must cope with the repercussions of their actions. The presence of the Ebon Triad in the mines could touch off some important developments in Diamond Lake. The cult obviously had the blessing of Ragnolin (the elevator didn't build itself), and the evidence gathered within the dungeon points to Balabar Smenk's involvement. If the PCs present their evidence to the governor-mayor, both merchants face criminal prosecution. If either escapes, they may track down the PCs to serve their revenge ata later date. Both Ragnolin and Balabar face a long, hard fall from wealth and prosperity to near destitution if they must flee Diamond Lake.
 
 Of course, both mine managers have plenty of friends in town. A few bribes, а couple of carefully handled meetings, and a host of old favors called in might gain both Ragnolin and Balabar their freedom. In this case, the PCs face not only an angry nemesis, but foes who still have the connections and wealth needed to make the party's life miserable.

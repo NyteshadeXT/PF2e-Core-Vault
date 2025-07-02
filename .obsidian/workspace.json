@@ -56,14 +56,71 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "The Three Faces of Evil"
             }
+          },
+          {
+            "id": "2ddacc748380e384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Encounter at Blackwall Keep"
+            }
+          },
+          {
+            "id": "05bb3bb89661a3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Monster Hunter Varients/tetranadon.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tetranadon"
+            }
+          },
+          {
+            "id": "a93ad7e617b01cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "great-wroggi"
+            }
+          },
+          {
+            "id": "dbd24ebb27f6a5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "wroggi"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -254,6 +311,54 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ba0edd2c9b19703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd96c7ef597b5fd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c8b2422d8780332",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8331ff23f4c77fd",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "60dae5054aa93cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2772a3a33f6aad0a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,10 +387,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2f34af5987923c59",
+  "active": "dbd24ebb27f6a5a8",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/B/beguiling-crown.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/tetranadon.md",
+    "zz-Attachments/tetranadon.png",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 016.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 017.md",
     "3-Rules/Character Building/Equipment/B/Bell Implement.md",
+    "3-Rules/Character Building/Equipment/B/beguiling-crown.md",
     "zz-Templates/Markdown/Insert Item.md",
     "zz-Attachments/beguiling-crown.png",
     "3-Rules/Character Building/Equipment/B/beekeepers-smoker.md",
@@ -304,22 +417,13 @@
     "3-Rules/Character Building/Equipment/B/beacon-shot.md",
     "3-Rules/Character Building/Equipment/B/bayonet.md",
     "3-Rules/Character Building/Equipment/A/air-repeater.md",
-    "3-Rules/Character Building/Equipment/B/battle-saddle.md",
-    "3-Rules/Character Building/Equipment/B/battle-medics-baton.md",
-    "3-Rules/Character Building/Equipment/B/battle-axe.md",
-    "3-Rules/Character Building/Equipment/B/battle-lute.md",
     "zz-Attachments/battle-medics-baton.png",
-    "3-Rules/Character Building/Equipment/B/batsbreath-cane.md",
-    "1-GM Toolkit/Tests/Battle Axe Option 3.md",
-    "3-Rules/Character Building/Equipment/B/battering-snare.md",
-    "3-Rules/Character Building/Equipment/B/bastion-plate.md",
     "zz-Attachments/bastion-plate.png",
     "zz-Attachments/great-wroggi.png",
     "zz-Attachments/bastion-of-the-inheritor.png",
     "zz-Attachments/bargainers-instrument.png",
     "zz-Attachments/bands-of-force.png",
     "zz-Attachments/bagpipes-of-turmoil.png",
-    "zz-Attachments/autumns-embrace.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",

@@ -88,3 +88,79 @@ creatures:
   - 1: Venom Sacs 15, 22, 0, hidden
 
 ```
+
+---
+noteType: battlezoo/monster-parts
+tags:
+  - pf2e/monster-parts
+  - pf2e/crafting
+  - monster/great-wroggi
+source: Monster Hunter Conversion
+name: Great Wroggi
+level: 6
+rarity: uncommon
+---
+
+### 🦴 Harvest Table: Great Wroggi (Creature 6)
+
+| Part Name         | Trait Tags                           | Harvest DC | Yield (Units) | Use Type         | Notes                                                  |
+|-------------------|---------------------------------------|------------|----------------|------------------|---------------------------------------------------------|
+| Wroggi Hide       | [[poison]], [[resilient]], [[hide]]   | DC 20      | 2d4            | Armor            | Scaled hide resistant to venom and light cuts           |
+| Alpha Venom Sac   | [[poison]], [[volatile]], [[core]]    | DC 22      | 1d3            | Consumable Core  | Extremely potent concentrated venom                     |
+| Fanged Maw        | [[bite]], [[toxic]], [[offense]]      | DC 21      | 1d3            | Weapon Additive  | Infuses weapons with paralytic toxin                    |
+| Hood Frill        | [[display]], [[fear]], [[distracting]]| DC 20      | 1d2            | Magical Focus    | Used in intimidation gear or hypnotic accessories       |
+| Mucosal Glands    | [[poison]], [[alchemical]], [[coating]]| DC 19     | 1d2            | Alchemical Coating| Used for slick or nauseating salves                     |
+
+**Critical Success:** Double units for that part. **Failure:** Gain no usable units of that type.
+
+---
+
+## 🔨 Crafting Suggestions
+
+### 🧥 Armor
+**Wroggi Hide Mantle (Level 6, Uncommon)**  
+- *Base Armor:* Medium (Hide, Scale)  
+- *Effect:* Gain resistance 2 to poison damage and a +1 item bonus to Fortitude saves against poisons  
+- *Bonus Effect (if Hood Frill integrated):* Once per day, activate as a single action to Demoralize all enemies within 15 feet (DC = class DC)
+
+---
+
+### ☠️ Weapon Additive
+**Fang Venom Infusion (Additive, Level 6)**  
+- *Add To:* Piercing or slashing weapons  
+- *Effect:* Gain the [[toxic]] trait (DC 21 Fort save vs. 1d6 persistent poison)  
+- *Bonus:* On a critical hit, target becomes [[clumsy 1]] for 1 minute unless they succeed at a Fortitude save
+
+---
+
+### 💀 Consumable Core
+**Wroggi Neurotoxin Vial (Consumable, Level 6)**  
+- *Use:* Injury poison or splash bomb  
+- *Effect (injury):* DC 22 Fort save  
+  - **Success:** Sickened 1  
+  - **Failure:** 1d6 poison, Sickened 2, and Clumsy 1 for 1 minute  
+  - **Crit Failure:** As above, plus Stunned 1  
+- *Effect (splash):* Sickened 1 on a failed DC 22 Fort save in 10-ft burst
+
+---
+
+### 🧪 Alchemical Coating
+**Caustic Slime Paste (Consumable, Level 5)**  
+- *Use:* Apply to melee weapon  
+- *Effect:* For 1 minute, attacks deal 1 additional poison damage and leave a trail that makes squares difficult terrain (1 round duration)
+
+---
+
+## 🧷 Optional Monster Trait Summary
+- `[[poison]]`: Delivers persistent damage or status effects
+- `[[volatile]]`: Adds potent but unstable effects
+- `[[offense]]`: Tied to weapons and damaging items
+- `[[display]]`: Flashy or fear-inducing parts
+- `[[alchemical]]`: Used in brews, toxins, salves
+
+---
+
+Would you like me to:
+- Proceed with the **Lesser Wroggi** part and crafting table?
+- Combine this and Tetranadon’s material into a printable player-facing handout?
+- Add example item statblocks using the Battlezoo Parts system formatting?
