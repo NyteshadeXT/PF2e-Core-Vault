@@ -5,13 +5,13 @@ tags:
 
 
 - [ ] Update items to new template
-	- Currently on letter 'A''
+	- Currently on letter 'B'
 	- [ ] Add Abysium Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Adamantine Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Abysium Chunk and Ingot
 	- [ ] Add Adamantine Chunk and Ingot
 	- [ ] Add Vehicles? (Adaptable Paddleboat)
-	- [ ] Add Adventurer's Pack
+	- [ ] Add 
 	- [ ] Add 
 	- [ ] Add  
 - [ ] Update item templates with Identification criteria

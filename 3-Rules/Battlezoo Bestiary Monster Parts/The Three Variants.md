@@ -1,10 +1,7 @@
 ---
 title: "The Three Variants"
-icon: ":sticky-note:"
 aliases: "The Three Variants"
-foundryId: Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-monster-parts.JournalEntry.t4kAG04buZGbp5XA.JournalEntryPage.ZPfYYoIRNtbBSHKX
-tags:
-  - JournalEntryPage
+noteType: pf2erule
 ---
 
 # The Three Variants

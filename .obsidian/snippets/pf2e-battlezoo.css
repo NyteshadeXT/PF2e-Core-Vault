@@ -1,0 +1,130 @@
+/*─────────────────────────────────────────────────────────────────────────────
+  Variables
+─────────────────────────────────────────────────────────────────────────────*/
+:root {
+  --pf2e-trait-bg:       rgb(97, 20, 5);
+  --pf2e-trait-fg:       rgb(232, 232, 232);
+  --pf2e-trait-border:   1px solid #FFD700;
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
+  Scope to notes with cssclass: PF2eBZTrait
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait {
+  --imbuement-border: 1px solid var(--color-accent-2);
+  --imbuement-bg:     var(--background-modifier-box);
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
+  Section headers (H3)
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait h3 {
+  all: unset;                         /* reset any theme styling */
+  display: block;
+  border-bottom: 2px solid var(--color-accent) !important;
+  padding-bottom: 0.2em !important;
+  margin-top:    1.2em !important;
+  box-shadow:    none !important;
+  text-shadow:   none !important;
+  text-transform: uppercase;
+  font-family:   var(--font-interface);
+  font-weight:   700;
+  font-size:     1.2rem;
+  color:         var(--text-accent);
+}
+
+/* 1) Hide any <hr> in PF2eBZTrait notes */
+.PF2eBZTrait hr {
+  display: none !important;
+  margin: 0 !important;
+  border: none !important;
+}
+
+/* 2) Remove any top border on the element immediately following an H3 */
+.PF2eBZTrait h3 + * {
+  border-top: none !important;
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* 3) Double‐ensure no pseudo-element underlines */
+.PF2eBZTrait h3::before,
+.PF2eBZTrait h3::after {
+  content: none !important;
+}
+
+
+/*─────────────────────────────────────────────────────────────────────────────
+  Top-line labels (Type / Parts / Effect)
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait p strong {
+  font-weight: 700;
+  color:       var(--text-accent);
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
+  Level breakpoints in lists
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait li strong {
+  display:        inline-block;
+  min-width:      3em;
+  font-weight:    700;
+  color:          var(--color-accent-1);
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
+  Inline “Trait” links (pill badges)
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait a.internal-link[href*="3-Rules/Trait Reference"] {
+  /* shape & layout */
+  display:        inline-flex !important;
+  align-items:    center     !important;
+  padding:        0.2em 0.75em !important;
+  border-radius:  999px      !important;
+  border:         var(--pf2e-trait-border) !important;
+  line-height:    1         !important;
+  transition:     background-color 0.2s ease,
+                  color            0.2s ease,
+                  box-shadow       0.2s ease;
+
+  /* colors & typography */
+  background-color: var(--pf2e-trait-bg) !important;
+  color:            var(--pf2e-trait-fg) !important;
+  font-family:      "Oswald", sans-serif !important;
+  font-variant-caps: small-caps !important;
+  font-weight:      700         !important;
+  letter-spacing:   0.03em      !important;
+  text-decoration:  none        !important;
+  cursor:           help        !important;
+  text-transform:   none        !important;
+  text-shadow:      0 0 1px rgba(0,0,0,0.25) !important;
+}
+
+.PF2eBZTrait a.internal-link[href*="3-Rules/Trait Reference"]:hover {
+  background-color: var(--pf2e-trait-fg) !important;
+  color:            var(--background-primary) !important;
+  box-shadow:       0 0 6px #FFD700 !important;
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
+  “Trait” Callout Badges in statblock-pf2e
+─────────────────────────────────────────────────────────────────────────────*/
+.callout[data-callout="statblock-pf2e"][title$=" Trait"] {
+  background-color: var(--pf2e-trait-bg)   !important;
+  border:           var(--pf2e-trait-border) !important;
+  border-radius:    0.3125rem              !important;
+  padding:          0.0625rem               !important;
+  margin:           0.125rem 0.125rem 0.75rem !important;
+  color:            var(--pf2e-trait-fg)   !important;
+  font-weight:      700                    !important;
+  cursor:           help                   !important;
+  display:          inline-block           !important;
+  text-align:       center                 !important;
+  word-break:       keep-all                !important;
+}
+
+.callout[data-callout="statblock-pf2e"][title$=" Trait"] .callout-title-inner {
+  letter-spacing: 0.04em !important;
+  padding:        0.2em 0.5em !important;
+  margin-bottom:  0 !important;
+}

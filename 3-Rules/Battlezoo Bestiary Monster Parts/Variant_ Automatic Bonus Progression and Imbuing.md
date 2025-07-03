@@ -1,14 +1,12 @@
 ---
 title: "Variant: Automatic Bonus Progression and Imbuing"
-icon: ":sticky-note:"
 aliases: "Variant: Automatic Bonus Progression and Imbuing"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.DoDZhwdPg82XFBLP.JournalEntryPage.ZgcD3dwxiP7Dwn1i
-tags:
-  - JournalEntryPage
+noteType: pf2erule
 ---
 
+
 # Variant: Automatic Bonus Progression and Imbuing
-What if your campaign uses the automatic bonus progression subsystem? You can still use imbuing, replacing refining with the automatic bonus progression. This works in a simple way for weapons and armor: bonuses happen automatically per the automatic bonus progression rules. Use monster parts to imbue weapons and armor, gaining the ability to imbue the item at the same levels as normal on [[undefined]] and [[undefined]].
+What if your campaign uses the automatic bonus progression subsystem? You can still use imbuing, replacing refining with the automatic bonus progression. This works in a simple way for weapons and armor: bonuses happen automatically per the automatic bonus progression rules. Use monster parts to imbue weapons and armor, gaining the ability to imbue the item at the same levels as normal on [[Table 4A_ Refinement Benefits by Level (Weapon)]] and [[Table 4B_ Refinement Benefits by Level (Amor)|Table 4B: Refinement Benefits by Level (Amor)]].
 
 For shields, either use the normal refining and imbuing rules, or you might consider adding the shield refining rules as an "automatic shield progression" for 1 shield per character since those are the only items that have refinement and aren't part of the automatic bonus progression.
 

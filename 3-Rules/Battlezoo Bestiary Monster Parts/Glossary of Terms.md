@@ -1,10 +1,7 @@
 ---
 title: "Glossary of Terms"
-icon: ":sticky-note:"
-aliases: "Glossary of Terms"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.DoDZhwdPg82XFBLP.JournalEntryPage.RMfRyGdwsFVlepfq
-tags:
-  - JournalEntryPage
+aliases: "Battlezoo - Glossary of Terms"
+noteType: pf2eRule
 ---
 
 # Glossary of Terms

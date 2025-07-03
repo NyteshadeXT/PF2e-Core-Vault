@@ -1,10 +1,7 @@
 ---
 title: "Variant: Precious Materials and Refining"
-icon: ":sticky-note:"
 aliases: "Variant: Precious Materials and Refining"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.DoDZhwdPg82XFBLP.JournalEntryPage.HM34tDL2Osm063uM
-tags:
-  - JournalEntryPage
+noteType: pf2erule
 ---
 
 # Variant: Precious Materials and Refining

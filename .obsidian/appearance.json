@@ -5,10 +5,11 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "Internal-Links",
-    "S - Encoded Fonts",
     "HoverProperties_-_Columns",
     "pf2-compendium",
     "pf2e-items",
+    "pf2e-battlezoo",
+    "S - Encoded Fonts",
     "pf2e-statblock"
   ],
   "baseFontSize": 16
