@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "black-adder-venom"
 aliases: "Black Adder Venom"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "248"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -24,9 +24,10 @@ value: "6"
 subvalue: "gp"
 invest:
 usage: "held in two hands"
+activate: "`pf2:2` (manipulate)"
 license: "ORC"
 identify:
-description: "Adder venom is a simple but effective way to enhance a weapon.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 18 Fortitude check  **Maximum Duration** 3 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage 2** 1d6 poison damage (1 round)  **Stage 3** 1d8 poison damage (1 round)"
+description: "Adder venom is a simple but effective way to enhance a weapon. **Saving Throw** DC 18 Fortitude check  **Maximum Duration** 3 rounds.<br><br>**Stage 1** `dice: 1d4` 1d4 poison damage (1 round)<br>**Stage 2** `dice: 1d6` 1d6 poison damage (1 round)<br>**Stage 3** `dice: 1d8` 1d8 poison damage (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

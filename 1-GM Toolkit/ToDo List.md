@@ -14,6 +14,8 @@ tags:
 	- [ ] Add 
 	- [ ] Add 
 	- [ ] Add  
+	- [ ] Remove Dragon's Breath Potions from item generator as they've been replaced.
+	- [ ] Remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.
 - [ ] Update item templates with Identification criteria
 - [ ] Create spell template
 - [ ] Update spells to new template
@@ -27,4 +29,3 @@ tags:
 - [ ] Integrate Battlezoo monster part system into bestiary entries
 - [ ] Complete implementation of Calendar system
 - [ ] Do I want to add gems to the items?
-- [ ] Be sure to remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.

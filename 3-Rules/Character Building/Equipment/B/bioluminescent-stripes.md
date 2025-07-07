@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "bioluminescent-stripes"
 aliases: "Bioluminescent Stripes"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "97"
 rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "light"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "A line of glands embedded in your skin secretes a chemical that glows when it interacts with the air. As a single action, you can activate your bioluminescent stripes to glow with a bright light in a 20-foot radius and dim light for the next 20 feet. While you are glowing, you can't be [[Conditions/Undetected|Undetected]] and you take a –4 item penalty to Stealth checks to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]]. You can Dismiss the glow as a free action."
+description: "A line of glands embedded in your skin secretes a chemical that glows when it interacts with the air. As a single action, you can activate your bioluminescent stripes to glow with a bright light in a 20-foot radius and dim light for the next 20 feet. While you are glowing, you can't be [[Undetected]] and you take a –4 item penalty to Stealth checks to [[Hide]] and [[Sneak]]. You can [[Dismiss]] the glow as a free action."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

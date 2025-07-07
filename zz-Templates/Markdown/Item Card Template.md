@@ -158,9 +158,7 @@ dv.span(`
 
 ```
 
-> [!infobox|ttl-c txt-c alt-line]+
-> # `= this.aliases`
-> `VIEW[!\[\[{image}\]\]][text(renderMarkdown)]`
+`VIEW[<img src="{image}" alt="" style="float: right; display: inline-block; margin: 0 0 1em 1em; width: 300px; height: auto;" />][text(renderMarkdown)]`
 
 ```dataviewjs
 const d = dv.current();
@@ -267,32 +265,17 @@ if (d.invest)  stats.push(`**Invest** ${d.invest}`);
 
 if (stats.length) dv.list(stats);
 
-
 // ─── INTELLIGENT ITEM BOX ───────────────────────────────────────
-const hasIntel =
-     !!d.perception?.trim() ||
-     !!d.communication?.trim() ||
-     !!d.skill1?.trim()    ||
-     !!d.skill2?.trim()    ||
-     !!d.skill3?.trim()    ||
-     !!d.skill4?.trim()    ||
-     !!d.skill5?.trim()    ||
-     typeof d.int === "number" ||
-     typeof d.wis === "number" ||
-     typeof d.cha === "number" ||
-     !!d.will?.trim();
+const hasIntel = !!d.perception?.trim() || !!d.communication?.trim() || !!d.skill1?.trim() || !!d.skill2?.trim() || !!d.skill3?.trim() || !!d.skill4?.trim() || !!d.skill5?.trim() || typeof d.int === "number" || typeof d.wis === "number" || typeof d.cha === "number" || !!d.will?.trim();
 
 if (hasIntel) {
-  // Create the box container
   const box = document.createElement("div");
   box.classList.add("pf2e-intelligent-item");
 
-  // 1) Header as an H2
   const h2 = document.createElement("h2");
   h2.textContent = "Intelligent Item";
   box.appendChild(h2);
 
-  // Helper to build each line
   function mkLine(pairs) {
     const row = document.createElement("div");
     pairs.forEach((x, i) => {
@@ -300,38 +283,27 @@ if (hasIntel) {
       s.textContent = x.label + " ";
       row.appendChild(s);
       row.appendChild(document.createTextNode(x.value));
-      if (i < pairs.length - 1) {
-        row.appendChild(document.createTextNode("; "));
-      }
+      if (i < pairs.length - 1) row.appendChild(document.createTextNode("; "));
     });
     return row;
   }
 
-  // 2) Perception / Communication
   let L1 = [];
   if (d.perception?.trim())    L1.push({ label: "Perception",    value: d.perception.trim() });
   if (d.communication?.trim()) L1.push({ label: "Communication", value: d.communication.trim() });
   if (L1.length)               box.appendChild(mkLine(L1));
 
-  // 3) Skills
-  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5]
-             .filter(x => x?.trim())
-             .map(x => x.trim());
+  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5].filter(x => x?.trim()).map(x => x.trim());
   if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));
 
-  // 4) INT / WIS / CHA
   let MS = [];
   if (typeof d.int === "number") MS.push({ label: "INT", value: d.int });
   if (typeof d.wis === "number") MS.push({ label: "WIS", value: d.wis });
   if (typeof d.cha === "number") MS.push({ label: "CHA", value: d.cha });
   if (MS.length) box.appendChild(mkLine(MS));
 
-  // 5) Will
-  if (d.will?.trim()) {
-    box.appendChild(mkLine([{ label: "Will", value: d.will.trim() }]));
-  }
+  if (d.will?.trim()) box.appendChild(mkLine([{ label: "Will", value: d.will.trim() }]));
 
-  // 6) Inject into the document (no bullet)
   dv.paragraph("");
   dv.el("div", box, {});
 }
@@ -341,38 +313,27 @@ if (d.description?.trim()) {
   dv.paragraph(d.description);
 }
 
+// ─── DRAWBACK ────────────────────────────────────────────────
+if (d.drawback?.trim()) {
+  dv.paragraph(`**Drawback:** ${d.drawback}`);
+}
+
 // ─── ABILITIES #1–4 ────────────────────────────────────────────
 function getIcon(ae) {
   if (!ae) return "";
   let m = ae.toString().trim().toLowerCase();
-  return {
-    "1":"`pf2:1`","2":"`pf2:2`","3":"`pf2:3`","0":"`pf2:0`",
-    "r":"`pf2:r`","reaction":"`pf2:r`",
-    "f":"`pf2:f`","free":"`pf2:f`"
-  }[m]||"";
+  return { "1":"`pf2:1`","2":"`pf2:2`","3":"`pf2:3`","0":"`pf2:0`","r":"`pf2:r`","reaction":"`pf2:r`","f":"`pf2:f`","free":"`pf2:f`" }[m]||"";
 }
 
-function createPowerBlock(
-  title, action, type, frequency, activate, requirement, trigger, duration, mechanics
-) {
+function createPowerBlock(title, action, type, frequency, activate, requirement, trigger, duration, mechanics) {
   let icon = getIcon(action);
   let block = `### **${title}** ${icon} ${type || ""}\n\n`;
 
-  if (frequency?.toString().trim())
-    block += `**Frequency:** ${frequency}\n\n`;
-
-  if (activate?.toString().trim())
-    block += `**Activate:** ${activate}\n\n`;
-
-  if (requirement?.toString().trim())
-    block += `**Requirements:** ${requirement}\n\n`;
-
-  if (trigger?.toString().trim())
-    block += `**Trigger:** ${trigger}\n\n`;
-
-  if (duration?.toString().trim())
-    block += `**Duration:** ${duration}\n\n`;
-
+  if (frequency?.toString().trim()) block += `**Frequency:** ${frequency}\n\n`;
+  if (activate?.toString().trim())  block += `**Activate:** ${activate}\n\n`;
+  if (requirement?.toString().trim()) block += `**Requirements:** ${requirement}\n\n`;
+  if (trigger?.toString().trim()) block += `**Trigger:** ${trigger}\n\n`;
+  if (duration?.toString().trim()) block += `**Duration:** ${duration}\n\n`;
   block += `${mechanics || ""}\n`;
   return block;
 }
@@ -398,22 +359,12 @@ for (let i = 1; i <= 4; i++) {
 }
 
 if (abilities.length) {
-  dv.paragraph(
-    `<div class="pf2e-ability-textbox">\n\n` +
-    abilities.join("\n\n") +
-    `\n\n</div>`
-  );
+  dv.paragraph(`<div class="pf2e-ability-textbox">\n\n` + abilities.join("\n\n") + `\n\n</div>`);
 }
 
 // ─── DESTRUCTION & SOURCE ───────────────────────────────────────
-if (d.destruction?.trim()) {
-  dv.paragraph(`**Destruction:** ${d.destruction.trim()}`);
-}
-if (d.source?.trim() || d.pg?.toString().trim()) {
-  dv.paragraph(
-    `*Source: ${d.source || "Unknown"}${d.pg ? `, pg. ${d.pg}` : ""}*`
-  );
-}
+if (d.destruction?.trim()) dv.paragraph(`**Destruction:** ${d.destruction.trim()}`);
+if (d.source?.trim() || d.pg?.toString().trim()) dv.paragraph(`*Source: ${d.source || "Unknown"}${d.pg ? `, pg. ${d.pg}` : ""}*`);
 
 // ─── MAGIC ITEM PROPERTIES ───────────────────────────────────────
 let mg = [];

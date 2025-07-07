@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "big-rock-bullet"
 aliases: "Big Rock Bullet"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "14"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "earth"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** sling bullet  **Activate** `pf2:1` Interact  * * *  A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears. When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes 4d6 bludgeoning damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes 2d6 bludgeoning damage. Creatures with the [[Bestiary Ability Glossary/Catch Rock|Catch Rock]] reaction can use it against a big rock bullet."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes `dice: 4d6` 4d6 bludgeoning damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes `dice: 2d6` 2d6 bludgeoning damage. Creatures with the [[Catch Rock]] reaction can use it against a big rock bullet."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,7 +45,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "sling bullet"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -1,44 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Belladonna"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/alchemical
-  - trait/consumable
-  - trait/ingested
-  - trait/poison
-  - trait/common
-  - category/poison
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.FL8QU8TcNauBMMhD"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "belladonna"
+aliases: "Belladonna"
+source: "Pathfinder Player Core 2"
+pg: "291"
+rarity: ""
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "ingested"
+trait04: "poison"
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 2
+group: "poison"
+weight: "L"
+value: "5"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify: ""
+description: "Sometimes called “deadly nightshade,” belladonna is a widely available toxin produced from a plant similar to a tomato."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Poison"
+actionEconomy1: 2
+type1: "([[manipulate]])"
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "**Saving Throw** DC 19 Fortitude; **Onset** 10 minutes; **Maximum Duration** 30 minutes;<br>**Stage 1** [[dazzled]] (10 minutes);<br>**Stage 2** `dice: 1d6` 1d6 poison damage and [[sickened|sickened 1]] (10 minutes);<br>**Stage 3** `dice: 1d6` 1d6 poison damage, [[confused]], and [[sickened|sickened 1]] (1 minute)"
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Belladonna
-## Item 2
-### [[alchemical]][[consumable]][[ingested]][[poison]]
 
-**Category** poison; 
-**Price** 5 gp; 
-**Bulk** L; **Size** med
-**Usage** held-in-one-hand
 
-**Activate** `pf2:1` (manipulate)
-
-* * *
-
-Sometimes called "deadly nightshade," belladonna is a widely available toxin produced from a plant similar to a tomato.
-
-**Saving Throw** DC 19 Fortitude check
-
-**Onset** 10 minutes
-
-**Maximum Duration** 30 minutes
-
-**Stage 1** [[Conditions/Dazzled|Dazzled]] (10 minutes)
-
-**Stage 2** 1d6 poison damage and [[Conditions/Sickened|Sickened 1]] (10 minutes)
-
-**Stage 3** 1d6 poison damage, [[Conditions/Confused|Confused]], and sickened 1 (1 minute)
-
-*Source: Pathfinder Player Core 2*
-*ORC*
+```meta-bind-embed
+[[Item Card Template]]
+```

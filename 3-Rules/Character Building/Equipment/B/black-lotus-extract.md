@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "black-lotus-extract"
 aliases: "Black Lotus Extract"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "248"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
 trait05: "virulent"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -25,8 +25,9 @@ subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
+activate: "`pf2:1` ([[manipulate]]) "
 identify:
-description: "Black lotus extract causes severe internal bleeding.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 42 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 13d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)  **Stage 2** 15d6 poison damage and [[Conditions/Drained|Drained 1]] (1 round)  **Stage 3** 17d6 poison damage and [[Conditions/Drained|Drained 2]] (1 round)"
+description: "Black lotus extract causes severe internal bleeding. **Saving Throw** DC 42 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds.<br><br>**Stage 1** `dice: 13d6` 13d6 poison damage and [[Drained 1]]<br>**Stage 2** `dice: 15d6` 15d6 poison damage and [[Drained 1]]<br>**Stage 3** `dice: 17d6` 17d6 poison damage and [[Drained|Drained 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -10,7 +10,8 @@
     "pf2e-items",
     "pf2e-battlezoo",
     "S - Encoded Fonts",
-    "pf2e-statblock"
+    "pf2e-statblock",
+    "image-float"
   ],
   "baseFontSize": 16
 }

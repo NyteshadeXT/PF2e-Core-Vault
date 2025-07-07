@@ -8,11 +8,11 @@ name: "bitterblood-elixir"
 aliases: "Bitterblood Elixir"
 source: "Pathfinder #214: The Broken Palace"
 pg: ""
-rarity: ""
+rarity: "rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Bitterblood elixir is a pale pink color, like that of water tinted by a few drops of blood. After you drink this elixir, your blood becomes dangerous for other creatures to consume. For the next hour, whenever a creature drinks your blood, the elixir changes your blood into a foul-tasting acid as it mixes with the drinker's saliva. You're unharmed by this transformation, but the blood drinker must attempt a DC 20 Fortitude check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes 2d6 acid damage and is [[Conditions/Sickened|Sickened 1]].  **Failure** The creature takes 4d6 acid damage and is [[Conditions/Sickened|Sickened 2]].  **Critical Failure** The creature takes 4d6 acid + 2d6 persistent acid damage, and is [[Conditions/Sickened|Sickened 3]]."
+activate: "`pf2:1` ([[manipulate]])"
+description: "Bitterblood elixir is a pale pink color, like that of water tinted by a few drops of blood. After you drink this elixir, your blood becomes dangerous for other creatures to consume. For the next hour, whenever a creature drinks your blood, the elixir changes your blood into a foul-tasting acid as it mixes with the drinker's saliva. You're unharmed by this transformation, but the blood drinker must attempt a DC 20 Fortitude check save.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes `dice: 2d6` 2d6 acid damage and is [[Sickened|Sickened 1]].<br>**Failure** The creature takes `dice: 4d6` 4d6 acid damage and is [[Sickened|Sickened 2]].<br>**Critical Failure** The creature takes `dice: 4d6` 4d6 acid + `dice: 2d6` 2d6 persistent acid damage, and is [[Sickened|Sickened 3]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

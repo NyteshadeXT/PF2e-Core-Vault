@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f34af5987923c59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/B/Bell Implement.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Bell Implement"
-            }
-          },
-          {
             "id": "f1b62992fc2b6646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Item Card Template.md",
+                "file": "3-Rules/Character Building/Equipment/B/blackaxe.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "blackaxe"
+            }
+          },
+          {
+            "id": "fa9695b982a1688f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Item Card Template"
+              "title": "Insert Item"
             }
           },
           {
@@ -47,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "The Three Faces of Evil"
-            }
-          },
-          {
-            "id": "2ddacc748380e384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Acid.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Acid"
             }
           },
           {
@@ -104,9 +90,22 @@
               "icon": "lucide-file",
               "title": "wroggi"
             }
+          },
+          {
+            "id": "5c2c340e5e71f565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/ToDo List.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ToDo List"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 313.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -369,50 +368,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "calendarium:Open Calendarium": false
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "2ddacc748380e384",
+  "active": "f1b62992fc2b6646",
   "lastOpenFiles": [
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Bane.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Air.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Acid.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Imbued Properties.md",
-    "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/B/blade-byrnie-greater.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Chaotic.md",
-    "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
-    "rules/traits/cold.md",
+    "3-Rules/Character Building/Equipment/B/blade-launcher.md",
+    "3-Rules/Character Building/Equipment/B/blackaxe.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md",
+    "3-Rules/Character Building/Equipment/B/blade-byrnie-major.md",
+    "3-Rules/Character Building/Equipment/B/blade-byrnie.md",
+    "3-Rules/Character Building/Equipment/B/big-rock-bullet-greater.md",
+    "3-Rules/Character Building/Equipment/B/big-rock-bullet.md",
+    "3-Rules/Character Building/Equipment/B/big-boom-gun.md",
+    "3-Rules/Character Building/Equipment/B/black-hole-armor.md",
+    "3-Rules/Character Building/Equipment/B/black-ash-major.md",
+    "3-Rules/Character Building/Equipment/B/black-ash-greater.md",
+    "3-Rules/Character Building/Equipment/B/black-tendril-shot-moderate.md",
+    "3-Rules/Character Building/Equipment/B/black-tendril-shot-lesser.md",
+    "3-Rules/Character Building/Equipment/B/black-tendril-shot-greater.md",
+    "zz-Attachments/blade-byrnie.png",
+    "3-Rules/Character Building/Equipment/B/blackfinger-blight.md",
+    "3-Rules/Character Building/Equipment/B/Blackaxe.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Attachments/black-tendril-shot.png",
+    "3-Rules/Character Building/Equipment/B/black-smear-poison.md",
+    "3-Rules/Character Building/Equipment/B/black-scorpion-stingmace.md",
+    "3-Rules/Character Building/Equipment/B/black-powder-knuckle-dusters-melee.md",
+    "3-Rules/Character Building/Equipment/B/black-powder-knuckle-dusters-ranged.md",
+    "3-Rules/Character Building/Equipment/B/Blade of the Black Sovereign.md",
+    "3-Rules/Character Building/Equipment/B/Blade of Fallen Stars.md",
+    "3-Rules/Character Building/Equipment/B/Blade Byrnie.md",
+    "zz-Attachments/black-hole-armor.png",
+    "zz-Attachments/wayfinder.png",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/image-4.png",
+    "zz-Attachments/image-3.png",
+    "zz-Attachments/bewildering-spellgun.png",
+    "zz-Attachments/berserkers-cloak.png",
+    "zz-Attachments/belt-of-the-five-kings.png",
     "rules/traits",
     "rules",
-    "3-Rules/Trait Reference/A/acid.md",
-    "3-Rules/Character Building/Feats/A Little Bird Told Me....md",
-    "3-Rules/Character Building/Spells/A/Aberrant Form.md",
-    "3-Rules/Trait Reference/A/academic-locg.md",
-    "3-Rules/Trait Reference/A/abjuration.md",
-    "3-Rules/Trait Reference/A/aberration.md",
-    "3-Rules/Trait Reference/A/aasimar-apg.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Gathering Ingredients.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Glossary of Terms.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Table 4D_ Refinement Benefits by Level (Perception Item).md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Table 2B_ Monster Parts gained Per Monster (Hybrid Variant).md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Monster Parts Introduction.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Precious Materials and Refining.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Automatic Bonus Progression and Imbuing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/The Three Variants.md",
-    "zz-Attachments/tetranadon.png",
-    "zz-Attachments/beguiling-crown.png",
-    "zz-Attachments/bec-de-corbin.png",
-    "zz-Attachments/battle-medics-baton.png",
-    "zz-Attachments/bastion-plate.png",
-    "zz-Attachments/great-wroggi.png",
-    "zz-Attachments/bastion-of-the-inheritor.png",
-    "zz-Attachments/bargainers-instrument.png",
-    "zz-Attachments/bands-of-force.png",
-    "zz-Attachments/bagpipes-of-turmoil.png",
     "2-Session Journals/Age-of-Worms/Old",
     "3-Rules/Character Building/Equipment/Z",
     "3-Rules/Character Building/Equipment/Y",

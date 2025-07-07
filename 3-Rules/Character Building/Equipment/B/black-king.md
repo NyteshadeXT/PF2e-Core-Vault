@@ -3,17 +3,17 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: h-line
-notetype: pf2e-item
+notet[[black-king]]ype: pf2e-item
 name: "black-king"
 aliases: "Black King"
 source: "Pathfinder Lost Omens Highhelm"
-pg: ""
-rarity: ""
+pg: "58"
+rarity: "rare"
 trait01: "concussive"
 trait02: "magical"
 trait03: "scatter-20"
 trait04: "void"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -23,16 +23,17 @@ weight: 2
 value: "6250"
 subvalue: "gp"
 invest:
+group: "Firearm"
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The _black king_ is a _+2 greater striking ashen blunderbuss_. While the dark metal frame is still pleasant to look at, this design prioritizes destructive power over aesthetic appeal. This specialized blunderbuss has a scatter radius of 20 feet instead of 10, and all splash damage it deals is void damage instead of physical. Due to the risk of collateral damage, this weapon is typically only used by the especially foolhardy or reckless.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day;  * * *  **Effect** You unleash a blast of draining flame, dealing 5d6 fire + 5d6 void damage to all creatures in a 60 foot cone (DC 34 Reflex check save). Creatures who fail their saving throw are knocked back 5 feet. Creatures who critically fail are knocked back 10 feet and fall [[Conditions/Prone|Prone]]."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The _black king_ is a _[[Weapon Potency (+2)|+2]] [[striking-(greater)|Striking (Greater)]] [[ashen|ashen]] [[Blunderbuss|blunderbuss]]_. While the dark metal frame is still pleasant to look at, this design prioritizes destructive power over aesthetic appeal. This specialized blunderbuss has a scatter radius of 20 feet instead of 10, and all splash damage it deals is void damage instead of physical. Due to the risk of collateral damage, this weapon is typically only used by the especially foolhardy or reckless."
+powerTitle1: "Blast"
+actionEconomy1: 2
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You unleash a blast of draining flame, dealing `dice: 5d6` 5d6 fire + `dice: 5d6` 5d6 void damage to all creatures in a 60 foot cone (DC 34 Reflex check save). Creatures who fail their saving throw are knocked back 5 feet. Creatures who critically fail are knocked back 10 feet and fall [[Prone]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,14 +46,14 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 40 ft
-ammoType:
-damage: 3d8 piercing
-dmg1:
-dmg1Type:
+ammoType: "Firearm Ammunition (10 rounds)"
+damage:  
+dmg1: 3d8
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Ranged"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Blunderbuss"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

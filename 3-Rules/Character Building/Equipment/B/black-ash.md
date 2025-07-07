@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "black-ash"
 aliases: "Black Ash"
 source: "Pathfinder #210: Whispers in the Dirt"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "rare"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -24,9 +24,10 @@ value: "30"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
+activate: "Cast a Spell"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  On certain rare occasions, when a particularly despoiled tree or a powerful demonic fungal infestation (such as a Jeharlu Spore) is destroyed, the grimy black ash that remains behind functions as a catalyst called black ash. A [[Spells/Wall of Thorns|Wall of Thorns]] empowered with this catalyst gains the fungus trait and appears diseased and toxic, with greasy filaments of dripping fungus growing through its vines. A creature damaged by this wall's thorns takes an additional 1d6 persistent poison."
+description: "On certain rare occasions, when a particularly despoiled tree or a powerful demonic fungal infestation (such as a Jeharlu Spore) is destroyed, the grimy black ash that remains behind functions as a catalyst called black ash. A [[Wall of Thorns]] empowered with this catalyst gains the fungus trait and appears diseased and toxic, with greasy filaments of dripping fungus growing through its vines. A creature damaged by this wall's thorns takes an additional `dice: 1d6` 1d6 persistent poison."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

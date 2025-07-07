@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "belt-of-good-health"
 aliases: "Belt of Good Health"
 source: "Pathfinder Beginner Box"
-pg: ""
+pg: "54"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

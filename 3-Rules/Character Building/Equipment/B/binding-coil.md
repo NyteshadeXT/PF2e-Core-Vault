@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "binding-coil"
 aliases: "Binding Coil"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "173"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed weapon damages a creature  **Requirements** You're an expert in Athletics.  * * *  This talisman, a bright red coil that's warm to the touch and faintly resembles a serpent, wraps entirely around your weapon. When you activate this talisman's effect, attempt to [[Actions/Grapple|Grapple]] the creature you hit. On a success, rather than the normal Grapple effects, the coil instead wraps itself around the target with one end remaining attached to your weapon. Your opponent must succeed at a DC 20 Escape check to break free. The coil breaks if you move any further away from the bound opponent, but not if you move any closer."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This talisman, a bright red coil that's warm to the touch and faintly resembles a serpent, wraps entirely around your weapon."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "Your Strike with the affixed weapon damages a creature."
+requirement1: "You're an expert in Athletics."
+mechanics1: "When you activate this talisman's effect, attempt to [[3-Rules/Trait Reference/G/grapple|Grapple]] the creature you hit. On a success, rather than the normal Grapple effects, the coil instead wraps itself around the target with one end remaining attached to your weapon. Your opponent must succeed at a DC 20 [[Escape]] check to break free. The coil breaks if you move any further away from the bound opponent, but not if you move any closer."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

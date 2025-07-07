@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "biting-snare"
 aliases: "Biting Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "297"
 rarity: ""
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare closes shut on the leg of a creature. The snare deals 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage.  **Critical Failure** The creature takes double damage and takes a -10-foot status penalty to its Speed until it recovers at least 1 Hit Point."
+description: "This snare closes shut on the leg of a creature. The snare deals `dice: 5d6` 5d6 piercing damage to the first creature that enters its square; that creature must attempt a DC 21 Reflex check save.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes half damage.<br>**Failure** The creature takes full damage.<br>**Critical Failure** The creature takes double damage and takes a -10-foot status penalty to its Speed until it recovers at least 1 Hit Point."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

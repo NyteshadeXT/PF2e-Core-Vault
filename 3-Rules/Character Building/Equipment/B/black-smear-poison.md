@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "black-smear-poison"
 aliases: "Black Smear Poison"
 source: "Pathfinder Bestiary"
-pg: ""
-rarity: ""
+pg: "51"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -25,8 +25,9 @@ subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
+activate: "`pf2:3` [[Interact]] (Injury)"
 identify:
-description: "Many calignis use a debilitating poison crafted from subterranean fungi.  * * *  **Activate** `pf2:3` Interact (Injury)  **Saving Throw** DC 16 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** As stage 1  **Stage 3** 1d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
+description: "Many calignis use a debilitating poison crafted from subterranean fungi.<br><br>**Saving Throw** DC 16 Fortitude check  **Maximum Duration** 6 rounds<br>**Stage 1** `dice: 1d6` 1d6 poison damage and [[Enfeebled|Enfeebled 1]] (1 round)<br>**Stage 2** As stage 1<br>**Stage 3** `dice: 1d6` 1d6 poison damage, and [[Enfeebled|Enfeebled 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
