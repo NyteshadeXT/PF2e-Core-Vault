@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sink and Swim
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[aftermath]][[water]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

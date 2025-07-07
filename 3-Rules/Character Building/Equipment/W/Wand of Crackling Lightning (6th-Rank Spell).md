@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Crackling Lightning (6th-Rank Spell)
 ## Item 14
-### [[electricity]][[magical]][[wand]]
+### [[3-Rules/Trait Reference/E/electricity]][[magical]][[wand]]
 
 
 **Price** 4500 gp; 

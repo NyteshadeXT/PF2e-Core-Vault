@@ -11,14 +11,10 @@
             "id": "f1b62992fc2b6646",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blackaxe.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "blackaxe"
+              "title": "New tab"
             }
           },
           {
@@ -97,15 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/ToDo List.md",
+                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
+              "title": "Variant_ Relic Imbuing"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 309.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -368,39 +365,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "f1b62992fc2b6646",
+  "active": "5c2c340e5e71f565",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/B/blade-byrnie-greater.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/B/blade-launcher.md",
-    "3-Rules/Character Building/Equipment/B/blackaxe.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md",
-    "3-Rules/Character Building/Equipment/B/blade-byrnie-major.md",
-    "3-Rules/Character Building/Equipment/B/blade-byrnie.md",
-    "3-Rules/Character Building/Equipment/B/big-rock-bullet-greater.md",
-    "3-Rules/Character Building/Equipment/B/big-rock-bullet.md",
-    "3-Rules/Character Building/Equipment/B/big-boom-gun.md",
-    "3-Rules/Character Building/Equipment/B/black-hole-armor.md",
-    "3-Rules/Character Building/Equipment/B/black-ash-major.md",
-    "3-Rules/Character Building/Equipment/B/black-ash-greater.md",
-    "3-Rules/Character Building/Equipment/B/black-tendril-shot-moderate.md",
-    "3-Rules/Character Building/Equipment/B/black-tendril-shot-lesser.md",
-    "3-Rules/Character Building/Equipment/B/black-tendril-shot-greater.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wood.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wisdom.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Winged.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wild.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Water.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Throwing.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sturdy.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Strength.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spiked.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spell.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sensory.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sonic.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Positive.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Poison.md",
+    "3-Rules/Character Building/Spells/P/Puff of Poison.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Negative.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Mirrored.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Elongating.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Electricity.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Earth.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Dexterity.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Darkness.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Constitution.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Cold.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Charisma.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Chaotic.md",
     "zz-Attachments/blade-byrnie.png",
-    "3-Rules/Character Building/Equipment/B/blackfinger-blight.md",
-    "3-Rules/Character Building/Equipment/B/Blackaxe.md",
-    "zz-Templates/Markdown/Item Card Template.md",
     "zz-Attachments/black-tendril-shot.png",
-    "3-Rules/Character Building/Equipment/B/black-smear-poison.md",
-    "3-Rules/Character Building/Equipment/B/black-scorpion-stingmace.md",
-    "3-Rules/Character Building/Equipment/B/black-powder-knuckle-dusters-melee.md",
-    "3-Rules/Character Building/Equipment/B/black-powder-knuckle-dusters-ranged.md",
-    "3-Rules/Character Building/Equipment/B/Blade of the Black Sovereign.md",
-    "3-Rules/Character Building/Equipment/B/Blade of Fallen Stars.md",
-    "3-Rules/Character Building/Equipment/B/Blade Byrnie.md",
     "zz-Attachments/black-hole-armor.png",
     "zz-Attachments/wayfinder.png",
     "zz-Attachments/image-2.png",

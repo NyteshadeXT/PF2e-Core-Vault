@@ -12,7 +12,7 @@ license: ORC
 ---
 # Cloud Pouch
 ## Item 6
-### [[magical]][[water]]
+### [[magical]][[3-Rules/Trait Reference/W/water]]
 
 
 **Price** 225 gp; 

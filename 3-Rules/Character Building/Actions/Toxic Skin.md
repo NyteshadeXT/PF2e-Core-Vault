@@ -13,7 +13,7 @@ license: ORC
 ---
 # Toxic Skin `pf2:r`
 
-### [[grippli]][[poison]]
+### [[grippli]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** defensive; 
 

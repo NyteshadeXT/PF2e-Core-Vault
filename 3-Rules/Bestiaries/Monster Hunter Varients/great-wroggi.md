@@ -105,11 +105,11 @@ rarity: uncommon
 
 | Part Name         | Trait Tags                           | Harvest DC | Yield (Units) | Use Type         | Notes                                                  |
 |-------------------|---------------------------------------|------------|----------------|------------------|---------------------------------------------------------|
-| Wroggi Hide       | [[poison]], [[resilient]], [[hide]]   | DC 20      | 2d4            | Armor            | Scaled hide resistant to venom and light cuts           |
-| Alpha Venom Sac   | [[poison]], [[volatile]], [[core]]    | DC 22      | 1d3            | Consumable Core  | Extremely potent concentrated venom                     |
+| Wroggi Hide       | [[3-Rules/Trait Reference/P/poison]], [[resilient]], [[hide]]   | DC 20      | 2d4            | Armor            | Scaled hide resistant to venom and light cuts           |
+| Alpha Venom Sac   | [[3-Rules/Trait Reference/P/poison]], [[volatile]], [[core]]    | DC 22      | 1d3            | Consumable Core  | Extremely potent concentrated venom                     |
 | Fanged Maw        | [[bite]], [[toxic]], [[offense]]      | DC 21      | 1d3            | Weapon Additive  | Infuses weapons with paralytic toxin                    |
 | Hood Frill        | [[display]], [[fear]], [[distracting]]| DC 20      | 1d2            | Magical Focus    | Used in intimidation gear or hypnotic accessories       |
-| Mucosal Glands    | [[poison]], [[alchemical]], [[coating]]| DC 19     | 1d2            | Alchemical Coating| Used for slick or nauseating salves                     |
+| Mucosal Glands    | [[3-Rules/Trait Reference/P/poison]], [[alchemical]], [[coating]]| DC 19     | 1d2            | Alchemical Coating| Used for slick or nauseating salves                     |
 
 **Critical Success:** Double units for that part. **Failure:** Gain no usable units of that type.
 

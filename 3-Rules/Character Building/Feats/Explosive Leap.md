@@ -15,7 +15,7 @@ license: ORC
 ---
 # Explosive Leap `pf2:1`
 ## Feat 1
-### [[fire]][[inventor]][[move]][[unstable]]
+### [[3-Rules/Trait Reference/F/fire]][[inventor]][[move]][[unstable]]
 
 **Category** class; 
 

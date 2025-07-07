@@ -14,7 +14,7 @@ license: OGL
 ---
 # Panaceatic Salve
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[oil]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[oil]]
 
 **Category** other; 
 **Price** 0 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Force Shield
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/force]][[magical]]
 
 
 **Price** 650 gp; 

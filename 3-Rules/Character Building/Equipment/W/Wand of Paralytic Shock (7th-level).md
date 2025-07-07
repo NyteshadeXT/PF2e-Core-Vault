@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Paralytic Shock (7th-level)
 ## Item 16
-### [[electricity]][[magical]][[mental]][[wand]]
+### [[3-Rules/Trait Reference/E/electricity]][[magical]][[3-Rules/Trait Reference/M/mental]][[wand]]
 
 
 **Price** 10000 gp; 

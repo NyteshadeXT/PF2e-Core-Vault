@@ -14,7 +14,7 @@ license: OGL
 ---
 # Growth Spell `pf2:1`
 ## Feat 10
-### [[archetype]][[spellshape]][[wood]]
+### [[archetype]][[spellshape]][[Wood]]
 
 **Category** class; 
 

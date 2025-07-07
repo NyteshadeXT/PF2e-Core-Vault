@@ -12,7 +12,7 @@ license: OGL
 ---
 # Everair Mask (Major)
 ## Item 14
-### [[air]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[invested]][[magical]]
 
 
 **Price** 625 gp; 

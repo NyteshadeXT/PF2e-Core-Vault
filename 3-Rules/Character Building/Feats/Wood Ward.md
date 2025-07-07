@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wood Ward `pf2:r`
 ## Feat 17
-### [[ardande]][[concentrate]][[plant]][[primal]][[wood]]
+### [[ardande]][[concentrate]][[plant]][[primal]][[Wood]]
 
 **Category** ancestry; 
 

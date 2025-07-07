@@ -15,7 +15,7 @@ license: OGL
 ---
 # Empathetic Plea `pf2:r`
 ## Feat 1
-### [[auditory]][[emotion]][[gnome]][[mental]][[visual]]
+### [[auditory]][[emotion]][[gnome]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** ancestry; 
 

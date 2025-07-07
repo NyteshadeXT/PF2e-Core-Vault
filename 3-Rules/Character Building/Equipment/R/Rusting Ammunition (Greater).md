@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rusting Ammunition (Greater)
 ## Item 18
-### [[alchemical]][[consumable]][[force]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/F/force]]
 
 **Category** ammo; 
 **Price** 600 gp; 

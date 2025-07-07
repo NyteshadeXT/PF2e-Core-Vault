@@ -12,7 +12,7 @@ license: OGL
 ---
 # Catharsis `pf2:r`
 
-### [[concentrate]][[emotion]][[mental]]
+### [[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 
 

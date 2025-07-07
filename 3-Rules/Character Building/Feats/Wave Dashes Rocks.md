@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wave Dashes Rocks `pf2:1`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

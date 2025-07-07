@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Vampire, True) Children of the Night
 
-### [[divine]][[mental]]
+### [[divine]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

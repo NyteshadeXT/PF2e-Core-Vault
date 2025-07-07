@@ -17,7 +17,7 @@ license: OGL
 ---
 # Ravel of Thorns `pf2:1`
 ## Feat 4
-### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[wood]]
+### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[Wood]]
 
 **Category** class; 
 

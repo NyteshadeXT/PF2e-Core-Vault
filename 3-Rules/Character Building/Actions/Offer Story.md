@@ -16,7 +16,7 @@ license: ORC
 ---
 # Offer Story `pf2:1`
 
-### [[auditory]][[concentrate]][[divine]][[linguistic]][[mental]]
+### [[auditory]][[concentrate]][[divine]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

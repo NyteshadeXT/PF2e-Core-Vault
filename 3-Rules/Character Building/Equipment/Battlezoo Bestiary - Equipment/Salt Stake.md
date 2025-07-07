@@ -17,7 +17,7 @@ license: OGL
 ---
 # Salt Stake
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[alchemical]][[consumable]][[injury]][[poison]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]][[thrown-20]]
 
 |  |  |
 | -- | -- |

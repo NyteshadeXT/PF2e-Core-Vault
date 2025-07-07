@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Moderate, Cold)
 ## Item 5
-### [[alchemical]][[cold]][[consumable]][[splash]]
+### [[alchemical]][[3-Rules/Trait Reference/C/cold]][[consumable]][[splash]]
 
 **Category** ammo; 
 **Price** 21 gp; 

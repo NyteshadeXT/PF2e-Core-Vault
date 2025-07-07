@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Martial Artist, Grandmaster) Life Burn Aura `pf2:3`
 
-### [[aura]][[force]]
+### [[aura]][[3-Rules/Trait Reference/F/force]]
 
 **Category** offensive; 
 

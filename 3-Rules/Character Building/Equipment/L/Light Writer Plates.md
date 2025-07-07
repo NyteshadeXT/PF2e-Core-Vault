@@ -13,7 +13,7 @@ license: ORC
 ---
 # Light Writer Plates
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[light]]
+### [rare](rare "Rare Rarity Trait")[[clockwork]][[3-Rules/Trait Reference/L/light]]
 
 **Category** other; 
 **Price** 3 gp; **Quantity** 10

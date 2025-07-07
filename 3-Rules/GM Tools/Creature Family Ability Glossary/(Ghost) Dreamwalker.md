@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Ghost) Dreamwalker
 
-### [[divine]][[illusion]][[mental]]
+### [[divine]][[illusion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

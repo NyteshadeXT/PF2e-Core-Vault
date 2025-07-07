@@ -17,7 +17,7 @@ license: ORC
 ---
 # Flame Drake Snare
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Trait Reference/F/fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 25 gp; 

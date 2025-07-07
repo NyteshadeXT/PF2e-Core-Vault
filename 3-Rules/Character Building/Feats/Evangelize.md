@@ -16,7 +16,7 @@ license: ORC
 ---
 # Evangelize `pf2:1`
 ## Feat 7
-### [[auditory]][[general]][[linguistic]][[mental]][[skill]]
+### [[auditory]][[general]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[skill]]
 
 **Category** skill; 
 

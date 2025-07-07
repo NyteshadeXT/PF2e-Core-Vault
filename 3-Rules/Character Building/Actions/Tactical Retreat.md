@@ -14,7 +14,7 @@ license: ORC
 ---
 # Tactical Retreat `pf2:r`
 
-### [[emotion]][[fear]][[mental]]
+### [[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** defensive; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Discordant Voice
 ## Feat 18
-### [[bard]][[sonic]]
+### [[bard]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** class; 
 

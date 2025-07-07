@@ -1077,7 +1077,7 @@ Areas 23 through 27 of this portion of the dungeon comprise the inner sanctum of
 ```leaflet
 ### Tutorial: https://youtu.be/54EyMzJP5DU
 ### id must be unique
-id: update-me
+id: The_Labyrinth
 image: [[Labyrinth of Vecna.png]]
 height: 1000px
 width: 70%
@@ -1281,7 +1281,7 @@ The ghost moves to attack the PCs, driven by an intense hatred of all non-believ
 
 # Encounter 27: Laboratory of the Faceless One
 **Encounter Difficulty:**   
-- [ ] Severe (140 XP) Level 4
+- [x] Severe (140 XP) Level 4
 
 ![[The Faceless One.png|right|500]]
 
@@ -1328,16 +1328,16 @@ Upon defeating [[The Faceless One]], read the following aloud to the players,
 > 
 > In addition to the monetary rewards found here, the PCs unearth the code needed to read the scroll found in area 10. This information is summarized in [[Three Faces of Evil-Handout 1.png|Handout #1]].
 > 
-> - [ ] gp::29
-> - [ ] sp::11
-> - [ ] permanent::[[alchemists-lab-expanded|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
-> - [ ] permanent::[[Ring of Minor Arcana|Ring of Minor Arcana]]] [ilvl::5] [gp::160]
-> - [ ] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
-> - [ ] consumable::[[acid-flask-moderate|Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [x] gp::29
+> - [x] sp::11
+> - [x] permanent::[[alchemists-lab-expanded|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
+> - [x] permanent::[[Ring of Minor Arcana|Ring of Minor Arcana]]] [ilvl::5] [gp::160]
+> - [x] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
+> - [x] consumable::[[acid-flask-moderate|Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [x] consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
 
 # Part 5: The God in the Pool
 **Encounter Difficulty:**   

@@ -20,7 +20,7 @@ license: ORC
 ---
 # Storm Herald
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[backstabber]][[deadly-d6]][[electricity]][[finesse]][[magical]][[monk]][[sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[backstabber]][[deadly-d6]][[3-Rules/Trait Reference/E/electricity]][[finesse]][[magical]][[monk]][[3-Rules/Trait Reference/S/sonic]]
 
 |  |  |
 | -- | -- |

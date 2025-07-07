@@ -11,7 +11,7 @@ license: OGL
 ---
 # Twilight Lantern (Moderate)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 850 gp; 

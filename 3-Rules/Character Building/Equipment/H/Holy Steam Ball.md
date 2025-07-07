@@ -13,7 +13,7 @@ license: ORC
 ---
 # Holy Steam Ball
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 30 gp; 

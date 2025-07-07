@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Ghost) Memento Mori `pf2:2`
 
-### [[divine]][[illusion]][[mental]]
+### [[divine]][[illusion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

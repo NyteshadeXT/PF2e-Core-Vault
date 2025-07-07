@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Melfesh Monster) Smolderstench
 
-### [[aura]][[olfactory]][[poison]]
+### [[aura]][[olfactory]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** offensive; 
 

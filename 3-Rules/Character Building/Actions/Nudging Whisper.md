@@ -15,7 +15,7 @@ license: ORC
 ---
 # Nudging Whisper
 
-### [[curse]][[divine]][[emotion]][[mental]]
+### [[curse]][[divine]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

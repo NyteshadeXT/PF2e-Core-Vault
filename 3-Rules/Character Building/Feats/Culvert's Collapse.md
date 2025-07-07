@@ -13,7 +13,7 @@ license: ORC
 ---
 # Culvert's Collapse `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

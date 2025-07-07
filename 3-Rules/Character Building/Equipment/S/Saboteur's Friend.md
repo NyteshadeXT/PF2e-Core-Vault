@@ -14,7 +14,7 @@ license: OGL
 ---
 # Saboteur's Friend
 ## Item 4
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** other; 
 **Price** 14 gp; 

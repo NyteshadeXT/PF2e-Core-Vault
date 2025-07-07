@@ -13,7 +13,7 @@ license: OGL
 ---
 # Thoughtsense
 ## Feat 8
-### [[mental]][[occult]][[psychic]]
+### [[3-Rules/Trait Reference/M/mental]][[occult]][[psychic]]
 
 **Category** class; 
 

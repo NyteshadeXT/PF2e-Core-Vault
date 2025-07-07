@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Ghost) Ghost Storm
 
-### [[air]][[aura]][[divine]]
+### [[3-Rules/Trait Reference/A/air]][[aura]][[divine]]
 
 **Category** defensive; 
 

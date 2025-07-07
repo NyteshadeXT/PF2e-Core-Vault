@@ -12,7 +12,7 @@ license: OGL
 ---
 # Scorching Disarm `pf2:1`
 ## Feat 9
-### [[fire]][[naari]]
+### [[3-Rules/Trait Reference/F/fire]][[naari]]
 
 **Category** ancestry; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Heavy is the Crown `pf2:2`
 
-### [[concentrate]][[mental]][[spirit]][[transcendence]]
+### [[concentrate]][[3-Rules/Trait Reference/M/mental]][[spirit]][[transcendence]]
 
 **Category** offensive; 
 

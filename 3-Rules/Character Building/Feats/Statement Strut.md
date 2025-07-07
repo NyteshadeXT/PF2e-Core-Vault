@@ -13,7 +13,7 @@ license: OGL
 ---
 # Statement Strut `pf2:1`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Deep Freeze `pf2:2`
 ## Feat 12
-### [[cold]][[inventor]][[manipulate]]
+### [[3-Rules/Trait Reference/C/cold]][[inventor]][[manipulate]]
 
 **Category** class; 
 

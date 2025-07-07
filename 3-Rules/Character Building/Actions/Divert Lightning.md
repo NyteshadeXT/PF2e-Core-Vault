@@ -11,7 +11,7 @@ license: OGL
 ---
 # Divert Lightning `pf2:r`
 
-### [[electricity]]
+### [[3-Rules/Trait Reference/E/electricity]]
 
 **Category** offensive; 
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava of Droskar's Crag
 ## Item 13
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 600 gp; 

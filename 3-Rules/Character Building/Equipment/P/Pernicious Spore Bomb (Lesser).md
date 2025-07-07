@@ -16,7 +16,7 @@ license: OGL
 ---
 # Pernicious Spore Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

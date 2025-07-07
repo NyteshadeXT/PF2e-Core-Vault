@@ -11,7 +11,7 @@ license: OGL
 ---
 # Raise Ramparts `pf2:3`
 
-### [[earth]]
+### [[3-Rules/Trait Reference/E/earth]]
 
 **Category** offensive; 
 

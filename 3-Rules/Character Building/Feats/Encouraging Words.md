@@ -16,7 +16,7 @@ license: OGL
 ---
 # Encouraging Words `pf2:1`
 ## Feat 2
-### [[auditory]][[general]][[linguistic]][[mental]][[skill]][[stamina]]
+### [[auditory]][[general]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[skill]][[stamina]]
 
 **Category** skill; 
 

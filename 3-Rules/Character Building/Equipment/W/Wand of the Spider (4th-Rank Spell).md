@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of the Spider (4th-Rank Spell)
 ## Item 11
-### [[magical]][[poison]][[wand]]
+### [[magical]][[3-Rules/Trait Reference/P/poison]][[wand]]
 
 
 **Price** 1400 gp; 

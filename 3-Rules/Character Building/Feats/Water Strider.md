@@ -13,7 +13,7 @@ license: OGL
 ---
 # Water Strider `pf2:2`
 ## Feat 9
-### [[azarketi]][[primal]][[water]]
+### [[azarketi]][[primal]][[3-Rules/Trait Reference/W/water]]
 
 **Category** ancestry; 
 

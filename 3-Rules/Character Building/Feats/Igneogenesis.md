@@ -16,7 +16,7 @@ license: OGL
 ---
 # Igneogenesis `pf2:2`
 ## Feat 4
-### [[earth]][[impulse]][[kineticist]][[manipulate]][[primal]]
+### [[3-Rules/Trait Reference/E/earth]][[impulse]][[kineticist]][[manipulate]][[primal]]
 
 **Category** class; 
 

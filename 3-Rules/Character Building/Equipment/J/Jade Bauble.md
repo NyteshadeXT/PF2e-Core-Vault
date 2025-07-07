@@ -15,7 +15,7 @@ license: ORC
 ---
 # Jade Bauble
 ## Item 8
-### [[consumable]][[magical]][[mental]][[talisman]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 100 gp; 

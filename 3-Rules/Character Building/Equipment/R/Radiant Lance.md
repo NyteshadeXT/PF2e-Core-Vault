@@ -18,7 +18,7 @@ license: OGL
 ---
 # Radiant Lance
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[fire]][[holy]][[jousting-d6]][[light]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[3-Rules/Trait Reference/F/fire]][[holy]][[jousting-d6]][[3-Rules/Trait Reference/L/light]][[reach]]
 
 |  |  |
 | -- | -- |

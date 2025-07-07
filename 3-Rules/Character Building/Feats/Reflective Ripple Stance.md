@@ -14,7 +14,7 @@ license: ORC
 ---
 # Reflective Ripple Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]][[water]]
+### [[monk]][[stance]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

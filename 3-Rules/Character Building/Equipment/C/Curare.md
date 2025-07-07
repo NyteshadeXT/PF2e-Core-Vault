@@ -15,7 +15,7 @@ license: OGL
 ---
 # Curare
 ## Item 8
-### [[alchemical]][[consumable]][[incapacitation]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[incapacitation]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 100 gp; 

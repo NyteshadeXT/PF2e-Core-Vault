@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rime Crystal (Greater)
 ## Item 8
-### [[cold]][[magical]][[spellheart]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]][[spellheart]]
 
 
 **Price** 425 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Refracting Rays (4th-level)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]][[wand]]
 
 
 **Price** 1400 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Green Dragon's Breath Potion (Adult)
 ## Item 12
-### [[consumable]][[magical]][[poison]][[potion]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/P/poison]][[potion]]
 
 **Category** poison; 
 **Price** 400 gp; 

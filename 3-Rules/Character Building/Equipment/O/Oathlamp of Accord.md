@@ -13,7 +13,7 @@ license: ORC
 ---
 # Oathlamp of Accord
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[light]][[magical]][[mental]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 50 gp; 

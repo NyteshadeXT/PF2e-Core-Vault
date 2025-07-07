@@ -16,7 +16,7 @@ license: ORC
 ---
 # Caterwaul `pf2:r`
 ## Feat 13
-### [[auditory]][[catfolk]][[concentrate]][[emotion]][[mental]]
+### [[auditory]][[catfolk]][[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** ancestry; 
 

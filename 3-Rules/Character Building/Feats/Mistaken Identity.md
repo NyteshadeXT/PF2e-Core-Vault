@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mistaken Identity `pf2:r`
 ## Feat 5
-### [[concentrate]][[fortune]][[mental]][[reflection]]
+### [[concentrate]][[fortune]][[3-Rules/Trait Reference/M/mental]][[reflection]]
 
 **Category** ancestry; 
 

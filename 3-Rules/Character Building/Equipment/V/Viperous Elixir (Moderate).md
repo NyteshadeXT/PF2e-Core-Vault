@@ -16,7 +16,7 @@ license: ORC
 ---
 # Viperous Elixir (Moderate)
 ## Item 8
-### [[alchemical]][[consumable]][[elixir]][[morph]][[poison]]
+### [[alchemical]][[consumable]][[elixir]][[morph]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** other; 
 **Price** 85 gp; 

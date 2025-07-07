@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonant Guitar
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[metal]][[sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[metal]][[3-Rules/Trait Reference/S/sonic]]
 
 
 **Price** 1850 gp; 

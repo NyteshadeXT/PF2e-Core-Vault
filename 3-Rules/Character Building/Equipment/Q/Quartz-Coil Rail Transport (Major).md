@@ -15,7 +15,7 @@ license: ORC
 ---
 # Quartz-Coil Rail Transport (Major)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[gadget]][[teleportation]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[gadget]][[teleportation]]
 
 **Category** other; 
 **Price** 8000 gp; 

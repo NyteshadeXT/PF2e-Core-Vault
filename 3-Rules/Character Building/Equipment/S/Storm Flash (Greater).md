@@ -17,7 +17,7 @@ license: ORC
 ---
 # Storm Flash (Greater)
 ## Item 18
-### [[deadly-d8]][[disarm]][[electricity]][[finesse]][[magical]]
+### [[deadly-d8]][[disarm]][[3-Rules/Trait Reference/E/electricity]][[finesse]][[magical]]
 
 |  |  |
 | -- | -- |

@@ -5,6 +5,7 @@
   --pf2e-trait-bg:       rgb(97, 20, 5);
   --pf2e-trait-fg:       rgb(232, 232, 232);
   --pf2e-trait-border:   1px solid #FFD700;
+  --pf2e-blue: #004EA8;
 }
 
 /*─────────────────────────────────────────────────────────────────────────────
@@ -16,21 +17,36 @@
 }
 
 /*─────────────────────────────────────────────────────────────────────────────
+  H1 in PF2eBZTrait: blue background, gold text, black border
+─────────────────────────────────────────────────────────────────────────────*/
+.PF2eBZTrait h1 {
+  background-color: var(--pf2e-blue);
+  color:            #FFD700;
+  border:           1px solid #000;
+  border-bottom: none !important;
+  border-radius: 0.5rem !important;
+  padding:          0.3em 0.6em;
+  margin-top:       1.2em;
+  text-transform:   uppercase;
+}
+
+/*─────────────────────────────────────────────────────────────────────────────
   Section headers (H3)
 ─────────────────────────────────────────────────────────────────────────────*/
 .PF2eBZTrait h3 {
   all: unset;                         /* reset any theme styling */
   display: block;
-  border-bottom: 2px solid var(--color-accent) !important;
-  padding-bottom: 0.2em !important;
-  margin-top:    1.2em !important;
+  border:           1px solid #000 !important;
+  border-radius: 0.5rem !important;
+  padding:          0.2em 0.5em !important;
+  margin-top:       1em !important;
   box-shadow:    none !important;
   text-shadow:   none !important;
   text-transform: uppercase;
   font-family:   var(--font-interface);
   font-weight:   700;
-  font-size:     1.2rem;
-  color:         var(--text-accent);
+  background-color: var(--pf2e-blue) !important;
+  color:            #FFFFFF !important;
 }
 
 /* 1) Hide any <hr> in PF2eBZTrait notes */
@@ -128,3 +144,10 @@
   padding:        0.2em 0.5em !important;
   margin-bottom:  0 !important;
 }
+
+/* Double-ensure no generated underlines on H1 */
+.PF2eBZTrait h1::before,
+.PF2eBZTrait h1::after {
+  content: none !important;
+}
+

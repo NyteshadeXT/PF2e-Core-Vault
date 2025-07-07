@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sand Snatcher `pf2:2`
 ## Feat 6
-### [[earth]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/Trait Reference/E/earth]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

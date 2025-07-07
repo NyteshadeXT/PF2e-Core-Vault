@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Barrowsiege
 ## Item 19
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 40000 gp; 

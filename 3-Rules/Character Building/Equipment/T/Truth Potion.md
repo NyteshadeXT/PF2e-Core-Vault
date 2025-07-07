@@ -15,7 +15,7 @@ license: ORC
 ---
 # Truth Potion
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[potion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[potion]]
 
 **Category** potion; 
 **Price** 46 gp; 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Influence Regent `pf2:1`
 
-### [[auditory]][[concentrate]][[linguistic]][[mental]][[secret]]
+### [[auditory]][[concentrate]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[secret]]
 
 **Category** interaction; 
 

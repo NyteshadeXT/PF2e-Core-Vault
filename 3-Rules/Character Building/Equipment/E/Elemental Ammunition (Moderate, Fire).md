@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Moderate, Fire)
 ## Item 5
-### [[alchemical]][[consumable]][[fire]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]][[splash]]
 
 **Category** ammo; 
 **Price** 21 gp; 

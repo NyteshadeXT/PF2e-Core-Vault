@@ -13,7 +13,7 @@ license: OGL
 ---
 # Curiosity `pf2:2`
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[linguistic]][[mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[linguistic]][[3-Rules/Trait Reference/M/mental]][[occult]]
 
 **Category** deityboon; 
 

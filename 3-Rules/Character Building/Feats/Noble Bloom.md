@@ -15,7 +15,7 @@ license: ORC
 ---
 # Noble Bloom `pf2:r`
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[leshy]][[mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[leshy]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** ancestry; 
 

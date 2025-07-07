@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Greater, Poison)
 ## Item 11
-### [[alchemical]][[consumable]][[poison]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 **Category** ammo; 
 **Price** 210 gp; 

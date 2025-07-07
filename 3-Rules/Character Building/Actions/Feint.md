@@ -12,7 +12,7 @@ license: ORC
 ---
 # Feint `pf2:1`
 
-### [[mental]]
+### [[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Encouraging Words `pf2:1`
 
-### [[auditory]][[linguistic]][[mental]]
+### [[auditory]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

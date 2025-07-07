@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Tormented Slumber
 ## Item 10
-### [[magical]][[mental]][[sleep]][[wand]]
+### [[magical]][[3-Rules/Trait Reference/M/mental]][[sleep]][[wand]]
 
 
 **Price** 1000 gp; 

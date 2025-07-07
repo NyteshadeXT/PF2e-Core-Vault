@@ -15,7 +15,7 @@ license: ORC
 ---
 # Release Spores `pf2:2`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[fungus]][[magical]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[fungus]][[magical]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** class; 
 

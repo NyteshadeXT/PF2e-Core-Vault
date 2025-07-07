@@ -14,7 +14,7 @@ license: ORC
 ---
 # Break the Sun's Legs `pf2:2`
 
-### [[cold]][[concentrate]][[darkness]][[transcendence]]
+### [[3-Rules/Trait Reference/C/cold]][[concentrate]][[3-Rules/Trait Reference/D/darkness]][[transcendence]]
 
 
 

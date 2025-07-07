@@ -16,7 +16,7 @@ license: OGL
 ---
 # Weight of Stone `pf2:3`
 ## Feat 6
-### [[earth]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/Trait Reference/E/earth]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

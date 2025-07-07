@@ -11,7 +11,7 @@ license: OGL
 ---
 # Searing Wave `pf2:2`
 
-### [[fire]]
+### [[3-Rules/Trait Reference/F/fire]]
 
 **Category** offensive; 
 

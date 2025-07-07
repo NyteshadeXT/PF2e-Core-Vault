@@ -15,7 +15,7 @@ license: OGL
 ---
 # Elven Absinthe
 ## Item 5
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 25 gp; 

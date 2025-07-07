@@ -17,7 +17,7 @@ license: OGL
 ---
 # Thundering Roar `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[fear]][[flourish]][[mental]][[sonic]]
+### [[auditory]][[concentrate]][[emotion]][[fear]][[flourish]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** offensive; 
 

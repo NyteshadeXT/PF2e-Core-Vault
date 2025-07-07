@@ -15,7 +15,7 @@ license: ORC
 ---
 # Puppetmaster Extract
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 85 gp; 

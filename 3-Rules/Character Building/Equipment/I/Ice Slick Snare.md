@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ice Slick Snare
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cold]][[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/C/cold]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 40 gp; 

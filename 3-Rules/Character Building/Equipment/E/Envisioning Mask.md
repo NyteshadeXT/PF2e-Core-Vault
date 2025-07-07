@@ -12,7 +12,7 @@ license: OGL
 ---
 # Envisioning Mask
 ## Item 11
-### [[invested]][[magical]][[mental]]
+### [[invested]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 1200 gp; 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragon Bile
 ## Item 15
-### [[alchemical]][[consumable]][[contact]][[poison]]
+### [[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 925 gp; 

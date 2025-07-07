@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Sakalayo
 ## Item 17
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 15000 gp; 

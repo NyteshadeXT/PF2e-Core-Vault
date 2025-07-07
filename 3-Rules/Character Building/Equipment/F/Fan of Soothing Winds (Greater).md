@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fan of Soothing Winds (Greater)
 ## Item 15
-### [[air]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[magical]]
 
 
 **Price** 6500 gp; 

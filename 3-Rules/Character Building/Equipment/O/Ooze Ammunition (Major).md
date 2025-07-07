@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ooze Ammunition (Major)
 ## Item 18
-### [[acid]][[alchemical]][[consumable]]
+### [[3-Rules/Trait Reference/A/acid]][[alchemical]][[consumable]]
 
 **Category** ammo; 
 **Price** 3250 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Inspiring Spotlight (Portable)
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[light]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 650 gp; 

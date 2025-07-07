@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rebounding Breastplate
 ## Item 20
-### [[force]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/F/force]][[invested]][[magical]]
 
 **Category** medium; **Group** plate
 **Price** 70000 gp; 

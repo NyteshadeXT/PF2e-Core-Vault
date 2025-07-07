@@ -12,7 +12,7 @@ license: OGL
 ---
 # Coral Expansion `pf2:2`
 ## Feat 17
-### [[poison]][[primal]]
+### [[3-Rules/Trait Reference/P/poison]][[primal]]
 
 **Category** ancestry; 
 

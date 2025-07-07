@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava of Mhar Massif
 ## Item 11
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 300 gp; 

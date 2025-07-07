@@ -15,7 +15,7 @@ license: OGL
 ---
 # Flying Flame `pf2:2`
 ## Feat 1
-### [[fire]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/Trait Reference/F/fire]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

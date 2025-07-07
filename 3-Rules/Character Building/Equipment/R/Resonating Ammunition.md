@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonating Ammunition
 ## Item 11
-### [[consumable]][[magical]][[sonic]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** ammo; 
 **Price** 300 gp; 

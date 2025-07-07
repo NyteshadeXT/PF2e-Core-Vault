@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wand of Mental Purification (7th-level)
 ## Item 16
-### [[emotion]][[healing]][[magical]][[mental]][[wand]]
+### [[emotion]][[healing]][[magical]][[3-Rules/Trait Reference/M/mental]][[wand]]
 
 
 **Price** 10000 gp; 

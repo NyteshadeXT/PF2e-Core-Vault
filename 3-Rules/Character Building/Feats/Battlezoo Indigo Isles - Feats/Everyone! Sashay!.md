@@ -17,7 +17,7 @@ license: OGL
 ---
 # Everyone! Sashay!
 ## Feat 15
-### [[archetype]][[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]][[skill]]
+### [[archetype]][[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[skill]]
 
 **Category** skill; 
 

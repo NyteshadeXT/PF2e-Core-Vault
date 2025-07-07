@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fleeting Arc through Heaven and Earth `pf2:3`
 
-### [[light]][[spirit]][[teleportation]][[transcendence]]
+### [[3-Rules/Trait Reference/L/light]][[spirit]][[teleportation]][[transcendence]]
 
 **Category** offensive; 
 

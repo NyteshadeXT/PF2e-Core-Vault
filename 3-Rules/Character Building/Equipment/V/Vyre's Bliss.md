@@ -16,7 +16,7 @@ license: ORC
 ---
 # Vyre's Bliss
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]][[virulent]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 8500 gp; 

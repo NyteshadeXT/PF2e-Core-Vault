@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wet Shock Snare
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 25 gp; 

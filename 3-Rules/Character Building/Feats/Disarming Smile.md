@@ -15,7 +15,7 @@ license: OGL
 ---
 # Disarming Smile `pf2:r`
 ## Feat 6
-### [[archetype]][[concentrate]][[emotion]][[mental]][[visual]]
+### [[archetype]][[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** class; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Enervating Powder
 ## Item 9
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 110 gp; 

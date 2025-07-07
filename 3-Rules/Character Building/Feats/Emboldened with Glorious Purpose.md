@@ -14,7 +14,7 @@ license: ORC
 ---
 # Emboldened with Glorious Purpose
 ## Feat 18
-### [[archetype]][[fortune]][[mental]]
+### [[archetype]][[fortune]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

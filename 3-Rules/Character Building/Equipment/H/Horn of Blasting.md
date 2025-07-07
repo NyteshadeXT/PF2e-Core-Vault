@@ -10,7 +10,7 @@ license: OGL
 ---
 # Horn of Blasting
 ## Item 9
-### [[sonic]]
+### [[3-Rules/Trait Reference/S/sonic]]
 
 
 **Price** 700 gp; 

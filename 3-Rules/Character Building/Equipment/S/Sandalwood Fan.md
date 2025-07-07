@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sandalwood Fan
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[Wood]]
 
 
 **Price** 2000 gp; 

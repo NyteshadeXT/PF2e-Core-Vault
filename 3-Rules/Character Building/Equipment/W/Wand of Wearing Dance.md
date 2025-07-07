@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Wearing Dance
 ## Item 18
-### [[magical]][[mental]][[wand]]
+### [[magical]][[3-Rules/Trait Reference/M/mental]][[wand]]
 
 
 **Price** 24000 gp; 

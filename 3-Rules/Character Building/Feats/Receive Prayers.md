@@ -14,7 +14,7 @@ license: ORC
 ---
 # Receive Prayers
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[concentrate]][[mental]][[mythic]]
+### [rare](rare "Rare Rarity Trait")[[concentrate]][[3-Rules/Trait Reference/M/mental]][[mythic]]
 
 **Category** class; 
 

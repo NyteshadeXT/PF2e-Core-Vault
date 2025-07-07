@@ -16,7 +16,7 @@ license: ORC
 ---
 # Exult in Violence `pf2:1`
 ## Feat 10
-### [[concentrate]][[divine]][[exemplar]][[light]][[spirit]]
+### [[concentrate]][[divine]][[exemplar]][[3-Rules/Trait Reference/L/light]][[spirit]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Silversoul Bomb (Major)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]][[mental]][[splash]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/M/mental]][[splash]]
 
 |  |  |
 | -- | -- |

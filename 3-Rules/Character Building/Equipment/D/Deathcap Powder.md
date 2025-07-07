@@ -15,7 +15,7 @@ license: ORC
 ---
 # Deathcap Powder
 ## Item 13
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 450 gp; 

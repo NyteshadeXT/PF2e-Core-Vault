@@ -13,7 +13,7 @@ license: ORC
 ---
 # Foxglove Token
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[poison]][[spellheart]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Trait Reference/P/poison]][[spellheart]]
 
 
 **Price** 55 gp; 

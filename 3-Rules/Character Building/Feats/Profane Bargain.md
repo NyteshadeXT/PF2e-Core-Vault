@@ -14,7 +14,7 @@ license: ORC
 ---
 # Profane Bargain `pf2:3`
 ## Feat 18
-### [rare](rare "Rare Rarity Trait")[[divine]][[mental]][[mythic]]
+### [rare](rare "Rare Rarity Trait")[[divine]][[3-Rules/Trait Reference/M/mental]][[mythic]]
 
 **Category** class; 
 

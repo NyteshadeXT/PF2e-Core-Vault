@@ -18,7 +18,7 @@ license: ORC
 ---
 # Inflammation Flask (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]][[disease]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[alchemical]][[bomb]][[consumable]][[disease]][[splash]]
 
 |  |  |
 | -- | -- |

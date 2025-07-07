@@ -16,7 +16,7 @@ license: OGL
 ---
 # Splintering Spear (Greater)
 ## Item 17
-### [[magical]][[monk]][[thrown-20]][[wood]]
+### [[magical]][[monk]][[thrown-20]][[Wood]]
 
 |  |  |
 | -- | -- |

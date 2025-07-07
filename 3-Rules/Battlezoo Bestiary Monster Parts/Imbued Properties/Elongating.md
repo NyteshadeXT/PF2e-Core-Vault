@@ -1,33 +1,19 @@
 ---
 title: "Elongating"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Elongating"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.ubR477KGddYspP6j
-tags:
-  - JournalEntryPage
 ---
 
-# Elongating
-MAGICAL
-
-TRANSMUTATION
-
-**Type** Weapon
+# Weapon Imbuement: Elongating
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have reach of 10 feet or more on one or more of its Strikes.
-
-* * *
-
 **Effect** You imbue the weapon with the ability to elongate itself.
 
 * * *
 
 *   **2nd** The weapon gains the following activation:
-    
-    **Activate** 2 Interact
-    
-    **Effect** You elongate your weapon, increasing your reach. You Strike with the weapon, and you have reach 10 feet for the Strike, or reach 15 feet if the weapon already had the reach trait.
-    
+    `pf2:2` **Effect** You elongate your weapon, increasing your reach. You Strike with the weapon, and you have reach 10 feet for the Strike, or reach 15 feet if the weapon already had the reach trait.
 *   **4th** The activation increases the weapon's reach for the Strike to 15 feet (or 20 feet if it had the reach trait).
 *   **6th** The activation increases the weapon's reach for the Strike to 20 feet (or 25 feet if it had the reach trait).
 *   **8th** The activation increases the weapon's reach for the Strike to 30 feet (or 35 feet if it had the reach trait).

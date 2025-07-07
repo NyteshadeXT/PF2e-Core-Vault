@@ -15,7 +15,7 @@ license: OGL
 ---
 # Frightful Condemnation `pf2:0`
 ## Feat 6
-### [[archetype]][[emotion]][[fear]][[mental]][[vigilante]]
+### [[archetype]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]][[vigilante]]
 
 **Category** class; 
 

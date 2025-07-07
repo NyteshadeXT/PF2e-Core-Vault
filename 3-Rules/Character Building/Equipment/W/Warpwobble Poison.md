@@ -15,7 +15,7 @@ license: OGL
 ---
 # Warpwobble Poison
 ## Item 8
-### [[alchemical]][[consumable]][[injury]][[mental]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 90 gp; 

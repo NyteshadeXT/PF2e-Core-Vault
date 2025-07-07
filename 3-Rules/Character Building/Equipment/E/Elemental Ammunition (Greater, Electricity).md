@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Greater, Electricity)
 ## Item 11
-### [[alchemical]][[consumable]][[electricity]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/E/electricity]][[splash]]
 
 **Category** ammo; 
 **Price** 210 gp; 

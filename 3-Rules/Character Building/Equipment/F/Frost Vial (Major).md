@@ -17,7 +17,7 @@ license: ORC
 ---
 # Frost Vial (Major)
 ## Item 17
-### [[alchemical]][[bomb]][[cold]][[consumable]][[splash]]
+### [[alchemical]][[bomb]][[3-Rules/Trait Reference/C/cold]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Pale Mountain
 ## Item 9
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 700 gp; 

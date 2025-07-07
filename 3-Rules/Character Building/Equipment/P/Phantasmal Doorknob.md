@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phantasmal Doorknob
 ## Item 6
-### [[emotion]][[magical]][[mental]][[spellheart]]
+### [[emotion]][[magical]][[3-Rules/Trait Reference/M/mental]][[spellheart]]
 
 
 **Price** 215 gp; 

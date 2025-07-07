@@ -16,7 +16,7 @@ license: ORC
 ---
 # Deathstalk Mushroom
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]][[virulent]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]][[virulent]]
 
 **Category** poison; 
 **Price** 2000 gp; 

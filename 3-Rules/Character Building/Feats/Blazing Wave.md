@@ -16,7 +16,7 @@ license: OGL
 ---
 # Blazing Wave `pf2:2`
 ## Feat 4
-### [[fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/Trait Reference/F/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

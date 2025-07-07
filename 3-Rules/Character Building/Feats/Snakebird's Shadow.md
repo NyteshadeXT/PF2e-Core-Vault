@@ -15,7 +15,7 @@ license: ORC
 ---
 # Snakebird's Shadow `pf2:2`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[monk]][[occult]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[monk]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

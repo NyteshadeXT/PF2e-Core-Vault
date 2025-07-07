@@ -14,7 +14,7 @@ license: ORC
 ---
 # Unsheathing the Sword-Light `pf2:2`
 ## Feat 10
-### [[arcane]][[light]][[magus]]
+### [[arcane]][[3-Rules/Trait Reference/L/light]][[magus]]
 
 **Category** class; 
 

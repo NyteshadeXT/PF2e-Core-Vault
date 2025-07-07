@@ -14,7 +14,7 @@ license: OGL
 ---
 # Frost Brand
 ## Item 16
-### [[cold]][[magical]][[versatile-p]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

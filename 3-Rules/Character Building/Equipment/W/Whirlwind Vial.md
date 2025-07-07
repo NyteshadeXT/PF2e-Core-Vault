@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whirlwind Vial
 ## Item 11
-### [[air]][[alchemical]][[consumable]][[expandable]]
+### [[3-Rules/Trait Reference/A/air]][[alchemical]][[consumable]][[expandable]]
 
 **Category** other; 
 **Price** 250 gp; 

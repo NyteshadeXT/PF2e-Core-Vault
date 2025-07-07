@@ -14,7 +14,7 @@ license: ORC
 ---
 # Opportunistic Accusation `pf2:r`
 
-### [[auditory]][[linguistic]][[mental]]
+### [[auditory]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

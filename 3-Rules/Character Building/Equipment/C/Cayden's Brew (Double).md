@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cayden's Brew (Double)
 ## Item 13
-### [[consumable]][[magical]][[poison]][[potion]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/P/poison]][[potion]]
 
 **Category** potion; 
 **Price** 480 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Telepathy
 
-### [[aura]][[magical]][[mental]]
+### [[aura]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

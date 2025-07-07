@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silver Dragon's Breath Potion (Wyrm)
 ## Item 17
-### [[cold]][[consumable]][[magical]][[potion]]
+### [[3-Rules/Trait Reference/C/cold]][[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

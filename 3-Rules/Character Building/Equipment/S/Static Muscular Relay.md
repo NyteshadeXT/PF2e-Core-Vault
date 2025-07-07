@@ -14,7 +14,7 @@ license: ORC
 ---
 # Static Muscular Relay
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[gadget]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[gadget]]
 
 **Category** gadget; 
 **Price** 180 gp; 

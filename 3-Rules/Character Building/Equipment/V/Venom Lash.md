@@ -17,7 +17,7 @@ license: ORC
 ---
 # Venom Lash
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[magical]][[poison]][[sweep]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[magical]][[3-Rules/Trait Reference/P/poison]][[sweep]][[trip]]
 
 |  |  |
 | -- | -- |

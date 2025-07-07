@@ -16,7 +16,7 @@ license: ORC
 ---
 # Cozy Campfire
 ## Feat 6
-### [[archetype]][[consecration]][[divine]][[exploration]][[fire]]
+### [[archetype]][[consecration]][[divine]][[exploration]][[3-Rules/Trait Reference/F/fire]]
 
 **Category** class; 
 

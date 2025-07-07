@@ -13,7 +13,7 @@ license: ORC
 ---
 # Shielding Wave `pf2:1`
 
-### [[primal]][[water]]
+### [[primal]][[3-Rules/Trait Reference/W/water]]
 
 **Category** offensive; 
 

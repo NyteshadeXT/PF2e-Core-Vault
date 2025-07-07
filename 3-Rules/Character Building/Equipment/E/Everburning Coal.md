@@ -12,7 +12,7 @@ license: OGL
 ---
 # Everburning Coal
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 1750 gp; 

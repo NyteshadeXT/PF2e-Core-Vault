@@ -17,7 +17,7 @@ license: ORC
 ---
 # Oracular Warning `pf2:0`
 ## Feat 1
-### [[auditory]][[cursebound]][[divine]][[emotion]][[mental]][[oracle]]
+### [[auditory]][[cursebound]][[divine]][[emotion]][[3-Rules/Trait Reference/M/mental]][[oracle]]
 
 **Category** class; 
 

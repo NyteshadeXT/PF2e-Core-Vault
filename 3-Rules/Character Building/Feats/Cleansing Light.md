@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cleansing Light `pf2:2`
 ## Feat 17
-### [[concentrate]][[kashrishi]][[light]][[occult]]
+### [[concentrate]][[kashrishi]][[3-Rules/Trait Reference/L/light]][[occult]]
 
 **Category** ancestry; 
 

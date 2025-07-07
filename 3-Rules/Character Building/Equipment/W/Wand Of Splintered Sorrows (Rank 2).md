@@ -17,7 +17,7 @@ license: ORC
 ---
 # Wand Of Splintered Sorrows (Rank 2)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[attack]][[concentrate]][[magical]][[manipulate]][[wand]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[attack]][[concentrate]][[magical]][[manipulate]][[wand]][[Wood]]
 
 **Category** wand; 
 **Price** 250 gp; 

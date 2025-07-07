@@ -14,7 +14,7 @@ license: ORC
 ---
 # Stonewall `pf2:r`
 ## Feat 17
-### [[dwarf]][[earth]][[polymorph]]
+### [[dwarf]][[3-Rules/Trait Reference/E/earth]][[polymorph]]
 
 **Category** ancestry; 
 

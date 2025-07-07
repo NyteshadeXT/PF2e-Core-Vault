@@ -13,7 +13,7 @@ license: OGL
 ---
 # Self-Immolate `pf2:1`
 ## Feat 9
-### [[fire]][[leshy]][[primal]]
+### [[3-Rules/Trait Reference/F/fire]][[leshy]][[primal]]
 
 **Category** ancestry; 
 

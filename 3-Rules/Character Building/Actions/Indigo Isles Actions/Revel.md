@@ -13,7 +13,7 @@ license: OGL
 ---
 # Revel `pf2:1`
 
-### [[aura]][[emotion]][[mental]]
+### [[aura]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

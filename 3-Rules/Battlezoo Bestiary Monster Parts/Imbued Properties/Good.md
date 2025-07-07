@@ -1,45 +1,33 @@
 ---
 title: "Good"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Good"
-foundryId: Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-monster-parts.JournalEntry.DUgV4RRnkTaikCI2.JournalEntryPage.wOoUPP0ea45GDb97
-tags:
-  - JournalEntryPage
 ---
 
-# Good
-Evocation
-
-Good
-
-Magical
-
-**Type** Weapon
+# Weapon Imbuement: Good
+[[3-Rules/Trait Reference/G/good|Good]] [[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have the good trait or an attack or spell that deals good damage.
-
-* * *
-
 **Effect** You imbue the weapon with pure and virtuous good to defeat wicked foes.
 
 * * *
 
-**Path** Magic; The spells granted by this imbued property are always divine
+### Path: Magic  
+The spells granted by this imbued property are always divine
 
-*   **2nd** The weapon can cast _[[undefined]]_ as a cantrip, dealing good damage only, heightened to half the item's level rounded up
-*   **4th** The weapon can cast _[[undefined]]_ once per day, protecting against evil only
-*   **8th** The weapon can cast _[[undefined]]_ once per day
-*   **10th** The weapon can cast _[[undefined]]_ (good only) once per day
+*   **2nd** The weapon can cast _[[Divine Lance]]_ as a cantrip, dealing good damage only, heightened to half the item's level rounded up
+*   **4th** The weapon can cast _[[Protection]]_ once per day, protecting against evil only
+*   **8th** The weapon can cast _[[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]]_ once per day
+*   **10th** The weapon can cast _[[Divine Wrath]]_ (good only) once per day
 *   **12th** Strikes with the weapon deal 1 additional good damage
 *   **14th** The additional good damage increases to 1d4
-*   **16th** The weapon can cast _[[undefined]]_ (good only). The weapon's _divine wrath_ heightens to 5th level
+*   **16th** The weapon can cast _[[Divine Decree]]_ (good only). The weapon's _[[Divine Wrath]]_ heightens to 5th level
 *   **18th** The additional good damage increases to 1d6
-*   **20th** The weapon can cast _[[undefined]]_ (good only), the weapon's _divine decree_ heightens to 8th level, and the weapon's _divine wrath_ heightens to 7th level
+*   **20th** The weapon can cast _[[Divine Aura]]_ (good only), the weapon's _[[Divine Decree]]_ heightens to 8th level, and the weapon's _[[Divine Wrath]]_ heightens to 7th level
 
 * * *
 
-**Path** Might
-
+### Path: Might
 *   **6th** Strikes with the weapon deal 1 additional good damage
 *   **8th** The additional good damage increases to 1d4
 *   **10th** The additional good damage increases to 1d6
@@ -50,8 +38,7 @@ Magical
 
 * * *
 
-**Path** Technique
-
+### Path: Technique
 *   **6th** Strikes with the weapon deal 1 additional good damage
 *   **8th** Strikes with the weapon deal 1 persistent good damage
 *   **10th** The persistent good damage increases to 1d6

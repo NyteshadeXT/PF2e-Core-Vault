@@ -1,46 +1,34 @@
 ---
 title: "Earth"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Earth"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.gvtMdgvxD1R5yma6
-tags:
-  - JournalEntryPage
 ---
 
-# Earth
-EARTH
-
-EVOCATION
-
-MAGICAL
-
-**Type** Weapon
+# Weapon Imbuement: Earth
+[[3-Rules/trait_reference/E/earth|Earth]] [[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have the earth trait or an attack or spell with the earth trait.
-
-* * *
-
 **Effect** You imbue the weapon with churning earth.
 
 * * *
 
-**Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal.
+### Path: Magic  
+*Choose when you first imbue the weapon for the granted spells to be either arcane or primal.*
 
 *   **2nd** The weapon can cast _[[Scatter Scree|scatter scree]]_ as a cantrip, heightened to half the item's level rounded up.
 *   **4th** The weapon can cast _[[Pummeling Rubble|pummeling rubble]]_ once per day.
-*   **6th** The weapon's _pummeling rubble_ heightens to 2nd level
+*   **6th** The weapon's _[[pummeling rubble]]_ heightens to 2nd level
 *   **8th** The weapon can cast _[[Earthbind|earthbind]]_ once per day.
 *   **10th** Strikes with the weapon deal 1 additional piercing damage from spikes of stone; this additional damage has the earth trait.
-*   **12th** The weapon's _earthbind_ and _pummeling rubble_ heighten to 4th level and the weapon can cast _[[Mountain Resilience|stoneskin]]_ once per day.
+*   **12th** The weapon's _[[earthbind]]_ and _[[pummeling rubble]]_ heighten to 4th level and the weapon can cast _[[Mountain Resilience|stoneskin]]_ once per day.
 *   **14th** The additional piercing damage increases to 1d4.
-*   **16th** The weapon's _earthbind_, _pummeling rubble_, and _stoneskin_ heighten to 6th level.
+*   **16th** The weapon's _[[earthbind]]_, _[[pummeling rubble]]_, and _[[stoneskin]]_ heighten to 6th level.
 *   **18th** The additional piercing damage increases to 1d6.
-*   **20th** The weapon's _stoneskin_ heightens to 8th level, and it can cast _[[Earthquake|earthquake]]_ once per day.
+*   **20th** The weapon's _[[stoneskin]]_ heightens to 8th level, and it can cast _[[Earthquake|earthquake]]_ once per day.
 
 * * *
 
-**Path** Might
-
+### Path: Might
 *   **4th** Strikes with the weapon deal 1 additional piercing damage from spikes of stone; this additional damage has the earth trait.
 *   **6th** The additional piercing damage increases to 1d4.
 *   **8th** The additional piercing damage increases to 1d6. On a critical hit, the piercing rock shards attach the target's feet to the ground, forcing extra effort to break the rocks and move from its current space. As long as it was on the ground, its first 5 feet of movement are difficult terrain, typically preventing it from Stepping. This effect lasts until it moves or for 1 minute, whichever comes first.
@@ -51,8 +39,7 @@ MAGICAL
 
 * * *
 
-**Path** Technique
-
+### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent piercing damage as stone spikes grow and pierce them; this additional damage has the earth trait.
 *   **6th** Strikes with the weapon deal 1 additional piercing damage from spikes of stone; this additional damage has the earth trait.
 *   **8th** The persistent piercing damage on a hit increases to 1d6. On a critical hit, the piercing rock shards attach the target's feet to the ground, forcing extra effort to move from its current space. As long as it was on the ground, its first 5 feet of movement are difficult terrain, typically preventing it from Stepping. This effect lasts until it moves or for 1 minute, whichever comes first.

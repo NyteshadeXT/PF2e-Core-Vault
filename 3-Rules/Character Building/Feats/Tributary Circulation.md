@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tributary Circulation `pf2:1`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[monk]][[occult]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[monk]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

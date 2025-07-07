@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clubhead Poison
 ## Item 12
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 340 gp; 

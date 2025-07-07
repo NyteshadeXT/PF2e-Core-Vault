@@ -17,7 +17,7 @@ license: ORC
 ---
 # Crystal Shards (Major)
 ## Item 18
-### [[alchemical]][[bomb]][[consumable]][[earth]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/earth]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Mud Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[earth]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/E/earth]][[splash]]
 
 |  |  |
 | -- | -- |

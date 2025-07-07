@@ -15,7 +15,7 @@ license: OGL
 ---
 # Liar's Demise
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[divine]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 650 gp; 

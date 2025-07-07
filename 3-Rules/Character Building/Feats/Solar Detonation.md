@@ -18,7 +18,7 @@ license: OGL
 ---
 # Solar Detonation `pf2:3`
 ## Feat 8
-### [[fire]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]][[vitality]]
+### [[3-Rules/Trait Reference/F/fire]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]][[vitality]]
 
 **Category** class; 
 

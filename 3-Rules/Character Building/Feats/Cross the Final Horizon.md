@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cross the Final Horizon `pf2:3`
 ## Feat 20
-### [[archetype]][[electricity]][[force]][[sonic]]
+### [[archetype]][[3-Rules/Trait Reference/E/electricity]][[3-Rules/Trait Reference/F/force]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** class; 
 

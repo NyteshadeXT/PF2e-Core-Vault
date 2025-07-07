@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rage `pf2:1`
 
-### [[barbarian]][[concentrate]][[emotion]][[mental]]
+### [[barbarian]][[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Snarling Badger (Moderate)
 ## Item 12
-### [[consumable]][[magical]][[mental]][[talisman]]
+### [[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 

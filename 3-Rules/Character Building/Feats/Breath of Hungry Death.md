@@ -15,7 +15,7 @@ license: OGL
 ---
 # Breath of Hungry Death `pf2:2`
 ## Feat 16
-### [rare](rare "Rare Rarity Trait")[[acid]][[archetype]][[divine]][[incapacitation]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[archetype]][[divine]][[incapacitation]][[occult]]
 
 **Category** class; 
 

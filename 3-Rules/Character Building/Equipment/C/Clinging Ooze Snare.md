@@ -15,7 +15,7 @@ license: OGL
 ---
 # Clinging Ooze Snare
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[acid]][[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 25 gp; 

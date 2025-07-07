@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fight with Fear `pf2:r`
 
-### [[concentrate]][[emotion]][[fear]][[mental]]
+### [[concentrate]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

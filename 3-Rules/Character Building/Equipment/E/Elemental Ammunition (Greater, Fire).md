@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Greater, Fire)
 ## Item 11
-### [[alchemical]][[consumable]][[fire]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]][[splash]]
 
 **Category** ammo; 
 **Price** 210 gp; 

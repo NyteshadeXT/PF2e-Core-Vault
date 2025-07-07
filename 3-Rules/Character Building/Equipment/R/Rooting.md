@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rooting
 ## Item 7
-### [[magical]][[plant]][[wood]]
+### [[magical]][[plant]][[Wood]]
 
 
 **Price** 360 gp; 

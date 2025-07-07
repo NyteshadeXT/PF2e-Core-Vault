@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mind Shards `pf2:2`
 ## Feat 6
-### [[archetype]][[concentrate]][[magical]][[mental]]
+### [[archetype]][[concentrate]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

@@ -1,17 +1,13 @@
 ---
 title: "Spell"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Spell"
-foundryId: Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-monster-parts.JournalEntry.DUgV4RRnkTaikCI2.JournalEntryPage.CEt49ot4QxcdA6BU
-tags:
-  - JournalEntryPage
 ---
 
-# Spell
-Magical
+# Skill Item Imbuement: Spell
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Type** Skill Item
-
 **Parts** The creature must either possess the skill matching the skill item or be capable of casting the chosen spell
 
 * * *
@@ -20,23 +16,23 @@ Magical
 
 Suggested spells for each skill are as follows:
 
-*   **Acrobatics** _[[undefined]]_
-*   **Arcana** _[[undefined]]_
-*   **Athletics** _[[undefined]]_
-*   **Crafting** _[[undefined]]_
-*   **Deception** _[[undefined]]_
-*   **Diplomacy** _[[undefined]]_
-*   **Intimidation** _[[undefined]]_
-*   **Lore** _[[undefined]]_ (Lore associated with the item only)
-*   **Medicine** _[[undefined]]_
-*   **Nature** _[[undefined]]_
-*   **Occultism** _[[undefined]]_
-*   **Performance** _[[undefined]]_
-*   **Religion** _[[undefined]]_
-*   **Society** [[undefined]]
-*   **Stealth** _[[undefined]]_
-*   **Survival** _[[undefined]]_
-*   **Thievery** _[[undefined]]_
+*   **Acrobatics** _[[Gentle Landing]]_
+*   **Arcana** _[[Force Barrage]]_
+*   **Athletics** _[[Jump]]_
+*   **Crafting** _[[Mending]]_
+*   **Deception** _[[Illusory Disguise]]_
+*   **Diplomacy** _[[Charm]]_
+*   **Intimidation** _[[3-Rules/Character Building/Spells/F/Fear|Fear]]_
+*   **Lore** _[[Share Lore]]_ (Lore associated with the item only)
+*   **Medicine** _[[Heal]]_
+*   **Nature** _[[Summon Plant or Fungus]]_
+*   **Occultism** _[[Object Reading]]_
+*   **Performance** _[[Enthrall]]_
+*   **Religion** _[[Bless]]_
+*   **Society** [[Mindlink]]
+*   **Stealth** _[[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]]_
+*   **Survival** _[[Environmental Endurance]]_
+*   **Thievery** _[[Knock]]_
 
 * * *
 

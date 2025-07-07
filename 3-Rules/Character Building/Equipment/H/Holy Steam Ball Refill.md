@@ -14,7 +14,7 @@ license: ORC
 ---
 # Holy Steam Ball Refill
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** potion; 
 **Price** 2 gp; 

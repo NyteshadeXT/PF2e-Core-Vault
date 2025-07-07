@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clown Monarch
 ## Item 5
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 21 gp; 

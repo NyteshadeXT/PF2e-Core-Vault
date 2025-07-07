@@ -16,7 +16,7 @@ license: ORC
 ---
 # In Lightning, Life `pf2:1`
 ## Feat 4
-### [[archetype]][[concentrate]][[electricity]][[healing]][[manipulate]]
+### [[archetype]][[concentrate]][[3-Rules/Trait Reference/E/electricity]][[healing]][[manipulate]]
 
 **Category** class; 
 

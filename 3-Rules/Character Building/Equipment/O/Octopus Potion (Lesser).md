@@ -16,7 +16,7 @@ license: OGL
 ---
 # Octopus Potion (Lesser)
 ## Item 6
-### [[consumable]][[magical]][[morph]][[potion]][[water]]
+### [[consumable]][[magical]][[morph]][[potion]][[3-Rules/Trait Reference/W/water]]
 
 **Category** other; 
 **Price** 50 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Martial Artist) Competitive Taunt `pf2:1`
 
-### [[emotion]][[fear]][[mental]]
+### [[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

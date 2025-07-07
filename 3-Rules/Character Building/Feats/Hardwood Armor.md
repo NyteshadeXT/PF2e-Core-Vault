@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hardwood Armor `pf2:1`
 ## Feat 1
-### [[impulse]][[kineticist]][[primal]][[wood]]
+### [[impulse]][[kineticist]][[primal]][[Wood]]
 
 **Category** class; 
 

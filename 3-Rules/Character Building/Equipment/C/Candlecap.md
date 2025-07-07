@@ -12,7 +12,7 @@ license: OGL
 ---
 # Candlecap
 ## Item 1
-### [[invested]][[light]][[magical]]
+### [[invested]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 12 gp; 

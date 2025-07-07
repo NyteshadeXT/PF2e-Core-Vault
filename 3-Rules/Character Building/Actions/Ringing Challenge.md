@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ringing Challenge `pf2:1`
 
-### [[sonic]][[spirit]][[transcendence]]
+### [[3-Rules/Trait Reference/S/sonic]][[spirit]][[transcendence]]
 
 **Category** offensive; 
 

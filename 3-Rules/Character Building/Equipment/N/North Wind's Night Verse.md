@@ -16,7 +16,7 @@ license: OGL
 ---
 # North Wind's Night Verse
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cold]][[deadly-d8]][[magical]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/C/cold]][[deadly-d8]][[magical]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

@@ -18,7 +18,7 @@ license: OGL
 ---
 # Ambush Bladderwort `pf2:3`
 ## Feat 4
-### [[composite]][[impulse]][[kineticist]][[plant]][[primal]][[water]][[wood]]
+### [[composite]][[impulse]][[kineticist]][[plant]][[primal]][[3-Rules/Trait Reference/W/water]][[Wood]]
 
 **Category** class; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Meteor Shot (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fire]][[magical]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[splash]]
 
 **Category** ammo; 
 **Price** 400 gp; 

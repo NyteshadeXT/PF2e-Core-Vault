@@ -15,7 +15,7 @@ license: ORC
 ---
 # Essence of Mandragora
 ## Item 4
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** other; 
 **Price** 20 gp; 

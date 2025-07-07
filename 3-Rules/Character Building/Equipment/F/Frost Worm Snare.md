@@ -17,7 +17,7 @@ license: ORC
 ---
 # Frost Worm Snare
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[cold]][[consumable]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[3-Rules/Trait Reference/C/cold]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 115 gp; 

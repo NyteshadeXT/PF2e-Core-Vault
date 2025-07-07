@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pistolero's Challenge `pf2:1`
 ## Feat 6
-### [[auditory]][[flourish]][[gunslinger]][[linguistic]][[mental]]
+### [[auditory]][[flourish]][[gunslinger]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Fearful Symmetry `pf2:1`
 ## Feat 6
-### [[archetype]][[emotion]][[fear]][[mental]][[visual]]
+### [[archetype]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** class; 
 

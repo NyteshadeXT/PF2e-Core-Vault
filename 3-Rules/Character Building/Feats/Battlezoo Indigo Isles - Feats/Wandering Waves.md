@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wandering Waves `pf2:r`
 ## Feat 5
-### [[illusion]][[manipulate]][[mental]][[visual]]
+### [[illusion]][[manipulate]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** ancestry; 
 

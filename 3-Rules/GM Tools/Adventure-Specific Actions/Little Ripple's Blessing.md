@@ -15,7 +15,7 @@ license: OGL
 ---
 # Little Ripple's Blessing `pf2:1`
 
-### [[healing]][[magical]][[primal]][[vitality]][[water]]
+### [[healing]][[magical]][[primal]][[vitality]][[3-Rules/Trait Reference/W/water]]
 
 **Category** offensive; 
 

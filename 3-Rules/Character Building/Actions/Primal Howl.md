@@ -13,7 +13,7 @@ license: ORC
 ---
 # Primal Howl `pf2:2`
 
-### [[primal]][[sonic]]
+### [[primal]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** offensive; 
 

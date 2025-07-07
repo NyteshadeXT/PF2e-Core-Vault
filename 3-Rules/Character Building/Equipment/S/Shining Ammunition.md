@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shining Ammunition
 ## Item 1
-### [[consumable]][[light]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 **Category** ammo; 
 **Price** 3 gp; 

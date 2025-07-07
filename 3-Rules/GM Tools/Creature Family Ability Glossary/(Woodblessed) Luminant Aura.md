@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Woodblessed) Luminant Aura
 
-### [[aura]][[light]]
+### [[aura]][[3-Rules/Trait Reference/L/light]]
 
 **Category** offensive; 
 

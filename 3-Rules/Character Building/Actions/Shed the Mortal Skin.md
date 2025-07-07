@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shed the Mortal Skin `pf2:1`
 
-### [[healing]][[light]][[transcendence]][[vitality]]
+### [[healing]][[3-Rules/Trait Reference/L/light]][[transcendence]][[vitality]]
 
 
 

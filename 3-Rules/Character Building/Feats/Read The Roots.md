@@ -15,7 +15,7 @@ license: OGL
 ---
 # Read the Roots `pf2:2`
 ## Feat 5
-### [[ardande]][[primal]][[scrying]][[wood]]
+### [[ardande]][[primal]][[scrying]][[Wood]]
 
 **Category** ancestry; 
 

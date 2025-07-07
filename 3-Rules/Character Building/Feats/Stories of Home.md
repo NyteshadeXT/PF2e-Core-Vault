@@ -18,7 +18,7 @@ license: ORC
 ---
 # Stories of Home
 ## Feat 14
-### [[archetype]][[auditory]][[divine]][[exploration]][[healing]][[linguistic]][[mental]]
+### [[archetype]][[auditory]][[divine]][[exploration]][[healing]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

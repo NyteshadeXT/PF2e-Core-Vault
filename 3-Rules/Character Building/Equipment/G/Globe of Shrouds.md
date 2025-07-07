@@ -14,7 +14,7 @@ license: OGL
 ---
 # Globe of Shrouds
 ## Item 8
-### [[censer]][[fire]][[magical]][[revelation]]
+### [[censer]][[3-Rules/Trait Reference/F/fire]][[magical]][[revelation]]
 
 
 **Price** 500 gp; 

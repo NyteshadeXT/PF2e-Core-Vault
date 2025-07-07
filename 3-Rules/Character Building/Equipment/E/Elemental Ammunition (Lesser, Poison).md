@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Lesser, Poison)
 ## Item 1
-### [[alchemical]][[consumable]][[poison]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 **Category** ammo; 
 **Price** 3 gp; 

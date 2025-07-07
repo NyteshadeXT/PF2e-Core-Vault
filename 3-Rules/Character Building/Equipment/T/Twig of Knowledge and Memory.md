@@ -15,7 +15,7 @@ license: ORC
 ---
 # Twig of Knowledge and Memory
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[plant]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[plant]]
 
 **Category** other; 
 **Price** 4 gp; 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Brontosaurus Phalange)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 21000 gp; 

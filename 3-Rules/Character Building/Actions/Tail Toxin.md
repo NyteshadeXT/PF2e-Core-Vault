@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tail Toxin `pf2:1`
 
-### [[kobold]][[poison]]
+### [[kobold]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** interaction; 
 

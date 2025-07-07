@@ -15,7 +15,7 @@ license: ORC
 ---
 # Ultimatum of Liberation `pf2:1`
 
-### [[auditory]][[linguistic]][[mental]][[mythic]]
+### [[auditory]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[mythic]]
 
 **Category** interaction; 
 

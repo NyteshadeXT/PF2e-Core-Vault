@@ -15,7 +15,7 @@ license: OGL
 ---
 # Midnight Milk (Refined)
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 400 gp; 

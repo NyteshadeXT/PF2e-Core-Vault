@@ -12,7 +12,7 @@ license: ORC
 ---
 # Corrosive (Greater)
 ## Item 15
-### [[acid]][[magical]]
+### [[3-Rules/Trait Reference/A/acid]][[magical]]
 
 
 **Price** 6500 gp; 

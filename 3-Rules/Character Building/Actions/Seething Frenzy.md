@@ -14,7 +14,7 @@ license: OGL
 ---
 # Seething Frenzy `pf2:1`
 
-### [[concentrate]][[eidolon]][[emotion]][[mental]]
+### [[concentrate]][[eidolon]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** defensive; 
 

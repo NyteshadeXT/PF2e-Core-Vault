@@ -14,7 +14,7 @@ license: ORC
 ---
 # Cryomister (Moderate)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cold]][[consumable]][[gadget]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/C/cold]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 25 gp; 

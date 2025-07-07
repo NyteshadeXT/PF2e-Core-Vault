@@ -11,7 +11,7 @@ license: OGL
 ---
 # Cavern's Heart
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[earth]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 4100 gp; 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Spirit Snare
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[consumable]][[electricity]][[mechanical]][[snare]][[trap]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 90 gp; 

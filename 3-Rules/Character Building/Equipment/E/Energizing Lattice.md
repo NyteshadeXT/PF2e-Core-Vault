@@ -13,7 +13,7 @@ license: OGL
 ---
 # Energizing Lattice
 ## Item 13
-### [[invested]][[light]][[magical]]
+### [[invested]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 **Category** medium; **Group** chain
 **Price** 3000 gp; 

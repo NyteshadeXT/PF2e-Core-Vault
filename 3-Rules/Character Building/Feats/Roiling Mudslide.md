@@ -17,7 +17,7 @@ license: OGL
 ---
 # Roiling Mudslide `pf2:2`
 ## Feat 6
-### [[composite]][[earth]][[impulse]][[kineticist]][[primal]][[water]]
+### [[composite]][[3-Rules/Trait Reference/E/earth]][[impulse]][[kineticist]][[primal]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

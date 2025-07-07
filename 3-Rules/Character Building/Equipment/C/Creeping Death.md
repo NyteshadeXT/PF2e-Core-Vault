@@ -15,7 +15,7 @@ license: ORC
 ---
 # Creeping Death
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[contact]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 45 gp; 

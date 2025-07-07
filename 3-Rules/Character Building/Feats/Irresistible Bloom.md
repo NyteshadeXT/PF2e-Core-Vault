@@ -16,7 +16,7 @@ license: ORC
 ---
 # Irresistible Bloom `pf2:1`
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[incapacitation]][[mental]][[olfactory]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[emotion]][[incapacitation]][[3-Rules/Trait Reference/M/mental]][[olfactory]][[visual]]
 
 **Category** ancestry; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Drought Powder
 ## Item 11
-### [[consumable]][[earth]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/E/earth]][[magical]]
 
 **Category** other; 
 **Price** 250 gp; 

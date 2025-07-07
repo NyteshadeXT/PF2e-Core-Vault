@@ -16,7 +16,7 @@ license: ORC
 ---
 # Vanishing Shocker (Lesser)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[gadget]][[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[gadget]][[illusion]][[magical]]
 
 **Category** gadget; 
 **Price** 70 gp; 

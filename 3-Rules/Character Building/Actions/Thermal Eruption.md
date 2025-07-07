@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thermal Eruption `pf2:2`
 
-### [[fire]][[primal]]
+### [[3-Rules/Trait Reference/F/fire]][[primal]]
 
 **Category** offensive; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Extra Lung
 ## Item 8
-### [[air]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[invested]][[magical]]
 
 
 **Price** 500 gp; 

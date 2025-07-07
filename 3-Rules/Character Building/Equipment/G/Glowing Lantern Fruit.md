@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glowing Lantern Fruit
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[Wood]]
 
 **Category** other; 
 **Price** 4 gp; 

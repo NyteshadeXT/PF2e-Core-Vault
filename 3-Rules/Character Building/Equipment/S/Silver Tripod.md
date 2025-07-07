@@ -15,7 +15,7 @@ license: ORC
 ---
 # Silver Tripod
 ## Item 1
-### [[consumable]][[force]][[magical]][[talisman]]
+### [[consumable]][[3-Rules/Trait Reference/F/force]][[magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 3 gp; 

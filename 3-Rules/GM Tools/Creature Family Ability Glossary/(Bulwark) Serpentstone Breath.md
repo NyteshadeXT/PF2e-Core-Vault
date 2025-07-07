@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Bulwark) Serpentstone Breath `pf2:2`
 
-### [[earth]][[incapacitation]][[primal]]
+### [[3-Rules/Trait Reference/E/earth]][[incapacitation]][[primal]]
 
 **Category** offensive; 
 

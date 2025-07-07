@@ -14,7 +14,7 @@ license: ORC
 ---
 # Pushing Wind
 ## Feat 8
-### [[air]][[archetype]][[aura]]
+### [[3-Rules/Trait Reference/A/air]][[archetype]][[aura]]
 
 **Category** class; 
 

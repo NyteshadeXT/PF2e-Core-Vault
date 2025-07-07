@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pointed Question `pf2:1`
 
-### [[auditory]][[concentrate]][[investigator]][[linguistic]][[mental]]
+### [[auditory]][[concentrate]][[investigator]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

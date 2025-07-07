@@ -17,7 +17,7 @@ license: ORC
 ---
 # Musket Staff of Force
 ## Item 4
-### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-d10]][[force]][[magical]][[staff]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-d10]][[3-Rules/Trait Reference/F/force]][[magical]][[staff]]
 
 |  |  |
 | -- | -- |

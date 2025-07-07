@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Hopeless Night (4th-Rank Spell)
 ## Item 10
-### [[darkness]][[magical]][[wand]]
+### [[3-Rules/Trait Reference/D/darkness]][[magical]][[wand]]
 
 
 **Price** 1000 gp; 

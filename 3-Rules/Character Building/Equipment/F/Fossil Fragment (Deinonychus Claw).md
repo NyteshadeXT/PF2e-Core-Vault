@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fossil Fragment (Deinonychus Claw)
 ## Item 7
-### [[earth]][[magical]]
+### [[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 360 gp; 

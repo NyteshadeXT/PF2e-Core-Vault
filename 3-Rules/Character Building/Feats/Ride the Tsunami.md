@@ -16,7 +16,7 @@ license: OGL
 ---
 # Ride the Tsunami `pf2:3`
 ## Feat 18
-### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
+### [[impulse]][[kineticist]][[overflow]][[primal]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

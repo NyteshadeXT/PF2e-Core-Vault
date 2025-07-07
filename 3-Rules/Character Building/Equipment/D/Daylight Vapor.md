@@ -14,7 +14,7 @@ license: OGL
 ---
 # Daylight Vapor
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 500 gp; 

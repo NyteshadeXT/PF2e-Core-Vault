@@ -11,7 +11,7 @@ license: OGL
 ---
 # Linguistic Nexus
 
-### [[mental]]
+### [[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

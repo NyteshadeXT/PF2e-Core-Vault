@@ -12,7 +12,7 @@ license: OGL
 ---
 # Everair Mask (Lesser)
 ## Item 2
-### [[air]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[invested]][[magical]]
 
 
 **Price** 5 gp; 

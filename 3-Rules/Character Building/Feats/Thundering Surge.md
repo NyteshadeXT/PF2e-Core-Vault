@@ -14,7 +14,7 @@ license: ORC
 ---
 # Thundering Surge `pf2:1`
 ## Feat 16
-### [[mythic]][[sonic]][[spellshape]]
+### [[mythic]][[3-Rules/Trait Reference/S/sonic]][[spellshape]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Prismatic Call `pf2:2`
 ## Feat 17
-### [[auditory]][[concentrate]][[divine]][[force]]
+### [[auditory]][[concentrate]][[divine]][[3-Rules/Trait Reference/F/force]]
 
 **Category** ancestry; 
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Interrogate `pf2:1`
 ## Feat 6
-### [[archetype]][[auditory]][[concentrate]][[linguistic]][[mental]]
+### [[archetype]][[auditory]][[concentrate]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

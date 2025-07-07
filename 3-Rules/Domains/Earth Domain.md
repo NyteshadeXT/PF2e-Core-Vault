@@ -14,4 +14,4 @@ tags:
 
 You control soil and stone.
 
-[[earth]]
+[[3-Rules/Trait Reference/E/earth]]

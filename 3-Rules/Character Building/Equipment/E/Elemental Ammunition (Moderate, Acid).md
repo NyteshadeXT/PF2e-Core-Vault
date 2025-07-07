@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Moderate, Acid)
 ## Item 5
-### [[acid]][[alchemical]][[consumable]][[splash]]
+### [[3-Rules/Trait Reference/A/acid]][[alchemical]][[consumable]][[splash]]
 
 **Category** ammo; 
 **Price** 21 gp; 

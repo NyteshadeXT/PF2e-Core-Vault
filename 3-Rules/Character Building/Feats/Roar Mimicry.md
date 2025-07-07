@@ -14,7 +14,7 @@ license: ORC
 ---
 # Roar Mimicry `pf2:2`
 ## Feat 12
-### [[archetype]][[primal]][[sonic]]
+### [[archetype]][[primal]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** class; 
 

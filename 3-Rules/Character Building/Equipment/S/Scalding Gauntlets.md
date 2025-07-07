@@ -17,7 +17,7 @@ license: OGL
 ---
 # Scalding Gauntlets
 ## Item 11
-### [[agile]][[fire]][[free-hand]][[invested]][[magical]]
+### [[agile]][[3-Rules/Trait Reference/F/fire]][[free-hand]][[invested]][[magical]]
 
 |  |  |
 | -- | -- |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Earth's Voice
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]]
 
 **Category** ancestry; 
 

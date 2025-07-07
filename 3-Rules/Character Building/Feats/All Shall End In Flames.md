@@ -17,7 +17,7 @@ license: OGL
 ---
 # All Shall End in Flames `pf2:3`
 ## Feat 18
-### [[death]][[fire]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[death]][[3-Rules/Trait Reference/F/fire]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

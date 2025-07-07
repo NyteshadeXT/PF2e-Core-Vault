@@ -11,7 +11,7 @@ license: OGL
 ---
 # Midday Lantern (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 3700 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Matchstick
 ## Item 1
-### [[alchemical]][[consumable]][[fire]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]]
 
 **Category** other; 
 **Price** 2 sp; 

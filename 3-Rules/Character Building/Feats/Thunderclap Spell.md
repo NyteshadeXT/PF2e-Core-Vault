@@ -14,7 +14,7 @@ license: ORC
 ---
 # Thunderclap Spell `pf2:1`
 ## Feat 8
-### [[druid]][[sonic]][[spellshape]]
+### [[druid]][[3-Rules/Trait Reference/S/sonic]][[spellshape]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Lie
 
-### [[auditory]][[concentrate]][[linguistic]][[mental]][[secret]]
+### [[auditory]][[concentrate]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[secret]]
 
 **Category** interaction; 
 

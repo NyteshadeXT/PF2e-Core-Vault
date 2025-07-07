@@ -1,19 +1,13 @@
 ---
 title: "Fortification"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Fortification"
-foundryId: Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-monster-parts.JournalEntry.DUgV4RRnkTaikCI2.JournalEntryPage.Ds7oANkWrulcRXsD
-tags:
-  - JournalEntryPage
 ---
 
-# Fortification
-Abjuration
-
-Magical
+# Armor Imbuement: Fortification
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Type** Armor (must be medium or heavy)
-
 **Parts** The monster must have resistance or immunity to precision damage or critical hits.
 
 * * *

@@ -17,7 +17,7 @@ license: ORC
 ---
 # Fire Box
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Trait Reference/F/fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 10 gp; 

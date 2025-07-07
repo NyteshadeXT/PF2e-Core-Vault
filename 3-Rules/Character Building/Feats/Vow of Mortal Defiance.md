@@ -16,7 +16,7 @@ license: ORC
 ---
 # Vow of Mortal Defiance `pf2:1`
 ## Feat 1
-### [[auditory]][[concentrate]][[exemplar]][[linguistic]][[mental]]
+### [[auditory]][[concentrate]][[exemplar]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

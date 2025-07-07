@@ -11,7 +11,7 @@ license: OGL
 ---
 # Drum of Upheaval
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 60000 gp; 

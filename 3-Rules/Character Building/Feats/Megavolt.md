@@ -14,7 +14,7 @@ license: ORC
 ---
 # Megavolt `pf2:2`
 ## Feat 6
-### [[electricity]][[inventor]][[manipulate]]
+### [[3-Rules/Trait Reference/E/electricity]][[inventor]][[manipulate]]
 
 **Category** class; 
 

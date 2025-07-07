@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sight-Theft Grit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 115 gp; 

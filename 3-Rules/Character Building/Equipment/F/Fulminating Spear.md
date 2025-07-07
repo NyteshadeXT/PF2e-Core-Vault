@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fulminating Spear
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[magical]][[monk]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[magical]][[monk]][[thrown-20]]
 
 |  |  |
 | -- | -- |

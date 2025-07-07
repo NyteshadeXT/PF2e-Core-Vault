@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dragonfire Halfbow
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[fire]][[magical]][[propulsive]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[3-Rules/Trait Reference/F/fire]][[magical]][[propulsive]]
 
 |  |  |
 | -- | -- |

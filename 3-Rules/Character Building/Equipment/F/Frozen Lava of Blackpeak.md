@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava of Blackpeak
 ## Item 7
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 70 gp; 

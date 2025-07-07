@@ -17,7 +17,7 @@ license: ORC
 ---
 # Meditate on This! `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[concentrate]][[emotion]][[incapacitation]][[mental]][[rage]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[concentrate]][[emotion]][[incapacitation]][[3-Rules/Trait Reference/M/mental]][[rage]]
 
 **Category** class; 
 

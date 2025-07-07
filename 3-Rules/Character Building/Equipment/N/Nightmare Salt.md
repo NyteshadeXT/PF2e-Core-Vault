@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nightmare Salt
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 14000 gp; 

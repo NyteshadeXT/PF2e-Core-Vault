@@ -15,7 +15,7 @@ license: ORC
 ---
 # Giant Scorpion Venom
 ## Item 6
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 40 gp; 

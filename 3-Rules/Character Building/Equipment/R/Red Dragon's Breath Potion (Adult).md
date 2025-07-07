@@ -14,7 +14,7 @@ license: OGL
 ---
 # Red Dragon's Breath Potion (Adult)
 ## Item 12
-### [[consumable]][[fire]][[magical]][[potion]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 400 gp; 

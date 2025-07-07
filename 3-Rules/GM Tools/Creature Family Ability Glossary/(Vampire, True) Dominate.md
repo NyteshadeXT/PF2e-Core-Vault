@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Vampire, True) Dominate `pf2:2`
 
-### [[divine]][[incapacitation]][[mental]][[visual]]
+### [[divine]][[incapacitation]][[3-Rules/Trait Reference/M/mental]][[visual]]
 
 **Category** offensive; 
 

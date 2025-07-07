@@ -14,7 +14,7 @@ license: ORC
 ---
 # Eroding Bullet
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[alchemical]][[consumable]]
 
 **Category** ammo; 
 **Price** 22 gp; 

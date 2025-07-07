@@ -12,7 +12,7 @@ license: OGL
 ---
 # Empathetic Aura `pf2:1`
 ## Feat 13
-### [[aura]][[mental]]
+### [[aura]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** ancestry; 
 

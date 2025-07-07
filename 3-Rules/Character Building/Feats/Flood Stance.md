@@ -14,7 +14,7 @@ license: ORC
 ---
 # Flood Stance `pf2:1`
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[stance]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[stance]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

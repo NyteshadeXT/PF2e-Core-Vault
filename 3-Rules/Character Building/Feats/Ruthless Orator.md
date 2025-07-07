@@ -16,7 +16,7 @@ license: ORC
 ---
 # Ruthless Orator `pf2:2`
 ## Feat 16
-### [[archetype]][[auditory]][[emotion]][[linguistic]][[mental]]
+### [[archetype]][[auditory]][[emotion]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

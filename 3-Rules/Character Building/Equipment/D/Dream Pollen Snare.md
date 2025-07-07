@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dream Pollen Snare
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[incapacitation]][[mechanical]][[mental]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[incapacitation]][[mechanical]][[3-Rules/Trait Reference/M/mental]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 12 gp; 

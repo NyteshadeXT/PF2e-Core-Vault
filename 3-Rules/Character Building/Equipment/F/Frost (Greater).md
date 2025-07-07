@@ -12,7 +12,7 @@ license: ORC
 ---
 # Frost (Greater)
 ## Item 15
-### [[cold]][[magical]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]]
 
 
 **Price** 6500 gp; 

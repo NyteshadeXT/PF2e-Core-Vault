@@ -14,7 +14,7 @@ license: OGL
 ---
 # Skull Bomb
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[fire]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 80 gp; 

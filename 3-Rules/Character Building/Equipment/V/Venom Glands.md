@@ -14,7 +14,7 @@ license: ORC
 ---
 # Venom Glands
 ## Item 3
-### [[graft]][[invested]][[magical]][[poison]]
+### [[graft]][[invested]][[magical]][[3-Rules/Trait Reference/P/poison]]
 
 
 **Price** 55 gp; 

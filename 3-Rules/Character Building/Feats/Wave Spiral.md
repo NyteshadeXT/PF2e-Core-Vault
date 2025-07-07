@@ -15,7 +15,7 @@ license: ORC
 ---
 # Wave Spiral `pf2:2`
 ## Feat 12
-### [[flourish]][[monk]][[occult]][[water]]
+### [[flourish]][[monk]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

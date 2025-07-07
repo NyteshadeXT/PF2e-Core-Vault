@@ -16,7 +16,7 @@ license: ORC
 ---
 # Vanishing Shocker (Major)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[gadget]][[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/E/electricity]][[gadget]][[illusion]][[magical]]
 
 **Category** gadget; 
 **Price** 8000 gp; 

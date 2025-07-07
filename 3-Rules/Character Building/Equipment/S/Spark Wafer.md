@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spark Wafer
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fire]][[light]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/L/light]]
 
 **Category** other; 
 **Price** 3 gp; 

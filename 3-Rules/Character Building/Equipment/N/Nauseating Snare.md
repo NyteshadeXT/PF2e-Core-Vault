@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nauseating Snare
 ## Item 6
-### [[consumable]][[mechanical]][[poison]][[snare]][[trap]]
+### [[consumable]][[mechanical]][[3-Rules/Trait Reference/P/poison]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 40 gp; 

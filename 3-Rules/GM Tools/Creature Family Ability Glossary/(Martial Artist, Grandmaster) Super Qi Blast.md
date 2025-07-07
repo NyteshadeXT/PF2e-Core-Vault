@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Martial Artist, Grandmaster) Super Qi Blast `pf2:1`
 
-### [[force]][[polymorph]][[spellshape]]
+### [[3-Rules/Trait Reference/F/force]][[polymorph]][[spellshape]]
 
 **Category** offensive; 
 

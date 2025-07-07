@@ -15,7 +15,7 @@ license: OGL
 ---
 # Steelscour (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[alchemical]][[bomb]][[consumable]]
 
 |  |  |
 | -- | -- |

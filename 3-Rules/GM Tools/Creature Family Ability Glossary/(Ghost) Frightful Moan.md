@@ -16,7 +16,7 @@ license: ORC
 ---
 # (Ghost) Frightful Moan `pf2:2`
 
-### [[auditory]][[divine]][[emotion]][[fear]][[mental]]
+### [[auditory]][[divine]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

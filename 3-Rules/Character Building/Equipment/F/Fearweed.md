@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fearweed
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[contact]][[divine]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[contact]][[divine]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 160 gp; 

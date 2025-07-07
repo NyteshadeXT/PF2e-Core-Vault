@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Lesser, Acid)
 ## Item 1
-### [[acid]][[alchemical]][[consumable]][[splash]]
+### [[3-Rules/Trait Reference/A/acid]][[alchemical]][[consumable]][[splash]]
 
 **Category** ammo; 
 **Price** 3 gp; 

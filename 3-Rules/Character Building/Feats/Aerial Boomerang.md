@@ -15,7 +15,7 @@ license: OGL
 ---
 # Aerial Boomerang `pf2:2`
 ## Feat 1
-### [[air]][[impulse]][[kineticist]][[primal]]
+### [[3-Rules/Trait Reference/A/air]][[impulse]][[kineticist]][[primal]]
 
 **Category** class; 
 

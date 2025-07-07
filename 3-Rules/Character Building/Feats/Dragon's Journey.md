@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dragon's Journey `pf2:1`
 ## Feat 14
-### [[air]][[archetype]][[flourish]][[move]]
+### [[3-Rules/Trait Reference/A/air]][[archetype]][[flourish]][[move]]
 
 **Category** class; 
 

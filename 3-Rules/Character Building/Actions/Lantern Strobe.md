@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lantern Strobe `pf2:2`
 
-### [[light]][[magical]][[visual]]
+### [[3-Rules/Trait Reference/L/light]][[magical]][[visual]]
 
 **Category** offensive; 
 

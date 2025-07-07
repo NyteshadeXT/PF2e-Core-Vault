@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Nymph Queen) Focus Beauty `pf2:1`
 
-### [[emotion]][[mental]][[primal]][[visual]]
+### [[emotion]][[3-Rules/Trait Reference/M/mental]][[primal]][[visual]]
 
 **Category** offensive; 
 

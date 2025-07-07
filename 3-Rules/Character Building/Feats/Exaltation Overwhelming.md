@@ -16,7 +16,7 @@ license: ORC
 ---
 # Exaltation Overwhelming `pf2:3`
 ## Feat 18
-### [[emotion]][[fear]][[mental]][[mythic]][[visual]]
+### [[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]][[mythic]][[visual]]
 
 **Category** class; 
 

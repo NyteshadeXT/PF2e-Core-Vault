@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu) Command Thrall `pf2:0`
 
-### [[auditory]][[divine]][[mental]]
+### [[auditory]][[divine]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

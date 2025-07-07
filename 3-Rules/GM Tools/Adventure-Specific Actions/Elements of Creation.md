@@ -13,7 +13,7 @@ license: OGL
 ---
 # Elements of Creation
 
-### [[air]][[earth]][[water]]
+### [[3-Rules/Trait Reference/A/air]][[3-Rules/Trait Reference/E/earth]][[3-Rules/Trait Reference/W/water]]
 
 **Category** offensive; 
 

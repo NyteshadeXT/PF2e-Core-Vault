@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Droskar's Crag
 ## Item 13
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 3000 gp; 

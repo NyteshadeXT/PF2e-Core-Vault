@@ -15,7 +15,7 @@ license: OGL
 ---
 # Careless Delight
 ## Item 9
-### [[alchemical]][[consumable]][[ingested]][[mental]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 130 gp; 

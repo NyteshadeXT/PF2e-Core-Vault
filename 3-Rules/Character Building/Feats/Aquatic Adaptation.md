@@ -14,7 +14,7 @@ license: OGL
 ---
 # Aquatic Adaptation
 ## Feat 13
-### [[azarketi]][[concentrate]][[primal]][[water]]
+### [[azarketi]][[concentrate]][[primal]][[3-Rules/Trait Reference/W/water]]
 
 **Category** ancestry; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Smoke Veil
 ## Item 3
-### [[fire]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[invested]][[magical]]
 
 
 **Price** 60 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Raise the Walls `pf2:1`
 
-### [[force]][[transcendence]]
+### [[3-Rules/Trait Reference/F/force]][[transcendence]]
 
 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Surface Tension `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magus]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magus]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

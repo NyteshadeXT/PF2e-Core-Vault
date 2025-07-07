@@ -14,7 +14,7 @@ license: ORC
 ---
 # Electrogenesis `pf2:2`
 ## Feat 6
-### [[archetype]][[electricity]][[primal]]
+### [[archetype]][[3-Rules/Trait Reference/E/electricity]][[primal]]
 
 **Category** class; 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Spiritual Warfare (8th-Rank Spell)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/force]][[magical]][[wand]]
 
 
 **Price** 40000 gp; 

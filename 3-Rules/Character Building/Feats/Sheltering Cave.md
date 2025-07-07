@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sheltering Cave
 ## Feat 4
-### [[druid]][[earth]][[exploration]][[primal]]
+### [[druid]][[3-Rules/Trait Reference/E/earth]][[exploration]][[primal]]
 
 **Category** class; 
 

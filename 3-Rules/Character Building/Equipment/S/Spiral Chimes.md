@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spiral Chimes
 ## Item 13
-### [[air]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[magical]]
 
 
 **Price** 2500 gp; 

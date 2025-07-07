@@ -16,7 +16,7 @@ license: OGL
 ---
 # Flayleaf
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 1 gp; 

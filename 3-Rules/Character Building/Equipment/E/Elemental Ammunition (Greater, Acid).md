@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Greater, Acid)
 ## Item 11
-### [[acid]][[alchemical]][[consumable]][[splash]]
+### [[3-Rules/Trait Reference/A/acid]][[alchemical]][[consumable]][[splash]]
 
 **Category** ammo; 
 **Price** 210 gp; 

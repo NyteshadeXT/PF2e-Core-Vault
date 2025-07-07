@@ -15,7 +15,7 @@ license: ORC
 ---
 # One Moment till Glory `pf2:1`
 
-### [[concentrate]][[emotion]][[mental]][[transcendence]]
+### [[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]][[transcendence]]
 
 **Category** offensive; 
 

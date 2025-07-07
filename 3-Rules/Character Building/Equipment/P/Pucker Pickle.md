@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pucker Pickle
 ## Item 5
-### [[alchemical]][[consumable]][[poison]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** other; 
 **Price** 30 gp; 

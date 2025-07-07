@@ -13,7 +13,7 @@ license: OGL
 ---
 # Popdust
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** other; 
 **Price** 1 gp; 

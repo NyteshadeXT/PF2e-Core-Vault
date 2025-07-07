@@ -1,18 +1,11 @@
 ---
 title: "Sturdy"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Sturdy"
-foundryId: Compendium.battlezoo-bestiary-pf2e.pf2e-battlezoo-monster-parts.JournalEntry.DUgV4RRnkTaikCI2.JournalEntryPage.I7Zeke1JPyUub32L
-tags:
-  - JournalEntryPage
 ---
 
-# Sturdy
-Abjuration
-
-Magical
-
-**Type** Shield
+# Shield Imbuement: Sturdy
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have Hardness, resistance to physical damage, or resistance to one of the three physical damage types (bludgeoning, piercing, or slashing damage). In some cases, you and the GM might decide together that a monster with resistance to physical damage because it is amorphous or gaseous doesn't provide appropriate parts.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Ka
 ## Item 15
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 6500 gp; 

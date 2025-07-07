@@ -14,7 +14,7 @@ license: OGL
 ---
 # Oneiric Influence
 ## Feat 12
-### [[archetype]][[incapacitation]][[mental]][[occult]]
+### [[archetype]][[incapacitation]][[3-Rules/Trait Reference/M/mental]][[occult]]
 
 **Category** class; 
 

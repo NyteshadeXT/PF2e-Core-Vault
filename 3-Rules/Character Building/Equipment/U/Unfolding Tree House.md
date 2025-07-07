@@ -13,7 +13,7 @@ license: ORC
 ---
 # Unfolding Tree House
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]][[Wood]]
 
 
 **Price** 340 gp; 

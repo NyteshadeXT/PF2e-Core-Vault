@@ -16,7 +16,7 @@ license: ORC
 ---
 # Searing Restoration `pf2:1`
 ## Feat 2
-### [[fire]][[healing]][[inventor]][[manipulate]][[unstable]]
+### [[3-Rules/Trait Reference/F/fire]][[healing]][[inventor]][[manipulate]][[unstable]]
 
 **Category** class; 
 

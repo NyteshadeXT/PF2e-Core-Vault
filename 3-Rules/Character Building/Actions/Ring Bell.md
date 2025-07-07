@@ -16,7 +16,7 @@ license: OGL
 ---
 # Ring Bell `pf2:r`
 
-### [[auditory]][[emotion]][[magical]][[manipulate]][[mental]][[thaumaturge]]
+### [[auditory]][[emotion]][[magical]][[manipulate]][[3-Rules/Trait Reference/M/mental]][[thaumaturge]]
 
 **Category** defensive; 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wand of Dumbfounding Doom (9th-level)
 ## Item 20
-### [[emotion]][[fear]][[incapacitation]][[magical]][[mental]][[prediction]][[wand]]
+### [[emotion]][[fear]][[incapacitation]][[magical]][[3-Rules/Trait Reference/M/mental]][[prediction]][[wand]]
 
 
 **Price** 70000 gp; 

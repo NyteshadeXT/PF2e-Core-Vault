@@ -114,11 +114,11 @@ rarity: uncommon
 
 | Part Name         | Trait Tags                         | Harvest DC | Yield (Units) | Use Type         | Notes                                                  |
 |-------------------|-------------------------------------|------------|----------------|------------------|---------------------------------------------------------|
-| Tetranadon Hide   | [[earth]], [[resilient]], [[hide]]  | DC 21      | 2d4            | Armor            | Dense, waterproof scales; ideal for layered defense     |
-| Water-Gorged Gut  | [[water]], [[volatile]], [[core]]   | DC 23      | 1d3            | Consumable Core  | Stores immense pressure and moisture                    |
-| Tail Musculature  | [[earth]], [[forceful]], [[limb]]   | DC 20      | 1d4            | Weapon Additive  | Used in blunt-force kinetic strikes                     |
-| Sumo Shell        | [[earth]], [[deflecting]], [[plate]]| DC 22      | 1d3            | Armor Core       | Shard-lined bones resist impact and deflect blows       |
-| Tetranadon Saliva | [[water]], [[slick]], [[coating]]   | DC 20      | 1d2            | Alchemical Coating| Slick, oily secretion used to lower friction or grip    |
+| Tetranadon Hide   | [[3-Rules/Trait Reference/E/earth]], [[resilient]], [[hide]]  | DC 21      | 2d4            | Armor            | Dense, waterproof scales; ideal for layered defense     |
+| Water-Gorged Gut  | [[3-Rules/Trait Reference/W/water]], [[volatile]], [[core]]   | DC 23      | 1d3            | Consumable Core  | Stores immense pressure and moisture                    |
+| Tail Musculature  | [[3-Rules/Trait Reference/E/earth]], [[forceful]], [[limb]]   | DC 20      | 1d4            | Weapon Additive  | Used in blunt-force kinetic strikes                     |
+| Sumo Shell        | [[3-Rules/Trait Reference/E/earth]], [[deflecting]], [[plate]]| DC 22      | 1d3            | Armor Core       | Shard-lined bones resist impact and deflect blows       |
+| Tetranadon Saliva | [[3-Rules/Trait Reference/W/water]], [[slick]], [[coating]]   | DC 20      | 1d2            | Alchemical Coating| Slick, oily secretion used to lower friction or grip    |
 
 **On a Critical Success**, double the number of units gained from that part. On a failure, gain no usable part of that type.
 

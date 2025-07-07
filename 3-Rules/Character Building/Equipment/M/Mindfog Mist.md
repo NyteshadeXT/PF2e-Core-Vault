@@ -15,7 +15,7 @@ license: ORC
 ---
 # Mindfog Mist
 ## Item 15
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 1000 gp; 

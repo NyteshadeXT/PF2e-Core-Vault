@@ -12,7 +12,7 @@ license: OGL
 ---
 # Everair Mask (Moderate)
 ## Item 6
-### [[air]][[invested]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[invested]][[magical]]
 
 
 **Price** 35 gp; 

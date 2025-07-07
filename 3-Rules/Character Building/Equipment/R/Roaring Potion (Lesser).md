@@ -14,7 +14,7 @@ license: OGL
 ---
 # Roaring Potion (Lesser)
 ## Item 8
-### [[consumable]][[magical]][[potion]][[sonic]]
+### [[consumable]][[magical]][[potion]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** potion; 
 **Price** 90 gp; 

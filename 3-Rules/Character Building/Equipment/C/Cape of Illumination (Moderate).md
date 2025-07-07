@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cape of Illumination (Moderate)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 600 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crimson Breath `pf2:2`
 ## Feat 12
-### [[archetype]][[fire]][[primal]]
+### [[archetype]][[3-Rules/Trait Reference/F/fire]][[primal]]
 
 **Category** class; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Captivating Charm `pf2:2`
 
-### [[concentrate]][[emotion]][[mental]][[transcendence]][[visual]]
+### [[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]][[transcendence]][[visual]]
 
 
 

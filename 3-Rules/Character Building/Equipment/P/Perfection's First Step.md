@@ -15,7 +15,7 @@ license: ORC
 ---
 # Perfection's First Step
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mental]][[occult]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[3-Rules/Trait Reference/M/mental]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** other; 
 **Price** 23 gp; 

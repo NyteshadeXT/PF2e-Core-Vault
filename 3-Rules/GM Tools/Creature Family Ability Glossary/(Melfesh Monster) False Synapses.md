@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Melfesh Monster) False Synapses `pf2:2`
 
-### [[mental]][[poison]]
+### [[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** offensive; 
 

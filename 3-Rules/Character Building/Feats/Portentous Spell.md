@@ -16,7 +16,7 @@ license: ORC
 ---
 # Portentous Spell `pf2:1`
 ## Feat 16
-### [[manipulate]][[mental]][[oracle]][[spellshape]][[visual]]
+### [[manipulate]][[3-Rules/Trait Reference/M/mental]][[oracle]][[spellshape]][[visual]]
 
 **Category** class; 
 

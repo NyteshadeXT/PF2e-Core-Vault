@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Risen Nemesis) Pained Retribution `pf2:2`
 
-### [[mental]]
+### [[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Histrionic Injury `pf2:r`
 ## Feat 5
-### [[mental]][[poppet]]
+### [[3-Rules/Trait Reference/M/mental]][[poppet]]
 
 **Category** ancestry; 
 

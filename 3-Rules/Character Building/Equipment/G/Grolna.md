@@ -15,7 +15,7 @@ license: OGL
 ---
 # Grolna
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 3 gp; 

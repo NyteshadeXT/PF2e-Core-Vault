@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sonic Strafe `pf2:2`
 ## Feat 16
-### [[air]][[archetype]][[sonic]]
+### [[3-Rules/Trait Reference/A/air]][[archetype]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Faerie Dragon Liqueur (Adult)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[potion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[potion]]
 
 **Category** potion; 
 **Price** 400 gp; 

@@ -17,7 +17,7 @@ license: ORC
 ---
 # One for All `pf2:1`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]][[swashbuckler]]
+### [[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[swashbuckler]]
 
 **Category** class; 
 

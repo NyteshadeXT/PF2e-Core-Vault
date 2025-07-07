@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Dazzling Rays (4th-level)
 ## Item 10
-### [[fire]][[light]][[magical]][[wand]]
+### [[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/L/light]][[magical]][[wand]]
 
 
 **Price** 1000 gp; 

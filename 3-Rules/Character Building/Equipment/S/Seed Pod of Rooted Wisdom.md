@@ -15,7 +15,7 @@ license: ORC
 ---
 # Seed Pod of Rooted Wisdom
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[mental]][[plant]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[3-Rules/Trait Reference/M/mental]][[plant]]
 
 **Category** other; 
 **Price** 7 gp; 

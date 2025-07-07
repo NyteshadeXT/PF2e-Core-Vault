@@ -13,7 +13,7 @@ license: ORC
 ---
 # Convergent Tides
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magus]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magus]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

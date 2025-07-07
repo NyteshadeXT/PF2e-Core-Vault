@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spirit's Anguish `pf2:2`
 ## Feat 8
-### [[archetype]][[sonic]]
+### [[archetype]][[3-Rules/Trait Reference/S/sonic]]
 
 **Category** class; 
 

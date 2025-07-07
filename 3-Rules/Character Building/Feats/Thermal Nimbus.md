@@ -16,7 +16,7 @@ license: OGL
 ---
 # Thermal Nimbus `pf2:1`
 ## Feat 4
-### [[fire]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[3-Rules/Trait Reference/F/fire]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

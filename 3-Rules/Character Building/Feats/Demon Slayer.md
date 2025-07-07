@@ -14,7 +14,7 @@ license: ORC
 ---
 # Demon Slayer `pf2:1`
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[elf]][[holy]][[light]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[elf]][[holy]][[3-Rules/Trait Reference/L/light]]
 
 **Category** ancestry; 
 

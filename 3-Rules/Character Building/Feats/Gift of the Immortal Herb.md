@@ -16,7 +16,7 @@ license: ORC
 ---
 # Gift of the Immortal Herb
 ## Feat 16
-### [[exemplar]][[healing]][[ikon]][[light]][[vitality]]
+### [[exemplar]][[healing]][[ikon]][[3-Rules/Trait Reference/L/light]][[vitality]]
 
 **Category** class; 
 

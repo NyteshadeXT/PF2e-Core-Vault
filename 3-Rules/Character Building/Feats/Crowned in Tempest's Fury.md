@@ -17,7 +17,7 @@ license: OGL
 ---
 # Crowned in Tempest's Fury `pf2:1`
 ## Feat 18
-### [[air]][[electricity]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[3-Rules/Trait Reference/A/air]][[3-Rules/Trait Reference/E/electricity]][[impulse]][[kineticist]][[primal]][[stance]]
 
 **Category** class; 
 

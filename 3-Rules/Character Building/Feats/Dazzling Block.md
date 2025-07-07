@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dazzling Block
 ## Feat 10
-### [[light]][[magus]][[visual]]
+### [[3-Rules/Trait Reference/L/light]][[magus]][[visual]]
 
 **Category** class; 
 

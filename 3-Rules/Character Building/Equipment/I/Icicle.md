@@ -15,7 +15,7 @@ license: ORC
 ---
 # Icicle
 ## Item 16
-### [[cold]][[magical]][[reach]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]][[reach]]
 
 |  |  |
 | -- | -- |

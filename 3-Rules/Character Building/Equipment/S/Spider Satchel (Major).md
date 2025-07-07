@@ -17,7 +17,7 @@ license: ORC
 ---
 # Spider Satchel (Major)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

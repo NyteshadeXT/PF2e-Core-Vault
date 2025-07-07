@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Moderate, Electricity)
 ## Item 5
-### [[alchemical]][[consumable]][[electricity]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/E/electricity]][[splash]]
 
 **Category** ammo; 
 **Price** 21 gp; 

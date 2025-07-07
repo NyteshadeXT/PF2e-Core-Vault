@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Traitorous Thoughts
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[mental]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[3-Rules/Trait Reference/M/mental]][[wand]]
 
 
 **Price** 2000 gp; 

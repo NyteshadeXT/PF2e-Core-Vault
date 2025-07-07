@@ -14,7 +14,7 @@ license: ORC
 ---
 # Frozen Lava of Ka
 ## Item 15
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** other; 
 **Price** 1300 gp; 

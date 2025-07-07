@@ -12,7 +12,7 @@ license: ORC
 ---
 # Nightbreeze Machine
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[clockwork]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/air]][[clockwork]]
 
 
 **Price** 125 gp; 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rippling Spin `pf2:r`
 ## Feat 8
-### [[flourish]][[monk]][[occult]][[water]]
+### [[flourish]][[monk]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

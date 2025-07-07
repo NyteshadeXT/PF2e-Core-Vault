@@ -11,7 +11,7 @@ license: OGL
 ---
 # Highhelm Drill Mark I
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/force]][[magical]]
 
 
 **Price** 85 gp; 

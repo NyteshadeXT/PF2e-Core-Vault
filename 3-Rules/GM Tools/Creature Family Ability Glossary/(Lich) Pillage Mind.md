@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Lich) Pillage Mind `pf2:r`
 
-### [[arcane]][[mental]]
+### [[arcane]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

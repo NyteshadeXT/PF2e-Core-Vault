@@ -14,7 +14,7 @@ license: ORC
 ---
 # Explosive Ammunition
 ## Item 9
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 **Category** ammo; 
 **Price** 130 gp; 

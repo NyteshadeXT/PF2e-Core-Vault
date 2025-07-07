@@ -14,7 +14,7 @@ license: OGL
 ---
 # Radiate Glory `pf2:1`
 ## Feat 17
-### [[divine]][[light]][[nephilim]][[visual]]
+### [[divine]][[3-Rules/Trait Reference/L/light]][[nephilim]][[visual]]
 
 **Category** ancestry; 
 

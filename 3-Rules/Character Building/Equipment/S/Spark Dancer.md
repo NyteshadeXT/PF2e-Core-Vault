@@ -16,7 +16,7 @@ license: OGL
 ---
 # Spark Dancer
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[capacity-3]][[concussive]][[fatal-d8]][[fire]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[capacity-3]][[concussive]][[fatal-d8]][[3-Rules/Trait Reference/F/fire]]
 
 |  |  |
 | -- | -- |

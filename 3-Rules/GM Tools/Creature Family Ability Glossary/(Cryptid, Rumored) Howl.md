@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Cryptid, Rumored) Howl `pf2:2`
 
-### [[auditory]][[emotion]][[fear]][[mental]]
+### [[auditory]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

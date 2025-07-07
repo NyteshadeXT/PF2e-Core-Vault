@@ -15,7 +15,7 @@ license: ORC
 ---
 # Kimanéz Luminescent Toadstool
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fungus]][[light]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[fungus]][[3-Rules/Trait Reference/L/light]][[magical]]
 
 **Category** other; 
 **Price** 9 gp; 

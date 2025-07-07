@@ -12,7 +12,7 @@ license: ORC
 ---
 # Frost
 ## Item 8
-### [[cold]][[magical]]
+### [[3-Rules/Trait Reference/C/cold]][[magical]]
 
 
 **Price** 500 gp; 

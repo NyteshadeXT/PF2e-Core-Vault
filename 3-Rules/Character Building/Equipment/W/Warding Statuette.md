@@ -12,7 +12,7 @@ license: OGL
 ---
 # Warding Statuette
 ## Item 7
-### [[force]][[magical]][[spellheart]]
+### [[3-Rules/Trait Reference/F/force]][[magical]][[spellheart]]
 
 
 **Price** 325 gp; 

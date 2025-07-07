@@ -17,7 +17,7 @@ license: OGL
 ---
 # Sulfur Bomb (Major)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]][[olfactory]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/acid]][[alchemical]][[bomb]][[consumable]][[olfactory]][[splash]]
 
 |  |  |
 | -- | -- |

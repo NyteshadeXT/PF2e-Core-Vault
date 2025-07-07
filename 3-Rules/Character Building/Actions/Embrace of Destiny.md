@@ -13,7 +13,7 @@ license: ORC
 ---
 # Embrace of Destiny `pf2:1`
 
-### [[mental]][[spirit]][[transcendence]]
+### [[3-Rules/Trait Reference/M/mental]][[spirit]][[transcendence]]
 
 
 

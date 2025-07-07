@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sprite Apple (Chartreuse)
 ## Item 5
-### [[alchemical]][[consumable]][[light]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/L/light]]
 
 **Category** other; 
 **Price** 26 gp; 

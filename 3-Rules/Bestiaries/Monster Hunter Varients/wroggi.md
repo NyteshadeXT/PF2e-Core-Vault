@@ -87,7 +87,7 @@ rarity: common
 | Part Name         | Trait Tags                           | Harvest DC | Yield (Units) | Use Type         | Notes                                                       |
 |-------------------|---------------------------------------|------------|----------------|------------------|--------------------------------------------------------------|
 | Wroggi Scale      | [[hide]], [[resilient]], [[natural]]  | DC 16      | 1d4            | Armor            | Thin but flexible scale plating used in hidework             |
-| Minor Venom Gland | [[poison]], [[alchemical]], [[core]]  | DC 18      | 1d2            | Consumable Core  | Milder venom suitable for darts or light blade toxins        |
+| Minor Venom Gland | [[3-Rules/Trait Reference/P/poison]], [[alchemical]], [[core]]  | DC 18      | 1d2            | Consumable Core  | Milder venom suitable for darts or light blade toxins        |
 | Curved Fang       | [[bite]], [[offense]], [[toxic]]      | DC 17      | 1d3            | Weapon Additive  | Often used in daggers, short blades, or blowdart weapons     |
 | Neck Frill        | [[display]], [[illusion]], [[focus]]  | DC 16      | 1d2            | Magical Focus    | Colored frill vibrates when agitated; used in distraction magic|
 | Viscid Residue    | [[slick]], [[alchemical]], [[coating]]| DC 16      | 1d2            | Alchemical Coating| Slippery ooze that can be refined into escape salves         |

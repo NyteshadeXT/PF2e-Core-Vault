@@ -14,7 +14,7 @@ license: OGL
 ---
 # Appeal to Shadowy Intruders `pf2:2`
 
-### [[auditory]][[concentrate]][[linguistic]][[mental]]
+### [[auditory]][[concentrate]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** interaction; 
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scour
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** drug; 
 **Price** 80 gp; 

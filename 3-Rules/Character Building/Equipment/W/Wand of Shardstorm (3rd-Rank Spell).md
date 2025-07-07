@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Shardstorm (3rd-Rank Spell)
 ## Item 9
-### [[force]][[magical]][[wand]]
+### [[3-Rules/Trait Reference/F/force]][[magical]][[wand]]
 
 
 **Price** 700 gp; 

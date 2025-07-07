@@ -17,7 +17,7 @@ license: OGL
 ---
 # Immolation Clan Pistol
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[dwarf]][[fatal-d10]][[fire]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[dwarf]][[fatal-d10]][[3-Rules/Trait Reference/F/fire]][[magical]]
 
 |  |  |
 | -- | -- |

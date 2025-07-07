@@ -1,30 +1,19 @@
 ---
 title: "Air"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Air"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.rd7xsKAetobgf3sE
-tags:
-  - JournalEntryPage
 ---
 
-# Air
-AIR
-
-EVOCATION
-
-MAGICAL
-
-**Type** Weapon
+# Weapon Imbuement: Air
+[[3-Rules/Trait Reference/A/air|Air]] [[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have the air trait or an attack or spell with the air trait.
-
-* * *
-
 **Effect** You imbue the weapon with slicing blades of wind.
 
 * * *
 
-**Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or primal.
+### Path: Magic  
+*Choose when you first imbue the weapon for the granted spells to be either arcane or primal.*
 
 *   **2nd** The weapon can cast _[[Gale Blast|gale blast]]_ as a cantrip, heightened to half the item's level rounded up.
 *   **4th** The weapon can cast _[[Gust of Wind|gust of wind]]_ once per day.
@@ -39,8 +28,7 @@ MAGICAL
 
 * * *
 
-**Path** Might
-
+### Path: Might
 *   **4th** Strikes with the weapon deal 1 additional slashing damage from blades of wind; this additional damage has the air trait.
 *   **6th** The additional slashing damage increases to 1d4.
 *   **8th** The additional slashing damage increases to 1d6. On a critical hit, you can push the target up to 5 feet away from you.
@@ -51,8 +39,7 @@ MAGICAL
 
 * * *
 
-**Path** Technique
-
+### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent slashing damage as blades of wind surround and slash them; this additional damage has the air trait.
 *   **6th** Strikes with the weapon deal 1 additional slashing damage from blades of wind; this additional damage has the air trait.
 *   **8th** The persistent slashing damage on a hit increases to 1d6. On a critical hit, you can push the target up to 5 feet away from you.

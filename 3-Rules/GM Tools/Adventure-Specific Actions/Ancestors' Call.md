@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ancestors' Call `pf2:1`
 
-### [[dwarf]][[mental]]
+### [[dwarf]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

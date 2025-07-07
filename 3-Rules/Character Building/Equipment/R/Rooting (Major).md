@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rooting (Major)
 ## Item 15
-### [[magical]][[plant]][[wood]]
+### [[magical]][[plant]][[Wood]]
 
 
 **Price** 6500 gp; 

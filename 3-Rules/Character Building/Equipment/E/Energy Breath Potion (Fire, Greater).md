@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Fire, Greater)
 ## Item 17
-### [[consumable]][[fire]][[magical]][[potion]]
+### [[consumable]][[3-Rules/Trait Reference/F/fire]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

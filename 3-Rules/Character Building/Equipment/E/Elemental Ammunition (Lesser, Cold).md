@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Lesser, Cold)
 ## Item 1
-### [[alchemical]][[cold]][[consumable]][[splash]]
+### [[alchemical]][[3-Rules/Trait Reference/C/cold]][[consumable]][[splash]]
 
 **Category** ammo; 
 **Price** 3 gp; 

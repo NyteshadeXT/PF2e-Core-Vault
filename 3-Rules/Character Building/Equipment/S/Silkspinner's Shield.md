@@ -11,7 +11,7 @@ license: OGL
 ---
 # Silkspinner's Shield
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 6000 gp; 

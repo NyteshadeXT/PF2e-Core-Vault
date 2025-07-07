@@ -15,7 +15,7 @@ license: OGL
 ---
 # Yellow Musk Poison
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[mental]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 7 gp; 

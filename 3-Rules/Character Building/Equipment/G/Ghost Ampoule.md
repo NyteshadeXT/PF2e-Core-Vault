@@ -18,7 +18,7 @@ license: OGL
 ---
 # Ghost Ampoule
 ## Item 4
-### [[alchemical]][[auditory]][[consumable]][[divine]][[emotion]][[expandable]][[fear]][[mental]]
+### [[alchemical]][[auditory]][[consumable]][[divine]][[emotion]][[expandable]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** other; 
 **Price** 20 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Inspiring Spotlight (Mounted)
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[light]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/L/light]][[magical]]
 
 
 **Price** 650 gp; 

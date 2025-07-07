@@ -14,7 +14,7 @@ license: ORC
 ---
 # Cryomister (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cold]][[consumable]][[gadget]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/C/cold]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 3 gp; 

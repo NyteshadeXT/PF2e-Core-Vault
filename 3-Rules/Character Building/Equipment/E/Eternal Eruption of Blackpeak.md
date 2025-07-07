@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Blackpeak
 ## Item 7
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 360 gp; 

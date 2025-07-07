@@ -13,7 +13,7 @@ license: OGL
 ---
 # Skagappa
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** other; 
 **Price** 18 gp; 

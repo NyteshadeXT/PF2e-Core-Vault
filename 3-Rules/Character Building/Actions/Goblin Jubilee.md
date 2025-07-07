@@ -14,7 +14,7 @@ license: ORC
 ---
 # Goblin Jubilee `pf2:3`
 
-### [[fire]][[sonic]][[visual]]
+### [[3-Rules/Trait Reference/F/fire]][[3-Rules/Trait Reference/S/sonic]][[visual]]
 
 **Category** offensive; 
 

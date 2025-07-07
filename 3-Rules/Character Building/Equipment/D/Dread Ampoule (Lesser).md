@@ -20,7 +20,7 @@ license: ORC
 ---
 # Dread Ampoule (Lesser)
 ## Item 1
-### [[alchemical]][[bomb]][[consumable]][[emotion]][[fear]][[mental]][[poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

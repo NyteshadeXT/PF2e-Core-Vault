@@ -12,7 +12,7 @@ license: OGL
 ---
 # Boaster's Challenge `pf2:1`
 ## Feat 6
-### [[archetype]][[mental]]
+### [[archetype]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

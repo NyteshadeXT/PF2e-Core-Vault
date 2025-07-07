@@ -15,7 +15,7 @@ license: ORC
 ---
 # Drop of Convergent Waters
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]][[water]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[talisman]][[3-Rules/Trait Reference/W/water]]
 
 **Category** talisman; 
 **Price** 7 gp; 

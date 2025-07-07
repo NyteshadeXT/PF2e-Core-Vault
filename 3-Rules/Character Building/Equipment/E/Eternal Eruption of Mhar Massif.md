@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption of Mhar Massif
 ## Item 11
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 1400 gp; 

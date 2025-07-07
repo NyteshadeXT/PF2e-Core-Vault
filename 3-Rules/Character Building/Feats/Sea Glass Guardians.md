@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sea Glass Guardians `pf2:1`
 ## Feat 12
-### [[impulse]][[kineticist]][[primal]][[stance]][[water]]
+### [[impulse]][[kineticist]][[primal]][[stance]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

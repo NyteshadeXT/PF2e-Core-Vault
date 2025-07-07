@@ -12,7 +12,7 @@ license: OGL
 ---
 # Love
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/M/mental]][[occult]]
 
 **Category** deityboon; 
 

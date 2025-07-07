@@ -17,7 +17,7 @@ license: ORC
 ---
 # Grim Swagger `pf2:2`
 
-### [[auditory]][[emotion]][[fear]][[gunslinger]][[linguistic]][[mental]]
+### [[auditory]][[emotion]][[fear]][[gunslinger]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

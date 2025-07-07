@@ -16,7 +16,7 @@ license: ORC
 ---
 # Bestial Snarling `pf2:1`
 ## Feat 2
-### [[auditory]][[bard]][[emotion]][[fear]][[mental]]
+### [[auditory]][[bard]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

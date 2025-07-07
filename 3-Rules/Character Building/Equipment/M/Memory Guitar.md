@@ -11,7 +11,7 @@ license: OGL
 ---
 # Memory Guitar
 ## Item 4
-### [[magical]][[mental]]
+### [[magical]][[3-Rules/Trait Reference/M/mental]]
 
 
 **Price** 100 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Storm Chair
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[electricity]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/E/electricity]][[magical]]
 
 
 **Price** 4400 gp; 

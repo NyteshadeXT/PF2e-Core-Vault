@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spiritual Warhorn (Lesser)
 ## Item 5
-### [[consumable]][[force]][[magical]]
+### [[consumable]][[3-Rules/Trait Reference/F/force]][[magical]]
 
 **Category** other; 
 **Price** 30 gp; 

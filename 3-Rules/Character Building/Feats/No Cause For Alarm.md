@@ -18,7 +18,7 @@ license: ORC
 ---
 # No Cause for Alarm `pf2:3`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[mental]][[skill]]
+### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[3-Rules/Trait Reference/M/mental]][[skill]]
 
 **Category** skill; 
 

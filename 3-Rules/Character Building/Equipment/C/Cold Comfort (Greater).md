@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cold Comfort (Greater)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[cold]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[3-Rules/Trait Reference/C/cold]][[consumable]]
 
 **Category** other; 
 **Price** 1300 gp; 

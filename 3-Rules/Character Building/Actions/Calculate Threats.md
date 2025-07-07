@@ -13,7 +13,7 @@ license: OGL
 ---
 # Calculate Threats `pf2:1`
 
-### [[mental]][[psyche]][[psychic]]
+### [[3-Rules/Trait Reference/M/mental]][[psyche]][[psychic]]
 
 **Category** defensive; 
 

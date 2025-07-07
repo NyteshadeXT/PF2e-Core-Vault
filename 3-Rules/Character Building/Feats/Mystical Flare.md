@@ -16,7 +16,7 @@ license: ORC
 ---
 # Mystical Flare `pf2:1`
 ## Feat 16
-### [[concentrate]][[light]][[mythic]][[spellshape]][[visual]]
+### [[concentrate]][[3-Rules/Trait Reference/L/light]][[mythic]][[spellshape]][[visual]]
 
 **Category** class; 
 

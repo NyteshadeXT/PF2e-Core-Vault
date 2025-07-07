@@ -13,7 +13,7 @@ license: ORC
 ---
 # Student of Water
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

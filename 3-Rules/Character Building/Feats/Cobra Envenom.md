@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cobra Envenom `pf2:1`
 ## Feat 10
-### [[monk]][[poison]]
+### [[monk]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** class; 
 

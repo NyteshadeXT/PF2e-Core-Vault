@@ -1,23 +1,13 @@
 ---
 title: "Throwing"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Throwing"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.FfJ42pzqI7A6RGmt
-tags:
-  - JournalEntryPage
 ---
 
-# Throwing
-EVOCATION
-
-MAGICAL
-
-**Type** Weapon
+# Weapon Imbuement: Throwing
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have a ranged unarmed attack or Rock Throwing or a similar ability.
-
-* * *
-
 **Effect** You imbue the weapon with advantages when thrown, such as the power to return to you when you throw it.
 
 * * *
@@ -29,13 +19,8 @@ MAGICAL
 *   **10th** The weapon's range increment increases by 20 feet, instead of 10 feet.
 *   **12th** When you throw the weapon, it spins with whirling blades or creates a shockwave nearby, dealing 1 splash damage of the weapon's normal type to the target and all adjacent creatures. As normal for splash damage, this damage is combined together against the target on a hit, and it also applies on a failed Strike, but not on a critical failure.
 *   **14th** The weapon's range increment increases by 30 feet, instead of 20 feet.
-*   **16th** The weapon gains the following activation:
-    
-    **Activate** 3 command, envision
-    
+*   **16th** The weapon gains the following activation:    
     **Frequency** once per day
-    
-    **Effect** You spin around, launching myriad duplicates of your weapon at foes all around you. Make thrown Strikes against all foes within 30 feet. These Strikes don't increase your multiple attack penalty until after you've finished making all of them.
-    
+	`pf2:3`  ([[envision]])  **Effect** You spin around, launching myriad duplicates of your weapon at foes all around you. Make thrown Strikes against all foes within 30 feet. These Strikes don't increase your multiple attack penalty until after you've finished making all of them.
 *   **18th** The weapon's range increment increases by 40 feet, instead of 30 feet.
 *   **20th** When you make a thrown Strike with the weapon against a foe, instead of having the weapon return to you, you can choose to hold onto the weapon and have it pull you through the air to the nearest available space to your target along the path of the throw.

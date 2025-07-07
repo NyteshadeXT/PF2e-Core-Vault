@@ -1,30 +1,19 @@
 ---
 title: "Darkness"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Darkness"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.62kH14jf2p0c5U86
-tags:
-  - JournalEntryPage
 ---
 
-# Darkness
-DARKNESS
-
-EVOCATION
-
-MAGICAL
-
-**Type** Weapon
+# Weapon Imbuement: Darkness
+[[3-Rules/Trait Reference/D/darkness|Darkness]] [[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have an attack or spell with the darkness trait.
-
-* * *
-
 **Effect** You imbue the weapon with creeping darkness.
 
 * * *
 
-**Path** Magic; Choose when you first imbue the weapon for the granted spells to be either arcane or divine.
+### Path: Magic  
+*Choose when you first imbue the weapon for the granted spells to be either arcane or divine.*
 
 *   **2nd** The weapon gains a two-action Interact and command activation allowing it to attempt to counteract the _[[3-Rules/Character Building/Spells/L/Light|light]]_ cantrip (but not other light effects) with a counteract level equal to half the item's level rounded up.
 *   **4th** The weapon can cast _[[Penumbral Shroud|penumbral shroud]]_ once per day.
@@ -39,8 +28,7 @@ MAGICAL
 
 * * *
 
-**Path** Might
-
+### Path: Might
 *   **4th** Strikes with the weapon deal 1 additional cold damage as the darkness saps warmth; this additional damage has the darkness trait.
 *   **6th** The additional cold damage increases to 1d4.
 *   **8th** The additional cold damage increases to 1d6. On a critical hit, darkness shrouds the target's vision, causing everything around it to be concealed to it unless it has darkvision.
@@ -50,9 +38,8 @@ MAGICAL
 *   **20th** On a successful Strike with the weapon, before applying the additional cold damage, the target gains weakness 1 to darkness until the beginning of your next turn.
 
 * * *
-
-**Path** Technique
-
+ 
+### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent cold damage as encroaching darkness slowly drains their warmth away; this additional damage has the darkness trait.
 *   **6th** Strikes with the weapon deal 1 additional cold damage as the darkness saps warmth; this additional damage has the darkness trait.
 *   **8th** The persistent cold damage on a hit increases to 1d6. On a critical hit, darkness shrouds the target's vision, causing everything around it to be concealed to it unless it has darkvision.

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Windborne Platform
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/air]][[magical]]
 
 
 **Price** 500 gp; 

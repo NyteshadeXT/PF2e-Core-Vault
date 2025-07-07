@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spell-Eating Pitch
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 325 gp; 

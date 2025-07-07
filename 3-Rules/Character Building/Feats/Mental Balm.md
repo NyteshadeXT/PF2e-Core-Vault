@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mental Balm
 ## Feat 2
-### [[amp]][[emotion]][[mental]][[psychic]]
+### [[amp]][[emotion]][[3-Rules/Trait Reference/M/mental]][[psychic]]
 
 **Category** class; 
 

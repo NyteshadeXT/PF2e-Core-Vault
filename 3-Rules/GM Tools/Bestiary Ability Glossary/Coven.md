@@ -13,7 +13,7 @@ license: ORC
 ---
 # Coven
 
-### [[mental]][[occult]]
+### [[3-Rules/Trait Reference/M/mental]][[occult]]
 
 **Category** interaction; 
 

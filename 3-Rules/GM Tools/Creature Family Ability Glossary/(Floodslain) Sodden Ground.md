@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Floodslain) Sodden Ground
 
-### [[aura]][[occult]][[water]]
+### [[aura]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** offensive; 
 

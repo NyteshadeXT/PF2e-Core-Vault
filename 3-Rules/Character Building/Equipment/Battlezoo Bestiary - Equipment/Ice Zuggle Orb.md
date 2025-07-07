@@ -15,7 +15,7 @@ license: OGL
 ---
 # Ice Zuggle Orb
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[cold]][[consumable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[3-Rules/Trait Reference/C/cold]][[consumable]]
 
 |  |  |
 | -- | -- |

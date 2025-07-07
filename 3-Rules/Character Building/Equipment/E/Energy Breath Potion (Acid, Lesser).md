@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Acid, Lesser)
 ## Item 7
-### [[acid]][[consumable]][[magical]][[potion]]
+### [[3-Rules/Trait Reference/A/acid]][[consumable]][[magical]][[potion]]
 
 **Category** potion; 
 **Price** 70 gp; 

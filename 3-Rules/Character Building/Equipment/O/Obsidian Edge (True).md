@@ -17,7 +17,7 @@ license: OGL
 ---
 # Obsidian Edge (True)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fire]][[kickback]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[3-Rules/Trait Reference/F/fire]][[kickback]][[magical]]
 
 |  |  |
 | -- | -- |

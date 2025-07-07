@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter
 ## Item 11
-### [[magical]][[sweep]][[wood]]
+### [[magical]][[sweep]][[Wood]]
 
 |  |  |
 | -- | -- |

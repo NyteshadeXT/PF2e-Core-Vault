@@ -15,7 +15,7 @@ license: ORC
 ---
 # Cave Worm Venom
 ## Item 12
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 500 gp; 

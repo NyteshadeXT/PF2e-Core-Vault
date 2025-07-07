@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spun Cloud (Red)
 ## Item 8
-### [[air]][[bottled-breath]][[consumable]][[magical]]
+### [[3-Rules/Trait Reference/A/air]][[bottled-breath]][[consumable]][[magical]]
 
 **Category** other; 
 **Price** 100 gp; 

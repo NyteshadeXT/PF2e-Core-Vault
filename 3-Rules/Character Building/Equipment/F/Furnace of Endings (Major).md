@@ -12,7 +12,7 @@ license: OGL
 ---
 # Furnace of Endings (Major)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[invested]][[magical]]
 
 
 **Price** 3000 gp; 

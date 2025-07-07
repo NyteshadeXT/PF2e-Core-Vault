@@ -14,7 +14,7 @@ license: OGL
 ---
 # Draconic Toxin Bottle
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[air]][[consumable]][[cursed]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/A/air]][[consumable]][[cursed]][[magical]]
 
 **Category** other; 
 **Price** 0 gp; 

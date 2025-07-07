@@ -13,7 +13,7 @@ license: ORC
 ---
 # Enter Spirit Trance `pf2:1`
 
-### [[concentrate]][[divine]][[mental]]
+### [[concentrate]][[divine]][[3-Rules/Trait Reference/M/mental]]
 
 
 

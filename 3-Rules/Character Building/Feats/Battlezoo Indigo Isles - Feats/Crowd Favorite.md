@@ -16,7 +16,7 @@ license: OGL
 ---
 # Crowd Favorite
 ## Feat 12
-### [[archetype]][[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]]
+### [[archetype]][[auditory]][[concentrate]][[emotion]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

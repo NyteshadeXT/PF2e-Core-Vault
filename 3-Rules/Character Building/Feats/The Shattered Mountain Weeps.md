@@ -16,7 +16,7 @@ license: OGL
 ---
 # The Shattered Mountain Weeps `pf2:3`
 ## Feat 18
-### [[earth]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[3-Rules/Trait Reference/E/earth]][[impulse]][[kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 

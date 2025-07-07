@@ -15,7 +15,7 @@ license: ORC
 ---
 # Comprehension Elixir (Lesser)
 ## Item 2
-### [[alchemical]][[consumable]][[elixir]][[mental]]
+### [[alchemical]][[consumable]][[elixir]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** elixir; 
 **Price** 7 gp; 

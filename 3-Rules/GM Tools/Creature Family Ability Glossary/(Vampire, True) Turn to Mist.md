@@ -15,7 +15,7 @@ license: ORC
 ---
 # (Vampire, True) Turn to Mist `pf2:1`
 
-### [[air]][[concentrate]][[divine]][[polymorph]]
+### [[3-Rules/Trait Reference/A/air]][[concentrate]][[divine]][[polymorph]]
 
 **Category** offensive; 
 

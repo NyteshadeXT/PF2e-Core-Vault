@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dreaming Round
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[incapacitation]][[magical]][[mental]][[sleep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[incapacitation]][[magical]][[3-Rules/Trait Reference/M/mental]][[sleep]]
 
 **Category** ammo; 
 **Price** 900 gp; 

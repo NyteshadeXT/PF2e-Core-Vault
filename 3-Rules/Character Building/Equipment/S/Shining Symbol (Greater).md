@@ -13,7 +13,7 @@ license: ORC
 ---
 # Shining Symbol (Greater)
 ## Item 9
-### [[divine]][[invested]][[light]]
+### [[divine]][[invested]][[3-Rules/Trait Reference/L/light]]
 
 
 **Price** 650 gp; 

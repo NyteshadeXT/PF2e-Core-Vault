@@ -14,7 +14,7 @@ license: OGL
 ---
 # Visions of Sin `pf2:2`
 
-### [[divine]][[eidolon]][[emotion]][[mental]]
+### [[divine]][[eidolon]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

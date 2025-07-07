@@ -17,7 +17,7 @@ license: OGL
 ---
 # Sticky Algae Bomb (Major)
 ## Item 17
-### [[alchemical]][[bomb]][[consumable]][[splash]][[water]]
+### [[alchemical]][[bomb]][[consumable]][[splash]][[3-Rules/Trait Reference/W/water]]
 
 |  |  |
 | -- | -- |

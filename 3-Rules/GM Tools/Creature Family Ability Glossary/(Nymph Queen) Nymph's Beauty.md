@@ -16,7 +16,7 @@ license: ORC
 ---
 # (Nymph Queen) Nymph's Beauty
 
-### [[aura]][[emotion]][[mental]][[primal]][[visual]]
+### [[aura]][[emotion]][[3-Rules/Trait Reference/M/mental]][[primal]][[visual]]
 
 **Category** defensive; 
 

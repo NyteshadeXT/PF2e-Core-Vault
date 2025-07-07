@@ -13,7 +13,7 @@ license: ORC
 ---
 # I Defy You! `pf2:r`
 
-### [[fortune]][[mental]]
+### [[fortune]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** defensive; 
 

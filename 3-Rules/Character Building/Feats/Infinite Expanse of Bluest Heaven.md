@@ -19,7 +19,7 @@ license: OGL
 ---
 # Infinite Expanse of Bluest Heaven `pf2:3`
 ## Feat 18
-### [[air]][[illusion]][[impulse]][[kineticist]][[mental]][[overflow]][[primal]][[visual]]
+### [[3-Rules/Trait Reference/A/air]][[illusion]][[impulse]][[kineticist]][[3-Rules/Trait Reference/M/mental]][[overflow]][[primal]][[visual]]
 
 **Category** class; 
 

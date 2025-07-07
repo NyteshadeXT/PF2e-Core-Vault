@@ -15,7 +15,7 @@ license: OGL
 ---
 # Radiant Burst `pf2:2`
 ## Feat 13
-### [[fire]][[incapacitation]][[light]][[naari]][[visual]]
+### [[3-Rules/Trait Reference/F/fire]][[incapacitation]][[3-Rules/Trait Reference/L/light]][[naari]][[visual]]
 
 **Category** ancestry; 
 

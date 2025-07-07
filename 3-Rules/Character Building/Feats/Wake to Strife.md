@@ -14,7 +14,7 @@ license: ORC
 ---
 # Wake to Strife `pf2:2`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[occult]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[occult]][[3-Rules/Trait Reference/W/water]]
 
 **Category** class; 
 

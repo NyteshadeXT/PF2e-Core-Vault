@@ -12,7 +12,7 @@ license: OGL
 ---
 # Passion `pf2:2`
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[fire]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[3-Rules/Trait Reference/F/fire]][[occult]]
 
 **Category** deityboon; 
 

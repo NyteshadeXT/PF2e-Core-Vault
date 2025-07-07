@@ -14,7 +14,7 @@ license: OGL
 ---
 # Scarlet Mist
 ## Item 8
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[3-Rules/Trait Reference/P/poison]]
 
 **Category** poison; 
 **Price** 80 gp; 

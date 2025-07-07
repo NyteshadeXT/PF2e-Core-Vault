@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Ammunition (Lesser, Electricity)
 ## Item 1
-### [[alchemical]][[consumable]][[electricity]][[splash]]
+### [[alchemical]][[consumable]][[3-Rules/Trait Reference/E/electricity]][[splash]]
 
 **Category** ammo; 
 **Price** 3 gp; 

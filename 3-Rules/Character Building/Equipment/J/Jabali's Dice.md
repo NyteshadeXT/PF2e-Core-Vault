@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jabali's Dice
 ## Item 12
-### [[earth]][[magical]]
+### [[3-Rules/Trait Reference/E/earth]][[magical]]
 
 
 **Price** 1800 gp; 

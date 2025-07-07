@@ -14,7 +14,7 @@ license: ORC
 ---
 # Spark Fist `pf2:1`
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[fire]][[manipulate]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[3-Rules/Trait Reference/F/fire]][[manipulate]]
 
 **Category** ancestry; 
 

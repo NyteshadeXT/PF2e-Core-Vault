@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Martial Artist) Blazing Gate `pf2:2`
 
-### [[electricity]]
+### [[3-Rules/Trait Reference/E/electricity]]
 
 **Category** offensive; 
 

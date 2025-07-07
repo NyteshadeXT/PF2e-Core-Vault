@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Eruption
 ## Item 5
-### [[fire]][[magical]]
+### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
 
 **Price** 160 gp; 

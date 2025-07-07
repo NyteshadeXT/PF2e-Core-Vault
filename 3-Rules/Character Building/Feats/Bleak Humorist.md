@@ -15,7 +15,7 @@ license: ORC
 ---
 # Bleak Humorist `pf2:r`
 ## Feat 12
-### [[archetype]][[emotion]][[linguistic]][[mental]]
+### [[archetype]][[emotion]][[linguistic]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

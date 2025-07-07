@@ -16,7 +16,7 @@ license: OGL
 ---
 # Trueshape Bomb (Greater)
 ## Item 18
-### [[alchemical]][[bomb]][[consumable]][[poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[3-Rules/Trait Reference/P/poison]][[splash]]
 
 |  |  |
 | -- | -- |

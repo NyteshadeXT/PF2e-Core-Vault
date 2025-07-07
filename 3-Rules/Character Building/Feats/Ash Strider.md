@@ -19,7 +19,7 @@ license: OGL
 ---
 # Ash Strider `pf2:2`
 ## Feat 6
-### [[air]][[composite]][[fire]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
+### [[3-Rules/Trait Reference/A/air]][[composite]][[3-Rules/Trait Reference/F/fire]][[impulse]][[kineticist]][[overflow]][[polymorph]][[primal]]
 
 **Category** class; 
 

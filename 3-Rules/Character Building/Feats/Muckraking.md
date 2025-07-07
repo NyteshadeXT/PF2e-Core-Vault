@@ -16,7 +16,7 @@ license: ORC
 ---
 # Muckraking `pf2:3`
 ## Feat 16
-### [[archetype]][[auditory]][[concentrate]][[emotion]][[mental]]
+### [[archetype]][[auditory]][[concentrate]][[emotion]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** class; 
 

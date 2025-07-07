@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shadow Ash
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[catalyst]][[cold]][[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[catalyst]][[3-Rules/Trait Reference/C/cold]][[consumable]][[magical]]
 
 **Category** catalyst; 
 **Price** 750 gp; 

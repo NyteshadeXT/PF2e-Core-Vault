@@ -14,7 +14,7 @@ license: OGL
 ---
 # Skyrider Sword (Greater)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[magical]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/A/air]][[magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

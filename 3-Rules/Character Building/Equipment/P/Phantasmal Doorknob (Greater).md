@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phantasmal Doorknob (Greater)
 ## Item 10
-### [[emotion]][[magical]][[mental]][[spellheart]]
+### [[emotion]][[magical]][[3-Rules/Trait Reference/M/mental]][[spellheart]]
 
 
 **Price** 900 gp; 

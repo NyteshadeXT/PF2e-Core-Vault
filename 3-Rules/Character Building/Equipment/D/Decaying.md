@@ -13,7 +13,7 @@ license: ORC
 ---
 # Decaying
 ## Item 8
-### [[acid]][[magical]][[void]]
+### [[3-Rules/Trait Reference/A/acid]][[magical]][[void]]
 
 
 **Price** 500 gp; 

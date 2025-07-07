@@ -1,39 +1,20 @@
 ---
 title: "Mirrored"
-icon: ":sticky-note:"
+cssclass: PF2eBZTrait
 aliases: "Mirrored"
-foundryId: Compendium.battlezoo-bestiary-su-pf2e.pf2e-battlezoo-su-monster-parts.JournalEntry.JbErDkeBQUxkKo2b.JournalEntryPage.oFk10EiCrox8KPiF
-tags:
-  - JournalEntryPage
 ---
 
-# Mirrored
-ABJURATION
-
-MAGICAL
-
-**Type** Shield
+# Shield Imbuement: Mirrored
+[[3-Rules/Trait Reference/M/magical|Magical]]
 
 **Parts** The monster must have a status bonus on saves against magic, golem antimagic, or an ability to counter or reflect magic or ranged attacks, such as Counterspell or spell turning.
-
-* * *
-
 **Effect** You imbue the shield with reflective power.
 
 * * *
 
-*   **2nd** The shield gains the following activation:
-    
-    **Activate** r command
-    
-    **Frequency** once per day
-    
-    **Trigger** A foe's ranged Strike critically fails against you
-    
-    **Requirements** The shield with the mirrored imbued property is raised
-    
-    **Effect** You turn a poorly aimed attack back at your foe. Reroll the triggering Strike against the foe who made it, using either the same attack bonus the foe made with that Strike or your most accurate ranged attack bonus with a weapon or unarmed attack, whichever is lower. On a success, the foe suffers the full effect of the reflected attack.
-    
+*   **2nd** The shield gains the following activation:   
+    **Frequency** once per day  **Trigger** A foe's ranged Strike critically fails against you **Requirements** The shield with the mirrored imbued property is raised
+    `pf2:r`  **Effect** You turn a poorly aimed attack back at your foe. Reroll the triggering Strike against the foe who made it, using either the same attack bonus the foe made with that Strike or your most accurate ranged attack bonus with a weapon or unarmed attack, whichever is lower. On a success, the foe suffers the full effect of the reflected attack.
 *   **4th** The shield's activation gains a frequency of once per hour instead of once per day.
 *   **6th** The activation uses the higher of the same attack bonus the foe made with the triggering Strike or your own ranged attack bonus, instead of the lower.
 *   **10th** The trigger changes to "A foe's ranged Strike or ranged spell attack roll critically fails against you," allowing you to use the activation against spells in addition to Strikes. When reflecting a spell, you can choose to use your spell attack bonus on the reflected attack roll if it's higher than the other two options.

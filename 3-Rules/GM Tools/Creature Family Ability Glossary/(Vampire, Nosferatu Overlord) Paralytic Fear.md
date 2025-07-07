@@ -15,7 +15,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Paralytic Fear `pf2:1`
 
-### [[divine]][[emotion]][[fear]][[incapacitation]][[mental]]
+### [[divine]][[emotion]][[fear]][[incapacitation]][[3-Rules/Trait Reference/M/mental]]
 
 **Category** offensive; 
 

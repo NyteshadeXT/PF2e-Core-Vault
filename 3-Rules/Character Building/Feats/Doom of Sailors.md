@@ -18,7 +18,7 @@ license: ORC
 ---
 # Doom of Sailors `pf2:2`
 ## Feat 17
-### [[auditory]][[concentrate]][[emotion]][[fear]][[mental]][[merfolk]][[primal]]
+### [[auditory]][[concentrate]][[emotion]][[fear]][[3-Rules/Trait Reference/M/mental]][[merfolk]][[primal]]
 
 **Category** ancestry; 
 
