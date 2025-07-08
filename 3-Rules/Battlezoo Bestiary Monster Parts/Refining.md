@@ -1,7 +1,8 @@
 ---
-title: "Refining"
-aliases: "Refining"
-noteType: pf2erule
+title: Refining
+aliases:
+  - Refining
+noteType: pf2eRule
 ---
 
 # Refining
@@ -20,7 +21,7 @@ If your party doesn't decide to use the monster parts right after gathering, it'
 While there's no need to keep track of every monster that provided the parts you used to refine your items, you might want to consider noting particular powerful or memorable monsters whose parts you include in an item by changing the item's name to incorporate the monster's name, typically appended at the end. For instance, if you incorporated jabberwock parts in your greatsword, you might add "of the jabberwock" to the end of the item's name, or if you incorporated ancient red dragon parts, you might add "of the crimson wyrm."
 
 ## Refining Details
-The five main categories of items you can refine are weapons, armor, shields, Perception items, and skill items. You can refine an item with monster parts, causing the item to increase in value. Refined items level up when the total value of monster parts used to refine them reaches set thresholds, and as you keep refining and leveling up your items, they grant additional benefits. Use [[Table 3A_ Refinement Costs by Item Level (Weapons and Armor)|Table 3A: Refinement Costs by Item Level (Weapons and Armor)]]} and [[Table 3B_ Refinement Cost by Item Level (Shields, Perception Items, and Skill Items)|Table 3B: Refinement Cost by Item Level (Shields]] to determine the total value of monster parts needed to level up your items. Tables 4A through 4E list the benefits each type of item grants based upon its level. In addition to these specific benefits, increasing an item's level also increases your options when imbuing the item. You can't refine an item to a level above your character's level, but you can refine additional monster parts to an item to increase its value towards the next level. If you refine enough parts into an item in which your character level is the only limitation preventing it from leveling up, the item levels up as soon as your character does.
+The five main categories of items you can refine are weapons, armor, shields, Perception items, and skill items. You can refine an item with monster parts, causing the item to increase in value. Refined items level up when the total value of monster parts used to refine them reaches set thresholds, and as you keep refining and leveling up your items, they grant additional benefits. Use [[Table 3A_ Refinement Costs by Item Level (Weapons and Armor)|Table 3A: Refinement Costs by Item Level (Weapons and Armor)]]} and [[Tables - Refinement Cost by Item Level|Table 3B: Refinement Cost by Item Level (Shields]] to determine the total value of monster parts needed to level up your items. Tables 4A through 4E list the benefits each type of item grants based upon its level. In addition to these specific benefits, increasing an item's level also increases your options when imbuing the item. You can't refine an item to a level above your character's level, but you can refine additional monster parts to an item to increase its value towards the next level. If you refine enough parts into an item in which your character level is the only limitation preventing it from leveling up, the item levels up as soon as your character does.
 
 ## Salvaging and Transferring
 ![[modules/battlezoo-bestiary-su-pf2e/art/Equipment/beast_hammer.webp]]
@@ -39,7 +40,7 @@ An item is either built and upgraded using this system or the normal rules for m
 ## Refining Weapons
 ![Beast axe](modules/battlezoo-bestiary-su-pf2e/art/Equipment/beast_axe.webp) 
 
-To refine a weapon (or _handwraps of mighty blows_), you need monster parts from a monster with an unarmed attack that matches the weapon's physical damage type (bludgeoning, piercing, or slashing). If a weapon has the versatile or modular traits, you can use monster parts from monsters with unarmed attacks matching any of the weapon's different damage types. Refining a weapon grants the following benefits, as shown on [[Table 4A_ Refinement Benefits by Level (Weapon)|Table 4A: Refinement Benefits by Level (Weapon)]]}.
+To refine a weapon (or _handwraps of mighty blows_), you need monster parts from a monster with an unarmed attack that matches the weapon's physical damage type (bludgeoning, piercing, or slashing). If a weapon has the versatile or modular traits, you can use monster parts from monsters with unarmed attacks matching any of the weapon's different damage types. Refining a weapon grants the following benefits, as shown on [[Tables - Refinement Benefits by Level|Table 4A: Refinement Benefits by Level (Weapon)]]}.
 
 **Item Bonus to Attack Rolls** The weapon grants you the listed item bonus to attack rolls.
 

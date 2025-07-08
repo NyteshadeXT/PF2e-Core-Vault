@@ -11,10 +11,14 @@
             "id": "f1b62992fc2b6646",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/B/blade-of-four-energies.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "blade-of-four-energies"
             }
           },
           {
@@ -86,23 +90,8 @@
               "icon": "lucide-file",
               "title": "wroggi"
             }
-          },
-          {
-            "id": "5c2c340e5e71f565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Variant_ Relic Imbuing"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -369,34 +358,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c2c340e5e71f565",
+  "active": "f1b62992fc2b6646",
   "lastOpenFiles": [
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wood.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wisdom.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Winged.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wild.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Water.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Throwing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sturdy.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Strength.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spiked.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spell.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sensory.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sonic.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Positive.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Poison.md",
-    "3-Rules/Character Building/Spells/P/Puff of Poison.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Negative.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Mirrored.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Elongating.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Electricity.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Earth.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Dexterity.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Darkness.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Constitution.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Cold.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Charisma.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Chaotic.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-four-energies.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Afflictions/B/bone-chill.md",
+    "3-Rules/Afflictions/B/boastful-princes-scourge-da.md",
+    "3-Rules/Afflictions/B/blackfrost-gw3.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "1-GM Toolkit/Buttons.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/DM-Screen.md",
+    "1-GM Toolkit/Encounter Builder.md",
+    "1-GM Toolkit/Home.md",
+    "1-GM Toolkit/Random_Gems_Table.md",
+    "1-GM Toolkit/Random_Jewelry_Table.md",
+    "1-GM Toolkit/Vault Report.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Precious Materials and Refining.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Automatic Bonus Progression and Imbuing.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Cost by Item Level.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/The Three Variants.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Benefits by Level.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Light Variant.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Imbuing Cost by Item Level.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Hybrid Variant.md",
     "zz-Attachments/blade-byrnie.png",
     "zz-Attachments/black-tendril-shot.png",
     "zz-Attachments/black-hole-armor.png",

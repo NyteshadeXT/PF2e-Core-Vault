@@ -1,7 +1,7 @@
 ---
 title: "Variant: Relic Imbuing"
 aliases: "Variant: Relic Imbuing"
-noteType: pf2erule
+noteType: pf2eRule
 ---
 
 

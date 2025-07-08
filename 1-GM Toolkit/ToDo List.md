@@ -23,6 +23,10 @@ tags:
 - [ ] Update conditions to new template
 - [ ] Create trait template
 - [ ] Update traits to new template
+- [ ] Create an afflictions template
+- [ ] Update afflictions to new template
+- [ ] Create a hazards template
+- [ ] Update hazards to new template
 - [ ] Determine how to get Update buttons to update the active note and not create a new one
 - [ ] Determine what to do with the Random_Gems_Table and the Random_Jewelry_Table
 - [ ] Keep working on cleaning up the DM/GM Screen

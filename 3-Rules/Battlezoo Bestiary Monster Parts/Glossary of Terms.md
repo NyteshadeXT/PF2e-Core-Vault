@@ -1,6 +1,7 @@
 ---
-title: "Glossary of Terms"
-aliases: "Battlezoo - Glossary of Terms"
+title: Glossary of Terms
+aliases:
+  - Battlezoo - Glossary of Terms
 noteType: pf2eRule
 ---
 

@@ -1,7 +1,8 @@
 ---
-title: "Monster Parts Introduction"
-aliases: "Monster Parts Introduction"
-noteType: pf2erule
+title: Monster Parts Introduction
+aliases:
+  - Monster Parts Introduction
+noteType: pf2eRule
 ---
 
 # Monster Parts Introduction
