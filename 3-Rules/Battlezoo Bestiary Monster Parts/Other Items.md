@@ -1,7 +1,8 @@
 ---
-title: "Other Items"
-aliases: "Other Items"
-noteType: pf2erule
+title: Other Items
+aliases:
+  - Other Items
+noteType: pf2eRule
 ---
 
 # Other Items

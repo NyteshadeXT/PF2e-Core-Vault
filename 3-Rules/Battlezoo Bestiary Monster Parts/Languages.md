@@ -1,7 +1,8 @@
 ---
-title: "Languages"
-aliases: "Languages"
-noteType: pf2erule
+title: Languages
+aliases:
+  - Languages
+noteType: pf2eRule
 ---
 # Languages
 Some creatures in this book speak languages not found in the "Languages" section of the Pathfinder Second Edition Core Rulebook. The languages are listed below.

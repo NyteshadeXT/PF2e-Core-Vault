@@ -1,7 +1,7 @@
 ---
 title: "Variant: Precious Materials and Refining"
 aliases: "Variant: Precious Materials and Refining"
-noteType: pf2erule
+noteType: pf2eRule
 ---
 
 # Variant: Precious Materials and Refining

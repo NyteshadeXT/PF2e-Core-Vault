@@ -1,7 +1,7 @@
 ---
 title: "The Three Variants"
 aliases: "The Three Variants"
-noteType: pf2erule
+noteType: pf2eRule
 ---
 
 # The Three Variants

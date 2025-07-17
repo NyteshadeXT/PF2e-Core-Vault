@@ -1,7 +1,7 @@
 ---
-title: "Quick Start Guide for PCs
+title: Quick Start Guide for PCs
 aliases: "Quick Start Guide for PCs"
-noteType: pf2erule
+noteType: pf2eRule
 ---
 
 # Quick Start Guide for PCs
