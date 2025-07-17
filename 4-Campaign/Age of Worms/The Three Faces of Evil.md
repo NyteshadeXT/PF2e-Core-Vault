@@ -8,7 +8,7 @@ whichparty:
 adventure_status: In Progress
 adventure_level: 2
 total_xp: 2400
-completed_xp: 2020
+completed_xp: 2160
 completed_xp_log:
   - date: 2025-04-10
     xp: 300
@@ -21,6 +21,8 @@ completed_xp_log:
   - date: 2025-05-29
     xp: 230
   - date: 2025-06-12
+    xp: 140
+  - date: 2025-07-03
     xp: 140
 awarded_coin:
   - date: 2025-04-10
@@ -57,6 +59,11 @@ awarded_coin:
     pp: 0
     gp: 142
     sp: 25
+    cp: 0
+  - date: 2025-07-03
+    pp: 0
+    gp: 394
+    sp: 11
     cp: 0
 awarded_consumable_items:
   - name: Healing Potion (Minor) x2
@@ -103,6 +110,18 @@ awarded_consumable_items:
     ilvl: 4
     gp: 15
     date: 2025-06-12
+  - name: Acid Flask (Moderate)|Acid Flask (Moderate)
+    ilvl: 3
+    gp: 10
+    date: 2025-07-03
+  - name: Acid Flask (Moderate)
+    ilvl: 3
+    gp: 10
+    date: 2025-07-03
+  - name: Alchemist's Fire (Moderate) x3
+    ilvl: 3
+    gp: 10
+    date: 2025-07-03
 awarded_permanent_items:
   - name: Magic Wand (Harm)
     ilvl: 0
@@ -128,6 +147,18 @@ awarded_permanent_items:
     ilvl: 3
     gp: 60
     date: 2025-05-08
+  - name: Alchemist's Lab (Expanded)
+    ilvl: 3
+    gp: 55
+    date: 2025-07-03
+  - name: Ring of Minor Arcana]
+    ilvl: 5
+    gp: 160
+    date: 2025-07-03
+  - name: Sturdy Shield (Minor)
+    ilvl: 4
+    gp: 100
+    date: 2025-07-03
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -169,18 +200,18 @@ The Three Faces of Evil requires the PCs to sneak into Dourstone Mine, destroy [
 # Part 1: What Writhes Within
 Allustan recently unearthed increasing evidence of strange undead creatures infested with tiny green worms stalking the hills south of Diamond Lake.  He is worried that these undead creatures could represent a greave threat to [[Diamond Lake]]. Thus, he asks the adventurers to pursue the few leads he has uncovered so far.
 
-Allustan's studies show that the worms might be somehow connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by [[Ragnolin Dourstone]]. Ragnolin is known as a surly, paranoid and greedy mine manager and [[5-World/NPCs/Diamond Lake/Allustan]] fears that he may be connected to the temple if it is currently occupied.
+Allustan's studies show that the worms might be somehow connected to an ancient temple hidden beneath the earth.  According to his calculations, the temple is located beneath a copper mine owned by [[Ragnolin Dourstone]]. Ragnolin is known as a surly, paranoid and greedy mine manager and [[5-World/NPCs/Diamond Lake/Allustan|Allustan]] fears that he may be connected to the temple if it is currently occupied.
 
-[[5-World/NPCs/Diamond Lake/Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
+[[5-World/NPCs/Diamond Lake/Allustan|Allustan]] suggests that the merchant [[Balabar Smenk]] could provide a useful gateway to Ragnolin's mine.  Balabar and Ragnolin have a well know rivalry.  Neither is trustworthy, but their animosity might be enough to make Balabar open to an offer of alliance with the party.  The recover of Smenk's letter to Filge from the observatory in [[The Whispering Cairn|The Whispering Cairn]] suggests that Smenk knows more about the situation in the Dourstone Mine then he should.
 
 By the time the PCs have finished exploring [[The Whispering Cairn|The Whispering Cairn]], Smenk already hates them and wants to see them destroyed or run out of town.  Better yet, he comes upon the idea of sending them agains the cultists below the Dourstone Mine, hoping to take care of two problems at once.
 
 If the PCs don't set up a meeting with Smenk within a week of their encounter with Filge, the mine manager takes it upon himself to invite them to meet with him, ordering a subordinate to sneak into the PCs headquarters with a note setting up a rendezvous at Smenk's home in [[Diamond Lake]]. If the situation warrants it, perhaps Smenk kidnaps a PCs familiar just to show them that they're dealing with a professional criminal.
 
-In either case, [[5-World/NPCs/Diamond Lake/Allustan]] belives that the temple is occupied and he worries that it's inhabitants are behind the strange undead in the southern hills.  He knows little of [[The Ebon Triad]], but he has managed to uncover the location of an elevator within the mines.  He tells the PCs that the elevator is the most convenient way into the temple.
+In either case, [[5-World/NPCs/Diamond Lake/Allustan|Allustan]] belives that the temple is occupied and he worries that it's inhabitants are behind the strange undead in the southern hills.  He knows little of [[The Ebon Triad]], but he has managed to uncover the location of an elevator within the mines.  He tells the PCs that the elevator is the most convenient way into the temple.
 
 ## Talking to Smenk
-Unknown to [[5-World/NPCs/Diamond Lake/Allustan]], Smenk is secretly in league with the Ebon Triad.  While the Faceless One managed to subvert [[Ragnolin Dourstone]] with bribes and promises of power, he sees Balabar as another useful tool, particularly if Ragnolin turns against the Triad.  Balabar wants [[The Ebon Triad]] destroyed.  The PCs, if they are in his debt, could prove the perfect weapon to distract the Triad or defeat the cultists while he makes an escape.
+Unknown to [[5-World/NPCs/Diamond Lake/Allustan|Allustan]], Smenk is secretly in league with the Ebon Triad.  While the Faceless One managed to subvert [[Ragnolin Dourstone]] with bribes and promises of power, he sees Balabar as another useful tool, particularly if Ragnolin turns against the Triad.  Balabar wants [[The Ebon Triad]] destroyed.  The PCs, if they are in his debt, could prove the perfect weapon to distract the Triad or defeat the cultists while he makes an escape.
 
 To encourage the PCs to assist him, Smenk claims that he is terrified of the cultists, and that he was pressured into helping them.  He tells the PCs about his right-hand man, and plays up a sense of betrayal, as if his brand of villainy is somehow more respectable than that of [[The Ebon Triad]].
 
@@ -1281,7 +1312,7 @@ The ghost moves to attack the PCs, driven by an intense hatred of all non-believ
 
 # Encounter 27: Laboratory of the Faceless One
 **Encounter Difficulty:**   
-- [x] Severe (140 XP) Level 4
+> - [<] Severe (140 XP) Level 4
 
 ![[The Faceless One.png|right|500]]
 
@@ -1328,16 +1359,16 @@ Upon defeating [[The Faceless One]], read the following aloud to the players,
 > 
 > In addition to the monetary rewards found here, the PCs unearth the code needed to read the scroll found in area 10. This information is summarized in [[Three Faces of Evil-Handout 1.png|Handout #1]].
 > 
-> - [x] gp::29
-> - [x] sp::11
-> - [x] permanent::[[alchemists-lab-expanded|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
-> - [x] permanent::[[Ring of Minor Arcana|Ring of Minor Arcana]]] [ilvl::5] [gp::160]
-> - [x] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
-> - [x] consumable::[[acid-flask-moderate|Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [x] consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
-> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
-> - [x] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [<] gp::29
+> - [<] sp::11
+> - [<] permanent::[[alchemists-lab-expanded|Alchemist's Lab (Expanded)]] [ilvl::3] [gp::55]
+> - [<] permanent::[[Ring of Minor Arcana|Ring of Minor Arcana]]] [ilvl::5] [gp::160]
+> - [<] permanent::[[Sturdy Shield (Minor)|Sturdy Shield (Minor)]] [ilvl::4] [gp::100]
+> - [<] consumable::[[acid-flask-moderate|Acid Flask (Moderate)|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [<] consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [<] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [<] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
+> - [<] consumable::[[alchemists-fire-moderate|Alchemist's Fire (Moderate)]] [ilvl::3] [gp::10]
 
 # Part 5: The God in the Pool
 **Encounter Difficulty:**   

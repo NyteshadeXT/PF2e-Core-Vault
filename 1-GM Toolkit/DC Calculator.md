@@ -24,7 +24,7 @@ rarityModifier: 0
 
 
 
-
+# Recall Knowledge
 | Recall Knowledge DC                                                                                 |                                                                                                                
 | --------------------------------------------------------------------------------------------------- |
 | **Rarity:** `INPUT[inlineSelect(option(14, Common), option(16, Uncommon), option(19, Rare)):rarity]` |                                                                                   
@@ -34,6 +34,7 @@ rarityModifier: 0
 
 ---
 
+# Simple DC
 | Simple DC Calculator                                                                                 |                                                                                                                
 | --------------------------------------------------------------------------------------------------- |
 | **Player Level:** `INPUT[number:playerLevel]` |                                                                                                                  
@@ -42,6 +43,7 @@ rarityModifier: 0
 
 ---
 
+# Skill DC
 | Skill DC Calculator                                                                                 |                                                                                                                
 | --------------------------------------------------------------------------------------------------- |
 | **Skill Level:** `INPUT[inlineSelect(option(10, Untrained), option(15, Trained), option(20, Expert), option(30, Master), option(40, Legendary)):skillLevel]` |                                                                                                                  
@@ -67,7 +69,7 @@ icon: hammer
 ```
 
 
-
+# Complex Crafting DC
 | Complex Crafting DC and Time Calculator                                                                                 |                                                                                                                
 | -------------- |
 | **Item Level:** `INPUT[number:itemLevel]` |       

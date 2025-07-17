@@ -20,7 +20,7 @@ level: "Creature 7"
 size: Medium
 trait_01: humanoid
 trait_02: lizardfolk
-
+token: [[hishka.png]]
 modifier: 11
 perception:
   - name: "Perception"

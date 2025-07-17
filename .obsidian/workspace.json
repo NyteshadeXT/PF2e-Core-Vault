@@ -32,31 +32,17 @@
             }
           },
           {
-            "id": "f795d8c7c9d887cb",
+            "id": "14c95259c26dc265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Three Faces of Evil.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Three Faces of Evil"
-            }
-          },
-          {
-            "id": "05bb3bb89661a3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Monster Hunter Varients/tetranadon.md",
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "tetranadon"
+              "title": "Encounter at Blackwall Keep"
             }
           },
           {
@@ -79,30 +65,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "wroggi"
-            }
-          },
-          {
-            "id": "5c2c340e5e71f565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
+                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Table 3A_ Refinement Costs by Item Level (Weapons and Armor).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Variant_ Relic Imbuing"
+              "title": "Table 3A_ Refinement Costs by Item Level (Weapons and Armor)"
+            }
+          },
+          {
+            "id": "8fe6ecd935f0bf4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chimeracrafting"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -369,34 +355,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5c2c340e5e71f565",
+  "active": "8fe6ecd935f0bf4f",
   "lastOpenFiles": [
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wood.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wisdom.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Winged.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Wild.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Water.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Throwing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sturdy.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Strength.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spiked.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Spell.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sensory.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sonic.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Positive.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Poison.md",
-    "3-Rules/Character Building/Spells/P/Puff of Poison.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Negative.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Mirrored.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Elongating.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Electricity.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Earth.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Dexterity.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Darkness.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Constitution.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Cold.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Charisma.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Chaotic.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 3A_ Refinement Costs by Item Level (Weapons and Armor).md",
+    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
+    "3-Rules/Character Building/Equipment/Homebrew/monster-harvesting-tools.md",
+    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
+    "1-GM Toolkit/Tests/Chimeracrafting.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Tests/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Tests/DC Calculator WIP.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 4A_ Refinement Benefits by Level (Weapon).md",
+    "2-Party/Age of Worms/Gornak.md",
+    "1-GM Toolkit/Vault Report.md",
+    "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Monster Parts Introduction.md",
+    "1-GM Toolkit/Tests/Monster Part Discovery.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Gathering Ingredients.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 2C_ Monster Parts Gained Per Monster (Full Variant).md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 2B_ Monster Parts gained Per Monster (Hybrid Variant).md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 2A_ Monster Parts Gained Per Monster (Light Variant).md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 1A_ Party Treasure by Level (Light Variant).md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 1C_ Party Treasure by Level (Full Variant).md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Table 1B_ Party Treasure by Level (Hybrid Variant).md",
+    "3-Rules/Character Building/Actions/Battlezoo Actions/Create Token.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/tetranadon.md",
+    "zz-Attachments/hishka.png",
+    "zz-Attachments/wilryn-whistlesnatch.png",
     "zz-Attachments/blade-byrnie.png",
     "zz-Attachments/black-tendril-shot.png",
     "zz-Attachments/black-hole-armor.png",
@@ -405,8 +393,6 @@
     "zz-Attachments/image-4.png",
     "zz-Attachments/image-3.png",
     "zz-Attachments/bewildering-spellgun.png",
-    "zz-Attachments/berserkers-cloak.png",
-    "zz-Attachments/belt-of-the-five-kings.png",
     "rules/traits",
     "rules",
     "2-Session Journals/Age-of-Worms/Old",
