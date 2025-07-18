@@ -158,7 +158,9 @@ dv.span(`
 
 ```
 
-`VIEW[<img src="{image}" alt="" style="float: right; display: inline-block; margin: 0 0 1em 1em; width: 300px; height: auto;" />][text(renderMarkdown)]`
+> [!infobox|ttl-c txt-c alt-line]+
+> # `= this.aliases`
+> `= "<img src='" + this.image + "' width='300'>"`
 
 ```dataviewjs
 const d = dv.current();

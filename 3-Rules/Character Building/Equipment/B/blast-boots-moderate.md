@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "blast-foot-(greater)"
-aliases: "Blast Foot (Greater)"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "common"
+name: "blast-boots-moderate"
+aliases: "Blast Boots (Moderate)"
+source: "Pathfinder Guns & Gears"
+pg: "67"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
-weight: 1
-value: "1000"
+level: 3
+weight: L
+value: "11"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These prosthetic feet and legs, created by dwarven alchemists and spellcasters together, are engraved with simple but effective evocation symbols on the ball and heel, empowering you to leap to great heights and blast foes with your feet.  * * *  **Activate** `pf2:1` envision  **Frequency** once per minute  * * *  **Effect** You blast off from the ground, using the force to leap through the air. The _blast feet_ cast [[Spells/Jump|Jump]] on you.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You blast from your feet, dealing 8d6 force damage to all creatures in a 30-foot cone, with a DC 27 Reflex check save."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "These sets of rockets come in pairs and strap onto existing footwear (or a creature's feet). Inserting them and aligning them properly takes 1 minute. "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you Activate the blast boots, you can [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]], without the need to [[Stride]] first.  When you Activate the moderate blast boots to High Jump, you can increase the vertical distance of your High Jump by up to 30 feet. When you Activate them to Long Jump, you can increase the horizontal distance of your Long Jump by up to 45 feet."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

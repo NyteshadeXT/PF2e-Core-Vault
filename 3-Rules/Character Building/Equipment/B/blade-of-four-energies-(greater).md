@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "blade-of-four-energies-(greater)"
 aliases: "Blade of Four Energies (Greater)"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "180"
 rarity: ""
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "versatile-s"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -22,6 +22,7 @@ level: 18
 weight: L
 value: "20000"
 subvalue: "gp"
+group: "Sword"
 invest:
 usage: "held in one hand "
 license: "ORC"
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 3d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 3d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: Sword
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
