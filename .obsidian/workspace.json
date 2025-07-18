@@ -1,80 +1,24 @@
 {
   "main": {
-    "id": "4ffbcb9b0ff79fb8",
+    "id": "09499373d3da9591",
     "type": "split",
     "children": [
       {
-        "id": "4fec69dc3fd1f5b5",
+        "id": "7ee8d98bbdbd53c6",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b62992fc2b6646",
+            "id": "c56024cbd5c4d744",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blast-lance.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "blast-lance"
-            }
-          },
-          {
-            "id": "fa9695b982a1688f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
+                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
-            }
-          },
-          {
-            "id": "14c95259c26dc265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Encounter at Blackwall Keep"
-            }
-          },
-          {
-            "id": "a93ad7e617b01cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "great-wroggi"
-            }
-          },
-          {
-            "id": "8fe6ecd935f0bf4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chimeracrafting"
+              "title": "blade-of-the-rabbit-prince"
             }
           }
         ]
@@ -83,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0bc5b3be8860309a",
+    "id": "c18e142bcd959bf6",
     "type": "split",
     "children": [
       {
-        "id": "1e0d01eeeb0b6326",
+        "id": "066ae9165702c3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "5047f1190ddb93b4",
+            "id": "cf10d316f994fd48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +48,7 @@
             }
           },
           {
-            "id": "b2997151db973aa0",
+            "id": "ec7f17e51aebc6cc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +65,7 @@
             }
           },
           {
-            "id": "3096a71f7c018b44",
+            "id": "57a78a743a1e3531",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -134,37 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 300
   },
   "right": {
-    "id": "96fe26c9abf98fe0",
+    "id": "fc38605a342edb83",
     "type": "split",
     "children": [
       {
-        "id": "17f58ddd55331629",
+        "id": "edda93d03f749ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "c447b336565f3587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Buttons.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Buttons"
-            }
-          },
-          {
-            "id": "5a2cb7758dd6bdcb",
+            "id": "1a52bf9f6c0f4854",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
+                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abadar's Flawless Scale - Option 1"
+              "title": "Backlinks for blade-of-the-rabbit-prince"
             }
           },
           {
-            "id": "4078cb84ed1afe43",
+            "id": "701a8190cd11497b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
+                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abadar's Flawless Scale - Option 1"
+              "title": "Outgoing links from blade-of-the-rabbit-prince"
             }
           },
           {
-            "id": "b9a415b5fb150133",
+            "id": "4489f12d72e7487e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -207,22 +137,22 @@
             }
           },
           {
-            "id": "4fe2a02614de7a52",
+            "id": "859d31b25b214125",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-GM Toolkit/Tests/Abadar's Flawless Scale - Option 1.md",
+                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abadar's Flawless Scale - Option 1"
+              "title": "Outline of blade-of-the-rabbit-prince"
             }
           },
           {
-            "id": "c7e2ab53cb2ae82b",
+            "id": "78b14c0627543ffb",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -232,7 +162,7 @@
             }
           },
           {
-            "id": "f755f626e9ccb41e",
+            "id": "c819d0b1e015f7fe",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -240,96 +170,22 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "3c6db982988fe094",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {},
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          }
-        ]
-      },
-      {
-        "id": "aba493b7c0481141",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0209a6e3d014d07c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9ba0edd2c9b19703",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bd96c7ef597b5fd",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7c8b2422d8780332",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f8331ff23f4c77fd",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "60dae5054aa93cde",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2772a3a33f6aad0a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -344,82 +200,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f1b62992fc2b6646",
+  "active": "c56024cbd5c4d744",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "3-Rules/Character Building/Equipment/B/blast-suit.md",
-    "3-Rules/Character Building/Equipment/B/Blaze.md",
-    "3-Rules/Character Building/Equipment/B/blazons-of-shared-power.md",
-    "3-Rules/Character Building/Equipment/B/blast-lance.md",
-    "3-Rules/Character Building/Equipment/B/Blight Bomb (Greater).md",
-    "3-Rules/Character Building/Equipment/B/blast-foot-greater.md",
-    "3-Rules/Character Building/Equipment/B/blast-foot.md",
-    "3-Rules/Character Building/Equipment/B/blast-boots-moderate.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
-    "3-Rules/Character Building/Equipment/B/blast-boots-lesser.md",
-    "3-Rules/Character Building/Equipment/B/blast-boots-major.md",
-    "3-Rules/Character Building/Equipment/B/Blessed Ampoule.md",
-    "3-Rules/Character Building/Equipment/B/Bleeding Canines.md",
-    "3-Rules/Character Building/Equipment/B/Bleachguard Doll.md",
-    "3-Rules/Character Building/Equipment/B/Blazons of Shared Power.md",
-    "3-Rules/Character Building/Equipment/B/Blasting Stone (Greater).md",
-    "3-Rules/Character Building/Equipment/B/bladed-scarf.md",
-    "3-Rules/Character Building/Equipment/B/Blast Boots (Greater).md",
-    "3-Rules/Character Building/Equipment/B/bladed-diabolo.md",
-    "3-Rules/Character Building/Equipment/B/bladed-hoop.md",
-    "3-Rules/Character Building/Equipment/B/bladed-gauntlet.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
-    "3-Rules/Character Building/Equipment/B/Bladed Diabolo.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-the-black-sovereign.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-four-energies-(greater).md",
-    "zz-Attachments/hishka.png",
-    "zz-Attachments/wilryn-whistlesnatch.png",
-=======
-    "3-Rules/Character Building/Equipment/B/blade-of-four-energies-(greater).md",
-    "3-Rules/Character Building/Equipment/B/blade-of-four-energies.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Templates/Markdown/Insert Timeline.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Afflictions/B/bone-chill.md",
-    "3-Rules/Afflictions/B/boastful-princes-scourge-da.md",
-    "3-Rules/Afflictions/B/blackfrost-gw3.md",
-    "1-GM Toolkit/Adventure Loot.md",
-    "1-GM Toolkit/Buttons.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/DM-Screen.md",
-    "1-GM Toolkit/Encounter Builder.md",
-    "1-GM Toolkit/Home.md",
-    "1-GM Toolkit/Random_Gems_Table.md",
-    "1-GM Toolkit/Random_Jewelry_Table.md",
-    "1-GM Toolkit/Vault Report.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Precious Materials and Refining.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Automatic Bonus Progression and Imbuing.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Cost by Item Level.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/The Three Variants.md",
->>>>>>> Stashed changes
-    "zz-Attachments/blade-byrnie.png",
-    "zz-Attachments/black-tendril-shot.png",
-    "zz-Attachments/black-hole-armor.png",
-    "zz-Attachments/wayfinder.png",
-    "zz-Attachments/image-2.png",
-    "zz-Attachments/image-4.png",
-    "zz-Attachments/image-3.png",
-    "zz-Attachments/bewildering-spellgun.png",
-    "rules/traits",
-    "rules",
-    "2-Session Journals/Age-of-Worms/Old",
-    "3-Rules/Character Building/Equipment/Z",
-    "3-Rules/Character Building/Equipment/Y",
-    "3-Rules/Character Building/Equipment/X",
-    "3-Rules/Character Building/Equipment/W",
-    "3-Rules/Character Building/Equipment/V",
-    "3-Rules/Character Building/Equipment/U",
-    "3-Rules/Character Building/Equipment/T"
+    "3-Rules/Character Building/Equipment/B/blade-of-four-energies-greater.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md"
   ]
 }

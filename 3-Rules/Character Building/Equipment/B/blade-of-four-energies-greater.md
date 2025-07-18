@@ -4,7 +4,7 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "blade-of-four-energies-(greater)"
+name: "blade-of-four-energies-greater"
 aliases: "Blade of Four Energies (Greater)"
 source: "Pathfinder Secrets of Magic"
 pg: "180"
