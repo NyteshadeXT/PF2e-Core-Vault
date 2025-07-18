@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 322.5
   },
   "right": {
     "id": "96fe26c9abf98fe0",
@@ -346,6 +346,7 @@
   },
   "active": "f1b62992fc2b6646",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "3-Rules/Character Building/Equipment/B/blast-suit.md",
     "3-Rules/Character Building/Equipment/B/Blaze.md",
     "3-Rules/Character Building/Equipment/B/blazons-of-shared-power.md",
@@ -374,6 +375,34 @@
     "3-Rules/Character Building/Equipment/B/blade-of-four-energies-(greater).md",
     "zz-Attachments/hishka.png",
     "zz-Attachments/wilryn-whistlesnatch.png",
+=======
+    "3-Rules/Character Building/Equipment/B/blade-of-four-energies-(greater).md",
+    "3-Rules/Character Building/Equipment/B/blade-of-four-energies.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "zz-Templates/Markdown/Insert Timeline.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Afflictions/B/bone-chill.md",
+    "3-Rules/Afflictions/B/boastful-princes-scourge-da.md",
+    "3-Rules/Afflictions/B/blackfrost-gw3.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "1-GM Toolkit/Buttons.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/DM-Screen.md",
+    "1-GM Toolkit/Encounter Builder.md",
+    "1-GM Toolkit/Home.md",
+    "1-GM Toolkit/Random_Gems_Table.md",
+    "1-GM Toolkit/Random_Jewelry_Table.md",
+    "1-GM Toolkit/Vault Report.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Relic Imbuing.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Precious Materials and Refining.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Variant_ Automatic Bonus Progression and Imbuing.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Cost by Item Level.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/The Three Variants.md",
+>>>>>>> Stashed changes
     "zz-Attachments/blade-byrnie.png",
     "zz-Attachments/black-tendril-shot.png",
     "zz-Attachments/black-hole-armor.png",
