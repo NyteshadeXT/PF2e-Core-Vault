@@ -1,41 +1,84 @@
 {
   "main": {
-    "id": "09499373d3da9591",
+    "id": "76350e8aef386214",
     "type": "split",
     "children": [
       {
-        "id": "7ee8d98bbdbd53c6",
+        "id": "93ffac63c8fa3821",
         "type": "tabs",
         "children": [
           {
-            "id": "c56024cbd5c4d744",
+            "id": "befdde0ca30bde9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
+                "file": "3-Rules/Character Building/Equipment/B/blast-foot-greater.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "blast-foot-greater"
+            }
+          },
+          {
+            "id": "7864197b445476cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "blade-of-the-rabbit-prince"
+              "title": "Insert Item"
+            }
+          },
+          {
+            "id": "e03fa8f65e6d98de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chimeracrafting"
+            }
+          },
+          {
+            "id": "59609350b45cdd92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Cost by Item Level.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tables - Refinement Cost by Item Level"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c18e142bcd959bf6",
+    "id": "4b881801cfb62638",
     "type": "split",
     "children": [
       {
-        "id": "066ae9165702c3a5",
+        "id": "ade94c613a626538",
         "type": "tabs",
         "children": [
           {
-            "id": "cf10d316f994fd48",
+            "id": "8dc58767fc45ebba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +91,7 @@
             }
           },
           {
-            "id": "ec7f17e51aebc6cc",
+            "id": "ee32808a7fc151d1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +108,7 @@
             }
           },
           {
-            "id": "57a78a743a1e3531",
+            "id": "ed67e9ab1eafa70f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +124,20 @@
     "width": 300
   },
   "right": {
-    "id": "fc38605a342edb83",
+    "id": "fe3d5c521558e514",
     "type": "split",
     "children": [
       {
-        "id": "edda93d03f749ac0",
+        "id": "6fddc3f705e4f0c6",
         "type": "tabs",
         "children": [
           {
-            "id": "1a52bf9f6c0f4854",
+            "id": "ea10ea8d052c229f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
+                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +147,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blade-of-the-rabbit-prince"
+              "title": "Backlinks for blast-boots-greater"
             }
           },
           {
-            "id": "701a8190cd11497b",
+            "id": "2ee9cfceca7cf399",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
+                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from blade-of-the-rabbit-prince"
+              "title": "Outgoing links from blast-boots-greater"
             }
           },
           {
-            "id": "4489f12d72e7487e",
+            "id": "6a3a5bf67789751e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +180,22 @@
             }
           },
           {
-            "id": "859d31b25b214125",
+            "id": "75d059a6006629a9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
+                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of blade-of-the-rabbit-prince"
+              "title": "Outline of blast-boots-greater"
             }
           },
           {
-            "id": "78b14c0627543ffb",
+            "id": "b9395793b59858fa",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -162,7 +205,7 @@
             }
           },
           {
-            "id": "c819d0b1e015f7fe",
+            "id": "9a13bc1e94fe025c",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -200,9 +243,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c56024cbd5c4d744",
+  "active": "e03fa8f65e6d98de",
   "lastOpenFiles": [
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Refinement Cost by Item Level.md",
+    "1-GM Toolkit/Tests/Chimeracrafting.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Imbuing Cost by Item Level.md",
+    "zz-Attachments/image.png",
+    "zz-Attachments/image-1.png",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/image-3.png",
+    "zz-Attachments/image-4.png",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Full Variant.md",
+    "1-GM Toolkit/Tests/Untitled.md",
+    "1-GM Toolkit/Tests/Table 3A_ Refinement Costs by Item Level (Weapons and Armor).md",
+    "1-GM Toolkit/Tests/DC Calculators WIP.md",
+    "1-GM Toolkit/Tests/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Buttons.md",
+    "1-GM Toolkit/Adventure Loot.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Update Adventure YAML.md",
+    "3-Rules/Character Building/Equipment/B/blast-foot-greater.md",
+    "3-Rules/Character Building/Equipment/B/blast-foot.md",
+    "3-Rules/Character Building/Equipment/B/blast-lance.md",
+    "3-Rules/Character Building/Equipment/B/blast-lance-(greater).md",
     "3-Rules/Character Building/Equipment/B/blade-of-four-energies-greater.md",
-    "3-Rules/Character Building/Equipment/B/blade-of-fallen-stars.md"
+    "3-Rules/Character Building/Equipment/B/blade-of-the-black-sovereign.md",
+    "3-Rules/Character Building/Equipment/B/blade-of-the-rabbit-prince.md",
+    "3-Rules/Character Building/Equipment/B/blast-boots-major.md",
+    "3-Rules/Character Building/Equipment/B/blast-boots-lesser.md",
+    "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
+    "3-Rules/Character Building/Equipment/B/bladed-scarf.md"
   ]
 }

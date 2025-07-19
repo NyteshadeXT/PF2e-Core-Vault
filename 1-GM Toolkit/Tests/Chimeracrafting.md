@@ -7,12 +7,15 @@ itemType: 2
 itemRarity: 0
 craftProficiency: 1.05
 craftRoll: 0.003
+refineLevel: 15
+ItemType: 2
+refineRoll: 0.001
 ---
 
 # Gathering Ingredients
 >[!law | background-brown color-blue]+ ## Gathering Ingredients
 >> [! recite |  right  wsmall]+ Harvest Example 
->> *The party has just slain a Hydra and harvests for parts. Quynn, the party's ranger, would like to harvest the creature.  A Hydra is a level 6 Huge creature so the GM has Quynn roll 1d10 for total parts harvested, rolling total of 4. After 40 minutes Quynn receives 4 parts.  He wishes to attempt to harvest more, and makes a Survival check (DC 22). Quynn, gets a Success and after an additional 40 minutes gains 2 (1d4) more parts. If he had gotten a Critical Success he would have gained 2d4 additional parts. Since the hydra is CR 6 Quynn can record the total bounty as 15 gp worth of hydra parts.*
+>> The party has just slain a Hydra and harvests for parts. Quynn, the party's ranger, would like to harvest the creature.  A Hydra is a level 6 Huge creature so the GM has Quynn roll 1d10 for total parts harvested, rolling total of 4. After 40 minutes Quynn receives 4 parts.  He wishes to attempt to harvest more, and makes a Survival check (DC 22). Quynn, gets a Success and after an additional 40 minutes gains 2 (1d4) more parts. If he had gotten a Critical Success he would have gained 2d4 additional parts. Since the hydra is CR 6 Quynn can record the total bounty as 15 gp worth of hydra parts.
 > 
 > The first step in upgrading weapons with monster parts is gathering suitable parts. After a battle, the PCs can spend 10 minutes per size category of the creature gathering the monsters’ parts beginning with small. 
 >
@@ -26,35 +29,7 @@ craftRoll: 0.003
 >
 >>[! creature | background-black color-red]- Parts Value by Level
 >>
->>| Creature Level | Monster Parts (Value) |
->>| --- | --- |
->>| \-1 | 6.5 gp |
->>| 0 | 9 gp |
->>| 1 | 13 gp |
->>| 2 | 22 gp |
->>| 3 | 30 gp |
->>| 4 | 50 gp |
->>| 5 | 80 gp |
->>| 6 | 125 gp |
->>| 7 | 180 gp |
->>| 8 | 250 gp |
->>| 9 | 360 gp |
->>| 10 | 500 gp |
->>| 11 | 720 gp |
->>| 12 | 1.030 gp |
->>| 13 | 1,560 gp |
->>| 14 | 2,300 gp |
->>| 15 | 3,400 gp |
->>| 16 | 5,150 gp |
->>| 17 | 8,000 gp |
->>| 18 | 13,000 gp |
->>| 19 | 22,500 gp |
->>| 20 | 30,000 gp |
->>| 21 | 45,000 gp |
->>| 22 | 60,000 gp |
->>| 23 | 90,000 gp |
->>| 24 | 120,000 gp |
->>| 25 | 180,000 gp |
+>>![[Tables - Full Variant#Table 2C Monster Parts Gained Per Monster (Full Variant)|Parts Value by Level]]
 >
 >| Harvesting Calculator |
 >|-------------------|---------------------------------------------------------------|
@@ -73,23 +48,33 @@ craftRoll: 0.003
 
 >[!law | background-black color-blue]+ ## Refining
 >> [!recite| wsmall right]+ Refinement Example
->> **PF2e** — *A fighter wants to refine a spear using monster parts from a recently defeated a group of Banshees. The fighter has 275 gp worth of Banshee parts. They start by building the spear for 1 gp, leaving them with 274 gp in parts. Using 250 gp, they refine the spear to item level 6, passing a **Refine DC 21** which grants a +1 item bonus to attack rolls, an extra damage die, and the ability to imbue an additional property. With 24 gp worth of parts remaining, the longsword is partially refined towards level 7, requiring 86 more gp worth of parts to reach the next level.*
+>> **PF2e** — A fighter wants to refine a greataxe using monster parts from a recently defeated a pair of Smilodon.  Since the Smilodon claw attack is a slashing attack he can use those part to craft the weapon. The fighter has 275 gp worth of Smilodon parts. They start by building the greataxe for 2 gp, leaving them with 273 gp in parts. Using 250 gp, they refine the greataxe to item level 6, passing a **Refine DC 21** which grants a +1 item bonus to attack rolls, an extra damage die, and the ability to imbue an additional property. With 24 gp worth of parts remaining, the greataxe is partially refined towards level 7, requiring 86 more gp worth of parts to reach the next level.  On the fighters character sheet he would record a **+1 Striking Greataxe (6)**
 >
-> To begin, the player refines an item from the collected monster parts creating a chimeracrafted mundane item as the basis for further development.  Weapons, armor, shields, Perception items, skill items and staves are the six main categories of item a character is able to refine.  Simply gather parts equivalent to the item's standard creation cost (e.g., 5 cp for a spear) and [[Craft]] the desired item.
+> To begin, the player refines an item from the collected monster parts creating a chimeracrafted mundane item as the basis for further development.  Weapons, armor, shields, perception items, skill items and staves are the six main categories of item a character is able to refine.  Simply gather parts equivalent to the item's standard creation cost (e.g., 1 sp for a spear) and [[Craft]] the desired item.  Note, that all Chimeracrafted items are considered at least [[uncommon]] for crafting purposes.
 > 
-> [[DC Calculator#Complex Crafting DC|Crafting Calculator]]
+> [[DC Calculator#Crafting Calculator|Crafting Calculator]]
 > 
-> The item may be further developed by refining it as you add more parts.  The item levels up, providing benefits like increased attack rolls, additional damage dice, and imbuing capacity as outlined by Tables 4A through 4F. Tables 3A and 3B should be used to determine the total value of parts needed for each level, noting that items cannot exceed the character's current level. Refining can be done quickly during daily preparations or during downtime as desired by the player taking one hour to accomplish the task.
+> The item may be further developed by refining it as you add more parts.  The item levels up, providing benefits like increased attack rolls, additional damage dice, and imbuing capacity as outlined by [[Tables - Refinement Benefits by Level]]. To determine the total value of parts needed to reach each level of refinement consult [[Tables - Refinement Cost by Item Level]], noting that items cannot exceed the character's current level. Refining can be done quickly during daily preparations or during downtime as desired by the player taking one hour to accomplish the task. Once a character has obtained parts they can begin the refining process. a general rule to follow would be **14**+**Item Level**. Failing to refine the item results in a cost of 25% of the value used. It is up to the GM what skill is used to refine the item. Alternatively, a character can pay 50% of the cost of the item refining material in gold to have a NPC of equivalent skill make it with no failure.
 > 
-> Salvaging allows you to recover up to 50% of the parts used in a refined item, while transferring refinement or imbuing properties between similar items costs 10% of the difference in part values. This flexible system ensures that players can enhance their gear using monster parts, providing unique upgrades and customizations based on their adventures and the monsters they defeat.
->> 
->>> [!note | clean no-i]+ ### Refining DC checks
->>> Once a character has obtained parts they can begin the refining process. a general rule to follow would be **15**+**Item Level**. Failing to refine the item results in a cost of 25% of the value used. It is up to the GM what skill is used to refine the item. Alternatively, a character can pay 50% of the cost of the item refining material in gold to have a NPC of equivalent skill make it with no failure.
+> You may come across Chimeracrafted items during your adventures.  In this case, you may want to Salvage the item completely or Transfer the items refinement and imbued properties. Salvaging allows you to recover up to 50% of the parts used in a refined item. To Transfer the refinement value or the value of an imbued property from one item of the same type (a weapon, armor, shield, Perception item, or skill item) to another with a lower value, first choose what to swap, either the refinement value or the value of one of the imbued properties. In order to successfully transfer refinement value, the two items must have compatible requirements for the type of monster parts they need. For instance, you couldn’t transfer refinement from a bludgeoning weapon to a slashing weapon because they have different requirements. To perform the transfer, you’ll need to provide additional monster parts worth 10% of the difference in values between the two. This flexible system ensures that players can enhance their gear using monster parts, providing unique upgrades and customizations based on their adventures and the monsters they defeat.  
 >
->>>[! reward | background-black color-orange ]- Refinement cost by Item Level
+>>[!column | 2] Refining Calculators
 >>>
->>>[[Table 3A_ Refinement Costs by Item Level (Weapons and Armor)]]
->>>[[Table 3B_ Refinement Cost by Item Level (Shields, Perception Items, and Skill Items)|Table 3B: Refinement Cost by Item Level (Shields]]
+>>>| Refining DC & Cost Calculator |
+>>>|-------------------|---------------------------------------------------------------|
+>>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
+>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
+>>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
+>>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
+>>>| **Check Result** | `INPUT[inlineSelect(option(1, Critical Success), option(0.003, Success), option(0.002, Failure), option(0.001, Critical Failure)):refineRoll]`|
+>>>| **Consequence** | `VIEW[({refineRoll} >= 1 ? "You expend half the materials and refine the item." : ({refineRoll} >= 0.003 ? "You expend the materials and refine the item." : ({refineRoll} >= 0.002 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. The materials aren't expended." : ({refineRoll} <= 0.001 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. You expend half the materials." : ""))))]` |
+>>
+>>>| Salvage Calculator |
+>>>|-------------------|---------------------------------------------------------------|
+>>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
+>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
+>>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
+>>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
 
 # Augmentation
 >[!item]+ ## Augments
