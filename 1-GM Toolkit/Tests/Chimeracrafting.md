@@ -4,9 +4,6 @@ creatureLevel: 6
 creatureSize: 4
 creatureValue: 125
 itemType: 2
-itemRarity: 0
-craftProficiency: 1.05
-craftRoll: 0.003
 refineLevel: 15
 ItemType: 2
 refineRoll: 0.001

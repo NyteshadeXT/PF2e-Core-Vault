@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "bleeding-canines"
 aliases: "Bleeding Canines"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "98"
 rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws unarmed attack that deals 1d8 piercing damage. These jaws are in the brawling group. Whenever you score a critical hit with your jaws, your target takes 1 persistent bleed damage per weapon damage die."
+description: "Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws unarmed attack that deals `dice: 1d8` 1d8 piercing damage. These jaws are in the brawling group. Whenever you score a critical hit with your jaws, your target takes 1 persistent bleed damage per weapon damage die."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

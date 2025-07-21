@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "blending-brooch"
 aliases: "Blending Brooch"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "92"
 rarity: ""
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You roll initiative using Stealth and can see a creature  **Requirements** You are a master in Stealth.  * * *  This small, matte-black pin always seems to be on the periphery of your vision, even when you stare directly at it. When you Activate the talisman, choose one creature you can see. You become [[Conditions/Invisible|Invisible]] to that creature unless it succeeds at a DC 28 Will check save. This effect lasts for 1 minute or until the target hits you with an attack, whichever comes first."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small, matte-black pin always seems to be on the periphery of your vision, even when you stare directly at it."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You roll initiative using Stealth and can see a creature"
+requirement1: "You are a master in [[Skills#Stealth|Stealth]]"
+mechanics1: "When you [[Activate]] the talisman, choose one creature you can see. You become [[Invisible]] to that creature unless it succeeds at a DC 28 Will check save. This effect lasts for 1 minute or until the target hits you with an attack, whichever comes first."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

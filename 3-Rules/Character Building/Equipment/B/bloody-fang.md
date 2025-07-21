@@ -7,32 +7,33 @@ notetype: pf2e-item
 name: "bloody-fang"
 aliases: "Bloody Fang"
 source: "Pathfinder Adventure: Prey for Death"
-pg: ""
-rarity: ""
+pg: "101"
+rarity: "rare"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/bloody-fang.png
 level: 15
 weight: L
 value: "6250"
 subvalue: "gp"
 invest:
+group: "Knife"
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The bladed inner curve of this _+2 greater striking keen wounding dagger_ has a jagged, saw-like edge, while its handle is wrapped in red leather. Carved from the mandible of a giant praying mantis, this magical weapon's blade is as sharp and serviceable as steel.  **Activate—Sweeping Slash** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You swing the dagger in a wide arc, causing a horizontal swipe of blood-red energy to sweep out in a 30-foot cone. All living creatures in the area take 15d6 slashing damage (DC 34 Reflex check save), plus 1d6 bleed damage on a failed save."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The bladed inner curve of this _[[Weapon Potency (+2)|+2]] [[striking-(greater)|greater striking]] [[keen]] [[wounding]] [[dagger]]_ has a jagged, saw-like edge, while its handle is wrapped in red leather. Carved from the mandible of a giant praying mantis, this magical weapon's blade is as sharp and serviceable as steel."
+powerTitle1: "Sweeping Slash"
+actionEconomy1: 2
+type1: "([[concentrate]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You swing the dagger in a wide arc, causing a horizontal swipe of blood-red energy to sweep out in a 30-foot cone. All living creatures in the area take `dice: 15d6` 15d6 slashing damage (DC 34 Reflex check save), plus `dice: 1d6` 1d6 bleed damage on a failed save."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 3d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,12 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Dagger"
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "blightburn-resin"
 aliases: "Blightburn Resin"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "248"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 30 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 6d6 poison damage (1 round)  **Stage 2** 7d6 poison damage (1 round)  **Stage 3** 9d6 poison damage (1 round)"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This tacky, hardened sap is harvested from trees infected by fungal blights and exposed to open flames."
+powerTitle1: "Poison"
+actionEconomy1: 1
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Saving Throw** DC 30 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds<br><br>**Stage 1** `dice: 6d6` 6d6 poison damage (1 round)<br>**Stage 2** `dice: 7d6` 7d6 poison damage (1 round)<br>**Stage 3** `dice: 9d6` 9d6 poison damage (1 round)"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

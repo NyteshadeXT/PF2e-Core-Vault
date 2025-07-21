@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "blessed-tattoo"
 aliases: "Blessed Tattoo"
 source: "Pathfinder Lost Omens World Guide"
-pg: ""
-rarity: ""
+pg: "92"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You gain the effect of [[Spells/Protection|Protection]] against evil.  You can activate the tattoo as a reaction instead of a two-action activity, triggered when a demon attacks you or you attempt a saving throw against a demon's ability."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: ""
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You gain the effect of [[Protection]] against evil.  You can activate the tattoo as a reaction instead of a two-action activity, triggered when a demon attacks you or you attempt a saving throw against a demon's ability."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

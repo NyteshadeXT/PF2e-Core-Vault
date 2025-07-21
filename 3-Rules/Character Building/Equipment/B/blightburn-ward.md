@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "blightburn-ward"
 aliases: "Blightburn Ward"
 source: "Pathfinder #155: Lord of the Black Sands"
-pg: ""
-rarity: ""
+pg: "73"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

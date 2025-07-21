@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "blazons-of-shared-power"
 aliases: "Blazons of Shared Power"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "183"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

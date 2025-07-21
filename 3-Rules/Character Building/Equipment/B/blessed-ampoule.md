@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "blessed-ampoule"
 aliases: "Blessed Ampoule"
 source: "Pathfinder #176: Lost Mammoth Valley"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "divine"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed weapon hits a target  **Requirements** You're an expert with the affixed weapon.  * * *  This small glass vial contains a drop of holy water. When activated, the weapon's physical damage for the Strike becomes spirit damage."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small glass vial contains a drop of holy water."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "Your Strike with the affixed weapon hits a target"
+requirement1: "You're an expert with the affixed weapon"
+mechanics1: "When activated, the weapon's physical damage for the Strike becomes spirit damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

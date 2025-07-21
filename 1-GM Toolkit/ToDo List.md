@@ -11,7 +11,7 @@ tags:
 	- [ ] Add Abysium Chunk and Ingot
 	- [ ] Add Adamantine Chunk and Ingot
 	- [ ] Add Vehicles? (Adaptable Paddleboat)
-	- [ ] Add 
+	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.  Also update item generator. 
 	- [ ] Add 
 	- [ ] Add  
 	- [ ] Remove Dragon's Breath Potions from item generator as they've been replaced.

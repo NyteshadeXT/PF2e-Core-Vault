@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "bloodline-robe"
 aliases: "Bloodline Robe"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "147"
 rarity: ""
 trait01: "focused"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,20 +26,21 @@ invest:
 usage: "worngarment"
 license: "ORC"
 identify:
-description: "Each _bloodline robe_ has a design that befits a particular sorcerer bloodline, depicting creatures of that bloodline or using styles common among them. You gain a +2 item bonus to each of your bloodline skills.  **Activate** `pf2:1` command  **Frequency** once per day  **Requirements** You're benefiting from your blood magic effect  * * *  **Effect** You're [[Conditions/Quickened|Quickened]] on your next turn. You can use the extra action only as part of Casting a bloodline spell.  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect** You gain 1 Focus Point, which you can use only to cast a sorcerer bloodline spell. If not used by the end of your turn, this Focus Point is lost.  * * *  **Craft Requirements** You are a sorcerer of the bloodline tied to the robe."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Each _bloodline robe_ has a design that befits a particular sorcerer bloodline, depicting creatures of that bloodline or using styles common among them. You gain a +2 item bonus to each of your bloodline skills."
+powerTitle1: "Quickened"
+actionEconomy1: 1
+type1: "([[command]])"
+frequency1: "once per day"
+requirement1: "You're benefiting from your blood magic effect"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You're [[Quickened]] on your next turn. You can use the extra action only as part of Casting a bloodline spell."
+powerTitle2: "Focus"
+actionEconomy2: 0
+type2: "([[envision]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
+mechanics2: "You gain 1 Focus Point, which you can use only to cast a sorcerer bloodline spell. If not used by the end of your turn, this Focus Point is lost."
+craft: "You are a sorcerer of the bloodline tied to the robe."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
