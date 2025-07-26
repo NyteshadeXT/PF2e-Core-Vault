@@ -13,7 +13,7 @@ The Aetherial Wardens operate within a strict, hierarchical society, where each 
 - **The Seekers of the Rod** – An ancient sect of Wardens dedicated to finding and reassembling the **Rod of Seven Parts**, believing it to be the ultimate key to restoring balance.
 
 ## **The Axis War**
-The **War of Law and Chaos** is one of the most significant events in Aetheria Fracta’s ancient history. At its height, the chaotic forces, led by a mysterious **Primordial Lord of Chaos** (possibly linked to **[[Kataklysmos]]**), sought to tear apart the structure of reality itself.
+The **The Axis War** is one of the most significant events in Aetheria Fracta’s ancient history. At its height, the chaotic forces, led by a mysterious **Primordial Lord of Chaos** (possibly linked to **[[Kataklysmos]]**), sought to tear apart the structure of reality itself.
 
 The Aetherial Wardens, acting as the champions of order, led the charge against these destructive forces. During the final battle, now called the **Battle of Aetherion**, the Aetherial Wardens confronted the chaotic forces on the desolate plains of the **Aetherial Abyss**, a boundary between realms where the currents of law and chaos are at their strongest. With the Rod of Seven Parts, they successfully imprisoned the Chaos Lord and brought a fragile peace to Aetheria Fracta. Though victorious, the Wardens themselves were shattered in the aftermath, their numbers decimated and their influence fading from mortal memory. Many withdrew to remote parts of the world, while others disappeared entirely, leaving their once-great legacy largely forgotten.
 

@@ -3,30 +3,31 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "preserving-salts"
+aliases: "Preserving Salts"
 source: "Homebrew"
 pg: ""
-rarity: "Rare"
-trait01: "magical"
-trait02: ""
-trait03:
+rarity: "Common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "chimeric"
+trait03: ""
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+level: 1
 group: 
-weight: 1
-value: "75"
+bulk: L
+value: "5"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: 
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This small ceramic jar contains coarse, alchemically treated crystalline salts. When sprinkled over freshly harvested monster parts, they draw out ambient humidity and magical instability, greatly slowing the decomposition process.<br><br>You may apply Preserving Salts to protect up to 25 gp worth of monster parts from degradation. This effect lasts for 3 full days. Parts protected by salts retain their Fresh condition regardless of elapsed time. Preserving salts are unable to protect rare monster parts.<br><br>  Once opened and exposed to air, the salts lose potency and expire after 1 hour if not applied. Applying salts takes 1 minute and requires access to the monster parts being preserved. Multiple doses can be used to preserve additional parts or extend the duration on the same batch (GM discretion)."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +133,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 

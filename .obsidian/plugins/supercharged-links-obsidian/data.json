@@ -15,18 +15,6 @@
     {
       "type": "tag",
       "name": "",
-      "value": "Era",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "5871-bd1b",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "tag",
-      "name": "",
       "value": "NPC",
       "matchCaseSensitive": false,
       "match": "exact",

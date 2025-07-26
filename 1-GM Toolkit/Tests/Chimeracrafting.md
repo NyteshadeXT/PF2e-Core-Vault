@@ -7,47 +7,74 @@ itemType: 2
 refineLevel: 15
 ItemType: 2
 refineRoll: 0.001
+recallRarity: 14
+creatureCR: 6
+creatureTrait: Arcana, Nature
+toolSelector: 1
 ---
 
 # Gathering Ingredients
 >[!law | background-brown color-blue]+ ## Gathering Ingredients
 >> [! recite |  right  wsmall]+ Harvest Example 
->> The party has just slain a Hydra and harvests for parts. Quynn, the party's ranger, would like to harvest the creature.  A Hydra is a level 6 Huge creature so the GM has Quynn roll 1d10 for total parts harvested, rolling total of 4. After 40 minutes Quynn receives 4 parts.  He wishes to attempt to harvest more, and makes a Survival check (DC 22). Quynn, gets a Success and after an additional 40 minutes gains 2 (1d4) more parts. If he had gotten a Critical Success he would have gained 2d4 additional parts. Since the hydra is CR 6 Quynn can record the total bounty as 15 gp worth of hydra parts.
+>> ![[monster-parts-quickstart-gather-ingredients.webp]]
+>> The party has just slain a Hydra and harvests for parts. Quynn, the party's ranger, would like to harvest the creature.  A Hydra is a level 6 Huge creature so the GM has Quynn roll 1d10 for total parts harvested, rolling total of 4. After 40 minutes Quynn receives 4 parts.  He then attempts a targeted harvest check, and makes a Survival check (DC 22). Quynn, gets a Success and after an additional 10 minutes gains 1 rare part. Had he failed Quynn would have still harvested 1d4 regular monster parts. Since the hydra is CR 6 Quynn can record the total bounty as 15 gp worth of hydra parts as well as the one rare part he harvested.
 > 
-> The first step in upgrading weapons with monster parts is gathering suitable parts. After a battle, the PCs can spend 10 minutes per size category of the creature gathering the monsters’ parts beginning with small. 
+> The first step in upgrading weapons with monster parts is gathering suitable parts. After a battle, a player with the proper harvesting tools (either [[monster-harvesting-tools|Monster Harvesting Tools]] or [[superior-monster-harvesting-tools|Superior Monster Harvesting Tools]]) can spend 10 minutes per size category of the creature gathering the monsters’ parts beginning with small. 
 >
-> The types of parts that can be harvested and refined fall into four categories, **Elemental**, **Esoteric**, **Visage**, and **Aspect**. *Elemental* and *Esoteric* parts will allow a character to refine their weapons and *Visage* and *Aspect* to refine armor, and other wearable items. However, the GM has final say in how harvested parts can be used, and which categories the parts can be used towards for gaining an [[#Augmentation]]. 
+> ### Standard Harvest
+> If the GM determines that parts can be harvested from the slain creature, roll to see how many parts are harvested. Typically the PCs can harvest a number of parts from any given creature based on it's size.  1d4 parts from a small creature, 1d6 parts from a medium, 1d8 parts from a large, 1d10 parts from a huge and 1d12 parts from a gargantuan. The value of these parts can be determined by consulting the Parts Value by Level table below.  
+>
+> ### Targeted Harvest
+> After harvesting standard parts, a PC may attempt a **Targeted Harvest check** to extract rare, specific monster components.  A player with the [[Skills#Survival|Survival]] skill or an appropriate [[Skills#Lore|Lore]] skill (as determined by the GM) may attempt a Targeted Harvest check to extract rare, specific parts like venom sacs, frills, or magical glands.  The DC for this skill check is usually equal to the Simple DC for the creature’s level (see [[DC Calculator]]), adjusted by rarity or other traits as needed. 
+>
+>> [!warning]
+>> **Note (GM Only):** Some monster parts may be flagged with traits like volatile, unstable, or reactive. These indicate that the part is dangerous or magically sensitive and may require Superior Monster Harvesting Tools to process safely.
+>
+> | **Targeted Harvest Results** |  |
+> |--- | --- |
+> | **Critical Success** | The GM randomly selects 2 rare parts from the creatures Harvest Table. |
+> | **Success** |The GM randomly selects 1 rare part from the creatures Harvest Table. |
+> | **Failure** | No rare parts are recovered, but you gain 1d4 additional monster parts due to incidental salvage. |
+> | **Critical Failure** | The corpse is too degraded to yield more value.  No additional parts are harvested. |
 > 
-> If the GM determines that parts can be harvested from the slain creature, roll to see how many parts are harvested. Typically the PCs can harvest a number of parts from any given creature based on it's size.  1d4 parts from a small creature, 1d6 parts from a medium, 1d8 parts from a large, 1d10 parts from a huge and 1d12 parts from a gargantuan. The value of these parts can be determined by consulting the Parts Value by Level table below.  Additionally, a player with the [[Skills#Survival|Survival]] skill or an appropriate [[Skills#Lore|Lore]] skill (as determined by the GM) may attempt an skill check to obtain 1d4 additional parts (or 2d4 on a Critical Success).  The DC for this skill check is set by the GM but is usually the simple DC based on the level of the creature. This takes the same amount of time as the initial attempt and may be enhanced by the [[Aid]] action.
-> 
-> Preserving parts
+> The Targeted Harvest takes 10 minutes to complete and may be enhanced by the [[Aid]] action.  Once the Targeted Harvest is resolved, no further harvesting attempts can be made. The corpse is fully stripped of all usable resources.  
 > 
 > While the Bulk is at the GM’s discretion, typical Bulk values are light Bulk for the parts of a Small creature, 1 Bulk for Medium, 2 Bulk for Large, 4 Bulk for Huge, and 8 Bulk for Gargantuan. As such, it is usually a good idea for PCs to use the parts quickly to upgrade their items via refining and imbuing. 
+> 
+> ### Degradation and Preservation of Monster Parts
+> Monster parts—especially volatile, magical, or biologically active ones—begin to degrade shortly after harvest. Unless preserved, these materials lose their value rapidly, becoming unusable for refining, imbuement, or formula discovery. This decay applies to both generic and rare parts, including cores, fangs, venom sacs, and frills. The clock starts once a creature is harvested.  Each 24-hour period reduces the value and reliability of these parts. To reflect this, monster parts track a degradation condition based on time since harvest. Preserving agents (like [[preserving-salts|Preserving Salts]] and [[organ-ward-resin|Organ Ward Resin]], spells (like [[Preserve Organic]]), or magic items (like [[cryopod-flask|Cryopod Flask]]) can delay or halt this process. Adventurers are encouraged to refine or imbue parts as quickly as possible, especially before travel or rests.
 >
->>[! creature | background-black color-red]- Parts Value by Level
+>> [!column | 2 no-t no-i] 
+>>> ## Monster Part Degradation Table
+>>> |Time Since Harvest|Condition|Value Modifier|
+>>> |---|---|---|---|
+>>> |0–24 hours|**Fresh**|100%|
+>>> |1–3 days|**Aging**|75%|
+>>> |4–7 days|**Spoiling**|50%|
+>>> |>7 days|**Decayed**|0%|
 >>
->>![[Tables - Full Variant#Table 2C Monster Parts Gained Per Monster (Full Variant)|Parts Value by Level]]
+>>> ## Harvesting Calculator
+>>>|  |
+>>>|-------------------|---------------------------------------------------------------|
+>>>| **Creature Level:**  | `INPUT[number:frontmatter^creatureLevel]`
+>>>| **Creature Size**                | `INPUT[inlineSelect(option(1,Small), option(2,Medium), option(3,Large), option(4,Huge), option(5,Gargantuan)):frontmatter^creatureSize]` |
+>>>| **Time to Harvest (minutes)**    | `VIEW[({creatureSize}==1?10:{creatureSize}==2?20:{creatureSize}==3?30:{creatureSize}==4?40:{creatureSize}==5?50:0)]` |
+>>>| **Exact Monster Part Value (gp)** | `VIEW[({frontmatter^creatureLevel} == -1 ? 6.5 : {frontmatter^creatureLevel} == 0  ? 9   : {frontmatter^creatureLevel} == 1  ? 13  : {frontmatter^creatureLevel} == 2  ? 22  : {frontmatter^creatureLevel} == 3  ? 30  : {frontmatter^creatureLevel} == 4  ? 50  : {frontmatter^creatureLevel} == 5  ? 80  : {frontmatter^creatureLevel} == 6  ? 125 : {frontmatter^creatureLevel} == 7  ? 180 : {frontmatter^creatureLevel} == 8  ? 250 : {frontmatter^creatureLevel} == 9  ? 360 : {frontmatter^creatureLevel} == 10 ? 500 : {frontmatter^creatureLevel} == 11 ? 720 : {frontmatter^creatureLevel} == 12 ? 1030: {frontmatter^creatureLevel} == 13 ? 1560: {frontmatter^creatureLevel} == 14 ? 2300: {frontmatter^creatureLevel} == 15 ? 3400: {frontmatter^creatureLevel} == 16 ? 5150: {frontmatter^creatureLevel} == 17 ? 8000: {frontmatter^creatureLevel} == 18 ? 13000: {frontmatter^creatureLevel} == 19 ? 22500: {frontmatter^creatureLevel} == 20 ? 30000: {frontmatter^creatureLevel} == 21 ? 45000: {frontmatter^creatureLevel} == 22 ? 60000: {frontmatter^creatureLevel} == 23 ? 90000: {frontmatter^creatureLevel} == 24 ? 120000: {frontmatter^creatureLevel} == 25 ? 180000: 0)][math:frontmatter^creatureValue]` |
+>>>| **Avg Parts Value per Creature (gp)**| `VIEW[round({frontmatter^creatureValue} / 50, 2)]` | 
 >
->| Harvesting Calculator |
->|-------------------|---------------------------------------------------------------|
->| **Creature Level:**  | `INPUT[number:frontmatter^creatureLevel]`
->| **Creature Size**                | `INPUT[inlineSelect(option(1,Small), option(2,Medium), option(3,Large), option(4,Huge), option(5,Gargantuan)):frontmatter^creatureSize]` |
->| **Time to Harvest (minutes)**    | `VIEW[({creatureSize}==1?10:{creatureSize}==2?20:{creatureSize}==3?30:{creatureSize}==4?40:{creatureSize}==5?50:0)]` |
->| **Exact Monster Part Value (gp)** | `VIEW[({frontmatter^creatureLevel} == -1 ? 6.5 : {frontmatter^creatureLevel} == 0  ? 9   : {frontmatter^creatureLevel} == 1  ? 13  : {frontmatter^creatureLevel} == 2  ? 22  : {frontmatter^creatureLevel} == 3  ? 30  : {frontmatter^creatureLevel} == 4  ? 50  : {frontmatter^creatureLevel} == 5  ? 80  : {frontmatter^creatureLevel} == 6  ? 125 : {frontmatter^creatureLevel} == 7  ? 180 : {frontmatter^creatureLevel} == 8  ? 250 : {frontmatter^creatureLevel} == 9  ? 360 : {frontmatter^creatureLevel} == 10 ? 500 : {frontmatter^creatureLevel} == 11 ? 720 : {frontmatter^creatureLevel} == 12 ? 1030: {frontmatter^creatureLevel} == 13 ? 1560: {frontmatter^creatureLevel} == 14 ? 2300: {frontmatter^creatureLevel} == 15 ? 3400: {frontmatter^creatureLevel} == 16 ? 5150: {frontmatter^creatureLevel} == 17 ? 8000: {frontmatter^creatureLevel} == 18 ? 13000: {frontmatter^creatureLevel} == 19 ? 22500: {frontmatter^creatureLevel} == 20 ? 30000: {frontmatter^creatureLevel} == 21 ? 45000: {frontmatter^creatureLevel} == 22 ? 60000: {frontmatter^creatureLevel} == 23 ? 90000: {frontmatter^creatureLevel} == 24 ? 120000: {frontmatter^creatureLevel} == 25 ? 180000: 0)][math:frontmatter^creatureValue]` |
->| **Avg Parts Value per Creature (gp)**| `VIEW[round({frontmatter^creatureValue} / 50, 2)]` | 
-
-
-
-
+> [! creature | background-black color-red]- Parts Value by Level
+> [[Tables - Full Variant#Table 2C Monster Parts Gained Per Monster (Full Variant)|Parts Value by Level]]
+>
 
 
 # Refinement
 
->[!law | background-black color-blue]+ ## Refining
+>[!law | background-gray no-t no-i]+ ## Refining
 >> [!recite| wsmall right]+ Refinement Example
->> **PF2e** — A fighter wants to refine a greataxe using monster parts from a recently defeated a pair of Smilodon.  Since the Smilodon claw attack is a slashing attack he can use those part to craft the weapon. The fighter has 275 gp worth of Smilodon parts. They start by building the greataxe for 2 gp, leaving them with 273 gp in parts. Using 250 gp, they refine the greataxe to item level 6, passing a **Refine DC 21** which grants a +1 item bonus to attack rolls, an extra damage die, and the ability to imbue an additional property. With 24 gp worth of parts remaining, the greataxe is partially refined towards level 7, requiring 86 more gp worth of parts to reach the next level.  On the fighters character sheet he would record a **+1 Striking Greataxe (6)**
+>> ![[monster-parts-quickstart-refine-item.webp]]
+>> The parties fighter wants to refine a greataxe using monster parts from a recently defeated a pair of smilodon.  Since the smilodon claw attack is a slashing attack he can use those part to craft the weapon. The fighter has 275 gp worth of Smilodon parts. They start by building the greataxe for 2 gp, leaving them with 273 gp in parts. Using 250 gp, they refine the greataxe to item level 6, passing a **Refine DC 21** which grants a +1 item bonus to attack rolls, an extra damage die, and the ability to imbue an additional property. With 24 gp worth of parts remaining, the greataxe is partially refined towards level 7, requiring 86 more gp worth of parts to reach the next level.  On the fighters character sheet he would record a **+1 Striking Greataxe (6)**
 >
-> To begin, the player refines an item from the collected monster parts creating a chimeracrafted mundane item as the basis for further development.  Weapons, armor, shields, perception items, skill items and staves are the six main categories of item a character is able to refine.  Simply gather parts equivalent to the item's standard creation cost (e.g., 1 sp for a spear) and [[Craft]] the desired item.  Note, that all Chimeracrafted items are considered at least [[uncommon]] for crafting purposes.
+> To begin, the player refines an item from the collected monster parts creating a chimeracrafted mundane item as the basis for further development.  Weapons, armor, shields, perception items, skill items and staves are the six main categories of item a character is able to refine.  Simply gather parts equivalent to the item's standard creation cost (e.g., 1 sp for a spear) and [[Craft]] the desired item.  Note, that all Chimeracrafted items are considered at least [[uncommon]] for crafting purposes.  Crafting the initial item can be assisted with the [[Aid]] action as per normal Pathfinder rules.
 > 
 > [[DC Calculator#Crafting Calculator|Crafting Calculator]]
 > 
@@ -55,336 +82,163 @@ refineRoll: 0.001
 > 
 > You may come across Chimeracrafted items during your adventures.  In this case, you may want to Salvage the item completely or Transfer the items refinement and imbued properties. Salvaging allows you to recover up to 50% of the parts used in a refined item. To Transfer the refinement value or the value of an imbued property from one item of the same type (a weapon, armor, shield, Perception item, or skill item) to another with a lower value, first choose what to swap, either the refinement value or the value of one of the imbued properties. In order to successfully transfer refinement value, the two items must have compatible requirements for the type of monster parts they need. For instance, you couldn’t transfer refinement from a bludgeoning weapon to a slashing weapon because they have different requirements. To perform the transfer, you’ll need to provide additional monster parts worth 10% of the difference in values between the two. This flexible system ensures that players can enhance their gear using monster parts, providing unique upgrades and customizations based on their adventures and the monsters they defeat.  
 >
->>[!column | 2] Refining Calculators
+>>### Refining Calculators
+>>
+>>> [!column | 2 no-t no-i] 
+>>>>| Refining DC & Cost Calculator |
+>>>>|-------------------|---------------------------------------------------------------|
+>>>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
+>>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
+>>>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
+>>>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
+>>>>| **Check Result** | `INPUT[inlineSelect(option(1, Critical Success), option(0.003, Success), option(0.002, Failure), option(0.001, Critical Failure)):refineRoll]`|
+>>>>| **Consequence** | `VIEW[({refineRoll} >= 1 ? "You expend half the materials and refine the item." : ({refineRoll} >= 0.003 ? "You expend the materials and refine the item." : ({refineRoll} >= 0.002 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. The materials aren't expended." : ({refineRoll} <= 0.001 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. You expend half the materials." : ""))))]` |
 >>>
->>>| Refining DC & Cost Calculator |
->>>|-------------------|---------------------------------------------------------------|
->>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
->>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
->>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
->>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
->>>| **Check Result** | `INPUT[inlineSelect(option(1, Critical Success), option(0.003, Success), option(0.002, Failure), option(0.001, Critical Failure)):refineRoll]`|
->>>| **Consequence** | `VIEW[({refineRoll} >= 1 ? "You expend half the materials and refine the item." : ({refineRoll} >= 0.003 ? "You expend the materials and refine the item." : ({refineRoll} >= 0.002 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. The materials aren't expended." : ({refineRoll} <= 0.001 ? "You fail to refine the item. You can try again during your next daily preperation or downtime. You expend half the materials." : ""))))]` |
->>
->>>| Salvage Calculator |
->>>|-------------------|---------------------------------------------------------------|
->>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
->>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
->>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
->>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
+>>>>| Salvage Calculator |
+>>>>|-------------------|---------------------------------------------------------------|
+>>>>| **Refinement Level:**  | `INPUT[number:frontmatter^refineLevel]`
+>>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item), option(5,Staff)):frontmatter^ItemType]` |
+>>>>| **Refining DC**| `VIEW[round({refineLevel} + 14 + ({refineLevel}/3))]`  |
+>>>>| **Refinement Cost:** | `VIEW[(({ItemType} <= 2) ? ({refineLevel} == 1  ?   20 : {refineLevel} == 2  ?   35 : {refineLevel} == 3  ?   60 : {refineLevel} == 4  ?  100 : {refineLevel} == 5  ?  160 : {refineLevel} == 6  ?  250 : {refineLevel} == 7  ?  360 : {refineLevel} == 8  ?  500 : {refineLevel} == 9  ?  700 : {refineLevel} == 10 ? 1000 : {refineLevel} == 11 ? 1400 : {refineLevel} == 12 ? 2000 : {refineLevel} == 13 ? 3000 : {refineLevel} == 14 ? 4500 : {refineLevel} == 15 ? 6500 : {refineLevel} == 16 ?10000 : {refineLevel} == 17 ?15000 : {refineLevel} == 18 ?24000 : {refineLevel} == 19 ?40000 : {refineLevel} == 20 ?70000 : 0) : ({refineLevel} == 1  ?   10 : {refineLevel} == 2  ?   20 : {refineLevel} == 3  ?   35 : {refineLevel} == 4  ?   60 : {refineLevel} == 5  ?  100 : {refineLevel} == 6  ?  160 : {refineLevel} == 7  ?  240 : {refineLevel} == 8  ?  340 : {refineLevel} == 9  ?  470 : {refineLevel} == 10 ?  670 : {refineLevel} == 11 ?  950 : {refineLevel} == 12 ? 1350 : {refineLevel} == 13 ? 2000 : {refineLevel} == 14 ? 3000 : {refineLevel} == 15 ? 4300 : {refineLevel} == 16 ? 6500 : {refineLevel} == 17 ?10000 : {refineLevel} == 18 ?16000 : {refineLevel} == 19 ?25000 : {refineLevel} == 20 ?45000 : 0))][math]` gp |
 
-# Augmentation
->[!item]+ ## Augments
+# Imbuing
+>[!item |background-black no-t no-i]+
 >> [! note | clean no-i no-t] 
->> ### How to get an Augment
->> After an item has been refined to certain level within one of the four refinement categories, it will gain an Augment of the essence of the creatures and magic used to refine the item. Depending on your item category will depend on which Augments you gain.
+>>> [! recite | right wsmall] Imbuing Example
+>>> ![[monster-parts-quickstart-imbue-item.webp]]
+>>>  The party’s fighter just refined a level 6 greataxe out of smilodon parts. Realizing they could also imbue a property, they decided the only thing better than a smilodon tooth longsword is one that’s on fire! Fortunately, the group recently defeated a pair of magma scorpions, gaining 280 gp worth of parts. Since the magma scorpions have the fire trait (and a attack with the fire trait), the fighter imbues all the parts into their greataxe, choosing to imbue the property of fire. The fighter has three choices of path for this imbued property and chooses the path of might. Imbuing 250 gp of parts increases the imbued property’s level to 6 (the current maximum, since the item level of the greataxe is 6), and lights the tyrannosaurus tooth longsword aflame, allowing it to deal 1d4 additional fire damage! The final weapon is a **+1 striking fire might (6) tyrannosaurus tooth longsword (6)!**
+>> ### How to get Imbued Properties
+>> After an item has been refined to certain level, it will unlock the ability to imbue the item with special magical properties known as imbued properties or imbuements.
 >>
->> As stated before in [[#Refinement]] there are four Augmentation categories, and each have their own subcategories. The four main augments are, **Elemental**, **Esoteric**, **Visage**, and **Aspect**. With these once a certain level has been reached in Refinement, the item will become augmented and will gain a Augmentation as listed below.
->>
->> ### Choosing an Augment
->> Augments can vary depending on what the character is planning on using. For Weapons, the choice is broken down primarily by which Origin is used for Augmentation. The three Origins are, Arcane, Ravage, and Talent, and each have their own unique features.
->>
->> When a character has begun refining their item they must choose which Origin they wish to refine their weapon towards. When a refinement is destroyed or removed either by choice or by salvaging, the item loses the Augmentation it had previously gained.
+>> Imbuing an item is similar in function to refining an item; add monster parts that meet the requirements for the imbued property you want to add to the item.  Additionally, you are able to further imbue that property and when you’ve added enough monster parts, you “level up” the imbued property, potentially granting new and more powerful benefits. Just like with refining, you can’t use monster parts if they do not meet the requirements for the imbued property. 
 >> 
->> ###  Multiple Origin Augments (Optional)
->> This is a variant rule that is up to the GM if they wish to allow. Multiple Origin Augments (**MoA**) allows for a character to augment their items with different Augments of different origins. While this can create unique combos and interesting effects this can lead to some possibly stronger characters.
->>
->>> [! recite | right wsmall] **MoA** Example
->>>  *A level 12 fighter can have a Greatsword with Arcane origin Level 2, Ravage origin level 6, and Talent Origin level 4, for a total Origin level of 12.*
->>
->> If this variant rule is used combos of all kinds can be used. A weapon can be refined to be augmented with both Fire and Ice, Sonic and Electricity, or Void and Radiant/Vitality. Even armor can benefit from this rule allowing for combination of unique magic armor.
-
-## Augments: Pathfinder 2e
-### Weapons
->[!tip |background-black]+ #### Elemental IMBUED
-><font color=lightblue> Elemental • Evocation • Magical </font>
->**Type:** Weapon
->**Parts:** The monster must have a trait or an attack or spell that deals elemental damage as the following: **Acid**, **Cold**, **Fire**, **Electricity**, or **Poison**.
->**Effect:** You imbue the weapon with primeval essence of the elements.
->>[! recite | clean] *DM chooses the available spell rarity for Arcane origins*
->
->>[!column | 3] Origins
->>> [! hist]- - Arcane
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 2nd | Gain an elemental appropriate cantrip, heightened to half the item's level rounded up. |
->>> | 4th | Gain an elemental appropriate spell of 1st level, usable once per day. |
->>> | 6th | Gain an elemental appropriate spell of 2nd level, usable once per day. |
->>> | 8th | Gain an elemental appropriate spell of 3rd level, usable once per day. |
->>> | 10th | Strikes deal 1 additional elemental damage. |
->>> | 12th | Gain an elemental appropriate spell of 4th level, usable once per day. |
->>> | 14th | Strikes increase to 1d4 elemental damage. |
->>> | 16th | Gain an elemental appropriate spell of 6th level, usable once per day. |
->>> | 18th | Strikes increase to 1d6 elemental damage. |
->>> | 20th | Gain an elemental appropriate spell of 9th level, usable once per day. |
->>
->>> [! encounter]- - Ravage
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 4th | Strikes deal 1 additional elemental damage. |
->>> | 6th | Additional elemental damage increases to 1d4. |
->>> | 8th | Additional elemental damage increases to 1d6. On a crit, see unique crit effect in critical table. |
->>> | 12th | Elemental damage ignores resistances. |
->>> | 14th | Gain a unique feature related to the element (see Ravage feat table). |
->>> | 18th | Persistent elemental damage increases to 1d10. |
->>> | 20th | On a crit, target is drained 1 and elemental weakness half your level rounded up. |
->>
->>> [! interest]- - Talent
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 4th | Strikes deal 1 persistent elemental damage. |
->>> | 6th | Strikes deal 1 additional elemental damage. |
->>> | 8th | Persistent elemental damage increases to 1d6. |
->>> | 12th | Elemental damage ignores resistances. |
->>> | 14th | Persistent elemental damage increases to 1d8. |
->>> | 16th | Unique feature related to the element (see Talent feat table). |
->>> | 18th | Persistent elemental damage increases to 1d10. |
->>> | 20th | Unique feature related to the element (see Ravage feat table). |
->
->> [!column| 2]+ Path Features
+>> For example, if you are imbuing an ice elemental property onto your weapon, you can’t use parts from a monster that doesn’t have a connection to the ice element.  This is usually accomplished by either having the cold trait or having cold abilities or spells. Track the value of each imbued property separately from the monster parts you use to refine the item, and if the item is high enough level and of the right type to be imbued multiple times, track the value for each imbued property separately from each other. You can continue adding value to the imbued property as you use more parts to imbue the property, just like with refining; it’s much like gaining Experience Points to level up your items!
 >> 
->>> [! encounter]- - Ravage Feat
->>> 
->>> | Element | Feat | Effect |
->>> | --- | --- | --- |
->>> | Acid | Corrosive Aura | When you critically hit with this weapon, you gain an aura that deals 1d6 acid damage to any creature that starts its turn within 5 feet of you. This aura lasts for 1 minute. |
->>> | Cold | Frostbite | When you critically hit with this weapon, the target must succeed at a Fortitude save or be paralyzed for 1 round. If the target fails the save by 5 or more, they are paralyzed for 2 rounds. |
->>> | Electricity | Storm's Wrath | When you critically hit with this weapon, you gain resistance to electricity damage equal to twice your level for 1 minute. Additionally, the weapon gains the **Shock** trait for the duration. |
->>> | Fire | Inferno Burst | When you critically hit with this weapon, a burst of flames erupts in a 10-foot radius around the target, dealing 2d6 fire damage to all creatures in the area. Creatures in the area must succeed at a Reflex save or catch fire, taking 1d6 persistent fire damage. |
->>> | Poison | Venomous Cloud | When you critically hit with this weapon, you release a cloud of poisonous gas in a 10-foot radius. Creatures in the area must succeed at a Fortitude save or be poisoned, taking 1d6 poison damage at the start of their turn for 1 minute. |
+>> [[Tables - Imbuing Cost by Item Level]] outlines the value of parts required to advance the property to the next level.
 >>
->>> [! interest]- - Talent Feats
->>> 
->>> | Element | Feat | Effect |
->>> | --- | --- | --- |
->>> | Acid | Acidic Trail | When you move, you leave a trail of acid behind you. Any creature that moves through the trail takes 1d6 acid damage and must succeed at a Reflex save or have their speed reduced by half until the end of their next turn. |
->>> | Cold | Icy Path | When you move, you leave a trail of ice behind you. Any creature that moves through the trail must succeed at an Acrobatics check or fall prone. The ice remains for 1 minute or until it is melted by a fire effect. |
->>> | Electricity | Lightning Reflexes | When you critically hit with this weapon, you gain a +2 circumstance bonus to Reflex saves and your speed increases by 10 feet for 1 minute. |
->>> | Fire | Blazing Speed | When you critically hit with this weapon, your speed increases by 20 feet and you leave a trail of fire behind you. Any creature that starts its turn in the trail or moves through it takes 1d6 fire damage. The fire trail lasts for 1 minute. |
->>> | Poison | Toxic Strike | When you critically hit with this weapon, the target is afflicted with a powerful toxin. They must succeed at a Fortitude save or be sickened 1 and take 1d6 persistent poison damage. The sickened condition lasts until the poison is neutralized. |
+>>Just like with refining, an imbued property’s level can never be higher than the item’s level or your level, whichever is lower. Unlike refining, which only has a single option depending on the type of item, you can choose from several options when you imbue an item, and some of them have multiple upgrade paths, allowing you to customize your item to match your personal playstyle.
 >
->>[! danger | clean]+ Critical Table
+> ### Imbuement Calculators
 >>
->>| Element | Feat | Effect |
->>| --- | --- | --- |
->>| **Acid** | Corrosive Strike | On a critical hit, the target's armor or shield takes 3d6 acid damage (before applying Hardness). If the target has no armor or shield, they take an additional 1d6 persistent acid damage. |
->>| **Cold** | Freezing Impact | On a critical hit, the target must succeed at a Fortitude save or be slowed 1 until the end of your next turn. If the target fails the save by 5 or more, they are slowed 2. |
->>| **Electricity** | Arcing Shock | On a critical hit, electricity arcs to up to two additional creatures within 10 feet of the target, dealing 1d6 electricity damage to each. These secondary targets must succeed at a Reflex save or be stunned 1. |
->>| **Fire** | Explosive Blast | On a critical hit, the target takes an additional 1d6 fire damage, and all creatures adjacent to the target take 1d6 fire damage as well. These creatures must succeed at a Reflex save or catch fire, taking 1d6 persistent fire damage. |
->>| **Poison** | Venomous Strike | On a critical hit, the target takes an additional 1d6 poison damage and must succeed at a Fortitude save or be enfeebled 1 for 1 minute. If the target fails the save by 5 or more, they are enfeebled 2. |
+>>> [!column | 2 no-t no-i] 
+>>>>| Imbuement DC & Cost Calculator |
+>>>>|-------------------|---------------------------------------------------------------|
+>>>>| **Imbuement Level:**  | `INPUT[number:frontmatter^imbueLevel]`
+>>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item)):frontmatter^ItemType]` |
+>>>>| **Imbuement DC**| `VIEW[round({imbueLevel} + 14 + ({imbueLevel}/3))]`  |
+>>>>| **Imbuement Cost:** | `VIEW[(({ItemType} <= 2) ? ({imbueLevel} == 1  ?   20 : {imbueLevel} == 2  ?   35 : {imbueLevel} == 3  ?   60 : {imbueLevel} == 4  ?  100 : {imbueLevel} == 5  ?  160 : {imbueLevel} == 6  ?  250 : {imbueLevel} == 7  ?  360 : {imbueLevel} == 8  ?  500 : {imbueLevel} == 9  ?  700 : {imbueLevel} == 10 ? 1000 : {imbueLevel} == 11 ? 1400 : {imbueLevel} == 12 ? 2000 : {imbueLevel} == 13 ? 3000 : {imbueLevel} == 14 ? 4500 : {imbueLevel} == 15 ? 6500 : {imbueLevel} == 16 ?10000 : {imbueLevel} == 17 ?15000 : {imbueLevel} == 18 ?24000 : {imbueLevel} == 19 ?40000 : {imbueLevel} == 20 ?70000 : 0) : ({imbueLevel} == 1  ?   10 : {imbueLevel} == 2  ?   20 : {imbueLevel} == 3  ?   35 : {imbueLevel} == 4  ?   60 : {imbueLevel} == 5  ?  100 : {imbueLevel} == 6  ?  160 : {imbueLevel} == 7  ?  240 : {imbueLevel} == 8  ?  340 : {imbueLevel} == 9  ?  470 : {imbueLevel} == 10 ?  670 : {imbueLevel} == 11 ?  950 : {imbueLevel} == 12 ? 1350 : {imbueLevel} == 13 ? 2000 : {imbueLevel} == 14 ? 3000 : {imbueLevel} == 15 ? 4300 : {imbueLevel} == 16 ? 6500 : {imbueLevel} == 17 ?10000 : {imbueLevel} == 18 ?16000 : {imbueLevel} == 19 ?25000 : {imbueLevel} == 20 ?45000 : 0))][math]` gp |
+>>>>| **Check Result** | `INPUT[inlineSelect(option(1, Critical Success), option(0.003, Success), option(0.002, Failure), option(0.001, Critical Failure)):imbueRoll]`|
+>>>>| **Consequence** | `VIEW[({imbueRoll} >= 1 ? "You expend half the materials and imbue the item." : ({imbueRoll} >= 0.003 ? "You expend the materials and imbue the item." : ({imbueRoll} >= 0.002 ? "You fail to imbue the item. You can try again during your next daily preperation or downtime. The materials aren't expended." : ({imbueRoll} <= 0.001 ? "You fail to imbue the item. You can try again during your next daily preperation or downtime. You expend half the materials." : ""))))]` |
+>>>
+>>>>| Salvage Calculator |
+>>>>|-------------------|---------------------------------------------------------------|
+>>>>| **Imbuement Level:**  | `INPUT[number:frontmatter^imbueLevel]`
+>>>>| **Item Type**                | `INPUT[inlineSelect(option(1,Weapon), option(2,Armor), option(3,Shield), option(4,Perception Item), option(5,Skill Item)):frontmatter^ItemType]` |
+>>>>| **Imbuement DC**| `VIEW[round({imbueLevel} + 14 + ({imbueLevel}/3))]`  |
+>>>>| **Imbuement Cost:** | `VIEW[(({ItemType} <= 2) ? ({imbueLevel} == 1  ?   20 : {imbueLevel} == 2  ?   35 : {imbueLevel} == 3  ?   60 : {imbueLevel} == 4  ?  100 : {imbueLevel} == 5  ?  160 : {imbueLevel} == 6  ?  250 : {imbueLevel} == 7  ?  360 : {imbueLevel} == 8  ?  500 : {imbueLevel} == 9  ?  700 : {imbueLevel} == 10 ? 1000 : {imbueLevel} == 11 ? 1400 : {imbueLevel} == 12 ? 2000 : {imbueLevel} == 13 ? 3000 : {imbueLevel} == 14 ? 4500 : {imbueLevel} == 15 ? 6500 : {imbueLevel} == 16 ?10000 : {imbueLevel} == 17 ?15000 : {imbueLevel} == 18 ?24000 : {imbueLevel} == 19 ?40000 : {imbueLevel} == 20 ?70000 : 0) : ({imbueLevel} == 1  ?   10 : {imbueLevel} == 2  ?   20 : {imbueLevel} == 3  ?   35 : {imbueLevel} == 4  ?   60 : {imbueLevel} == 5  ?  100 : {imbueLevel} == 6  ?  160 : {imbueLevel} == 7  ?  240 : {imbueLevel} == 8  ?  340 : {imbueLevel} == 9  ?  470 : {imbueLevel} == 10 ?  670 : {imbueLevel} == 11 ?  950 : {imbueLevel} == 12 ? 1350 : {imbueLevel} == 13 ? 2000 : {imbueLevel} == 14 ? 3000 : {imbueLevel} == 15 ? 4300 : {imbueLevel} == 16 ? 6500 : {imbueLevel} == 17 ?10000 : {imbueLevel} == 18 ?16000 : {imbueLevel} == 19 ?25000 : {imbueLevel} == 20 ?45000 : 0))][math]` gp |
 
+>[!tip |background-black]+ ## Imbued Properties
+>>[!column | 3] Item Categories
+>>>### Armor Imbuments
+>>>[[Energy Resistant]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Fortification|Fortification]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Winged|Winged]]
+>>
+>>>### Shield Imbuments
+>>>[[Energy Resistant]]
+>>>[[Sturdy]]
+>>
+>>>### Skill Item Imbuments
+>>>[[Charisma]]
+>>>[[Constitution]]
+>>>[[Dexterity]]
+>>>[[Intelligence]]
+>>>[[Spell]]
+>>>[[Strength]]
+>>>[[Wisdom]]
 
+>[!tip |background-black]+ ### Imbued Properties
+>>[!column | 2] Item Categories
+>>>### Perception Item
+>>>[[Sensory]]
+>>>[[Wisdom]]
+>>
+>>>### Weapons
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Acid|Acid]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Air|Air]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Bane|Bane]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Chaotic|Chaotic]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Cold|Cold]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Darkness|Darkness]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Earth|Earth]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Electricity|Electricity]]
+>>>[[Elongating]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Evil|Evil]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Fire|Fire]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Force|Force]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Good|Good]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Lawful|Lawful]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Light|Light]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Mental|Mental]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Negative|Negative]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Poison|Poison]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Positive|Positive]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Sonic|Sonic]]
+>>>[[Throwing]]
+>>>[[3-Rules/Battlezoo Bestiary Monster Parts/Imbued Properties/Water|Water]]
+>>>[[Wild]]
+>>>[[Wood]]
 
->[! law |background-black]+ #### Esoteric IMBUED
-><font color=lightblue> Esoteric • Evocation • Magical </font>
->**Type:** Weapon
->**Parts:** The monster must have a trait or an attack or spell that deals esoteric damage as the following: **Aberrant**, **Force**, **Sonic**, **Vitality**, or **Void**.
->**Effect:** You channel the mysterious powers of esoteric forces into the weapon.
->>[! recite | clean] *DM chooses the available spell rarity for Arcane origins*
+# Formula Discovery
+>[!law | background-gray no-t no-i]+ ## Discovery
+>> [!recite| wsmall right]+ Discovery Example
+>> The party’s alchemist, Mira, has just returned from a brutal encounter in the fungal depths of the Hollow Scar. Among the spoils: parts from a [[great-wroggi|Great Wroggi]]—notably its **venom sac**, **spiny hide**, and a **glowing gland** from beneath its throat. While the rest of the party rests, Mira unfurls her [[superior-monster-harvesting-tools|Superior Monster Harvesting Tools]] and sets up her tent for experimentation. She carefully places the harvested parts into arcane-stabilized trays and begins taking notes in her **Bestial Crafter’s Codex**, flipping past blank pages labeled "Wroggi – ???".  The Great Wroggi is a level 6 Beast, so Mira makes a Nature or Arcana check against DC 20. Her player rolls a 23—success! Mira expends 100 gp (reduced to 40% by her tools), and adds a new formula to her Codex.
 >
->>[!column | 3] Origins
->>> [! hist]- - Arcane
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 2nd | Gain an esoteric appropriate cantrip, heightened to half the item's level rounded up. |
->>> | 4th | Gain an esoteric appropriate spell of 1st level, usable once per day. |
->>> | 6th | Gain an esoteric appropriate spell of 2nd level, usable once per day. |
->>> | 8th | Gain an esoteric appropriate spell of 3rd level, usable once per day. |
->>> | 10th | Strikes deal 1 additional esoteric damage. |
->>> | 12th | Gain an esoteric appropriate spell of 4th level, usable once per day. |
->>> | 14th | Strikes increase to 1d4 esoteric damage. |
->>> | 16th | Gain an esoteric appropriate spell of 6th level, usable once per day. |
->>> | 18th | Strikes increase to 1d6 esoteric damage. |
->>> | 20th | Gain an esoteric appropriate spell of 9th level, usable once per day. |
->>
->>> [! encounter]- - Ravage
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 4th | Strikes deal 1 additional esoteric damage. |
->>> | 6th | Additional esoteric damage increases to 1d4. |
->>> | 8th | Additional esoteric damage increases to 1d6. On a crit, see unique crit effect in crit table. |
->>> | 12th | Esoteric damage ignores resistances. |
->>> | 14th | Gain a unique feature related to the esoteric element (see feature table). |
->>> | 18th | Persistent esoteric damage increases to 1d10. |
->>> | 20th | On a crit, target is drained 1. |
->>
->>> [! interest]- - Talent
->>> 
->>> | Level | Effect |
->>> | --- | --- |
->>> | 4th | Strikes deal 1 persistent esoteric damage. |
->>> | 6th | Strikes deal 1 additional esoteric damage. |
->>> | 8th | Persistent esoteric damage increases to 1d6.|
->>> |10th | On a crit, see unique crit effect in crit table. |
->>> | 12th | Esoteric damage ignores resistances. |
->>> | 14th | Persistent esoteric damage increases to 1d8. |
->>> | 16th | Unique feature related to the esoteric element (see feature table). |
->>> | 18th | Persistent esoteric damage increases to 1d10. |
->>> | 20th | Unique feature related to the esoteric element (see feature table). |
+> A character may attempt to discover a unique crafting formula tied to a specific creature by conducting magical or alchemical experimentation with its harvested parts. This process requires 8 hours of downtime and must be performed using either [[monster-harvesting-tools|Monster Harvesting Tools]] or [[superior-monster-harvesting-tools|Superior Monster Harvesting Tools]]. At the end of this period, the character attempts a skill check using Arcana, Nature, Crafting, or an appropriate Lore skill, as determined by the creature’s traits. The experiment consumes 50% of the total value of the monster parts used, or only 40% if Superior Tools are used. A character may attempt additional experiments as long as the character has enough harvested part value to continued. If the GM determines that all formulas have already been discovered, the time is still spent but no part value is consumed.
 >
->> [!column| 2]+ Path Features
->> 
->>> [! encounter]- - Ravage Feats
->>> 
->>> | Element | Feat | Effect |
->>> | --- | --- | --- |
->>> | Aberrant | Reality Rip | When you critically hit with this weapon, you create a tear in reality. Creatures within 10 feet must succeed at a Will save or be confused for 1 round. The tear remains for 1 minute, causing any creature that ends its turn within 5 feet to take 1d6 mental damage. |
->>> | Force | Gravitic Pull | When you critically hit with this weapon, you can push or pull all creatures within 10 feet towards you. They must succeed at a Fortitude save or be effected by 10 feet and knocked prone. |
->>> | Sonic | Sonic Boom | When you critically hit with this weapon, a sonic boom emanates from the impact. All creatures within 20 feet must succeed at a Fortitude save or be stunned 1 and deafened for 1 minute. |
->>> | Vitality | Healing Surge | When you critically hit with this weapon, you and all allies within 30 feet regain Hit Points equal to 1d6 plus your level. |
->>> | Void | Entropic Decay | When you critically hit with this weapon, the target must succeed at a Fortitude save or have its physical and mental resistances reduced by 2 for 1 minute. If the target fails the save by 5 or more, the reduction is increased to 4. |
->>
->>> [! encounter]- - Talent Feats
->>> 
->>> | Element | Feat | Effect |
->>> | --- | --- | --- |
->>> | Aberrant | Twisted Movement | When you move, your path twists reality around you. Creatures within 10 feet of your path must succeed at a Will save or be disoriented, suffering a -2 penalty to attack rolls and Perception checks for 1 minute. |
->>> | Force | Kinetic Shield | When you critically hit with this weapon, you gain a kinetic shield that provides a +2 circumstance bonus to AC and Reflex saves for 1 minute. |
->>> | Sonic | Echoing Strike | When you critically hit with this weapon, the strike echoes, dealing 1d6 sonic damage to all creatures within 10 feet. These creatures must succeed at a Fortitude save or be deafened for 1 minute. |
->>> | Vitality | Vital Aura | When you critically hit with this weapon, you gain an aura that heals you and all allies within 10 feet for 1d6 Hit Points at the start of each of your turns for 1 minute. |
->>> | Void | Void Step | When you critically hit with this weapon, you can step through the void. You gain the effects of the blink spell for 1 round, allowing you to briefly become ethereal and avoid attacks. |
+> ## Volatile or Unstable Components  
+>Some rare parts may be marked as volatile, unstable, or magically reactive. These materials are extremely sensitive to magical feedback or improper handling. The GM may require Superior Monster Harvesting Tools to attempt discovery using such parts. Attempting to experiment with volatile materials using basic tools may result in automatic failure, wasted materials, or even dangerous backlash (such as taking damage or gaining a condition).  When a crafter critically fails an attempt to discover a formula using a volatile or unstable part, the GM may roll on the following table to determine the nature of the magical backlash.
 >
->>[!danger | clean]+ Critical Table
+>>[!column | 2 no-t]
+>>> ### Discovery Results
+>>> | Degree of Success | Outcome |
+>>> |-------------------|---------|
+>>> | **Critical Success** | Discover **2** new formulas from the creature. |
+>>> | **Success**          | Discover **1** new formula. |
+>>> | **Failure**          | No formula discovered; parts are consumed. |
+>>> | **Critical Failure** | No formula discovered; parts are consumed, and the crafter becomes **Clumsy 1** for 1 hour due to magical backlash or cognitive fatigue. |
 >>
->>| Element | Feat | Effect |
->>| --- | --- | --- |
->>| **Aberrant** | Reality Warp | On a critical hit, the target must succeed at a Will save or be confused for 1 round. If the target fails the save by 5 or more, they are also stupefied 1 for 1 minute. |
->>| **Force** | Crushing Blow | On a critical hit, the target is knocked back 10 feet and must succeed at a Fortitude save or be knocked prone. If the target collides with a solid object, they take an additional 1d6 force damage. |
->>| **Sonic** | Resonant Shockwave | On a critical hit, the target and all creatures within 10 feet must succeed at a Fortitude save or be deafened for 1 minute. If the target fails the save by 5 or more, they are also stunned 1. |
->>| **Vitality** | Vital Surge | On a critical hit, the target takes an additional 1d6 energy damage, and the attacker regains an equal amount of Hit Points. The target must succeed at a Will save or be enfeebled 1 for 1 minute. |
->>| **Void** | Entropic Strike | On a critical hit, the target must succeed at a Will save or take 1d6 persistent void damage. If the target fails the save by 5 or more, they are also frightened 2. |
-
-### Wearable
-
->[! creature | background-black]- #### Visage IMBUED
-><font color=lightblue> Physical • Enchantment • Magical </font>
->**Type:** Armor, Accessory, or Shield
->**Parts:** The monster must have a trait or an attack or spell that corresponds with the visage imbue category (Chaos, Mental, Scourge, Resistance, or Winged).
->**Effect:** You infuse the armor with the visage of the creature in which you have slain.
->>[! recite | clean] *DM chooses trait for Visage origin*
+>>>### Skill by Creature Trait
+>>>| Creature Trait  | Skill Used |
+>>>|------------------|------------|
+>>>| [[Animal]], [[Beast]]     | Nature or Arcana |
+>>>| [[Construct]]    | Arcana or Crafting |
+>>>| [[Undead]], [[Shade]], [[Fiend]], [[Celestial]] | Religion |
+>>>| [[Spirit]], [[Dream]], [[Time]], [[Astral]] | Occultism |
+>>>| [[Plant]], [[Fungus]], [[Fey]] | Nature |
+>>>| [[Aberration]], [[Ethereal]], [[Ooze]] | Occultism |
+>>>| [[Humanoid]] | Society or relevant Lore |
 >
->>[!column | 3] Origins
->>> [! npc]- - Chaos
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Chaos Field| Once per day, create a 10-foot-radius field of chaotic energy centered on you for 1 minute. Creatures in the field (including you) must succeed at a Reflex save against your class DC or be affected by a random condition (dazzled, flat-footed, etc.) for 1 round. |
->>> | 6th | Chaotic Advantage| Once per day, gain a +2 status bonus to an attack roll, saving throw, or skill check, but you are also confused for 1 round. |
->>> | 8th | Wild Step| Once per day, as a reaction, teleport up to 30 feet to a space you can see. Roll a d20; on a result of 1-5, you arrive 10 feet away from the intended location. |
->>> | 12th | Anarchic Aura| Once per day, you can create a 20-foot-radius aura of chaos around you for 1 minute. Creatures in the aura (including you) must succeed at a Will save against your class DC or be stunned for 1 round. If they succeed, they are instead frightened 1. |
+>>[!column | 2 no-t]
+>>>### Discovery Calculator
+>>>|  |                                                                                 |                                                                                                                
+>>>| ----------------------------------------------|----------------------------------------------------- |
+>>>| **Creature Rarity:** | `INPUT[inlineSelect(option(14, Common), option(16, Uncommon), option(19, Rare)):recallRarity]` |                                                                                   
+>>>| **Creature Level:** | `INPUT[number:creatureCR]`     |                                                     
+>>>| **Creature Trait:** | `INPUT[inlineSelect(option(Occultism, Aberration), option(Nature, Animal), option(Occultism, Astral), option('Arcana, Nature', Beast), option(Religion, Celestial), option('Arcana, Crafting', Construct), option(Arcana, Dragon), option(Occultism, Dream), option('Arcana, Nature', Elemental), option(Occultism, Ethereal), option(Nature, Fey), option(Religion, Fiend), option(Nature, Fungus), option(Society, Humanoid), option(Religion, Monitor), option(Occultism, Ooze), option(Nature, Plant), option(Religion, Shade), option(Occultism, Spirit), option(Occultism, Time), option(Religion, Undead)):creatureTrait]` |
+>>>| **Superior Tools** | `INPUT[inlineSelect(option(1, Yes), option(2, No)):toolSelector]` |
+>>>| **Experimentation DC:** | `VIEW[round({creatureCR} + {recallRarity})]` - `VIEW[string({creatureTrait})]`  |
+>>>| **Discovery Cost:** | `VIEW[(({toolSelector} == 2) ? ({creatureCR} == 1  ?    : {creatureCR} == 2  ?   35 : {creatureCR} == 3  ?   60 : {creatureCR} == 4  ?  100 : {creatureCR} == 5  ?  160 : {creatureCR} == 6  ?  250 : {creatureCR} == 7  ?  360 : {creatureCR} == 8  ?  500 : {creatureCR} == 9  ?  700 : {creatureCR} == 10 ? 1000 : {creatureCR} == 11 ? 1400 : {creatureCR} == 12 ? 2000 : {creatureCR} == 13 ? 3000 : {creatureCR} == 14 ? 4500 : {creatureCR} == 15 ? 6500 : {creatureCR} == 16 ?10000 : {creatureCR} == 17 ?15000 : {creatureCR} == 18 ?24000 : {creatureCR} == 19 ?40000 : {creatureCR} == 20 ?70000 : 0) / 2 : ({toolSelector} == 1) ? (({creatureCR} == 1  ?    : {creatureCR} == 2  ?   35 : {creatureCR} == 3  ?   60 : {creatureCR} == 4  ?  100 : {creatureCR} == 5  ?  160 : {creatureCR} == 6  ?  250 : {creatureCR} == 7  ?  360 : {creatureCR} == 8  ?  500 : {creatureCR} == 9  ?  700 : {creatureCR} == 10 ? 1000 : {creatureCR} == 11 ? 1400 : {creatureCR} == 12 ? 2000 : {creatureCR} == 13 ? 3000 : {creatureCR} == 14 ? 4500 : {creatureCR} == 15 ? 6500 : {creatureCR} == 16 ?10000 : {creatureCR} == 17 ?15000 : {creatureCR} == 18 ?24000 : {creatureCR} == 19 ?40000 : {creatureCR} == 20 ?70000 : 0) * 0.4) : 0)][math]` gp |
 >>
->>> [! hist]- - Mental (Occult)
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Illusory Self| Once per day, create an illusory duplicate of yourself for 1 minute. The duplicate can be used to create flanking opportunities. |
->>> | 6th | Mind Shield| Gain a +2 status bonus to Will saves against mental effects. |
->>> | 8th | Telepathic Bond: Once per day, establish a telepathic link with one willing creature you can see for 10 minutes. |
->>> | 12th | Invisibility Cloak| Once per day, you can cast **invisibility** on yourself for 10 minutes. The effect ends if you make an attack. |
->>
->>> [! creature]- - Scourge
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Scourging Aura| Once per day, create a 10-foot aura that causes enemies within it to take a -1 status penalty to AC and saving throws. |
->>> | 6th | Debilitating Touch| Once per day, your unarmed strikes deal 1d6 persistent damage (choose acid, fire, cold, or electricity). |
->>> | 8th | Crippling Presence| Once per day, create a 15-foot aura that causes enemies within it to be slowed 1 for 1 minute. |
->>> | 12th | Weaken Resolve| Once per day, as a reaction, force an enemy within 30 feet to make a Will save against your class DC or be frightened 2 for 1 minute. |
->>
->>> [! hint | clean ]- - Resistance
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Elemental Resistance| Gain resistance 4 to one type of elemental or esoteric damage (acid, cold, electricity, or fire). Choose when you gain this ability. |
->>> | 6th | Improved Resistance| Resistance increases to 8. |
->>> | 8th | Greater Resistance| Resistance increases to 12. |
->>> | 12th | Superior Resistance| Resistance increases to 16. |
->>> | 16th | Elemental Absorption| Resistance increases to 20, and you gain immunity to critical hits from that damage type. |
->>> | 18th | Reflective Shield| When you take damage of the chosen type, you can use your reaction to reflect half the damage back to the attacker. |
->>> | 20th | Elemental Mastery| Resistance increases to 24, and once per day, you can absorb all damage from a single attack of the chosen type and heal for that amount. |
->>
->>> [! bug | clean ]- - Winged
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Feather Fall| You can cast **feather fall** on yourself as a reaction once per day. |
->>> | 6th | Gliding Stride| You can glide, reducing fall damage by 30 feet and move 10 feet horizontally for every 30 feet fallen. |
->>> | 8th | Winged Leap| You gain a +10-foot status bonus to your long jump and high jump distances. |
->>> | 12th | Flight| You gain a fly speed of 20 feet for 10 minutes once per day. You can sustain this flight for 1 hour at 16th level, and at 20th level, you can fly at will. |
->>> | 16th | Aerial Evasion| Gain a +2 circumstance bonus to Reflex saves while flying. |
->>> | 18th | Soaring Agility| Your fly speed increases to 30 feet, and you can hover. |
->>> | 20th | Supreme Wings| Your fly speed increases to 40 feet, and you gain the effects of **freedom of movement** while flying. |
+>>>### Volatile Experimentation Backlash Table `dice: 1d6`
+>>> | d6 | Backlash Effect |
+>>> |----|------------------|
+>>> | 1  | Crafter becomes **Clumsy 1** for 24 hours. |
+>>> | 2  | Crafter is **Fatigued** until they rest for 8 hours. |
+>>> | 3  | Crafter is **Stupefied 1** for 24 hours. |
+>>> | 4  | Crafter cannot attempt **Formula Discovery** again for 24 hours. |
+>>> | 5  | All parts used in the experiment are **destroyed**, regardless of outcome. |
+>>> | 6  | Arcane backlash damages the **Bestial Crafter’s Codex**, preventing use until repaired (Crafting DC 20 to repair). |
 
 
->[! health | background-black]- #### Aspect IMBUED
-><font color=lightblue> Attribute • Enchantment • Magical </font>
->**Type:** Armor, Accessory, or Shield
->**Parts:** The monster's highest attribute attack or spell shall correspond with the aspect imbue category (Charisma, Constitution, Dexterity, Intelligence, Strength, or Wisdom).
->**Effect:** You infuse the armor with the being of your fallen foe, bestowing it with extraordinary powers.
->>[! recite | clean] *DM chooses trait for Aspect origin*
->
->>[!column | 3] Origins
->>> [! friend]- - Charisma
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Charming Presence| Once per day, you can cast **charm** as a spell-like ability. The spell is heightened to half your level rounded up. |
->>> | 6th | Inspiring Leader| Once per day, as an action, you can give an inspiring speech to allies within 30 feet, granting them temporary Hit Points equal to your Charisma modifier plus your level. |
->>> | 8th | Commanding Voice| Once per day, you can cast **command** as a spell-like ability. The spell is heightened to half your level rounded up. |
->>> | 12th | Enthralling Aura| Once per day, you can create a 20-foot aura that causes enemies within it to make a Will save against your class DC or be fascinated for 1 minute. |
->>> | 16th | Majestic Presence| You gain the ability to cast **suggestion** once per day as a spell-like ability. The spell is heightened to half your level rounded up. |
->>
->>> [! health]- - Constitution
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Toughness| Once per day gain Temporary Hit Points by an amount equal to your item level. |
->>> | 6th | Second Wind| Once per day, you can use an action to regain Hit Points equal to 2d6 plus your level. |
->>> | 8th | Resilient Body| Gain resistance 2 to physical damage (bludgeoning, piercing, slashing). |
->>> | 12th | Stalwart| Gain a +1 status bonus to Fortitude saves. |
->>> | 16th | Indomitable| Once per day, when you are reduced to 0 Hit Points, you can use your reaction to drop to 1 Hit Point instead. |
->>
->>> [! danger | clean]- - Dexterity
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Evasion| Gain a +1 status bonus to Reflex saves. |
->>> | 6th | Quick Step| Once per day, you can use the Step action as a free action. |
->>> | 8th | Cat's Grace| Gain a +1 status bonus to Acrobatics checks and Dexterity-based attack rolls. |
->>> | 12th | Uncanny Dodge| Once per day, you can use your reaction to halve the damage from an attack that hits you. |
->>> | 16th | Lightning Reflexes| Gain a +2 circumstance bonus to Reflex saves against traps and hazards. |
->>
->>> [! hist]- - Intelligence
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Keen Mind| Gain a +1 status bonus to Recall Knowledge checks. |
->>> | 6th | Arcane Insight| Once per day, you can cast **detect magic** as a spell-like ability. |
->>> | 8th | Analytical Mind| Gain a +1 status bonus to checks to identify creatures, items, and hazards. |
->>> | 12th | Arcane Reservoir| Gain a pool of 3 Focus Points that can be used to cast focus spells you know. |
->>> | 16th | Master Scholar| Once per day, you can cast **true strike** as a spell-like ability. |
->>
->>> [! encounter]- - Strength
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Mighty Blows| Gain a +1 status bonus to damage rolls with Strength-based attacks. |
->>> | 6th | Athletic Surge| Once per day, you can gain a +10-foot status bonus to your Speed for 1 minute. |
->>> | 8th | Powerful Build| Gain a +1 status bonus to Athletics checks and Strength-based attack rolls. |
->>> | 12th | Juggernaut| Gain a +1 status bonus to Fortitude saves against physical effects. |
->>> | 16th | Unstoppable Force| Once per day, you can ignore the effects of the slowed or immobilized conditions for 1 minute. |
->>
->>> [! location]- - Wisdom
->>> 
->>> | Level | Feat| Effect |
->>> | --- |--- |--- |
->>> | 4th | Heightened Senses| Gain a +1 status bonus to Perception checks. |
->>> | 6th | Guided Strike| Once per day, you can reroll an attack roll. |
->>> | 8th | Mystic Insight| Gain a +1 status bonus to Will saves. |
->>> | 12th | Clairvoyant Vision| Once per day, you can cast **clairvoyance** as a spell-like ability. |
->>> | 16th | Divine Protection| Gain a +2 circumstance bonus to saving throws against spells and magical effects. |
+

@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "codex-of-the-bound-menagerie"
+aliases: "Codex of the Bound Menagerie"
 source: "Homebrew"
 pg: ""
 rarity: "Rare"
 trait01: "magical"
-trait02: ""
-trait03:
+trait02: "invested"
+trait03: "chimeric"
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+image: zz-Attachments/codex-of-bound-menagerie.png
+level: 6
 group: 
-weight: 1
-value: "75"
+bulk: L
+value: "250"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: Y
+usage: "worn or held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This gilded tome bears arcane chains across its spine and pages marked by shimmering glyphs of containment and revelation. It is said to have once belonged to a legendary crafter who bound the knowledge of an entire bestiary into a single volume. While invested in the Codex of the Bound Menagerie, you gain the following benefits:\n\n- You may record an unlimited number of creature entries instead of being limited to 12.\n- You may perform a 1-hour ritual to share a discovered formula with another creature that can use monster parts. This allows the recipient to gain access to that formula as if they had discovered it themselves. The shared formula persists for 1 week or until the recipient uses it to craft an item, whichever comes first. A creature can only benefit from one shared formula at a time. You must be able to communicate the creature's harvesting context and known parts to complete the ritual.\n\nThis codex still requires [[Skills#Crafting|Crafting]] DC 22 repairs if damaged by volatile part backlash."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

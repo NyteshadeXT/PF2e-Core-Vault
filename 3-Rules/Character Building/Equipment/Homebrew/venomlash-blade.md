@@ -3,33 +3,33 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
-source: "Homebrew"
+name: "venomlash-blade"
+aliases: "Venomlash Blade"
+source: "Chimeracrafting"
 pg: ""
-rarity: "Rare"
+rarity: "Uncommon"
 trait01: "magical"
-trait02: ""
+trait02: "poison"
 trait03:
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-group: 
-weight: 1
-value: "75"
+image: zz-Attachments/venomlash-blade.png
+level: 6
+group:
+bulk: 1
+value: "225"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: Y
+usage: "wielded"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
-activate: ""
-craft: 
-destruction: 
+description: "This curved, serrated blade is forged from steel laced with alchemically stabilized Wroggi fangs. Its edge glistens faintly with residual venom, designed to tear into flesh and inject lingering toxins.\n\nThe Venomlash Blade is a [[Weapon Potency (+1)|+1]] [[striking]] [[shortsword]]. On a **critical hit**, the target must succeed at a DC 21 Fortitude save or take `dice: 1d6` 1d6 persistent poison damage. If the target critically fails, it also becomes [[Clumsy|clumsy 1]] for 1 minute. A creature can only be affected by this venom once per round."
+activate: 
+craft: "The initial raw materials must include a preserved Fanged Maw from a Great Wroggi."
+destruction:
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 
@@ -142,4 +142,6 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
 

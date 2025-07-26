@@ -3,15 +3,15 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "organ-ward-resin"
+aliases: "Organ Ward Resin"
 source: "Homebrew"
 pg: ""
-rarity: "Rare"
-trait01: "magical"
-trait02: ""
-trait03:
-trait04:
+rarity: "Uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "chimeric"
+trait04: 
 trait05:
 trait06:
 trait07:
@@ -19,14 +19,14 @@ trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
 group: 
-weight: 1
-value: "75"
+bulk: L
+value: "25"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: 
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This thick, tar-like resin is stored in a sealed clay pot lined with silver runes. Developed by monster part researchers working deep in volatile ecosystems, the resin coats harvested organs and tissues in a breathable yet protective alchemical film.<br><br>Applying Organ Ward Resin protects up to 100 gp worth of monster parts (including rare parts) from degradation for 1 week. During this time, the treated parts retain their Fresh condition regardless of elapsed time.<br><br>Applying the resin requires 1 minute of uninterrupted focus and access to the parts. The resin bonds tightly—once applied, it cannot be removed without rendering the part unusable for Chimeracrafting purposes.<br><br>The resin has a sharp, acrid odor that lingers on anything stored nearby. Storing resin-treated parts with food or mundane supplies may contaminate or spoil those items (GM discretion)."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 

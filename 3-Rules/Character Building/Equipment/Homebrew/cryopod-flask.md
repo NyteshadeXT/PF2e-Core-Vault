@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "cryopod-flask"
+aliases: "Cryopod Flask"
 source: "Homebrew"
 pg: ""
 rarity: "Rare"
 trait01: "magical"
-trait02: ""
-trait03:
-trait04:
+trait02: "consumable"
+trait03: "chimeric"
+trait04: "cold"
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+level: 6
 group: 
-weight: 1
-value: "75"
+bulk: L
+value: "120"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: 
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This narrow flask is carved from magically tempered crystal and sealed with a rune-inscribed stopper. When activated, it fills with shimmering frost and an inner vacuum chamber opens—freezing time for any item placed inside. A Cryopod Flask can preserve either one rare monster part, or up to 250 gp worth of generic monster parts. Once sealed, the flask suspends all degradation indefinitely. The part(s) remain in perfect condition until the flask is opened.<br><br>Opening the flask is a single action ([[Interact]]). Once opened, the temporal seal ends and the contents resume their normal degradation timeline immediately. A Cryopod Flask can only be used once; the stasis enchantment collapses after opening.<br><br>Cryopod Flasks are often used by elite hunters, field researchers in remote ruins, or nobles preserving trophies for extravagant arcane experiments."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 

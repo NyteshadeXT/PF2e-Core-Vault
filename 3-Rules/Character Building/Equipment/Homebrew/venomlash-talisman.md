@@ -3,46 +3,45 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
-source: "Homebrew"
+name: "venomlash-talisman"
+aliases: "Venomlash Talisman"
+source: "Chimeracrafting"
 pg: ""
-rarity: "Rare"
+rarity: "Uncommon"
 trait01: "magical"
-trait02: ""
-trait03:
-trait04:
-trait05:
+trait02: "poison"
+trait03: "talisman"
+trait04: "consumable"
+trait05: "volatile"
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-group: 
-weight: 1
-value: "75"
+level: 6
+group:
+bulk: -
+value: "125"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: 
+usage: "affixed to medium or heavy armor"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
-activate: ""
-craft: 
-destruction: 
+description: "This dark-stained talisman is crafted from the dried venom sac of an Alpha Great Wroggi, embedded in etched bone and secured with toxin-warded cord. When struck, it releases a venomous pulse into the air around the attacker."
+craft: "The initial raw materials must include a preserved Alpha Venom Sac from a Great Wroggi."
+destruction:
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: ""
-actionEconomy1: 
-type1: 
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[magical]], [[poison]], [[talisman]], [[volatile]])"
 frequency1: 
 requirement1:
-trigger1:
+trigger1: "A creature within 5 feet of you damages you with a melee Strike."
 activate1: 
 duration1: 
-mechanics1: ""
+mechanics1: "The attacker must attempt a DC 21 Fortitude save.\n- **Success:** No effect.\n- **Failure:** The attacker becomes [[Clumsy|clumsy 1]] for 1 minute.\n- **Critical Failure:** The attacker takes `dice: 1d6` 1d6 poison damage and becomes [[Clumsy|clumsy 2]] for 1 minute.\n\nOnce activated, the talisman crumbles into toxic ash."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -132,7 +131,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 

@@ -1,0 +1,13 @@
+Among the most volatile of the Primordials to walk Aetheria was **Hoshotath**, a colossal entity born of both fire and water—an elemental paradox whose very existence defied stability. Known as the **Flaming Sea**, Hoshotath embodied contradiction: at times tranquil and meditative like a still lake, and at others uncontrollably violent, crashing like a tidal wave or burning with unquenchable flame.
+
+In the time before the **War of Supremacy**, Hoshotath roamed the world freely, its movements altering coastlines, boiling oceans, and igniting the skies. While some of the elder gods and Primordials could occasionally parley with it during moments of clarity, more often Hoshotath was a harbinger of catastrophe—its rages drowning cities in steam and ash.
+
+Fearing its destructive power, a coalition of elemental titans formed to monitor and restrain the Flaming Sea. For a time, their combined might kept it in check. But with the outbreak of the **Axis War**, and the emergence of the **Chaos Lord**, order among the Primordials dissolved. Hoshotath was unleashed in full fury.
+
+During that calamitous era, Hoshotath sought to unmake the world's oceans—transforming them into vast seas of lava that would scour both land and sky. The gods acted swiftly. In a desperate defense, two divine beings gave their lives to quell the disaster, their essences boiling away in an effort to hold back the tidal fire.
+
+In the aftermath, the surviving gods pooled their remaining divine energies and worked in secret with the **Aetherial Wardens**. Together, they crafted a network of immense runes—**binding glyphs** inscribed with pure law, anchored to the ley lines of the world. These glyphs were not mere magical wards, but self-sustaining thought-constructs designed to fold Hoshotath's chaotic mind inward—trapping the entity within its own conflicting nature.
+
+The resulting prison was strong enough to not only contain Hoshotath, but also ensnare several lesser Primordials drawn into its gravitational collapse. This containment—a miracle of divine sacrifice and Warden precision—holds to this day. But it is not eternal.
+
+The gods, weakened by their efforts, declared the use of such runes forbidden. Their creation had nearly undone the Veil that now separates the divine from the mortal realm. The location of Hoshotath’s prison remains hidden, its sigils fading only slowly. But should the Axis tilt again toward chaos, or the Rod of Seven Parts be misused, the Flaming Sea may boil forth once more.

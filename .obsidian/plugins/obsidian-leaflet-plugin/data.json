@@ -262,7 +262,7 @@
     },
     {
       "id": "update-me",
-      "lastAccessed": 1752254804078,
+      "lastAccessed": 1753421581348,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -364,7 +364,8 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+        "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md"
       ]
     }
   ],

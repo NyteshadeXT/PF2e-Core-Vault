@@ -26,7 +26,7 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify: ""
-description: "This kit includes specialized knives, bone saws, leather stretchers, tweezers, pincers and alchemical preservers. It’s designed for the careful extraction and preservation of usable materials from slain creatures.<br><br>When using Monster Harvesting Tools, you gain a +1 item bonus to skill checks made to harvest monster parts (usually [[Skills#Survival|Survival]], [[Skills#Nature|Nature]], or [[Skills#Lore|Lore]] skills, at GM discretion)."
+description: "This kit includes specialized knives, bone saws, leather stretchers, tweezers, pincers, and alchemical preservatives. It is designed for the careful extraction and preservation of usable materials from slain creatures, allowing hunters, scholars, and alchemists to harvest valuable parts without contamination or waste.<br><br>While wielding Monster Harvesting Tools, you can attempt to harvest monster parts following the rules for Chimeracrafting. Without this kit, you cannot harvest monster parts—any attempt fails automatically, and the creature's corpse is ruined beyond recovery.<br><br>These tools are also required for performing a Targeted Harvest to extract rare or unique anatomical components, and for conducting formula discovery experiments using harvested materials."
 activate: ""
 craft: 
 destruction: 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

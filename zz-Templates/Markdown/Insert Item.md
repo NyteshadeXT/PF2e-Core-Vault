@@ -4,13 +4,13 @@
 #========================================================#
 cssclass: pf2e-items, h-line
 name: ""
-aliases:
+aliases: ""
 source: ""
 pg: ""
 rarity: ""
 trait01: ""
 trait02: ""
-trait03:
+trait03: ""
 trait04:
 trait05:
 trait06:
@@ -19,10 +19,10 @@ trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 
 group: 
-weight: 
+bulk: 
 value: ""
 subvalue: ""
-invest:
+invest: 
 usage: ""
 license: ""
 identify: ""
@@ -142,6 +142,7 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
 
 ```dataview
 // change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing

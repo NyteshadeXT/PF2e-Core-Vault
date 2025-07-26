@@ -2,7 +2,7 @@
 skillLevel: 10
 creatureCR: 1
 creatureTrait: Occultism
-playerLevel: 15
+playerLevel: 1
 taskDifficulty: 0
 skillDifficulty: 0
 itemLevel: 0
@@ -24,7 +24,7 @@ identifyRoll: 0.003
 >>| Recall Knowledge DC                                                                                 |                                                                                                                
 >>| --------------------------------------------------------------------------------------------------- |
 >>| **Rarity:** `INPUT[inlineSelect(option(14, Common), option(16, Uncommon), option(19, Rare)):recallRarity]` |                                                                                   
->>| **Creature CR:** `INPUT[number:creatureCR]`     |                                                     
+>>| **Creature Level:** `INPUT[number:creatureCR]`     |                                                     
 >>| **Creature Trait:** `INPUT[inlineSelect(option(Occultism, Aberration), option(Nature, Animal), option(Occultism, Astral), option('Arcana, Nature', Beast), option(Religion, Celestial), option('Arcana, Crafting', Construct), option(Arcana, Dragon), option(Occultism, Dream), option('Arcana, Nature', Elemental), option(Occultism, Ethereal), option(Nature, Fey), option(Religion, Fiend), option(Nature, Fungus), option(Society, Humanoid), option(Religion, Monitor), option(Occultism, Ooze), option(Nature, Plant), option(Religion, Shade), option(Occultism, Spirit), option(Occultism, Time), option(Religion, Undead)):creatureTrait]` |
 >>| **Recall Knowledge DC:**  `VIEW[round({creatureCR} + {recallRarity})]` - `VIEW[string({creatureTrait})]`                                   |
 >

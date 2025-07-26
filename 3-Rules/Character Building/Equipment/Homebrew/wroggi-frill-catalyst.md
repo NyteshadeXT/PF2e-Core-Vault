@@ -3,46 +3,48 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
-source: "Homebrew"
+name: "wroggi-frill-catalyst"
+aliases: "Wroggi Frill Catalyst"
+source: "Chimeracrafting"
 pg: ""
-rarity: "Rare"
+rarity: "Uncommon"
 trait01: "magical"
-trait02: ""
-trait03:
-trait04:
-trait05:
-trait06:
+trait02: "consumable"
+trait03: "emotion"
+trait04: "fear"
+trait05: "catalyst"
+trait06: ""
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-group: 
-weight: 1
-value: "75"
+image: zz-Attachments/wroggi-frill-catalyst.png
+level: 6
+group:
+bulk: L
+value: "80"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: 
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This hypnotic frill is fashioned from the hood of a Great Wroggi and shimmers with unsettling, shifting hues. It resonates with spells that manipulate fear and perception, amplifying their effects.\n\nThis item functions as a spell catalyst."
+destruction:
 activate: ""
-craft: 
+craft: "The initial raw materials must include a Hood Frill from a Great Wroggi."
 destruction: 
+
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: ""
-actionEconomy1: 
-type1: 
+powerTitle1: "Cast a Spell"
+actionEconomy1:  1
+type1: "([[concentrate]], [[manipulate]], [[magical]])"
 frequency1: 
 requirement1:
-trigger1:
+trigger1: "You Cast a Spell with the emotion or illusion trait"
 activate1: 
 duration1: 
-mechanics1: ""
+mechanics1: "When you Cast a Spell with the [[emotion]] trait, you can use the Wroggi Frill Catalyst to apply one of the following effects (choose when casting):\n\n- **Heightened Impact**: The spell gains a +1 status bonus to the first saving throw DC it imposes.\n- **Lingering Dread**: A single target affected by the spell suffers a –5-foot status penalty to Speed for 1 round.\n\nUsing a catalyst adds the manipulate trait to the spell. Activating a catalyst is part of Casting the Spell and increases the casting time by 1 action."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -132,7 +134,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 
@@ -142,4 +144,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

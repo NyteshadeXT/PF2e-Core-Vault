@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "codex-of-the-eidolonic-tapestry"
+aliases: "Codex of the Eidolonic Tapestry"
 source: "Homebrew"
 pg: ""
-rarity: "Rare"
+rarity: "Unique"
 trait01: "magical"
-trait02: ""
-trait03:
-trait04:
+trait02: "invested"
+trait03: "chimeric"
+trait04: "dream"
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+image: zz-Attachments/codex-of-eidolonic-tapestry.png
+level: 10
 group: 
-weight: 1
-value: "75"
-subvalue: "gp"
-invest:
-usage: "held in two hands"
+bulk: L
+value: "-"
+subvalue: ""
+invest: Y
+usage: "worn or held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This ornate codex is bound in woven strands of magical filament and monster sinew, depicting shifting illustrations that pulse and evolve as you study them. The book's pages whisper with possibility and sometimes display multiple mirrored outcomes of a single experiment. While invested in the Codex of the Eidolonic Tapestry, you gain the following benefits:<br><br>- When you succeed or critically succeed at a Formula Discovery check, you glimpse two possible crafting outcomes tied to the same creature. You may select one of the two revealed formulas to inscribe into the Codex. The alternate formula becomes inaccessible unless re-discovered.<br>- If used during experimentation with volatile or unstable parts, the Codex reduces the chance of backlash—you gain a +1 circumstance bonus to saves or checks against critical failure backlash effects.<br><br>If damaged by volatile backlash, the Codex can be repaired with a [[Skills#Crafting|Crafting]] check (DC 25).<br><br>Only one Codex of the Eidolonic Tapestry is known to exist. Its ownership is highly contested among arcane scholars, chimera alchemists, and extraplanar collectors."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

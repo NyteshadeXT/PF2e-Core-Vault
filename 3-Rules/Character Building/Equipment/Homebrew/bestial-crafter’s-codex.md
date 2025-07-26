@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "superior-monster-harvesting-tools"
-aliases: "Superior Monster Harvesting Tools"
+name: "bestial-crafter’s-codex"
+aliases: "Bestial Crafter’s Codex"
 source: "Homebrew"
 pg: ""
 rarity: "Rare"
 trait01: "magical"
-trait02: ""
-trait03:
+trait02: "invested"
+trait03: "chimeric"
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/bestial-crafters-codex.png
 level: 3
 group: 
-weight: 1
-value: "75"
+bulk: L
+value: "60"
 subvalue: "gp"
-invest:
-usage: "held in two hands"
+invest: Y
+usage: "worn or held in one hand"
 license: "ORC"
 identify: ""
-description: "This high-grade kit includes masterwork instruments, magically tempered blades, rune-etched clamps, alchemical stasis jars, and a field wand of preservation. Designed for professional chimeracrafters and elite monster hunters, these tools ensure surgical precision and material stability even under harsh conditions. While wielding Superior Monster Harvesting Tools, you can harvest monster parts normally. In addition, these tools enhance advanced Chimeracrafting procedures:\n\n- When performing a Targeted Harvest, you gain a +1 item bonus to the check.\n- When conducting a Discovery experiment, you only consume 40% of the total value of parts used (instead of 50%).\n\n.These tools are also required to safely experiment with particularly volatile, unstable, or magically reactive parts, at the GM’s discretion."
+description: "This slim leather-bound tome is reinforced with alchemically sealed parchment and bound in hide harvested from the first monster the owner ever successfully harvested. When attuned, arcane script glows faintly across its surface, recording anatomical notes, crafting breakthroughs, and refined formulas. While invested in the Bestial Crafter’s Codex, you gain the following benefits:\n\n- You can record Chimeracrafting formulas you’ve discovered, tied to specific creatures and parts.\n- The Codex can safely record up to 12 unique creature entries.\n- If a creature has volatile or unstable parts, the Codex glows faintly when such a part is in proximity or being handled.\n\nWhile the Codex is worn or held, you can flip to a creature’s entry and review its recorded discoveries, harvesting notes, or crafting results. Entering a new creature into the Codex requires completing a successful Formula Discovery check or spending 10 minutes scribing basic anatomical data after a successful Targeted Harvest.\n\nThe Codex can be repaired using a [[Skills#Crafting|Crafting]] check (DC 20) if damaged by volatile backlash."
 activate: ""
 craft: 
 destruction: 
@@ -132,7 +132,7 @@ will:
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase: 
+armorBase:
 shieldBase:
 craftBase: 
 

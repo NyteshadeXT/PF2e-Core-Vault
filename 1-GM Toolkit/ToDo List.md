@@ -3,7 +3,7 @@ tags:
   - "#todos"
 ---
 
-
+# General ToDos
 - [ ] Update items to new template
 	- Currently on letter 'B'
 	- [ ] Add Abysium Armors, Bucklers, Object, Shield and Weapon
@@ -11,11 +11,9 @@ tags:
 	- [ ] Add Abysium Chunk and Ingot
 	- [ ] Add Adamantine Chunk and Ingot
 	- [ ] Add Vehicles? (Adaptable Paddleboat)
-	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.  Also update item generator. 
+	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.  Also update item generator
 	- [ ] Add 
 	- [ ] Add  
-	- [ ] Remove Dragon's Breath Potions from item generator as they've been replaced.
-	- [ ] Remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.
 - [ ] Update item templates with Identification criteria
 - [ ] Create spell template
 - [ ] Update spells to new template
@@ -33,3 +31,12 @@ tags:
 - [ ] Integrate Battlezoo monster part system into bestiary entries
 - [ ] Complete implementation of Calendar system
 - [ ] Do I want to add gems to the items?
+- [ ] Update Chimeracrafting with Imbuements from the Elemental Storm book after it is added to Foundry
+
+
+# Item Generator ToDos
+- [ ] Bane ammo needs a creature type
+- [ ] Elemental ammo needs a energy type
+- [ ] Remove Dragon's Breath Potions from item generator as they've been replaced.
+- [ ] Remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.
+- [ ] Update Sisterstone to only apply to melee weapons
