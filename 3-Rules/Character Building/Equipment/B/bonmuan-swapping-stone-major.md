@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bonmuan-swapping-stone-(greater)"
-aliases: "Bonmuan Swapping Stone (Greater)"
+name: "bonmuan-swapping-stone-major"
+aliases: "Bonmuan Swapping Stone (Major)"
 source: "Pathfinder #166: Despair on Danger Island"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
+level: 20
 weight: 
-value: "3000"
+value: "9000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts [[Spells/Translocate|Dimension Door]] on you and transports you to itself. This destroys the stone.  You can instead hurl the stone at a creature in an attempt to bring that creature closer to you. Make a ranged Strike against a creature using your highest proficiency with a ranged weapon. The _swapping stone_ has a range increment of 15 feet. On a hit, the stone shatters against the creature, casting _dimension door_ on the creature and causing it to instantly teleport to a space adjacent to you. An unwilling creature can resist this teleportation with a successful DC 37 Will check save."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small, opalescent stone glows with a light that constantly shifts between colors. "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you activate the stone, you throw it into a space within 100 feet. The stone then casts [[Translocate]] on you and transports you to itself. This destroys the stone.  You can instead hurl the stone at a creature in an attempt to bring that creature closer to you. Make a ranged [[Strike]] against a creature using your highest proficiency with a ranged weapon. The _swapping stone_ has a range increment of 15 feet. On a hit, the stone shatters against the creature, casting _[[Translocate]]_ on the creature and causing it to instantly teleport to a space adjacent to you. An unwilling creature can resist this teleportation with a successful DC 43 Will check save."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

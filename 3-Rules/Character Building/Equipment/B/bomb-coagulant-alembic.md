@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "bomb-coagulant-alembic"
 aliases: "Bomb Coagulant Alembic"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "63"
 rarity: ""
 trait01: "additive0"
 trait02: "alchemical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the manipulate trait, you can use a bomb coagulant alembic to distill the contents of one alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals persistent damage equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb's original splash damage."
+description: "This apparatus increases the viscosity of the reagents in alchemical bombs, to deadly effect. As a 10-minute activity that has the [[manipulate]] trait, you can use a bomb coagulant alembic to distill the contents of one alchemical bomb that deals splash damage into a stickier substance. After distilling, the bomb deals no splash damage but instead deals persistent damage equal to and of the same type as its original splash damage. If the bomb already deals persistent damage, distilling increases that damage by the bomb's original splash damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

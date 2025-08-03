@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bombers-eye-elixir-(lesser)"
-aliases: "Bomber's Eye Elixir (Lesser)"
+name: "boots-of-bounding-greater"
+aliases: "Boots of Bounding (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "286"
 rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "elixir"
-trait04: "common"
+trait01: "invested"
+trait02: "magical"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 4
+level: 14
 weight: L
-value: "14"
+value: "4250"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "wornshoes"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover by 1.  [[Equipment Effects/Effect_ Bomber's Eye Elixir|Effect: Bomber's Eye Elixir]]"
+description: "The springy soles of these sturdy leather boots cushion your feet and make each step lighter. These boots give you a +10-foot item bonus to your [[Speed]] and a +3 item bonus to [[Skills#Athletics|Athletics]] checks to [[High Jump]] and [[Long Jump]].  In addition, when you use the [[Leap]] action, you can move 5 feet further if jumping horizontally or 3 feet higher if jumping vertically."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

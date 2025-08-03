@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've trained with weapons ideally suited to marshes and dense forests. You are trained with [[Blowgun|Blowguns]], [[Hatchet|Hatchets]], [[Scythe|Scythes]], [[Shortbow|Shortbows]], and [[Composite Shortbow|Composite Shortbows]].
+You've trained with weapons ideally suited to marshes and dense forests. You are trained with [[blowgun|Blowguns]], [[Hatchet|Hatchets]], [[Scythe|Scythes]], [[Shortbow|Shortbows]], and [[Composite Shortbow|Composite Shortbows]].
 
 You also gain access to all uncommon grippli weapons. For the purpose of determining your proficiency, martial grippli weapons are simple weapons, and advanced grippli weapons are martial weapons.
 

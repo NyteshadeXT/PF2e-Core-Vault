@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bombers-eye-elixir-(greater)"
-aliases: "Bomber's Eye Elixir (Greater)"
+name: "bombers-eye-elixir-lesser"
+aliases: "Bomber's Eye Elixir (Lesser)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "286"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
+level: 4
 weight: L
-value: "700"
+value: "14"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from cover by 2.  [[Equipment Effects/Effect_ Bomber's Eye Elixir|Effect: Bomber's Eye Elixir]]"
+activate: "**Activate** `pf2:1` ([[manipulate]])"
+description: "This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from [[cover]] by 1."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

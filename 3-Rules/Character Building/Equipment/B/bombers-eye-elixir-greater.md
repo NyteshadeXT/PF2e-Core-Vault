@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "boots-of-elvenkind"
-aliases: "Boots of Elvenkind"
-source: "Pathfinder Core Rulebook"
-pg: ""
+name: "bombers-eye-elixir-greater"
+aliases: "Bomber's Eye Elixir (Greater)"
+source: "Pathfinder GM Core"
+pg: "286"
 rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 5
+level: 14
 weight: L
-value: "145"
+value: "700"
 subvalue: "gp"
 invest:
-usage: "wornshoes"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These tall, pointed boots are made from soft, supple black or green leather and are decorated with trim and buckles of gold. When worn, the boots allow you to move more nimbly, granting you a +1 item bonus to Acrobatics checks.  **Activate** `pf2:0` envision  **Frequency** once per hour  * * *  **Effect** Until the end of your turn, you ignore difficult terrain when moving on the ground. If you're wearing a [[Equipment/Cloak of Elvenkind|Cloak of Elvenkind]], you also gain a +5-foot status bonus to your land Speed until the end of your turn.  [[Equipment Effects/Effect_ Boots of Elvenkind|Effect: Boots of Elvenkind]]"
+activate: "**Activate** `pf2:1` ([[manipulate]])"
+description: "This tincture lets you pinpoint your foes. For the next 5 minutes, your alchemical bomb Strikes reduce the circumstance bonus to AC your targets gain from [[cover]] by 2."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

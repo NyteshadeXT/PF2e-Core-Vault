@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "boarding-pike"
 aliases: "Boarding Pike"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "reach"
 trait02: "shove"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,17 +22,18 @@ level: 1
 weight: 2
 value: "8"
 subvalue: "sp"
+group: "Polearm"
 invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "Taking the form of a longspear fitted with crossbars or hooks, a boarding pike provides its wielder a sharp implement that's as adept at shoving enemies off a ship's railings as facilitating the boarding of other vessels. This is a martial melee weapon."
-powerTitle1:
+description: "Taking the form of a longspear fitted with crossbars or hooks, a boarding pike provides its wielder a sharp implement that's as adept at shoving enemies off a ship's railings as facilitating the boarding of other vessels."
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The target is moved 5 feet in a direction of your choice. This is forced movement."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d10 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d10
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,21 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Boarding Pike")
+SORT level ASC
+
+```

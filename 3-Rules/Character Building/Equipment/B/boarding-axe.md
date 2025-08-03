@@ -8,12 +8,12 @@ name: "boarding-axe"
 aliases: "Boarding Axe"
 source: "Pathfinder Lost Omens Absalom, City of Lost Omens"
 pg: ""
-rarity: ""
+rarity: "uncommon"
 trait01: "agile"
 trait02: "azarketi"
 trait03: "climbing"
 trait04: "versatile-p"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -24,15 +24,16 @@ value: "1"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
+group: "Axe"
 license: "ORC"
 identify:
 description: "This small axe sports a spike opposite the blade that aids in climbing and is useful in clearing obstacles, such as fallen rigging."
-powerTitle1:
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its striking rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d6 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d6
+dmg1Type: slashing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,21 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Boarding Axe")
+SORT level ASC
+
+```

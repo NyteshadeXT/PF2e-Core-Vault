@@ -22,17 +22,30 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "34e4ccf0e1b72009",
+=======
+            "id": "4b9259c2430cf458",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "great-wroggi"
+=======
+                "file": "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Enhanced Chimeracrafting Ideas"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -50,11 +63,16 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "285df5f99376e201",
+=======
+            "id": "6eb8087dd06a5d10",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
                 "mode": "preview",
                 "source": true
@@ -64,6 +82,32 @@
             }
           }
         ]
+=======
+                "file": "3-Rules/Character Building/Equipment/B/boots-of-free-running-(greater).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "boots-of-free-running-(greater)"
+            }
+          },
+          {
+            "id": "d2cce39a46146a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
+          }
+        ],
+        "currentTab": 3
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -120,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "fe3d5c521558e514",
@@ -258,6 +302,7 @@
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< Updated upstream
   "active": "c5c2c48250426975",
   "lastOpenFiles": [
     "1-GM Toolkit/Tests/Chimeracrafting.md",
@@ -286,6 +331,39 @@
     "zz-Templates/Markdown/Insert Item Metabind.md",
     "zz-Templates/Markdown/Insert Item.md",
     "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
+=======
+  "active": "6eb8087dd06a5d10",
+  "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/B/boots-of-elvenkind.md",
+    "3-Rules/Character Building/Equipment/B/boots-of-free-running-(greater).md",
+    "3-Rules/Character Building/Equipment/B/boots-of-elvenkind-(greater).md",
+    "3-Rules/Character Building/Equipment/B/boots-of-dancing.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/B/boots-of-bounding-greater.md",
+    "3-Rules/Character Building/Equipment/B/boots-of-bounding.md",
+    "3-Rules/Character Building/Equipment/B/boomerang.md",
+    "zz-Attachments/boomerang.png",
+    "3-Rules/Character Building/Equipment/B/boom-snare.md",
+    "3-Rules/Character Building/Equipment/B/bookthief-brew.md",
+    "3-Rules/Character Building/Equipment/B/book-of-warding-prayers.md",
+    "3-Rules/Character Building/Equipment/B/book-of-translation-advanced.md",
+    "3-Rules/Character Building/Equipment/B/book-of-lost-days.md",
+    "3-Rules/Character Building/Equipment/B/book-of-lingering-blaze.md",
+    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-moderate.md",
+    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-major.md",
+    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-lesser.md",
+    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-greater.md",
+    "3-Rules/Character Building/Equipment/B/bone-dreadnought-plate.md",
+    "3-Rules/Character Building/Equipment/B/bombers-saddle.md",
+    "3-Rules/Character Building/Equipment/B/bombers-eye-elixir-lesser.md",
+    "3-Rules/Character Building/Equipment/B/bombers-eye-elixir-greater.md",
+    "3-Rules/Character Building/Equipment/B/bomb-snare.md",
+    "zz-Attachments/bomb-snare.png",
+    "3-Rules/Character Building/Equipment/B/bomb-launcher.md",
+    "3-Rules/Character Building/Equipment/B/bomb-coagulant-alembic.md",
+    "3-Rules/Character Building/Equipment/B/bolts.md",
+    "zz-Attachments/bola-shot.png",
+>>>>>>> Stashed changes
     "1-GM Toolkit/Idea Book",
     "zz-Attachments/codex-of-eidolonic-tapestry.png",
     "zz-Attachments/codex-of-bound-menagerie.png",
@@ -294,10 +372,7 @@
     "zz-Attachments/wroggi-hide-armor.png",
     "zz-Attachments/wroggi-hide-armor.png",
     "zz-Attachments/venomlash-blade.png",
-    "zz-Attachments/wroggi-frill-catalyst.png",
     "3-Rules/Character Building/Spells/Homebrew",
-    "5-World/Primordials",
-    "zz-Attachments/bloody-fang.png",
-    "zz-Attachments/bloodknuckles.png"
+    "5-World/Primordials"
   ]
 }

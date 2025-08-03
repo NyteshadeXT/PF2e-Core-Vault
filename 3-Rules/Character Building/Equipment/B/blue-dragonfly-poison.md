@@ -8,12 +8,12 @@ name: "blue-dragonfly-poison"
 aliases: "Blue Dragonfly Poison"
 source: "Pathfinder Monster Core"
 pg: ""
-rarity: ""
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison causes debilitating hallucinations in most other creatures.  **Saving Throw** DC 17 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Dazzled|Dazzled]] (10 minutes)  **Stage 2** dazzled and [[Conditions/Frightened|Frightened 1]] (10 minutes)  **Stage 3** frightened 1 and [[Conditions/Confused|Confused]] 1 (1 minute)"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this mixture to awaken their divine powers, but the poison causes debilitating hallucinations in most other creatures."
+powerTitle1: "Poison"
+actionEconomy1: 1
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "**Saving Throw** DC 17 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes\n\n**Stage 1** [[Dazzled]] (10 minutes)\n**Stage 2** dazzled and [[Frightened|Frightened 1]] (10 minutes)\n**Stage 3** frightened 1 and [[Confused|Confused]] 1 (1 minute)"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

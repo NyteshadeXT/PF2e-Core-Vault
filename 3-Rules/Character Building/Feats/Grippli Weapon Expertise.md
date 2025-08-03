@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You fight with effortless expertise with grippli weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the [[Blowgun|Blowgun]], [[Hatchet|Hatchet]], [[Scythe|Scythe]], [[Shortbow|Shortbow]], and [[Composite Shortbow|Composite Shortbow]], or grippli weapons in which you are trained.
+You fight with effortless expertise with grippli weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the [[blowgun|Blowgun]], [[Hatchet|Hatchet]], [[Scythe|Scythe]], [[Shortbow|Shortbow]], and [[Composite Shortbow|Composite Shortbow]], or grippli weapons in which you are trained.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

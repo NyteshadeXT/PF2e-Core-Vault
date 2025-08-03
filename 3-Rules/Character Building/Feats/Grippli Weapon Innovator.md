@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Grippli Weapon Familiarity
 * * *
-You've learned devious ways to make the most of your grippli weapons. Whenever you critically hit using a [[Blowgun|Blowgun]], [[Hatchet|Hatchet]], [[Scythe|Scythe]], [[Shortbow|Shortbow]], and [[Composite Shortbow|Composite Shortbow]], or grippli weapon, you apply the weapon's critical specialization effect.
+You've learned devious ways to make the most of your grippli weapons. Whenever you critically hit using a [[blowgun|Blowgun]], [[Hatchet|Hatchet]], [[Scythe|Scythe]], [[Shortbow|Shortbow]], and [[Composite Shortbow|Composite Shortbow]], or grippli weapon, you apply the weapon's critical specialization effect.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

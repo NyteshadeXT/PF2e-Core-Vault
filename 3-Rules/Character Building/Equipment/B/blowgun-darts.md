@@ -3,8 +3,8 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "bolts"
-aliases: "Bolts"
+name: "blowgun-darts"
+aliases: "Blowgun Darts"
 source: "Pathfinder Player Core"
 pg: "280"
 rarity: ""
@@ -18,15 +18,15 @@ trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
-group: "Bow"
-bulk: "L"
-value: "1"
-subvalue: "sp"
+group: Dart
+bulk: L
+value: "5"
+subvalue: "cp"
 invest: 
 usage: ""
 license: "ORC"
 identify: ""
-description: "Shorter than traditional arrows but similar in construction, bolts are the ammunition used by crossbows."
+description: "These thin, light darts are typically made of hardwood and stabilized with fletching of down or fur. They are often hollow so they can be used to deliver poison.  Note: price is per 10 darts."
 activate: ""
 craft: 
 destruction: 
@@ -86,8 +86,8 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
-ammoType: 
+range:
+ammoType:
 reload:
 damage: 
 dmg1: 

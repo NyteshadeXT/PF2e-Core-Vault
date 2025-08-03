@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "boots-of-dancing"
 aliases: "Boots of Dancing"
 source: "Pathfinder Gamemastery Guide"
-pg: ""
-rarity: ""
+pg: "90"
+rarity: "rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These boots act as [[Equipment/Boots of Elvenkind (Greater)|Boots of Elvenkind (Greater)]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an Athletics check or Stride more than once in a single round during an encounter. The boots cast an 8th-rank [[Spells/Uncontrollable Dance|Uncontrollable Dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you."
+description: "These boots act as [[boots-of-elvenkind|Boots of Elvenkind]], but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an [[Skills#Athletics|Athletics]] check or [[Stride]] more than once in a single round during an encounter. The boots cast an 8th-rank [[Uncontrollable Dance]] spell on you, and you automatically fail your save. Once the curse has activated for the first time, the boots fuse to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
