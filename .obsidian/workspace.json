@@ -22,45 +22,17 @@
             }
           },
           {
-            "id": "59609350b45cdd92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "venomlash-blade"
-            }
-          },
-          {
-            "id": "4b9259c2430cf458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Enhanced Chimeracrafting Ideas"
-            }
-          },
-          {
             "id": "34e4ccf0e1b72009",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
+                "file": "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "wroggi-hide-mantle"
+              "title": "great-wroggi"
             }
           },
           {
@@ -76,9 +48,22 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
+          },
+          {
+            "id": "285df5f99376e201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chimeracrafting"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for blast-boots-greater"
+              "title": "Backlinks for Encounter at Blackwall Keep"
             }
           },
           {
@@ -229,6 +214,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "ff1d6cf0350bf08f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba31e897c855c052",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -257,39 +258,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4b9259c2430cf458",
+  "active": "c5c2c48250426975",
   "lastOpenFiles": [
-    "1-GM Toolkit/GM Screen/GM Screen.md",
-    "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
-    "3-Rules/Trait Reference/V/volatile-hb.md",
-    "1-GM Toolkit/Idea Book",
-    "3-Rules/Trait Reference/V/visual.md",
-    "3-Rules/Trait Reference/V/vampire-b1.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/tetranadon.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+    "1-GM Toolkit/Tests/Chimeracrafting.md",
+    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Full Variant.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "5-World/Factions/Dungeon Seekers Guild.md",
     "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-talisman.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
-    "3-Rules/Character Building/Equipment/Homebrew/monster-harvesting-tools.md",
-    "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
-    "zz-Attachments/codex-of-eidolonic-tapestry.png",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
-    "zz-Attachments/codex-of-bound-menagerie.png",
-    "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
     "1-GM Toolkit/DC Calculator.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 021.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 019.md",
-    "2-Session Journals/Age-of-Worms/Old/AoW Session 018.md",
-    "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
+    "zz-Templates/Markdown/Update Session Note.md",
+    "3-Rules/Character Building/Equipment/Homebrew/monster-harvesting-tools.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
+    "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
+    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
+    "zz-Templates/Markdown/Update Adventure YAML.md",
+    "zz-Templates/Markdown/New Creature Template.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Insert Timeline Event.md",
+    "zz-Templates/Markdown/Insert Timeline.md",
+    "zz-Templates/Markdown/Insert Regional Map (Leaflet).md",
+    "zz-Templates/Markdown/Insert Reference To Rollable Table.md",
+    "zz-Templates/Markdown/Insert Random Encounter Table (Initiative Tracker).md",
+    "zz-Templates/Markdown/Insert Multiple Encounters Table (Initiative Tracker).md",
+    "zz-Templates/Markdown/Insert Multiple Encounters (Initiative Tracker) 1.md",
+    "zz-Templates/Markdown/Insert Map (Leaflet).md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
+    "1-GM Toolkit/Idea Book",
+    "zz-Attachments/codex-of-eidolonic-tapestry.png",
+    "zz-Attachments/codex-of-bound-menagerie.png",
     "zz-Attachments/bestial-crafters-codex.png",
-    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
     "zz-Attachments/venomlash-blade.png",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
     "zz-Attachments/wroggi-hide-armor.png",
     "zz-Attachments/wroggi-hide-armor.png",
     "zz-Attachments/venomlash-blade.png",

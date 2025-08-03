@@ -22,6 +22,7 @@ size: "[[medium]]"
 traits:
   - "[[beast]]"
   - "[[poison]]"
+  - "[[chimeric]]"
 modifier: 7
 perception: 
   - name: "Perception"

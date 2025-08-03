@@ -1,7 +1,7 @@
 ---
 tags:
   - Organization
-art: zz_Attachments/Dungeon Seekers Guild Emblem.png
+art: zz-Attachments/Dungeon Seekers Guild Emblem.png
 pronounced: Dungeon Seekers Guild
 organizationtype:
   - Association

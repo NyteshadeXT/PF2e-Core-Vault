@@ -262,7 +262,7 @@
     },
     {
       "id": "update-me",
-      "lastAccessed": 1753421581348,
+      "lastAccessed": 1754015382145,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -300,8 +300,8 @@
           "id": "ID_9888aab87978",
           "type": "default",
           "loc": [
-            -0.0065135955810546875,
-            0.0027747594858936893
+            -0.0064737559312733235,
+            0.0027729254572287404
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
           "mutable": true,
@@ -359,13 +359,92 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_397be819a989",
+          "type": "default",
+          "loc": [
+            -0.006362557411193848,
+            0.00182342529296875
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8b388a0b9a38",
+          "type": "default",
+          "loc": [
+            -0.00602008725390206,
+            0.001780282881100164
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_181a59d82809",
+          "type": "default",
+          "loc": [
+            -0.007325628033375514,
+            0.0030750340673548287
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_395909d82beb",
+          "type": "default",
+          "loc": [
+            -0.006926413084280326,
+            0.002211866609851719
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6afb0bfb2b38",
+          "type": "default",
+          "loc": [
+            -0.007018685340881348,
+            0.0022430419921875
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-        "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md"
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
       ]
     }
   ],
