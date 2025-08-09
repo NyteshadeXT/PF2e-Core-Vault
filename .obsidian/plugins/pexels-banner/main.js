@@ -275,12 +275,27 @@ var init_imageViewModal = __esm({
         const { contentEl } = this;
         contentEl.empty();
         contentEl.addClass("pixel-banner-image-view-modal");
+        const actualUrl = this.getActualUrl(this.imageUrl);
         const imageContainer = contentEl.createDiv("image-container");
-        const img = imageContainer.createEl("img", {
-          attr: {
-            src: this.imageUrl
-          }
-        });
+        const isVideo = this.isVideoUrl(actualUrl);
+        let mediaElement;
+        if (isVideo) {
+          mediaElement = imageContainer.createEl("video", {
+            attr: {
+              src: actualUrl,
+              controls: true,
+              autoplay: false,
+              preload: "metadata"
+            }
+          });
+        } else {
+          mediaElement = imageContainer.createEl("img", {
+            attr: {
+              src: actualUrl,
+              alt: "Banner Image"
+            }
+          });
+        }
         if (this.bannerPath) {
           const pathContainer = contentEl.createEl("div", { cls: "path-container" });
           const pathDisplay = pathContainer.createEl("div", {
@@ -360,7 +375,8 @@ var init_imageViewModal = __esm({
                 margin-bottom: 10px;
             }
 
-            .pixel-banner-image-view-modal .image-container img {
+            .pixel-banner-image-view-modal .image-container img,
+            .pixel-banner-image-view-modal .image-container video {
                 display: flex;
                 justify-content: center;
                 align-items: center;
@@ -404,6 +420,18 @@ var init_imageViewModal = __esm({
         if (styleEl) {
           styleEl.remove();
         }
+      }
+      isVideoUrl(url) {
+        if (!url) return false;
+        const videoExtensions = [".mp4", ".mov", ".webm", ".ogg"];
+        const lowerUrl = url.toLowerCase();
+        return videoExtensions.some((ext) => lowerUrl.includes(ext));
+      }
+      getActualUrl(imageUrl) {
+        if (typeof imageUrl === "object" && imageUrl !== null) {
+          return imageUrl.url || imageUrl.src || "";
+        }
+        return imageUrl;
       }
     };
   }
@@ -30490,7 +30518,7 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian30 = require("obsidian");
 
 // virtual-module:virtual:release-notes
-var releaseNotes = '<a href="https://www.youtube.com/watch?v=tfNqEAQuhXs">\n  <img src="https://pixel-banner.online/img/pixel-banner-v3.6.jpg" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.6.0 - 2025-06-29</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Support for \u{1F3AC} Video Banners!<ul>\n<li>Upload and choose Video files as banners from your vault</li>\n<li>Downloadable \u{1F3AC} Video Banners from the <code>Pixel Banner Plus Collection</code></li>\n</ul>\n</li>\n<li>Added paging controls to the <code>Pixel Banner Plus Collection</code></li>\n<li>New global <code>Banner Max Width</code> setting to control the default max width for all banners</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>Default Saved Banners Folder</code> setting to the <code>General</code> tab</li>\n<li>Renamed <code>Pixel Banner Plus Store</code> to <code>Pixel Banner Plus Collection</code> as many items are free</li>\n</ul>\n<h3>v3.6.1 - 2025-06-30</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with Icon Image selection modal not setting the selected icon image</li>\n</ul>\n<h3>v3.6.2 - 2025-06-30</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Improved debounce logic to prevent multiple banner reloads when opening a note</li>\n</ul>\n<h3>v3.6.3 - 2025-06-30</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Added <code>filesize</code> display to the store modal</li>\n</ul>\n<h3>v3.6.4 - 2025-07-13</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Banner images now support local <code>file</code> protocol for images outside of your vault (e.g. <code>file:///C:\\path\\banner.jpg</code>)</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Allow commas in banner filenames</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Ensure pinned banner is the currently displayed image when saving API banners</li>\n<li>Ensure banner icons are only rendered when a main banner image is present</li>\n<li>Banner Icon Image not always rendered until the note was clicked/focused</li>\n</ul>\n<h3>v3.6.5</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fix refresh button to use original comma-separated keywords from frontmatter instead of the cached single keyword</li>\n<li>Resolved issue with the default x/y frontmatter fields not being hidden when the &quot;Hide Pixel Banner Fields&quot; option is enabled</li>\n<li>Updated API call for <code>Pexels</code> to conform to spec changes on their side</li>\n</ul>\n<h3>v3.6.6</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>New folder group entries now inherit the user&#39;s default Content Start Position setting instead of being hardcoded to 150px</li>\n</ul>\n<a href="https://www.youtube.com/watch?v=pJFsMfrWak4">\n  <img src="https://pixel-banner.online/img/pixel-banner-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n';
+var releaseNotes = '<a href="https://www.youtube.com/watch?v=tfNqEAQuhXs">\n  <img src="https://pixel-banner.online/img/pixel-banner-v3.6.jpg" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.6.0</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Support for \u{1F3AC} Video Banners!<ul>\n<li>Upload and choose Video files as banners from your vault</li>\n<li>Downloadable \u{1F3AC} Video Banners from the <code>Pixel Banner Plus Collection</code></li>\n</ul>\n</li>\n<li>Added paging controls to the <code>Pixel Banner Plus Collection</code></li>\n<li>New global <code>Banner Max Width</code> setting to control the default max width for all banners</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>Default Saved Banners Folder</code> setting to the <code>General</code> tab</li>\n<li>Renamed <code>Pixel Banner Plus Store</code> to <code>Pixel Banner Plus Collection</code> as many items are free</li>\n</ul>\n<h3>v3.6.1</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with Icon Image selection modal not setting the selected icon image</li>\n</ul>\n<h3>v3.6.2</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Improved debounce logic to prevent multiple banner reloads when opening a note</li>\n</ul>\n<h3>v3.6.3</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Added <code>filesize</code> display to the store modal</li>\n</ul>\n<h3>v3.6.4</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Banner images now support local <code>file</code> protocol for images outside of your vault (e.g. <code>file:///C:\\path\\banner.jpg</code>)</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Allow commas in banner filenames</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Ensure pinned banner is the currently displayed image when saving API banners</li>\n<li>Ensure banner icons are only rendered when a main banner image is present</li>\n<li>Banner Icon Image not always rendered until the note was clicked/focused</li>\n</ul>\n<h3>v3.6.5</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fix refresh button to use original comma-separated keywords from frontmatter instead of the cached single keyword</li>\n<li>Resolved issue with the default x/y frontmatter fields not being hidden when the &quot;Hide Pixel Banner Fields&quot; option is enabled</li>\n<li>Updated API call for <code>Pexels</code> to conform to spec changes on their side</li>\n</ul>\n<h3>v3.6.6</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>New folder group entries now inherit the user&#39;s default Content Start Position setting instead of being hardcoded to 150px</li>\n</ul>\n<h3>v3.6.7</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fixed ImageViewModal to properly display banner images and videos when clicking the &quot;Show View Image Icon&quot;<ul>\n<li>Added support for MP4 and MOV video files in the ImageViewModal with proper video player controls</li>\n<li>Correctly display actual image URLs instead of keywords for 3rd party API banners in the ImageViewModal</li>\n<li>Local images, videos, and file:/// paths maintain original display behavior</li>\n</ul>\n</li>\n</ul>\n<a href="https://www.youtube.com/watch?v=pJFsMfrWak4">\n  <img src="https://pixel-banner.online/img/pixel-banner-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n';
 
 // src/settings/settings.js
 var import_obsidian6 = require("obsidian");
@@ -31098,6 +31126,7 @@ var FolderImageSetting = class extends import_obsidian2.Setting {
     });
   }
   addContentStartInput(containerEl) {
+    var _a;
     const label = containerEl.createEl("label", { text: "Content Start", cls: "setting-item-name__label" });
     label.style.marginRight = "20px";
     const contentStartInput = containerEl.createEl("input", {
@@ -31108,7 +31137,7 @@ var FolderImageSetting = class extends import_obsidian2.Setting {
     });
     contentStartInput.style.width = "50px";
     contentStartInput.style.marginLeft = "10px";
-    contentStartInput.value = this.folderImage.contentStartPosition || "355";
+    contentStartInput.value = (_a = this.folderImage.contentStartPosition) != null ? _a : "355";
     contentStartInput.addEventListener("change", async () => {
       this.folderImage.contentStartPosition = parseInt(contentStartInput.value);
       await this.plugin.saveSettings();
@@ -33649,7 +33678,15 @@ async function addPixelBanner(plugin, el, ctx) {
       const viewImageIcon = container.querySelector(":scope > .view-image-icon");
       if (viewImageIcon && viewImageIcon._updateVisibility) {
         const bannerValue = getFrontmatterValue(frontmatter, plugin.settings.customBannerField);
-        viewImageIcon._updateVisibility(imageUrl, bannerValue || file.path);
+        let displayUrl = bannerValue || file.path;
+        if (inputType === "keyword") {
+          if (imageUrl && typeof imageUrl === "object" && imageUrl.url) {
+            displayUrl = imageUrl.url;
+          } else if (imageUrl && typeof imageUrl === "string") {
+            displayUrl = imageUrl;
+          }
+        }
+        viewImageIcon._updateVisibility(imageUrl, displayUrl);
       }
       plugin.applyBannerSettings(bannerDiv, ctx, isEmbedded);
       const hideEmbeddedNoteBanners2 = getFrontmatterValue(frontmatter, plugin.settings.customHideEmbeddedNoteBannersField) || (folderSpecific == null ? void 0 : folderSpecific.hideEmbeddedNoteBanners) || plugin.settings.hideEmbeddedNoteBanners || false;
@@ -33755,7 +33792,16 @@ async function addPixelBanner(plugin, el, ctx) {
                 const viewImageIcon2 = container.querySelector(":scope > .view-image-icon");
                 if (viewImageIcon2 && viewImageIcon2._updateVisibility) {
                   const bannerValue = getFrontmatterValue(frontmatter, plugin.settings.customBannerField);
-                  viewImageIcon2._updateVisibility(fileUrl2, bannerValue || file.path);
+                  let displayUrl = bannerValue || file.path;
+                  const refreshInputType = plugin.getInputType(bannerValue);
+                  if (refreshInputType === "keyword") {
+                    if (fileUrl2 && typeof fileUrl2 === "object" && fileUrl2.url) {
+                      displayUrl = fileUrl2.url;
+                    } else if (fileUrl2 && typeof fileUrl2 === "string") {
+                      displayUrl = fileUrl2;
+                    }
+                  }
+                  viewImageIcon2._updateVisibility(fileUrl2, displayUrl);
                 }
                 new import_obsidian26.Notice("\u{1F504} Refreshed banner");
               }

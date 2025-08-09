@@ -16,7 +16,7 @@ license: ORC
 ---
 # Boughshatter
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[magical]][[poison]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Trait Reference/E/earth]][[magical]][[3-Rules/Trait Reference/P/poison]][[versatile-p]]
 
 |  |  |
 | -- | -- |

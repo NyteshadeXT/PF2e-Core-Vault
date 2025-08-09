@@ -95,8 +95,8 @@ creatures:
 ## Harvest Table: Great Wroggi
 |Part Name|Trait Tags|Part gp Value|Use & Crafting Notes|
 |---|---|---|---|
-|**Wroggi Hide**|[[poison]]|90 gp| [[wroggi-hide-mantle\|Wroggi Hide Mantle]] |
-|**Alpha Venom Sac**|[[poison]], [[volatile]], [[magical]]|125 gp|[[venomlash-talisman\|Venomlash Talisman]], [[alpha-venom-sac-catalyst\|Alpha Venom Sac Catalyst]] |
-|**Fanged Maw**|[[poison]], [[death]], [[piercing]], [[slashing]], [[magical]]|100 gp|[[fanged-maw-catalyst\|Fanged Maw Catalyst]], [[venomlash-blade\|Venomlash Blade]]  |
+|**Wroggi Hide**|[[3-Rules/Trait Reference/P/poison]]|90 gp| [[wroggi-hide-mantle\|Wroggi Hide Mantle]] |
+|**Alpha Venom Sac**|[[3-Rules/Trait Reference/P/poison]], [[volatile]], [[magical]]|125 gp|[[venomlash-talisman\|Venomlash Talisman]], [[alpha-venom-sac-catalyst\|Alpha Venom Sac Catalyst]] |
+|**Fanged Maw**|[[3-Rules/Trait Reference/P/poison]], [[death]], [[piercing]], [[slashing]], [[magical]]|100 gp|[[fanged-maw-catalyst\|Fanged Maw Catalyst]], [[venomlash-blade\|Venomlash Blade]]  |
 |**Hood Frill**|[[fear]], [[emotion]], [[illusion]]|80 gp| [[wroggi-frill-catalyst\|Wroggi Frill Catalyst]] |
 

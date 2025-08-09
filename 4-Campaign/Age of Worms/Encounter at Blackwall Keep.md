@@ -5,7 +5,9 @@ art: zz-Attachments/blackwall keep.png
 whichparty:
   - "[[Age of Worms Party Dashboard]]"
 adventure_status: Not Started
-adventure_level: "7"
+adventure_level: 5th to 7th
+aliases:
+  - Dungeon 126
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -723,7 +725,7 @@ This chamber holds all of the tribe's eggs, an unusually large number for a trib
 
 If any lizardfolk come to this area while the PCs are here, they are extremely cautious about their eggs, going out of their way to not provoke the invaders to harm the eggs, but retaliating brutally if any damage occurs (+2 morale bonus on attack rolls and weapon damage), 
 
-The eggs extend above the waterline and are easily spotted but are so numerous that any creature moving through the area must make a DC 18 [[Skills#Acrobatics]] check each round they travel more than half speed; failure means they break `dice: 1d2` 1d2 eggs. Area attacks that deal 1 or more hit points of damage automatically kill all eggs in the affected area. 
+The eggs extend above the waterline and are easily spotted but are so numerous that any creature moving through the area must make a DC 18 [[Skills#Acrobatics|Acrobatics]] check each round they travel more than half speed; failure means they break `dice: 1d2` 1d2 eggs. Area attacks that deal 1 or more hit points of damage automatically kill all eggs in the affected area. 
 
 **Encounter Difficulty:**   
 - [ ] difficulty (xxx XP) Level xxx
@@ -759,8 +761,8 @@ Other methods of attacking the dragon egg produce different effects.
 > - [ ] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
 > - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
 > - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 > - [ ] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]
 > - [ ] consumable::[[invisibility-potion|Invisibility Potion]] [ilvl::4] [gp::20]
 

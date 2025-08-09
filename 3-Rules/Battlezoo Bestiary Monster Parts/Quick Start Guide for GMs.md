@@ -20,9 +20,9 @@ Once you know which variant you're using, you can start giving your PCs monster 
 # Step 3: Communicate With Your Players
 ![[monster-parts-quickstart-communicate.webp]]
 
-Ask your players what sorts of items and imbued properties they want to create, and you can use that to help them guide the story towards opponents that meet the necessary requirements. For instance, if one of the PCs is interested in creating a weapon imbued with electricity, you could give them a rumor when they Gather Information about a dungeon haunted by electric monsters. If you want to see the requirements for refining and imbuing for yourself, you can check out [[Refining|Refining]] and [[Imbuing|Imbuing]].
+Ask your players what sorts of items and awakened properties they want to create, and you can use that to help them guide the story towards opponents that meet the necessary requirements. For instance, if one of the PCs is interested in creating a weapon awakened with electricity, you could give them a rumor when they Gather Information about a dungeon haunted by electric monsters. If you want to see the requirements for synthesizing and awakening for yourself, you can check out [[Synthesizing|Synthesizing]] and [[Awakening|Awakening]].
 
 # Step 4: Play the Game
 ![[monster-parts-quickstart-play.webp]]
 
-Now all that's left is to play the game with the new system! As the PCs defeat monsters, the players will have their characters make decisions about how to use the parts they've found to upgrade their items. All you have to do is keep giving them more parts, using the appropriate tables to do so, and they'll do the rest. Continue to keep in mind what sorts of refining and imbuing your PCs are interested in pursuing so that you can make sure they have a chance to find the right sorts of monsters to accomplish their goals.
+Now all that's left is to play the game with the new system! As the PCs defeat monsters, the players will have their characters make decisions about how to use the parts they've found to upgrade their items. All you have to do is keep giving them more parts, using the appropriate tables to do so, and they'll do the rest. Continue to keep in mind what sorts of synthesizing and awakening your PCs are interested in pursuing so that you can make sure they have a chance to find the right sorts of monsters to accomplish their goals.

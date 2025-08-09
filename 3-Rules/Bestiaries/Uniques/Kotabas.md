@@ -16,6 +16,7 @@ layout: Basic Pathfinder 2e Layout
 source: Custom
 name: "Kotabas"
 level: "Creature 7"
+token: Kotabas.png
 size: "Medium"
 trait_01: "humanoid"
 trait_02: "lizardfolk"
@@ -28,11 +29,11 @@ skills:
   - name: "Skills"
     desc: "Acrobatics +12, Athletics +18, Intimidation +15, Survival +11"
 abilityMods: [5, 2, 4, -2, 1, 1]
-speed: 35 feet, swim 25 feet
+speed: 25 feet, swim 25 feet
 ac: 25
 armorclass:
   - name: AC
-    desc: "25 (24 while raging); Fort +17, Ref +14, Will +12"
+    desc: "25; Fort +17, Ref +14, Will +12"
 hp: 135
 health:
   - name: HP

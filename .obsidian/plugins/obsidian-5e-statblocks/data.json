@@ -341,6 +341,176 @@
         ],
         "sourcebook": "_Homebrew_"
       }
+    ],
+    [
+      "Kyuss Spawnling",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Conversion",
+        "token": "!<STATBLOCK-WIKI-LINK>Kyuss Spawnling.png<STATBLOCK-WIKI-LINK>",
+        "name": "Kyuss Spawnling",
+        "level": "Creature 1",
+        "rare_03": "Uncommon",
+        "alignment": "",
+        "size": "tiny",
+        "trait_01": "undead",
+        "trait_02": "aquatic",
+        "trait_03": "mindless",
+        "modifier": 5,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+4; darkvision, scent (imprecise) 30 feet"
+          }
+        ],
+        "languages": "—",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics +6, Stealth +8, Swim +8"
+          }
+        ],
+        "abilityMods": [
+          -3,
+          4,
+          0,
+          -4,
+          1,
+          2
+        ],
+        "speed": "swim 40 feet",
+        "ac": 18,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "18; __Fort__ +4, __Ref__ +6, __Will__ +4"
+          }
+        ],
+        "hp": 9,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "9; fast healing 3; __Weaknesses__ vitality 5, <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK> (instantly destroyed)"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": ""
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Kyuss Spawnling Venom",
+            "desc": "`pf2:1` (__poison__, __injury__) DC 10 Fortitude save __Stage 1 (1 round)__: <STATBLOCK-WIKI-LINK>Drained 1<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sickened 1<STATBLOCK-WIKI-LINK>  __Stage 2 (1 round)__: <STATBLOCK-WIKI-LINK>Drained 2<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sickened 2<STATBLOCK-WIKI-LINK>  __Stage 3__: Unconscious for 1 minute if reduced to 0 HP from Drained"
+          },
+          {
+            "name": "Create Spawn",
+            "desc": "`pf2:2` **Requirements**: A fresh humanoid corpse is adjacent. **Effect**: The Kyuss spawnling infests the body with worms. After 1d6+4 rounds, the corpse rises as a <STATBLOCK-WIKI-LINK>Spawn of Kyuss<STATBLOCK-WIKI-LINK> (uncontrolled, GM discretion)."
+          },
+          {
+            "name": "Vulnerability to <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK>",
+            "desc": "If the Kyuss spawnling is affected by <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK> or similar effects, it is instantly destroyed, even though it's undead."
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "`pf2:1` Bite +6 (agile, finesse, magical) __Damage__ 1d4–3 piercing plus Kyuss Spawnling Venom"
+          }
+        ],
+        "sourcebook": "_Dungeon Magazine Issue 126, pg. 38_"
+      }
+    ],
+    [
+      "Spawn of Kyuss",
+      {
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom",
+        "sourcebook": "Conversion - D&D 3.5e",
+        "name": "Spawn of Kyuss",
+        "level": "Creature 7",
+        "token": "<STATBLOCK-WIKI-LINK>spawn-of-kyuss.png<STATBLOCK-WIKI-LINK>",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>Undead<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>Mindless<STATBLOCK-WIKI-LINK>",
+        "trait_03": "<STATBLOCK-WIKI-LINK>Evil<STATBLOCK-WIKI-LINK>",
+        "modifier": 12,
+        "senses": "<STATBLOCK-WIKI-LINK>Darkvision<STATBLOCK-WIKI-LINK> 60 feet",
+        "languages": "Common (understands, but cannot speak)",
+        "skills": [],
+        "attributes": [
+          {
+            "str": 5
+          },
+          {
+            "dex": -1
+          },
+          {
+            "con": "—"
+          },
+          {
+            "int": -2
+          },
+          {
+            "wis": 0
+          },
+          {
+            "cha": 3
+          }
+        ],
+        "speed": "30 feet",
+        "ac": 23,
+        "saves": [
+          {
+            "fort": 13
+          },
+          {
+            "ref": 9
+          },
+          {
+            "will": 11
+          }
+        ],
+        "hp": 110,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "110, fast healing 8; __immunities__ <STATBLOCK-WIKI-LINK>death|Death Effects<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Disease<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Poison<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Sleep<STATBLOCK-WIKI-LINK> __weaknesses__ Curative Transformation: <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK> transforms the spawn into a mindless <STATBLOCK-WIKI-LINK>3-Rules/Bestiaries/Monster Core/Zombie Brute|Zombie Brute<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "___Melee___ ⬻ slam",
+            "desc": "(<STATBLOCK-WIKI-LINK>Magical<STATBLOCK-WIKI-LINK>) +17; `dice: 2d6+9` 2d6+9 bludgeoning plus Kyuss' Gift"
+          },
+          {
+            "name": "___Ranged___ ⬻ worm toss",
+            "desc": "(<STATBLOCK-WIKI-LINK>Agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>range-increment|Range Increment 10ft<STATBLOCK-WIKI-LINK>) +10; Worm attaches on hit (see Create Spawn)"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Fear Aura",
+            "desc": "(<STATBLOCK-WIKI-LINK>Aura<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Emotion<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Fear<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Mental<STATBLOCK-WIKI-LINK>) 60 feet, DC 24 Will save.   A creature that fails becomes <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK> 3 and <STATBLOCK-WIKI-LINK>Fleeing<STATBLOCK-WIKI-LINK> for 1 round. On success the creature becomes <STATBLOCK-WIKI-LINK>Frightened<STATBLOCK-WIKI-LINK> 1. Regardless of success or failure, it is immune to this aura for 24 hours after exposure to it.\n"
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Create Spawn ⬻",
+            "desc": "When the spawn hits with a slam or worm toss, a worm burrows into the target.   The worm deals `dice: 1d4` 1d4 persistent mental damage each round as it seeks the brain. While infected you are <STATBLOCK-WIKI-LINK>Off-Guard<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>Clumsy 1<STATBLOCK-WIKI-LINK>.   After `dice: 1d4+1` 1d4+1 rounds, the creature must succeed at a DC 24 Fortitude save or become <STATBLOCK-WIKI-LINK>Confused<STATBLOCK-WIKI-LINK> for 1 minute.   A second failure while confused results in instant death, and the creature rises as a new Spawn of Kyuss in `dice: 1d4` 1d4 rounds unless the body is destroyed.   **Countermeasures:** A successful DC 20 <STATBLOCK-WIKI-LINK>Skills#Medicine|Medicine<STATBLOCK-WIKI-LINK> check can extract the worm. <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK> destroys all worms in the host.   **Worm Defense:** A creature that hits the spawn with unarmed or natural attacks is exposed to 1d4 worms as above.\n"
+          },
+          {
+            "name": "Worm Explosion",
+            "desc": "**Trigger**: The spawn is reduced to 0 HP  **Effect**: `dice: 1d4+1` 1d4+1 Kyuss worms erupt in a 10-foot burst. Each adjacent creature must succeed at a DC 22 Reflex save or have a worm latch on. Creatures with natural armor +3 or less are automatically affected.\n"
+          },
+          {
+            "name": "Kyuss’ Gift",
+            "desc": "(<STATBLOCK-WIKI-LINK>Disease<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Divine<STATBLOCK-WIKI-LINK>)   **Saving Throw** DC 23 Fortitude; **Onset** 1 day; **Stage 1** carrier with no symptoms (1 day),   **Stage 2** 2d6 necrotic damage and the target becomes <STATBLOCK-WIKI-LINK>Drained 2<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>Confused<STATBLOCK-WIKI-LINK> for 1 day,   **Stage 3** 3d6 necrotic damage. The target is <STATBLOCK-WIKI-LINK>Drained 3<STATBLOCK-WIKI-LINK> and <STATBLOCK-WIKI-LINK>Confused<STATBLOCK-WIKI-LINK> until cured or dies.   **Special:** Healing magic only restores half HP while afflicted. <STATBLOCK-WIKI-LINK>Cleanse Affliction<STATBLOCK-WIKI-LINK> cures the condition fully.\n"
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {},
@@ -352,8 +522,8 @@
   "showAdvanced": true,
   "version": {
     "major": 4,
-    "minor": 9,
-    "patch": 1
+    "minor": 10,
+    "patch": 0
   },
   "paths": [
     "/"

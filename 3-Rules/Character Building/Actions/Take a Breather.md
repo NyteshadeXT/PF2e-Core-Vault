@@ -12,7 +12,7 @@ license: OGL
 ---
 # Take a Breather
 
-### [[exploration]][[stamina]]
+### [[exploration]][[Stamina]]
 
 **Category** interaction; 
 

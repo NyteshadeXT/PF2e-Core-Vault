@@ -27,7 +27,7 @@ Here are **7 unique ideas** to consider that would deepen, diversify, or differe
 
 **Mechanics:**
 
-- After slaying 5 creatures with the [[poison]] trait while wielding a Venomlash Blade, unlock a new active ability.
+- After slaying 5 creatures with the [[3-Rules/Trait Reference/P/poison]] trait while wielding a Venomlash Blade, unlock a new active ability.
     
 - Use a **bonded essence score** tracked per item to evolve it at set thresholds.
     
@@ -116,7 +116,7 @@ These are consumed like talismans and leave visible signs—spines, scales, or m
 
 **Examples:**
 
-- Add [[poison]] trait and clumsy effect to _Ray of Frost_ if the caster used a Wroggi fang within 1 hour.
+- Add [[3-Rules/Trait Reference/P/poison]] trait and clumsy effect to _Ray of Frost_ if the caster used a Wroggi fang within 1 hour.
     
 - Add a _push 5 ft_ effect to _Telekinetic Maneuver_ using a Brute Wyvern tendon.
     

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "76350e8aef386214",
+    "id": "2d5e61adfb40a7d0",
     "type": "split",
     "children": [
       {
-        "id": "93ffac63c8fa3821",
+        "id": "983f66a0ccac1467",
         "type": "tabs",
         "children": [
           {
-            "id": "c5c2c48250426975",
+            "id": "ab9827c20e1cf0de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,119 +22,117 @@
             }
           },
           {
-<<<<<<< Updated upstream
-            "id": "34e4ccf0e1b72009",
-=======
-            "id": "4b9259c2430cf458",
->>>>>>> Stashed changes
+            "id": "06a16295335aac1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "great-wroggi"
-=======
-                "file": "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Enhanced Chimeracrafting Ideas"
->>>>>>> Stashed changes
+              "title": "The Hall of Harsh Reflections"
             }
           },
           {
-            "id": "15cdda96a98e5e8b",
+            "id": "f262f7c191712145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-            "id": "285df5f99376e201",
-=======
-            "id": "6eb8087dd06a5d10",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "1-GM Toolkit/Tests/Chimeracrafting.md",
-                "mode": "preview",
+                "file": "1-GM Toolkit/Chimeracrafting.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Chimeracrafting"
             }
-          }
-        ]
-=======
-                "file": "3-Rules/Character Building/Equipment/B/boots-of-free-running-(greater).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "boots-of-free-running-(greater)"
-            }
           },
           {
-            "id": "d2cce39a46146a49",
+            "id": "c7fc2f1a90c9d9b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
+                "file": "3-Rules/Bestiaries/Homebrew/S/spawn-of-kyuss.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "spawn-of-kyuss"
+            }
+          },
+          {
+            "id": "f424407e34ac4628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/Maps/Aetheria Fracta.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Aetheria Fracta"
+            }
+          },
+          {
+            "id": "e037cdd635456432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Travel Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Travel Calculator"
+            }
+          },
+          {
+            "id": "410a5a039ea102db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/K/kyuss-spawnling.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "kyuss-spawnling"
             }
           }
-        ],
-        "currentTab": 3
->>>>>>> Stashed changes
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4b881801cfb62638",
+    "id": "f8540bc618f38fde",
     "type": "split",
     "children": [
       {
-        "id": "ade94c613a626538",
+        "id": "09d3bb037a068569",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc58767fc45ebba",
+            "id": "2193ab23aee3b405",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "ee32808a7fc151d1",
+            "id": "8c87dc23c308cde9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -151,7 +149,7 @@
             }
           },
           {
-            "id": "ed67e9ab1eafa70f",
+            "id": "fc9447d45ead4449",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -164,18 +162,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 300
   },
   "right": {
-    "id": "fe3d5c521558e514",
+    "id": "31399180b54e0ae6",
     "type": "split",
     "children": [
       {
-        "id": "6fddc3f705e4f0c6",
+        "id": "6962ffcd544c0c81",
         "type": "tabs",
         "children": [
           {
-            "id": "ea10ea8d052c229f",
+            "id": "e685ea9f04382e04",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -194,21 +192,21 @@
             }
           },
           {
-            "id": "2ee9cfceca7cf399",
+            "id": "447ad50c2e52561a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from blast-boots-greater"
+              "title": "Outgoing links from Encounter at Blackwall Keep"
             }
           },
           {
-            "id": "6a3a5bf67789751e",
+            "id": "ee61fb3d0c0053f7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -223,22 +221,21 @@
             }
           },
           {
-            "id": "75d059a6006629a9",
+            "id": "2f448d49d5983df8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/blast-boots-greater.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of blast-boots-greater"
+              "title": "Outline"
             }
           },
           {
-            "id": "b9395793b59858fa",
+            "id": "df48649118a5f157",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -248,7 +245,7 @@
             }
           },
           {
-            "id": "9a13bc1e94fe025c",
+            "id": "5cc5052cf8ed143a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -260,11 +257,11 @@
         ]
       },
       {
-        "id": "ff1d6cf0350bf08f",
+        "id": "e4d3e04b4e679d73",
         "type": "tabs",
         "children": [
           {
-            "id": "ba31e897c855c052",
+            "id": "790af72d8a4ce034",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -277,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,13 +283,12 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
@@ -302,77 +297,51 @@
       "calendarium:Open Calendarium": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "c5c2c48250426975",
+  "active": "ab9827c20e1cf0de",
   "lastOpenFiles": [
-    "1-GM Toolkit/Tests/Chimeracrafting.md",
-    "3-Rules/Battlezoo Bestiary Monster Parts/Tables - Full Variant.md",
+    "3-Rules/Bestiaries/Homebrew/S/spawn-of-kyuss.md",
+    "3-Rules/Bestiaries/Homebrew/K/kyuss-spawnling.md",
+    "3-Rules/Bestiaries/Homebrew/S/shard-spider.md",
+    "1-GM Toolkit/GM Screen/Weapon Traits.md",
     "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "5-World/Factions/Dungeon Seekers Guild.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/great-wroggi.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "5-World/Maps/Aetheria Fracta.md",
+    "5-World/Districts/Merchant's Circle.md",
+    "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "4-Campaign/Age of Worms/Completed/The Three Faces of Evil.md",
+    "zz-Attachments/Hall of Harsh Reflections.png",
+    "1-GM Toolkit/GM Screen/Critical Specialization Effects.md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "1-GM Toolkit/GM Screen/GM Screen.md",
+    "5-World/Dungeons/Aetherial Observatory.md",
+    "5-World/Districts/Haven.md",
+    "1-GM Toolkit/Buttons.md",
+    "1-GM Toolkit/Encounter Builder.md",
+    "1-GM Toolkit/DunGen (Random Dungeon Generator).md",
     "1-GM Toolkit/DC Calculator.md",
-    "zz-Templates/Markdown/Update Session Note.md",
-    "3-Rules/Character Building/Equipment/Homebrew/monster-harvesting-tools.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/wroggi.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
-    "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
-    "zz-Templates/Markdown/Update Adventure YAML.md",
-    "zz-Templates/Markdown/New Creature Template.md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Templates/Markdown/Insert Timeline Event.md",
-    "zz-Templates/Markdown/Insert Timeline.md",
-    "zz-Templates/Markdown/Insert Regional Map (Leaflet).md",
-    "zz-Templates/Markdown/Insert Reference To Rollable Table.md",
-    "zz-Templates/Markdown/Insert Random Encounter Table (Initiative Tracker).md",
-    "zz-Templates/Markdown/Insert Multiple Encounters Table (Initiative Tracker).md",
-    "zz-Templates/Markdown/Insert Multiple Encounters (Initiative Tracker) 1.md",
-    "zz-Templates/Markdown/Insert Map (Leaflet).md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md",
-=======
-  "active": "6eb8087dd06a5d10",
-  "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/B/boots-of-elvenkind.md",
-    "3-Rules/Character Building/Equipment/B/boots-of-free-running-(greater).md",
-    "3-Rules/Character Building/Equipment/B/boots-of-elvenkind-(greater).md",
-    "3-Rules/Character Building/Equipment/B/boots-of-dancing.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/B/boots-of-bounding-greater.md",
-    "3-Rules/Character Building/Equipment/B/boots-of-bounding.md",
-    "3-Rules/Character Building/Equipment/B/boomerang.md",
-    "zz-Attachments/boomerang.png",
-    "3-Rules/Character Building/Equipment/B/boom-snare.md",
-    "3-Rules/Character Building/Equipment/B/bookthief-brew.md",
-    "3-Rules/Character Building/Equipment/B/book-of-warding-prayers.md",
-    "3-Rules/Character Building/Equipment/B/book-of-translation-advanced.md",
-    "3-Rules/Character Building/Equipment/B/book-of-lost-days.md",
-    "3-Rules/Character Building/Equipment/B/book-of-lingering-blaze.md",
-    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-moderate.md",
-    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-major.md",
-    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-lesser.md",
-    "3-Rules/Character Building/Equipment/B/bonmuan-swapping-stone-greater.md",
-    "3-Rules/Character Building/Equipment/B/bone-dreadnought-plate.md",
-    "3-Rules/Character Building/Equipment/B/bombers-saddle.md",
-    "3-Rules/Character Building/Equipment/B/bombers-eye-elixir-lesser.md",
-    "3-Rules/Character Building/Equipment/B/bombers-eye-elixir-greater.md",
-    "3-Rules/Character Building/Equipment/B/bomb-snare.md",
-    "zz-Attachments/bomb-snare.png",
-    "3-Rules/Character Building/Equipment/B/bomb-launcher.md",
-    "3-Rules/Character Building/Equipment/B/bomb-coagulant-alembic.md",
-    "3-Rules/Character Building/Equipment/B/bolts.md",
-    "zz-Attachments/bola-shot.png",
->>>>>>> Stashed changes
-    "1-GM Toolkit/Idea Book",
-    "zz-Attachments/codex-of-eidolonic-tapestry.png",
-    "zz-Attachments/codex-of-bound-menagerie.png",
-    "zz-Attachments/bestial-crafters-codex.png",
-    "zz-Attachments/venomlash-blade.png",
-    "zz-Attachments/wroggi-hide-armor.png",
-    "zz-Attachments/wroggi-hide-armor.png",
-    "zz-Attachments/venomlash-blade.png",
-    "3-Rules/Character Building/Spells/Homebrew",
-    "5-World/Primordials"
+    "1-GM Toolkit/Tests/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Tests/Chain Shirt Option 3.md",
+    "1-GM Toolkit/Tests/1-trait_summary.md",
+    "1-GM Toolkit/GM Screen/Wand Prices.md",
+    "1-GM Toolkit/GM Screen/Victory Points.md",
+    "[[1-GM Toolkit",
+    "zz-Attachments/Assets/JourneyBoard.png",
+    "zz-Attachments/DC-Logo.png",
+    "zz-Attachments/Travel.png",
+    "zz-Attachments/Encounter.png",
+    "zz-Attachments/Known World.png",
+    "zz-Attachments/Encounter.jpg",
+    "zz-Attachments/DC-Logo.png",
+    "1-GM Toolkit/GM Screen",
+    "1-GM Toolkit/GM Screen",
+    "zz-Attachments/image.png",
+    "zz-Attachments/Kotabas.png",
+    "6. Mechanics/CLI/bestiary/humanoid",
+    "6. Mechanics/CLI/bestiary",
+    "6. Mechanics/CLI",
+    "6. Mechanics",
+    "2-Session Journals/Rise of the Ruinlords"
   ]
 }

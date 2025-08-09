@@ -60,7 +60,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "path",
   "supportedFileTypes": [
     "md",
     "canvas"
@@ -70,8 +70,8 @@
   "cursiveName": false,
   "cursiveNameInPath": false,
   "disableOpenFolderNoteOnClick": false,
-  "openByClick": true,
-  "openWithCtrl": false,
+  "openByClick": false,
+  "openWithCtrl": true,
   "openWithAlt": false,
   "excludeFolderDefaultSettings": {
     "type": "folder",

@@ -49,14 +49,14 @@ saves:
 hp: 110
 health:
   - name: HP
-    desc: "110, fast healing 8; __immunities__ [[death|Death Effects]], [[Disease]], [[Paralyzed]], [[Poison]], [[Sleep]] __weaknesses__ Curative Transformation: [[Cleanse Affliction]] transforms the spawn into a mindless [[3-Rules/Bestiaries/Monster Core/Zombie Brute|Zombie Brute]]"
+    desc: "110, fast healing 8; __immunities__ [[death|Death Effects]], [[Disease]], [[3-Rules/Trait Reference/M/mental|Mental]], [[Paralyzed]], [[Poison]], [[Sleep]] __weaknesses__ Curative Transformation: [[Cleanse Affliction]] transforms the spawn into a mindless [[3-Rules/Bestiaries/Monster Core/Zombie Brute|Zombie Brute]]"
 
 attacks:
-  - name: ___Melee___ ⬻ slam
-    desc: "([[Magical]]) +17; `dice: 2d6+9` 2d6+9 bludgeoning plus Kyuss' Gift"
+  - name: "Melee"
+    desc: "`pf2:1` slam +17 ([[Magical]]); `dice: 2d6+9` 2d6+9 bludgeoning plus Kyuss' Gift"
 
-  - name: ___Ranged___ ⬻ worm toss
-    desc: "([[Agile]], [[range-increment|Range Increment 10ft]]) +10; Worm attaches on hit (see Create Spawn)"
+  - name: "Ranged"
+    desc: "`pf2:1` worm toss +10 ([[Agile]], [[range-increment|Range Increment 10ft]]); Worm attaches on hit (see Create Spawn)"
 
 abilities_mid:
   - name: Fear Aura
@@ -76,9 +76,7 @@ abilities_bot:
       **Worm Defense:** A creature that hits the spawn with unarmed or natural attacks is exposed to 1d4 worms as above.
 
   - name: Worm Explosion
-    desc: >
-      **Trigger**: The spawn is reduced to 0 HP 
-      **Effect**: `dice: 1d4+1` 1d4+1 Kyuss worms erupt in a 10-foot burst. Each adjacent creature must succeed at a DC 22 Reflex save or have a worm latch on. Creatures with natural armor +3 or less are automatically affected.
+    desc: "`pf2:r` **Trigger**: The spawn is reduced to 0 HP **Effect**: `dice: 1d4+1` 1d4+1 Kyuss worms erupt in a 10-foot burst. Each adjacent creature must succeed at a DC 22 Reflex save or have a worm latch on."
 
   - name: Kyuss’ Gift
     desc: >

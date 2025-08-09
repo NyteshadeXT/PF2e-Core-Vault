@@ -234,7 +234,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1748633621552,
+      "lastAccessed": 1754674000083,
       "markers": [
         {
           "id": "ID_d8795bc9caaa",
@@ -256,13 +256,15 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5-World/Points of Interest/Diamond Lake/Lazare's House.md",
-        "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md"
+        "5-World/Districts/Haven.md",
+        "5-World/Dungeons/Aetherial Observatory.md",
+        "5-World/Districts/Merchant's Circle.md",
+        "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md"
       ]
     },
     {
       "id": "update-me",
-      "lastAccessed": 1754015382145,
+      "lastAccessed": 1754674000543,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -430,6 +432,38 @@
           "loc": [
             -0.007018685340881348,
             0.0022430419921875
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4839b8f8fb08",
+          "type": "default",
+          "loc": [
+            -0.0037267208099365234,
+            0.0036773681640625
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e91a7b196898",
+          "type": "default",
+          "loc": [
+            -0.0026814937591552734,
+            0.00366973876953125
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
           "mutable": true,

@@ -54,6 +54,8 @@ awarded_consumable_items:
   - name: Scroll of Summon Undead
     ilvl: 1
     gp: 4
+aliases:
+  - Dungeon 124
 ---
 
 

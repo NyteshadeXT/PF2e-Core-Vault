@@ -45,7 +45,7 @@ armorclass:
 hp: 9
 health:
   - name: HP
-    desc: "9; fast healing 3; __Weaknesses__ area healing 5, [[Cleanse Affliction]] (instantly destroyed)"
+    desc: "9; fast healing 3; __Weaknesses__ vitality 5, [[Cleanse Affliction]] (instantly destroyed)"
 
 abilities_top:
   - name: ""
@@ -62,7 +62,7 @@ abilities_mid:
 
 attacks:
   - name: "Melee"
-    desc: "`pf2:1` Bite +6 (agile, finesse, magical) __Damage__ 1d3–3 piercing plus Kyuss Spawnling Venom"
+    desc: "`pf2:1` Bite +6 (agile, finesse, magical) __Damage__ 1d4–3 piercing plus Kyuss Spawnling Venom"
 
 sourcebook: "_Dungeon Magazine Issue 126, pg. 38_"
 

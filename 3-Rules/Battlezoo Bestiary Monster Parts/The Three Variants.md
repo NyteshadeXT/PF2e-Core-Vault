@@ -9,11 +9,11 @@ Whether your group wants to use this system to replace all magic items, add it a
 
 **Full Variant:** With this option, the GM replaces all or nearly all wealth with this subsystem.
 
-**Light Variant:** With this option, the GM replaces only currency with this subsystem. Other magic items still exist, even weapons and armor upgraded with runes as presented in the _Pathfinder Core Rulebook_. This is easy to apply and has the flexibility of using plenty of magic items from other sources, but the disadvantage is that there won't be enough ingredients for more than a few items in the party to be built using this subsystem without being behind in item levels. So the party will likely have only a few refined items total, most likely with only moderate levels of imbuing.
+**Light Variant:** With this option, the GM replaces only currency with this subsystem. Other magic items still exist, even weapons and armor upgraded with runes as presented in the _Pathfinder Core Rulebook_. This is easy to apply and has the flexibility of using plenty of magic items from other sources, but the disadvantage is that there won't be enough ingredients for more than a few items in the party to be built using this subsystem without being behind in item levels. So the party will likely have only a few synthesized items total, most likely with only moderate levels of awakening.
 
 Alternatively, the GM can simply add the Light variant without removing other rewards. This produces PCs who are a little more powerful in terms of gear than expected.
 
-**Hybrid Variant:** This option is halfway between the other two; the GM replaces about half of permanent items, as well as currency, with this subsystem, while keeping the rest, as well as all consumables. Because this variant replaces half but not all the permanent items, this is the most difficult variant for a GM to apply to a pre-published adventure. However, it provides enough materials for the party to have an assortment of refined items while maintaining permanent and consumable magic items.
+**Hybrid Variant:** This option is halfway between the other two; the GM replaces about half of permanent items, as well as currency, with this subsystem, while keeping the rest, as well as all consumables. Because this variant replaces half but not all the permanent items, this is the most difficult variant for a GM to apply to a pre-published adventure. However, it provides enough materials for the party to have an assortment of synthesized items while maintaining permanent and consumable magic items.
 
 # Identifying Monster Part Items
 
@@ -25,9 +25,9 @@ Worn monster part items are invested in exactly the same way as any other invest
 
 # Naming Monster Part Items
 
-This new system gives your group incredible flexibility for advancing your items in various ways, but as a result, there's more information you might need to know about an item than normally, as you and your players track the item's refining level and various imbued property levels. When necessary you can indicate the level of the weapon's various features in parentheses.
+This new system gives your group incredible flexibility for advancing your items in various ways, but as a result, there's more information you might need to know about an item than normally, as you and your players track the item's synthesizing level and various awakened property levels. When necessary you can indicate the level of the weapon's various features in parentheses.
 
-For example, a _+3 major striking fire might (16) fire magic (18) cold technique (20) longsword (20)_ is a magical longsword that has been refined to level 20 and has three imbued properties, fire might at level 16, fire magic at level 18, and cold technique at level 20. Most times you can abbreviate this name, or even just use a fanciful name based on the monsters whose parts you used to refine and imbue the item, such as "Blade of the Dueling Frostflame Dragons."
+For example, a _+3 major striking fire might (16) fire magic (18) cold technique (20) longsword (20)_ is a magical longsword that has been synthesized to level 20 and has three awakened properties, fire might at level 16, fire magic at level 18, and cold technique at level 20. Most times you can abbreviate this name, or even just use a fanciful name based on the monsters whose parts you used to synthesize and awaken the item, such as "Blade of the Dueling Frostflame Dragons."
 
 # Converting Your Game
 
@@ -41,10 +41,10 @@ You might not need to do anything at all to convert to the light variant, since 
 
 In the hybrid variant, many of the party's weapons, armor, shields, Perception items, and skill items will be using the new system, though perhaps not all. In the full variant, they all use the new system. In hybrid, it's easiest to try to convert whichever of those you can first and leave behind the items that are most obviously steeped in the base magic item system, such as specific magic items. In full variant, convert everything to a similar item. Here are some best practices for converting items.
 
-When converting a skill or Perception item, check to see if there's a refined and imbued version that works for you and convert to the nearest equivalent item. If not, and if you're using the hybrid variant, you can always keep the old item. For example, a _+1 shadow leather armor_ could be converted into a _+1 leather armor (5)_ and a _+1 Stealth skill item (3)_.
+When converting a skill or Perception item, check to see if there's a synthesized and awakened version that works for you and convert to the nearest equivalent item. If not, and if you're using the hybrid variant, you can always keep the old item. For example, a _+1 shadow leather armor_ could be converted into a _+1 leather armor (5)_ and a _+1 Stealth skill item (3)_.
 
 When converting a shield, use the same process. Sturdy shields are simple to convert over, but you might not be able to convert over a special shield exactly, so in the hybrid variant you can just keep that shield.
 
-For weapons and armor, you should be able to convert fundamental runes to refining levels pretty easily. Many of the most popular weapon runes have a might path that does something similar, such as fire might working roughly similarly to flaming. For armor runes, there are fewer imbued properties to choose from, and the armor runes that grant skill bonuses you can just replace with a skill item, opening up two possible slots for imbued properties.
+For weapons and armor, you should be able to convert fundamental runes to synthesizing levels pretty easily. Many of the most popular weapon runes have a might path that does something similar, such as fire might working roughly similarly to flaming. For armor runes, there are fewer awakened properties to choose from, and the armor runes that grant skill bonuses you can just replace with a skill item, opening up two possible slots for awakened properties.
 
-If the PCs have a precious material item or a specific weapon like a staff or a flame tongue, consider leaving them as-is in the hybrid variant or else using the sidebar for the precious materials. You might even allow a specific item to be refined, but it should never be given imbued properties, and the refining level should not alter or adjust the effects of the specific item in any way.
+If the PCs have a precious material item or a specific weapon like a staff or a flame tongue, consider leaving them as-is in the hybrid variant or else using the sidebar for the precious materials. You might even allow a specific item to be synthesized, but it should never be given awakened properties, and the synthesizing level should not alter or adjust the effects of the specific item in any way.
