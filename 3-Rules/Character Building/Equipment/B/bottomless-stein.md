@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "bottomless-stein"
 aliases: "Bottomless Stein"
 source: "Pathfinder Lost Omens Gods & Magic"
-pg: ""
-rarity: ""
+pg: "121"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

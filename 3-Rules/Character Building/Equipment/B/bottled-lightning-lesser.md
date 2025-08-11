@@ -4,20 +4,20 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bottled-lightning-(lesser)"
+name: "bottled-lightning-lesser"
 aliases: "Bottled Lightning (Lesser)"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "284"
 rarity: ""
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "electricity"
 trait05: "splash"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/bottled-lightning.png
 level: 1
 weight: L
 value: "3"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 1d6 electricity damage and 1 electricity splash damage. On a hit, the target becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn."
+activate: "1 ([[strike]])"
+description: "Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals `dice: 1d6` 1d6 electricity damage and 1 electricity splash damage. On a hit, the target becomes [[Off-Guard]] until the start of your next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

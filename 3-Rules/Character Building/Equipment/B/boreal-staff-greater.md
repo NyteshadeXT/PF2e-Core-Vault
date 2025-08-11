@@ -4,8 +4,8 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "boreal-staff"
-aliases: "Boreal Staff"
+name: "boreal-staff-greater"
+aliases: "Boreal Staff (Greater)"
 source: "Pathfinder Treasure Vault"
 pg: "131"
 rarity: ""
@@ -18,29 +18,29 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/boreal-staff.png
-level: 8
+level: 12
 weight: 1
-value: "500"
+value: "2750"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
 group: "Club"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A _boreal staff_ is chiseled from a cylinder of ice to form a spiky, jagged icicle, its surface gleaming with the colors of the northern lights. It gives the air around you a distinct chill. When used as a weapon, a _boreal staff_ is a _[[Weapon Potency (+1)|+1]] [[Striking|striking]] [[3-Rules/Character Building/Equipment/S/Staff|staff]]._"
+description: "A _boreal staff_ is chiseled from a cylinder of ice to form a spiky, jagged icicle, its surface gleaming with the colors of the northern lights. It gives the air around you a distinct chill. When used as a weapon, a _greater boreal staff_ is a _[[Weapon Potency (+2)|+2]] [[striking]] [[frost]] [[staff]]._"
 powerTitle1: "Cold Strike"
 actionEconomy1: 1
 type1: "([[command]])"
 frequency1: "once per 10 minutes"
 trigger1:
-mechanics1: "Attempt a [[Strike]] using the staff. That Strike deals `dice: 2d4` 2d4 cold additional damage."
+mechanics1: "Attempt a Strike using the staff. That [[Strike]] deals `dice: 2d4` 2d4 cold additional damage."
 powerTitle2: "Spells"
 actionEconomy2:
 type2:
 frequency2:
 activate2: "Cast a Spell"
 trigger2:
-mechanics2: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Ray of Frost]]<br>**1st** [[Chilling Spray]], [[Snowball]]<br>**2nd** [[Chilling Spray]], [[Snowball]]<br>**3rd** [[Chilling Spray]], [[Elemental Absorption]] (water only)"
+mechanics2: "You expend a number of charges from the staff to cast a spell from its list.<br><br>**Cantrip** [[Ray of Frost]]<br>**1st** [[Chilling Spray]], [[Snowball]]<br>**2nd** [[Chilling Spray]], [[Snowball]]<br>**3rd** [[Chilling Spray]], [[Elemental Absorption]] (water only)<br>**4th** [[Chilling Spray]], [[Ice Storm]]<br>**5th** [[Cone of Cold]], [[Mantle of the Frozen Heart]]"
 craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#

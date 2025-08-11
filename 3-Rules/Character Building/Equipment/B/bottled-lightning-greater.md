@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bougainvillea-blossom-(major)"
-aliases: "Bougainvillea Blossom (Major)"
-source: "Pathfinder #202: Severed at the Root"
-pg: ""
+name: "bottled-lightning-greater"
+aliases: "Bottled Lightning (Greater)"
+source: "Pathfinder Player Core 2"
+pg: "284"
 rarity: ""
-trait01: "catalyst"
-trait02: "consumable"
-trait03: "magical"
-trait04: "uncommon"
-trait05: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "electricity"
+trait05: "splash"
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 15
+image: zz-Attachments/bottled-lightning.png
+level: 11
 weight: L
-value: "1200"
+value: "250"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  * * *  This pink flower has long, slender thorns along the stem. The flower can be used as a catalyst when casting an [[Spells/Entangling Flora|Entangling Flora]] spell, which causes the affected plants to sprout long thorns and vibrant pink blossoms. The area becomes hazardous terrain, dealing the 5 piercing damage to an enemy each time it enters an affected square."
+activate: "1 ([[[strike]]])"
+description: "Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals `dice: 3d6` 3d6 electricity damage and 3 electricity splash damage. On a hit, the target becomes [[Off-Guard]] until the start of your next turn. You gain a +2 item bonus to attack rolls."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 3d6 electricity
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

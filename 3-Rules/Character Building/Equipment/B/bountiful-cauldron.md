@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "bountiful-cauldron"
 aliases: "Bountiful Cauldron"
 source: "Pathfinder #147: Tomorrow Must Burn"
-pg: ""
-rarity: ""
+pg: "71"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This mid-sized, silver cauldron is a boon within areas where access to fresh food is limited, for it can be commanded to fill itself with hearty (and delicious) vegetable stew. It can also be put to a much greater use in the pursuit of crafting certain items. When used to Craft alchemical items, potions, or oils, a bountiful cauldron grants a +2 item bonus to the Crafting check.  **Activate** `pf2:3` command, Interact  **Frequency** once per day  * * *  **Effect** You stir the cauldron, and it casts a 4th-rank [[Spells/Create Food|Create Food]] spell, filling itself with enough delicious vegetable stew to feed 12 Medium creatures."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This mid-sized, silver cauldron is a boon within areas where access to fresh food is limited, for it can be commanded to fill itself with hearty (and delicious) vegetable stew. It can also be put to a much greater use in the pursuit of crafting certain items. When used to Craft alchemical items, potions, or oils, a bountiful cauldron grants a +2 item bonus to the Crafting check.  "
+powerTitle1: "Create Food"
+actionEconomy1: 3
+type1: "([[Command]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You stir the cauldron, and it casts a 4th-rank [[Create Food]] spell, filling itself with enough delicious vegetable stew to feed 12 Medium creatures."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

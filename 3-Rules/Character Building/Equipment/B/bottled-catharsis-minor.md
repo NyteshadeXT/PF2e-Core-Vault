@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bougainvillea-blossom-(moderate)"
-aliases: "Bougainvillea Blossom (Moderate)"
-source: "Pathfinder #202: Severed at the Root"
-pg: ""
+name: "bottled-catharsis-minor"
+aliases: "Bottled Catharsis (Minor)"
+source: "Pathfinder Player Core 2"
+pg: "286"
 rarity: ""
-trait01: "catalyst"
+trait01: "alchemical"
 trait02: "consumable"
-trait03: "magical"
-trait04: "uncommon"
+trait03: "elixir"
+trait04: "healing"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 2
 weight: L
-value: "60"
+value: "5"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  * * *  This pink flower has long, slender thorns along the stem. The flower can be used as a catalyst when casting an [[Spells/Entangling Flora|Entangling Flora]] spell, which causes the affected plants to sprout long thorns and vibrant pink blossoms. The area becomes hazardous terrain, dealing the 2 piercing damage to an enemy each time it enters an affected square."
+activate: "1 ([[manipulate]])"
+description: "This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 1st-rank and has a +6 counteract modifier each effect on you that has the emotion trait or is inflicting the [[Stupefied]] condition on you, using the listed counteract rank and modifier."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+```meta-bind-embed
+[[Item Card Template]]
+```
+

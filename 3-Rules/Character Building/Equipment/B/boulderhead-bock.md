@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "boulderhead-bock"
 aliases: "Boulderhead Bock"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "29"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "elixir"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  No one is sure if Gorm brews this malty ale himself, but it seems to be an off-duty favorite of the Grand Archive faction leader. The brew packs a heavy punch, and while Gorm officially discourages drinking on the job, boulderhead bock does makes the drinker more self-assured and protects them from conditions that would addle their mental faculties.  For 1 hour, you gain a +1 item bonus to saving throws against effects that would make you stunned or stupefied. However, you also become less aware of your surroundings, taking a -2 item penalty to Perception for 1 hour.  [[Equipment Effects/Effect_ Boulderhead Bock|Effect: Boulderhead Bock]]"
+activate: "1 ([[interact]])"
+description: "No one is sure if Gorm brews this malty ale himself, but it seems to be an off-duty favorite of the Grand Archive faction leader. The brew packs a heavy punch, and while Gorm officially discourages drinking on the job, boulderhead bock does makes the drinker more self-assured and protects them from conditions that would addle their mental faculties.  For 1 hour, you gain a +1 item bonus to saving throws against effects that would make you [[Stunned]] or [[Stupefied]]. However, you also become less aware of your surroundings, taking a -2 item penalty to Perception for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

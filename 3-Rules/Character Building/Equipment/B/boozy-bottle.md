@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "boozy-bottle"
 aliases: "Boozy Bottle"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "119"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "This tattoo depicts a container of alcohol, traditionally a small, uncorked brown bottle. You gain a +1 item bonus to saving throws against poison.  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger** You fail (but don't critically fail) an initial saving throw against a poison, or you gain persistent poison damage  * * *  **Effect** You pick your poison. Calling out the name of a drink as though ordering at a bar, you negate the triggering poison. Instead, you gain the alcohol affliction at stage 2. The DC of this magical alcohol is the DC of the triggering poison save or DC 20 for persistent poison damage."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This tattoo depicts a container of alcohol, traditionally a small, uncorked brown bottle. You gain a +1 item bonus to saving throws against poison."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[command]])"
+frequency1: "once per day"
+trigger1: "You fail (but don't critically fail) an initial saving throw against a poison, or you gain persistent poison damage"
+mechanics1: "You pick your poison. Calling out the name of a drink as though ordering at a bar, you negate the triggering poison. Instead, you gain the alcohol affliction at stage 2. The DC of this magical alcohol is the DC of the triggering poison save or DC 20 for persistent poison damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

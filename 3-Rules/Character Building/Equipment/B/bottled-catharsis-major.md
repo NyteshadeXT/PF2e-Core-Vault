@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "boulder-seed-(greater)"
-aliases: "Boulder Seed (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "bottled-catharsis-major"
+aliases: "Bottled Catharsis (Major)"
+source: "Pathfinder Player Core 2"
+pg: "286"
 rarity: ""
 trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "splash"
-trait05: "common"
+trait02: "consumable"
+trait03: "elixir"
+trait04: "healing"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
 weight: L
-value: "3600"
+value: "3250"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This bomb is made of volatile fluids that rapidly expand and harden when exposed to air. A boulder seed grants a +3 item bonus to attack rolls and deals 4d4 bludgeoning damage and 4 bludgeoning splash damage, according to the bomb's type. When activated, the bomb fills a 5-foot cube with hardened foam, it creates a boulder as hard as stone (Hardness 10, HP 40) that pushes Large or smaller targets. On a critical hit, the target also falls [[Conditions/Prone|Prone]]. The splash zone fills with rubble, creating difficult terrain. The "boulder" the bomb creates fails all saving throws and loses 1 Hardness per round, disintegrating into fine powder when the boulder's Hardness is reduced to 0. At that time, the difficult terrain the bomb created also disappears."
+activate: "1 ([[manipulate]])"
+description: "This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 9th-rank and has a +28 counteract modifier each effect on you that has the emotion trait or is inflicting the [[Stupefied]] condition on you, using the listed counteract rank and modifier."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 4d4 bludgeoning
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

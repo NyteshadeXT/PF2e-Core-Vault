@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "borts-blessing"
 aliases: "Bort's Blessing"
 source: "Pathfinder Adventure: The Fall of Plaguestone"
-pg: ""
-rarity: ""
+pg: "58"
+rarity: "rare"
 trait01: "invested"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations.  In addition, the wearer receives a +1 item bonus to Diplomacy checks to Make an Impression."
+description: "This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations.  In addition, the wearer receives a +1 item bonus to [[Skills#Diplomacy|Diplomacy]] checks to [[Make an Impression]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

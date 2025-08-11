@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "bootstrap-respirator"
 aliases: "Bootstrap Respirator"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "105"
+rarity: "uncommon"
 trait01: "mechanical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

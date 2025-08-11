@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "boots-of-free-running-(greater)"
-aliases: "Boots of Free Running (Greater)"
+name: "boots-of-free-running-lesser"
+aliases: "Boots of Free Running (Lesser)"
 source: "Pathfinder Lost Omens Firebrands"
-pg: ""
-rarity: ""
+pg: "84"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
+level: 5
 weight: 1
-value: "13500"
+value: "135"
 subvalue: "gp"
 invest:
 usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These comfortable and practical boots slip on easily and fill you with boundless energy. The treads of these boots provide exceptional traction, with improved grip on surfaces you would traditionally have difficulty traversing. While wearing the boots, you gain a +3 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] and to Athletics checks to [[Actions/High Jump|High Jump]] and [[Actions/Long Jump|Long Jump]].  * * *  **Activate** `pf2:1` envision  **Effect** The traction of your boots improves, allowing you to run along vertical surfaces for 1 minute. When you Stride, you can run up solid vertical surfaces, like walls, at your full Speed. You must start your movement on a horizontal surface. If you end a Stride off the ground, you must Stride along the surface again until you reach a horizontal surface or you begin to fall (though you can [[Actions/Grab an Edge|Grab an Edge]], if applicable). If you have means of walking on water, such as with water walk or similar abilities, you can also run along flimsy vertical surfaces, as well as vertical liquids such as a waterfall."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These comfortable and practical boots slip on easily and fill you with boundless energy. The treads of these boots provide exceptional traction, with improved grip on surfaces you would traditionally have difficulty traversing. While wearing the boots, you gain a +1 item bonus to [[Skills#Acrobatics|Acrobatics]] checks to [[Balance]] and to [[Skills#Athletics|Athletics]] checks to [[High Jump]] and [[Long Jump]]."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The traction of your boots improves, allowing you to run along vertical surfaces for 1 minute. When you [[Stride]], you can run up solid vertical surfaces, like walls, at your full Speed. You must start your movement on a horizontal surface. If you end a Stride off the ground, you must [[Stride]] along the surface again until you reach a horizontal surface or you begin to fall (though you can [[Grab an Edge]], if applicable). If you have means of walking on water, such as with water walk or similar abilities, you can also run along flimsy vertical surfaces, as well as vertical liquids such as a waterfall."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

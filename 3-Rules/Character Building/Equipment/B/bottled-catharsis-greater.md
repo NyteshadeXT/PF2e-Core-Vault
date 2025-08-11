@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "bottled-lightning-(moderate)"
-aliases: "Bottled Lightning (Moderate)"
+name: "bottled-catharsis-greater"
+aliases: "Bottled Catharsis (Greater)"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "286"
 rarity: ""
 trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "electricity"
-trait05: "splash"
-trait06: "common"
+trait02: "consumable"
+trait03: "elixir"
+trait04: "healing"
+trait05: ""
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+level: 12
 weight: L
-value: "10"
+value: "325"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "held in one hand"
 license: "ORC"
+activate: "1 ([[manipulate]])"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn. You gain a +1 item bonus to attack rolls."
+description: "This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 6th-rank and has a +19 counteract modifier each effect on you that has the emotion trait or is inflicting the [[Stupefied]] condition on you, using the listed counteract rank and modifier."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 2d6 electricity
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
