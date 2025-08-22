@@ -36,31 +36,17 @@
             }
           },
           {
-            "id": "f262f7c191712145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Chimeracrafting.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chimeracrafting"
-            }
-          },
-          {
             "id": "c7fc2f1a90c9d9b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/bower-fruit.md",
+                "file": "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "bower-fruit"
+              "title": "wroggi-hide-mantle-major"
             }
           },
           {
@@ -69,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Homebrew/K/kyuss-spawnling.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "kyuss-spawnling"
-            }
-          },
-          {
-            "id": "f424407e34ac4628",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/Maps/Aetheria Fracta.md",
+                "file": "1-GM Toolkit/Chimeracrafting.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aetheria Fracta"
+              "title": "Chimeracrafting"
             }
           },
           {
@@ -104,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Travel Calculator"
             }
+          },
+          {
+            "id": "82e9d61dc4fb698a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Session Journals/Age-of-Worms/AoW Session 021.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AoW Session 021"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/B/bower-fruit.md",
+                "file": "3-Rules/Character Building/Equipment/B/bracers-of-devotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bower-fruit"
+              "title": "Backlinks for bracers-of-devotion"
             }
           },
           {
@@ -299,45 +285,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c7fc2f1a90c9d9b5",
+  "active": "82e9d61dc4fb698a",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/B/bow-staff.md",
-    "3-Rules/Character Building/Equipment/B/bow-of-sun-slaying.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 020.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 021.md",
+    "2-Session Journals/Age-of-Worms/Old/AoW Session 019.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "3-Rules/Character Building/Equipment/A/Aeon Stone (Sprouting).md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "3-Rules/Bestiaries/Homebrew/K/kyuss-spawnling.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "5-World/Deities/Verena.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "3-Rules/Character Building/Equipment/B/brain-cylinder.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-strength.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-pain.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-missile-deflection-greater.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-missile-deflection.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-hammers.md",
+    "3-Rules/Character Building/Equipment/B/bracers-of-devotion.md",
+    "zz-Attachments/bracers-of-devotion.png",
+    "3-Rules/Character Building/Equipment/B/bracelet-of-dashing.md",
+    "3-Rules/Character Building/Equipment/B/box-of-unspoiling-type-iv.md",
+    "3-Rules/Character Building/Equipment/B/box-of-unspoiling-type-iii.md",
+    "3-Rules/Character Building/Equipment/B/box-of-unspoiling-type-ii.md",
+    "3-Rules/Character Building/Equipment/B/box-of-unspoiling-type-i.md",
+    "3-Rules/Character Building/Equipment/B/bower-fruit.md",
+    "zz-Attachments/Blackwall Keep.png",
     "zz-Attachments/bow-staff.png",
-    "3-Rules/Character Building/Equipment/B/bountiful-cauldron.md",
     "zz-Attachments/bow-of-sun-slaying.png",
-    "3-Rules/Character Building/Equipment/B/bound-guardian.md",
-    "3-Rules/Character Building/Equipment/B/boulderhead-bock.md",
-    "3-Rules/Character Building/Equipment/B/boulder-seed-greater.md",
-    "3-Rules/Character Building/Equipment/B/boulder-seed.md",
-    "3-Rules/Character Building/Equipment/B/boughshatter.md",
-    "3-Rules/Character Building/Equipment/B/bougainvillea-blossom-moderate.md",
-    "3-Rules/Character Building/Equipment/B/bougainvillea-blossom-major.md",
-    "3-Rules/Character Building/Equipment/B/bougainvillea-blossom-lesser.md",
-    "3-Rules/Character Building/Equipment/B/bougainvillea-blossom-greater.md",
-    "3-Rules/Character Building/Equipment/B/bottomless-stein.md",
-    "3-Rules/Character Building/Equipment/B/bottomless-purse.md",
-    "3-Rules/Character Building/Equipment/B/bottled-sunlight-moderate.md",
-    "3-Rules/Character Building/Equipment/B/bottled-sunlight-major.md",
-    "3-Rules/Character Building/Equipment/B/bottled-sunlight-lesser.md",
-    "3-Rules/Character Building/Equipment/B/bottled-sunlight-greater.md",
-    "3-Rules/Character Building/Equipment/B/bottled-screams.md",
-    "3-Rules/Character Building/Equipment/B/bottled-roc.md",
     "zz-Attachments/bottled-roc.png",
-    "3-Rules/Character Building/Equipment/B/bottled-omen.md",
-    "3-Rules/Character Building/Equipment/B/bottled-night.md",
-    "3-Rules/Character Building/Equipment/B/bottled-lightning-moderate.md",
-    "3-Rules/Character Building/Equipment/B/bottled-lightning-major.md",
-    "3-Rules/Character Building/Equipment/B/bottled-lightning-lesser.md",
-    "3-Rules/Character Building/Equipment/B/bottled-lightning-greater.md",
     "zz-Attachments/bottled-lightning.png",
     "zz-Attachments/boreal-staff.png",
     "zz-Attachments/Hall of Harsh Reflections.png",
     "[[1-GM Toolkit",
     "zz-Attachments/Assets/JourneyBoard.png",
     "zz-Attachments/DC-Logo.png",
-    "zz-Attachments/Travel.png",
-    "zz-Attachments/Encounter.png",
     "1-GM Toolkit/GM Screen",
     "1-GM Toolkit/GM Screen",
     "6. Mechanics/CLI/bestiary/humanoid",

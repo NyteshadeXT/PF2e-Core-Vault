@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "bracelet-of-dashing"
 aliases: "Bracelet of Dashing"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "286"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to Acrobatics checks.  **Activate—Jangling Dash** `pf2:1` (concentrate)  **Frequency** once per day  * * *  **Effect** You gain a +10-foot status bonus to Speed for 1 minute.  [[Equipment Effects/Effect_ Bracelet of Dashing|Effect: Bracelet of Dashing]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to Acrobatics checks."
+powerTitle1: "Jangling Dash"
+actionEconomy1: 1
+type1: "([[Concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You gain a +10-foot status bonus to Speed for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

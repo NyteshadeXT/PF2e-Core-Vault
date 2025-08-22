@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "box-of-unspoiling-(type-iv)"
-aliases: "Box of Unspoiling (Type IV)"
+name: "box-of-unspoiling-type-ii"
+aliases: "Box of Unspoiling (Type II)"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "extradimensional"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
+level: 8
 weight: 1
-value: "3600"
+value: "575"
 subvalue: "gp"
 invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This storage container decorated with images of wildlife and berries is popular among Shoanti quahs and other nomadic groups. The box functions like a _[[Equipment/Spacious Pouch (Type I)|spacious pouch]]_, holding 150 Bulk, and is inscribed with magic to keep its contents cool to allow for travel with perishable items like meat and fruit. Items in the box are kept fresh for up to a year."
+description: "This storage container decorated with images of wildlife and berries is popular among Shoanti quahs and other nomadic groups. The box functions like a _[[spacious-pouch-(type-i)|Spacious Pouch]]_, holding 50 Bulk, and is inscribed with magic to keep its contents cool to allow for travel with perishable items like meat and fruit. Items in the box are kept fresh for up to a year."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

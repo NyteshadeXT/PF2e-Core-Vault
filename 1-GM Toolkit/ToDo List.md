@@ -10,8 +10,8 @@ tags:
 	- [ ] Add Adamantine Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Abysium Chunk and Ingot
 	- [ ] Add Adamantine Chunk and Ingot
-	- [ ] Add Vehicles? (Adaptable Paddleboat)
-	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.  Also update item generator
+	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
+	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
 	- [ ] Add 
 	- [ ] Add  
 - [ ] Update item templates with Identification criteria
@@ -40,3 +40,10 @@ tags:
 - [ ] Remove Dragon's Breath Potions from item generator as they've been replaced.
 - [ ] Remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.
 - [ ] Update Sisterstone to only apply to melee weapons
+- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.
+- [ ] Review Everything Shields material for final inclusion
+- [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
+
+
+# Encounter Loot Generator ToDos
+- [ ] Build first iteration using Python, SQLite and HTML

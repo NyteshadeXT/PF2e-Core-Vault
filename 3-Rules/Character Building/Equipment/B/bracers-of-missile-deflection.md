@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "bracers-of-missile-deflection"
 aliases: "Bracers of Missile Deflection"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "286"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "wornbracers"
 license: "ORC"
 identify:
-description: "These bracers are made from plates of durable dawnsilver and gleam like the summer sun.  **Activate** `pf2:r` (manipulate)  **Frequency** once per day  **Trigger** A ranged weapon attack hits you but doesn't critically hit  **Requirements** You are aware of the attack and not off-guard  * * *  **Effect** The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.  [[Equipment Effects/Effect_ Bracers of Missile Deflection|Effect: Bracers of Missile Deflection]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "These bracers are made from plates of durable dawnsilver and gleam like the summer sun."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[manipulate]])"
+frequency1: "once per day"
+trigger1: "A ranged weapon attack hits you but doesn't critically hit"
+requirement1: "You are aware of the attack and not off-guard"
+mechanics1: "The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

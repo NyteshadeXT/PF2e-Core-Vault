@@ -264,7 +264,7 @@
     },
     {
       "id": "update-me",
-      "lastAccessed": 1754750427728,
+      "lastAccessed": 1755819470531,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -302,7 +302,7 @@
           "id": "ID_9888aab87978",
           "type": "default",
           "loc": [
-            -0.0064737559312733235,
+            -0.006468361134663929,
             0.0027729254572287404
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
@@ -382,8 +382,8 @@
           "id": "ID_8b388a0b9a38",
           "type": "default",
           "loc": [
-            -0.00602008725390206,
-            0.001780282881100164
+            -0.006004408626256008,
+            0.0017641108175399382
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
           "mutable": true,
@@ -398,8 +398,8 @@
           "id": "ID_181a59d82809",
           "type": "default",
           "loc": [
-            -0.007325628033375514,
-            0.0030750340673548287
+            -0.00732421875,
+            0.00307464599609375
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
           "mutable": true,
@@ -462,8 +462,56 @@
           "id": "ID_e91a7b196898",
           "type": "default",
           "loc": [
-            -0.0026814937591552734,
+            -0.00267791748046875,
             0.00366973876953125
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b5a18b90819",
+          "type": "default",
+          "loc": [
+            -0.004161477088928223,
+            0.002869500699882188
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_590acb5be94b",
+          "type": "default",
+          "loc": [
+            -0.004176735877990723,
+            0.0028390063643909465
+          ],
+          "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9b9faaa0b88",
+          "type": "default",
+          "loc": [
+            -0.0034214258193969727,
+            0.0028847478676278086
           ],
           "layer": "%5B%5BBlackwall%20Keep%20Map.png%5D%5D",
           "mutable": true,

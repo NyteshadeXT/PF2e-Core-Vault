@@ -1,7 +1,7 @@
 ---
 noteType: pf2erule
 creatureLevel: 6
-creatureSize: 1
+creatureSize: 2
 creatureValue: 125
 refineLevel: 15
 itemType: 2
