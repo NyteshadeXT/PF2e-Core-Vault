@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "brooch-of-shielding"
 aliases: "Brooch of Shielding"
 source: "Pathfinder Core Rulebook"
-pg: ""
-rarity: ""
+pg: "607"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/brooch-of-shielding.png
 level: 2
 weight: 
 value: "30"
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

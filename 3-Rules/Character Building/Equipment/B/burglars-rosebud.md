@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "burglars-rosebud"
 aliases: "Burglar's Rosebud"
 source: "Pathfinder #203: Shepherd of Decay"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "emotion"
 trait03: "mental"
 trait04: "plant"
 trait05: "wood"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Though originally intended to protect a green man's favorite agents against predation by pesky herbivores, thieves have adapted the design to help them disperse guard animals. The soft flower bud belies the horrible perfume contained within. Activated by cracking open the petals, the rosebud exudes a noxious cloud that has the olfactory trait for 10 minutes. If dropped, it fills a 10-foot-burst. If you carry it in one hand and periodically waft it as a free action, the rosebud instead gives you a 10-foot emanation. Creatures that enter or start their turn in the cloud must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. Animals and beasts that critically fail are also [[Conditions/Fleeing|Fleeing]] for 1 round. A creature that successfully saves against the burglar's rosebud becomes temporarily immune to the effects for 24 hours."
+activate: "`pf2:1` ([[manipulate]])"
+description: "Though originally intended to protect a green man's favorite agents against predation by pesky herbivores, thieves have adapted the design to help them disperse guard animals. The soft flower bud belies the horrible perfume contained within. Activated by cracking open the petals, the rosebud exudes a noxious cloud that has the olfactory trait for 10 minutes. If dropped, it fills a 10-foot-burst. If you carry it in one hand and periodically waft it as a free action, the rosebud instead gives you a 10-foot emanation. Creatures that enter or start their turn in the cloud must succeed at a DC 18 Fortitude check save or become [[Sickened|Sickened 1]]. Animals and beasts that critically fail are also [[Fleeing]] for 1 round. A creature that successfully saves against the burglar's rosebud becomes temporarily immune to the effects for 24 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

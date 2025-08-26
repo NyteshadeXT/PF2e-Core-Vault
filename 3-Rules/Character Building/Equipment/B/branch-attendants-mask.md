@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "branch-attendants-mask"
 aliases: "Branch Attendant's Mask"
 source: "Pathfinder Lost Omens Rival Academies"
-pg: ""
-rarity: ""
+pg: "69"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Although not all attendants' masks are enchanted, many apply a first enchantment to celebrate their acceptance into a branch of the academy. While you wear the mask or have it as your bonded item, add the associated cantrip to your prepared cantrips. This has no effect if you do not prepare cantrips from the arcane or primal lists.  *   **Cascade Bearers** [[Spells/Read Aura|Read Aura]] *   **Emerald Boughs** [[Spells/Root Reading|Root Reading]] *   **Rain-Scribes** [[Spells/Deep Breath|Deep Breath]] *   **Tempest-Sun Mages** [[Spells/Electric Arc|Electric Arc]] *   **Uzunjati** [[Spells/Prestidigitation|Prestidigitation]]"
+description: "Although not all attendants' masks are enchanted, many apply a first enchantment to celebrate their acceptance into a branch of the academy. While you wear the mask or have it as your bonded item, add the associated cantrip to your prepared cantrips. This has no effect if you do not prepare cantrips from the arcane or primal lists.<br><br>**Cascade Bearers** [[Read Aura]]<br>**Emerald Boughs** [[Root Reading]]<br>**Rain-Scribes** [[Deep Breath]]<br>**Tempest-Sun Mages** [[Electric Arc]]<br>**Uzunjati** [[Prestidigitation]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

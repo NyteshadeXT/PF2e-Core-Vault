@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You've learned a flexible way to position your buckler to provide more protection. When you [[Actions/Raise a Shield|Raise a Shield]] to gain a circumstance bonus to AC from a [[Buckler|Buckler]], increase the bonus from +1 to +2.
+You've learned a flexible way to position your buckler to provide more protection. When you [[Actions/Raise a Shield|Raise a Shield]] to gain a circumstance bonus to AC from a [[buckler|Buckler]], increase the bonus from +1 to +2.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

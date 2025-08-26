@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "burr-shield"
 aliases: "Burr Shield"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "181"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This well-crafted wooden shield is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were _[[Equipment/Shield Spikes|+1 Striking Shield Spikes]]_.  * * *  **Activate** `pf2:1` Interact  **Requirements** Your previous action was a successful Strike with the burrs  * * *  **Effect** One of the burrs catches on the Strike's target, inflicting 1d10 bleed.  * * *      | Hardness | HP | BT | | --- | --- | --- | | 5 | 30 | 15 |"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This well-crafted [[wooden shield]] is covered in numerous seed pods with long spurs. You can Strike with these burrs as though they were [[Weapon Potency (+1)|+1]] [[Striking|Striking]] [[Shield Spikes]].  "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[interact]])"
 frequency1:
 trigger1:
-mechanics1:
+requirement1: "Your previous action was a successful Strike with the burrs"
+mechanics1: "One of the burrs catches on the Strike's target, inflicting `dice: 1d10` 1d10 bleed."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -67,11 +68,20 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 5
+hp: 30
+bt: 15
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Wooden Shield"
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

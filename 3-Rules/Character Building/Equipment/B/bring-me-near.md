@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "bring-me-near"
 aliases: "Bring Me Near"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "114"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "teleportation"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This collapsible fine spyglass consists of 3 leather tubes that slide into one another. The edge of each is trimmed in silver, and the lenses are made of finely crafted glass. While looking through it, you gain a +2 item bonus to any Perception checks made involving sight.  **Activate** 1 minute (envision, Interact)  **Frequency** once per day  * * *  **Effect** You focus on any spot you can see within 5 miles through the spyglass and rotate its parts in a meticulous order. You and up to 4 willing creatures adjacent to you are instantly teleported to that spot. If there's not enough room for everyone, only you are transported. If there's not enough room for you, the teleportation fails."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This collapsible fine spyglass consists of 3 leather tubes that slide into one another. The edge of each is trimmed in silver, and the lenses are made of finely crafted glass. While looking through it, you gain a +2 item bonus to any [[Skills#Perception|Perception]] checks made involving sight.  "
+powerTitle1: "Effect"
+actionEconomy1: 
+type1: "([[envision]], [[interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+activate1: "1 minute"
+mechanics1: "You focus on any spot you can see within 5 miles through the spyglass and rotate its parts in a meticulous order. You and up to 4 willing creatures adjacent to you are instantly teleported to that spot. If there's not enough room for everyone, only you are transported. If there's not enough room for you, the teleportation fails."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

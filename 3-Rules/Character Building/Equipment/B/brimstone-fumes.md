@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "brimstone-fumes"
 aliases: "Brimstone Fumes"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "248"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Fumes from the forges of Hell drain health and strength alike.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 36 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** 7d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 8d8 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** 10d8 poison damage and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
+activate: "`pf2:1` ([[manipulate]])"
+description: "Fumes from the forges of Hell drain health and strength alike.<br><br>**Saving Throw** DC 36 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** `dice: 7d6` 7d8 poison damage and [[Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 'dice: 8d6' 8d8 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** `dice: 10d8` 10d8 poison damage and [[Enfeebled|Enfeebled 3]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

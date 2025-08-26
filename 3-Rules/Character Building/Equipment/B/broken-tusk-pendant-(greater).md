@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "broken-tusk-pendant-(greater)"
 aliases: "Broken Tusk Pendant (Greater)"
 source: "Pathfinder #175: Broken Tusk Moon"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "rare"
 trait01: "invested"
 trait02: "primal"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "The followers of the Broken Tusk have passed down their custom of crafting and gifting these small ivory necklaces for generations. They're typically made from mammoth tusk (though any type of ivory will do), and each is carved to resemble a particular kind of animal-usually a raven, a moose, an ox, or an otter. Because tradition dictates that Broken Tusk followers take ivory only from already-dead animals, _Broken Tusk pendants_ are especially rare; if an individual loses their pendant, it might be years before they acquire the materials necessary to fashion a replacement. _Broken Tusk pendants_ bear no magical powers if they are made for oneself; only gifted pendants have true magical properties.  You wear a _Broken Tusk pendant_ like jewelry or tie it to your clothing. A _Broken Tusk pendant_ grants you a +2 item bonus to Nature checks; this bonus increases to +3 when you Command an Animal of the specific kind depicted by the pendant.  * * *  **Activate** `pf2:r` Interact  **Frequency** once per hour  **Trigger** An animal targets you with a melee attack, and you can see the animal  * * *  **Effect** You gain a +1 item bonus to AC against the triggering attack, or a +2 item bonus if the animal is the specific kind depicted by the pendant.  Once per day, when you use the _Broken Tusk pendant_'s activation, if the animal misses you, the _Broken Tusk pendant_ casts [[Spells/Dominate|Dominate]] on the animal (DC 30 Will check). You can choose whether to use this once-per-day effect after the animal misses you."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "The followers of the Broken Tusk have passed down their custom of crafting and gifting these small ivory necklaces for generations. They're typically made from mammoth tusk (though any type of ivory will do), and each is carved to resemble a particular kind of animal-usually a raven, a moose, an ox, or an otter. Because tradition dictates that Broken Tusk followers take ivory only from already-dead animals, _Broken Tusk pendants_ are especially rare; if an individual loses their pendant, it might be years before they acquire the materials necessary to fashion a replacement. _Broken Tusk pendants_ bear no magical powers if they are made for oneself; only gifted pendants have true magical properties.<br><br>You wear a _Broken Tusk pendant_ like jewelry or tie it to your clothing. A _Broken Tusk pendant_ grants you a +2 item bonus to [[Skills#Nature|Nature]] checks; this bonus increases to +3 when you [[Command an Animal]] of the specific kind depicted by the pendant.  "
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[Interact]])"
+frequency1: "once per hour"
+trigger1: "An animal targets you with a melee attack, and you can see the animal"
+mechanics1: "You gain a +1 item bonus to AC against the triggering attack, or a +2 item bonus if the animal is the specific kind depicted by the pendant.  Once per day, when you use the _Broken Tusk pendant_'s activation, if the animal misses you, the _Broken Tusk pendant_ casts [[Dominate]] on the animal (DC 30 Will check). You can choose whether to use this once-per-day effect after the animal misses you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "brewers-regret"
 aliases: "Brewer's Regret"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "46"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  When a brewer makes a batch of something they'd rather not drink, they often boil it down; add myrrh, mugwort extract, and violet salt; and sell it to chefs looking for cheap sandwich fillings. The thick, salty sourness ruins the taste of most other food, but it also creates a strong desire to live to taste anything else. For 1 hour after consumption, you gain a +2 item bonus to saves against death and void effects. In addition, your doomed value decreases by 1 (minimum 0). You can reduce the doomed condition with brewer's regret only once per day, and after you do, you can't reduce the doomed condition from the [[Spells/Restoration|Restoration]] spell that same day (or vice versa).  [[Equipment Effects/Effect_ Brewer's Regret|Effect: Brewer's Regret]]"
+activate: "`pf2:1` ([[Interact]])"
+description: "When a brewer makes a batch of something they'd rather not drink, they often boil it down; add myrrh, mugwort extract, and violet salt; and sell it to chefs looking for cheap sandwich fillings. The thick, salty sourness ruins the taste of most other food, but it also creates a strong desire to live to taste anything else. For 1 hour after consumption, you gain a +2 item bonus to saves against death and void effects. In addition, your [[Doomed]] value decreases by 1 (minimum 0). You can reduce the doomed [[Doomed]] with brewer's regret only once per day, and after you do, you can't reduce the [[Doomed]] condition from the [[Restoration]] spell that same day (or vice versa)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

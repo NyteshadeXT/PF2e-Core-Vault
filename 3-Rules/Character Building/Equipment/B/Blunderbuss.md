@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization"
+powerTitle1: "Critical Specialization (Firearm)"
 actionEconomy1: 
 type1: 
 frequency1: 

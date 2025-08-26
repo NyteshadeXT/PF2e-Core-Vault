@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "brazier-of-harmony"
 aliases: "Brazier of Harmony"
 source: "Pathfinder Rage of Elements"
-pg: ""
+pg: "122"
 rarity: ""
 trait01: "censer"
 trait02: "fire"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The _brazier of harmony_ is a circular, orb-shaped censer etched with celebrating creatures shaking hands and dancing. The brazier contains a pleasant-smelling potpourri of dried flowers and incenses, designed to create a calm atmosphere that encourages meditation, thoughtfulness, and camaraderie. While holding the lit censer, you gain a +1 item bonus to Diplomacy checks, whether the censer is activated or not.  * * *  **Activate—Light Incense** `pf2:2` (aura, manipulate)  **Frequency** once per day  **Cost** incense worth at least 1 sp  **Effect** When the incense is lit, pleasant, floral smoke surrounds the censer in a 20-foot emanation, creating a space of peace and harmony. Each creature that breathes the smoke is affected by 3rd-rank [[Spells/Calm|Calm]] and is then temporarily immune for 24 hours. The spell's effects end when the incense burns out."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The _brazier of harmony_ is a circular, orb-shaped censer etched with celebrating creatures shaking hands and dancing. The brazier contains a pleasant-smelling potpourri of dried flowers and incenses, designed to create a calm atmosphere that encourages meditation, thoughtfulness, and camaraderie. While holding the lit censer, you gain a +1 item bonus to [[Skills#Diplomacy|Diplomacy]] checks, whether the censer is activated or not.  "
+powerTitle1: "Light Incense"
+actionEconomy1: 2
+type1: "([[aura]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "When the incense is lit, pleasant, floral smoke surrounds the censer in a 20-foot emanation, creating a space of peace and harmony. Each creature that breathes the smoke is affected by 3rd-rank [[Calm]] and is then temporarily immune for 24 hours. The spell's effects end when the incense burns out.  You must provide incense worth at least 1 sp for the _Brazier of Harmony_ to function."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
