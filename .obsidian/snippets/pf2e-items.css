@@ -11,7 +11,6 @@
   margin-bottom: 0.2em;
 }
 
-
 /* Ensure all H1 and H2 in item headers render in gold */
 .pf2e-item-header h1,
 .pf2e-item-header h2 {
@@ -35,4 +34,150 @@
 .pf2e-item-header .item-name { flex: 1; }
 .pf2e-item-header .item-level { opacity: 0.85; }
 
+:root {
+  --pf2e-red: #8B1E1E;         /* tweak to match your palette */
+  --pf2e-parchment: #f6f1e1;
+}
 
+/* Base cleanup (keep this regardless of option) */
+.pf2e-ability-textbox h3,
+.markdown-rendered .pf2e-ability-textbox h3,
+.markdown-preview-view .pf2e-ability-textbox h3 {
+  border-bottom: none !important;
+  box-shadow: none !important;
+  padding-bottom: 0 !important;
+  margin: 0 0 .5rem 0;
+}
+
+/* Remove code-style background on pf2 action icons like `pf2:1` */
+.pf2e-ability-textbox h3 code {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* Centered line + title */
+.pf2e-ability-textbox h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  font-variant: small-caps;
+  letter-spacing: .4px;
+}
+
+.pf2e-ability-textbox h3::before,
+.pf2e-ability-textbox h3::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--pf2e-red));
+  opacity: .65;
+}
+
+.pf2e-ability-textbox h3::after {
+  background: linear-gradient(to left, transparent, var(--pf2e-red));
+}
+
+/* Keep your Option A base exactly as-is, then add this: */
+
+/* Make sure the action icons don't get boxed */
+.pf2e-ability-textbox h3 code {
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  margin-left: .35rem;
+}
+
+/* Remove underline under H1/H2 in PF2e item UI */
+.pf2e-item-header h1,
+.pf2e-item-header h2,
+.pf2e-ability-textbox h1,
+.pf2e-ability-textbox h2,
+.markdown-rendered .pf2e-item-header h1,
+.markdown-rendered .pf2e-item-header h2,
+.markdown-preview-view .pf2e-item-header h1,
+.markdown-preview-view .pf2e-item-header h2 {
+  border-bottom: none !important;
+  box-shadow: none !important;
+  padding-bottom: 0 !important;
+}
+
+/* In case the underline is injected via ::after */
+.pf2e-item-header h1::after,
+.pf2e-item-header h2::after,
+.pf2e-ability-textbox h1::after,
+.pf2e-ability-textbox h2::after,
+.markdown-rendered .pf2e-item-header h1::after,
+.markdown-rendered .pf2e-item-header h2::after,
+.markdown-preview-view .pf2e-item-header h1::after,
+.markdown-preview-view .pf2e-item-header h2::after {
+  content: none !important;
+}
+
+/* Tidy up header text inside the flex bar */
+.pf2e-item-header h1,
+.pf2e-item-header h2 {
+  margin: 0 !important;
+  line-height: 1.1;
+  display: inline-block; /* avoids weird flex stretching in some themes */
+  text-shadow: 0 1px 0 rgba(0,0,0,.25); /* optional: helps gold pop on red */
+}
+
+/* Gold palette for ability box */
+:root {
+  --pf2e-gold-100: #f3e2b8;   /* header edge */
+  --pf2e-gold-200: #ecd28a;   /* body */
+  --pf2e-gold-400: #b98c3a;   /* border/accent */
+  --pf2e-gold-ink: #3a2a12;   /* text on gold */
+}
+
+/* Deeper gold "card" for abilities */
+.pf2e-ability-textbox {
+  background: linear-gradient(180deg, var(--pf2e-gold-100), var(--pf2e-gold-200));
+  border: 1px solid var(--pf2e-gold-400);
+  border-radius: 8px;
+  padding: 0.85rem 1rem;
+  box-shadow:
+    0 1px 0 rgba(255,255,255,.35) inset,   /* top bevel */
+    0 1px 8px rgba(0,0,0,.12);             /* soft drop */
+  color: var(--pf2e-gold-ink);
+}
+
+/* Optional: strengthen paragraph/readability inside the box */
+.pf2e-ability-textbox p { color: var(--pf2e-gold-ink); }
+
+/* Nicer section divider between abilities */
+hr.pf2e-divider {
+  height: 2px;
+  border: 0;
+  margin: .85rem 0;
+  background:
+    linear-gradient(to right,
+      rgba(0,0,0,0),
+      rgba(139,30,30,.75) 10%,
+      var(--pf2e-gold-400) 50%,
+      rgba(139,30,30,.75) 90%,
+      rgba(0,0,0,0)
+    );
+  border-radius: 2px;
+}
+
+/* (You already have the Option A h3 styling; it will sit on top of this nicely) */
+
+/* Optional: dark theme tune-up (Obsidian) */
+.theme-dark .pf2e-ability-textbox {
+  background: linear-gradient(180deg, #4a3a1d, #3b2d16);
+  border-color: #d7b66a;
+  color: #f2e8cf;
+}
+.theme-dark hr.pf2e-divider {
+  background:
+    linear-gradient(to right,
+      transparent,
+      rgba(215,182,106,.85) 15%,
+      rgba(139,30,30,.8) 50%,
+      rgba(215,182,106,.85) 85%,
+      transparent
+    );
+}
