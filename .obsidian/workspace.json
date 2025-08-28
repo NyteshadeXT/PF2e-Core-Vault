@@ -55,12 +55,44 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "3-Rules/Character Building/Equipment/C/called-accessory-rune.md",
+=======
+                "file": "1-GM Toolkit/Chimeracrafting.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "called-accessory-rune"
+              "title": "Chimeracrafting"
+            }
+          },
+          {
+            "id": "e037cdd635456432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Travel Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Travel Calculator"
+            }
+          },
+          {
+            "id": "2a4ca410fb3c6685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/C/cane.md",
+>>>>>>> Stashed changes
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cane"
             }
           },
           {
@@ -272,11 +304,42 @@
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< Updated upstream
   "active": "410a5a039ea102db",
+=======
+  "active": "2193ab23aee3b405",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/C/Cane of the Maelstrom.md",
+    "3-Rules/Character Building/Equipment/C/cane.md",
+    "3-Rules/Character Building/Equipment/C/candlecap.md",
+    "3-Rules/Character Building/Equipment/C/candle-of-truth.md",
+    "3-Rules/Character Building/Equipment/C/candle-of-revealing.md",
+    "zz-Attachments/candle-of-revealing.png",
+    "3-Rules/Character Building/Equipment/C/candle-of-invocation.md",
+    "3-Rules/Character Building/Equipment/C/candle-of-inflamed-passions.md",
+    "3-Rules/Character Building/Equipment/C/candle.md",
+    "3-Rules/Character Building/Equipment/C/campaign-stable.md",
+    "3-Rules/Character Building/Equipment/C/camp-shroud-moderate.md",
+    "3-Rules/Character Building/Equipment/C/camp-shroud-minor.md",
+    "3-Rules/Character Building/Equipment/C/camp-shroud-major.md",
+    "3-Rules/Character Building/Equipment/C/camp-shroud-lesser.md",
+    "3-Rules/Character Building/Equipment/C/camp-shroud-greater.md",
+    "3-Rules/Character Building/Equipment/C/camouflaging-chromatophores-lesser.md",
+    "3-Rules/Character Building/Equipment/C/camouflaging-chromatophores-greater.md",
+    "3-Rules/Character Building/Equipment/C/camouflage-suit-superb.md",
+    "3-Rules/Character Building/Equipment/C/camouflage-suit.md",
+    "3-Rules/Character Building/Equipment/C/camouflage-dye-lesser.md",
+    "3-Rules/Character Building/Equipment/C/camouflage-dye-greater.md",
+    "3-Rules/Character Building/Equipment/C/caltrops.md",
+    "zz-Attachments/camouflage-dye.png",
+    "3-Rules/Character Building/Equipment/C/caltrop-snare.md",
+    "zz-Attachments/caltrop.png",
+    "zz-Attachments/caltrop-snare.png",
     "3-Rules/Character Building/Equipment/C/called-weapon-rune.md",
     "3-Rules/Character Building/Equipment/C/called-accessory-rune.md",
     "3-Rules/Character Building/Equipment/C/calamity-glass.md",
+<<<<<<< Updated upstream
     "3-Rules/Character Building/Equipment/C/Cage.md",
     "3-Rules/Character Building/Equipment/C/cytillesh-oil.md",
     "3-Rules/Character Building/Equipment/C/Cytillesh Oil.md",
@@ -300,16 +363,15 @@
     "3-Rules/Character Building/Equipment/C/Crimson Bluff.md",
     "3-Rules/Character Building/Equipment/C/Crafter's Eyepiece.md",
     "3-Rules/Character Building/Equipment/C/Crackling Bubble Gum (Greater).md",
+=======
+    "3-Rules/Character Building/Equipment/C/cage.md",
+>>>>>>> Stashed changes
     "zz-Attachments/brooch-of-shielding.png",
     "zz-Attachments/brine-dragon-scale.png",
     "zz-Attachments/breastplate-of-the-mountain.png",
     "zz-Attachments/branch-of-the-great-sugi.png",
     "zz-Attachments/deadlock-mint.png",
     "zz-Attachments/bracers-of-devotion.png",
-    "zz-Attachments/Blackwall Keep.png",
-    "zz-Attachments/bow-staff.png",
-    "zz-Attachments/bow-of-sun-slaying.png",
-    "zz-Attachments/bottled-roc.png",
     "[[1-GM Toolkit",
     "1-GM Toolkit/GM Screen",
     "1-GM Toolkit/GM Screen",

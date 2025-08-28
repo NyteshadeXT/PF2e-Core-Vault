@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "camp-shroud-(lesser)"
-aliases: "Camp Shroud (Lesser)"
-source: "Pathfinder Lost Omens Knights of Lastwall"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "illusion"
+name: "camouflaging-chromatophores-lesser"
+aliases: "Camouflaging Chromatophores (Lesser)"
+source: "Pathfinder Howl of the Wild"
+pg: "97"
+rarity: "uncommon"
+trait01: "graft"
+trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 4
 weight: 
-value: "65"
+value: "95"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "implanted"
 license: "ORC"
 identify:
-description: "Knights make use of this magically treated powder to help hide their camps while traveling through the Gravelands or other dangerous regions. When you toss the powder into a campfire or other sizable fire, the fire produces a thin mist that enshrouds everything in a 15-foot emanation from the fire. The mist creates protective illusions that remain for up to 12 hours and make it difficult to spot the area from afar. You can end the effect earlier by putting out the fire. Light and smoke produced in the area aren't visible from outside the area. The illusions don't prevent sound from traveling nor prevent the area or its inhabitants from being seen.  A creature outside the area that uses the [[Actions/Seek|Seek]] action or [[Actions/Search|Search]] activity to examine the area or look for smoke and light coming from that direction can attempt a DC 23 Perception check check to disbelieve the illusion."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Special cells in your skin can change color to help you blend in with your environment. You gain a +1 item bonus to [[Skills#Stealth|Stealth]] checks to [[Sneak]] and [[Hide]].  "
+powerTitle1: "Background Adaptation"
+actionEconomy1: 2
+type1: "([[concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "For 1 minute, you can [[Hide]] without needing cover or concealment to do so. This doesn't allow you to [[Sneak]] without ending your movement in cover or concealment, however, as your skin's attempts to match the background as you move produce noticeable rippling waves of color."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

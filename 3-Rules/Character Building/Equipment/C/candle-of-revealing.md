@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "candle-of-revealing"
 aliases: "Candle of Revealing"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "306"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/candle-of-revealing.png
 level: 7
 weight: 
 value: "60"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  When lit, this black candle's eerie blue flame reveals the presence of [[Conditions/Invisible|Invisible]] creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the invisible condition. Their bodies are outlined, not fully visible, so they're [[Conditions/Concealed|Concealed]]. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit."
+activate: "`pf2:1` ([[manipulate]])"
+description: "When lit, this black candle's eerie blue flame reveals the presence of [[Invisible]] creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the invisible condition. Their bodies are outlined, not fully visible, so they're [[Concealed]]. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

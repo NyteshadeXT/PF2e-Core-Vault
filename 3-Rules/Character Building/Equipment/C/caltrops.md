@@ -3,10 +3,10 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "cane"
-aliases: "Cane"
+name: "caltrops"
+aliases: "Caltrops"
 source: "Pathfinder Player Core"
-pg: "293"
+pg: "287"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -16,17 +16,17 @@ trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/caltrop.png
 level: 0
 group: 
 bulk: L
-value: "5"
+value: "3"
 subvalue: "sp"
 invest: 
 usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "A cane is a straight length of wood with a curved handle, shaped like the tip of a hook. Its simple design helps with balance and only slightly assists with taking weight off the affected opposite leg. The cane is typically 2 to 3 feet long but can be lengthened or shortened as needed."
+description: "These four-pronged metal spikes can damage a creature's feet. You can scatter caltrops in an empty square adjacent to you with an Interact action. The first creature that moves into that square must succeed at a DC 14 [[Skills#Acrobatics|Acrobatics]] check or take `dice: 1d4` 1d4 piercing damage and 1 persistent bleed damage. A creature taking persistent bleed damage from caltrops takes a –5-foot penalty to its Speed. Spending an [[Interact]] action to pluck the caltrops free reduces the DC to stop the bleeding. Once a creature takes damage from caltrops, enough are ruined that other creatures moving into the square are safe. Deployed caltrops can be salvaged and reused if no creatures took damage from them. Otherwise, enough are ruined that they can't be salvaged."
 activate: ""
 craft: 
 destruction: 

@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "camouflaging-chromatophores-(greater)"
-aliases: "Camouflaging Chromatophores (Greater)"
-source: "Pathfinder Howl of the Wild"
+name: "camouflage-dye-greater"
+aliases: "Camouflage Dye (Greater)"
+source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
-trait01: "graft"
-trait02: "invested"
-trait03: "magical"
-trait04: "uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: 
-value: "665"
+image: zz-Attachments/camouflage-dye.png
+level: 7
+weight: L
+value: "60"
 subvalue: "gp"
 invest:
-usage: "implanted"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Special cells in your skin can change color to help you blend in with your environment. You gain a +2 item bonus to Stealth checks to [[Actions/Sneak|Sneak]] and [[Actions/Hide|Hide]].  * * *  **Activate—Background Adaptation** `pf2:2` (concentrate)  **Frequency** once per hour  **Effect** For 1 minute, you can Hide without needing cover or concealment to do so. This doesn't allow you to Sneak without ending your movement in cover or concealment, however, as your skin's attempts to match the background as you move produce noticeable rippling waves of color."
+activate: "`pf2:1` [[Interact]]"
+description: "Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. When you Activate the dye by sprinkling it on yourself or a creature within reach, the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement. The target can [[Hide]] or [[Sneak]] without cover or concealment for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

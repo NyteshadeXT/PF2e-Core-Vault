@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "camouflaging-chromatophores-(lesser)"
-aliases: "Camouflaging Chromatophores (Lesser)"
-source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
-trait01: "graft"
-trait02: "invested"
+name: "camp-shroud-moderate"
+aliases: "Camp Shroud (Moderate)"
+source: "Pathfinder Lost Omens Knights of Lastwall"
+pg: "89"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "illusion"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 4
+level: 10
 weight: 
-value: "95"
+value: "175"
 subvalue: "gp"
 invest:
-usage: "implanted"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Special cells in your skin can change color to help you blend in with your environment. You gain a +1 item bonus to Stealth checks to [[Actions/Sneak|Sneak]] and [[Actions/Hide|Hide]].  * * *  **Activate—Background Adaptation** `pf2:2` (concentrate)  **Frequency** once per day  **Effect** For 1 minute, you can Hide without needing cover or concealment to do so. This doesn't allow you to Sneak without ending your movement in cover or concealment, however, as your skin's attempts to match the background as you move produce noticeable rippling waves of color."
+description: "Knights make use of this magically treated powder to help hide their camps while traveling through the Gravelands or other dangerous regions. When you toss the powder into a campfire or other sizable fire, the fire produces a thin mist that enshrouds everything in a 20-foot emanation from the fire. The mist creates protective illusions that remain for up to 12 hours and make it difficult to spot the area from afar. You can end the effect earlier by putting out the fire. Light and smoke produced in the area aren't visible from outside the area. The illusions don't prevent sound from traveling nor prevent the area or its inhabitants from being seen.<br><br>A creature outside the area that uses the [[Seek]] action or [[Search]] activity to examine the area or look for smoke and light coming from that direction can attempt a DC 27 [[Skills#Perception|Perception]] check check to disbelieve the illusion."
 powerTitle1:
 actionEconomy1:
 type1:
