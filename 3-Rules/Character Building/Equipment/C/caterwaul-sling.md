@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "caterwaul-sling"
 aliases: "Caterwaul Sling"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "242"
 rarity: ""
 trait01: "magical"
 trait02: "propulsive"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,17 +22,18 @@ level: 5
 weight: L
 value: "155"
 subvalue: "gp"
+group: "Sling"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Made of shiny brown leather, this _+1 striking sling_ has a single white thread interwoven into its cord.  **Activate—Unleash Roar** `pf2:2` (manipulate, sonic)  **Frequency** once per day  * * *  **Effect** You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a 30-foot cone takes 4d6 sonic damage (DC 21 Fortitude check save). Any creature that fails is [[Conditions/Deafened|Deafened]] for 1 round, or 1 hour on a critical failure."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Made of shiny brown leather, this _[[Weapon Potency (+1)|+1]] [[striking]] [[sling]]_ has a single white thread interwoven into its cord.  "
+powerTitle1: "Unleash Roar"
+actionEconomy1: 2
+type1: "([[manipulate]], [[sonic]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a 30-foot cone takes `dice: 4d6` 4d6 sonic damage (DC 21 Fortitude check save). Any creature that fails is [[Deafened]] for 1 round, or 1 hour on a critical failure."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -44,15 +45,16 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 60 ft
-ammoType:
-damage: 2d6 bludgeoning
-dmg1:
-dmg1Type:
+range: 50 ft
+ammoType: "Sling Bullet"
+reload: 1
+damage:  
+dmg1: 2d6
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Ranged
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,12 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Sling"
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "chalice-of-ozem"
 aliases: "Chalice of Ozem"
 source: "Pathfinder Claws of the Tyrant"
-pg: ""
-rarity: ""
+pg: "110"
+rarity: "unique"
 trait01: "artifact"
 trait02: "divine"
-trait03: "unique"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This ruby-studded dawnsilver chalice can't be harmed by any substance it holds, no matter how caustic. Furthermore, liquid placed within the _Chalice of Ozem_ never spills unless its carrier chooses to do so (using a single action with the concentrate trait).  * * *  **Activate—Iomedae's Blessing** `pf2:2` (concentrate, manipulate)  **Frequency** once per hour  **Effect** You hold the chalice and call out Iomedae's name. The chalice casts [[Spells/Dispelling Globe|Dispelling Globe]] with a +19 modifier to its counteract check.  * * *  **Destruction** If the _Chalice of Ozem_ is filled with Iomedae's blood and Arazni drinks from it, it shatters."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This ruby-studded dawnsilver chalice can't be harmed by any substance it holds, no matter how caustic. Furthermore, liquid placed within the _Chalice of Ozem_ never spills unless its carrier chooses to do so (using a single action with the concentrate trait).  "
+powerTitle1: "Iomedae's Blessing"
+actionEconomy1: 2
+type1: "([[concentrate]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You hold the chalice and call out Iomedae's name. The chalice casts [[SpeDispelling Globe]] with a +19 modifier to its counteract check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -40,6 +40,7 @@ frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
 craft:
+destruction: "If the _Chalice of Ozem_ is filled with Iomedae's blood and Arazni drinks from it, it shatters."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

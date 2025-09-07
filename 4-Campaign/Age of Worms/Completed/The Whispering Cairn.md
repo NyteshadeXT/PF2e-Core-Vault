@@ -1120,7 +1120,7 @@ The angelic figure is an idealized representation of Filge himself.
 > 
 > The silver tray held by the mummified sentry is worth 2 gp. The A large run of golden brown fur is worth 8 gp, but must be carried carefully to ensure that its coat does not become soiled.  A DC 15 [[Skills#Occultism|Occultism]] check identifies the pelt as that of an adult lammasu.
 > 
-> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a [[Potion of Emergency Escape]], [[Healing Potion (Minor)]], [[Surging Serum (Minor)]], and [[Cat's Eye Elixir]]. Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
+> Most of the papers on Filge's desk concern surgical procedures meant to enhance the potency of undead, while others contain only the meandering scribbles of a mind descending into madness.  Buried in with the junk is a [[Summon Undead|Scroll of Summon Undead]] and a beaker holder containing four 6-inch-long tubes filled with different-colored liquids  Two of the six slots are empty. The glass tubes are sealed at the top with a rubber sheath, and look like they are meant to be slotted into some other device.  Each contains a soupy liquid substance consisting of reanimated cells.  Filge has been experimenting with injecting these liquids into himself. They are effectively a [[Potion of Emergency Escape]], [[Healing Potion (Minor)]], [[Surging Serum (Minor)]], and [[cats-eye-elixir]]. Every so often, something within the beakers seems to move slightly, but it might just be a trick of the eye. A handwritten label on the bearker holder says "Necroturgeons."
 > 
 > Also on the deck is the original summons [[Balabar Smenk]] sent Filge to encourage him to come to Diamond Lake (See handout).
 > 
@@ -1128,7 +1128,7 @@ The angelic figure is an idealized representation of Filge himself.
 > - [<] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
 > - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 > - [<] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
-> - [<] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
+> - [<] consumable::[[cats-eye-elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
 > - [<] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
 
 ## 10. Closet

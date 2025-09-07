@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "cane-pistol"
 aliases: "Cane Pistol"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "159"
+rarity: "uncommon"
 trait01: "combination"
 trait02: "concealable"
 trait03: "concussive"
 trait04: "fatal-d8"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -23,6 +23,7 @@ weight: 1
 value: "8"
 subvalue: "gp"
 invest:
+group: "Club/Firearm"
 usage: "held in one hand "
 license: "ORC"
 identify:
@@ -45,14 +46,15 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 30 ft
-ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
+ammoType: "Fire Ammunition (10 rounds)"
+reload: 1
+damage:  
+dmg1: 1d4
+dmg1Type: piercing
+dmg2: 1d6
+dmg2Type: bludgeoning
+weaponType: Martial
+weaponCategory: "Melee/Ranged"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +77,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Cane Pistol"
+SORT level ASC
+
+```

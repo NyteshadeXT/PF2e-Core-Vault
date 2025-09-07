@@ -8,16 +8,16 @@ name: "charlatans-cape"
 aliases: "Charlatan's Cape"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/charlatans-cape.png
 level: 10
 weight: L
 value: "980"
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This bright red-and-gold cape is often interlaced with glittery threads and serves as a distraction. While wearing the cape, you gain a +2 item bonus to Deception checks.  **Activate—Puff of Smoke** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Translocate|Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Conditions/Concealed|Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This bright red-and-gold cape is often interlaced with glittery threads and serves as a distraction. While wearing the cape, you gain a +2 item bonus to Deception checks.  "
+powerTitle1: "Puff of Smoke"
+actionEconomy1: 2
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You cast [[Translocate]]. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Concealed]] until they leave the smoke or the end of your next turn, at which point the smoke dissipates. Strong winds immediately disperse the smoke."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

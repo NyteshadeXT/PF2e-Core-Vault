@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "chakram"
-aliases: "Chakram"
-source: "Pathfinder Lost Omens Tian Xia Character Guide "
-pg: "128"
+name: "casters-targe"
+aliases: "Caster's Targe"
+source: "Pathfinder Treasure Vault"
+pg: "20"
 rarity: ""
-trait01: "thrown"
+trait01: "inscribed"
 trait02: ""
 trait03: ""
 trait04:
@@ -16,17 +16,17 @@ trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-group: "Knife"
-bulk: L
-value: "5"
-subvalue: "sp"
+image: zz-Attachments/casters-targe.png
+level: 
+group: 
+bulk: 1
+value: "2"
+subvalue: "gp"
 invest: 
-usage: "one hand"
+usage: ""
 license: "ORC"
 identify: ""
-description: "Simple, elegant, and portable, the chakram is an open-centered metal discus with a sharpened edge, as well as a grip running along the center so the wielder can hold it safely."
+description: "This small shield is made from wood. It features a special panel of parchment along the inside surface that allows for writing."
 activate: ""
 craft: 
 destruction: 
@@ -86,21 +86,21 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "20 ft."
+range:
 ammoType:
 reload:
 damage: 
-dmg1: 1d8
-dmg1Type: Slashing 
+dmg1: 
+dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: Ranged
-weaponCategory: Martial
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 1
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -109,9 +109,9 @@ armorCategory:
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+hardness: 3 
+hp: 12
+bt: 6
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -152,7 +152,7 @@ TABLE
   level     AS "Level",
   license   AS "License"
 FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Chakram")
+WHERE contains(shieldbase, "Caster's Targe")
 SORT level ASC
 
 ```

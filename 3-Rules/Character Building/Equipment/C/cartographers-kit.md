@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "chakram"
-aliases: "Chakram"
-source: "Pathfinder Lost Omens Tian Xia Character Guide "
-pg: "128"
-rarity: ""
-trait01: "thrown"
+name: "cartographers-kit"
+aliases: "Cartographer's Kit"
+source: "Pathfinder PFS Guide"
+pg: "34"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-group: "Knife"
-bulk: L
-value: "5"
-subvalue: "sp"
+level: 3
+group: 
+bulk: 1
+value: "43"
+subvalue: "gp"
 invest: 
-usage: "one hand"
-license: "ORC"
+usage: ""
+license: ""
 identify: ""
-description: "Simple, elegant, and portable, the chakram is an open-centered metal discus with a sharpened edge, as well as a grip running along the center so the wielder can hold it safely."
+description: "This kit includes a [[writing set]], a [[compass]], a [[standard astrolabe]], a [[ruler]], and a [[survey map]]."
 activate: ""
 craft: 
 destruction: 
@@ -86,16 +86,16 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "20 ft."
+range:
 ammoType:
 reload:
 damage: 
-dmg1: 1d8
-dmg1Type: Slashing 
+dmg1: 
+dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: Ranged
-weaponCategory: Martial
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -142,19 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Chakram")
-SORT level ASC
-
-```
-
-

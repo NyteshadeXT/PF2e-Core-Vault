@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "caverns-heart"
 aliases: "Cavern's Heart"
 source: "Pathfinder #195: Heavy is the Crown"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "rare"
 trait01: "earth"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "etched onto med heavy armor"
 license: "ORC"
 identify:
-description: "This armor can channel your life force into an enhanced [[Spells/Wall of Stone|Wall of Stone]].  * * *  **Activate** `pf2:3` command  **Frequency** once per day  * * *  **Effect** By stamping your foot on the ground and calling out to spirits of stone, you summon a stone wall. This is a wall of stone, except that the wall is tied to your own life force. When the stone wall is damaged, you are damaged instead. If you are reduced to 0 HP, the wall is destroyed. The effect is dismissed if you move more than 30 feet away from the stone wall or if you spend a single action with the concentrate trait."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This armor can channel your life force into an enhanced [[Wall of Stone]].  "
+powerTitle1: "Effect"
+actionEconomy1: 3
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "By stamping your foot on the ground and calling out to spirits of stone, you summon a stone wall. This is a wall of stone, except that the wall is tied to your own life force. When the stone wall is damaged, you are damaged instead. If you are reduced to 0 HP, the wall is destroyed. The effect is dismissed if you move more than 30 feet away from the stone wall or if you spend a single action with the concentrate trait."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -77,7 +77,7 @@ Some minor local travel.
 > - [x] consumable::[[Potion of Emergency Escape|Potion of Emergency Excape]] [ilvl::1] [gp::3]
 > - [x] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 > - [x] consumable::[[Surging Serum (Minor)|Surging Serum (Minor)]] [ilvl::2] [gp::5]
-> - [x] consumable::[[Cat's Eye Elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
+> - [x] consumable::[[cats-eye-elixir|Cat's Eye Elixir]] [ilvl::2] [gp::7]
 > - [x] consumable::[[Summon Undead|Scroll of Summon Undead]] [ilvl::1] [gp::4]
 > Filge's spellbook: [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Ray of Frost]], [[Illusory Disguise]], [[Vitality Lash]], [[Touch of the Void]], [[Void Warp]], [[Mystic Armor]], [[Enfeeble]], [[Embed Message]], [[Ghostly Carrier]] and [[Stupefy]].
 

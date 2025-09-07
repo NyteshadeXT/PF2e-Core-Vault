@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "caydens-brew-(triple)"
-aliases: "Cayden's Brew (Triple)"
+name: "caydens-brew-double"
+aliases: "Cayden's Brew (Double)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "88"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "poison"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 18
+image: zz-Attachments/caydens-brew.png
+level: 13
 weight: L
-value: "3200"
+value: "480"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Cayden's brew is like rich beer or ale, with a golden-brown color and foamy head. For 1 hour after you drink it, you have a +1 item bonus to saving throws against fear effects. Also, you can use a single action to breathe out a 15-foot cone of intoxicating vapor with a burp that can be heard for 100 feet. Any creature in the vapor must attempt a DC 40 Fortitude check saving throw. After you use this breath weapon, you can't do so again for 1d4 rounds.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 round.  **Failure** The creature is clumsy 1 and stupefied 1 for 1d4 rounds.  **Critical Failure** The creature becomes [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Stupefied|Stupefied 2]], and [[Conditions/Sickened|Sickened 1]]. The clumsy and stupefied conditions last until 1d4 rounds after the sickened condition ends.  [[Equipment Effects/Effect_ Cayden's Brew|Effect: Cayden's Brew]]"
+activate: "`pf2:1` ([[Interact]])"
+description: "**Activate** `pf2:1` Interact  Cayden's brew is like rich beer or ale, with a golden-brown color and foamy head. For 1 hour after you drink it, you have a +1 item bonus to saving throws against fear effects. Also, you can use a single action to breathe out a 15-foot cone of intoxicating vapor with a burp that can be heard for 100 feet. Any creature in the vapor must attempt a DC 31 Fortitude check saving throw. After you use this breath weapon, you can't do so again for `dice: 1d4` 1d4 rounds.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature is [[Clumsy|Clumsy 1]] and [[Stupefied|Stupefied 1]] for 1 round.<br>**Failure** The creature is clumsy 1 and stupefied 1 for 1d4 rounds.<br>**Critical Failure** The creature becomes [[Clumsy|Clumsy 2]], [[Stupefied|Stupefied 2]], and [[Sickened|Sickened 1]]. The clumsy and stupefied conditions last until `dice: 1d4` 1d4 rounds after the sickened condition ends."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

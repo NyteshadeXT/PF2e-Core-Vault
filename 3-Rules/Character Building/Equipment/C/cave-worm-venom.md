@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "cave-worm-venom"
 aliases: "Cave Worm Venom"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  Venom from enormous cave worms leaves a victim weakened.  **Saving Throw** DC 32 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 5d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 2** 6d6 poison damage and enfeebled 2 (1 round)  **Stage 3** 8d6 poison damage and enfeebled 2 (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "Venom from enormous cave worms leaves a victim weakened.  **Saving Throw** DC 32 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 5d6` 5d6 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)  **Stage 2** `dice: 6d6` 6d6 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** `dice: 8d6` 8d6 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

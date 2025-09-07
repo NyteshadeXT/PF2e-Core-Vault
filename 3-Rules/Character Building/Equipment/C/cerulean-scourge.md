@@ -13,7 +13,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.  **Saving Throw** DC 37 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 10d6 poison damage (1 round)  **Stage 2** 12d6 poison damage (1 round)  **Stage 3** 14d6 poison damage (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "This poison is infamous for making the victim's blood vessels glow with a bright blue light before painfully bursting.<br><br>**Saving Throw** DC 37 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 10d6` 10d6 poison damage (1 round)  **Stage 2** `dice: 12d6` 12d6 poison damage (1 round)  **Stage 3** `dice: 14d6` 14d6 poison damage (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

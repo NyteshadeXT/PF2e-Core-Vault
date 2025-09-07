@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "channel-protection-amulet"
 aliases: "Channel Protection Amulet"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "286"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This nugget of polished tektite is trapped in a cage of braided wire and hangs from a silken cord. When wearing this amulet, you gain resistance 5 against damage from [[Spells/Harm|Harm]] spells if you're living, or against [[Spells/Heal|Heal]] spells if you're undead."
+description: "This nugget of polished tektite is trapped in a cage of braided wire and hangs from a silken cord. When wearing this amulet, you gain resistance 5 against damage from [[Harm]] spells if you're living, or against [[Heal]] spells if you're undead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

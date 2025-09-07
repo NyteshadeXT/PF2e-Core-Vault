@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "celestial-hair"
 aliases: "Celestial Hair"
 source: "Pathfinder #156: The Apocalypse Prophet"
-pg: ""
-rarity: ""
+pg: "74"
+rarity: "rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` Interact  **Trigger** You critically fail a saving throw or are critically hit by an attack  This strand of hair shimmers like the strands of fate. When you activate the string, it resonates with a single, perfect note.  The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will check saving throw or be [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]] until the end of its next turn."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This strand of hair shimmers like the strands of fate. "
+powerTitle1: "Perfect Note"
+actionEconomy1: 0
+type1: "([[interact]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You critically fail a saving throw or are critically hit by an attack"
+mechanics1: "When you activate the string, it resonates with a single, perfect note.  The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will check saving throw or be [[Enfeebled|Enfeebled 2]] and [[Stupefied|Stupefied 2]] until the end of its next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

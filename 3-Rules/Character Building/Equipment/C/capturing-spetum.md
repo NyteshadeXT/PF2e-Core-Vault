@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "capturing-spetum"
 aliases: "Capturing Spetum"
 source: "Pathfinder Player Core 2"
-pg: ""
-rarity: ""
+pg: "274"
+rarity: "uncommon"
 trait01: "hampering"
 trait02: "hobgoblin"
 trait03: "reach"
 trait04: "trip"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -25,6 +25,7 @@ subvalue: "gp"
 invest:
 usage: "held in two hands "
 license: "ORC"
+group: "Polearm"
 identify:
 description: "Hobgoblins use these polearms both as standard issue for aggressive military units and on an individual basis for hunting fugitives."
 powerTitle1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d10 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d10
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Advanced
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Capturing Spetum"
+SORT level ASC
+
+```

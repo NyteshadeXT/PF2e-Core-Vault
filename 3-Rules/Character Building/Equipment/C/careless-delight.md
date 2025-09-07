@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "careless-delight"
 aliases: "Careless Delight"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "67"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "mental"
 trait05: "poison"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being stupefied due to this poison doubles when applied to Deception checks to Lie, Perception checks to [[Actions/Sense Motive|Sense Motive]], and Perception DCs to detect a Lie.  **Saving Throw** DC 28 Fortitude check  **Onset** 1 minute  **Maximum Duration** 10 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)  **Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 minute)  **Stage 3** [[Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)"
+activate: "`pf2:1` ([[Interact]])"
+description: "Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria that lowers inhibitions and increases trust. The status penalty from being stupefied due to this poison doubles when applied to [[Skills#Deception|Deception]] checks to [[Lie]], [[Skills#Perception|Perception]] checks to [[Sense Motive]], and [[Skills#Perception|Perception]] DCs to detect a Lie.<br><br>**Saving Throw** DC 28 Fortitude check  **Onset** 1 minute  **Maximum Duration** 10 minutes  **Stage 1** [[Stupefied|Stupefied 1]] (1 minute)  **Stage 2** [[Stupefied|Stupefied 2]] (1 minute)  **Stage 3** [[Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

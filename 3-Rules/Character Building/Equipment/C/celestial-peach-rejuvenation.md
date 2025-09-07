@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "cantrip-deck-(5-pack)"
-aliases: "Cantrip Deck (5-pack)"
-source: "Pathfinder Secrets of Magic"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "common"
-trait03: ""
-trait04: ""
-trait05: ""
+name: "celestial-peach-rejuvenation"
+aliases: "Celestial Peach (Rejuvenation)"
+source: "Pathfinder Lost Omens Legends"
+pg: "48"
+rarity: "rare"
+trait01: "consumable"
+trait02: "divine"
+trait03: "healing"
+trait04: "mechanical"
+trait05: "vitality"
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: 
-value: "5"
+level: 17
+weight: L
+value: "3000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "In an effort to spread the knowledge of magic as widely as possible, worshippers of Nethys discovered a way to bind cantrips into cards accessible even to non-spellcasters. The deck contains thick parchment cards, each roughly half the size of a playing card. In precise, no-nonsense script, each card simply states the name of its cantrip, color-coded based on its school.  This pack contains 5 cards of a single common cantrip.  * * *  **Activate** `pf2:1` or more (envision, Interact)  * * *  **Effect** You envision your desired cantrip, causing its card to rise to the top of the deck, and draw the card. The deck casts that cantrip as a 1st-rank spell, with a DC of 15 and a spell attack modifier of +5. The card crumbles into dust as the cantrip takes effect. The activation takes the same number of actions as the cantrip you chose takes to cast."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Among Hao Jin's most precious treasures are three living plants, the last surviving celestial peach trees taken from the mountains of Chu Ye. One of the trees grows pearls in place of flowers, but the other two bear fruit that is far more valuable. "
+powerTitle1: "Heal"
+actionEconomy1: 1
+type1: "([[inseract]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Eating one of these small red peaches can heal even the most grievous of injuries.  You gain the effects of 7th-rank [[Regenerate]] and [[Cleanse Affliction]] spells. The peach has a counteract modifier of `dice: 1d20+27` 1d20+27."
 powerTitle2:
 actionEconomy2:
 type2:

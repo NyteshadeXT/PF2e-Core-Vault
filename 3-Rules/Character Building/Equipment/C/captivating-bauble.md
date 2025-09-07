@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "captivating-bauble"
 aliases: "Captivating Bauble"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "92"
 rarity: ""
 trait01: "auditory"
 trait02: "consumable"
@@ -16,7 +16,7 @@ trait04: "linguistic"
 trait05: "magical"
 trait06: "talisman"
 trait07: "visual"
-trait08: "common"
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
 weight: 
@@ -26,7 +26,8 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` envision, Interact  **Requirements** You are a master in Deception or Diplomacy.  * * *  This talisman appears as an ornate piece of jewelry of the highest quality. When you Activate it, your speech and mannerisms become supernaturally compelling for up to 1 hour. By engaging an intelligent creature in conversation for at least 1 minute, you can cause them to become [[Conditions/Fascinated|Fascinated]] unless they succeed at a DC 30 Will check save. This fascination lasts for as long as you continue conversing or until you move at least 20 feet away. When the effect ends, the target becomes temporarily immune for 24 hours. If you or any ally within 120 feet takes an overtly hostile action while a creature is fascinated by the bauble, the bauble burns out in a shower of sparks and all its effects end."
+activate: "`pf2:3` ([[envision]], [[Interact]])"
+description: "**Requirement** You must be a master in Deception or Diplomacy.<br><br>This talisman appears as an ornate piece of jewelry of the highest quality. When you Activate it, your speech and mannerisms become supernaturally compelling for up to 1 hour. By engaging an intelligent creature in conversation for at least 1 minute, you can cause them to become [[Fascinated]] unless they succeed at a DC 30 Will check save. This fascination lasts for as long as you continue conversing or until you move at least 20 feet away. When the effect ends, the target becomes temporarily immune for 24 hours. If you or any ally within 120 feet takes an overtly hostile action while a creature is fascinated by the bauble, the bauble burns out in a shower of sparks and all its effects end."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

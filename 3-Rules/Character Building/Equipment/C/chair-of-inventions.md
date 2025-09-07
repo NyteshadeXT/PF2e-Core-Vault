@@ -10,7 +10,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This wheelchair is outfitted with a variety of tools and devices to assist with the creation and production of a number of mechanical implements. While seated in a chair of inventions, you have a worn superb repair kit that doesn't count against your Bulk limit or maximum worn items.  * * *  **Activate** `pf2:1` command, Interact  **Frequency** once per hour  * * *  **Effect** The chair deploys a complete expanded alchemist's lab. The chair is immobile while this lab is deployed, but levers and gears in the chair allow you to easily retrieve and access everything you need from both the attached superb repair kit and the deployed lab to Craft. This setup is highly efficient and gives you a +2 circumstance bonus to [[Actions/Earn Income|Earn Income]] using Crafting."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This wheelchair is outfitted with a variety of tools and devices to assist with the creation and production of a number of mechanical implements. While seated in a chair of inventions, you have a worn superb repair kit that doesn't count against your Bulk limit or maximum worn items.  "
+powerTitle1: "Alchemist's Lab"
+actionEconomy1: 1
+type1: "([[command]], [[interact]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "The chair deploys a complete expanded alchemist's lab. The chair is immobile while this lab is deployed, but levers and gears in the chair allow you to easily retrieve and access everything you need from both the attached superb repair kit and the deployed lab to Craft. This setup is highly efficient and gives you a +2 circumstance bonus to [[3-Rules/Character Building/Actions/Earn Income|Earn Income]] using Crafting."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

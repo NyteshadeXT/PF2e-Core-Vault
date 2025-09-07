@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "celestial-peach-(life)"
-aliases: "Celestial Peach (Life)"
-source: "Pathfinder Lost Omens Legends"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "divine"
-trait03: "healing"
-trait04: "mechanical"
-trait05: "vitality"
-trait06: "rare"
+name: "chameleon-suit-major"
+aliases: "Chameleon Suit (Major)"
+source: "Pathfinder Guns & Gears"
+pg: "67"
+rarity: "uncommon"
+trait01: "clockwork"
+trait02: "consumable"
+trait03: "gadget"
+trait04: ""
+trait05: ""
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 20
+level: 12
 weight: L
-value: "73000"
+value: "320"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "worngarment"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Among Hao Jin's most precious treasures are three living plants, the last surviving celestial peach trees taken from the mountains of Chu Ye. One of the trees grows pearls in place of flowers, but the other two bear fruit that is far more valuable. Eating one of these small red peaches can heal even the most grievous of injuries.  When you place the peach into the mouth of an intact corpse that died within the last year, it casts a 10th-rank [[Spells/Raise Dead|Raise Dead]] on the corpse."
+activate: "`pf2:2` ([[manipulate]])"
+description: "This complex clockwork outerwear, worn over armor or other clothing, is composed of thin, interlocking scales of myriad colors attached to numerous clockwork gears that can rotate between all visible colors and shades.<br><br>When activated, the clockwork gears work double-time to temporarily switch and adjust the scales to match the exact coloration of the area around you, allowing you to blend in as long as you stay still. For 1 hour, you can Hide without needing cover or concealment to do so. This doesn't allow you to [[Sneak]] without ending your movement in cover or concealment, however, as the clockwork flips over and adjusts the scales to match your background as you move, giving the impression of rippling waves of color and revealing your movement. Once the duration expires, the overworked clockwork and scales fall apart."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

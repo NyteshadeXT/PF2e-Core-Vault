@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "chaos-falcon-feather"
 aliases: "Chaos Falcon Feather"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "118"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  When used as catalysts, _chaos falcon feathers_ lend flexibility to spells that deal with elemental energy. For the duration of a catalyzed [[Spells/Resist Energy|Resist Energy]] spell, you can Sustain the Spell on an adjacent target, touching them and changing the type of energy to which they have resistance. This reduces the remaining duration of the spell by 1 minute; if the spell has less than a minute remaining, it reduces the duration to 1 round."
+activate: "Cast a Spell"
+description: "When used as catalysts, _chaos falcon feathers_ lend flexibility to spells that deal with elemental energy. For the duration of a catalyzed [[Resist Energy]] spell, you can [[Sustain the Spell]] on an adjacent target, touching them and changing the type of energy to which they have resistance. This reduces the remaining duration of the spell by 1 minute; if the spell has less than a minute remaining, it reduces the duration to 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
