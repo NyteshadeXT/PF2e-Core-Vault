@@ -783,7 +783,14 @@ async function updateNoteFrontmatter(imagePath, plugin, usedField = null) {
   }
   const bannerField = usedField || (Array.isArray(plugin.settings.customBannerField) && plugin.settings.customBannerField.length > 0 ? plugin.settings.customBannerField[0] : "banner");
   const format = plugin.settings.imagePropertyFormat;
-  const bannerValue = format === "[[image]]" ? `[[${imageReference}]]` : `![[${imageReference}]]`;
+  let bannerValue;
+  if (format === "image") {
+    bannerValue = imageReference;
+  } else if (format === "[[image]]") {
+    bannerValue = `[[${imageReference}]]`;
+  } else {
+    bannerValue = `![[${imageReference}]]`;
+  }
   await plugin.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
     if (Array.isArray(plugin.settings.customBannerField)) {
       for (const field of plugin.settings.customBannerField) {
@@ -1063,6 +1070,11 @@ var init_selectPixelBannerModal = __esm({
         `;
         return spinner;
       }
+      // Refresh the modal when Pixel Banner Plus enabled state changes
+      async refreshModal() {
+        this.contentEl.empty();
+        await this.onOpen();
+      }
       // Initialize the basic UI (non-API dependent)
       async initializeBasicUI() {
         var _a;
@@ -1175,7 +1187,14 @@ var init_selectPixelBannerModal = __esm({
                 await this.plugin.app.fileManager.processFrontMatter(activeFile2, (frontmatter) => {
                   const bannerField = this.plugin.settings.customBannerField[0];
                   const format = this.plugin.settings.imagePropertyFormat;
-                  const bannerValue = format === "[[image]]" ? `[[${file.path}]]` : `![[${file.path}]]`;
+                  let bannerValue;
+                  if (format === "image") {
+                    bannerValue = file.path;
+                  } else if (format === "[[image]]") {
+                    bannerValue = `[[${file.path}]]`;
+                  } else {
+                    bannerValue = `![[${file.path}]]`;
+                  }
                   frontmatter[bannerField] = bannerValue;
                 });
                 if (this.plugin.settings.openTargetingModalAfterSelectingBannerOrIcon) {
@@ -1337,7 +1356,16 @@ var init_selectPixelBannerModal = __esm({
             }
             this.app.fileManager.processFrontMatter(activeFile2, (fm) => {
               const iconImageField = Array.isArray(this.plugin.settings.customBannerIconImageField) ? this.plugin.settings.customBannerIconImageField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageField;
-              fm[iconImageField] = `![[${pathString}]]`;
+              const format = this.plugin.settings.imagePropertyFormat;
+              let iconValue;
+              if (format === "image") {
+                iconValue = pathString;
+              } else if (format === "[[image]]") {
+                iconValue = `[[${pathString}]]`;
+              } else {
+                iconValue = `![[${pathString}]]`;
+              }
+              fm[iconImageField] = iconValue;
             });
             new TargetPositionModal(this.app, this.plugin).open();
           };
@@ -1413,28 +1441,82 @@ var init_selectPixelBannerModal = __esm({
             cls: "pixel-banner-message-text"
           });
         }
+        const accountSection = mainContainer.createDiv({
+          cls: "pixel-banner-section pixel-banner-api-dependent",
+          attr: {
+            style: `
+                    gap: 5px;
+                    position: relative;
+                    min-height: ${this.plugin.settings.pixelBannerPlusEnabled ? "97px" : "60px"};
+                `
+          }
+        });
+        const accountTitleContainer = accountSection.createDiv({
+          attr: {
+            style: `
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    margin-bottom: ${this.plugin.settings.pixelBannerPlusEnabled ? "10px" : "0"};
+                `
+          }
+        });
+        const accountTitle = accountTitleContainer.createEl("h3", {
+          text: "Pixel Banner Plus",
+          cls: "pixel-banner-section-title",
+          attr: {
+            style: `
+                    margin: 0;
+                    cursor: help;
+                    width: max-content;
+                `
+          }
+        });
+        const toggleContainer = accountTitleContainer.createDiv({
+          cls: "pixel-banner-plus-toggle-container",
+          attr: {
+            style: `
+                    display: flex;
+                    align-items: center;
+                    gap: 8px;
+                `
+          }
+        });
+        toggleContainer.createEl("span", {
+          text: "Enabled",
+          attr: {
+            style: `
+                    font-size: 12px;
+                    opacity: 0.8;
+                    font-weight: normal;
+                `
+          }
+        });
+        const toggleSettingContainer = toggleContainer.createDiv({
+          attr: {
+            style: `
+                    display: inline-flex;
+                    align-items: center;
+                `
+          }
+        });
+        new import_obsidian13.Setting(toggleSettingContainer).addToggle(
+          (toggle) => toggle.setValue(this.plugin.settings.pixelBannerPlusEnabled).onChange(async (value) => {
+            this.plugin.pixelBannerPlusEnabled = value;
+            this.plugin.settings.pixelBannerPlusEnabled = value;
+            await this.plugin.saveSettings();
+            this.refreshModal();
+          })
+        ).then((setting) => {
+          if (setting.nameEl) setting.nameEl.style.display = "none";
+          if (setting.descEl) setting.descEl.style.display = "none";
+          if (setting.settingEl) {
+            setting.settingEl.style.border = "none";
+            setting.settingEl.style.padding = "0";
+            setting.settingEl.style.margin = "0";
+          }
+        });
         if (this.plugin.settings.pixelBannerPlusEnabled) {
-          const accountSection = mainContainer.createDiv({
-            cls: "pixel-banner-section pixel-banner-api-dependent",
-            attr: {
-              style: `
-                        gap: 5px;
-                        position: relative;
-                        min-height: 97px;
-                    `
-            }
-          });
-          const accountTitle = accountSection.createEl("h3", {
-            text: "Pixel Banner Plus Account",
-            cls: "pixel-banner-section-title",
-            attr: {
-              style: `
-                        margin: 0;
-                        cursor: help;
-                        width: max-content;
-                    `
-            }
-          });
           const accountInfo = accountSection.createDiv({
             cls: "pixel-banner-account-info",
             attr: {
@@ -1554,12 +1636,16 @@ var init_selectPixelBannerModal = __esm({
               if (!isConnected) {
                 const aiButton = document.getElementById("pixel-banner-plus-ai-button");
                 const storeButton = document.getElementById("pixel-banner-plus-store-button");
-                aiButton.disabled = true;
-                aiButton.classList.add("pixel-banner-button-disabled");
-                aiButton.title = "You need an authorize Pixel Banner Plus account to use this feature";
-                storeButton.disabled = true;
-                storeButton.classList.add("pixel-banner-button-disabled");
-                storeButton.title = "You need an authorize Pixel Banner Plus account to use this feature";
+                if (aiButton) {
+                  aiButton.disabled = true;
+                  aiButton.classList.add("pixel-banner-button-disabled");
+                  aiButton.title = "You need an authorize Pixel Banner Plus account to use this feature";
+                }
+                if (storeButton) {
+                  storeButton.disabled = true;
+                  storeButton.classList.add("pixel-banner-button-disabled");
+                  storeButton.title = "You need an authorize Pixel Banner Plus account to use this feature";
+                }
               }
               const statusText = !isOnline || !pixelBannerPlusServerOnline ? "\u{1F6A8} Servers Offline \u{1F6A8}" : isConnected ? "\u2705 Authorized" : "\u274C Not Authorized";
               const statusBorderColor = !isOnline || !pixelBannerPlusServerOnline ? "#FF6B6B" : isConnected ? "#177d47" : "#FF0000";
@@ -1889,7 +1975,7 @@ var init_selectPixelBannerModal = __esm({
                 background: var(--background-primary);
                 cursor: pointer;
                 transition: all 0.2s ease;
-                flex: 1;
+                flex: auto;
                 min-width: 80px;
                 height: 100%;
                 box-sizing: border-box;
@@ -1957,7 +2043,7 @@ var init_selectPixelBannerModal = __esm({
                 background: var(--background-primary);
                 cursor: pointer;
                 transition: all 0.2s ease;
-                flex: 1;
+                flex: auto;
                 min-width: 80px;
                 height: 100%;
                 box-sizing: border-box;
@@ -2721,7 +2807,16 @@ var init_generateAIBannerModal = __esm({
               if (!activeFile || !savedPath) return;
               await this.plugin.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
                 const bannerField = this.plugin.settings.customBannerField[0];
-                frontmatter[bannerField] = `![[${savedPath}]]`;
+                const format = this.plugin.settings.imagePropertyFormat;
+                let bannerValue;
+                if (format === "image") {
+                  bannerValue = savedPath;
+                } else if (format === "[[image]]") {
+                  bannerValue = `[[${savedPath}]]`;
+                } else {
+                  bannerValue = `![[${savedPath}]]`;
+                }
+                frontmatter[bannerField] = bannerValue;
               });
               if (this.plugin.settings.openTargetingModalAfterSelectingBannerOrIcon) {
                 new TargetPositionModal(this.app, this.plugin).open();
@@ -3608,7 +3703,16 @@ var init_generateAIBannerModal = __esm({
           if (!activeFile || !savedPath) return;
           await this.plugin.app.fileManager.processFrontMatter(activeFile, (frontmatter) => {
             const bannerField = this.plugin.settings.customBannerField[0];
-            frontmatter[bannerField] = `![[${savedPath}]]`;
+            const format = this.plugin.settings.imagePropertyFormat;
+            let bannerValue;
+            if (format === "image") {
+              bannerValue = savedPath;
+            } else if (format === "[[image]]") {
+              bannerValue = `[[${savedPath}]]`;
+            } else {
+              bannerValue = `![[${savedPath}]]`;
+            }
+            frontmatter[bannerField] = bannerValue;
           });
           if (this.plugin.settings.openTargetingModalAfterSelectingBannerOrIcon) {
             new TargetPositionModal(this.app, this.plugin).open();
@@ -4780,7 +4884,7 @@ var init_targetPositionModal = __esm({
         });
       }
       updateBannerIconVerticalOffset(verticalOffset) {
-        const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
+        const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVerticalOffsetField) ? this.plugin.settings.customBannerIconVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVerticalOffsetField;
         this.app.fileManager.processFrontMatter(this.app.workspace.getActiveFile(), (frontmatter) => {
           frontmatter[bannerIconVerticalOffsetField] = verticalOffset;
         });
@@ -5527,7 +5631,16 @@ var init_targetPositionModal = __esm({
               }
               this.app.fileManager.processFrontMatter(activeFile2, (fm) => {
                 const iconImageField = Array.isArray(this.plugin.settings.customBannerIconImageField) ? this.plugin.settings.customBannerIconImageField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageField;
-                fm[iconImageField] = `![[${filePath}]]`;
+                const format = this.plugin.settings.imagePropertyFormat;
+                let iconImageValue;
+                if (format === "image") {
+                  iconImageValue = filePath;
+                } else if (format === "[[image]]") {
+                  iconImageValue = `[[${filePath}]]`;
+                } else {
+                  iconImageValue = `![[${filePath}]]`;
+                }
+                fm[iconImageField] = iconImageValue;
               });
               new _TargetPositionModal(this.app, this.plugin).open();
             },
@@ -5536,14 +5649,26 @@ var init_targetPositionModal = __esm({
         };
         const bannerIconField = Array.isArray(this.plugin.settings.customBannerIconField) ? this.plugin.settings.customBannerIconField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconField;
         const bannerIconImageField = Array.isArray(this.plugin.settings.customBannerIconImageField) ? this.plugin.settings.customBannerIconImageField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageField;
-        let hasBannerIcon = frontmatter && (frontmatter[bannerIconField] && frontmatter[bannerIconField].trim() !== "" || frontmatter[bannerIconImageField] && frontmatter[bannerIconImageField].trim() !== "");
-        const hasBannerIconImage = frontmatter && frontmatter[bannerIconImageField] && frontmatter[bannerIconImageField].trim() !== "";
+        const getStringValue = (value) => {
+          if (value === void 0 || value === null) return "";
+          if (typeof value === "string") return value;
+          if (Array.isArray(value)) {
+            let current = value;
+            while (Array.isArray(current) && current.length > 0) {
+              current = current[0];
+            }
+            return typeof current === "string" ? current : "";
+          }
+          return String(value);
+        };
+        let hasBannerIcon = frontmatter && (frontmatter[bannerIconField] && getStringValue(frontmatter[bannerIconField]).trim() !== "" || frontmatter[bannerIconImageField] && getStringValue(frontmatter[bannerIconImageField]).trim() !== "");
+        const hasBannerIconImage = frontmatter && frontmatter[bannerIconImageField] && getStringValue(frontmatter[bannerIconImageField]).trim() !== "";
         if (!hasBannerIcon) {
           await new Promise((resolve) => {
             setTimeout(async () => {
               var _a2;
               const refreshedFrontmatter = (_a2 = this.app.metadataCache.getFileCache(activeFile)) == null ? void 0 : _a2.frontmatter;
-              if (refreshedFrontmatter && (refreshedFrontmatter[bannerIconField] && refreshedFrontmatter[bannerIconField].trim() !== "" || refreshedFrontmatter[bannerIconImageField] && refreshedFrontmatter[bannerIconImageField].trim() !== "")) {
+              if (refreshedFrontmatter && (refreshedFrontmatter[bannerIconField] && getStringValue(refreshedFrontmatter[bannerIconField]).trim() !== "" || refreshedFrontmatter[bannerIconImageField] && getStringValue(refreshedFrontmatter[bannerIconImageField]).trim() !== "")) {
                 hasBannerIcon = true;
               }
               resolve();
@@ -5603,7 +5728,7 @@ var init_targetPositionModal = __esm({
           }
         });
         bannerIconHeaderButtonIcon.addEventListener("click", openIconImagePicker);
-        const hasBannerIconText = frontmatter && frontmatter[bannerIconField] && frontmatter[bannerIconField].trim() !== "";
+        const hasBannerIconText = frontmatter && frontmatter[bannerIconField] && getStringValue(frontmatter[bannerIconField]).trim() !== "";
         const bannerIconHeaderButtonText = bannerIconHeaderButtons.createEl("button", {
           text: hasBannerIconText ? "\u{1F4DD} Edit Icon Text & Emoji" : "\u{1F4F0} Add Icon Text & Emoji",
           cls: "banner-icon-header-button cursor-pointer",
@@ -5813,8 +5938,8 @@ var init_targetPositionModal = __esm({
                 `
           }
         });
-        const iconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
-        this.currentBannerIconVerticalOffset = (frontmatter == null ? void 0 : frontmatter[iconVerticalOffsetField]) || this.plugin.settings.bannerIconVeritalOffset;
+        const iconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVerticalOffsetField) ? this.plugin.settings.customBannerIconVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVerticalOffsetField;
+        this.currentBannerIconVerticalOffset = (frontmatter == null ? void 0 : frontmatter[iconVerticalOffsetField]) || this.plugin.settings.bannerIconVerticalOffset;
         const bannerIconVerticalOffsetSlider = bannerIconVerticalOffsetContainer.createEl("input", {
           type: "range",
           cls: "banner-icon-vertical-offset-slider",
@@ -6777,6 +6902,9 @@ var init_targetPositionModal = __esm({
           bannerIconXPositionSlider.value = this.plugin.settings.bannerIconXPosition;
           bannerFadeSlider.value = this.plugin.settings.fade;
           bannerFadeValue.setText(this.plugin.settings.fade.toString());
+          if (borderRadiusSlider) borderRadiusSlider.value = this.plugin.settings.borderRadius;
+          if (borderRadiusValue) borderRadiusValue.setText(this.plugin.settings.borderRadius.toString());
+          this.updateBannerBorderRadius(this.plugin.settings.borderRadius);
           const currentTheme = getCurrentTheme_default();
           let defaultColor = currentTheme === "dark" ? "#ffffff" : "#000000";
           if (bannerIconSizeSlider) bannerIconSizeSlider.value = this.plugin.settings.bannerIconSize;
@@ -6822,7 +6950,7 @@ var init_targetPositionModal = __esm({
           if (bannerIconPaddingXSlider) bannerIconPaddingXSlider.value = this.plugin.settings.bannerIconPaddingX;
           if (bannerIconPaddingYSlider) bannerIconPaddingYSlider.value = this.plugin.settings.bannerIconPaddingY;
           if (bannerIconBorderRadiusSlider) bannerIconBorderRadiusSlider.value = this.plugin.settings.bannerIconBorderRadius;
-          if (bannerIconVerticalOffsetSlider) bannerIconVerticalOffsetSlider.value = this.plugin.settings.bannerIconVeritalOffset;
+          if (bannerIconVerticalOffsetSlider) bannerIconVerticalOffsetSlider.value = this.plugin.settings.bannerIconVerticalOffset;
           if (bannerIconSizeSlider) bannerIconSizeSlider.value = this.plugin.settings.bannerIconSize;
           if (bannerIconRotateSlider) bannerIconRotateSlider.value = 0;
           zoomValue.setText("100%");
@@ -6843,7 +6971,7 @@ var init_targetPositionModal = __esm({
           if (bannerIconPaddingXValue) bannerIconPaddingXValue.setText(`${this.plugin.settings.bannerIconPaddingX}`);
           if (bannerIconPaddingYValue) bannerIconPaddingYValue.setText(`${this.plugin.settings.bannerIconPaddingY}`);
           if (bannerIconBorderRadiusValue) bannerIconBorderRadiusValue.setText(`${this.plugin.settings.bannerIconBorderRadius}`);
-          if (bannerIconVerticalOffsetValue) bannerIconVerticalOffsetValue.setText(`${this.plugin.settings.bannerIconVeritalOffset}`);
+          if (bannerIconVerticalOffsetValue) bannerIconVerticalOffsetValue.setText(`${this.plugin.settings.bannerIconVerticalOffset}`);
           if (bannerIconRotateValue) bannerIconRotateValue.setText(`${this.plugin.settings.bannerIconRotate}`);
           toggleInput.checked = false;
           this.currentX = this.plugin.settings.xPosition;
@@ -6863,13 +6991,14 @@ var init_targetPositionModal = __esm({
             const bannerIconImageAlignmentField = Array.isArray(this.plugin.settings.customBannerIconImageAlignmentField) ? this.plugin.settings.customBannerIconImageAlignmentField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageAlignmentField;
             const repeatField = Array.isArray(this.plugin.settings.customImageRepeatField) ? this.plugin.settings.customImageRepeatField[0].split(",")[0].trim() : this.plugin.settings.customImageRepeatField;
             const fadeField = Array.isArray(this.plugin.settings.customFadeField) ? this.plugin.settings.customFadeField[0].split(",")[0].trim() : this.plugin.settings.customFadeField;
+            const borderRadiusField = Array.isArray(this.plugin.settings.customBorderRadiusField) ? this.plugin.settings.customBorderRadiusField[0].split(",")[0].trim() : this.plugin.settings.customBorderRadiusField;
             const bannerIconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
             const bannerIconFontWeightField = Array.isArray(this.plugin.settings.customBannerIconFontWeightField) ? this.plugin.settings.customBannerIconFontWeightField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconFontWeightField;
             const bannerIconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
             const bannerIconPaddingXField = Array.isArray(this.plugin.settings.customBannerIconPaddingXField) ? this.plugin.settings.customBannerIconPaddingXField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingXField;
             const bannerIconPaddingYField = Array.isArray(this.plugin.settings.customBannerIconPaddingYField) ? this.plugin.settings.customBannerIconPaddingYField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconPaddingYField;
             const bannerIconBorderRadiusField = Array.isArray(this.plugin.settings.customBannerIconBorderRadiusField) ? this.plugin.settings.customBannerIconBorderRadiusField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBorderRadiusField;
-            const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
+            const bannerIconVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconVerticalOffsetField) ? this.plugin.settings.customBannerIconVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVerticalOffsetField;
             const bannerIconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
             const bannerIconTextVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconTextVerticalOffsetField) ? this.plugin.settings.customBannerIconTextVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconTextVerticalOffsetField;
             const bannerIconImageSizeMultiplierField = Array.isArray(this.plugin.settings.customBannerIconImageSizeMultiplierField) ? this.plugin.settings.customBannerIconImageSizeMultiplierField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageSizeMultiplierField;
@@ -6882,6 +7011,7 @@ var init_targetPositionModal = __esm({
             delete frontmatter2[contentStartPositionField];
             delete frontmatter2[repeatField];
             delete frontmatter2[fadeField];
+            delete frontmatter2[borderRadiusField];
             delete frontmatter2[bannerIconXPositionField];
             delete frontmatter2[bannerIconImageAlignmentField];
             delete frontmatter2[bannerIconColorField];
@@ -7738,7 +7868,7 @@ var init_iconImageSelectionModal = __esm({
               const iconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
               const iconImageSizeMultiplierField = Array.isArray(this.plugin.settings.customBannerIconImageSizeMultiplierField) ? this.plugin.settings.customBannerIconImageSizeMultiplierField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconImageSizeMultiplierField;
               const iconRotateField = Array.isArray(this.plugin.settings.customBannerIconRotateField) ? this.plugin.settings.customBannerIconRotateField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconRotateField;
-              const iconYPositionField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
+              const iconYPositionField = Array.isArray(this.plugin.settings.customBannerIconVerticalOffsetField) ? this.plugin.settings.customBannerIconVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVerticalOffsetField;
               const iconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
               const iconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
               const iconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
@@ -28326,7 +28456,7 @@ var init_emojiSelectionModal = __esm({
                 const iconSizeField = Array.isArray(this.plugin.settings.customBannerIconSizeField) ? this.plugin.settings.customBannerIconSizeField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconSizeField;
                 const iconTextVerticalOffsetField = Array.isArray(this.plugin.settings.customBannerIconTextVerticalOffsetField) ? this.plugin.settings.customBannerIconTextVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconTextVerticalOffsetField;
                 const iconRotateField = Array.isArray(this.plugin.settings.customBannerIconRotateField) ? this.plugin.settings.customBannerIconRotateField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconRotateField;
-                const iconYPositionField = Array.isArray(this.plugin.settings.customBannerIconVeritalOffsetField) ? this.plugin.settings.customBannerIconVeritalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVeritalOffsetField;
+                const iconYPositionField = Array.isArray(this.plugin.settings.customBannerIconVerticalOffsetField) ? this.plugin.settings.customBannerIconVerticalOffsetField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconVerticalOffsetField;
                 const iconXPositionField = Array.isArray(this.plugin.settings.customBannerIconXPositionField) ? this.plugin.settings.customBannerIconXPositionField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconXPositionField;
                 const iconColorField = Array.isArray(this.plugin.settings.customBannerIconColorField) ? this.plugin.settings.customBannerIconColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconColorField;
                 const iconBgColorField = Array.isArray(this.plugin.settings.customBannerIconBackgroundColorField) ? this.plugin.settings.customBannerIconBackgroundColorField[0].split(",")[0].trim() : this.plugin.settings.customBannerIconBackgroundColorField;
@@ -30617,7 +30747,7 @@ module.exports = __toCommonJS(main_exports);
 var import_obsidian31 = require("obsidian");
 
 // virtual-module:virtual:release-notes
-var releaseNotes = '<a href="https://www.youtube.com/watch?v=tfNqEAQuhXs">\n  <img src="https://pixel-banner.online/img/pixel-banner-v3.6.jpg" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.6.0</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Support for \u{1F3AC} Video Banners!<ul>\n<li>Upload and choose Video files as banners from your vault</li>\n<li>Downloadable \u{1F3AC} Video Banners from the <code>Pixel Banner Plus Collection</code></li>\n</ul>\n</li>\n<li>Added paging controls to the <code>Pixel Banner Plus Collection</code></li>\n<li>New global <code>Banner Max Width</code> setting to control the default max width for all banners</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>Default Saved Banners Folder</code> setting to the <code>General</code> tab</li>\n<li>Renamed <code>Pixel Banner Plus Store</code> to <code>Pixel Banner Plus Collection</code> as many items are free</li>\n</ul>\n<h3>v3.6.1</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with Icon Image selection modal not setting the selected icon image</li>\n</ul>\n<h3>v3.6.2</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Improved debounce logic to prevent multiple banner reloads when opening a note</li>\n</ul>\n<h3>v3.6.3</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Added <code>filesize</code> display to the store modal</li>\n</ul>\n<h3>v3.6.4</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Banner images now support local <code>file</code> protocol for images outside of your vault (e.g. <code>file:///C:\\path\\banner.jpg</code>)</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Allow commas in banner filenames</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Ensure pinned banner is the currently displayed image when saving API banners</li>\n<li>Ensure banner icons are only rendered when a main banner image is present</li>\n<li>Banner Icon Image not always rendered until the note was clicked/focused</li>\n</ul>\n<h3>v3.6.5</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fix refresh button to use original comma-separated keywords from frontmatter instead of the cached single keyword</li>\n<li>Resolved issue with the default x/y frontmatter fields not being hidden when the &quot;Hide Pixel Banner Fields&quot; option is enabled</li>\n<li>Updated API call for <code>Pexels</code> to conform to spec changes on their side</li>\n</ul>\n<h3>v3.6.6</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>New folder group entries now inherit the user&#39;s default Content Start Position setting instead of being hardcoded to 150px</li>\n</ul>\n<h3>v3.6.8</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li><strong>Pin Choice Modal</strong>: When pinning API images, users can now choose between saving locally or pinning the URL directly to frontmatter<ul>\n<li>New choice modal presents &quot;Save Image Locally&quot; vs &quot;Pin Image URL&quot; options</li>\n<li>URL pinning saves no storage space in vault but requires internet connection</li>\n<li>Local saving remains available for offline access and permanence</li>\n<li>Choice only appears for user-initiated pin actions (pin icon, command palette)</li>\n<li>AI generation and Pixel Banner Plus continue to save locally automatically</li>\n</ul>\n</li>\n<li><strong>Auto-Focus Enhancement</strong>: Folder selection modal now automatically focuses and selects the text input for improved workflow</li>\n</ul>\n<h3>v3.6.7</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fixed ImageViewModal to properly display banner images and videos when clicking the &quot;Show View Image Icon&quot;<ul>\n<li>Added support for MP4 and MOV video files in the ImageViewModal with proper video player controls</li>\n<li>Correctly display actual image URLs instead of keywords for 3rd party API banners in the ImageViewModal</li>\n<li>Local images, videos, and file:/// paths maintain original display behavior</li>\n</ul>\n</li>\n</ul>\n<h3>v3.6.8</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li><strong>Pin Choice Modal</strong>: When pinning API images, users can now choose between saving locally or pinning the URL directly to frontmatter<ul>\n<li>New choice modal presents &quot;Save Image Locally&quot; vs &quot;Pin Image URL&quot; options</li>\n<li>URL pinning saves no storage space in vault but requires internet connection</li>\n<li>Local saving remains available for offline access and permanence</li>\n<li>Choice only appears for user-initiated pin actions (pin icon, command palette)</li>\n<li>AI generation and Pixel Banner Plus continue to save locally automatically</li>\n</ul>\n</li>\n<li><strong>Auto-Focus Enhancement</strong>: Folder selection modal now automatically focuses and selects the text input for improved workflow</li>\n<li><code>Enter</code> button support for submitting the save image form in the <code>Save Image Modal</code></li>\n<li>New <code>Pin Image URL</code> option to save API images directly as URL references in frontmatter without downloading to vault</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Replaced manual frontmatter string manipulation with Obsidian&#39;s native processFrontMatter API for more reliable metadata updates</li>\n</ul>\n<h3>v3.6.9</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>New <code>Icon Image Size Multiplier</code> setting to the <code>General</code> settings tab to control the global size of banner icon images</li>\n<li>Check for version updates when opening <code>General</code> settings and show update button if available</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>AI Model</code> selection from radio buttons to a dropdown for better organization</li>\n<li>Changed default banner fade value from <code>-70</code> to <code>-40</code></li>\n</ul>\n<h3>v3.6.10</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Icon images and emojis not being displayed properly</li>\n</ul>\n<a href="https://www.youtube.com/watch?v=pJFsMfrWak4">\n  <img src="https://pixel-banner.online/img/pixel-banner-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n';
+var releaseNotes = '<a href="https://www.youtube.com/watch?v=tfNqEAQuhXs">\n  <img src="https://pixel-banner.online/img/pixel-banner-v3.6.jpg" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n\n<h2>\u{1F389} What&#39;s New</h2>\n<h3>v3.6.0</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Support for \u{1F3AC} Video Banners!<ul>\n<li>Upload and choose Video files as banners from your vault</li>\n<li>Downloadable \u{1F3AC} Video Banners from the <code>Pixel Banner Plus Collection</code></li>\n</ul>\n</li>\n<li>Added paging controls to the <code>Pixel Banner Plus Collection</code></li>\n<li>New global <code>Banner Max Width</code> setting to control the default max width for all banners</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>Default Saved Banners Folder</code> setting to the <code>General</code> tab</li>\n<li>Renamed <code>Pixel Banner Plus Store</code> to <code>Pixel Banner Plus Collection</code> as many items are free</li>\n</ul>\n<h3>v3.6.1</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved issue with Icon Image selection modal not setting the selected icon image</li>\n</ul>\n<h3>v3.6.2</h3>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Improved debounce logic to prevent multiple banner reloads when opening a note</li>\n</ul>\n<h3>v3.6.3</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Added <code>filesize</code> display to the store modal</li>\n</ul>\n<h3>v3.6.4</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>Banner images now support local <code>file</code> protocol for images outside of your vault (e.g. <code>file:///C:\\path\\banner.jpg</code>)</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Allow commas in banner filenames</li>\n</ul>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Ensure pinned banner is the currently displayed image when saving API banners</li>\n<li>Ensure banner icons are only rendered when a main banner image is present</li>\n<li>Banner Icon Image not always rendered until the note was clicked/focused</li>\n</ul>\n<h3>v3.6.5</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fix refresh button to use original comma-separated keywords from frontmatter instead of the cached single keyword</li>\n<li>Resolved issue with the default x/y frontmatter fields not being hidden when the &quot;Hide Pixel Banner Fields&quot; option is enabled</li>\n<li>Updated API call for <code>Pexels</code> to conform to spec changes on their side</li>\n</ul>\n<h3>v3.6.6</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>New folder group entries now inherit the user&#39;s default Content Start Position setting instead of being hardcoded to 150px</li>\n</ul>\n<h3>v3.6.8</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li><strong>Pin Choice Modal</strong>: When pinning API images, users can now choose between saving locally or pinning the URL directly to frontmatter<ul>\n<li>New choice modal presents &quot;Save Image Locally&quot; vs &quot;Pin Image URL&quot; options</li>\n<li>URL pinning saves no storage space in vault but requires internet connection</li>\n<li>Local saving remains available for offline access and permanence</li>\n<li>Choice only appears for user-initiated pin actions (pin icon, command palette)</li>\n<li>AI generation and Pixel Banner Plus continue to save locally automatically</li>\n</ul>\n</li>\n<li><strong>Auto-Focus Enhancement</strong>: Folder selection modal now automatically focuses and selects the text input for improved workflow</li>\n</ul>\n<h3>v3.6.7</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Fixed ImageViewModal to properly display banner images and videos when clicking the &quot;Show View Image Icon&quot;<ul>\n<li>Added support for MP4 and MOV video files in the ImageViewModal with proper video player controls</li>\n<li>Correctly display actual image URLs instead of keywords for 3rd party API banners in the ImageViewModal</li>\n<li>Local images, videos, and file:/// paths maintain original display behavior</li>\n</ul>\n</li>\n</ul>\n<h3>v3.6.8</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li><strong>Pin Choice Modal</strong>: When pinning API images, users can now choose between saving locally or pinning the URL directly to frontmatter<ul>\n<li>New choice modal presents &quot;Save Image Locally&quot; vs &quot;Pin Image URL&quot; options</li>\n<li>URL pinning saves no storage space in vault but requires internet connection</li>\n<li>Local saving remains available for offline access and permanence</li>\n<li>Choice only appears for user-initiated pin actions (pin icon, command palette)</li>\n<li>AI generation and Pixel Banner Plus continue to save locally automatically</li>\n</ul>\n</li>\n<li><strong>Auto-Focus Enhancement</strong>: Folder selection modal now automatically focuses and selects the text input for improved workflow</li>\n<li><code>Enter</code> button support for submitting the save image form in the <code>Save Image Modal</code></li>\n<li>New <code>Pin Image URL</code> option to save API images directly as URL references in frontmatter without downloading to vault</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Replaced manual frontmatter string manipulation with Obsidian&#39;s native processFrontMatter API for more reliable metadata updates</li>\n</ul>\n<h3>v3.6.9</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>New <code>Icon Image Size Multiplier</code> setting to the <code>General</code> settings tab to control the global size of banner icon images</li>\n<li>Check for version updates when opening <code>General</code> settings and show update button if available</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Moved <code>AI Model</code> selection from radio buttons to a dropdown for better organization</li>\n<li>Changed default banner fade value from <code>-70</code> to <code>-40</code></li>\n</ul>\n<h3>v3.6.10</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Icon images and emojis not being displayed properly</li>\n</ul>\n<h3>v3.6.11</h3>\n<h4>\u2728 Added</h4>\n<ul>\n<li>New toggle to turn on/off <code>Pixel Banner Plus</code> in the main Pixel Banner select modal</li>\n</ul>\n<h4>\u{1F4E6} Updated</h4>\n<ul>\n<li>Added unquoted wiki-link support for Image Icons paths (e.g. <code>[[path/icon.png]]</code>)</li>\n<li>Misc code cleanup</li>\n</ul>\n<h3>v3.6.12</h3>\n<h4>\u{1F41B} Fixed</h4>\n<ul>\n<li>Resolved inccorect <code>Pixel Banner Plus Server</code> URL</li>\n</ul>\n<a href="https://www.youtube.com/watch?v=pJFsMfrWak4">\n  <img src="https://pixel-banner.online/img/pixel-banner-transparent-bg.png" alt="Pixel Banner" style="max-width: 400px;">\n</a>\n';
 
 // src/settings/settings.js
 var import_obsidian6 = require("obsidian");
@@ -31323,8 +31453,8 @@ var FolderImageSetting = class extends import_obsidian2.Setting {
       this.folderImage.bannerIconBorderRadius = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian2.Setting(controlEl5).setName("Icon Vertical Offset").addSlider((slider) => slider.setLimits(-100, 100, 1).setValue(this.folderImage.bannerIconVeritalOffset || this.plugin.settings.bannerIconVeritalOffset).setDynamicTooltip().onChange(async (value) => {
-      this.folderImage.bannerIconVeritalOffset = value;
+    new import_obsidian2.Setting(controlEl5).setName("Icon Vertical Offset").addSlider((slider) => slider.setLimits(-100, 100, 1).setValue(this.folderImage.bannerIconVerticalOffset || this.plugin.settings.bannerIconVerticalOffset).setDynamicTooltip().onChange(async (value) => {
+      this.folderImage.bannerIconVerticalOffset = value;
       await this.plugin.saveSettings();
     }));
   }
@@ -31559,7 +31689,7 @@ function createCustomFieldsSettings(containerEl, plugin) {
       placeholder: "banner-icon-border-radius, icon-border-radius"
     },
     {
-      setting: "customBannerIconVeritalOffsetField",
+      setting: "customBannerIconVerticalOffsetField",
       name: "Banner Icon Vertical Offset Field Names",
       desc: "Set custom field names for the banner icon vertical offset in frontmatter",
       values: "-50, 0, 50",
@@ -32319,7 +32449,7 @@ function createGeneralSettings(containerEl, plugin) {
       console.error("Failed to save settings:", error);
     }
   }));
-  new import_obsidian4.Setting(containerEl).setName("Image Property Format").setDesc("Set the format for the banner property value.").addDropdown((dropdown) => dropdown.addOption("![[image]]", "![[image]]").addOption("[[image]]", "[[image]]").setValue(plugin.settings.imagePropertyFormat).onChange(async (value) => {
+  new import_obsidian4.Setting(containerEl).setName("Image Property Format").setDesc("Set the format for the banner property value.").addDropdown((dropdown) => dropdown.addOption("image", "image").addOption("[[image]]", "[[image]]").addOption("![[image]]", "![[image]]").setValue(plugin.settings.imagePropertyFormat).onChange(async (value) => {
     try {
       plugin.settings.imagePropertyFormat = value;
       await plugin.saveSettings();
@@ -32611,19 +32741,19 @@ function createGeneralSettings(containerEl, plugin) {
       console.error("Failed to save settings:", error);
     }
   }));
-  new import_obsidian4.Setting(containerEl).setName("Default Banner Icon Vertical Offset").setDesc("Set the default vertical offset for the banner icon").addSlider((slider) => slider.setLimits(-100, 100, 1).setValue(plugin.settings.bannerIconVeritalOffset).setDynamicTooltip().onChange(async (value) => {
+  new import_obsidian4.Setting(containerEl).setName("Default Banner Icon Vertical Offset").setDesc("Set the default vertical offset for the banner icon").addSlider((slider) => slider.setLimits(-100, 100, 1).setValue(plugin.settings.bannerIconVerticalOffset).setDynamicTooltip().onChange(async (value) => {
     try {
-      plugin.settings.bannerIconVeritalOffset = value;
+      plugin.settings.bannerIconVerticalOffset = value;
       await plugin.saveSettings();
     } catch (error) {
       console.error("Failed to save settings:", error);
     }
   })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(async () => {
     try {
-      plugin.settings.bannerIconVeritalOffset = DEFAULT_SETTINGS.bannerIconVeritalOffset;
+      plugin.settings.bannerIconVerticalOffset = DEFAULT_SETTINGS.bannerIconVerticalOffset;
       await plugin.saveSettings();
       const sliderInput = button.extraSettingsEl.parentElement.querySelector('input[type="range"]');
-      sliderInput.value = DEFAULT_SETTINGS.bannerIconVeritalOffset;
+      sliderInput.value = DEFAULT_SETTINGS.bannerIconVerticalOffset;
       const event = new Event("input", { bubbles: true, cancelable: true });
       sliderInput.dispatchEvent(event);
     } catch (error) {
@@ -32988,7 +33118,7 @@ var DEFAULT_SETTINGS = {
   customBannerIconPaddingXField: ["icon-padding-x"],
   customBannerIconPaddingYField: ["icon-padding-y"],
   customBannerIconBorderRadiusField: ["icon-border-radius"],
-  customBannerIconVeritalOffsetField: ["icon-y"],
+  customBannerIconVerticalOffsetField: ["icon-y"],
   customBannerIconImageAlignmentField: ["banner-icon-image-alignment"],
   customFlagColorField: ["pixel-banner-flag-color"],
   folderImages: [],
@@ -33003,7 +33133,7 @@ var DEFAULT_SETTINGS = {
   showPinIcon: false,
   pinnedImageFolder: "pixel-banner-images",
   pinnedImageFilename: "pixel-banner-image",
-  imagePropertyFormat: "![[image]]",
+  imagePropertyFormat: "image",
   showReleaseNotes: true,
   lastVersion: null,
   showRefreshIcon: false,
@@ -33033,7 +33163,7 @@ var DEFAULT_SETTINGS = {
   bannerIconPaddingX: "10",
   bannerIconPaddingY: "10",
   bannerIconBorderRadius: "17",
-  bannerIconVeritalOffset: "0",
+  bannerIconVerticalOffset: "0",
   bannerIconImageAlignment: "left",
   openTargetingModalAfterSelectingBannerOrIcon: true,
   enableDailyGame: false
@@ -33336,7 +33466,16 @@ async function handleSetBannerIconImage(plugin) {
             });
           });
         }
-        frontmatter[bannerIconImageField] = imagePath;
+        const format = plugin.settings.imagePropertyFormat;
+        let iconValue;
+        if (format === "image") {
+          iconValue = imagePath;
+        } else if (format === "[[image]]") {
+          iconValue = `[[${imagePath}]]`;
+        } else {
+          iconValue = `![[${imagePath}]]`;
+        }
+        frontmatter[bannerIconImageField] = iconValue;
       });
       const metadataUpdated = new Promise((resolve) => {
         let eventRef = null;
@@ -33871,9 +34010,9 @@ async function addPixelBanner(plugin, el, ctx) {
           17
         ]);
         const bannerIconVerticalOffset = getValueWithZeroCheck([
-          getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVeritalOffsetField),
-          folderSpecific == null ? void 0 : folderSpecific.bannerIconVeritalOffset,
-          plugin.settings.bannerIconVeritalOffset,
+          getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVerticalOffsetField),
+          folderSpecific == null ? void 0 : folderSpecific.bannerIconVerticalOffset,
+          plugin.settings.bannerIconVerticalOffset,
           0
         ]);
         const bannerIconRotate = getValueWithZeroCheck([
@@ -33930,13 +34069,7 @@ async function addPixelBanner(plugin, el, ctx) {
         }
         previewViewEl.style.setProperty("--pixel-banner-alignment", alignmentValue);
         previewViewEl.style.setProperty("--pixel-banner-icon-start", `${bannerHeight - bannerIconSize / 2}px`);
-        let bannerIconVeritalOffset = Number(getValueWithZeroCheck([
-          getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVeritalOffsetField),
-          folderSpecific == null ? void 0 : folderSpecific.bannerIconVeritalOffset,
-          plugin.settings.bannerIconVeritalOffset,
-          0
-        ]));
-        const contentStart = !hideEmbeddedNoteBanners ? `${parseInt(bannerHeight) + parseInt(bannerIconSize) / 2 + parseInt(bannerIconVeritalOffset) + parseInt(bannerIconPaddingY)}px` : "0px";
+        const contentStart = !hideEmbeddedNoteBanners ? `${parseInt(bannerHeight) + parseInt(bannerIconSize) / 2 + parseInt(bannerIconVerticalOffset) + parseInt(bannerIconPaddingY)}px` : "0px";
         previewViewEl.style.setProperty("--pixel-banner-content-start", contentStart);
       }
     }
@@ -34416,7 +34549,9 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
   if (bannerImage) {
     if (Array.isArray(bannerImage)) {
       bannerImage = bannerImage.flat()[0];
-      bannerImage = `[[${bannerImage}]]`;
+      if (bannerImage && !bannerImage.startsWith("[[") && !bannerImage.startsWith("![[")) {
+        bannerImage = `[[${bannerImage}]]`;
+      }
     }
     if (typeof bannerImage === "string" && !bannerImage.startsWith("[[") && !bannerImage.startsWith("![[") && !bannerImage.startsWith("http")) {
       if (bannerImage.includes(",")) {
@@ -34433,7 +34568,7 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
         }
       }
     }
-    if (bannerImage && (!bannerImage.startsWith("[[") || !bannerImage.startsWith("![[")) && !bannerImage.startsWith("http")) {
+    if (bannerImage && !bannerImage.startsWith("[[") && !bannerImage.startsWith("![[") && !bannerImage.startsWith("http")) {
       const file = plugin.app.vault.getAbstractFileByPath(bannerImage);
       if (file && "extension" in file) {
         if (file.extension.match(/^(jpg|jpeg|png|gif|bmp|svg)$/i)) {
@@ -34535,7 +34670,13 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
     plugin.updateFieldVisibility(view);
   }
   const bannerIcon = getFrontmatterValue(frontmatter, plugin.settings.customBannerIconField);
-  const bannerIconImage = getFrontmatterValue(frontmatter, plugin.settings.customBannerIconImageField);
+  let bannerIconImage = getFrontmatterValue(frontmatter, plugin.settings.customBannerIconImageField);
+  if (Array.isArray(bannerIconImage)) {
+    bannerIconImage = bannerIconImage.flat()[0];
+    if (bannerIconImage && !bannerIconImage.startsWith("[[") && !bannerIconImage.startsWith("![[")) {
+      bannerIconImage = `[[${bannerIconImage}]]`;
+    }
+  }
   if (isEmbedded) {
     const embedContainer = contentEl.querySelector(".markdown-preview-sizer") || contentEl.querySelector(".markdown-embed-content") || contentEl;
     const thisEmbedOverlays = embedContainer.querySelectorAll(':scope > .banner-icon-overlay:not([data-persistent="true"])');
@@ -34613,8 +34754,8 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
           plugin.settings.bannerIconBorderRadius
         ]),
         verticalOffset: getValueWithZeroCheck([
-          getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVeritalOffsetField),
-          plugin.settings.bannerIconVeritalOffset
+          getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVerticalOffsetField),
+          plugin.settings.bannerIconVerticalOffset
         ]),
         imageAlignment: getFrontmatterValue(frontmatter, plugin.settings.customBannerIconImageAlignmentField) || plugin.settings.bannerIconImageAlignment,
         viewType
@@ -34635,8 +34776,9 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
       const imageAlignment = currentIconState.imageAlignment === "right" ? "right" : "left";
       let imgElement = null;
       if (bannerIconImage) {
-        const inputType = plugin.getInputType(bannerIconImage, view.file.path);
+        const inputType = plugin.getIconImageInputType(bannerIconImage, view.file.path);
         let imagePath = null;
+        let resolvedVaultPath = null;
         if (inputType === "invalid") {
           console.warn("Invalid banner icon image value detected:", bannerIconImage);
         } else {
@@ -34673,10 +34815,20 @@ async function updateBanner(plugin, view, isContentChange, updateMode = plugin.U
               }
               break;
             case "vaultPath":
-              imagePath = plugin.loadedImages.get(bannerIconImage);
-              if (!imagePath) {
-                imagePath = await plugin.getVaultImageUrl(bannerIconImage);
-                if (imagePath) plugin.loadedImages.set(bannerIconImage, imagePath);
+              const cleanedInput = bannerIconImage.trim().replace(/^["'](.*)["']$/, "$1");
+              let resolvedFile = plugin.app.vault.getAbstractFileByPath(cleanedInput);
+              if (!resolvedFile) {
+                resolvedFile = plugin.app.metadataCache.getFirstLinkpathDest(cleanedInput, view.file.path);
+              }
+              if (resolvedFile && "path" in resolvedFile) {
+                resolvedVaultPath = resolvedFile.path;
+                imagePath = plugin.loadedImages.get(resolvedVaultPath);
+                if (!imagePath) {
+                  imagePath = await plugin.getVaultImageUrl(resolvedVaultPath);
+                  if (imagePath) plugin.loadedImages.set(resolvedVaultPath, imagePath);
+                }
+              } else {
+                console.warn("[Icon Image] Could not resolve vault path:", cleanedInput);
               }
               break;
             case "url":
@@ -34791,10 +34943,10 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
     plugin.settings.bannerIconBorderRadius,
     17
   ]);
-  const bannerIconVeritalOffset = getValueWithZeroCheck([
-    Number(getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVeritalOffsetField)),
-    folderSpecific == null ? void 0 : folderSpecific.bannerIconVeritalOffset,
-    plugin.settings.bannerIconVeritalOffset,
+  const bannerIconVerticalOffset = getValueWithZeroCheck([
+    Number(getFrontmatterValue(frontmatter, plugin.settings.customBannerIconVerticalOffsetField)),
+    folderSpecific == null ? void 0 : folderSpecific.bannerIconVerticalOffset,
+    plugin.settings.bannerIconVerticalOffset,
     0
   ]);
   const bannerIconRotate = getValueWithZeroCheck([
@@ -34838,11 +34990,11 @@ function applyBannerSettings(plugin, bannerDiv, ctx, isEmbedded) {
     "--pixel-banner-icon-padding-x": `${bannerIconPaddingX}px`,
     "--pixel-banner-icon-padding-y": `${bannerIconPaddingY}px`,
     "--pixel-banner-icon-border-radius": `${bannerIconBorderRadius}px`,
-    "--pixel-banner-icon-vertical-offset": `${bannerIconVeritalOffset}px`,
+    "--pixel-banner-icon-vertical-offset": `${bannerIconVerticalOffset}px`,
     "--pixel-banner-icon-rotate": `${bannerIconRotate}deg`,
     "--pixel-banner-icon-image-size-multiplier": `${bannerIconImageSizeMultiplier}em`,
     "--pixel-banner-icon-text-vertical-offset": `${bannerIconTextVerticalOffset}px`,
-    "--pixel-banner-embed-min-height": !hideEmbeddedNoteBanners ? `${parseInt(bannerHeight) + parseInt(bannerIconSize) / 2 + parseInt(bannerIconVeritalOffset) + parseInt(bannerIconPaddingY)}px` : "0px",
+    "--pixel-banner-embed-min-height": !hideEmbeddedNoteBanners ? `${parseInt(bannerHeight) + parseInt(bannerIconSize) / 2 + parseInt(bannerIconVerticalOffset) + parseInt(bannerIconPaddingY)}px` : "0px",
     "--pixel-banner-alignment": alignmentValue
   };
   bannerDiv.style.backgroundSize = imageDisplay || "cover";
@@ -35064,6 +35216,43 @@ function preloadImage(url) {
     img.src = url;
   });
 }
+function getIconImageInputType(input, sourcePath = "") {
+  if (Array.isArray(input)) {
+    input = input.flat()[0];
+  }
+  if (typeof input !== "string") {
+    return "invalid";
+  }
+  let cleanedInput = input.trim().replace(/^["'](.*)["']$/, "$1");
+  cleanedInput = cleanedInput.replace(/^!\[\[(.*)\]\]$/, "$1").replace(/^\[\[(.*)\]\]$/, "$1");
+  if (cleanedInput.includes("file:///")) {
+    return "fileUrl";
+  }
+  if (input.match(/^!?\[{2}.*\]{2}$/) || input.match(/^"?!?\[{2}.*\]{2}"?$/)) {
+    return "obsidianLink";
+  }
+  if (input.match(/^!\[\]\(.*\)$/) || input.match(/^"?!\[\]\(.*\)"?$/)) {
+    return "markdownImage";
+  }
+  try {
+    new URL(cleanedInput);
+    return "url";
+  } catch (_) {
+    const file = this.app.vault.getAbstractFileByPath(cleanedInput);
+    if (file && "extension" in file) {
+      if (file.extension.match(/^(jpg|jpeg|png|gif|bmp|svg|avif)$/i)) {
+        return "vaultPath";
+      }
+    }
+    const resolvedFile = this.app.metadataCache.getFirstLinkpathDest(cleanedInput, sourcePath);
+    if (resolvedFile && "extension" in resolvedFile) {
+      if (resolvedFile.extension.match(/^(jpg|jpeg|png|gif|bmp|svg|avif)$/i)) {
+        return "vaultPath";
+      }
+    }
+    return "keyword";
+  }
+}
 function getFolderPath(filePath) {
   if (!filePath) return "/";
   if (!filePath.includes("/")) {
@@ -35243,7 +35432,7 @@ async function handleActiveLeafChange(leaf) {
           ...this.settings.customBannerIconPaddingXField,
           ...this.settings.customBannerIconPaddingYField,
           ...this.settings.customBannerIconBorderRadiusField,
-          ...this.settings.customBannerIconVeritalOffsetField
+          ...this.settings.customBannerIconVerticalOffsetField
         ];
         const hasRelevantChanges = relevantFields.some(
           (field) => {
@@ -35275,7 +35464,7 @@ async function handleActiveLeafChange(leaf) {
         paddingX: getFrontmatterValue(frontmatter, this.settings.customBannerIconPaddingXField) || this.settings.bannerIconPaddingX,
         paddingY: getFrontmatterValue(frontmatter, this.settings.customBannerIconPaddingYField) || this.settings.bannerIconPaddingY,
         borderRadius: getFrontmatterValue(frontmatter, this.settings.customBannerIconBorderRadiusField) || this.settings.bannerIconBorderRadius,
-        verticalOffset: getFrontmatterValue(frontmatter, this.settings.customBannerIconVeritalOffsetField) || this.settings.bannerIconVeritalOffset
+        verticalOffset: getFrontmatterValue(frontmatter, this.settings.customBannerIconVerticalOffsetField) || this.settings.bannerIconVerticalOffset
       } : null;
       this.bannerStateCache.set(cacheKey, {
         timestamp: currentTime,
@@ -35487,7 +35676,7 @@ function updateFieldVisibility(view) {
     ...this.settings.customBannerIconPaddingXField,
     ...this.settings.customBannerIconPaddingYField,
     ...this.settings.customBannerIconBorderRadiusField,
-    ...this.settings.customBannerIconVeritalOffsetField,
+    ...this.settings.customBannerIconVerticalOffsetField,
     ...this.settings.customFlagColorField
   ];
   const propertiesContainer = view.contentEl.querySelector(".metadata-container");
@@ -35698,6 +35887,9 @@ var PixelBannerPlugin = class extends import_obsidian31.Plugin {
   getInputType(input, sourcePath = "") {
     return getInputType.call(this, input, sourcePath);
   }
+  getIconImageInputType(input, sourcePath = "") {
+    return getIconImageInputType.call(this, input, sourcePath);
+  }
   getPathFromObsidianLink(link) {
     return getPathFromObsidianLink.call(this, link);
   }
@@ -35845,7 +36037,7 @@ var PixelBannerPlugin = class extends import_obsidian31.Plugin {
           ...this.settings.customBannerIconPaddingXField,
           ...this.settings.customBannerIconPaddingYField,
           ...this.settings.customBannerIconBorderRadiusField,
-          ...this.settings.customBannerIconVeritalOffsetField
+          ...this.settings.customBannerIconVerticalOffsetField
         ];
         const changedFields = relevantFields.filter(
           (field) => frontmatter[field] !== (previousFrontmatter == null ? void 0 : previousFrontmatter[field])
@@ -36283,7 +36475,7 @@ var PixelBannerPlugin = class extends import_obsidian31.Plugin {
             ...this.settings.customBannerIconPaddingXField,
             ...this.settings.customBannerIconPaddingYField,
             ...this.settings.customBannerIconBorderRadiusField,
-            ...this.settings.customBannerIconVeritalOffsetField
+            ...this.settings.customBannerIconVerticalOffsetField
           ];
           const rows = frontmatterEl.querySelectorAll(".frontmatter-container .frontmatter-section-label");
           rows.forEach((row) => {

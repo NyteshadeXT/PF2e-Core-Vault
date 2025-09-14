@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "charlatans-gloves"
             }
+          },
+          {
+            "id": "3c03d4b074f61ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Hall of Harsh Reflections"
+            }
+          },
+          {
+            "id": "06215064e37f9f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/DC Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DC Calculator"
+            }
+          },
+          {
+            "id": "967ace6983fb9b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tarquin Shortstone"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "3694d2a61e632d77",
@@ -180,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,36 +243,39 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "efa2b022bfafec0e",
+  "active": "3c03d4b074f61ef1",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/charlatans-cape.md",
+    "3-Rules/Skills.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Bestiaries/Uniques/Elaxan.md",
+    "3-Rules/Bestiaries/Uniques/Ixiaxian.md",
+    "3-Rules/Bestiaries/Uniques/Filge.md",
+    "zz-Attachments/crooked-house-tavern.png",
+    "3-Rules/Bestiaries/Uniques/Hishka.md",
+    "3-Rules/Bestiaries/Uniques/Garras.md",
+    "3-Rules/Bestiaries/NPC Core/Abbot of Abadar.md",
+    "3-Rules/Bestiaries/Uniques/Zyrxog.md",
+    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
+    "zz-Attachments/tarquin-shortstone.png",
+    "5-World/NPCs/Ardentia City/Loris Raknian.md",
+    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
+    "5-World/NPCs/Ardentia City/Eligos.md",
+    "zz-Attachments/Eligos.png",
+    "5-World/Factions/Luminous Vanguard.md",
+    "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
+    "5-World/NPCs/Ardentia City/Elowen Stormweaver.md",
+    "5-World/Kingdoms/Emberhold.md",
+    "5-World/Kingdoms/Ironhelm Citadel.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "5-World/Districts/Haven.md",
+    "5-World/Districts/Merchant's Quarter.md",
+    "5-World/Districts/Shattered Ward.md",
+    "5-World/Districts/Seekers Quarter.md",
+    "5-World/Maps/Aetheria Fracta.md",
+    "1-GM Toolkit/DunGen (Random Dungeon Generator).md",
     "zz-Attachments/charlatans-cape.png",
-    "3-Rules/Character Building/Equipment/C/chaplains-cudgel.md",
-    "3-Rules/Character Building/Equipment/C/chaos-falcon-feather.md",
-    "3-Rules/Character Building/Equipment/C/chaos-collar.md",
-    "3-Rules/Character Building/Equipment/C/channel-protection-amulet.md",
-    "3-Rules/Character Building/Equipment/C/chameleon-suit-major.md",
-    "3-Rules/Character Building/Equipment/C/chameleon-suit-greater.md",
-    "3-Rules/Character Building/Equipment/C/chameleon-suit.md",
-    "3-Rules/Character Building/Equipment/C/chalk.md",
-    "3-Rules/Character Building/Equipment/C/chalice-of-ozem.md",
-    "3-Rules/Character Building/Equipment/C/chalice-of-justice.md",
-    "3-Rules/Character Building/Equipment/C/chakram.md",
-    "3-Rules/Character Building/Equipment/C/chain.md",
-    "3-Rules/Character Building/Equipment/C/cerulean-scourge.md",
-    "3-Rules/Character Building/Equipment/C/chakri.md",
-    "3-Rules/Character Building/Equipment/C/Chakri.md",
-    "3-Rules/Character Building/Equipment/C/chair-of-inventions.md",
-    "3-Rules/Character Building/Equipment/C/Chair of Inventions.md",
-    "3-Rules/Character Building/Equipment/C/chain-sword.md",
     "zz-Attachments/chain-sword.png",
-    "3-Rules/Character Building/Equipment/C/chain-of-the-stilled-spirit.md",
-    "3-Rules/Character Building/Equipment/C/chain-of-stars.md",
-    "3-Rules/Character Building/Equipment/C/chain-mail.md",
-    "3-Rules/Character Building/Equipment/C/ceramic-plate.md",
-    "3-Rules/Character Building/Equipment/C/celestial-staff.md",
-    "3-Rules/Character Building/Equipment/C/celestial-peachwood-sword.md",
-    "3-Rules/Character Building/Equipment/C/celestial-peach-rejuvenation.md",
     "zz-Attachments/caydens-tankard.png",
     "zz-Attachments/caydens-brew.png",
     "zz-Attachments/cauthooj-bagpipes.png",

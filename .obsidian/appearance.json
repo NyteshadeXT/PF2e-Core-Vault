@@ -11,7 +11,8 @@
     "pf2e-statblock",
     "image-float",
     "pf2e-items",
-    "HoverProperties_-_Columns"
+    "HoverProperties_-_Columns",
+    "pf2e-spell"
   ],
   "baseFontSize": 16
 }

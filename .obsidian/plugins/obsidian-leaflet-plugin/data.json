@@ -234,7 +234,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1754674000083,
+      "lastAccessed": 1757600317927,
       "markers": [
         {
           "id": "ID_d8795bc9caaa",
@@ -256,15 +256,14 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5-World/Districts/Haven.md",
-        "5-World/Dungeons/Aetherial Observatory.md",
         "5-World/Districts/Merchant's Circle.md",
-        "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md"
+        "5-World/Districts/Seekers Quarter.md",
+        "5-World/Districts/Shattered Ward.md"
       ]
     },
     {
       "id": "update-me",
-      "lastAccessed": 1756182034545,
+      "lastAccessed": 1757600854340,
       "markers": [
         {
           "id": "ID_c8986bcbeb2a",
@@ -526,8 +525,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "zz-Templates/Markdown/Insert Dungeon Map (Leaflet).md",
-        "zz-Templates/Markdown/Insert Encounter Map (Leaflet).md"
+        "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
       ]
     }
   ],
