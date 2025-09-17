@@ -127,7 +127,7 @@ Once they're inside the Ardentia City, read or paraphrase the following to the P
 
 The following two encounters occur while the party travels between various locations on the streets of the [[Ardentia City]]. They can be used any time during the adventure, and are designed to breathe life into the urban environment and fill in the gaps during slow periods.
 
-### Event 1: Рarade of Thieves
+### Event 1: Parade of Thieves
 While making their way through Ardentia, the PCs find their progress blocked by a parade of street performers and a small menagerie making its way down the street, A large crowd has gathered on both. sides of the street, hoping to get a glimpse of exotic monsters and daring jugglers.
 
 > [!note]+ Read Aloud
@@ -218,7 +218,7 @@ When the party arrives, Tarquin is busy serving up a meal and asks if the PCs ar
 
 It is about this time that [[Loris Raknian]], director of the [[Bloodstone Arena]], learns of the party's arrival in town. He contacts [[Zyrxog]] and arranges for their destruction the same day, Although events are starting to move against them, the PCs have a few days to explore [[Ardentia City]], make purchases, and relax before the action begins.
 
-### Воdу Thíef
+### Body Thief
 While the PCs take time off, [[Tarquin]] encourages them to have a good time while staying at the Crooked House. The doppelganger agents who work for [[Zyrxog]] have already begun to observe the PCs, however, learning their habits and abilities while in the guise of common folk. One of them, a rogue named [[Ixiaxian]], has been charged with infiltrating the party. The switch occurs at some point after the PCs speak to [[Eligos]] but before event 3 begins. [[Ixiaxian]] remains hidden in the party until the real PC is rescued later in the adventure (see area D15).
 
 Before going ahead with this nefarious plot, you should carefully gauge your group. Pulling off this deception requires you to enter а conspiracy with one player against the rest of the group, a practice that is generally not recommended. If you feel that this would offend your group, feel free to omit this plot entirely.
@@ -239,19 +239,13 @@ Waiting until at least one of the PCs has gone to bed, [[Elaxan]] goes upstairs 
 
 [[Tarquin]] survives the attack but falls unconscious behind the bar (at -2 hit points and bleeding) with the dagger still in his chest. The crowd of assembled patrons quickly begins shouting at the PCs as [[Elaxan]] attempts to use his [[Skills#Diplomacy|Diplomacy]] skill to turn them against the PCs. If none of the PCs counter this with [[Skills#Diplomacy|Diplomacy]] of their own, this is a simple DC 21 check. Should the PCs resist, it becomes an opposed role. The crowd's initial attitude toward the PCs is unfriendly. Either side winning the check by 5 or more сап sway their attitude one step in either direction. Since these checks take 1 minute, sleeping PCs have plenty of time to join the commotion caused downstairs,.
 
-TAVERN PATRON (14) CR1 Male human commoner 2
-NG Medium humanoid
-Init -1; Senses Spot -1, Listen -1 Languages Common
-АС 9, touch 9, flat-footed 9
-hp 11 (2 HD)
-Fort +1, Ref-1, Will -1
-Spd 30 ft.
-Melee knife +2 (1d3+1/19-20) Ranged bottle -4 (1441)
-Base Atk +1; Grp +2
-Abilities Str 13, Dex 9, Con 12, Int 11, Wis 8, Cha 10
-Feats Skill Focus (profession), Toughness
-Skills Handle Animal «5, Profession (any one) 47, Use Rope +4
-Possessions two bottles, knife, 4 sp
+```encounter
+name: Parade of Thieves
+party: Age of Worms
+creatures:
+  - 1: Elaxan
+  - 14: Tavern Patron
+```
 
 **Tactics:** As this fight occurs in the taproom of the inn, you should determine if any of the PCs are wearing armor and what weapons they carry before the fight begins. [[Tarquin]] finds it rude to be fully armed and armored in his establishment, but lets it pass if the PCs are insistent or sweet talk him with a DC 23 [[Skills#Diplomacy|Diplomacy]] check. Unarmed PCs can fight using the same weapons as the patrons, knives (treat as daggers that deal 1d3), bottles (improvised weapons that deal 1d4) and chairs (improvised clubs). Throughout the fight, [[Elaxan]] uses Spring Attack to move up into a flanking position, take an attack, and back away before the PCs can retaliate, If dropped to below 10 hp, he attempts to flee, changing shape to that of a peasant woman the moment he is out of sight.
 
@@ -260,3 +254,122 @@ Possessions two bottles, knife, 4 sp
 If the PCs are arrested, they spend the night in jail, stripped of all their gear and spell components. In the morning, using their agents within the city watch, the doppelgangers have the PCs delivered to their hideout as noted in the sidebar "Delivered into Danger."
 
 Assuming [[Tarquin]] survives, he is very grateful to the party if they prove their innocence. He offers them free room and board for a month as reward. If the poor innkeeper dies as a result of the attack on his life, his son takes over the business soon after. Obviously, if the party members do not prove their innocence, they are forced to leave the fine establishment.
+
+> [!tip]+ Treasure
+> Elaxan gear consists of [[Scale Mail]], a [[Weapon Potency (+1)|+1]][[shortsword]] and currency in the amount of 4 gp and 6 sp.
+> 
+> - [ ] gp::4
+> - [ ] sp::6
+> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
+
+## Part 3: Sodden Hold
+![[sodden-hold-map.png]]
+Down on the banks of the Selintan River, outside the city walls, a large district has been built to service the docks and waterways around [[Ardentia City]]. In among the warehouses, taverns, and shops catering to mariners is a relatively unremarkable warehouse marked "Sodden Hold" in faded green paint. This stone warehouse has a moss-covered roof and is home to à band of doppelgangers, led by Telakin and controlled by a secretive mind flayer named Zyrxog.
+
+This group of shapechangers has spent years infiltrating the government of [[Ardentia City]], from minor nobles to town guards, and it is from this warehouse and the warrens below it that they plan their insidious schemes. Tasked by their hidden master to destroy the PCs and claim their gear, the band of doppelgangers has set events into motion to draw the PCs to their hideout.
+
+### Warehouse Level
+Unless otherwise stated, each chamber ofthe Sodden Hold warehouse is lit with everburning torches suspended from the ceiling 3o feet above. Both the interior and exterior walls are superior masonry walls, while the doors are made of strong wood.
+
+#### D1. Sodden Hold
+> [!note]+ Read Aloud
+> Lurking at the water's edge like a rotten log washed ashore, the warehouse marked “Sodden Hold” is built mostly of stone with a wood shingle roof thick with long, ropey moss. The entire building has a green hue, owing to the large patches of moss and mold that grow on its walls.
+
+A tall set of iron double doors marks the only entrance to the warehouse, as it has no windows. The doors are locked with a good-quality lock, requiring a DC 25 [[Skills#Thievery|Theivery]] check to open. Flaxan's key also opens this door. A DC 23 [[Skills#Survival|Survival]] check reveals that these doors have been used frequently despite the warehouse's abandoned appearance.
+
+#### D2. Storage Hall
+> [!note]+ Read Aloud
+> The doors open into a large space dominated by dozens of crates and barrels of various sizes. Lit by a number of faintly flickering torches above, a thick layer of dust covers much of the cargo stored here.
+
+This room is used by the doppelgangers to keep up appearances should any local officials stop by for an inspection. Most of the crates and barrels are filled with cheap goods such as rough cloth, spoiled ale, and chainmail links. There are numerous ways out of this chamber, including two doors on the south wall (both locked), a trapped false door on the north wall, and two doors up at the level of the catwalk that runs along the east side of the room (one of which is hidden).
+
+The catwalk on the east side of the room is 15 feet above the floor. The door on the south side of the catwalk leads to area D4 and is not locked. The door on the north side of the catwalk is hidden, requiring a DC 23 [[Skills#Perception|Perception]] check to locate. А DC 20 [[Skills#Survival|Survival]] check by a PC identifies the location of the door by the boot prints leading to it, but does not reveal how to open it. This hidden door leads to area D5 and it is not locked.
+
+Creatures: Three of the crates and barrels in this chamber are not what they appear to be. The doppelgangers keep a trio of mimics in this chamber to ward off any intruders that might break in. A [[Skills#Perception|Perception]] check opposed by the mimics’ [[Skills#Deception|Deception]] checks notices them hidden among the other crates before they attack. One of the barrels in this chamber contains a sour alcohol strong enough to dissolve the mimics’ adhesive.
+
+```encounter
+name: D2 Storage Hall
+party: Age of Worms
+creatures:
+  - 3: Elite Mimic
+```
+
+> [!danger]+ Trap
+> The false door leading out of this chamber is trapped. The door is not locked, but attempting to open the door sets off the trap, opening a wide pit in front of the door.
+> 
+> [[hidden-pit-upgrade-hb|Hidden Pit (Upgraded)]]
+
+#### D3. Abandoned Office 
+The door leading into this chamber is locked, requiring a DC 23 Open Lock check to pass.
+
+> [!note]+ Read Aloud
+> This dark chamber is absolutely packed with boxes and bookcases overflowing with ledgers and papers in no apparent order.
+
+> [!tip]+ Treasure
+> These papers detail a business that once ran in this building over 10 years ago. Going through all of the papers crammed into this room takes 10 minutes per [[Skills#Perception|Perception]] check. A successful DC 25 check uncovers a ring of sustenance accidentally discarded by the doppelgangers when they moved all of the refuse to this chamber.
+> 
+> - [ ] permanent::[[ring-of-sustenance|Ring of Sustenance]] [ilvl::7] [gp::325]
+
+#### D4. Rickety Ladder 
+The door leading into this chamber from the ground floor is locked, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open. The door above on the catwalk is unlocked. This small chamber contains a decrepit ladder leading up to a platform level with the catwalk in area D2. This chamber is littered with loose stones and dust.
+
+Attempting to climb the ladder causes it to collapse, bringing down a portion of the catwalk above as well. This deals `dice: 2d6` 2d6 points of damage from falling debris to all those adjacent to the ladder. A DC 21 Reflex save halves the damage.
+
+#### D5. Storage Cell
+The secret door from the catwalk leads to the top of a staircase that descends into an oblong chamber with only one exit. Along the north wall, a number of unlocked chests contain the belongings of the prisoners (Ilya and Gattel) in the cells of area D6. 
+
+> [!tip]+ Treasure
+> One chest contains Ilya's [[belt-of-good-health|Belt of Good Health]], signet rings, and embroidered sky blue cloak (worth 200 gp). Another has Gattel's [[spacious-pouch-(type-i)|Spacious Pouch (Type I)]] containing 43 gp. The other chests here contain the PC's gear if they are captured and put in one of the holding cells (as noted in the sidebar "Delivered into Danger").
+> 
+> - [ ] gp::43
+> - [ ] permanent::[[belt-of-good-health|Belt of Good Health]] [ilvl::4] [gp::85]
+> - [ ] permanent::[[spacious-pouch-(type-i)|Spacious Pouch (Type I)]] [ilvl::4] [gp::75]
+
+#### D6. Cells
+> [!aside|right]
+> **Delivered into Danger**
+> If the party is arrested for the attack on [[Tarquin Shortstone]]( or any other crime) they soon find themselves delivered to the dopplegangers late at night.  A small squad of guards puts them into a wagon cell pulled by a pair of horses and drives them down to Sodden Hold where they are transferred to the cells at area D6.  The PCs are split up into two groups, half in cell B and the other half in cell D.
+> 
+> Every night, a pair of doppelgangers (see area D6 for stats) comes to the prison to drag one of the captured characters into the haul and beat him into unconsciousness using nonlethal damage.  Once unconscious, the PC is taken below and a mind clone is made. This proceeds until all of the PCs are cloned, at which time are taken one at a time from their cells and killed.
+> 
+> Escaping from the cells is not easy, but it's far from impossible. The cells contain plenty of sticks and straws that could be used to pick the locks (at -2 penalty on the roll).  The party could attack the guards when they come to take one  of the characters below.  One of the previous occupants of cell B partially tunneled through the exterior wall of his cell, hidden behind the straw mattress. However, there is по tool to continue the work in the cell. Gattel has a bent spoon that would work, but convincing him to give it up requires а DC 21 [[Skills#Diplomacy|Diplomacy]] or [[Skills#Intimidation|Intimidate]] check. Once acquired, tunneling though the outside wall requires another 16 hours of work.
+> 
+> The guards in cell E do not leave their cell unless the party manages to free themselves from their cells, at which point they attack.
+> 
+> If the entire party is captured in this way, the gang goes to the inn and collects any gear they left behind (in their guise), which is added to any gear that was confiscated when the PCs were arrested. All of this gear is stored in the unlocked chests in area D5.
+
+> [!note]+ Read Aloud
+> This tall chamber contains five cells, each with a wall of iron bars facing the corridor that runs between them. A number of the cells are occupied, one with a young elven woman, one with a pair of young men, and another with what appears to be a dead man.
+
+These cells are used by the doppelgangers to keep prisoners they plan to impersonate, but do not yet wish to eliminate. Each cell consists of three reinforced masonry walls and one wall made of iron bars (treat as an iron portcullis) There is a simple straw mat, ceramic water bowl, and waste bucket in each cell. The entire room is lit by a pair of everburning torches suspended from the ceiling of the hallway. Each of the cells is locked with an average quality lock, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open.
+
+**Cell A:** This cell contains a young elven woman, Ilya Starmane (LG female elf aristocrat 4), who was abducted by the doppelgangers nearly a month ago (not that her family knows this). She is cold and untrusting of anyone that comes to speak with her, as the doppelgangers have been toying with her the whole time, delighting in her anguish. Her family is one of the lesser noble families in [[Ardentia City]], one of the key trading partners between the city and the nearby [[Mistwood Enclave]]. She has seen hundreds of different individuals come through this area in the past month, rarely the same person twice.
+
+**Cell B:** This cell is empty.
+
+**Cell C:** Although the resident of this cell appears to be dead, he is barely alive (stable at -7 health). The man, Gattel Watam (CN male human expert 5), was once a local tax collector before being captured by the doppelgangers 2 years ago. Аs one of the first subjects of the mind clone (see area D17), Gattel's mind has shattered, and if he's revived this becomes readily apparent. Gattel goes through periods of intense weeping, childish laughter, and haughty talk as if he were a highborn noble. He is only occasionally lucid enough to identify himself, an act usually followed by an attempt to end his life. The doppelgangers keep him alive because the mind clone procedure on him failed and they need to continue to impersonate him to collect funds.
+
+**Cell D:** Aside from some blood-soaked straw, this cell is empty.
+
+**Cell Е:** This cell contains two ordinary human men, both a bit soiled and tired looking. If spoken to, they claim to be Martal and Regim, members of the town guard captured a week ago. They speak in vague terms of the horrible things that happen here, including probing into their minds, severing and then reattaching limbs, and worse.
+
+In reality, Martal and Regim are the doppelganger guards of this small prison. The door to their cell has a hidden latch allowing them to open it from the inside. Underneath their straw mattress they һаvе stored а few pieces of gear. The duo begs to be released, but attacks the party once the door is opened. An opposed [[Sense Motive]] check versus the doppelgangers' [[Skills#Deception|Deception]] checks avoids being surprised on the first round of combat.
+
+MARTAL AND REGIM (2) CR6 Doppelganger fighter 4 М Medium monstrous humanoid (shapechanger) Monster Manual 67 Init +7; Senses Spot +5, Listen +5 Languages Common, Dwarven AC 22, touch 13, flat-footed 19; Dodge hp 64 (8 HD)
+Immune sleep and charm effects
+Fort +10, Ref +8, Will «6
+Spd 30 ft.
+Melee «1 longsword +13/+8 (1d8+6/19-20) or
+slam +11 (14653)
+Base Atk +8; Grp +11
+Atk Options Power Attack
+Special Atk detect thoughts (DC 16) Abilities Str 16, Dex 16, Con 16, Int 13,
+Wis 12, Cha 15 SQ change shape Feats Dodge, Great Fortitude, Improved
+Initiative, Power Attack, Weapon Focus
+(longsword), Weapon Specialization
+(longsword)
+Skills Bluff +13 (+17 when reading an opponent's mind), Diplomacy +4, Disguise +10 (+20 when using change shape, +24 when using change shape and reading an opponent's mind), intimidate +8, Listen +5, Sense Motive +7, Spot +5
+Possessions masterwork studded leather, heavy steel shield, «1 longsword
+Developments: Once freed, Пуа and Gattel seek to leave this place as soon as possible. Ilya gifts her periapt to the party as reward for saving her, while
+Gattel does not claim any of his gear, not recognizing any of it.
+

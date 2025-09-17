@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
+                "file": "3-Rules/Hazards/Homebrew/hidden-pit-upgrade-hb.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hidden-pit-upgrade-hb"
+            }
+          },
+          {
+            "id": "36555965217f0e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tarquin Shortstone"
+              "title": "The Whispering Cairn"
             }
           }
         ],
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for charlatans-gloves"
+              "title": "Backlinks for The Hall of Harsh Reflections"
             }
           },
           {
@@ -215,11 +229,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "dd81696510fe8ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b7ecd8ef38a3bb",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,9 +274,20 @@
   },
   "active": "3c03d4b074f61ef1",
   "lastOpenFiles": [
-    "3-Rules/Skills.md",
+    "5-World/Kingdoms/Mistwood Enclave.md",
     "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "4-Campaign/Age of Worms/Completed/The Three Faces of Evil.md",
+    "3-Rules/Hazards/Homebrew/hidden-pit-upgrade-hb.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
+    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
+    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
+    "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
+    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
     "1-GM Toolkit/DC Calculator.md",
+    "zz-Attachments/sodden-hold-map.png",
+    "3-Rules/Bestiaries/Homebrew/T/tavern-patron.md",
+    "3-Rules/Bestiaries/Homebrew/T/twig-blight.md",
+    "3-Rules/Skills.md",
     "3-Rules/Bestiaries/Uniques/Elaxan.md",
     "3-Rules/Bestiaries/Uniques/Ixiaxian.md",
     "3-Rules/Bestiaries/Uniques/Filge.md",
@@ -256,7 +296,6 @@
     "3-Rules/Bestiaries/Uniques/Garras.md",
     "3-Rules/Bestiaries/NPC Core/Abbot of Abadar.md",
     "3-Rules/Bestiaries/Uniques/Zyrxog.md",
-    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
     "zz-Attachments/tarquin-shortstone.png",
     "5-World/NPCs/Ardentia City/Loris Raknian.md",
     "5-World/NPCs/Ardentia City/Silas Emberwind.md",
@@ -265,21 +304,11 @@
     "5-World/Factions/Luminous Vanguard.md",
     "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
     "5-World/NPCs/Ardentia City/Elowen Stormweaver.md",
-    "5-World/Kingdoms/Emberhold.md",
-    "5-World/Kingdoms/Ironhelm Citadel.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "5-World/Districts/Haven.md",
-    "5-World/Districts/Merchant's Quarter.md",
-    "5-World/Districts/Shattered Ward.md",
-    "5-World/Districts/Seekers Quarter.md",
-    "5-World/Maps/Aetheria Fracta.md",
-    "1-GM Toolkit/DunGen (Random Dungeon Generator).md",
     "zz-Attachments/charlatans-cape.png",
     "zz-Attachments/chain-sword.png",
     "zz-Attachments/caydens-tankard.png",
     "zz-Attachments/caydens-brew.png",
     "zz-Attachments/cauthooj-bagpipes.png",
-    "zz-Attachments/catch-pole.png",
-    "zz-Attachments/casters-targe.png"
+    "zz-Attachments/catch-pole.png"
   ]
 }
