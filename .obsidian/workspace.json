@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -50,31 +50,31 @@
             }
           },
           {
+            "id": "4a89bdd47916f6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "cauterizing-torch"
+            }
+          },
+          {
             "id": "967ace6983fb9b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/hidden-pit-upgrade-hb.md",
+                "file": "3-Rules/Hazards/Homebrew/devious-spiked-pit-hb.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hidden-pit-upgrade-hb"
-            }
-          },
-          {
-            "id": "36555965217f0e5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Whispering Cairn"
+              "title": "devious-spiked-pit-hb"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 340.5
   },
   "right": {
     "id": "3694d2a61e632d77",
@@ -245,10 +245,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "63ce96dca7d8a72f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e85a27fc1dc36240",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 491.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,36 +291,36 @@
   },
   "active": "3c03d4b074f61ef1",
   "lastOpenFiles": [
-    "5-World/Kingdoms/Mistwood Enclave.md",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "4-Campaign/Age of Worms/Completed/The Three Faces of Evil.md",
-    "3-Rules/Hazards/Homebrew/hidden-pit-upgrade-hb.md",
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-    "3-Rules/Hazards/Homebrew/hail-of-iron-spheres-hb.md",
-    "3-Rules/Hazards/Homebrew/mantrap_patch-hb.md",
-    "3-Rules/Hazards/Homebrew/boiling-oil-chute-hb.md",
-    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
+    "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
+    "3-Rules/Character Building/Equipment/C/choker-arm-mutagen-(major).md",
+    "3-Rules/Character Building/Equipment/C/clan-pistol.md",
+    "3-Rules/Character Building/Equipment/C/clandestine-cloak-(greater).md",
+    "3-Rules/Character Building/Equipment/C/clay-sphere-(major).md",
+    "3-Rules/Character Building/Equipment/C/climbing-kit-(extreme).md",
+    "3-Rules/Character Building/Equipment/C/clinging-ooze-snare.md",
+    "3-Rules/Character Building/Equipment/C/cloak-of-waves-&-clouds.md",
+    "3-Rules/Character Building/Equipment/C/Clockwork Dial.md",
+    "3-Rules/Character Building/Equipment/C/cauthooj-bagpipes.md",
+    "3-Rules/Character Building/Equipment/C/Collar.md",
+    "3-Rules/Character Building/Equipment/C/collar-of-empathy.md",
+    "3-Rules/Character Building/Equipment/C/clockwork-goggles-(greater).md",
+    "3-Rules/Character Building/Equipment/C/charm-of-resistance-(greater).md",
+    "3-Rules/Character Building/Equipment/C/camouflage-suit-superb.md",
+    "3-Rules/Character Building/Equipment/C/cane-of-the-maelstrom.md",
+    "3-Rules/Character Building/Equipment/C/cane-pistol.md",
+    "3-Rules/Character Building/Equipment/C/carver-cutter-greater.md",
+    "1-GM Toolkit/ToDo List.md",
     "1-GM Toolkit/DC Calculator.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 021.md",
+    "2-Session Journals/Age-of-Worms/AoW Session 020.md",
+    "3-Rules/Character Building/Equipment/C/calamity-glass.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Item Card Template.md",
     "zz-Attachments/sodden-hold-map.png",
-    "3-Rules/Bestiaries/Homebrew/T/tavern-patron.md",
-    "3-Rules/Bestiaries/Homebrew/T/twig-blight.md",
-    "3-Rules/Skills.md",
-    "3-Rules/Bestiaries/Uniques/Elaxan.md",
-    "3-Rules/Bestiaries/Uniques/Ixiaxian.md",
-    "3-Rules/Bestiaries/Uniques/Filge.md",
     "zz-Attachments/crooked-house-tavern.png",
-    "3-Rules/Bestiaries/Uniques/Hishka.md",
-    "3-Rules/Bestiaries/Uniques/Garras.md",
-    "3-Rules/Bestiaries/NPC Core/Abbot of Abadar.md",
-    "3-Rules/Bestiaries/Uniques/Zyrxog.md",
     "zz-Attachments/tarquin-shortstone.png",
-    "5-World/NPCs/Ardentia City/Loris Raknian.md",
-    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
-    "5-World/NPCs/Ardentia City/Eligos.md",
     "zz-Attachments/Eligos.png",
-    "5-World/Factions/Luminous Vanguard.md",
-    "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
-    "5-World/NPCs/Ardentia City/Elowen Stormweaver.md",
     "zz-Attachments/charlatans-cape.png",
     "zz-Attachments/chain-sword.png",
     "zz-Attachments/caydens-tankard.png",

@@ -3,7 +3,7 @@ skillLevel: 10
 creatureCR: 1
 creatureTrait: Occultism
 playerLevel: 7
-taskDifficulty: 0
+taskDifficulty: 2
 skillDifficulty: 0
 itemLevel: 0
 itemValue: 0.1

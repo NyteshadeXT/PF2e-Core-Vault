@@ -528,11 +528,11 @@ The unusual acoustics and other distracting noises of the lair mean that the if 
 > [!tip]+ Treasure
 > Treasure: The harpies keep a small cache of treasure hidden here at the location labeled С on the map. This treasure can be discovered with a DC 20 Search check, and consists of 14 cp, 27 SP, 16 gp, three pieces of quartz worth 2 gp each, a dirt-encrusted [[3-Rules/Character Building/Equipment/A/Aeon Stone (Sprouting)|Aeon Stone (Sprouting)]], and a [[3-Rules/Character Building/Equipment/A/Arboreal Boots|Arboreal Boots]] made out of exotic red scaly leather. 
 > 
-> - [ ] gp::16
-> - [ ] sp::27
-> - [ ] cp::14
-> - [ ] permanent::[[3-Rules/Character Building/Equipment/A/Aeon Stone (Sprouting)|Aeon Stone (Sprouting)]] [ilvl::6] [gp::220]
-> - [ ] permanent::[[3-Rules/Character Building/Equipment/A/Arboreal Boots|Arboreal Boots]] [ilvl::5] [gp::160]
+> - [x] gp::16
+> - [x] sp::27
+> - [x] cp::14
+> - [x] permanent::[[3-Rules/Character Building/Equipment/A/Aeon Stone (Sprouting)|Aeon Stone (Sprouting)]] [ilvl::6] [gp::220]
+> - [x] permanent::[[3-Rules/Character Building/Equipment/A/Arboreal Boots|Arboreal Boots]] [ilvl::5] [gp::160]
 
 ## Area 5: Garbage Room
 > [!note]+ Read Aloud
@@ -663,7 +663,7 @@ The tunnel becomes completely submerged 40 feet beyond the start of the water an
 ```leaflet
 ### Tutorial: https://youtu.be/54EyMzJP5DU
 ### id must be unique
-id: update-me
+id: egg-chamber
 image: [[Egg Chamber.png]]
 height: 900px
 width: 50%
@@ -754,17 +754,17 @@ Other methods of attacking the dragon egg produce different effects.
 
 > [!tip]+ Treasure
 > Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-(moderate)|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
-> - [ ] pp::2
-> - [ ] gp::203
-> - [ ] sp::240
-> - [ ] cp::1300
-> - [ ] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
-> - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
-> - [ ] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]
-> - [ ] consumable::[[invisibility-potion|Invisibility Potion]] [ilvl::4] [gp::20]
+> - [x] pp::2
+> - [x] gp::203
+> - [x] sp::240
+> - [x] cp::1300
+> - [x] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
+> - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]
+> - [x] consumable::[[invisibility-potion|Invisibility Potion]] [ilvl::4] [gp::20]
 
 > [!warning]
 > If the lizardfolk see the worms, their reaction depends on earlier events. If the infected warrior in area 6C is still alive, the lizardfolk realize that something is very wrong and the dragon is probably responsible. They try to keep the worms from getting to their eggs, charging into the egg chamber and carrying eggs to safety. If the PCs help in this endeavor, the lizardfolk gratefully accept their assistance and this act helps smooth relations in the aftermath of the worm battle. As the Kyuss spawnlings are unable to leave the water at this time, removing the eggs from the water makes them safe. 
@@ -821,7 +821,7 @@ Read Allustan's letter to the players,
 # Concluding the Adventure
 When the PCs bring [[Marzena]] to [[Allustan]], he is grateful for their help and eager to hear the news of their most recent adventures. [[Marzena]] tells [[Allustan]] what's she's heard about green worms in the Cairn Hills, but unfortunately her news offers little new information apart from confirmation that spawn of Kyuss are increasing in number throughout the Cairn Hills. This information and the PCs’ report convinces [[Allustan]] that there is something larger going on, and he tells the PCs about an “old friend” in [[Ardentia City]], a sage named [[Eligos]] who knows a great deal about strange monsters. Their next step is to visit [[Eligos]] in [[Ardentia City]] and share Allustan's compiled notes and their own experiences. Armed with this information, the sage ought to be able to determine what sort of threat the green worms represent to the region and how it can be countered. Note that if the PCs agreed to talk to [[Ardentia City]] officials on behalf of [[Hishka]], the need to meet [[Eligos]] gives them a convenient excuse to travel there and arrange for a treaty between [[Ardentia City]] and the lizardfolk of the Mistmarsh. 
 
-[!note]+ Read Aloud — The Sage's Warning  
+> [!note]+ Read Aloud — The Sage's Warning  
 > Allustan listens with growing unease as Marzena recounts her findings—villagers whispering of the dead that won’t stay dead, livestock bloating with green worms, and pale figures watching from the swamp’s edge with glassy, unblinking eyes.  He exhales slowly, setting his teacup aside, and leans forward, voice low.
 > 
 > “This… this is worse than I feared. The spawn are multiplying, yes—but the pattern’s wrong. This isn’t just chaos spreading—it’s deliberate. Directed.”

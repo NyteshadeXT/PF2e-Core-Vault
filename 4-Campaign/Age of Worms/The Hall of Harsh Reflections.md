@@ -355,21 +355,305 @@ These cells are used by the doppelgangers to keep prisoners they plan to imperso
 
 In reality, Martal and Regim are the doppelganger guards of this small prison. The door to their cell has a hidden latch allowing them to open it from the inside. Underneath their straw mattress they һаvе stored а few pieces of gear. The duo begs to be released, but attacks the party once the door is opened. An opposed [[Sense Motive]] check versus the doppelgangers' [[Skills#Deception|Deception]] checks avoids being surprised on the first round of combat.
 
-MARTAL AND REGIM (2) CR6 Doppelganger fighter 4 М Medium monstrous humanoid (shapechanger) Monster Manual 67 Init +7; Senses Spot +5, Listen +5 Languages Common, Dwarven AC 22, touch 13, flat-footed 19; Dodge hp 64 (8 HD)
-Immune sleep and charm effects
-Fort +10, Ref +8, Will «6
-Spd 30 ft.
-Melee «1 longsword +13/+8 (1d8+6/19-20) or
-slam +11 (14653)
-Base Atk +8; Grp +11
-Atk Options Power Attack
-Special Atk detect thoughts (DC 16) Abilities Str 16, Dex 16, Con 16, Int 13,
-Wis 12, Cha 15 SQ change shape Feats Dodge, Great Fortitude, Improved
-Initiative, Power Attack, Weapon Focus
-(longsword), Weapon Specialization
-(longsword)
-Skills Bluff +13 (+17 when reading an opponent's mind), Diplomacy +4, Disguise +10 (+20 when using change shape, +24 when using change shape and reading an opponent's mind), intimidate +8, Listen +5, Sense Motive +7, Spot +5
-Possessions masterwork studded leather, heavy steel shield, «1 longsword
-Developments: Once freed, Пуа and Gattel seek to leave this place as soon as possible. Ilya gifts her periapt to the party as reward for saving her, while
-Gattel does not claim any of his gear, not recognizing any of it.
+```encounter
+name: D6 Cells
+party: Age of Worms
+creatures:
+  - 1: Doppleganger Fighter, Martal
+  - 1: Doppleganger Fighter, Regim
+```
 
+> [!tip]+ Treasure
+> The dopplegangers each carry a +1 Striking longsword, a steel shield and studded leather armor.  They also have 11 gp between the two of them.
+> 
+> - [ ] gp::11
+> - [ ] permanent::[[Weapon Potency (+1)|+1 Striking Longsword]] [ilvl::4] [gp::65]
+> - [ ] permanent::[[Weapon Potency (+1)|+1 Striking Longsword]] [ilvl::4] [gp::65]
+
+**Developments:** Once freed, Ilya and Gattel seek to leave this place as soon as possible. Ilya gifts her [[belt-of-good-health|Belt of Good Health]] to the party as reward for saving her, while Gattel does not claim any of his gear, not recognizing any of it.
+
+#### D7. Collapsed Chamber
+> [!note]+ Read Aloud
+> Much of the floor of this ruined chamber has given way, revealing a large stagnant pool of water below. Rusted spears and broken swords break the surface of this pool throughout the room, A framework of soggy timbers that might have once supported the floor still stands, stretching out across the void.
+
+Navigating this chamber is quite dangerous. Moving at half speed across the wooden planks requires a DC 23 [[Skills#Acrobatics|Acrobatics]] skill check, as they are a bit slippery from mildew. Critically failing this check results in a fall down into the water below. The shaded planks all lead to a piling that is not structurally sound. If a Medium or larger character steps onto one of these planks, the piling collapses, dropping anyone on a shaded plank down into the water below. The doppelgangers have placed dozens of weapons in the water below, making it very dangerous to traverse or fall into (as noted under Tactics).
+
+The far wall of this chamber used to contain doors for accepting river cargo, but these have been boarded over. The only exit out of this chamber is a door out of sight when the PCs first enter. This door is locked, requiring a DC 25 [[Skills#Thievery|Thievery]] check to open.
+
+```encounter
+name: D7 Ccollapsed Chamber
+party: Age of Worms
+creatures:
+  - 2: Phade
+```
+
+This room is home to a pair of invisible stalkers. Allied with the doppelgangers, they allow anyone who says the word "deception" to pass without incident. Those not speaking the password before crossing out onto the planks are subject to attack.
+
+**Tactics:** The invisible stalkers use the element of surprise to attack the PCs once they have begun to cross the planks. Any character that attempts to fly or bypass the planks becomes an immediate target for these silent killers. Those standing on a plank are considered [[Off-Guard]] unless they are an Expert in [[Skills#Athletics|Athletics]], and must make a DC 23 [[Skills#Athletics|Athletics]] check to avoid falling if struck. The stalkers know this and try to knock as many PCs as possible into the dangerous waters below.
+
+Those falling into the water are subject to 1d4 attacks from the weapons (+18 melee dealing `dice: 1d6+4` 1d6+4 points of damage each). The water below is very calm.  No swim check is required but movement provokes more 1d2 more attacks from the weapons placed in the water per 10 feet traversed. It's а DC 21 [[Climb]] check to clamber up a piling back to the floor above,
+
+> [!tip]+ Treasure
+> The doppelgangers often toss the bodies of those they have slain into this fetid pool, along with any gear they find to be of little value. A DC 21 [[Skills#Perception|Perception]] check notices these corpses underneath the water, between the spears. A DC 25 [[Skills#Perception|Perception]] check reveals a golden glint among the bodies. This is a golden wand of spiritual weapon (26 charges) accidentally discarded by the gang in their haste and not yet recovered.
+> 
+> - [ ] permanent::[[Spiritual Armament|Wand of Spiritual Armament (Rank 2)]] [ilvl::5] [gp::160]
+
+#### D8. Water-filled Pit
+> [!note]+ Read Aloud
+> This large chamber is empty aside from two holes in the floor, one a jagged rip where the floor has fallen away, the other a perfectly square opening with a shaft leading down. The shaft is full of water after about thirty-five feet and a wooden barrel bobs on the surface. A crude rope ladder descends to the surface of the water.
+
+The doppelgangers use this room to gain access to their underground warrens. Traditionally, the members of the gang sit in the barrel, floating in the water as the level slowly drains down 40 feet to the floor below, just outside area D9. When they wish to go up, they simply reverse the process, sitting in the barrel as the water level is slowly raised. This process takes a full minute.
+
+Unfortunately, for the party, the water is currently raised and the mechanism to raise and lower the water is in another room. Characters wearing metal armor can simply jump in and sink to the bottom of the shaft in 2 rounds. Others must actively swim to the bottom. As the water is calm, swimming down requires a DC 21 [[Swim]] check to move at half speed. At the bottom of the shaft, a 20-foot-long passageway leads west to area D9, which is also flooded. There is no light down this shaft.
+
+The other hole in the floor of this chamber leads to a stagnant pool of water trapped underneath this section of the building.
+
+### Warren Level
+This deep underground sanctuary is where the gang of doppelgangers hatch their nefarious plots and rest from their trials. Unless otherwise noted, a pale blue everburning torch mounted on the wall lights each chamber. The walls of this level are hewn stone and all of the doors are iron.
+
+These rooms are meticulously well kept. None of the dust and dirt of the warehouse above is present here. The walls in most of the chambers are carved with an intricate flowing scrollwork that never seems to repeat itself.
+
+#### D9. Water Control Chamber
+When the party first enters this chamber from area D8, they emerge 40 feet beneath the surface of the water. A 10-foot wide pillar of stone in the center of the room rises up to a point 10 feet above the top of the water. A short metal ladder reaches ftom the top of the pillar to the surface of the water.
+
+On top of the pillar is a large metal lever. Tripping the lever opens wide drains on the floor, and both the water level and pillar sink at an equal rate (about 4 feet per round). After one minute, the pillar is only 16 feet tall and the room (including area D8) is devoid of water. Tripping the lever again reverses this process, raising the pillar and flooding the room.
+
+A stone platform, 50 feet above the floor of the room (at the same level as the pillar when fully raised) leads to a locked door. Opening this door requires a DC 25 [[Skills#Thievery|Thievery]] check.
+
+```encounter
+name: D9 Water Control Chamber
+party: Age of Worms
+creatures:
+  - 1: Giant Octopus
+```
+
+А giant octopus lives in this chamber. [[Zyrxog]] gave the creature to the doppelgangers as a gift when he had finished his experiments upon it. When the water is drained, it escapes the room through one of the drains at the bottom, only to return when the water level rises. If severely wounded, the octopus flees in a cloud of ink to the nearest drain.
+
+**Developments:** A secret door is hidden in one wall of this room. It can only be found with a DC 28 [[Skills#Perception|Perception]] check, although it is open later, as noted under area 19. This passageway leads to the [[Ardentia City]] sewers and Zyrxog's lair.
+
+#### D10. Hallway
+> [!note]+ Read Aloud
+> Iron double doors cap this long hallway at both ends. The far wall has four doors spaced evenly along its length, with only a lone door on the other side.
+
+All four doors on the southern wall are locked, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open. This hallway is generally devoid of activity unless the party makes a great deal of noise, which summons the doppelgangers in area D11 to investigate.
+
+> [!danger]+ Trap
+> The east end of this hallway is actually a dead end, with a trap door covering the floor in a 10-foot by 10-foot area in front of the door. Those walking into the area risk falling into the pit below, which is deeper than it appears. An illusory wall (Spell DC 25) is placed 30 feet below the trap door, creating a false floor. The actual floor is 60 feet beneath the floor of the hallway in the area of a magical silence. To those outside the pit, the character falls through the floor and upon triggering the trap door again and investigating inside the pit there is no sign of the missing PC. The walls of the pit are extremely smooth and greased, making it impossible to climb.
+> 
+> [[devious-spiked-pit-hb|Devious Spiked Pit]]
+
+#### D11. Sleeping Quarters
+
+торе packed with different styles of cloth- ing All of the outfits in the Players Hand- book can be found in one of the rooms.
+
+```encounter
+name: D11 Sleeping Quarters
+party: Age of Worms
+creatures:
+  - 2: Doppleganger Fighter
+```
+
+Two doppelgangers are in each of these rooms at any given time, home from covert operations around the [[Ardentia City]]. If not asleep, they are busy practicing one guise or another, trying on various outfits and altering their form.
+
+**Tactics:** If a general alarm is raised, the doppelgangers in these rooms (six doppelgangers in all) quickly mobilize to attack any intruders they see in area 10 who move toward either area D13 оr D14. They attack in their natural forms, but if combat goes poorly the survivors try to escape into area D16 to regroup.
+
+> [!tip]+ Treasure
+> Various bits of jewelry (brooches, amulets, and rings) are scattered throughout the wardrobes of these rooms with a total value of 50 gp in all. Each room also contains a single noble's outfit and a single royal outfit, in addition to numerous other outfits totaling 25 gp in all.
+> 
+> - [ ] gp::75
+
+#### D12. Lavatory
+This simple bathroom is used by the gang and holds nothing of value.
+
+#### D13. Planning Room
+> [!note]+ Read Aloud
+> Two tables, each surrounded by plain wooden chairs, sit in the middle of this chamber. Unorganized heaps of maps, notes, and books cover each table. A large map of [[Ardentia City]] hangs on the opposite wall.
+
+Telakin and his band of doppelgangers use this room to chart their progress and plan their next moves as they slowly infiltrate the government and aristocracy of [[Ardentia City]]. Although the documents specifically avoid mentioning the actual names of any individuals replaced, they do detail numerous noble families and government institutions that have been corrupted by their influence. This includes merchant councils, the leatherworker's union, the carpenter's guild, the stonemasons, the courts, the militia, and the directing oligarchy.
+
+Discovering the extent of this corruption takes 2 hours of rifling through the maps and papers and a successful DC 25 [[Skills#Society|Society]] check.
+
+The southeast corner of this room contains a well-concealed door behind a short bookcase. Finding the door requires a DC 25 [[Skills#Perception|Perception]] check. The doppelgangers had this door and the door in the maze installed as a hidden escape route.
+
+> [!tip]+ Treasure
+> If the PCs hand over the maps and papers detailing the doppelganger corruption to the authorities, they can expect not only the welcome thanks of many important individuals in [[Ardentia City]], but a reward of 100 gp.
+> 
+> - [ ] gp::100
+
+#### D14. False Bedroom
+This bedroom looks just like all the others (area D11), but without any of the jewelry. Unlike the other rooms, the east wall of this chamber is an illusory wall (spell DC 25) hiding а small chamber beyond. The small hidden chamber is dark save for a simple iron door that lets in a pale blue radiance from the room beyond. The door is not locked.
+
+> [!warning]
+> Award the players 8th level at this time.
+
+#### D15. Hall of Deception
+> [!note]+ Read Aloud
+> The walls of this tall octagonal chamber are mirrored with a dark black glass reflecting ghostly blue flames from a trio of torches suspended above. In the center of the room is each one of you, manacled and tied to a chair, struggling to escape.
+
+As noted earlier, one of the characters has been replaced by a doppelganger. That character is actually tied to one of these chairs. The others here are actually doppelgangers, assuming the guise of the rest of the PCs (one for each). The figures are dressed in tattered clothes, and each is gagged with a dirty rag. The real PC tied up here does not know that any of the others are doppelgangers, and has little memory of anything other than having been locked in this room for days. Once every several hours, a doppelganger comes into the room to give the victims food and water and to remove buckets of waste, but otherwise the captive PC has no real concept of how long he or she's been kept here.
+
+The southern secret door requires a DC 25 [[Skills#Perception|Perception]] check to locate. If the lights in the chamber are extinguished, a thin pale light can be seen coming from the passageway beyond, requiring only a DC 15 [[Skills#Perception|Perception]] check to locate the secret door.
+
+```encounter
+name: D11 Sleeping Quarters
+party: Age of Worms
+creatures:
+  - 4: Doppleganger Fighter
+```
+
+The doppelgangers here are not securely bound; their manacles are rigged so that a DC 15 [[Skills#Athletics|Athletics]] check allows them to wriggle free. The real character is securely bound with high quality manacles, requiring a DC 28 [[Skills#Athletics|Athletics]] check to slip the bonds or break free.
+
+Once the PCs enter, the doppelgangers attempt to escape their bonds one at a time (as should the real character), moving to embrace the characters as their saviors and crying out that their corresponding character in the party is false. This continues until all the doppelgangers are free and arguing with the group over who is real and who is an impostor. Once they are within melee range, they attack those that they copy, hoping to surprise the characters. This undoubtedly requires a number of [[Skills#Deception|Deception]], [[Sense Motive]], and [[Skills#Perception|Perception]] checks to resolve. Obviously, the doppelgangers all move to attack the PCs if they are attacked or if the deception is foiled.
+
+This is also the point when the doppelganger hiding within the group reveals his betrayal, attacking the most vulnerable or wounded PC using all of the powers at his disposal. Once the deception is revealed and [[Ixiaxian]] attacks the other PCs, the PC who was playing the doppelganger immediately resumes play as their actual PC, who is manacled and tied to the chair.
+
+> [!warning]
+> This is an high end severe level encounter for four 8th level players if all four dopplegangers attack at one time.  Monitor the situation so it doesn't get out of hand.
+
+> [!tip]+ Treasure
+> In addition to all of the duplicated PC's gear, Ixiaxian carries a mind clone created from that character's memories. This mind clone is a sapphire worth 2,000 gp.
+> 
+> - [ ] pp::10
+> - [ ] gp::10
+> - [ ] sp::10
+> - [ ] cp::10
+> - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
+> - [ ] consumable::[[itemlink]] [ilvl::000] [gp::000]
+
+#### 16. Mirror Maze
+> [!note]+ Read Aloud
+> Beyond the door is a dizzying array of light and reflections. Polished metal mirrors stretch from floor to ceiling, forming a maze of endless corridors and reflected images.
+
+Although there are many routes through this maze, pressure plates throughout raise additional mirrored walls that can separate and bewilder the party. Both of the squares on either side of the dashed lines on the map contain pressure plates. Only when both of these plates have been triggered does the wall between them raise into place with blinding speed. Those adjacent to a raising wall can attempt to dive to the other side with a DC 23 Reflex save. Walls can be lowered by triggering a hidden switch built into the floor (DC 28 [[Skills#Perception|Perception]] check to locate) or with a successful DC 25 [[Skills#Thievery|Thievery]] check.
+
+Creatures: This insidious maze is home to Telakin's personal guards. Three doppelganger guards lurk here, tasked with preventing anyone from penetrat- ing the maze. They patrol the maze look- ing for intruders until the party enters the maze, at which time two of them use their potions of invisibility to sneak up to the party and attack. The other goes to warn Telakin (area D17) before joining the others in assaulting the party.
+
+Doppelganger Guards (3): 64 hp; see page 45.
+
+Tactics: The guards sneak around the maze, waiting for the right moment to strike, usually when walls separate the group. Once their invisibility ends, they use their ability to change shape, taking on the appearance of party members to close in and sow confusion. Тһе doppel-
+
+gangers know the locations of all the slid- ing walls and use them to withdraw from combat or further separate the group. The DM should have the PCs make Spot checks to see through approaching dop- pelganger disguises even if it's actually fellow party members approaching,
+
+D17. Telakin's Hall (EL 10)
+
+The door opens on a large chamber with a vaulted ceiling high above. Along one wall, a macabre assembly of vats and tubes con- nects to a table with numerous straps and a strange silver helmet. On the far side of the room, a raised dais supports a throne.
+
+The device to the west is used by the doppelgangers to extract memories and knowledge from victims they've captured. They then encode this information into gemstones called mind clones (each of which musst be worth a minimum of 2,000 gp). A creature can then access these memories using detect thoughts or telepathy as if he were con- tacting the actual person they were duplicated from. The procedure requires the victim to be strapped to the table for 10 minutes, during which time he may make a DC 20 Will save to resist the process. Failure doesn't harm the victim in any way, but does result in a mind clone that others can then use to interrogate. A recorded mind still gets a saving throw to resist detect thoughts and similar attacks.
+
+The fantastic cost of producing a mind clone (or purchasing one, for that matter) ensures that Telakin never has enough on hand to do what he really wants, and this leaves 9 the dop- pelganger ina perpetual
+
+bad mood.
+
+Creature: As the PCs arrive, the dop- pelganger leader Telakin is ready for them. He's assumed the form of Allustan, the sage of Diamond Lake. When the PCs enter this chamber, he rises from his throne and addresses them. "So kind of you to join me. It is time for me to show you the truth of things. Come and learn what lies beyond!" If the party does not know Allustan, Telakin instead takes the form of someone important to them (such ав Eligos). Telakin's chamber is also protected by several traps.
+
+Telakin Å
+
+Telakin is the thrall of Zyrxog, а pow- erful mind flayer. He wears the illithid's symbol on his brow in most of his assumed forms, save for when he wishes to blend into a crowd. The master tasked Telakin with destroying the party using every means at his disposal. Since the party has made it this far, the task now rests with the greater doppelganger.
+
+Telakin, greater doppelganger: hp 58; see Appendix.
+
+Tactics: If warned of the party's approach, Telakin switches into his wizard form and casts a number of protective spells, including false life and resist energy (choosing an enegry type frequently used by the party assuming the doppelganger has advanced infor- mation on them). The gang leader casts extended mage armor every morning after preparing his spells. After prepar- ing himself, Telakin uses clairvoyance to watch the approach of the party and to gauge their abilities.
+
+Telakin remains up near his throne unless sorely pressed, hoping to draw the party into his traps while devastating them with his spells (while in wizard form). Once engaged in melee, Telakin assumes his orc barbarian form and rages, only switching again if sorely hurt.
+
+"Telakin has a number of magic items on his person including a «1 frost greataxe, а ring of protection +2, a scroll of fireball (CL 8th, DC 14), and a wand of cure moderate wounds (26 charges),
+
+Wizard Form: Once a member of Tela- kin’s gang, Valdagan (NE male human wizard 8) attempted to betray the dop- pelganger to the town watch. Telakin consumed Valdagan's mind and often assumes the old hawkish wizard's form when angered. In addition to the Extend Spell and Scribe Scroll feats, Telakin has the following spells when in Valdagan's form (CL 8th, +12 ranged touch). qth—confusion (DC 17), wall of fire 3rd—clairvayance, dispel magic, fireball (DC
+
+16), slow (DC 16) and—false life, extended mage armor, resist
+
+energy, scorching ray 1st—charm person (DC 14), grease (DC 14),
+
+magic missile (2), ray of enfeeblement o—daze (DC 13), detect magic, mage hand, read magic
+
+OF HARSH REFLECTION
+
+Barbarian Form: Bragat (CE male orc bar- barian 8), a brutal mercenary, was sought out by Telakin solely for the purpose of consuming his identity. When in Bragat's form, Telakin gains the fast movement (+10 ft), illiteracy, improved uncanny dodge, trap sense +3, and DR 1/—. He also gains the ability to rage 3 times per day, gain- ing +4 Str, «4 Con, and +2 Will saves while taking а-2 penalty to AC. This rage lasts 7 rounds or until Telakin changes form. He uses а +1 frost greataxe іп this form.
+
+Traps: This chamber contains а total of four traps, two identical pit traps and two pressure plates that set off a poi- soned spear trap. The pit traps occupy 10-foot by 10-foot squares on both sides of the room in front of the stairs lead- ing up to the throne. The pressure plates take up the 5-foot by 5-foot area at the top ofthe stairs near the throne, triggering a poison spear from the ceiling above.
+
+Wide Spiked Pit Trap: CR 4; mechani- cal; location trigger; no reset; DC 20 Reflex save avoids; 40 ft. deep (446 fall); pit spikes (Atk +10 melee, 144 spikes per target for 194445 each); Search DC 20; Dis- able Device DC 20.
+
+Poisoned Ceiling Spear Trap: CR 6; mechanical; location trigger; no reset; Atk +20 melee (1d8+8 plus poison, spear); poi- son (Large monstrous scorpion venom, DC 14 Fortitude save resists, 184 Con/1d4 Con); Search DC 20; Disable Device DC 20.
+
+‘Treasure: Two mind clones sit in locked (DC 30 Open Lock) containers near the device to the west. One is the mind of a foppish nobleman, Syra Viniira, who is an expert on wine and etiquette. Another is a captain of the militia, Durgan Shat- terhelm, expert of the watch routines and patterns. Each is contained in a gem worth 2,000 gp. All the other samples are in use about the city. The subjects of these particular mind clones are both dead, their bodies rotting in the pool above.
+
+Development: Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 20 Search check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
+
+D18. Telakín's Sanctum
+
+Behind the throne is a small chamber filled with ostentatious accoutrements, There is а bed, wardrobe, desk, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
+
+Treasure: The rug is a minor magic item that is worth 500 gp but does noth- ing more than change patterns.
+
+The chest is locked, requiring a DC 30 Open Lock check to open (although Telakin's key ring has the key). Inside the chest is а host of forged and original documents detailing Free City treaties, merchant dealings, and religious papers. Although not pertinent to the party, they clearly illustrate the level of infiltration the gang possessed. In addition to these there is à sack containing 1,500 gp, a scroll of dominate person, and a missive written with a strange alien hand. The message reads: "I have a task for you, thrall. Meet me at the sewer junction beneath the cold forge and I will give you the details. There are some troublesome small minds that must be removed." The document is signed with some sort of symbol made to look like a spiraling tentacle (identical to that on Telakin's forehead).
+
+Aside from the contents of the chest, the wardrobe contains every outfit in the Play- ers Handbook as well as 500 gp in jewelry. The large mirror is magic—once рег day, for a period of 10 minutes, it can be com- manded to show the true form of a creature thatis physically disguising its shape (it has no power to penetrate illusions). Telakin prefers to look upon his true form, as he feels that all other forms are inferior to the perfection of his actual shape. This mir- roris large and cumbersome (it weighs 250 pounds) but it's worth 10,000 gp.
+
+D19. Zyrxog's
+
+Entrance (EL 7)
+
+Zyrxog, Telakin's mind flayer master has been watching events unfold through the use of his scrying pool. When he sees Telakin defeated, the mind flayer comes to investigate with a few of his drow thralls.
+
+When the PCs return to area Do, the secret door is open and Zyrxog and his minions are here waiting for the party to return.
+
+Creatures: Although Zyrxog is pres- ent here, he does not wish to personally combat the party at this time aside from. launching a mind blast to open up combat (unless the drow are in the way). He hopes that his drow minions are sufficient to deal with the PCs and flees at the first sign of danger to himself, using plane shift to go ethereal and return to his sanctuary.
+
+The drow are thralls to Zyrxog and remain to fight to the death no matter the odds. Drow THRALL (2) CRS Male drow fighter 4 CE Medium humanoid (elf)
+
+Init +3; Senses darkvision 120 ft; Spot +4,
+
+Listen +5 Languages Common, Drow, Elven,
+
+Undercommon AC 19, touch 13, flat-footed 16 hp 30 (4 HD)
+
+Immune sleep
+
+SR15
+
+Fort +5, Ref +4, Will +1 (+3 vs spells)
+
+Weakness light blindness
+
+Spd 30 ft,
+
+Melee mwk rapier +8 melee (1d6+4/18-20)
+
+Ranged mwk hand crossbow +8 ranged (1d4/19-20)
+
+Base Atk +4; Grp +6
+
+Atk Options Combat Expertise, Improved
+
+Disarm Combat Gear potion of cure moderate
+
+wounds, alchemist's fire (2), tanglefoot bag Spell-Like Abilities (CL 4th):
+
+1{day—dancing lights, darkness, faerie fire Abilities Str 14, Dex 17, Con 12, Int 14,
+
+Wis 10, Cha 11 Feats Blind-Fight, Combat Expertise*,
+
+Improved Disarm*, Weapon Focus
+
+(rapier), Weapon Specialization {rapier} Skills Climb 48, Hide +2, Listen «4, Move
+
+Silently «2, Spot +5 Possessions combat gear, chain shirt,
+
+heavy steel shield, masterwork rapier,
+
+masterwork hand crossbow with 20 bolts
+
+Zyrxog, mind flayer mastermind: hp 98, see page 57.
+
+Tactics: After Zyrxog uses his mind blast, the drow move in to attack, cloak- ing the area in darkness and relying on
+
+Blind-Fight to offset the concealment
+
+penalties. Although they fight to the |
+
+death, they do not carelessly throw their lives away. They use their powers and their alchemical items to best effect. Тһе drow wear boots caked with yellow phos- phorescent fungus.
+
+Zyrxog remains in the darkness throughout the fight, but anyone with darkvision can make out the mind flayer and can see that he wears the same sym- bol found on the papers in Telakin's room and on Telakin's forehead.
+
+Developments: Zyrxog does not pursue the party, allowing them a chance to rest and recuperate from their trials. Once com- bat is over, the party is free to explore the tunnel leading out of this area. After only 50 feet it joins the Free City sewer system, and tracking the group becomes difficult. Тһе only clue the PCs have to the mind flayer's location is the note from Telakin's room and the residue on the drow's boots. This fungus can be identified with a DC 15 Knowledge (nature) check as a relatively rare harmless fungus called Beggar's Gold that grows in underground urban environ- ments. It is not present in any of the nearby tunnels or sewers.
