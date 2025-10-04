@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "charm-of-resistance"
 aliases: "Charm of Resistance"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "287"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

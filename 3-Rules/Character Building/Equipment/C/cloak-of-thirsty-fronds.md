@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "cloak-of-thirsty-fronds"
 aliases: "Cloak of Thirsty Fronds"
 source: "Pathfinder #187: The Seventh Arch"
-pg: ""
-rarity: ""
+pg: "187"
+rarity: "rare"
 trait01: "invested"
 trait02: "primal"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer.  **Activate** `pf2:r` envision  **Frequency** once per minute  **Trigger** You are damaged by a melee attack from an adjacent creature  * * *  **Effect** The leaves lash out at your attacker, rising up to reveal snapping jaws made of wicked thorns. The triggering creature must attempt a DC 23 Reflex check saving throw.  **Success** The creature is unaffected.  **Failure** The creature takes 1d6 piercing.  **Critical Failure** The creature takes 2d6 piercing and 2 bleed."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[envision]])"
+frequency1: "once per round"
+trigger1: "You are damaged by a melee attack from an adjacent creature"
+mechanics1: "The leaves lash out at your attacker, rising up to reveal snapping jaws made of wicked thorns. The triggering creature must attempt a DC 23 Reflex check saving throw.<br><br>**Success** The creature is unaffected.<br>**Failure** The creature takes `dice: 1d6` 1d6 piercing.<br>**Critical Failure** The creature takes `dice: 2d6` 2d6 piercing and 2 bleed."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

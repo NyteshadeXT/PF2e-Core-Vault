@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "cinderclaw-gauntlet"
 aliases: "Cinderclaw Gauntlet"
 source: "Pathfinder #145: Hellknight Hill"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "free-hand"
 trait03: "magical"
 trait04: "versatile-s"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -25,14 +25,15 @@ subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
+group: "Brawling"
 identify:
-description: "This sharp-taloned _+1 striking spiked gauntlet_ appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a Cinderclaw gauntlet has the versatile S trait.  On a critical hit, the _Cinderclaw gauntlet_ deals an additional 1d6 fire damage.  **Activate** `pf2:r` command  **Trigger** Your attack roll with the _Cinderclaw gauntlet_ is a critical success.  * * *  **Effect** The creature you hit must succeed at a DC 19 Fortitude check save or be [[Conditions/Sickened|Sickened 1]] by the gauntlet's acrid smoke. Creatures that don't need to breathe are immune."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This sharp-taloned _[[Weapon Potency (+1)|+1]] [[striking]] [[spiked gauntlet]]_ appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a Cinderclaw gauntlet has the versatile S trait.  On a critical hit, the _Cinderclaw gauntlet_ deals an additional `dice: 1d6` 1d6 fire damage."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "[[command]]"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "Your attack roll with the _Cinderclaw gauntlet_ is a critical success."
+mechanics1: "The creature you hit must succeed at a DC 19 Fortitude check save or be [[Sickened|Sickened 1]] by the gauntlet's acrid smoke. Creatures that don't need to breathe are immune."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Spiked Gauntlet"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

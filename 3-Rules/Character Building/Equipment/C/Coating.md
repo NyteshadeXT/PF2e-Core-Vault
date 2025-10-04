@@ -1,32 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Coating"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/extradimensional
-  - trait/magical
-  - trait/common
-aliases: "Compendium.pf2e.equipment-srd.Item.y9RUbQec9zGeqqcE"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "coating"
+aliases: "Coating"
+source: "Pathfinder Treasure Vault"
+pg: "32"
+rarity: ""
+trait01: "Extradimensional"
+trait02: "Magical"
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 9
+group: 
+bulk: 
+value: "700"
+subvalue: "gp"
+invest: 
+usage: "etched onto a weapon"
+license: "ORC"
+identify: ""
+description: "When etched, this rune creates an extradimensional space that links to the weapon that wields it. The space can hold up to 1 Bulk but can contain only poisons and magic oils that could be applied to the weapon. Stowing or retrieving an item in the space requires an Interact action, except when using the rune's activation."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[concentrate]])"
+frequency1: 
+requirement1: "At least one magic oil or poison is stored inside the rune's extradimensional space"
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "For 1 minute, you can apply stored oils and poisons to the weapon without needing any hands free. Applying them takes the same number of actions as normal. An oil or poison applied this way pours directly from the extradimensional space onto the weapon, and when it's fully applied, its empty vial is ejected."
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Coating
-## Item 9
-### [[extradimensional]][[magical]]
 
 
-**Price** 700 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-a-weapon
-
-When etched, this rune creates an extradimensional space that links to the weapon that wields it. The space can hold up to 1 Bulk but can contain only poisons and magic oils that could be applied to the weapon. Stowing or retrieving an item in the space requires an Interact action, except when using the rune's activation.
-
-**Activate** `pf2:1` command
-
-**Requirements** At least one magic oil or poison is stored inside the rune's extradimensional space;
-
-* * *
-
-**Effect** For 1 minute, you can apply stored oils and poisons to the weapon without needing any hands free. Applying them takes the same number of actions as normal. An oil or poison applied this way pours directly from the extradimensional space onto the weapon, and when it's fully applied, its empty vial is ejected.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```

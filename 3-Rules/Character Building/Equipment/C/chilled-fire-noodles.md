@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "chilled-fire-noodles"
 aliases: "Chilled Fire Noodles"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
-pg: ""
-rarity: ""
+pg: "105"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/chilled-fire-noodles.png
 level: 1
 weight: L
 value: "3"
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` (manipulate)  **Access** Tian Xia origin  * * *  These cool noodles are served with dark fermented sauces and vinegars before finally being tossed with spicy chili oil.  When you consume the noodles, you temporarily ignore the -1 status penalty to AC and saving throws caused by the [[Conditions/Fatigued|Fatigued]] condition for 1 hour."
+description: "These cool noodles are served with dark fermented sauces and vinegars before finally being tossed with spicy chili oil. Typically found in Tian Xia."
 powerTitle1:
-actionEconomy1:
-type1:
+actionEconomy1: 3
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you consume the noodles, you temporarily ignore the -1 status penalty to AC and saving throws caused by the [[Fatigued]] condition for 1 hour."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/C/condensed-mana.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cauterizing-torch"
+              "title": "condensed-mana"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/devious-spiked-pit-hb.md",
-                "mode": "preview",
+                "file": "zz-Templates/Markdown/Item Card Template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "devious-spiked-pit-hb"
+              "title": "Item Card Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,43 +289,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c03d4b074f61ef1",
+  "active": "4a89bdd47916f6f4",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
-    "3-Rules/Character Building/Equipment/C/choker-arm-mutagen-(major).md",
-    "3-Rules/Character Building/Equipment/C/clan-pistol.md",
-    "3-Rules/Character Building/Equipment/C/clandestine-cloak-(greater).md",
-    "3-Rules/Character Building/Equipment/C/clay-sphere-(major).md",
-    "3-Rules/Character Building/Equipment/C/climbing-kit-(extreme).md",
-    "3-Rules/Character Building/Equipment/C/clinging-ooze-snare.md",
-    "3-Rules/Character Building/Equipment/C/cloak-of-waves-&-clouds.md",
-    "3-Rules/Character Building/Equipment/C/Clockwork Dial.md",
-    "3-Rules/Character Building/Equipment/C/cauthooj-bagpipes.md",
-    "3-Rules/Character Building/Equipment/C/Collar.md",
-    "3-Rules/Character Building/Equipment/C/collar-of-empathy.md",
-    "3-Rules/Character Building/Equipment/C/clockwork-goggles-(greater).md",
-    "3-Rules/Character Building/Equipment/C/charm-of-resistance-(greater).md",
-    "3-Rules/Character Building/Equipment/C/camouflage-suit-superb.md",
-    "3-Rules/Character Building/Equipment/C/cane-of-the-maelstrom.md",
-    "3-Rules/Character Building/Equipment/C/cane-pistol.md",
-    "3-Rules/Character Building/Equipment/C/carver-cutter-greater.md",
-    "1-GM Toolkit/ToDo List.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 021.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 020.md",
-    "3-Rules/Character Building/Equipment/C/calamity-glass.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/C/conch-of-otherworldly-seas.md",
+    "zz-Attachments/conch-of-otherworldly-seas.png",
+    "3-Rules/Character Building/Equipment/C/Conch of Otherworldly Seas.md",
+    "3-Rules/Character Building/Equipment/C/concealment-coin.md",
+    "3-Rules/Character Building/Equipment/C/concealed-sheath.md",
+    "3-Rules/Character Building/Equipment/C/concealed-holster.md",
+    "3-Rules/Character Building/Equipment/C/comprehension-elixir-lesser.md",
+    "3-Rules/Character Building/Equipment/C/comprehension-elixir-greater.md",
+    "3-Rules/Character Building/Equipment/C/compound-eyes.md",
+    "zz-Attachments/comprehension-elixir.png",
+    "3-Rules/Character Building/Equipment/C/composite-shortbow.md",
+    "3-Rules/Character Building/Equipment/C/composite-longbow.md",
+    "3-Rules/Character Building/Equipment/C/composer-staff-major.md",
+    "zz-Attachments/composite-longbow.png",
+    "3-Rules/Character Building/Equipment/C/composer-staff-greater.md",
+    "3-Rules/Character Building/Equipment/C/composer-staff.md",
+    "3-Rules/Character Building/Equipment/C/compass-of-transpositional-awareness.md",
     "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Attachments/sodden-hold-map.png",
-    "zz-Attachments/crooked-house-tavern.png",
-    "zz-Attachments/tarquin-shortstone.png",
-    "zz-Attachments/Eligos.png",
-    "zz-Attachments/charlatans-cape.png",
-    "zz-Attachments/chain-sword.png",
-    "zz-Attachments/caydens-tankard.png",
-    "zz-Attachments/caydens-brew.png",
-    "zz-Attachments/cauthooj-bagpipes.png",
-    "zz-Attachments/catch-pole.png"
+    "1-GM Toolkit/ToDo List.md",
+    "zz-Attachments/composer-staff.png",
+    "3-Rules/Character Building/Equipment/C/compass-lensatic.md",
+    "3-Rules/Character Building/Equipment/C/compass.md",
+    "3-Rules/Character Building/Equipment/C/communion-mat.md",
+    "3-Rules/Character Building/Equipment/C/communication-pendants.md",
+    "3-Rules/Character Building/Equipment/C/communication-bangle.md",
+    "3-Rules/Character Building/Equipment/C/comealong.md",
+    "3-Rules/Character Building/Equipment/C/combat-lure.md",
+    "zz-Attachments/combat-lure.png",
+    "3-Rules/Character Building/Equipment/C/combat-grapnel.md",
+    "3-Rules/Character Building/Equipment/C/combat-fishing-pole.md",
+    "zz-Attachments/coldstar-pistols.png",
+    "zz-Attachments/clubhead-poison.png",
+    "zz-Attachments/cloud-buns.png",
+    "zz-Attachments/cloister-robe.png",
+    "zz-Attachments/clockwork-songbird.png"
   ]
 }

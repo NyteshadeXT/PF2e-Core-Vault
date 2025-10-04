@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "clandestine-cloak"
 aliases: "Clandestine Cloak"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "287"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "When you pull up the hood of this nondescript gray cloak (an Interact action), you become drab and uninteresting, gaining a +1 item bonus to Stealth checks and to Deception checks to [[Actions/Impersonate|Impersonate]] a forgettable background character, such as a servant, but also taking a -1 item penalty to Diplomacy and Intimidation checks.  * * *  **Activate—Cloak Identity** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You pull the cloak's hood up and gain the benefits of [[Spells/Veil of Privacy|Veil of Privacy]] for 1 hour or until you pull the hood back down, whichever comes first."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "When you pull up the hood of this nondescript gray cloak (an [[Interact]] action), you become drab and uninteresting, gaining a +1 item bonus to [[Skills#Stealth|Stealth]] checks and to [[Skills#Deception|Deception]] checks to [[Impersonate]] a forgettable background character, such as a servant, but also taking a -1 item penalty to [[Skills#Diplomacy|Diplomacy]] and [[Skills#Intimidation|Intimidation]] checks."
+powerTitle1: "Cloak Identity"
+actionEconomy1: 2
+type1: "([[concentrate]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You pull the cloak's hood up and gain the benefits of [[Veil of Privacy]] for 1 hour or until you pull the hood back down, whichever comes first."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -1,0 +1,81 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "cloister-robe-major"
+aliases: "Cloister Robe (Major)"
+source: "Pathfinder Treasure Vault"
+pg: "148"
+rarity: ""
+trait01: "divine"
+trait02: "focused"
+trait03: "invested"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/cloister-robe.png
+level: 19
+weight: L
+value: "32000"
+subvalue: "gp"
+invest:
+usage: "wornarmor"
+license: "ORC"
+identify:
+description: "The most devoted, cloistered clerics wear a _cloister robe_. Decorations symbolic of a specific deity adorn the robe, and the robe's colors and the complexity of its construction fit the deity's outlook. The robe serves as a religious symbol of that deity, and it doesn't need to be wielded to provide that benefit.<br><br>The robe is _[[armor-potency-3|+3]] [[resilient-(greater)|greater resilient]] [[explorer's clothing]]_ and grants a +2 item bonus to [[Skills#Religion|Religion]] checks and a +1 item bonus to the divine skill of the deity to whom the robe is dedicated. The robe doesn't grant any benefits to a wearer who doesn't worship the deity tied to the robe. In addition, when you cast a domain spell from one of the deity's domains, you gain resistance to damage from divine spells until the end of your next turn. This resistance is equal to half the robe's level."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
+frequency1: "once per day"
+trigger1:
+mechanics1: "You gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the robe is dedicated to. If you don't spend this Focus Point by the end of this turn, it is lost."
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft: "You are a cleric who worships the deity tied to the robe."
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap: 5
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase: "Explorer's Clothing"
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

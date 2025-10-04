@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "chopping-evisceration-snare"
 aliases: "Chopping Evisceration Snare"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "14"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "An almost-impossible number of axes spring out at a target with lethal force. When a creature enters the snare's square, it's nearly buried beneath a storm of sharpened metal, which deals 16d8 slashing damage (DC 33 Reflex check)."
+description: "An almost-impossible number of axes spring out at a target with lethal force. When a creature enters the snare's square, it's nearly buried beneath a storm of sharpened metal, which deals `dice: 16d8` 16d8 slashing damage (DC 33 Reflex check)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

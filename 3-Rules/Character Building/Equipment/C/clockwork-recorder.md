@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "clockwork-recorder"
 aliases: "Clockwork Recorder"
 source: "Pathfinder Lost Omens Legends"
-pg: ""
-rarity: ""
-trait01: "rare"
+pg: "24"
+rarity: "rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small recording device can be as tiny as a music box or around the size of large book and is typically concealed in hollowed-out books and jewelry. A clockwork recorder can record up to 1 hour of sound before its wax cylinders must be retrieved and replaced. Any given clockwork recorder can play back the recordings of a cylinder, regardless of whether it was the recorder used for the original recording.  **Activate** `pf2:3` Interact  * * *  **Effect** You wind the recorder to start recording sound or to play back a recording. You can have the recording or playback start immediately or be timed to start at any point up to one month later."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small recording device can be as tiny as a music box or around the size of large book and is typically concealed in hollowed-out books and jewelry. A clockwork recorder can record up to 1 hour of sound before its wax cylinders must be retrieved and replaced. Any given clockwork recorder can play back the recordings of a cylinder, regardless of whether it was the recorder used for the original recording."
+powerTitle1: "Effect"
+actionEconomy1: 3
+type1: "([[interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You wind the recorder to start recording sound or to play back a recording. You can have the recording or playback start immediately or be timed to start at any point up to one month later."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

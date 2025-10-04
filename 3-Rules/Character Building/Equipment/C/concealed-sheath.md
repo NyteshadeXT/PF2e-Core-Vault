@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "concealed-sheath"
 aliases: "Concealed Sheath"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "288"
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This leather sheath is large enough to hold an item of up to light Bulk and is typically used for daggers, wands, thieves' tools, and similar objects.  You can affix it to the inside of a boot, under a bracer or sleeve, or in other inconspicuous locations to gain a +1 item bonus to Stealth checks and DCs to hide or conceal the item within."
+description: "This leather sheath is large enough to hold an item of up to light Bulk and is typically used for daggers, wands, thieves' tools, and similar objects.  You can affix it to the inside of a boot, under a bracer or sleeve, or in other inconspicuous locations to gain a +1 item bonus to [[Skills#Stealth|Stealth]] checks and DCs to hide or conceal the item within."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

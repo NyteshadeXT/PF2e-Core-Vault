@@ -67,6 +67,9 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 13
+hitpoints: 104
+break: 52
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #

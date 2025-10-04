@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "chronicler-wayfinder"
 aliases: "Chronicler Wayfinder"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "30"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/wayfinder.png
 level: 6
 weight: 
 value: "200"
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Chronicler wayfinders bear a mystical connection to the Pathfinder Chronicles themselves, granting them the ability to assist in situations where unusual lore is needed by drawing on lore from a particular topic. Each chronicler wayfinder is attuned to a specific Lore skill, chosen at the time of creation. In addition to the effects of a [[Equipment/Wayfinder|Wayfinder]], a chronicler wayfinder has the following activation.  * * *  **Activate** `pf2:1` Envision  * * *  **Effect** You tap into the Pathfinder Chronicles on the chronicler wayfinder's attuned topic, gaining the effects of a Recall Knowledge action with the chosen Lore skill. For the Lore check's modifier, use whichever is better of +12 or your own modifier, using your level as your proficiency bonus even if you're untrained in the attuned Lore skill."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Chronicler wayfinders bear a mystical connection to the Pathfinder Chronicles themselves, granting them the ability to assist in situations where unusual lore is needed by drawing on lore from a particular topic. Each chronicler wayfinder is attuned to a specific Lore skill, chosen at the time of creation. In addition to the effects of a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], a chronicler wayfinder has the following activation.  "
+powerTitle1: "Recall Knowledge"
+actionEconomy1: 1
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You tap into the Pathfinder Chronicles on the chronicler wayfinder's attuned topic, gaining the effects of a [[Recall Knowledge]] action with the chosen [[Skills#Lore|Lore]] skill. For the Lore check's modifier, use whichever is better of +12 or your own modifier, using your level as your proficiency bonus even if you're untrained in the attuned [[Skills#Lore|Lore]] skill."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "choker-of-elocution"
 aliases: "Choker of Elocution"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "287"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "This platinum choker bears characters from a language's alphabet, and it gives knowledge of that language and the associated culture's customs.  You gain a +1 item bonus to Society checks and the ability to understand, speak, and write the chosen language.  Your excellent elocution reduces the DC of the flat check to perform an auditory action while deafened from 5 to 3.  **Craft Requirements** You know the language the choker grants."
+description: "This platinum choker bears characters from a language's alphabet, and it gives knowledge of that language and the associated culture's customs.  You gain a +1 item bonus to [[Skills#Society|Society]] checks and the ability to understand, speak, and write the chosen language.  Your excellent elocution reduces the DC of the flat check to perform an auditory action while deafened from 5 to 3.  "
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "You know the language the choker grants."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

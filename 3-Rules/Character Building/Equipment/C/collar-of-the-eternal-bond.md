@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "collar-of-the-eternal-bond"
 aliases: "Collar of the Eternal Bond"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "182"
 rarity: ""
 trait01: "eidolon"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "When you invest this collar for your eidolon, it changes its appearance to match the eidolon's form, possibly into a different sort of neckpiece such as a choker, and it glows brightly with the symbol you and your eidolon share. While your eidolon wears a collar of the eternal bond, the collar bolsters their connection to you, allowing them to move up to 150 feet from you before unmanifesting instead of 100 feet. The eidolon can also Activate the collar to move even further.  * * *  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** Your eidolon focuses their will on the collar, allowing the collar to maintain the connection between you at any distance. For the next 5 minutes, you and your eidolon can move any distance from each other without your eidolon unmanifesting. When the duration ends, if your eidolon is more than 150 feet from you, they immediately unmanifest."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "When you invest this collar for your eidolon, it changes its appearance to match the eidolon's form, possibly into a different sort of neckpiece such as a choker, and it glows brightly with the symbol you and your eidolon share. While your eidolon wears a collar of the eternal bond, the collar bolsters their connection to you, allowing them to move up to 150 feet from you before unmanifesting instead of 100 feet. The eidolon can also Activate the collar to move even further."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "Your eidolon focuses their will on the collar, allowing the collar to maintain the connection between you at any distance. For the next 5 minutes, you and your eidolon can move any distance from each other without your eidolon unmanifesting. When the duration ends, if your eidolon is more than 150 feet from you, they immediately unmanifest."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

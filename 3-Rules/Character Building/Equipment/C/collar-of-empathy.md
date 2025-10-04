@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "collar-of-empathy"
 aliases: "Collar of Empathy"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "272"
 rarity: ""
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "This ornate collar of intertwined leather strips of contrasting colors is paired with a bracelet of a similar construction. When you wear and invest the bracelet and your companion wears and invests the collar, you gain a stronger connection to each other. You and your companion can always sense each other's emotional states and basic physical wants and needs.  **Activate—Empathic Link** `pf2:1` (concentrate)  * * *  **Effect** You perceive through your animal companion's senses instead of your own. You can Sustain the activation. You are unaware of your own surroundings for as long as you are using your animal companion's senses. In addition to the obvious use when you are separated from your companion, this ability might allow you to notice sounds, scents, and other stimuli that your companion's senses register but yours alone don't."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This ornate collar of intertwined leather strips of contrasting colors is paired with a bracelet of a similar construction. When you wear and invest the bracelet and your companion wears and invests the collar, you gain a stronger connection to each other. You and your companion can always sense each other's emotional states and basic physical wants and needs."
+powerTitle1: "Empathic Link"
+actionEconomy1: 1
+type1: "([[concentrate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You perceive through your animal companion's senses instead of your own. You can Sustain the activation. You are unaware of your own surroundings for as long as you are using your animal companion's senses. In addition to the obvious use when you are separated from your companion, this ability might allow you to notice sounds, scents, and other stimuli that your companion's senses register but yours alone don't."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "cloak-of-feline-rest"
 aliases: "Cloak of Feline Rest"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "182"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This black velvet cloak is featureless and very soft to the touch. Upon wearing it for the first time, you're momentarily overwhelmed with a sense of comfort and coziness. While wearing this cloak you can comfortably rest in any space, so long as it's not wet or particularly hazardous. While sleeping in this cloak you only take a -2 status penalty to auditory Perception checks, rather than a -4 status penalty."
+description: "This black velvet cloak is featureless and very soft to the touch. Upon wearing it for the first time, you're momentarily overwhelmed with a sense of comfort and coziness. While wearing this cloak you can comfortably rest in any space, so long as it's not wet or particularly hazardous. While sleeping in this cloak you only take a -2 status penalty to auditory [[Skills#Perception|Perception]] checks, rather than a -4 status penalty."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,6 @@ weaponBase:
 armorBase:
 
 ---
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "coin-of-comfort"
 aliases: "Coin of Comfort"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "26"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This thick silver coin is deeply worn on one side, creating a shallow dip.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per hour  * * *  **Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Conditions/Frightened|Frightened]] condition by 1."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This thick silver coin is deeply worn on one side, creating a shallow dip."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Frightened]] condition by 1."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

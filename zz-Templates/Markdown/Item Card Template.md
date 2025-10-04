@@ -98,7 +98,7 @@ weaponType:
 weaponCategory: 
 
 #========================================================#
-#                    ARMOR PROPERTIES                    #
+#                ARMOR/SHIELD PROPERTIES                 #
 #========================================================#
 baseAC: 
 dexCap: 
@@ -108,7 +108,11 @@ speedPenalty:
 armorCategory: 
 resist: 
 immunity: 
-conditionImmunity: 
+conditionImmunity:
+weaknesses:
+hardness: 
+hp: 
+bt: 
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -124,6 +128,13 @@ int:
 wis:
 cha:
 will:
+
+#========================================================#
+#                 OTHER ITEM PROPERTIES                  #
+#========================================================#
+fort:
+reflex:
+speed:
 
 #========================================================#
 #                   DATAVIEW PROPERTIES                  #
@@ -237,6 +248,19 @@ if (d.checkPenalty!= null) arm.push(`**Check Penalty** ${d.checkPenalty}`);
 if (d.speedPenalty!= null) arm.push(`**Speed Penalty** ${d.speedPenalty}`);
 if (arm.length)           stats.push(arm.join("; "));
 
+// Armor/Shield: Resistances / Immunities / Condition Immunities / Weaknesses
+{
+  const parts = [];
+  const str = (x) => x?.toString().trim();
+
+  if (str(d.resist))            parts.push(`**Resistances** ${str(d.resist)}`);
+  if (str(d.immunity))          parts.push(`**Immunities** ${str(d.immunity)}`);
+  if (str(d.conditionImmunity)) parts.push(`**Condition Immunities** ${str(d.conditionImmunity)}`);
+  if (str(d.weaknesses))        parts.push(`**Weaknesses** ${str(d.weaknesses)}`);
+
+  if (parts.length) stats.push(parts.join("; "));
+}
+
 // Durability (Hardness / HP / BT)
 let dur = [];
 if (d.hardness  != null) dur.push(`**Hardness** ${d.hardness}`);
@@ -254,6 +278,25 @@ if (d.hardness || d.hp || d.bt) {
   if (d.hp)       shieldParts.push(`**HP** ${d.hp}`);
   if (d.bt)       shieldParts.push(`**BT** ${d.bt}`);
   stats.push(shieldParts.join('; '));
+}
+
+// ─── OTHER ITEM PROPERTIES (Fort / Reflex / Speed) ─────────────
+{
+  const otherParts = [];
+
+  // fort/reflex are integers in YAML but should show with a leading "+"
+  const fmtPlus = (n) =>
+    (typeof n === "number" ? `+${n}` :
+     (n?.toString().trim() ? (n.toString().trim().startsWith('+') ? n.toString().trim() : `+${n.toString().trim()}`) : null));
+
+  const fortStr   = fmtPlus(d.fort);
+  const reflexStr = fmtPlus(d.reflex);
+
+  if (fortStr)   otherParts.push(`**Fort** ${fortStr}`);
+  if (reflexStr) otherParts.push(`**Reflex** ${reflexStr}`);
+  if (d.speed?.toString().trim()) otherParts.push(`**Speed** ${d.speed.toString().trim()}`);
+
+  if (otherParts.length) stats.push(otherParts.join("; "));
 }
 
 // ─── Activate / Craft / License / Invest ─────────────────────────────────
