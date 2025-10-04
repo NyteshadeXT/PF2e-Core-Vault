@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "compound-eyes"
 aliases: "Compound Eyes"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "98"
 rarity: ""
 trait01: "fortune"
 trait02: "graft"
 trait03: "invested"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "You replace your eyes with ones similar to an insect's or a crustacean's, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that's [[Conditions/Concealed|Concealed]] from you, you can roll twice and take the better result."
+description: "You replace your eyes with ones similar to an insect's or a crustacean's, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that's [[Concealed]] from you, you can roll twice and take the better result."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

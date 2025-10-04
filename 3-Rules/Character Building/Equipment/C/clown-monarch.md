@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "clown-monarch"
 aliases: "Clown Monarch"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "68"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  A victim of clown monarch is amusing to behold as they repeatedly suffer slapstick pratfalls. This poison disrupts the victim's sense of balance.  **Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** falls [[Conditions/Prone|Prone]] and must succeed at a DC 5 Flat check when attempting a Stand action or the action fails and is lost (1 round)  **Stage 2** as stage 1 but a DC 10 Flat check (1 round)  **Stage 3** as stage 1 but a DC 15 Flat check (1 round)"
+activate: "`pf2:2` ([[Interact]])"
+description: "A victim of clown monarch is amusing to behold as they repeatedly suffer slapstick pratfalls. This poison disrupts the victim's sense of balance.<br><br>**Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** falls [[Prone]] and must succeed at a DC 5 Flat check when attempting a Stand action or the action fails and is lost (1 round)  **Stage 2** as stage 1 but a DC 10 Flat check (1 round)  **Stage 3** as stage 1 but a DC 15 Flat check (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

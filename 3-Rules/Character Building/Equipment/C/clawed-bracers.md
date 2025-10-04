@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "clawed-bracers"
 aliases: "Clawed Bracers"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "287"
 rarity: ""
 trait01: "invested"
 trait02: "primal"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornbracers"
 license: "ORC"
 identify:
-description: "Animal claws are woven into the thick leather of these bracers.  * * *  **Activate—Extend Claws** `pf2:1` (manipulate, morph)  **Frequency** once per hour  **Effect** The bracers fuse temporarily with your forearms, with the claws extending to your fingertips. You gain a climb Speed of 20 feet and a claw unarmed attack with the agile and finesse traits that deals 1d6 slashing damage. This lasts for 10 minutes or until you Dismiss it.  [[Equipment Effects/Effect_ Clawed Bracers|Effect: Clawed Bracers]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Animal claws are woven into the thick leather of these bracers."
+powerTitle1: "Extend Claws"
+actionEconomy1: 1
+type1: "([[manipulate]], [[morph]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "The bracers fuse temporarily with your forearms, with the claws extending to your fingertips. You gain a climb Speed of 20 feet and a claw unarmed attack with the agile and finesse traits that deals `dice: 1d6` 1d6 slashing damage. This lasts for 10 minutes or until you [[Dismiss]] it."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

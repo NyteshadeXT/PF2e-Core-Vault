@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "collar-of-the-shifting-spider"
 aliases: "Collar of the Shifting Spider"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "63"
 rarity: ""
 trait01: "alchemical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -25,8 +25,8 @@ subvalue: "gp"
 invest:
 usage: "worncollar"
 license: "ORC"
-identify:
-description: "**Activate** `pf2:0` Interact  This intimidating collar contains a hollow central tube and ends in twin metal points shaped like spider fangs. The collar can be filled with an alchemical mutagen as an Interact action. As a free action triggered when you roll initiative, you can activate the collar, causing the metal points to dig into your neck, inflicting 1 piercing and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration."
+identify: "`pf2:0` [[Interact]]"
+description: "This intimidating collar contains a hollow central tube and ends in twin metal points shaped like spider fangs. The collar can be filled with an alchemical mutagen as an Interact action. As a free action triggered when you roll initiative, you can activate the collar, causing the metal points to dig into your neck, inflicting 1 piercing and injecting the mutagen directly into your bloodstream. This has the same effect as if you drank the mutagen conventionally, except the duration of the mutagen is halved due to the more direct administration."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

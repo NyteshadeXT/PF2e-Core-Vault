@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "cindergrass-poultice"
 aliases: "Cindergrass Poultice"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "healing"
 trait03: "magical"
 trait04: "oil"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This thick, waxy gel erases the effects of flame. It restores 2d12 healing Hit Points to a creature when applied to their body. If the creature has taken fire damage within the last minute, it restores additional Hit Points equal to the amount of fire damage the creature took within the last minute (maximum +10). Finally, the creature becomes immune to the effects of severe heat for 1 hour."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This thick, waxy gel erases the effects of flame. It restores `dice: 2d12` 2d12 healing Hit Points to a creature when applied to their body. If the creature has taken fire damage within the last minute, it restores additional Hit Points equal to the amount of fire damage the creature took within the last minute (maximum +10). Finally, the creature becomes immune to the effects of severe heat for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

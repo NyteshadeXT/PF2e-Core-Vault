@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "clockwork-shield"
 aliases: "Clockwork Shield"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "22"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/clockwork-shield.png
 level: 11
 weight: 1
 value: "1300"
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This brass-coated, steel shield (Hardness 12, HP 90, BT 45) has _+2 striking shield spikes_ made of bronze gears.  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** The shield's gears begin to spin, subtly adjusting the shield's position as you fight. You gain an extra reaction this turn and at the start of each of your turns for the next minute that you can use only to Shield Block."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This brass-coated, steel shield has _[[Weapon Potency (+2)|+2]] [[striking]] [[shield spikes]]_ made of bronze gears."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The shield's gears begin to spin, subtly adjusting the shield's position as you fight. You gain an extra reaction this turn and at the start of each of your turns for the next minute that you can use only to Shield Block."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,7 +57,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 2
 modAC:
 dexCap:
 strRequirement:
@@ -67,11 +67,20 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 12
+hp: 90
+bt: 45
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

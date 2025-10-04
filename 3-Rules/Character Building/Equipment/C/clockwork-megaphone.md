@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "clockwork-megaphone"
 aliases: "Clockwork Megaphone"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "87"
+rarity: "uncommon"
 trait01: "clockwork"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

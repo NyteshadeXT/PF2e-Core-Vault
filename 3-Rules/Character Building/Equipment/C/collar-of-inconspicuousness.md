@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "collar-of-inconspicuousness"
 aliases: "Collar of Inconspicuousness"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "272"
 rarity: ""
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "This leather collar's worn and almost threadbare look belies its magical nature. When your companion wears and invests the collar, it gains the ability to change its appearance from that of a ferocious animal into a more inconspicuous form.  **Activate—Adorable Guise** `pf2:1` envision  * * *  **Effect** You touch your animal companion to transform it into a nonthreatening Tiny creature of the same family or a similar creature (for instance, a house cat instead of a tiger, or a puppy instead of a wolf). This has the effects of [[Spells/Pest Form|Pest Form]] (2nd rank, or 4th rank if your companion can fly). The effect lasts until you Dismiss it."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This leather collar's worn and almost threadbare look belies its magical nature. When your companion wears and invests the collar, it gains the ability to change its appearance from that of a ferocious animal into a more inconspicuous form."
+powerTitle1: "Adorable Guise"
+actionEconomy1: 1
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You touch your animal companion to transform it into a nonthreatening Tiny creature of the same family or a similar creature (for instance, a house cat instead of a tiger, or a puppy instead of a wolf). This has the effects of [[Pest Form]] (2nd rank, or 4th rank if your companion can fly). The effect lasts until you Dismiss it."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

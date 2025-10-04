@@ -7,52 +7,54 @@ notetype: pf2e-item
 name: "composer-staff"
 aliases: "Composer Staff"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "131"
 rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/composer-staff.png
 level: 4
 weight: 1
 value: "80"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
+group: "Club"
 license: "ORC"
 identify:
-description: "A _composer staff_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to Performance checks made with it.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Haunting Hymn|Haunting Hymn]], [[Spells/Summon Instrument|Summon Instrument]] *   **1st** [[Spells/Concordant Choir|Concordant Choir]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle1:
+description: "A _composer staff_ is short and shaped like an elegant black conductor's baton with a silver tip. When waved through the air, it hums melodically. In this way, you can play it as though it were an instrument, and it grants a +1 item bonus to [[Skills#Performance|Performance]] checks made with it."
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+activate1: "Cast a Spell"
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Haunting Hymn]], [[Summon Instrument]] *   **1st** [[Concordant Choir]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed ranks of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

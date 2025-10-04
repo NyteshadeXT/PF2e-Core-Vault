@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "cloak-of-immolation"
 aliases: "Cloak of Immolation"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "306"
+rarity: "rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "Appearing as a magic cloak such as a _clandestine cloak_, this garment is made of highly volatile fabric. While wearing it, if you take fire damage, you also take 1d10 persistent fire damage. Taking fire damage while the persistent fire damage is in effect has no additional effect. You can extinguish the persistent fire damage as normal.  Any creature that hits you with a melee unarmed attack while you are taking this persistent fire damage takes fire damage equal to the persistent fire damage you took on your previous turn. Once the curse has activated for the first time, the cloak fuses to you."
+description: "Appearing as a magic cloak such as a _[[clandestine cloak]]_, this garment is made of highly volatile fabric. While wearing it, if you take fire damage, you also take `dice: 1d10` 1d10 persistent fire damage. Taking fire damage while the persistent fire damage is in effect has no additional effect. You can extinguish the persistent fire damage as normal.  Any creature that hits you with a melee unarmed attack while you are taking this persistent fire damage takes fire damage equal to the persistent fire damage you took on your previous turn. Once the curse has activated for the first time, the cloak fuses to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

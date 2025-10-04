@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "cinnamon-seers"
 aliases: "Cinnamon Seers"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "47"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "lozenge"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Zippy, alchemically treated cinnamon suffuses cinnamon seers, a rock candy with a lively taste that provides a mental boost. A cinnamon seer remains in your mouth for 1 hour, its stimulating flavor granting you a +1 item bonus to checks to Recall Knowledge.  [[Equipment Effects/Effect_ Cinnamon Seers|Effect: Cinnamon Seers]]  **Secondary Effect** `pf2:r` (fortune)  **Trigger** You gain no information from a Recall Knowledge check  * * *  **Effect** Reroll the triggering check. If this was a secret check, the GM rerolls rather than you; the candy doesn't give you any insight into what the GM rolled, so in that case, you're rerolling based only on guesswork. The seer becomes inert. You become temporarily immune to cinnamon seers until the next time you make your daily preparations."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Zippy, alchemically treated cinnamon suffuses cinnamon seers, a rock candy with a lively taste that provides a mental boost. A cinnamon seer remains in your mouth for 1 hour, its stimulating flavor granting you a +1 item bonus to checks to [[Recall Knowledge]]."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[fortune]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You gain no information from a [[Recall Knowledge]] check"
+mechanics1: "Reroll the triggering check. If this was a secret check, the GM rerolls rather than you; the candy doesn't give you any insight into what the GM rolled, so in that case, you're rerolling based only on guesswork. The seer becomes inert. You become temporarily immune to cinnamon seers until the next time you make your daily preparations."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

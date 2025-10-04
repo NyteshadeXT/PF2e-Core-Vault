@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "charlatans-gloves"
 aliases: "Charlatan's Gloves"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "286"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to Thievery and allow you to cast [[Spells/Telekinetic Hand|Telekinetic Hand]] as an innate occult spell."
+description: "Tiny silver hooks decorate these fine silk gloves. They grant a +1 item bonus to [[Skills#Thievery|Thievery]] and allow you to cast [[Telekinetic Hand]] as an innate occult spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

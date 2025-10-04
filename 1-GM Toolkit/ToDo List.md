@@ -12,8 +12,8 @@ tags:
 	- [ ] Add Adamantine Chunk and Ingot
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
 	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
-	- [ ] Add 
-	- [ ] Add  
+	- [ ] Add Cold Iron Armors, Bucklers, Object, Shield and Weapon
+	- [ ] Add Cold Iron Chunk and Ingot
 - [ ] Update item templates with Identification criteria
 - [ ] Create spell template
 - [ ] Update spells to new template

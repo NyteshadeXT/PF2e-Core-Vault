@@ -17,7 +17,7 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/arrow-catching-shield.png
 level: 11
 weight: 1
 value: "1350"
