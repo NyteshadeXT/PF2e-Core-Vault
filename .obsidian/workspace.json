@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "3c03d4b074f61ef1",
+            "id": "4a89bdd47916f6f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-                "mode": "source",
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Hall of Harsh Reflections"
+              "title": "Encounter at Blackwall Keep"
             }
           },
           {
@@ -50,35 +50,35 @@
             }
           },
           {
-            "id": "4a89bdd47916f6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "cauterizing-torch"
-            }
-          },
-          {
             "id": "967ace6983fb9b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/devious-spiked-pit-hb.md",
-                "mode": "preview",
+                "file": "1-GM Toolkit/Chimeracrafting.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "devious-spiked-pit-hb"
+              "title": "Chimeracrafting"
+            }
+          },
+          {
+            "id": "32b63baa4f00d820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Random_Jewelry_Table"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 334.5
   },
   "right": {
     "id": "3694d2a61e632d77",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "file": "3-Rules/Bestiaries/Uniques/Myrianaas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Hall of Harsh Reflections"
+              "title": "Backlinks for Myrianaas"
             }
           },
           {
@@ -261,6 +261,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "eda867e9f850993c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b808493f0e5b86a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,43 +305,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c03d4b074f61ef1",
+  "active": "967ace6983fb9b22",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/cauterizing-torch.md",
-    "3-Rules/Character Building/Equipment/C/choker-arm-mutagen-(major).md",
-    "3-Rules/Character Building/Equipment/C/clan-pistol.md",
-    "3-Rules/Character Building/Equipment/C/clandestine-cloak-(greater).md",
-    "3-Rules/Character Building/Equipment/C/clay-sphere-(major).md",
-    "3-Rules/Character Building/Equipment/C/climbing-kit-(extreme).md",
-    "3-Rules/Character Building/Equipment/C/clinging-ooze-snare.md",
-    "3-Rules/Character Building/Equipment/C/cloak-of-waves-&-clouds.md",
-    "3-Rules/Character Building/Equipment/C/Clockwork Dial.md",
-    "3-Rules/Character Building/Equipment/C/cauthooj-bagpipes.md",
-    "3-Rules/Character Building/Equipment/C/Collar.md",
-    "3-Rules/Character Building/Equipment/C/collar-of-empathy.md",
-    "3-Rules/Character Building/Equipment/C/clockwork-goggles-(greater).md",
-    "3-Rules/Character Building/Equipment/C/charm-of-resistance-(greater).md",
-    "3-Rules/Character Building/Equipment/C/camouflage-suit-superb.md",
-    "3-Rules/Character Building/Equipment/C/cane-of-the-maelstrom.md",
-    "3-Rules/Character Building/Equipment/C/cane-pistol.md",
-    "3-Rules/Character Building/Equipment/C/carver-cutter-greater.md",
-    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
+    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
+    "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
+    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
+    "3-Rules/Character Building/Equipment/Homebrew/organ-ward-resin.md",
+    "3-Rules/Character Building/Equipment/Homebrew/preserving-salts.md",
+    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
+    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
+    "3-Rules/Character Building/Equipment/Homebrew/venomlash-talisman.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
+    "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
+    "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
+    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
     "1-GM Toolkit/DC Calculator.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 021.md",
-    "2-Session Journals/Age-of-Worms/AoW Session 020.md",
-    "3-Rules/Character Building/Equipment/C/calamity-glass.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Hazards/Homebrew/glyph-of-warding-blast-hb.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "5-World/NPCs/Ardentia City/Loris Raknian.md",
+    "5-World/NPCs/Ardentia City/Lady Seraphina Moonshadow.md",
+    "3-Rules/Bestiaries/Uniques/Zyrxog.md",
+    "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md",
+    "zz-Attachments/zyrxog.png",
+    "zz-Attachments/museum.png",
+    "zz-Attachments/collapsed-chamber.png",
+    "zz-Attachments/Telakin.png",
+    "zz-Attachments/Drow Caves.png",
+    "zz-Attachments/octopin.png",
     "zz-Attachments/sodden-hold-map.png",
     "zz-Attachments/crooked-house-tavern.png",
     "zz-Attachments/tarquin-shortstone.png",
-    "zz-Attachments/Eligos.png",
-    "zz-Attachments/charlatans-cape.png",
-    "zz-Attachments/chain-sword.png",
-    "zz-Attachments/caydens-tankard.png",
-    "zz-Attachments/caydens-brew.png",
-    "zz-Attachments/cauthooj-bagpipes.png",
-    "zz-Attachments/catch-pole.png"
+    "zz-Attachments/Eligos.png"
   ]
 }

@@ -103,27 +103,30 @@ The journey is not without peril. The roads are not as safe as they once were, w
 
 ## Part 1: Welcome to Ardentia City
 > [!note]+ Read Aloud
-> The path before you shimmers like solid light—an immense crystalline bridge stretching across the open air, its surface humming faintly beneath your steps. Below, clouds swirl in the fractured skies, and far above, airships drift lazily between the spires. As you near the city, the sheer scale of Ardentia comes into focus: towering citadels and mage-lit towers crowd the skyline, their runes glowing softly in the twilight. 
+> The path before you shimmers like solid light—an immense crystalline bridge stretching across the open air, its surface humming faintly beneath your steps. Far below, the fractured clouds churn in restless layers of violet and gold, while far above, sleek airships glide lazily between spires that pierce the sky. Ahead, the city rises in a dazzling cascade of towers and mage-lit citadels, their runes glowing softly in the twilight like constellations inverted upon the earth.
 > 
-> At the far end of the span, the gates of Ardentia stand tall—massive doors of silver-inlaid stone flanked by towering statues whose eyes flicker with warding light. Before them wait the [[Luminous Vanguard]]: armored sentinels clad in polished crystalline mail that shines with a faint inner glow, their tabards marked with the radiant sunburst of their order. Their discipline is palpable, every movement precise as they watch the flow of merchants, seekers, and travelers filing toward the gates.
+> At the far end of the bridge stand the gates of Ardentia: massive doors of silver-veined stone flanked by colossal statues whose eyes flicker with warding light. Before them waits the Luminous Vanguard—sentinels in crystalline mail, their polished armor alive with inner light. Their tabards bear the radiant sunburst of their order, and though their discipline is absolute, their stares seem sharper than the steel they carry.
 
-Gaining access to [[Ardentia City]] is a lengthy endeavor that involves waiting in line for 2 hours, followed by an inspection performed by the guards at the gate. Although the city is open to all and relatively safe, the [[Luminous Vanguard]] has stringent laws against contraband (namely destructive magic, drugs, and any poisons). If disguised as commoners with a [[Skills#Deception|Deception]] check (opposed by three [[Skills#Perception|Perception]] checks by the guards) the party is let through the gate after a simple questioning of their name and business. Otherwise, read or paraphrase the following when the PCs approach the gate.
+The line to enter Ardentia stretches ahead—merchants with laden carts, scholars herding floating stacks of books, seekers hauling cracked relic cases. Every so often a sharp word or flare of magic draws attention, and the Vanguard reacts instantly, dragging offenders aside for questioning. While waiting, the party notices unease ripple through the crowd: a pair of identical merchants screaming accusations of imposture before both are shackled and led away, or a weeping child insisting her father’s voice _sounds wrong_. The guards pay no mind to explanations; order is all that matters.
 
 > [!note]+ Read Aloud
-> One Vanguard steps forward as you near, his helm catching the light of the crystalline bridge. His voice rings clear and commanding, carrying authority without harshness. 
+> As you reach the gate, a Vanguard officer steps forward. His helm catches the glow of the crystalline bridge, and his voice is clear and commanding:
 > 
-> “Halt. You stand before Ardentia, jewel of the Highlands. State your names and your purpose within these walls.”
+> “Halt. You stand before Ardentia, jewel of the Highlands. State your names, your charter if you have one, and the purpose of your visit. Be warned—this city tolerates no deceit.”
 
-While the guards have nothing against the PCs, they tend to give a hard time to those outfitted better than themselves. After recording the names of all the party members, the guards ask to take a look at their possessions, citing the need to search for contraband. They look very suspiciously at all weapons and unusual gear, especially any odd talismans, jars containing green worms, or obviously magic items. After the inspection, which is conducted with a healthy dose of concerned looks and disapproving sighs, the guards inform the party that some of their gear may need to be confiscated. Although patently untrue, the guards are looking for a small bribe (5 gp or more) to ease the party's passage into the city. A successful DC 20 [[Sense Motive]] check makes this clear. Should the PCs proclaim their innocence forcefully and repeatedly, the guards let them. in without much protest. Should any of the PCs actually possess contraband (such as poison or drugs) it is confiscated and the PC is fined 20 gp per dose or banned item.
+The officer carefully records their names, purpose, and affiliation, then gestures for an inspection of possessions. This is not a casual search: the Vanguard check for contraband such as poisons, illicit alchemy, or unstable crystals, but they are also highly suspicious of unusual relics—especially the worm in the jar, strange diadems, or any item radiating disruptive magic. Divination wards shimmer faintly as they work, though they do not always return clear results; the officers frown and record notes, muttering about “false echoes.”
 
+If the PCs lack an Adventuring Charter, the guards advise that they will need one soon—without it, they cannot legally sell or transport magical relics within the city. This foreshadows dealings with the Arcane Exchange Consortium.
+
+Though the Vanguard project impartiality, their intensity borders on paranoia. A DC 20 [[Sense Motive]] reveals that their questioning is harsher than usual. A recent spate of “impostors” has left them shaken, and even the disciplined Vanguard cannot fully conceal it.
 Once they're inside the Ardentia City, read or paraphrase the following to the PCs.
 
 > [!note]+ Read Aloud
-> The cobbles of Ardentia’s Merchant Quarter gleam faintly with embedded shards of crystal, worn smooth by countless footsteps and scored by the deep ruts of wagon wheels. The streets surge with life—humans, elves, dwarves, and stranger folk from across the fractured lands, their garb ranging from simple travel-stained cloaks to flowing robes alive with enchantments. The creak of laden carts mingles with the flutter of banners and the calls of merchants hawking rare wares: shimmering fabrics, alchemical brews, enchanted trinkets, and spices that perfume the air.
+> After the long inspection, the gates part with a low hum, and the streets of Ardentia stretch out before you. The cobbles gleam faintly with embedded crystal shards, worn smooth by centuries of traffic. The air is alive with sound: the creak of wagons heavy with enchanted goods, the cries of hawkers selling everything from bottled lightning to skyfruit, the distant thunder of spellfire echoing from practice yards.
 > 
-> The aroma of fire-roasted meats, fresh-baked bread, and sizzling street fare battles with the less pleasant scents of sweat, beasts of burden, and the ever-present tang of ozone from nearby crystal lanterns. Floating familiars dart overhead, carrying messages or balancing trays of goods, while enchanted signboards flicker with runes promising bargains within.
+> Floating familiars dart overhead, carrying parcels and scrolls, while enchanted signboards shimmer with runes promising wonders within. Spices and incense perfume the air, but the tang of ozone from everburning crystal lanterns undercuts the warmth.
 > 
-> Amid the chaos, the orderly presence of the Luminous Vanguard keeps the thoroughfares open, their polished armor gleaming as they guide the throngs with an authority that brooks no argument. Above it all, the distant spires of the Conclave glimmer like watchful eyes, a reminder that magic rules as firmly here as coin.
+> The streets pulse with life—humans, elves, dwarves, and stranger folk alike—but beneath the bustle runs a current of unease. A merchant suddenly hushes mid-sale, as if realizing he no longer remembers what he was saying. Two guards exchange sharp words about who gave the day’s orders. And above it all, the spires of the Conclave gleam like watchful eyes, silent and unwavering.
 
 The following two encounters occur while the party travels between various locations on the streets of the [[Ardentia City]]. They can be used any time during the adventure, and are designed to breathe life into the urban environment and fill in the gaps during slow periods.
 
@@ -216,7 +219,7 @@ Inside the inn, the taproom is decorated with numerous trophies, primarily owlbe
 
 When the party arrives, Tarquin is busy serving up a meal and asks if the PCs are interested in joining. He has a number of rooms available, all singles. His double rooms and party rooms are currently rented out to a merchant caravan. that just arrived in the Free City. However, should the PCs mention that [[Eligos]]. sent them, Tarquin cuts them a deal (4 sp per night) and throws in free drinks. [[Eligos]] and Tarquin are old friends and frequently meet at a local dragonchess parlor for a friendly game.
 
-It is about this time that [[Loris Raknian]], director of the [[Bloodstone Arena]], learns of the party's arrival in town. He contacts [[Zyrxog]] and arranges for their destruction the same day, Although events are starting to move against them, the PCs have a few days to explore [[Ardentia City]], make purchases, and relax before the action begins.
+It is about this time that [[5-World/NPCs/Ardentia City/Loris Raknian]], director of the [[Bloodstone Arena]], learns of the party's arrival in town. He contacts [[Zyrxog]] and arranges for their destruction the same day, Although events are starting to move against them, the PCs have a few days to explore [[Ardentia City]], make purchases, and relax before the action begins.
 
 ### Body Thief
 While the PCs take time off, [[Tarquin]] encourages them to have a good time while staying at the Crooked House. The doppelganger agents who work for [[Zyrxog]] have already begun to observe the PCs, however, learning their habits and abilities while in the guise of common folk. One of them, a rogue named [[Ixiaxian]], has been charged with infiltrating the party. The switch occurs at some point after the PCs speak to [[Eligos]] but before event 3 begins. [[Ixiaxian]] remains hidden in the party until the real PC is rescued later in the adventure (see area D15).
@@ -373,6 +376,7 @@ creatures:
 **Developments:** Once freed, Ilya and Gattel seek to leave this place as soon as possible. Ilya gifts her [[belt-of-good-health|Belt of Good Health]] to the party as reward for saving her, while Gattel does not claim any of his gear, not recognizing any of it.
 
 #### D7. Collapsed Chamber
+![[collapsed-chamber.png|right]]
 > [!note]+ Read Aloud
 > Much of the floor of this ruined chamber has given way, revealing a large stagnant pool of water below. Rusted spears and broken swords break the surface of this pool throughout the room, A framework of soggy timbers that might have once supported the floor still stands, stretching out across the void.
 
@@ -495,7 +499,7 @@ As noted earlier, one of the characters has been replaced by a doppelganger. Tha
 The southern secret door requires a DC 25 [[Skills#Perception|Perception]] check to locate. If the lights in the chamber are extinguished, a thin pale light can be seen coming from the passageway beyond, requiring only a DC 15 [[Skills#Perception|Perception]] check to locate the secret door.
 
 ```encounter
-name: D11 Sleeping Quarters
+name: D15 Hall of Deception
 party: Age of Worms
 creatures:
   - 4: Doppleganger Fighter
@@ -503,22 +507,17 @@ creatures:
 
 The doppelgangers here are not securely bound; their manacles are rigged so that a DC 15 [[Skills#Athletics|Athletics]] check allows them to wriggle free. The real character is securely bound with high quality manacles, requiring a DC 28 [[Skills#Athletics|Athletics]] check to slip the bonds or break free.
 
-Once the PCs enter, the doppelgangers attempt to escape their bonds one at a time (as should the real character), moving to embrace the characters as their saviors and crying out that their corresponding character in the party is false. This continues until all the doppelgangers are free and arguing with the group over who is real and who is an impostor. Once they are within melee range, they attack those that they copy, hoping to surprise the characters. This undoubtedly requires a number of [[Skills#Deception|Deception]], [[Sense Motive]], and [[Skills#Perception|Perception]] checks to resolve. Obviously, the doppelgangers all move to attack the PCs if they are attacked or if the deception is foiled.
+**Tactics** Once the PCs enter, the doppelgangers attempt to escape their bonds one at a time (as should the real character), moving to embrace the characters as their saviors and crying out that their corresponding character in the party is false. This continues until all the doppelgangers are free and arguing with the group over who is real and who is an impostor. Once they are within melee range, they attack those that they copy, hoping to surprise the characters. This undoubtedly requires a number of [[Skills#Deception|Deception]], [[Sense Motive]], and [[Skills#Perception|Perception]] checks to resolve. Obviously, the doppelgangers all move to attack the PCs if they are attacked or if the deception is foiled.
 
 This is also the point when the doppelganger hiding within the group reveals his betrayal, attacking the most vulnerable or wounded PC using all of the powers at his disposal. Once the deception is revealed and [[Ixiaxian]] attacks the other PCs, the PC who was playing the doppelganger immediately resumes play as their actual PC, who is manacled and tied to the chair.
 
 > [!warning]
-> This is an high end severe level encounter for four 8th level players if all four dopplegangers attack at one time.  Monitor the situation so it doesn't get out of hand.
+> This is an high end severe level encounter for four 8th level players if all four doppelgangers attack at one time.  Monitor the situation so it doesn't get out of hand.
 
 > [!tip]+ Treasure
-> In addition to all of the duplicated PC's gear, Ixiaxian carries a mind clone created from that character's memories. This mind clone is a sapphire worth 2,000 gp.
+> In addition to all of the duplicated PC's gear, Ixiaxian carries a sapphire worth 200 gp.
 > 
-> - [ ] pp::10
-> - [ ] gp::10
-> - [ ] sp::10
-> - [ ] cp::10
-> - [ ] permanent::[[itemlink]] [ilvl::000] [gp::000]
-> - [ ] consumable::[[itemlink]] [ilvl::000] [gp::000]
+> - [ ] gp::200
 
 #### 16. Mirror Maze
 > [!note]+ Read Aloud
@@ -526,134 +525,370 @@ This is also the point when the doppelganger hiding within the group reveals his
 
 Although there are many routes through this maze, pressure plates throughout raise additional mirrored walls that can separate and bewilder the party. Both of the squares on either side of the dashed lines on the map contain pressure plates. Only when both of these plates have been triggered does the wall between them raise into place with blinding speed. Those adjacent to a raising wall can attempt to dive to the other side with a DC 23 Reflex save. Walls can be lowered by triggering a hidden switch built into the floor (DC 28 [[Skills#Perception|Perception]] check to locate) or with a successful DC 25 [[Skills#Thievery|Thievery]] check.
 
-Creatures: This insidious maze is home to Telakin's personal guards. Three doppelganger guards lurk here, tasked with preventing anyone from penetrat- ing the maze. They patrol the maze look- ing for intruders until the party enters the maze, at which time two of them use their potions of invisibility to sneak up to the party and attack. The other goes to warn Telakin (area D17) before joining the others in assaulting the party.
+This insidious maze is home to Telakin's personal guards. Three doppelganger guards lurk here, tasked with preventing anyone from penetrating the maze. They patrol the maze looking for intruders until the party enters the maze, at which time two of them use their potions of invisibility to sneak up to the party and attack. The other goes to warn Telakin (area D17) before joining the others in assaulting the party.
 
-Doppelganger Guards (3): 64 hp; see page 45.
+```encounter
+name: D16 Mirror Maze
+party: Age of Worms
+creatures:
+  - 3: Doppelganger Fighter
+```
 
-Tactics: The guards sneak around the maze, waiting for the right moment to strike, usually when walls separate the group. Once their invisibility ends, they use their ability to change shape, taking on the appearance of party members to close in and sow confusion. Тһе doppel-
+[[doppelganger-fighter|Doppelganger Fighter]]
 
-gangers know the locations of all the slid- ing walls and use them to withdraw from combat or further separate the group. The DM should have the PCs make Spot checks to see through approaching dop- pelganger disguises even if it's actually fellow party members approaching,
+**Tactics** The guards sneak around the maze, waiting for the right moment to strike, usually when walls separate the group. Once their invisibility ends, they use their ability to change shape, taking on the appearance of party members to close in and sow confusion. Тһе doppelgangers know the locations of all the sliding walls and use them to withdraw from combat or further separate the group. The DM should have the PCs make [[Skills#Perception|Perception]] checks to see through approaching doppelganger disguises even if it's actually fellow party members approaching.
 
-D17. Telakin's Hall (EL 10)
+#### D17. Telakin's Hall (EL 10)
+> [!note]+ Read Aloud
+> The door opens on a large chamber with a vaulted ceiling high above. Along one wall, a macabre assembly of vats and tubes connects to a table with numerous straps and a strange silver helmet. On the far side of the room, a raised dais supports a throne.
 
-The door opens on a large chamber with a vaulted ceiling high above. Along one wall, a macabre assembly of vats and tubes con- nects to a table with numerous straps and a strange silver helmet. On the far side of the room, a raised dais supports a throne.
+The device to the west is used by the doppelgangers to extract memories and knowledge from victims they've captured. They then encode this information into gemstones called mind clones (each of which must be worth a minimum of 200 gp). A creature can then access these memories using detect thoughts or telepathy as if he were contacting the actual person they were duplicated from. The procedure requires the victim to be strapped to the table for 10 minutes, during which time he may make a DC 23 Will save to resist the process. Failure doesn't harm the victim in any way, but does result in a mind clone that others can then use to interrogate. A recorded mind still gets a saving throw to resist detect thoughts and similar attacks.
 
-The device to the west is used by the doppelgangers to extract memories and knowledge from victims they've captured. They then encode this information into gemstones called mind clones (each of which musst be worth a minimum of 2,000 gp). A creature can then access these memories using detect thoughts or telepathy as if he were con- tacting the actual person they were duplicated from. The procedure requires the victim to be strapped to the table for 10 minutes, during which time he may make a DC 20 Will save to resist the process. Failure doesn't harm the victim in any way, but does result in a mind clone that others can then use to interrogate. A recorded mind still gets a saving throw to resist detect thoughts and similar attacks.
+The fantastic cost of producing a mind clone (or purchasing one, for that matter) ensures that Telakin never has enough on hand to do what he really wants, and this leaves the doppelganger in a perpetual bad mood.
 
-The fantastic cost of producing a mind clone (or purchasing one, for that matter) ensures that Telakin never has enough on hand to do what he really wants, and this leaves 9 the dop- pelganger ina perpetual
+As the PCs arrive, the doppelganger leader Telakin is ready for them. He's assumed the form of [[Allustan]], the sage of Diamond Lake. When the PCs enter this chamber, he rises from his throne and addresses them. "So kind of you to join me. It is time for me to show you the truth of things. Come and learn what lies beyond!" Telakin's chamber is also protected by several traps.
 
-bad mood.
+Telakin is the thrall of Zyrxog, а powerful mind flayer. He wears the illithid's symbol on his brow in most of his assumed forms, save for when he wishes to blend into a crowd. The master tasked Telakin with destroying the party using every means at his disposal. Since the party has made it this far, the task now rests with the greater doppelganger.
 
-Creature: As the PCs arrive, the dop- pelganger leader Telakin is ready for them. He's assumed the form of Allustan, the sage of Diamond Lake. When the PCs enter this chamber, he rises from his throne and addresses them. "So kind of you to join me. It is time for me to show you the truth of things. Come and learn what lies beyond!" If the party does not know Allustan, Telakin instead takes the form of someone important to them (such ав Eligos). Telakin's chamber is also protected by several traps.
+![[Telakin.png|right]]
 
-Telakin Å
+```encounter
+name: D17 Telakins Hall
+party: Age of Worms
+creatures:
+  - 3: Greater Doppelganger, Telakin
+```
 
-Telakin is the thrall of Zyrxog, а pow- erful mind flayer. He wears the illithid's symbol on his brow in most of his assumed forms, save for when he wishes to blend into a crowd. The master tasked Telakin with destroying the party using every means at his disposal. Since the party has made it this far, the task now rests with the greater doppelganger.
+**Tactics** If warned of the party’s approach, Telakin assumes his wizard form and immediately casts a number of protective spells, including _false life_ and _resist energy_ (choosing an energy type frequently used by the party, assuming the doppelganger has advanced information on them). He keeps _mage armor (heightened 2nd)_ active at all times, casting it every morning after preparing his spells. Once protected, Telakin uses _clairvoyance_ to watch the party’s approach and gauge their abilities.  Telakin prefers to remain on or near his throne, hoping to draw intruders into traps while devastating them with his magic. In this form, he relies on _fireball_ and _wall of fire_ to punish clustered enemies, while _slow_ and _confusion_ disrupt coordinated tactics. Against magically prepared foes, he employs _dispel magic_ to remove protections. If forced into prolonged melee while still in wizard form, he falls back on _scorching ray_ and _ray of enfeeblement_ to soften his attackers before considering transformation. 
 
-Telakin, greater doppelganger: hp 58; see Appendix.
+Once engaged in close combat, Telakin assumes his orc barbarian form. He enters Rage immediately, gaining bonus damage and temporary resilience, and charges with his frost-imbued greataxe. In this guise, he uses brute strength to batter down opponents, relying on his increased speed and sheer ferocity to overwhelm frontliners. While raging, he shrugs off weaker blows thanks to his resistances, but he suffers slightly reduced defenses. He will only abandon this form if grievously wounded, at which point he may revert to wizard form to attempt escape through control spells or to regroup behind allies.
 
-Tactics: If warned of the party's approach, Telakin switches into his wizard form and casts a number of protective spells, including false life and resist energy (choosing an enegry type frequently used by the party assuming the doppelganger has advanced infor- mation on them). The gang leader casts extended mage armor every morning after preparing his spells. After prepar- ing himself, Telakin uses clairvoyance to watch the approach of the party and to gauge their abilities.
+**Wizard Form:** Once a member of Telakin’s gang, Valdagan attempted to betray the doppelganger to the town watch. Telakin consumed Valdagan's mind and often assumes the old hawkish wizard's form when angered. In addition to the [[Reach Spell]] and [[Counterspell (Prepared)]], Telakin has the following spells when in Valdagan's form (Spell DC 27, +17 spell attack). **4th-rank (2 slots):** [[Confusion]], [[Wall of Fire]], [[Clairvoyance]]; **3rd-rank (3 slots):** [[Dispel Magic]], [[Fireball]], [[Slow]]; **2nd-rank (4 slots):** [[False Vitality]], [[Resist Energy]], [[Scorching Blast]]; **1st-rank (4 slots):** [[Charm]], [[Grease]], [[Force Barrage]], [[Mystic Armor]], [[Enfeeble]]; **Cantrips:** [[Daze]], [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]], [[Telekinetic Hand]], [[Read Aura]].
 
-Telakin remains up near his throne unless sorely pressed, hoping to draw the party into his traps while devastating them with his spells (while in wizard form). Once engaged in melee, Telakin assumes his orc barbarian form and rages, only switching again if sorely hurt.
+**Barbarian Form:** Bragat, a brutal mercenary, was sought out by Telakin solely for the purpose of consuming his identity. When in Bragat's form, Telakin gains the Fast Movement (+10 ft), [[Uncanny Dodge]] , trap sense +3, and Resistance 3 to physical damage while raging. He also gains the ability to rage 3 times per day, gaining +6 temporary HP each round, +3 damage per weapon die, AC –1 penalty. This rage lasts 7 rounds or until Telakin changes form. He uses а +1 frost greataxe іп this form.
 
-"Telakin has a number of magic items on his person including a «1 frost greataxe, а ring of protection +2, a scroll of fireball (CL 8th, DC 14), and a wand of cure moderate wounds (26 charges),
+> [!danger]+ Trap
+> This chamber contains а total of four traps, two identical pit traps and two pressure plates that set off a poisoned spear trap. The pit traps occupy 10-foot by 10-foot squares on both sides of the room in front of the stairs leading up to the throne. The pressure plates take up the 5-foot by 5-foot area at the top of the stairs near the throne, triggering a poison spear from the ceiling above.
+> 
+> [[wide-spiked-pit|Wide Spiked Pit]]
+> [[poisoned-ceiling-spear|Poisoned Ceiling Spear]]
 
-Wizard Form: Once a member of Tela- kin’s gang, Valdagan (NE male human wizard 8) attempted to betray the dop- pelganger to the town watch. Telakin consumed Valdagan's mind and often assumes the old hawkish wizard's form when angered. In addition to the Extend Spell and Scribe Scroll feats, Telakin has the following spells when in Valdagan's form (CL 8th, +12 ranged touch). qth—confusion (DC 17), wall of fire 3rd—clairvayance, dispel magic, fireball (DC
+**Development** Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 23 [[skills#Perception|Perception]] check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
 
-16), slow (DC 16) and—false life, extended mage armor, resist
+> [!tip]+ Treasure
+> Telakin has a number of magic items on his person including a key ring with keys to every room in Sodden Hold, a +1 frost greataxe, scroll of fireball and a wand of heal.  Two sapphires each worth 200 gp sit in locked (DC 25 [[skills#Thievery|Thievery]]) containers near the device to the west.
+> 
+> - [ ] gp::400
+> - [ ] permanent::[[Frost|+1 Frost Greataxe]] [ilvl::8] [gp::535]
+> - [ ] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
+> - [ ] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
 
-energy, scorching ray 1st—charm person (DC 14), grease (DC 14),
+#### D18. Telakín's Sanctum
+> [!note]+ Read Aloud
+> Behind the throne is a small chamber filled with ostentatious accoutrements. There is а bed, wardrobe, desk, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
 
-magic missile (2), ray of enfeeblement o—daze (DC 13), detect magic, mage hand, read magic
+> [!tip]+ Treasure
+> The rug is a minor magic item that is worth 50 gp but does nothing more than change patterns.
+> 
+> The chest is locked, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open (although Telakin's key ring has the key). Inside the chest is а host of forged and original documents detailing Ardentia City treaties, merchant dealings, and religious papers. Although not pertinent to the party, they clearly illustrate the level of infiltration the gang possessed. In addition to these there is à sack containing 150 gp, a scroll of dominate person, and a missive written with a strange alien hand. The message reads: "I have a task for you, thrall. Meet me at the sewer junction beneath the cold forge and I will give you the details. There are some troublesome small minds that must be removed." The document is signed with some sort of symbol made to look like a spiraling tentacle (identical to that on Telakin's forehead).
+> 
+> Aside from the contents of the chest, the wardrobe contains every outfit in Player Core as well as 50 gp in jewelry.
+> 
+> - [ ] gp::250
+> - [ ] consumable::[[Dominate|Scroll of Dominate]] [ilvl::11] [gp::300]
 
-OF HARSH REFLECTION
+#### D19. Zyrxog's Entrance
+Zyrxog, Telakin's mind flayer master has been watching events unfold through the use of his scrying pool. When he sees Telakin defeated, the mind flayer comes to investigate with a few of his drow thralls. When the PCs return to area D9, the secret door is open and Zyrxog and his minions are here waiting for the party to return.
 
-Barbarian Form: Bragat (CE male orc bar- barian 8), a brutal mercenary, was sought out by Telakin solely for the purpose of consuming his identity. When in Bragat's form, Telakin gains the fast movement (+10 ft), illiteracy, improved uncanny dodge, trap sense +3, and DR 1/—. He also gains the ability to rage 3 times per day, gain- ing +4 Str, «4 Con, and +2 Will saves while taking а-2 penalty to AC. This rage lasts 7 rounds or until Telakin changes form. He uses а +1 frost greataxe іп this form.
+```encounter
+name: D19 Zyrxogs Enterance
+party: Age of Worms
+creatures:
+  - 2: Drow Blademaster, Elf Thrall
+```
 
-Traps: This chamber contains а total of four traps, two identical pit traps and two pressure plates that set off a poi- soned spear trap. The pit traps occupy 10-foot by 10-foot squares on both sides of the room in front of the stairs lead- ing up to the throne. The pressure plates take up the 5-foot by 5-foot area at the top ofthe stairs near the throne, triggering a poison spear from the ceiling above.
+**Tactics** Although Zyrxog is present here, he does not wish to personally combat the party at this time aside from launching a mind blast to open up combat (unless the drow are in the way). He hopes that his drow minions are sufficient to deal with the PCs and flees at the first sign of danger to himself, using _plane shift_ to go ethereal and return to his sanctuary.
 
-Wide Spiked Pit Trap: CR 4; mechani- cal; location trigger; no reset; DC 20 Reflex save avoids; 40 ft. deep (446 fall); pit spikes (Atk +10 melee, 144 spikes per target for 194445 each); Search DC 20; Dis- able Device DC 20.
+After Zyrxog uses his mind blast, the drow move in to attack, cloaking the area in darkness and relying on Blind-Fight to offset the concealment penalties. Although they are thralls of Zyrxog and fight to the death, they do not carelessly throw their lives away. They use their powers and their alchemical items to best effect. Тһе drow wear boots caked with yellow phosphorescent fungus.
 
-Poisoned Ceiling Spear Trap: CR 6; mechanical; location trigger; no reset; Atk +20 melee (1d8+8 plus poison, spear); poi- son (Large monstrous scorpion venom, DC 14 Fortitude save resists, 184 Con/1d4 Con); Search DC 20; Disable Device DC 20.
+Zyrxog remains in the darkness throughout the fight, but anyone with darkvision can make out the mind flayer and can see that he wears the same symbol found on the papers in Telakin's room and on Telakin's forehead.
 
-‘Treasure: Two mind clones sit in locked (DC 30 Open Lock) containers near the device to the west. One is the mind of a foppish nobleman, Syra Viniira, who is an expert on wine and etiquette. Another is a captain of the militia, Durgan Shat- terhelm, expert of the watch routines and patterns. Each is contained in a gem worth 2,000 gp. All the other samples are in use about the city. The subjects of these particular mind clones are both dead, their bodies rotting in the pool above.
+**Development** Once combat is over, the party is free to explore the tunnel leading out of this area. After only 50 feet it joins the [[Ardentia City]] sewer system, and tracking the group becomes difficult. Тһе only clue the PCs have to the mind flayer's location is the note from Telakin's room and the residue on the drow's boots. This fungus can be identified with a DC 21 [[Skills#Nature|Nathre]] check as a relatively rare harmless fungus called Beggar's Gold that grows in underground urban environments. It is not present in any of the nearby tunnels or sewers.
 
-Development: Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 20 Search check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
+### Part 4: Zyrxog's Domain
+Although the party has defeated Telakin and his doppelganger clan, they have only just begun to discover the conspiracy arrayed against them. Tracking down the mind flayer requires investigation below the streets of [[Ardentia City]] in the sewers beneath a business called Cold Forge, an armor and weapon smith located in the Seekers Quarter.
 
-D18. Telakín's Sanctum
+Sewer access can be gained via any one of a number of local grates. As most of these are in the middle of city streets, this is difficult to do during the day without being accosted by the city watch, who are suspicious of anyone venturing into the depths and seek to prevent such exploration whenever possible.
 
-Behind the throne is a small chamber filled with ostentatious accoutrements, There is а bed, wardrobe, desk, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
+Once in the sewers, finding the entrance. to Zyrxog's domain is no easy task. The primary sewer tunnels are 10 feet wide and are half full of brackish water, up to 3 feet deep in some places. The tunnels are a maze of small chambers, large cisterns, and small pipes with no currently accurate maps.  Finding the entrance to Zyrxog's domain requires 1d6+3 DC 23 [[Skills#Survival|Survival]] checks.  A DC 21 [[Skills#Nature|Nature]] check is enough to reveal that Beggar's Gold often grows in sewers where runoff from smithies or forges can be found. With this information, the Survival check to Track them drops to DC 18.
 
-Treasure: The rug is a minor magic item that is worth 500 gp but does noth- ing more than change patterns.
+A DC 23 [[Gather Information]] or [[Skills#Society|Society]] check is enough to locate the smithy called Cold Forge. The owner of this smithy, a foul-mouthed man named Crusty Patten, is unaware of the danger that lurks under his establishment.
 
-The chest is locked, requiring a DC 30 Open Lock check to open (although Telakin's key ring has the key). Inside the chest is а host of forged and original documents detailing Free City treaties, merchant dealings, and religious papers. Although not pertinent to the party, they clearly illustrate the level of infiltration the gang possessed. In addition to these there is à sack containing 1,500 gp, a scroll of dominate person, and a missive written with a strange alien hand. The message reads: "I have a task for you, thrall. Meet me at the sewer junction beneath the cold forge and I will give you the details. There are some troublesome small minds that must be removed." The document is signed with some sort of symbol made to look like a spiraling tentacle (identical to that on Telakin's forehead).
+If the party is searching for phosphorescent mold, finding Zyrxog's domain only requires a DC 18 [[Skills#Survival|Survival]] check.
 
-Aside from the contents of the chest, the wardrobe contains every outfit in the Play- ers Handbook as well as 500 gp in jewelry. The large mirror is magic—once рег day, for a period of 10 minutes, it can be com- manded to show the true form of a creature thatis physically disguising its shape (it has no power to penetrate illusions). Telakin prefers to look upon his true form, as he feels that all other forms are inferior to the perfection of his actual shape. This mir- roris large and cumbersome (it weighs 250 pounds) but it's worth 10,000 gp.
+Every hour spent searching comes with ап 8% chance of an encounter. If a battle breaks out, feel free to use a portion of the Map of Mystery on the last page of this issue to run the combat. Roll on the following table to determine what is encountered.
 
-D19. Zyrxog's
+`dice: [[The Hall of Harsh Reflections#^SewerRandom]]`
 
-Entrance (EL 7)
+| d%     | Encounter                                                                              |
+| ------ | -------------------------------------------------------------------------------------- |
+| 01-30  | Male human body rotting in the water with a large hole in its skull                    |
+| 31-40  | Zyrxog's symbol on the sewer wall (+2 on the next [[Skills#Survival\|Survival]] check) |
+| 31-55  | `dice: 1d4` Living Tar                                                                 |
+| 56-70  | `dice: 1d4` Fuming Sludge                                                              | 
+| 71-75  | Caustic Wraith                                                                         |
+| 76-80  | Charnel Creation                                                                       |
+| 91-95  | (2) Animate Dream                                                                      |
+| 96-100 | (2) Prowler Wight                                                                      |
+^SewerRandom
 
-Zyrxog, Telakin's mind flayer master has been watching events unfold through the use of his scrying pool. When he sees Telakin defeated, the mind flayer comes to investigate with a few of his drow thralls.
+![[Drow Caves.png]]
+### Drow Caves
+A large patch of Beggar's Gold marks the entrance to Zyrxog's domain, just off an ancient and particularly deep (60 feet underground) sewer tunnel. The path to the mind flayer's personal domain crosses through an area of natural caves occupied by his drow thralls, who are generally not allowed in the main complex. The ceiling of these chambers and connecting corridors is 20 feet high unless noted otherwise. None of these caves are lit unless noted. The walls are unworked stone and the floors are uneven in most places, making the ground difficult terrain.
 
-When the PCs return to area Do, the secret door is open and Zyrxog and his minions are here waiting for the party to return.
+#### M1. Fungus Cavern (EL б)
+> [!note]+ Read Aloud
+> Patches of phosphorescent fungus light this large underground chamber, which Is littered with huge swaths of bright yellow fungus and toadstools of various sizes, some gigantic.
 
-Creatures: Although Zyrxog is pres- ent here, he does not wish to personally combat the party at this time aside from. launching a mind blast to open up combat (unless the drow are in the way). He hopes that his drow minions are sufficient to deal with the PCs and flees at the first sign of danger to himself, using plane shift to go ethereal and return to his sanctuary.
+The center of this room is covered in [[yellow-mold|Yellow Mold]] cultivated by Zyrxog to keep the drow from leaving their caves and prevent intruders from wandering in. The yellow mold is very similar in texture to Beggar's Gold, and it takes a DC 28 [[Skills#Nature|Nature]] check to identify it properly as a result. Zyrxog uses levitate to move over the mold by clambering along the wall near the ceiling 20 feet above.
 
-The drow are thralls to Zyrxog and remain to fight to the death no matter the odds. Drow THRALL (2) CRS Male drow fighter 4 CE Medium humanoid (elf)
+In addition to the yellow mold, this room is also home to a number of [[Shrieker]] that warn the drow of anyone approaching the area. The shriekers emit а piercing wail if any light or creature comes to within 10 feet. This shrieking persists for `dice: 1d4` 1d4 rounds and is audible throughout the cavern complex.
 
-Init +3; Senses darkvision 120 ft; Spot +4,
+#### M2. Drow Sentries
+This section of cavern corridor is relatively unremarkable. It slopes down toward area M3, where running water can be heard and reflected light glimmers in the distance.
 
-Listen +5 Languages Common, Drow, Elven,
+Hiding above the passageway is a trio of drow thralls tasked with guarding the corridor. A ledge 10 feet above the passageway leads to a small alcove where the drow wait in absolute silence. If warned by the shriekers, these three set up an ambush, coating the floor below in flammable oil and preparing to throw alchemist's fire down at the party to ignite it. Once ignited, the oil burns for 2 rounds, dealing 1d4 points of fire damage to anyone in the affected area. Spotting the oil before walking into the trap requires a DC 21 [[Skills#Perception|Perception]] check. The cave wall leading up to them is relatively smooth, requiring a DC 20 [[Climb]] check. If not warned of the party's presence, the drow are reclining out of sight, relying upon their keen ears to hear intruders approach.
 
-Undercommon AC 19, touch 13, flat-footed 16 hp 30 (4 HD)
+```encounter
+name: M2 Sentries
+party: Age of Worms
+creatures:
+  - 3: Drow Blademaster, Elf Thrall
+```
 
-Immune sleep
 
-SR15
+#### M3. Spirit Pool
+> [!note]+ Read Aloud
+> The gently sloping passageway ends in a large chamber dominated on the far side by a pool of water formed by a leaking cistern above before flowing out of the room in a thin stream. Something in the pool glows pale green, bathing the room in shifting curtains of light.
 
-Fort +5, Ref +4, Will +1 (+3 vs spells)
+The drow avoid lingering іп this chamber, fearful of the creature that lurks near the pool. When traveling through this room, they stay along the west wall, gathering what water they need from the stream before it disappears through a crack in the wall. 
 
-Weakness light blindness
+This chamber is home to Fassash, a spirit naga with little respect for the drow that live nearby. Fassash is on friendly terms with Zyrxog, but not under the mind flayer's control. When the party enters this chamber, the spirit naga is relaxing, coiled around one of the stalagmites near the pool.
 
-Spd 30 ft,
+```encounter
+name: M3 Spirit Pool
+party: Age of Worms
+creatures:
+  - 1: Spirit Naga
+```
 
-Melee mwk rapier +8 melee (1d6+4/18-20)
+**Tactics:** Fassash is not spoiling for a fight unless the party takes hostile actions. When the party approaches, the naga uncoils to look at them. The naga then demands an apology from the party for disturbing its slumber. Arrogant and cruel, the spirit naga assumes that he is greater than any humanoid and demands deference. Should the party show the proper respect to the mighty serpent and offer it at least 100 gp worth of treasure, Fassash lets the PCs by without incident. If sufficiently pampered with a DC 28 [[Skills#Diplomacy|Diplomacy]] check, he might even reveal a few cryptic clues about what lies beyond.
 
-Ranged mwk hand crossbow +8 ranged (1d4/19-20)
+If combat does break out, Fassash uses _invisibility_ to flee the area and prepare himself with [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Mirror Image]] and [[Blur]] before returning to deal with the party, tracking them down if necessary. He prefers to use [[Black Tentacles]] followed by [[Confusion]] before engaging in melee.
 
-Base Atk +4; Grp +6
+> [!tip]+ Treasure
+> The naga's pool glows due to a phosphorescent fungus that grows at its bottom, but this is also where his treasure is kept. Scattered around the bottom of the pool are 8 pp, an emerald worth 20 gp, and an ordinary corked glass bottle that. is actually [[bottled-air|Bottled Air]].
+> 
+> - [ ] gp::28
+> - [ ] permanent::[[bottled-air|Bottled Air]] [ilvl::7] [gp::320]
 
-Atk Options Combat Expertise, Improved
+#### M4. Drow Enclave
+> [!note]+ Read Aloud
+> The cavern opens up to a vast chamber, over forty feet in height with a shelf twenty feet above the floor off to one side. A short cage containing pent-up livestock has been constructed on the opposite side of the cave. А parred off passageway is set into the south wall. Faint patches of glowing moss light this chamber.
 
-Disarm Combat Gear potion of cure moderate
+This chamber is used by the drow as a residence and training ground. The chambers up above are used for sleeping, while the majority of the guards spend their time on the floor below, training, relaxing, or preparing food.
 
-wounds, alchemist's fire (2), tanglefoot bag Spell-Like Abilities (CL 4th):
+The pen off to the side contains a half-starved cow and a number of pigs, brought down here to feed the drow. They gather the rest of their sustenance from the various types of fungus and moss that grow throughout the caves. The gated corridor to the south leads to the chattel pen, used to keep Zyrxog's food and a few undead minions.
 
-1{day—dancing lights, darkness, faerie fire Abilities Str 14, Dex 17, Con 12, Int 14,
+```encounter
+name: M4 The Enclave
+party: Age of Worms
+creatures:
+  - 1: Myrianaas
+    2: Drow Blademaster, Elf Thrall
+```
 
-Wis 10, Cha 11 Feats Blind-Fight, Combat Expertise*,
+А total of six drow rest in this room at any given time: two up in the sleeping area and four on the floor. Myrianaas, cleric of [[Sharathis]], leads this group.  All are completely loyal to their mind flayer overlord and fight to the death to prevent intruders from gaining access to his sanctum.
 
-Improved Disarm*, Weapon Focus
+**Tactics:** If warned of the party's approach, the drow are all awake and ready for a fight. Myrianaas prepares by casting [[Bless]] and arranging her forces, She places one of the drow on the floor between her and the entrance, while the other one is up near the sleeping area prepared to fire its crossbow and join the combat from the flank when the time is right. Myrianaas only casts her short-duration spells when the PCs draw close (possibly while they deal with the spirit naga). She saves divine power until the PCs approach her in melee combat. Myrianaas flees to area M7 if sorely pressed, making her last stand there while assuring that Zyrxog is warned of the party's approach.
 
-(rapier), Weapon Specialization {rapier} Skills Climb 48, Hide +2, Listen «4, Move
+> [!tip]+ Treasure
+> Aside from their gear, the drow have little else of value. Myrianaas maintains a small shrine to Sharathis up in the sleeping caves, which includes a small jade statue of the goddess worth 30 gp.
+> 
+> - [ ] gp::30
 
-Silently «2, Spot +5 Possessions combat gear, chain shirt,
+#### M5. Chattel Pen
+A wall of iron bars running from floor to ceiling blocks the entrance to this chamber. An iron door is set into this wall of bars, but it is locked and only Myrianaas has the key. A DC 25 Open Lock check opens the door if the key is missing.
 
-heavy steel shield, masterwork rapier,
+> [!note]+ Read Aloud
+> Just inside the iron door stand four rotting corpses with large gaping holes in their heads. Beyond them is a chamber full of debris, scraps of cloth, mounds of straw, and pools of filth. Dark corridors stretch out from one side of the chamber.
 
-masterwork hand crossbow with 20 bolts
+Zyrxog uses this chamber to store those destined to become his next meals. The dark corridors lead to a small area where a few prisoners currently await their fate. The current crop includes a pair of merchants captured on their way into Ardentia City, an elven craftsman, and two young women caught heading home after a long day's work at a nearby tavern. These five do not dare attempt an escape, in part because of the zombies guarding the door and because of the deadly drow that lie beyond.
 
-Zyrxog, mind flayer mastermind: hp 98, see page 57.
+If freed of their bondage, these five are immensely grateful and quickly flee the area, assuming the party helps them get by the yellow mold. This group can describe the mind flayer that comes to collect them every few days. Aside from that, they know very little about this complex. Those that go deeper in do not come back out.
 
-Tactics: After Zyrxog uses his mind blast, the drow move in to attack, cloak- ing the area in darkness and relying on
+The four rotting corpses standing just inside the door are husk zombies. They have been ordered to prevent anyone from escaping, but have no orders about anyone entering the chamber. If the party attempts to leave this room or attacks the zombies, they attack, fighting until slain.
 
-Blind-Fight to offset the concealment
+```encounter
+name: M5 Chattel Pen
+party: Age of Worms
+creatures:
+  - 4: Husk Zombie
+```
 
-penalties. Although they fight to the |
+#### Мб. Warding Glyph
+> [!note]+ Read Aloud
+> The cavern corridor widens into a small chamber before continuing onward. The floor has been smoothed here, and in the center is a large faintly glowing purple symbol.
 
-death, they do not carelessly throw their lives away. They use their powers and their alchemical items to best effect. Тһе drow wear boots caked with yellow phos- phorescent fungus.
+The symbol on the floor is a permanent illusion, placed here to mark the boundary of Zyrxog's domain.
 
-Zyrxog remains in the darkness throughout the fight, but anyone with darkvision can make out the mind flayer and can see that he wears the same sym- bol found on the papers in Telakin's room and on Telakin's forehead.
+> [!danger]+ Trap
+> The real danger in this chamber is a powerful glyph of warding scribed on the room's ceiling set to go off when апу non-attuned creature passes under it. A detect magic spots this hidden glyph, as does a DC 28 [[Skills#Perception|Perception]] check.
+> 
+> [[glyph-of-warding-blast-hb|Glyph of Warding (Blast)]]
 
-Developments: Zyrxog does not pursue the party, allowing them a chance to rest and recuperate from their trials. Once com- bat is over, the party is free to explore the tunnel leading out of this area. After only 50 feet it joins the Free City sewer system, and tracking the group becomes difficult. Тһе only clue the PCs have to the mind flayer's location is the note from Telakin's room and the residue on the drow's boots. This fungus can be identified with a DC 15 Knowledge (nature) check as a relatively rare harmless fungus called Beggar's Gold that grows in underground urban environ- ments. It is not present in any of the nearby tunnels or sewers.
+#### M7. Tentacle Guardians
+> [!note]+ Read Aloud
+> Set into the cavern wall of this foreboding chamber are a pair of tall white marble double doors, streaked with veins of a faintly glowing purple crystal. Flanking the doors are a pair of tall ivory columns, each bearing a tentacular symbol burned into their surface.
+
+The symbol on the columns is Zyrxog's personal seal, seen on Telakin's forehead and on the floor of the previous chamber.
+
+The doors are not locked, but they are barred from the inside and must be battered open. The doors have hardness 8 and 120 hp, but they can be burst open with a DC 25 [[Skills#Athletics|Athletics]] check.
+
+Zyrxog stations a group of creatures he's created here—terrestrial mollusks called [[octopin|Octopins]]. The octopins stay out of sight, hidden behind columns, stalagmites, and stalactites up near the ceiling. They use their penetrating gaze to keep an eye on the doors without revealing their presence. When the party approaches the door, they move out of hiding, hoping to surprise the PCs from every direction.
+
+```encounter
+name: M7 Tentacle Guardians
+party: Age of Worms
+creatures:
+  - 3: Octopin
+```
+
+### Zyrzog's Sanctum
+These last chambers make up the mind flayer's private hold, visited only by his most trusted allies. All of the walls are carefully carved marble with a repeating tentacle pattern. Unless otherwise noted, each of these chambers has a 40-foot-high ceiling, while the corridor ceilings are only 20 feet high. The doors are stone and, aside from the entry doors, unlocked.
+
+#### М8. Stone Brain
+> [!note]+ Read Aloud
+> In the center of this tall domed chamber is a large brain, carved from a single block of purple-veined white marble. Its veins seem to pulsate with every breath you take, as if aware of your presence. Four stone benches are arrayed around the room, each with a pair of iron manacles bolted to the top.
+
+Zyrxog created this chamber to break the will of particularly stubborn thralls who required too much of his attention to properly “convert” to his way of thinking. The brain in the center of the room is a sentient magic item, whose personality is a clone of Zyrxog's. Able to communicate telepathically with anyone in the room (and Zyrxog, if he is within a 1-mile radius), the brain's primary function is to break the minds of those chained to the benches. It can perform the same onslaught on anyone within 15 feet. None of the manacles are currently occupied, but some show signs of recent use.
+
+> [!danger]+ Trap
+> Once per round, the stone brain performs a mental assault against one target in the chamber. It moves from target to target, attempting to force compliance. Characters must make a DC 21 Will save.  On failure, the target is affected by a [[Dominate]] spell, becoming loyal to Zyrxog and hostile to the rest of the party. If the target makes its save, it instead becomes [[Enfeebled 1]].
+> 
+> The brain has hardness 5 and ceases functioning after taking 50 points of damage. If destroyed in this way, all creatures under its influence are freed (although the [[Enfeebled]] condition remains).
+
+#### M9. Laboratory
+> [!note]+ Read Aloud
+> At the end of a long staircase, ап odd chamber reveals itself. A number of tall bookcases, a desk, and a large tank full of green liquid takes up half the room. A stone door stands closed on the opposite wall.
+
+This chamber is Zyrxog's laboratory, where he created the octopins and perfected a number of his other insidious experiments. The bookshelves are full of books on anatomy and arcane fusion techniques. The desk contains numerous logs pertaining to the creation of the octopins, along with notes on a new experiment that has yet to begin. In this new experiment, Zyrxog hopes to create a parasite that hides inside its host and makes it very susceptible to suggestion, something he tentatively calls a "mind worm." The door in this chamber leads to Zyrxog's scrying pool and is not locked.
+
+Creature: The tank in this chamber contains a large and rather nasty octo- pin that Zyrxog has been specially growing, Although not quite mature, it is still mobile and comes crawling out of the open-top tank when disturbed. When the party enters the room, it is hiding out of sight in the murk.
+
+```encounter
+name: M9 Laboratory
+party: Age of Worms
+creatures:
+  - 1: Octopin Stalker
+```
+
+> [!tip]+ Treasure
+> Although most of the equipment is too bulky to move and of little value in its current state, the library is worth 100 gp if sold to a collector with dubious purposes (or 50 gp if sold to a respectable dealer).  If the books are all moved to a personal library the provide a +2 circumstance bonus to both [[Skills#Arcana|Arcana]] and [[Skills#Occultism|Occultism]] when performing [[Research]].
+> 
+> - [ ] gp::100
+
+#### M10. Viewing Pool
+> [!note]+ Read Aloud
+> In the center of a small round chamber is a perfectly calm pool of water, glowing with a faint blue light. A reflective green light flows out of a hallway, opposite the entry.
+
+This small chamber contains Zyrxog's viewing pool. Anyone sitting on one of the benches and looking into the pool can view any location within 5 miles, as though using the spell clairvoyance. The location viewed must be well known to the viewer. Specifying an area never seen before results in the pool going dark. When the PCs enter, the pool is viewing Telakin's throne room as it currently appears.
+
+The hallway beyond leads to a small balcony overlooking the cathedral of the mind (area M13). This balcony is 45 feet above the floor of that chamber, with no apparent way down.
+
+#### M11. Museum
+![[museum.png|right]]
+
+> [!note]+ Read Aloud
+> In the center of this large chamber is a grotesque ebony statue of a vulture-headed humanoid with large feathery wings and razor sharp talons at the end of avian digits. The rest of the room is taken up by large glass cases, each full of dark twisted artifacts, from a shrunken head to a tome chained shut and a number of jars containing the severed parts of numerous creatures.
+
+This chamber is full of dangerous relics and things best left undiscovered. Zyrxog has spent most of his time in [[Ardentia City]] collecting and selling such oddities, having them imported or stolen when the owner proved difficult.
+
+A permanent alarm spell wards this room, alerting Zyrxog of intruders with a silent mental alarm.
+
+**Case #1** Sitting on the top shelf of this case is the preserved head of a juvenile black dragon whose eyes glow a faint green. This case also contains an odd black metal cage, covered in thorns, with nothing inside. Resting on a large velvet pillow is a cursed +1 unholy dagger that brings horrible misfortune to any that wield it. On the bottom are a kyton's chains that twitch and wiggle of their own volition.
+
+**Case #2** The top shelf of this case contains four blank books labeled "unspeakable tome." A fifth book hides behind them, a vacuous grimoire. Beneath these is a weathered and tarnished bronze griffon figurine of wondrous power, Unfortunately, when used, the griffon is fiendish, and attacks the wielder until slain at which time it returns to its statue form. This case also contains four jars, each containing the preserved eyestalk of a beholder. There are six other empty jars behind these.
+
+**Case #3** A petrified pseudodragon sits on top of this glass case, If returned to flesh, it could be convinced to serve as a familiar. The top shelf of this case contains a stuffed doll that bears an uncanny (but coincidental) similarity to one of the PCs—the doll is pierced with 20 spikes from a spiked devil. The doll radiates strong void energy, but has no apparent effect, A 4-inch-thick tome wrapped in chains sits next to the doll. The book is a tiny animated object and flies around the room, attacking everyone until slain, The book lists the names of 100 demons, including their home and details of their conquests. On the bottom shelf is a battered longsword sword cursed to cause the wielder to fly into a rage and attack anyone around them.
+
+In the center of the room is a vrock statue, Although bound in this form, the magic holding the fiend in place is set to release if the statue or any of the cases іs disturbed. The effect can be disarmed like a trap if discovered (DC 25 [[Skills#Perception|Perception]] check) and disabled (DC 28 [[Skills#Thievery|Thievery]] check).
+
+```encounter
+name: M11 Museum
+party: Age of Worms
+creatures:
+  - 1: Vrock
+```
+
+**Tactics:** If animated, the vrock quickly uses its mirror image ability while releas- ing its spores. It follows this up with a stunning screech before engaging in melee. It does not use its summon tanar ri ability during combat, preferring instead to rely upon its melee abilities.
+
+> [!tip]+ Treasure
+> See above for cursed [[Weapon Potency (+1)|+1]] [[unholy]] [[dagger]] in case 1.  Cursed [[Wondrous Figurine (Bismuth Leopards)]] can be found in case 2.
+> 
+> - [ ] permanent::[[Wondrous Figurine (Bismuth Leopards)|Bismuth Leopard Wondous Figurine]] [ilvl::8] [gp::495]
+> - [ ] permanent::[[unholy|+1 unholy dagger]] [ilvl::11] [gp::1435]
+
+#### M12. Hallway
+This long hallway slopes down 30 feet before it reaches the floor of the cathedral of the mind (area M13). The walls of this hall are painted with a long frieze, depicting mind flayers marching across the surface of the world, with no sun overhead and all the races of the surface bowing before the tentacled horrors.
+
+#### M13. Cathedral of the Mind 
+> [!note]+ Read Aloud
+> At the end of the long ramping hall, a grand chamber opens to a height of eighty feet. Opposite the entry is а tall octagonal column of jet-black stone, glowing with green symbols running up one of its faces. A deep pool of placid green liquid stands before the column, bathing the entire chamber in an otherworldly light.
+
+If warned of their approach, Zyrzog is present in this chamber, waiting for them to enter. Continue with the following.
+
+> [!note]+ Read Aloud
+> Floating above the pool is a humanoid form with strange rubbery purple flesh, dressed in black robes, wielding a staff of red hot metal. Its head is hairless and bulbous, with four long tentacles where its mouth should be. Inside your head you hear an alien voice. "You dare enter my sanctum! Fools. I shall finish what Telakin could not. Your weak minds will be a sumptuous feast, your terror a pleasing garnish!"
+
+Zyrxog created this chamber as a place that he one day hopes will play host to a small community of his ilk. The pool swims with the mind flayer tadpoles, still years from maturation and not yet ready for ceremorphosis (the process by which a mind flayer tadpole gestates in a host and becomes a full-grown mind flayer). Although disgusting, they are harmless at this stage in their lives.
+
+Тһе column at the back of the pool is enchanted with powerful magic, creating an unhallow effect throughout the room. This gives Zyrxog and his minions а +2 bonus on saves and to AC against the attacks of holy creatures. It also prevents any nonevil outsiders from being summoned into the room. Finally, it protects all unholy creatures in the room with resist energy, granting them fire resistance 10.
+
+If warned, Zyrxog and two octopins wait for the PCs in this room. Zyrxog floats 40 feet above the end of the pool under the effects of levitate. The octopins cling the wall above the entrance to the room, 30-feet above the floor. If the party avoids warning the mind flayer, he is in his chamber (area M14), studying his notes.
+
+```encounter
+name: M13 Cathedral of the Mond
+party: Age of Worms
+creatures:
+  - 2: Octopin
+  - 1: Zyrxog
+```
+
+**Tactics** If warned of the party's approach, Zyrxog prepares himself by casting false life and resist energy (of a type the mind flayer saw the PCs use in their fight against Telakin). If given the time, the mastermind also casts shield and displacement. When combat begins, Zyrxog uses mind blast against the party before his octopins charge down the wall to engage them. After this, he uses mind blast when possible and his metamagic rod to empower his lightning bolts when that is not an option. He uses suggestion to urge targets to throw all of their weapons to the bottom of the spawning pool or to take off heavy armor. Even if pressed, Zyrxog does not plane shift away in а vain hope of defeating the party to prevent them from raiding his private chambers and destroy- ing the tadpoles, ruining his plans and years of work.
+
+The octopins charge down the wall seeking to expose the party to their gaze, while tearing into the weaker members in the rear.
+
+> [!tip]+ Treasure
+> Aside from Zyrxog's gear, the tadpoles in the pool are worth 1,000 gp if sold to the right shady dealer. However, if all the tadpoles are destroyed, the party should be awarded a hero point starting the next session.
+> 
+> - [ ] gp::1000
+
+> [!warning]
+> **Advance players to level 9 following this encounter.**
+
+#### M14. Zyrxog's Private Chamber
+Behind the black column, Zyrxog maintains his private quarters, where he rests and contemplates his plans. The room contains a desk, two bookshelves full of books pertaining to [[Ardentia City]] and the areas beneath it, and a locked chest (Zyrxog carries the key). Lying open on the desk is a ledger, written in Undercommon. It details the mind flayers recent business transactions in rare and dangerous items with patrons throughout the city. The most recent lists a payment for the sale of an ancient relic listed as the Apostolic Scrolls. This transaction is between the mind flayer and [[Loris Raknian]], director of the [[Bloodstone Arena]]. Of more import to the PCs is a note that Raknian also paid Zyrxog to assassinate the PCs. Discovering Raknian's motivations and the truth behind the Apostolic Scrolls is covered in “The Champion's Belt," the next installment of the Age of Worms Adventure Path. 
+
+> [!tip]+ Treasure
+> Opening the chest requires a DC 25 [[Skills#Thievery|Thievery]] check. The chest contains large bags full of coins. The bags contain 950 cp, 220 sp, 100 gp, and 5 pp. А fifth bag contains loose gemstones totaling 150 gp in value.
+> 
+> - [ ] pp::5
+> - [ ] gp::250
+> - [ ] sp::220
+> - [ ] cp::950
+
+### Concluding the Adventure
+Should the PCs fail in their mission, they are more than likely dead. Should they survive, they have undoubtedly learned that they have a powerful new enemy— [[Loris Raknian]]. As long as the PCs remain in [[Ardentia City]], they are in danger.
+
+A few days after the PCs defeat Zyrxog and have had a chance to rest and recuperate, but before they have a proper chance to act on the information they've learned about Raknian and his mysterious interest in their livelihood, [[Eligos]] sends them a note inviting them to his estate for dinner. The next adventure іп the Age оf Worms Adventure Path, that adventure begins with this meeting.

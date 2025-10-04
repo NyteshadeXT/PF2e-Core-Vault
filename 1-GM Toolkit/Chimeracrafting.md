@@ -9,7 +9,8 @@ refineRoll: 0.001
 recallRarity: 14
 creatureCR: 6
 creatureTrait: Arcana, Nature
-toolSelector: 1
+toolSelector: 2
+awakenLevel: -9
 ---
 
 # Gathering Ingredients
@@ -241,3 +242,27 @@ toolSelector: 1
 
 
 
+# Monster Parts: Value vs. Costs by Level
+
+| Level | Avg Creature Value (V) | Discovery | Refining | Awakening |
+| ----- | ---------------------- | --------- | -------- | --------- |
+| 1     | 5 gp                   | 2 gp      | 3 gp     | 4 gp      |
+| 2     | 10 gp                  | 4 gp      | 5 gp     | 8 gp      |
+| 3     | 20 gp                  | 7 gp      | 10 gp    | 16 gp     |
+| 4     | 45 gp                  | 16 gp     | 23 gp    | 36 gp     |
+| 5     | 75 gp                  | 26 gp     | 38 gp    | 60 gp     |
+| 6     | 125 gp                 | 44 gp     | 63 gp    | 100 gp    |
+| 7     | 200 gp                 | 70 gp     | 100 gp   | 160 gp    |
+| 8     | 300 gp                 | 105 gp    | 150 gp   | 240 gp    |
+| 9     | 400 gp                 | 140 gp    | 200 gp   | 320 gp    |
+| 10    | 500 gp                 | 175 gp    | 250 gp   | 400 gp    |
+| 11    | 700 gp                 | 245 gp    | 350 gp   | 560 gp    |
+| 12    | 900 gp                 | 315 gp    | 450 gp   | 720 gp    |
+| 13    | 1,200 gp               | 420 gp    | 600 gp   | 960 gp    |
+| 14    | 1,500 gp               | 525 gp    | 750 gp   | 1,200 gp  |
+| 15    | 2,000 gp               | 700 gp    | 1,000 gp | 1,600 gp  |
+| 16    | 2,500 gp               | 875 gp    | 1,250 gp | 2,000 gp  |
+| 17    | 3,200 gp               | 1,120 gp  | 1,600 gp | 2,560 gp  |
+| 18    | 4,000 gp               | 1,400 gp  | 2,000 gp | 3,200 gp  |
+| 19    | 4,500 gp               | 1,575 gp  | 2,250 gp | 3,600 gp  |
+| 20    | 5,000 gp               | 1,750 gp  | 2,500 gp | 4,000 gp  |

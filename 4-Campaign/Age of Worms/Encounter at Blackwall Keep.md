@@ -4,7 +4,7 @@ tags:
 art: zz-Attachments/blackwall keep.png
 whichparty:
   - "[[Age of Worms Party Dashboard]]"
-adventure_status: Not Started
+adventure_status: Started
 adventure_level: 5th to 7th
 aliases:
   - Dungeon 126
