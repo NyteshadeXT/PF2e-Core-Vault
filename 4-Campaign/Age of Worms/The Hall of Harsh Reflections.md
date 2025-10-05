@@ -102,6 +102,8 @@ The journey is not without peril. The roads are not as safe as they once were, w
 - [ ] moderate (80 XP) Level 7
 
 ## Part 1: Welcome to Ardentia City
+![[Entrance to Ardentia.png]]
+
 > [!note]+ Read Aloud
 > The path before you shimmers like solid light—an immense crystalline bridge stretching across the open air, its surface humming faintly beneath your steps. Far below, the fractured clouds churn in restless layers of violet and gold, while far above, sleek airships glide lazily between spires that pierce the sky. Ahead, the city rises in a dazzling cascade of towers and mage-lit citadels, their runes glowing softly in the twilight like constellations inverted upon the earth.
 > 

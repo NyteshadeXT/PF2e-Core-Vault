@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Encounter at Blackwall Keep"
+              "title": "The Hall of Harsh Reflections"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 337.5
   },
   "right": {
     "id": "3694d2a61e632d77",
@@ -301,11 +301,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "967ace6983fb9b22",
+  "active": "4a89bdd47916f6f4",
   "lastOpenFiles": [
+    "zz-Attachments/Entrance to Ardentia.png",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "1-GM Toolkit/Chimeracrafting.md",
     "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
     "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
     "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
@@ -322,8 +326,6 @@
     "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
     "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
     "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
     "1-GM Toolkit/DC Calculator.md",
     "3-Rules/Hazards/Homebrew/glyph-of-warding-blast-hb.md",
     "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
@@ -331,7 +333,6 @@
     "5-World/NPCs/Ardentia City/Loris Raknian.md",
     "5-World/NPCs/Ardentia City/Lady Seraphina Moonshadow.md",
     "3-Rules/Bestiaries/Uniques/Zyrxog.md",
-    "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md",
     "zz-Attachments/zyrxog.png",
     "zz-Attachments/museum.png",
     "zz-Attachments/collapsed-chamber.png",
