@@ -1,98 +1,41 @@
 {
   "main": {
-    "id": "da1f339571335db4",
+    "id": "185462b64b5ce0a7",
     "type": "split",
     "children": [
       {
-        "id": "8532f80ce527aae4",
+        "id": "3969feed002c3c9e",
         "type": "tabs",
         "children": [
           {
-            "id": "efa2b022bfafec0e",
+            "id": "5d027f79748d0afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
+                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "charlatans-gloves"
-            }
-          },
-          {
-            "id": "4a89bdd47916f6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Hall of Harsh Reflections"
-            }
-          },
-          {
-            "id": "06215064e37f9f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-            "id": "967ace6983fb9b22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Chimeracrafting.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Chimeracrafting"
-            }
-          },
-          {
-            "id": "32b63baa4f00d820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Random_Jewelry_Table"
+              "title": "conflagration-club"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c096d3cc8b25c2a",
+    "id": "e17b9199bb5f7e53",
     "type": "split",
     "children": [
       {
-        "id": "eced95ac660324b6",
+        "id": "d4b9b86014b8e747",
         "type": "tabs",
         "children": [
           {
-            "id": "061dda2e8d8e0334",
+            "id": "43c6b2bc5f385894",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,7 +48,7 @@
             }
           },
           {
-            "id": "dd2fc3d8fdfb841f",
+            "id": "66eca5ca5991e845",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +65,7 @@
             }
           },
           {
-            "id": "4134a3954d1584a6",
+            "id": "70a8698252260044",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 300
   },
   "right": {
-    "id": "3694d2a61e632d77",
+    "id": "94640d80b3032990",
     "type": "split",
     "children": [
       {
-        "id": "3987742db751d7e0",
+        "id": "898865ce1b0cd77d",
         "type": "tabs",
         "children": [
           {
-            "id": "88abf88e5c0a900f",
+            "id": "45be449d6bec3645",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Myrianaas.md",
+                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Myrianaas"
+              "title": "Backlinks for conflagration-club"
             }
           },
           {
-            "id": "676cb64c1d349998",
+            "id": "9303bebfcf804cb7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/candlecap.md",
+                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from candlecap"
+              "title": "Outgoing links from conflagration-club"
             }
           },
           {
-            "id": "483ac93256b6e744",
+            "id": "a15e2f4bb0e5c16e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -194,22 +137,22 @@
             }
           },
           {
-            "id": "6cc810fddc6e894a",
+            "id": "0dbf7ff957f4b062",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/candlecap.md",
+                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of candlecap"
+              "title": "Outline of conflagration-club"
             }
           },
           {
-            "id": "b03363605c5497c7",
+            "id": "9f3303eb151782d6",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -219,7 +162,7 @@
             }
           },
           {
-            "id": "473f6325baf831c8",
+            "id": "752c827d99399464",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -229,69 +172,21 @@
             }
           }
         ]
-      },
-      {
-        "id": "dd81696510fe8ae0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7b7ecd8ef38a3bb",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "63ce96dca7d8a72f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e85a27fc1dc36240",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eda867e9f850993c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3b808493f0e5b86a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -305,43 +200,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4a89bdd47916f6f4",
+  "active": "5d027f79748d0afb",
   "lastOpenFiles": [
-    "zz-Attachments/Entrance to Ardentia.png",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
-    "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
-    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
-    "3-Rules/Character Building/Equipment/Homebrew/organ-ward-resin.md",
-    "3-Rules/Character Building/Equipment/Homebrew/preserving-salts.md",
-    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-talisman.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
-    "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
-    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Hazards/Homebrew/glyph-of-warding-blast-hb.md",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "5-World/NPCs/Ardentia City/Loris Raknian.md",
-    "5-World/NPCs/Ardentia City/Lady Seraphina Moonshadow.md",
-    "3-Rules/Bestiaries/Uniques/Zyrxog.md",
-    "zz-Attachments/zyrxog.png",
-    "zz-Attachments/museum.png",
-    "zz-Attachments/collapsed-chamber.png",
-    "zz-Attachments/Telakin.png",
-    "zz-Attachments/Drow Caves.png",
-    "zz-Attachments/octopin.png",
-    "zz-Attachments/sodden-hold-map.png",
-    "zz-Attachments/crooked-house-tavern.png",
-    "zz-Attachments/tarquin-shortstone.png",
-    "zz-Attachments/Eligos.png"
+    "3-Rules/Character Building/Equipment/C/Confabulator.md",
+    "3-Rules/Character Building/Equipment/C/conduit-shot-moderate.md",
+    "3-Rules/Character Building/Equipment/C/conduit-shot-lesser.md",
+    "3-Rules/Character Building/Equipment/C/conducting.md",
+    "3-Rules/Character Building/Equipment/C/conduit-shot-greater.md",
+    "3-Rules/Character Building/Equipment/C/condensed-mana.md",
+    "3-Rules/Character Building/Archetypes/wormhunter.md",
+    "3-Rules/Character Building/Spells/A/Aberrant Form.md",
+    "3-Rules/Bestiaries/Homebrew/S/shard-slave.md",
+    "3-Rules/Character Building/Archetypes/Archetypes.md",
+    "3-Rules/Character Building/Archetypes"
   ]
 }
