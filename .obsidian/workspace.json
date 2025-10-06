@@ -13,12 +13,76 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
+=======
+                "file": "3-Rules/Character Building/Equipment/C/condensed-mana.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "conflagration-club"
+=======
+              "title": "condensed-mana"
+            }
+          },
+          {
+            "id": "4a89bdd47916f6f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Encounter at Blackwall Keep"
+            }
+          },
+          {
+            "id": "06215064e37f9f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/DC Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DC Calculator"
+            }
+          },
+          {
+            "id": "967ace6983fb9b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Chimeracrafting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chimeracrafting"
+            }
+          },
+          {
+            "id": "32b63baa4f00d820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Random_Jewelry_Table"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -200,6 +264,7 @@
       "calendarium:Open Calendarium": false
     }
   },
+<<<<<<< Updated upstream
   "active": "5d027f79748d0afb",
   "lastOpenFiles": [
     "3-Rules/Character Building/Equipment/C/Confabulator.md",
@@ -213,5 +278,45 @@
     "3-Rules/Bestiaries/Homebrew/S/shard-slave.md",
     "3-Rules/Character Building/Archetypes/Archetypes.md",
     "3-Rules/Character Building/Archetypes"
+=======
+  "active": "efa2b022bfafec0e",
+  "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/C/conch-of-otherworldly-seas.md",
+    "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
+    "3-Rules/Character Building/Equipment/C/cheetahs-elixir-lesser.md",
+    "3-Rules/Bestiaries/Homebrew/S/shard-spider.md",
+    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
+    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
+    "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
+    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
+    "3-Rules/Character Building/Equipment/Homebrew/organ-ward-resin.md",
+    "3-Rules/Character Building/Equipment/Homebrew/preserving-salts.md",
+    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
+    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
+    "3-Rules/Character Building/Equipment/Homebrew/venomlash-talisman.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
+    "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
+    "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
+    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
+    "3-Rules/Hazards/Homebrew/glyph-of-warding-blast-hb.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "zz-Attachments/zyrxog.png",
+    "zz-Attachments/museum.png",
+    "zz-Attachments/collapsed-chamber.png",
+    "zz-Attachments/Telakin.png",
+    "zz-Attachments/Drow Caves.png",
+    "zz-Attachments/octopin.png",
+    "zz-Attachments/sodden-hold-map.png",
+    "zz-Attachments/crooked-house-tavern.png",
+    "zz-Attachments/tarquin-shortstone.png",
+    "zz-Attachments/Eligos.png"
+>>>>>>> Stashed changes
   ]
 }
