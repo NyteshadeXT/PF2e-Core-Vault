@@ -2,7 +2,7 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/Assets/PlaceholderImage.png
+art: zz-Attachments/eligos-house.png
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -50,7 +50,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > Point of Interest: A location within your world, anything from a homes, shops, forts, volcanos or dungeons.
 
 > [!recite]- Introduction
-> A script for the GM to read when the party arrive to this location for the first time.
+> A white stone wall surrounds a manicured yard of sculpted hedges and exotic plants. A cobbled path, flanked by tranquil pools and statues of rearing dragons, leads to a white marble manor whose gilded double doors gleam in the golden light of mage-lanterns.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -80,6 +80,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -87,6 +88,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -94,29 +96,22 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview 
+Eligos’ manor lies within [[Haven]], the affluent district of Ardentia City reserved for scholars, politicians, wealthy merchants, and the magically elite. The manor itself is both home and private research sanctum—a repository of rare tomes and artifacts gathered over decades of service to Archmage [[Manzorian]].
 
-> [!kirk|info] Prompt (Remove me)
-> Provide an overview encapsulating the essence of this place. What defines its significance? What key events or recurring activities shape its Identity? Explore the heart of this location, capturing its essence in the unfolding pages of history.
-
-## Keyed Locations
-
-> [!kirk|info] Prompt (Remove me)
-Create detailed descriptions for each keyed location within the Point Of Interest. Define each room or area with distinct characteristics. Include information on the size, layout, notable features, and potential points of interaction or interest within each location. Describe the ambiance, potential hazards, objects of importance, any interactive elements that might engage the players, or any loot to be found. How does each keyed location contribute to the overall exploration and gameplay experience within this Point of Interest?
-
-### Example
-
+Externally refined and tranquil, the house is a fortress of secrets. Within, Eligos pursues research into planar alignments, historical catastrophes, and the patterns of cosmic cycles. Though not an active member of the [[Arcane Conclave]], his influence reaches deep into its ranks; many believe him to be the Archmage’s unseen observer within the city.
 
 ## Current Events
-
-> [!kirk|info] Prompt (Remove me)
-> Capture the present pulse within this Point of Interest. What's happening right now in this dynamic location? Are there recent developments, ongoing activities, or sudden changes that have affected the atmosphere? Delve into the current events, integrating them into the fabric of this place. How might these immediate occurrences influence encounters or quests within this Point of Interest or surrounding area, adding depth and intrigue to your players' exploration?
+**Eligos’ Research:** He is tracing prophetic patterns across the Fractured Ages, using tomes borrowed from the Great Library and forbidden archives. His notes suggest increasing worm-activity in remote ley clusters tied to Far Realm echoes beneath the Aetherial Highlands.
+**Suspicious Surveillance:** Unknown to him, one of the Conclave’s agents (or doppelgangers, per _Hall of Harsh Reflections_) has replaced a courier who delivers research materials to his home. This infiltrator may strike later.
+**Echoes of Allustan:** Eligos recently received a coded letter from Allustan about the PCs’ exploits—but the letter included faint residue of necrotic corruption, indicating it may have been intercepted or altered.
 
 ## History
+Eligos’ manor predates the Shattering by several decades, once belonging to a noble family who specialized in planar studies. Eligos purchased and restored it, layering wards and conduits that channel ambient Aetherium energy through the building to stabilize his research instruments.
 
-> [!kirk|info] Prompt (Remove me)
-> Explore the echoes of history within this location. What significant events have shaped its narrative? Unravel the tales engrained within its grounds, uncovering not just what happened, but also the narratives woven around these events. What stories persist, and are there misconceptions veiling the true essence of these historical moments?
+He was once a field operative for Manzorian, but the trauma of planar collapse during a previous expedition (possibly the destruction of an early Dungeon Seed) led him to retire to Ardentia. His mentorship of Allustan was both genuine and strategic—ensuring Manzorian’s influence extended into the Aetherial Highlands.
 
 ## Notes
-
+The manor is warded by layered Abjuration and Divination fields; trespassers trigger echoing illusions of past battles rather than alarms. The “dragon statues” are part of the Serpentine Seal—a defensive enchantment originally designed by Manzorian to mask scrying. 

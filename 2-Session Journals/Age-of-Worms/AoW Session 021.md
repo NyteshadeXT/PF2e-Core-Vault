@@ -56,7 +56,7 @@ None
 
 ## During
 ### Events
-The players journey to the lizardfolk lair in search of [[Marzena]]. After a few encounters through the swamp the players arrive and discover the entrance to the lair.  As they mill around they stumble into some harpies and are forced to do battle.  The harpies had warned the lizardfolk of their arrival though and following the battle they are approached by the shaman from the warband who Zam convinced to leave.  Believing they now have a different future, she gets the tribes shaman.  The party agrees to kill [[Shukak]] and in return can free[[Marzena]].  They are escorted thorough the lair and eventually do battle with the lizardfolk king.  We ended the night after they had a chance to heal and loot.
+The players journey to the lizardfolk lair in search of [[Marzena]]. After a few encounters through the swamp the players arrive and discover the entrance to the lair.  As they mill around they stumble into some harpies and are forced to do battle.  The harpies had warned the lizardfolk of their arrival though and following the battle they are approached by the shaman from the warband who Zam convinced to leave.  Believing they now have a different future, she gets the tribes shaman.  The party agrees to kill [[Shukak]] and in return can free [[Marzena]].  They are escorted thorough the lair and eventually do battle with the lizardfolk king.  We ended the night after they had a chance to heal and loot.
 
 ### Travel & Rest
 No rest during this session.

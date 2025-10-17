@@ -3,12 +3,12 @@ tags:
   - "#Location"
   - "#POI"
 art: zz-Attachments/Assets/PlaceholderImage.png
-pronounced: Blood-stone Arean
+pronounced: Blood-stone Arena
 poitype:
   - Arena
 location:
   - "[[Ardentia City]]"
-  - "[[Haven]]"
+  - "[[Seekers Quarter]]"
 ---
 
 > [!metadata|metadata]- Metadata 

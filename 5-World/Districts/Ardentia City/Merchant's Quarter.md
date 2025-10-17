@@ -94,13 +94,11 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > SORT file.name ASC
 
 ## Overview 
+The Merchant’s Quarter is one of the largest and most vibrant districts of [[Ardentia City]], home to merchants, artisans, and upper-class residents who thrive on trade, craftsmanship, and commerce. The district is filled with interconnected marketplaces, artisan guildhalls, luxurious townhouses, and opulent manors. Small temples dedicated to the various gods of Aetheria Fracta are scattered throughout, allowing residents and visitors to worship and offer tributes according to their beliefs. Every street hums with the sound of negotiation, trade, and the occasional prayer or blessing.
 
-> [!kirk|info] Prompt (Remove me)
-> The Merchant’s Circle** is one of the largest and most vibrant districts of [[Ardentia City]], home to merchants, artisans, and upper-class residents who thrive on trade, craftsmanship, and commerce. The district is filled with interconnected marketplaces, artisan guildhalls, luxurious townhouses, and opulent manors. Small temples dedicated to the various gods of Aetheria Fracta are scattered throughout, allowing residents and visitors to worship and offer tributes according to their beliefs. Every street hums with the sound of negotiation, trade, and the occasional prayer or blessing.
-> 
-> The district is known for its [[Bazaar of Wonders]], a sprawling market where rare magical items, precious materials, and enchanted curiosities are sold. It's also home to the [[Hall of Artisans]], a prestigious guild that oversees craftsmanship and trade within the city. The district's temples, such as the **[[Sanctuary of Elara]]** for life and renewal, the **[[Shrine of Aurelius]]** for justice and order, and others dedicated to deities like [[Thalor]], [[Illyria]], and [[Lysandra]], provide a diverse spiritual tapestry reflecting the city's cultural and religious inclusiveness.
-> 
-> Capture the essence of this district within the larger settlement. Define its specific characteristics, purpose, and identity. Explore the district's primary function, whether it's residential, commercial, industrial, cultural, or recreational. Detail the demographics, architectural style, notable landmarks, and any unique cultural aspects that distinguish this district. How does this district contribute to the overall landscape and vitality of the settlement?
+The district is known for its [[Bazaar of Wonders]], a sprawling market where rare magical items, precious materials, and enchanted curiosities are sold. It's also home to the [[Hall of Artisans]], a prestigious guild that oversees craftsmanship and trade within the city. The district's temples, such as the [[Sanctuary of Elara]] for life and renewal, the [[Shrine of Aurelius]] for justice and order, and others dedicated to deities like [[Thalor]], [[Illyria]], and [[Lysandra]], provide a diverse spiritual tapestry reflecting the city's cultural and religious inclusiveness.
+
+**Capture the essence of this district within the larger settlement. Define its specific characteristics, purpose, and identity. Explore the district's primary function, whether it's residential, commercial, industrial, cultural, or recreational. Detail the demographics, architectural style, notable landmarks, and any unique cultural aspects that distinguish this district. How does this district contribute to the overall landscape and vitality of the settlement?**
 
 ## Keyed Locations
 

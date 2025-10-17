@@ -12,7 +12,7 @@ defence: Formidable
 aliases:
   - The Crystal City
 location:
-  - "[[Aetherial Highlands]]"
+  - "[[5-World/Regions/Aetherial Highlands]]"
 governmenttype:
   - Magocracy
 dominion:
@@ -149,7 +149,7 @@ dominion:
 > SORT file.name ASC
 
 ## Overview
-Ardentia City is strategically situated around a massive Dungeon that formed at the heart of the city following the meteor strike. This city-state, found in the [[Aetherial Highlands]], occupies a important position within the fractured world, making it a crucial hub for trade, diplomacy, and magical research.
+Ardentia City is strategically situated around a massive Dungeon that formed at the heart of the city following the meteor strike. This city-state, found in the [[5-World/Regions/Aetherial Highlands]], occupies a important position within the fractured world, making it a crucial hub for trade, diplomacy, and magical research.
 
 The architecture of Ardentia City reflects its magical prowess and technological advancements. Towering spires and grand citadels dominate the skyline, adorned with intricate carvings, arcane symbols, and shimmering enchantments. Crystalline building shimmer in the sunlight.  The streets are bustling with activity, lined with market stalls, alchemical workshops, and libraries filled with ancient tomes and scrolls. At the center of the [[Seeker's Quarter]] of the city stands the imposing edifice of the [[Arcane Exchange Consortium Headquarters]] where the Dungeon Seed can be found, its pulsating energies visible even from afar. This dungeon, known as the [[Aetherial Observatory]], has become a focal point for adventurers and scholars alike.  The [[Isle of Learning]] supports [[Terramore Academy]] and the [[Aetherial Cathedral]], home to the worshipers of [[Arcarios]].  The island simply know to locals as [[Haven]] is where most average citizens can be found.  Beings of all ethnicities and backgrounds can be found here.  [[Haven]] is dominated by the [[Bloodstone Arena]] in it's southwest corner where battles are fought to become the next Bloodstone Champion.
 

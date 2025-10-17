@@ -47,7 +47,7 @@ adventure_level: 7th to 9th
 ## Background
 Loris Raknian, retired gladiator and director of the [[Bloodstone Arena]], has his hands full organizing the upcoming Champion's Games, when fighters from around the world gather in a festival of violence and pageantry that should put all previous expositions to shame. Despite this enormous logistical challenge, he still manages to keep up with his fellow cultists in the Ebon Triad, including the secretive cell stationed below the corrupt mining village of Diamond Lake. Raknian recently learned that this cell was destroyed and its secret research stolen by a group of locals. Angry at the loss of his associates and concerned about the missing research, Raknian is worried that someone has stumbled onto the cult's hidden plans, Worse, the sinister tiefling Bozal Zahol, the cultist who converted Raknian to the Ebon Triad and who dwells in a secret temple deep below the Free City Arena, has decreed that if Raknian doesn't take care of the problem in Diamond Lake soon, things will get very uncomfortable for him.
 
-When Raknian learned, through an ally hidden in Diamond Lake, that those responsible for the cult's destruction were on their way to the Free City, he breathed а sigh of relief. Far too busy with preparations for the upcoming Champion's Games to deal with the upstarts himself, Loris contacted Zyrxog, a mind flayer living beneath the city streets and an old associate of the arena master. Loris tasked Zyrxog with destroying the PCs and recovering any missing clues they might have concerning the cult's nefarious plot.
+When Raknian learned, through an ally hidden in Diamond Lake, that those responsible for the cult's destruction were on their way to Ardentia City, he breathed а sigh of relief. Far too busy with preparations for the upcoming Champion's Games to deal with the upstarts himself, Loris contacted Zyrxog, a mind flayer living beneath the city streets and an old associate of the arena master. Loris tasked Zyrxog with destroying the PCs and recovering any missing clues they might have concerning the cult's nefarious plot.
 
 Zyrxog and a coterie of drow thralls came to the Free City years ago and quickly set up operations after dominating a gang of doppelgangers based in the city's waterfront. Using them as his eyes, ears, and hands on the streets above, the mind flayer has been manipulating events, replacing important officials, and gathering oddities according to his alien designs. Tasked with destroying the meddlesome party from Diamond Lake, Zyrxog quickly sets his doppelgangers into motion, tracking them down and planning their ruin.
 
@@ -209,9 +209,9 @@ Their business completed, [[Eligos]] summons Pollard to escort the party out, pr
 > [!note]+ Read Aloud
 > One of the larger buildings in the neighborhood, the Crooked House, is just that a bit off tilt. Its walls are all at odd angles while none of its windows and doors are quite square. Despite this, the building looks to be in good repair, freshly painted and clean.
 
- The Merchant's Quarter is a diverse and busy neighborhood, packed with shops from dozens of nations and numerous inns that cater to merchants and travelers from far away lands. The buildings here reflect this diverse ethnicity, as few look alike and construction styles vary wildly from building to building. Structures made from stone, fancifully carved wood, and countless other more exotic materials.
+ The [[Merchant's Quarter]] is a diverse and busy neighborhood, packed with shops from dozens of nations and numerous inns that cater to merchants and travelers from far away lands. The buildings here reflect this diverse ethnicity, as few look alike and construction styles vary wildly from building to building. Structures made from stone, fancifully carved wood, and countless other more exotic materials.
 
-Located in a part of the Merchant's Quarter known as “Midnight's Muddle,” the Crooked House has seen better days. Parts of its foundation have failed, resulting in a building out of sorts. The inn boasts few right angles, and none of the floors are level. However, the place has a charm not seen in many of the other buildings in the district. Its owner, [[Tarquin Shortstone]] XXIV, takes pride in his establishment, and despite its condition he keeps everything in working order, clean, and mostly safe.
+Located in a part of the [[Merchant's Quarter]] known as “Midnight's Muddle,” the Crooked House has seen better days. Parts of its foundation have failed, resulting in a building out of sorts. The inn boasts few right angles, and none of the floors are level. However, the place has a charm not seen in many of the other buildings in the district. Its owner, [[Tarquin Shortstone]] XXIV, takes pride in his establishment, and despite its condition he keeps everything in working order, clean, and mostly safe.
 
 Tarquin (NG male gnome) runs an honest business, catering to both locals and visitors alike, Many of the owners of local businesses stop by the Crooked House for a pint after closing up for the evening. Tarquin encourages this by cutting most of them a good deal and engaging them in lively conversation about business and local events. He is equally friendly to newcomers, offering up his rooms for the modest price of 6 sp per night, including a small meal in the morning.
 
@@ -245,7 +245,7 @@ Waiting until at least one of the PCs has gone to bed, [[Elaxan]] goes upstairs 
 [[Tarquin]] survives the attack but falls unconscious behind the bar (at -2 hit points and bleeding) with the dagger still in his chest. The crowd of assembled patrons quickly begins shouting at the PCs as [[Elaxan]] attempts to use his [[Skills#Diplomacy|Diplomacy]] skill to turn them against the PCs. If none of the PCs counter this with [[Skills#Diplomacy|Diplomacy]] of their own, this is a simple DC 21 check. Should the PCs resist, it becomes an opposed role. The crowd's initial attitude toward the PCs is unfriendly. Either side winning the check by 5 or more сап sway their attitude one step in either direction. Since these checks take 1 minute, sleeping PCs have plenty of time to join the commotion caused downstairs,.
 
 ```encounter
-name: Parade of Thieves
+name: Betrayal at the Bar
 party: Age of Worms
 creatures:
   - 1: Elaxan
@@ -406,7 +406,7 @@ Those falling into the water are subject to 1d4 attacks from the weapons (+18 me
 
 #### D8. Water-filled Pit
 > [!note]+ Read Aloud
-> This large chamber is empty aside from two holes in the floor, one a jagged rip where the floor has fallen away, the other a perfectly square opening with a shaft leading down. The shaft is full of water after about thirty-five feet and a wooden barrel bobs on the surface. A crude rope ladder descends to the surface of the water.
+> This large chamber is empty aside from a hole in the floor.  A perfectly square opening with a shaft leading down. The shaft is full of water after about thirty-five feet and a wooden barrel bobs on the surface. A crude rope ladder descends to the surface of the water.
 
 The doppelgangers use this room to gain access to their underground warrens. Traditionally, the members of the gang sit in the barrel, floating in the water as the level slowly drains down 40 feet to the floor below, just outside area D9. When they wish to go up, they simply reverse the process, sitting in the barrel as the water level is slowly raised. This process takes a full minute.
 

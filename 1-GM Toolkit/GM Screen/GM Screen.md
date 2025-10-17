@@ -1,5 +1,5 @@
 > [!kanban|clean no-t]+
-> - [[5-World/Maps/Aetheria Fracta|Aetheria Fracta]]
+> - [[Aetherial Highlands Map|Aetherial Highlands Map]]
 > 	![[ Known World.png|sban center hs-sm]]
 > - [[Encounter Builder]]
 > 	![[Encounter.png|sban center hs-sm]]

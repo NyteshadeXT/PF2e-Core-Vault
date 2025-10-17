@@ -57,7 +57,7 @@ None
 
 ## During
 ### Events
-The players follow the wroggi tracks to their lair where they find and defeat a few more wroggi as well as a great wroggi.  They continue on to the keep.  sawdwddwThere they discover the keep is under assault by a tribe of lizardfolk warriors.  After talking to the soldiers in the keep they learn that [[Marzena]] and a few of the guardsmen have been taken somewhere deeper into the swamp.  Zamoshe decides to pretend to the their god.  He convinces two groups within the warband leave of their own accord and two others with the help of a fireball.  The night ends with a battle against the warband leaders from which the players emerge victorious.
+The players follow the wroggi tracks to their lair where they find and defeat a few more wroggi as well as a great wroggi.  They continue on to the keep.  There they discover the keep is under assault by a tribe of lizardfolk warriors.  After talking to the soldiers in the keep they learn that [[Marzena]] and a few of the guardsmen have been taken somewhere deeper into the swamp.  Zamoshe decides to pretend to the their god.  He convinces two groups within the warband leave of their own accord and two others with the help of a fireball.  The night ends with a battle against the warband leaders from which the players emerge victorious.
 
 ### Travel & Rest
 The players do rest after the battle with the great wroggi.

@@ -5,7 +5,7 @@ tags:
 art: zz-Attachments/Diamond Lake Banner.webp
 pronounced: Diamond-Lake
 location:
-  - "[[Aetherial Highlands]]"
+  - "[[5-World/Regions/Aetherial Highlands]]"
 settlementtype: Small Town
 population: human 96%, halfling 2%, gnome 1%, other races 1%
 defence: Weak

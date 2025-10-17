@@ -1,105 +1,98 @@
 {
   "main": {
-    "id": "185462b64b5ce0a7",
+    "id": "6b46650736bef30e",
     "type": "split",
     "children": [
       {
-        "id": "3969feed002c3c9e",
+        "id": "1892f198b2bb2e8e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d027f79748d0afb",
+            "id": "e7137664019936b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
-=======
-                "file": "3-Rules/Character Building/Equipment/C/condensed-mana.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "conflagration-club"
-=======
-              "title": "condensed-mana"
-            }
-          },
-          {
-            "id": "4a89bdd47916f6f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
+                "file": "2-Session Journals/Age-of-Worms/AoW Session 021.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Encounter at Blackwall Keep"
+              "title": "AoW Session 021"
             }
           },
           {
-            "id": "06215064e37f9f55",
+            "id": "3bce71083c6b45fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
+                "file": "5-World/Districts/Ardentia City/Isle of Learning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Isle of Learning"
+            }
+          },
+          {
+            "id": "92be28f7bf66468b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/NPCs/Ellival Moonmeadow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ellival Moonmeadow"
+            }
+          },
+          {
+            "id": "15eba6b587b3a693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/Maps/Ardentia City Map.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DC Calculator"
+              "title": "Ardentia City Map"
             }
           },
           {
-            "id": "967ace6983fb9b22",
+            "id": "bfadb8329dc84b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Chimeracrafting.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chimeracrafting"
-            }
-          },
-          {
-            "id": "32b63baa4f00d820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Random_Jewelry_Table"
->>>>>>> Stashed changes
+              "title": "The Hall of Harsh Reflections"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e17b9199bb5f7e53",
+    "id": "d689d39a936bf958",
     "type": "split",
     "children": [
       {
-        "id": "d4b9b86014b8e747",
+        "id": "b62f01449efcc26c",
         "type": "tabs",
         "children": [
           {
-            "id": "43c6b2bc5f385894",
+            "id": "198676ae38ebd193",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,7 +105,7 @@
             }
           },
           {
-            "id": "66eca5ca5991e845",
+            "id": "f2da9f6103d263ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,7 +122,7 @@
             }
           },
           {
-            "id": "70a8698252260044",
+            "id": "1b4d2dcd1ad8bb4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,23 +135,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
-    "id": "94640d80b3032990",
+    "id": "2a5b285256e58b6d",
     "type": "split",
     "children": [
       {
-        "id": "898865ce1b0cd77d",
+        "id": "cacc068d70e905e1",
         "type": "tabs",
         "children": [
           {
-            "id": "45be449d6bec3645",
+            "id": "59740191840b95e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
+                "file": "5-World/Maps/Ardentia City Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,25 +161,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflagration-club"
+              "title": "Backlinks for Ardentia City Map"
             }
           },
           {
-            "id": "9303bebfcf804cb7",
+            "id": "00be821018bad67d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflagration-club"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a15e2f4bb0e5c16e",
+            "id": "219d55725949ff35",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -201,22 +193,21 @@
             }
           },
           {
-            "id": "0dbf7ff957f4b062",
+            "id": "372142ed2f9ed9f7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/C/conflagration-club.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflagration-club"
+              "title": "Outline"
             }
           },
           {
-            "id": "9f3303eb151782d6",
+            "id": "c324827873601be5",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -226,13 +217,29 @@
             }
           },
           {
-            "id": "752c827d99399464",
+            "id": "5df1ccd692d5adf6",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1acc93246655d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb160c8a01c9b16",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
             }
           }
         ]
@@ -260,63 +267,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "calendarium:Open Calendarium": false
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "5d027f79748d0afb",
+  "active": "92be28f7bf66468b",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/Confabulator.md",
-    "3-Rules/Character Building/Equipment/C/conduit-shot-moderate.md",
-    "3-Rules/Character Building/Equipment/C/conduit-shot-lesser.md",
-    "3-Rules/Character Building/Equipment/C/conducting.md",
-    "3-Rules/Character Building/Equipment/C/conduit-shot-greater.md",
-    "3-Rules/Character Building/Equipment/C/condensed-mana.md",
-    "3-Rules/Character Building/Archetypes/wormhunter.md",
-    "3-Rules/Character Building/Spells/A/Aberrant Form.md",
-    "3-Rules/Bestiaries/Homebrew/S/shard-slave.md",
-    "3-Rules/Character Building/Archetypes/Archetypes.md",
-    "3-Rules/Character Building/Archetypes"
-=======
-  "active": "efa2b022bfafec0e",
-  "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/conch-of-otherworldly-seas.md",
-    "3-Rules/Character Building/Equipment/C/charlatans-gloves.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Tests/Random_Jewelry_Table.md",
-    "3-Rules/Character Building/Equipment/C/cheetahs-elixir-lesser.md",
-    "3-Rules/Bestiaries/Homebrew/S/shard-spider.md",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-bound-menagerie.md",
-    "3-Rules/Character Building/Equipment/Homebrew/codex-of-the-eidolonic-tapestry.md",
-    "3-Rules/Character Building/Equipment/Homebrew/cryopod-flask.md",
-    "3-Rules/Character Building/Equipment/Homebrew/kyuss-worm-paste.md",
-    "3-Rules/Character Building/Equipment/Homebrew/organ-ward-resin.md",
-    "3-Rules/Character Building/Equipment/Homebrew/preserving-salts.md",
-    "3-Rules/Character Building/Equipment/Homebrew/superior-monster-harvesting-tools.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-blade.md",
-    "3-Rules/Character Building/Equipment/Homebrew/venomlash-talisman.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-major.md",
-    "3-Rules/Character Building/Equipment/Homebrew/fanged-maw-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/bestial-crafter’s-codex.md",
-    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
-    "3-Rules/Hazards/Homebrew/glyph-of-warding-blast-hb.md",
+    "5-World/NPCs/Diamond Lake/Marzena.md",
+    "5-World/NPCs/Ellival Moonmeadow.md",
+    "5-World/Points of Interest/Ardentia City/The Crooked House.md",
+    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
+    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
+    "5-World/Maps/Ardentia City Map.md",
     "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "zz-Attachments/zyrxog.png",
-    "zz-Attachments/museum.png",
-    "zz-Attachments/collapsed-chamber.png",
-    "zz-Attachments/Telakin.png",
-    "zz-Attachments/Drow Caves.png",
-    "zz-Attachments/octopin.png",
-    "zz-Attachments/sodden-hold-map.png",
-    "zz-Attachments/crooked-house-tavern.png",
-    "zz-Attachments/tarquin-shortstone.png",
-    "zz-Attachments/Eligos.png"
->>>>>>> Stashed changes
+    "5-World/Points of Interest/Ardentia City/The Broken Blade.md",
+    "5-World/Points of Interest/Ardentia City/Terramore Academy.md",
+    "5-World/Points of Interest/Ardentia City/Spellweaver's Sanctuary.md",
+    "5-World/Points of Interest/Ardentia City/Eligos' House.md",
+    "5-World/Points of Interest/Ardentia City/Codex Arcanum.md",
+    "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
+    "5-World/Points of Interest/Ardentia City/Aetherial Cathedral.md",
+    "zz-Attachments/eligos-house.png",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "5-World/Districts/Ardentia City/Haven.md",
+    "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
+    "5-World/Points of Interest/Ardentia City/Arcane Exchange Consortium Headquarters.md",
+    "5-World/Dungeons/Aetherial Observatory.md",
+    "5-World/Maps/Aetherial Highlands Map.md",
+    "5-World/Maps/Ardentia City Map - Seekers Quarter.md",
+    "zz-Attachments/Ardentia City - Seekers Quarter.png",
+    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
+    "zz-Attachments/arcane-exchange-headquarters.png",
+    "zz-Attachments/Pasted image 20240714230832.png",
+    "zz-Attachments/Pasted image 20240714231654.png",
+    "zz-Attachments/Pasted image 20240714231738.png",
+    "zz-Attachments/Pasted image 20240714232040.png",
+    "zz-Attachments/Pasted image 20240714232057.png",
+    "zz-Attachments/Pasted image 20240714232119.png",
+    "zz-Attachments/Pasted image 20240714232136.png",
+    "5-World/NPCs/Ardentia City/Riven Stormblade.md",
+    "5-World/Districts/Ardentia City/Isle of Learning.md",
+    "5-World/Districts/Ardentia City/Seekers Quarter.md",
+    "5-World/Districts/Ardentia City/Merchant's Quarter.md",
+    "5-World/Districts/Ardentia City"
   ]
 }

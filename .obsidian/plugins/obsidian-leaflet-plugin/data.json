@@ -232,34 +232,6 @@
       ]
     },
     {
-      "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1759449041972,
-      "markers": [
-        {
-          "id": "ID_d8795bc9caaa",
-          "type": "default",
-          "loc": [
-            -26.405155692477635,
-            39.04002830191666
-          ],
-          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "5-World/Points of Interest/Diamond Lake/Osgood Smithy.md"
-      ]
-    },
-    {
       "id": "update-me",
       "lastAccessed": 1759452578643,
       "markers": [
@@ -284,6 +256,256 @@
       "shapes": [],
       "files": [
         "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md"
+      ]
+    },
+    {
+      "id": "TBD",
+      "locked": true,
+      "lastAccessed": 1760728690147,
+      "markers": [
+        {
+          "id": "ID_d8795bc9caaa",
+          "type": "default",
+          "loc": [
+            -26.405155692477635,
+            39.04002830191666
+          ],
+          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5-World/Districts/Ardentia City/Shattered Ward.md",
+        "5-World/Districts/Ardentia City/Seekers Quarter.md",
+        "5-World/Districts/Ardentia City/Merchant's Quarter.md",
+        "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
+        "5-World/Points of Interest/Ardentia City/Arcane Exchange Consortium Headquarters.md",
+        "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
+        "5-World/Dungeons/Aetherial Observatory.md",
+        "5-World/Points of Interest/Ardentia City/Aetherial Cathedral.md",
+        "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
+        "5-World/Districts/Ardentia City/Haven.md",
+        "5-World/Points of Interest/Ardentia City/Codex Arcanum.md",
+        "5-World/Points of Interest/Ardentia City/Eligos' House.md",
+        "5-World/Points of Interest/Ardentia City/Spellweaver's Sanctuary.md",
+        "5-World/Points of Interest/Ardentia City/Terramore Academy.md",
+        "5-World/Points of Interest/Ardentia City/The Broken Blade.md"
+      ]
+    },
+    {
+      "id": "Ardentia-City-Seekers-Quarter",
+      "locked": true,
+      "lastAccessed": 1760730306181,
+      "markers": [
+        {
+          "id": "ID_a8dadb8b7878",
+          "type": "default",
+          "loc": [
+            -6902.688009595428,
+            5760.313779441953
+          ],
+          "link": "Arcane Exchange Consortium Headquarters",
+          "layer": "%5B%5BArdentia%20City%20-%20Seekers%20Quarter.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48bbbbc86849",
+          "type": "default",
+          "loc": [
+            -7257.875,
+            5754.195249696606
+          ],
+          "link": "Aetherial Observatory",
+          "layer": "%5B%5BArdentia%20City%20-%20Seekers%20Quarter.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_696ab9f84958",
+          "type": "default",
+          "loc": [
+            -4753.875,
+            4722.430666192185
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20-%20Seekers%20Quarter.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b2849798bfa",
+          "type": "default",
+          "loc": [
+            -8801.875,
+            5298.299270938837
+          ],
+          "layer": "%5B%5BArdentia%20City%20-%20Seekers%20Quarter.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "Ardentia_City",
+      "locked": true,
+      "lastAccessed": 1760730306181,
+      "markers": [
+        {
+          "id": "ID_695b1b18eaa8",
+          "type": "default",
+          "loc": [
+            -460.17895234080834,
+            529.1481743226452
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285bdb49bba8",
+          "type": "default",
+          "loc": [
+            -459.08595275303384,
+            529.395711377356
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_399959eaa9da",
+          "type": "default",
+          "loc": [
+            -513.8773895169579,
+            555.0199294206747
+          ],
+          "link": "Arcane Exchange Consortium Headquarters",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba5beae9486b",
+          "type": "default",
+          "loc": [
+            -520.5010277492293,
+            555.3948438768899
+          ],
+          "link": "Aetherial Observatory",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_485a0a79a97a",
+          "type": "default",
+          "loc": [
+            -661.3234702622643,
+            320.19618484713175
+          ],
+          "link": "Eligos' House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3a3b6a2b7a",
+          "type": "default",
+          "loc": [
+            -163.8938347298844,
+            513.5625486588498
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b78a85b4a3a",
+          "type": "default",
+          "loc": [
+            -199.76629558553532,
+            500.38024598554694
+          ],
+          "link": "The Crooked House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5-World/Districts/Ardentia City/Isle of Learning.md",
+        "5-World/Maps/Ardentia City Map.md"
       ]
     }
   ],

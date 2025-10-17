@@ -9,7 +9,7 @@ organizationtype:
   - Council
 hq: "[[Ardentia City]]"
 location:
-  - "[[Aetherial Highlands]]"
+  - "[[5-World/Regions/Aetherial Highlands]]"
   - "[[Ardentia City]]"
 head:
   - "[[Alaric Swiftwind]]"
