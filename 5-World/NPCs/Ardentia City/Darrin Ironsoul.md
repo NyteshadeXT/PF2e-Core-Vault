@@ -2,17 +2,22 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz-Attachments/alaric-switfwind.png
-pronounced: Al-a-ric Swift-wind
+art: zz-Attachments/darrin-ironsoul.png
+pronounced: Dare-in Storm-weaver
 gender: Male
+condition: Healthy
+occupation:
+  - Blacksmith
+organization:
+  - "[[Dungeon Seekers Guild]]"
+ancestry: Human
 age: Adult
 sexuality: Straight
+alignment: Neutral Good
 ownedlocation:
-  - "[[Arcane Apothecary]]"
+  - "[[The Gilded Gauntlet]]"
 location:
-  - "[[Arcane Apothecary]]"
-  - "[[Ardentia City]]"
-condition: Healthy
+  - "[[The Gilded Gauntlet]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -120,9 +125,7 @@ condition: Healthy
 
 ## Overview
 
-> [!Overview|info] 
-> Alaric runs the Arcane Apothecary for the [[Arcane Conclave]].  He is a centaur whose hooves leave stardust trails. 
-> 
+> [!kirk|info] Overview
 > Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
 
 > [!column|2 no-title]

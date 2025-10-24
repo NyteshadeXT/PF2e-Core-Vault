@@ -3,6 +3,7 @@ tags:
   - "#Location"
   - "#Settlement"
 art: zz_Attachments/Misc/PlaceholderImage.png
+language: Draconic
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -26,8 +27,9 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Type** | `INPUT[SettlementType][:settlementtype]` |
 >> **Terrain** | `INPUT[Terrain][inlineListSuggester:terrain]` |
->> **Defences** | `INPUT[Defence][:defence]`
+>> **Defenses** | `INPUT[Defence][:defence]` |
 >> **Location** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
+>> **Languages** | `INPUT[Language][inlineListSuggester:Language]` |
 >
 >> [!metadata|metadataoption]- Demographics
 >> #### Demographics
@@ -36,9 +38,10 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 >> **Dominion** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):dominion]` |
 >> **Rulers** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):ruler]` |
 >> **Leaders** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):leader]` |
-> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
+>> **Organizations** | `INPUT[inlineListSuggester(optionQuery(#Organization AND !"z_Templates"), useLinks(partial)):organization]` |
 >> **Government Type** | `INPUT[GovernmentType][inlineListSuggester:governmenttype]` |
->> **Population** |  `INPUT[textArea:population]`
+>> **Population** |  `INPUT[textArea:population]` |
+>> **Religions**| `INPUT[Religion][:religion]` |
 >
 >> [!metadata|metadataoption]- Commerce
 >> #### Commerce
@@ -56,7 +59,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Type** | `VIEW[{settlementtype}][text]` |
 > **Terrain** | `VIEW[{terrain}][text]` |
-> **Defences** | `VIEW[{defence}]` |
+> **Defenses** | `VIEW[{defence}]` |
 > **Location** | `VIEW[{location}][link]` |
 > ###### Demographics
 >  |
@@ -104,6 +107,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "District")
 > SORT districttype ASC, file.name ASC
+> ```
 
 > [!metadata|location]- Locations
 > ```dataview
@@ -111,6 +115,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
+> ```
 
 > [!metadata|organizations]- Organizations
 > ```dataview
@@ -118,6 +123,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Organization")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -125,6 +131,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -132,6 +139,7 @@ art: zz_Attachments/Misc/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview
 

@@ -78,8 +78,9 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(organization), ", ") AS "Organization(s)"
 > FROM "5-World"
-> WHERE econtains(location, this.file.link) AND contains(tags, "POI")
+> WHERE econtains(location, this.file.link) AND contains(tags, "District")
 > SORT tags DESC, poitype ASC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -87,6 +88,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -94,6 +96,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview 
 

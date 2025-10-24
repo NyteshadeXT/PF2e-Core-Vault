@@ -2,20 +2,19 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/arcane-apothecary.png
-pronounced: Ar-kane App-o-the-cary
-poitype:
-  - Shop [Apothecary]
-  - Shop [Potion]
-location:
-  - "[[Ardentia City]]"
-  - "[[Seekers Quarter]]"
-owner:
-  - "[[Alaric Swiftwind]]"
+art: zz-Attachments/gilded-gauntlet.png
+pronounced: Gill-ded Gawn-let
 organization:
-  - "[[Arcane Conclave]]"
-dominion:
-  - "[[Arcane Conclave]]"
+  - "[[Dungeon Seekers Guild]]"
+location:
+  - "[[Seekers Quarter]]"
+  - "[[Ardentia City]]"
+poitype:
+  - Shop [Armorer]
+owner:
+  - "[[Darrin Ironsoul]]"
+assistant:
+  - "[[Thay Sheim]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -59,9 +58,11 @@ dominion:
 > **Location** | `VIEW[{location}][link]` |
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
+> [!kirk|info] Info (Remove me)
+> Point of Interest: A location within your world, anything from a homes, shops, forts, volcanos or dungeons.
 
 > [!recite]- Introduction
-> The scent of ozone and crushed herbs fills the air as you step into the Arcane Apothecary. Ribbons of liquid light spiral through glass conduits in the walls, and glass orbs drift lazily overhead. A centaur with starlit hooves greets you warmly, his eyes glinting with intelligence. Shelves shimmer with potions that pulse like living constellations.
+> Sparks rain like golden fireflies from the open forge, their light dancing across polished armor and rune-etched blades. The rhythmic clang of hammer on steel resonates through the street. Darrin Ironsoul, his left arm replaced with gleaming Aetherium plating, nods in greeting from behind the counter.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -110,22 +111,26 @@ dominion:
 > ```
 
 ## Overview 
-A premier alchemical establishment catering to Seekers who brave the Aetherial Observatory. The Apothecary crafts bespoke potions infused with Creature Cores—each vial holds a fragment of dungeon essence. Adventurers come here for curatives, antidotes, and experimental elixirs designed to resist the mutating energies of Aetheria’s Dungeons.
+A masterwork forge producing arms and armor designed for Dungeon delving. Darrin’s creations balance practical function and magical enhancement—each bearing his maker’s mark: a gauntlet clutching a rune.
 
-- **Atmosphere:** Calm yet humming with mana; every bottle sings faintly when touched.
-- **Notable Products:** Healing potions, elemental resist elixirs, core infusions, rejuvenation tonics.
-- **Unique Service:** Identify & extract trace essence from spent Creature Cores.
+- **Atmosphere:** Industrial heat, rhythmic hammering, faint smell of ozone and oil.
+- **Products:** Reinforced adventuring gear, rune-bound weapons, climbing tools, Aetherium-threaded mail.
+- **Customers:** Seekers, mercenaries, and Arcane Exchange security.
 
 ## Keyed Locations
-- **Front Hall:** Floating orbs illuminate ingredients; customers browse shimmering displays.
-- **Brewing Chamber:** Lined with crystal alembics that hum in harmony with ambient mana.
-- **Vault of Essences:** Protected by starlight wards—stores rare Dungeon reagents.
-- **Garden of Sparks:** A rooftop herbarium where luminescent flora grows under controlled magic.
+
+> [!kirk|info] Prompt (Remove me)
+Create detailed descriptions for each keyed location within the Point Of Interest. Define each room or area with distinct characteristics. Include information on the size, layout, notable features, and potential points of interaction or interest within each location. Describe the ambiance, potential hazards, objects of importance, any interactive elements that might engage the players, or any loot to be found. How does each keyed location contribute to the overall exploration and gameplay experience within this Point of Interest?
+
+The main forge is an Aetherium furnaces which burn clean blue; a semi-sentient hammer assists the smith.  While in the showroom there are displays of animated armor performing maneuvers to demonstrate various enchantments. 
+
+Darrin's private workshop and personal forge is off-limits to customers and rumored to house *Iron Pact* relics.
 
 ## Current Events
-Alaric experiments with hybrid elixirs combining Aetherium dust and Creature Core residue—rumors whisper the process can *awaken latent magic* within mortals. The Arcane Conclave watches closely.
+Darrin is crafting an “unbreakable” shield commissioned by [[Belegar Cragstone]], intended for use in the next Observatory expedition. Strange runic whispers echo from his forge at night.
 
 ## History
-Founded shortly after the Dungeon Seekers Guild was established, the Apothecary became the primary supplier for guild expeditions. Its recipes are said to originate from pre-Fracture alchemical manuscripts recovered beneath Ardentia.
+Once a Seeker himself, Darrin lost his arm to a mana implosion within the Aetherial Observatory. He reforged his limb using Aetherium, merging flesh and forge—a symbol of the Quarter’s spirit.
+
 
 ## Notes

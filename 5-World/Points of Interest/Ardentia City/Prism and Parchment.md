@@ -2,20 +2,17 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/arcane-apothecary.png
-pronounced: Ar-kane App-o-the-cary
+art: zz-Attachments/prism-and-parchment.png
+pronounced: Priz-um and Par-chment
 poitype:
-  - Shop [Apothecary]
-  - Shop [Potion]
+  - Shop [Scribe]
 location:
   - "[[Ardentia City]]"
   - "[[Seekers Quarter]]"
-owner:
-  - "[[Alaric Swiftwind]]"
 organization:
   - "[[Arcane Conclave]]"
-dominion:
-  - "[[Arcane Conclave]]"
+owner:
+  - "[[Jorvan Kale]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -61,7 +58,7 @@ dominion:
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
 > [!recite]- Introduction
-> The scent of ozone and crushed herbs fills the air as you step into the Arcane Apothecary. Ribbons of liquid light spiral through glass conduits in the walls, and glass orbs drift lazily overhead. A centaur with starlit hooves greets you warmly, his eyes glinting with intelligence. Shelves shimmer with potions that pulse like living constellations.
+> The scent of parchment and ink mingles with the faint hum of wards as you step into The Prism & Parchment. Shelves of scrolls line the walls in precise dwarven order, while quills hover in the air, writing and rewriting text faster than any hand could manage. Behind the counter stands a stout dwarf with spectacles and a smile tinged with ink stains—Professor Jorvan Kale, at your service.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -110,22 +107,24 @@ dominion:
 > ```
 
 ## Overview 
-A premier alchemical establishment catering to Seekers who brave the Aetherial Observatory. The Apothecary crafts bespoke potions infused with Creature Cores—each vial holds a fragment of dungeon essence. Adventurers come here for curatives, antidotes, and experimental elixirs designed to resist the mutating energies of Aetheria’s Dungeons.
+The Prism & Parchment serves as both scroll emporium and arcane research hall for adventurers seeking reliable magic in the field. Professor Jorvan Kale, a retired adventurer turned Terramore Academy lecturer, designed the shop to function as a “portable library for Seekers.”  
 
-- **Atmosphere:** Calm yet humming with mana; every bottle sings faintly when touched.
-- **Notable Products:** Healing potions, elemental resist elixirs, core infusions, rejuvenation tonics.
-- **Unique Service:** Identify & extract trace essence from spent Creature Cores.
+Each scroll is stored within a crystalline tube that projects faint light corresponding to its spell rank. Aetherial wards hum faintly, preventing misfires or theft. Seekers often come here to commission new spells, research dungeon runes, or purchase emergency scrolls before expeditions into the Aetherial Observatory.
+
+- **Atmosphere:** Quietly industrious; the scratch of quills and hum of runes never cease.  
+- **Services:** Scroll transcription, rune analysis, magical translation, and scribing contracts for the Dungeon Seekers Guild.  
+- **Unique Feature:** Animated quills copy spells in multiple languages simultaneously, allowing rapid translation for mixed-heritage adventuring parties.
 
 ## Keyed Locations
-- **Front Hall:** Floating orbs illuminate ingredients; customers browse shimmering displays.
-- **Brewing Chamber:** Lined with crystal alembics that hum in harmony with ambient mana.
-- **Vault of Essences:** Protected by starlight wards—stores rare Dungeon reagents.
-- **Garden of Sparks:** A rooftop herbarium where luminescent flora grows under controlled magic.
+- **Front Counter:** Jorvan personally oversees transactions, his illusions mirroring his movements to multitask across the room.  
+- **Scriptorium Floor:** A circular chamber filled with desks, each attended by scribing constructs and glowing ink vats.  
+- **Rune Vault:** A magically sealed annex holding pre-Fracture runes—entries restricted to Conclave scholars only.  
+- **Private Reading Orbs:** Floating study bubbles surrounded by spectral light, allowing private concentration.
 
 ## Current Events
-Alaric experiments with hybrid elixirs combining Aetherium dust and Creature Core residue—rumors whisper the process can *awaken latent magic* within mortals. The Arcane Conclave watches closely.
+Kale recently uncovered a set of runes resonating with the Aetherial Observatory’s fluctuations—he suspects they predate the Fracture itself. The Arcane Conclave has quietly instructed him to keep his findings under wraps, but rumors are spreading among Seekers that one of these runes may reactivate dormant Dungeon Seeds.
 
 ## History
-Founded shortly after the Dungeon Seekers Guild was established, the Apothecary became the primary supplier for guild expeditions. Its recipes are said to originate from pre-Fracture alchemical manuscripts recovered beneath Ardentia.
+Jorvan Kale founded The Prism & Parchment after a near-fatal expedition into the Shattered Archives below Ardentia. Realizing that poor preparation kills more adventurers than monsters, he vowed to make knowledge as accessible as steel. The shop’s motto—*“A blade cuts once; a spell cuts forever.”*—is carved above the entrance in glowing dwarven script.
 
 ## Notes

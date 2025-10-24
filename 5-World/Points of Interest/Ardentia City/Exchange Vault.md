@@ -2,20 +2,21 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/arcane-apothecary.png
-pronounced: Ar-kane App-o-the-cary
-poitype:
-  - Shop [Apothecary]
-  - Shop [Potion]
+art: zz-Attachments/Assets/PlaceholderImage.png
+pronounced: Ex-change Vault
+owner:
+  - "[[Lady Isolde Moonshadow]]"
+assistant:
+  - "[[Elowen Stormweaver]]"
+organization:
+  - "[[Arcane Exchange Consortium]]"
 location:
   - "[[Ardentia City]]"
   - "[[Seekers Quarter]]"
-owner:
-  - "[[Alaric Swiftwind]]"
-organization:
-  - "[[Arcane Conclave]]"
-dominion:
-  - "[[Arcane Conclave]]"
+aliases:
+  - The Vault
+poitype:
+  - Shop [Adventuring Gear]
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -61,7 +62,8 @@ dominion:
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
 > [!recite]- Introduction
-> The scent of ozone and crushed herbs fills the air as you step into the Arcane Apothecary. Ribbons of liquid light spiral through glass conduits in the walls, and glass orbs drift lazily overhead. A centaur with starlit hooves greets you warmly, his eyes glinting with intelligence. Shelves shimmer with potions that pulse like living constellations.
+> The grand marble hall hums with quiet wealth. Crystal chandeliers illuminate merchants and adventurers negotiating deals beneath floating sigils that record every transaction. A transparent vault glows at the center, showcasing shimmering cores under layers of wards.
+
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -110,22 +112,22 @@ dominion:
 > ```
 
 ## Overview 
-A premier alchemical establishment catering to Seekers who brave the Aetherial Observatory. The Apothecary crafts bespoke potions infused with Creature Cores—each vial holds a fragment of dungeon essence. Adventurers come here for curatives, antidotes, and experimental elixirs designed to resist the mutating energies of Aetheria’s Dungeons.
+The Exchange Vault handles trade, certification, and auctioning of Dungeon treasures. All transactions are magically recorded, ensuring fairness. Core resonance readings are displayed as holographic patterns during appraisal.
 
-- **Atmosphere:** Calm yet humming with mana; every bottle sings faintly when touched.
-- **Notable Products:** Healing potions, elemental resist elixirs, core infusions, rejuvenation tonics.
-- **Unique Service:** Identify & extract trace essence from spent Creature Cores.
+- **Atmosphere:** Serene, professional, and heavily warded.
+- **Services:** Appraisal, authentication, secured auctions, relic brokerage.
+- **Security:** Arcane sentinels and planar vault wards.
 
 ## Keyed Locations
-- **Front Hall:** Floating orbs illuminate ingredients; customers browse shimmering displays.
-- **Brewing Chamber:** Lined with crystal alembics that hum in harmony with ambient mana.
-- **Vault of Essences:** Protected by starlight wards—stores rare Dungeon reagents.
-- **Garden of Sparks:** A rooftop herbarium where luminescent flora grows under controlled magic.
+- **Public Exchange Floor:** Auction hall filled with floating display pedestals.
+- **Private Chambers:** Reserved for high-value trades and political negotiations.
+- **Upper Sanctum:** A sealed research floor where Elowen examines rare cores.
 
 ## Current Events
-Alaric experiments with hybrid elixirs combining Aetherium dust and Creature Core residue—rumors whisper the process can *awaken latent magic* within mortals. The Arcane Conclave watches closely.
+Rumors persist that Elowen discovered a *living Core*—a crystalline entity capable of thought—and keeps it hidden within the Vault’s sanctum.
 
 ## History
-Founded shortly after the Dungeon Seekers Guild was established, the Apothecary became the primary supplier for guild expeditions. Its recipes are said to originate from pre-Fracture alchemical manuscripts recovered beneath Ardentia.
+The Vault was built jointly by the Consortium and Conclave as proof that commerce and magic could coexist. Its flawless recordkeeping made it the cornerstone of Ardentia’s adventuring economy.
 
 ## Notes
+

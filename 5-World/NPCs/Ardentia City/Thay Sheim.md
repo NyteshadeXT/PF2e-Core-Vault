@@ -2,17 +2,18 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz-Attachments/alaric-switfwind.png
-pronounced: Al-a-ric Swift-wind
-gender: Male
-age: Adult
-sexuality: Straight
-ownedlocation:
-  - "[[Arcane Apothecary]]"
+art: zz-Attachments/PlaceholderImage.png
+occupation:
+  - Blacksmith
 location:
-  - "[[Arcane Apothecary]]"
-  - "[[Ardentia City]]"
+  - "[[The Gilded Gauntlet]]"
 condition: Healthy
+pronounced: thay-shem
+gender: Male
+age: Teen
+sexuality: Straight
+alignment: Lawful Good
+ancestry: Human
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -97,32 +98,27 @@ condition: Healthy
 > [!metadata|letters]- Letters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Letter")
 > SORT file.name ASC
-> ```
 
 > [!metadata|literature]- Literature
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(holder, this.file.link) AND contains(tags, "Literature")
 > SORT file.name ASC
-> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
-> ```
 
 ## Overview
 
-> [!Overview|info] 
-> Alaric runs the Arcane Apothecary for the [[Arcane Conclave]].  He is a centaur whose hooves leave stardust trails. 
-> 
+> [!kirk|info] Prompt (Remove me)
 > Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
 
 > [!column|2 no-title]
@@ -162,5 +158,8 @@ Map out the intricate web of relationships surrounding this NPC. Who comprises t
 > Trace the life story of this NPC, unraveling their past and the events that shaped them. Explore their origins, upbringing, and significant moments that molded their character. What pivotal events, traumas, or triumphs have marked their journey? Delve into the milestones, turning points, and impactful experiences that have shaped who they are today. How have these experiences influenced their beliefs, skills, and motivations?
 
 ## Notes
+
+
+
 
 

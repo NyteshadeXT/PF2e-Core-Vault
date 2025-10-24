@@ -2,6 +2,7 @@
 tags:
   - Organization
 art: zz-Attachments/Assets/PlaceholderImage.png
+reppoints: 
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -31,6 +32,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > **Worship** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):worship]` |
 > **HQ** | `INPUT[Null][suggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):hq]` |
 > **Operating Areas** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
+> **Starting Reputation Points** | `INPUT[number:reppoints]` |
 
 > [!infobox]+
 > # `=this.file.name`
@@ -58,6 +60,8 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "Campaign"
 > WHERE contains(tags, "Geography") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
+
 
 > [!metadata|county]- County
 > ```dataview
@@ -65,6 +69,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "Campaign"
 > WHERE contains(tags, "County") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
 
 > [!metadata|settlements]- Settlements
 > ```dataview
@@ -72,6 +77,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "Campaign"
 > WHERE contains(tags, "Settlement") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
 
 > [!metadata|district]- Districts
 > ```dataview
@@ -79,6 +85,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "Campaign"
 > WHERE contains(tags, "District") AND econtains(organization, this.file.link)
 > SORT districttype ASC, file.name ASC
+> ```
 
 > [!metadata|location]- Locations
 > ```dataview
@@ -86,6 +93,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "Campaign"
 > WHERE contains(tags, "POI") AND econtains(organization, this.file.link)
 > SORT poitype ASC, file.name ASC
+> ```
 
 > [!metadata|organizations]- Child Organizations
 > ```dataview
@@ -93,6 +101,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE contains(tags, "Organization") AND econtains(organization, this.file.link)
 > SORT organizationtype ASC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -100,6 +109,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE contains(tags, "Character") AND econtains(organization, this.file.link) AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -107,6 +117,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview
 
@@ -118,8 +129,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > [!kirk|info] Prompt (Remove me)
 > Detail the culture embedded within this organization. What is its mission statement or core philosophy? Explore its code of conduct, values, and ethical guidelines that guide its members. How does this organization recruit new members, and what criteria do they look for? Define the hierarchy or ranks within the group and the significance of each level. Additionally, describe any uniforms, symbols, or insignia that members might wear to signify their affiliation. How do these cultural elements shape the identity and operations of this organization?
 
-### Example
-## Acquaintances
+## Alliances and Adversaries
 
 > [!kirk|info] Prompt (Remove me)
 > Map out the network of relationships this organization maintains with other groups and individuals. Who are their allies, rivals, or adversaries? Detail the nature of these connections, whether they're alliances based on shared interests, longstanding rivalries, or uneasy truces. What events or conflicts have shaped these relationships? Furthermore, explore the interactions and dealings this organization has with influential individuals or entities outside its circle. How do these connections influence the organization's operations and goals?
@@ -133,6 +143,31 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 
 > [!kirk|info] Info (Remove me)
 > Trace the roots and evolution of this organization through time. Explore its founding, pivotal moments, and transformative events that shaped its trajectory. What were the circumstances that led to its creation? Detail significant milestones, challenges, or triumphs that have defined its history. How has the organization adapted to changes, crises, or conflicts over the years? Uncover the legacy and historical narrative that have molded this group into what it is today.
+
+## Reputation Benefits (Starting Reputation `VIEW[{reppoints}][text]`)
+> [!kirk|info] Prompt (Remove me)
+> Starting Reputation Points for each faction are listed here, along with any advantages and disadvantages for each tier of reputation (if a tier is not listed, then no advantage or disadvantage is gained at that tier). Reputation Points can be earned or lost as the GM sees fit, using the guidelines for favors and disservices on page 200 of the GM Core book as examples, but certain events during the course of play can also give Reputation Point rewards as indicated.
+
+> [!note]+ **Revered**
+> Text
+
+> [!note]+ **Admired**
+> Text
+
+> [!note]+ **Liked**
+> Text
+
+> [!note]+ **Ignored**
+> Text
+
+> [!note]+ **Disliked**
+> Text
+
+> [!note]+ **Hated**
+> Text
+
+> [!note]+  **Hunted**
+> Text
 
 ## Notes
 

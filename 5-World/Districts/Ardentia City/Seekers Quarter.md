@@ -17,6 +17,7 @@ location:
   - "[[Ardentia City]]"
   - "[[Aetherial Observatory]]"
   - "[[Arcane Exchange Consortium Headquarters]]"
+  - "[[Arcane Apothecary]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -85,6 +86,8 @@ location:
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
+> ```
+
 
 > [!metadata|organizations]- Organizations
 > ```dataview
@@ -92,6 +95,8 @@ location:
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Organization")
 > SORT tags DESC, file.name ASC
+> ```
+
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -99,6 +104,8 @@ location:
 > FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
+
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -106,6 +113,8 @@ location:
 > FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
+
 
 ## Overview 
 

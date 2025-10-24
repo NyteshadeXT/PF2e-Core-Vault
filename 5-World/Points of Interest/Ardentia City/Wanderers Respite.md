@@ -2,20 +2,13 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/arcane-apothecary.png
-pronounced: Ar-kane App-o-the-cary
-poitype:
-  - Shop [Apothecary]
-  - Shop [Potion]
+art: zz-Attachments/wanderers-respite.png
+pronounced: Wan-der-ers Reh-spite
 location:
   - "[[Ardentia City]]"
   - "[[Seekers Quarter]]"
-owner:
-  - "[[Alaric Swiftwind]]"
-organization:
-  - "[[Arcane Conclave]]"
-dominion:
-  - "[[Arcane Conclave]]"
+poitype:
+  - Inn
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -61,7 +54,7 @@ dominion:
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
 > [!recite]- Introduction
-> The scent of ozone and crushed herbs fills the air as you step into the Arcane Apothecary. Ribbons of liquid light spiral through glass conduits in the walls, and glass orbs drift lazily overhead. A centaur with starlit hooves greets you warmly, his eyes glinting with intelligence. Shelves shimmer with potions that pulse like living constellations.
+> The inn glows softly in the twilight, its walls carved with names that shimmer faintly in blue light. The smell of spiced stew and old books fills the common room. Mira Thalos greets you with a healer’s warmth and an adventurer’s knowing smile.
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -110,22 +103,19 @@ dominion:
 > ```
 
 ## Overview 
-A premier alchemical establishment catering to Seekers who brave the Aetherial Observatory. The Apothecary crafts bespoke potions infused with Creature Cores—each vial holds a fragment of dungeon essence. Adventurers come here for curatives, antidotes, and experimental elixirs designed to resist the mutating energies of Aetheria’s Dungeons.
-
-- **Atmosphere:** Calm yet humming with mana; every bottle sings faintly when touched.
-- **Notable Products:** Healing potions, elemental resist elixirs, core infusions, rejuvenation tonics.
-- **Unique Service:** Identify & extract trace essence from spent Creature Cores.
+A haven for Seekers returning from expedition. Each room’s crystal lamp syncs to the heartbeat of its occupant, dimming as they rest. The inn honors fallen Seekers—each new name added brings a brief flash of spectral light across the hall.
 
 ## Keyed Locations
-- **Front Hall:** Floating orbs illuminate ingredients; customers browse shimmering displays.
-- **Brewing Chamber:** Lined with crystal alembics that hum in harmony with ambient mana.
-- **Vault of Essences:** Protected by starlight wards—stores rare Dungeon reagents.
-- **Garden of Sparks:** A rooftop herbarium where luminescent flora grows under controlled magic.
+- **Common Hall:** Central firepit where adventurers trade tales.
+- **Remembrance Wall:** Names of the fallen; glowing script shifts with the moon phase.
+- **Healing Wing:** Mira personally tends to the wounded using alchemical salves.
 
 ## Current Events
-Alaric experiments with hybrid elixirs combining Aetherium dust and Creature Core residue—rumors whisper the process can *awaken latent magic* within mortals. The Arcane Conclave watches closely.
+Mira quietly shelters a Seeker cursed by exposure to a corrupted Dungeon Seed. The Arcane Conclave wants custody, but the Guild forbids it.
 
 ## History
-Founded shortly after the Dungeon Seekers Guild was established, the Apothecary became the primary supplier for guild expeditions. Its recipes are said to originate from pre-Fracture alchemical manuscripts recovered beneath Ardentia.
+The Wanderer’s Respite was the first building rebuilt after the Shattering—Mira swore no adventurer would ever sleep in the street again.
 
 ## Notes
+
+

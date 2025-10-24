@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/NPCs/Ellival Moonmeadow.md",
+                "file": "5-World/Factions/The Ebon Triad.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Ebon Triad"
+            }
+          },
+          {
+            "id": "6bd69ed422c784e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/Settlements/Ardentia City.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ellival Moonmeadow"
+              "title": "Ardentia City"
             }
           },
           {
@@ -76,9 +90,23 @@
               "icon": "lucide-file",
               "title": "The Hall of Harsh Reflections"
             }
+          },
+          {
+            "id": "6bb97946ee1d26f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/GM Templates/Locations/Template - Settlement.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Template - Settlement"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -267,47 +295,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "92be28f7bf66468b",
+  "active": "6bb97946ee1d26f4",
   "lastOpenFiles": [
-    "5-World/NPCs/Diamond Lake/Marzena.md",
-    "5-World/NPCs/Ellival Moonmeadow.md",
-    "5-World/Points of Interest/Ardentia City/The Crooked House.md",
-    "5-World/NPCs/Ardentia City/Tarquin Shortstone.md",
-    "5-World/NPCs/Ardentia City/Silas Emberwind.md",
-    "5-World/Maps/Ardentia City Map.md",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "5-World/Points of Interest/Ardentia City/The Broken Blade.md",
-    "5-World/Points of Interest/Ardentia City/Terramore Academy.md",
-    "5-World/Points of Interest/Ardentia City/Spellweaver's Sanctuary.md",
-    "5-World/Points of Interest/Ardentia City/Eligos' House.md",
-    "5-World/Points of Interest/Ardentia City/Codex Arcanum.md",
-    "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
-    "5-World/Points of Interest/Ardentia City/Aetherial Cathedral.md",
+    "5-World/Settlements/Ardentia City.md",
+    "5-World/NPCs/Ardentia City/Mira Thalos.md",
+    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
+    "zz-Templates/GM Templates/Characters/Template - Organization.md",
+    "2-Party/Party 2/Rise of the Ruinlords.md",
+    "2-Party/Age of Worms/Jerrykk.md",
+    "zz-Attachments/image.png",
+    "2-Party/Party 2",
+    "2-Party/Party 2.md",
+    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
+    "2-Party/Age of Worms/Jayden.md",
+    "zz-Attachments/Jerrykk.png",
+    "zz-Templates/GM Templates/Locations/Template - District.md",
+    "5-World/Factions/The Ebon Triad.md",
+    "5-World/Factions/The Aetherial Wardens.md",
+    "5-World/Factions/Meteor's Chosen.md",
+    "5-World/Factions/Dungeon Seekers Guild.md",
+    "5-World/Factions/Luminous Vanguard.md",
+    "5-World/Factions/Arcane Exchange Consortium.md",
+    "5-World/Factions/Arcane Conclave.md",
+    "5-World/Factions/Aetherial Stabilization Corps.md",
+    "5-World/Points of Interest/Shrine of Aurelius.md",
+    "5-World/Points of Interest/Sanctuary of Elara.md",
+    "5-World/Points of Interest/Hall of Artisans.md",
+    "5-World/Points of Interest/Bazaar of Wonders.md",
+    "5-World/Points of Interest/Ardentia City/Exchange Vault.md",
+    "1-GM Toolkit/ToDo List.md",
+    "5-World/Points of Interest/Ardentia City/Wanderers Respite.md",
+    "zz-Attachments/wanderers-respite.png",
+    "5-World/Points of Interest/Ardentia City/The Griffons Fancy.md",
+    "zz-Attachments/griffons-fancy.png",
+    "zz-Attachments/prism-and-parchment.png",
+    "zz-Attachments/darrin-ironsoul.png",
+    "zz-Attachments/gilded-gauntlet.png",
+    "zz-Attachments/alaric-switfwind.png",
+    "zz-Attachments/arcane-apothecary.png",
     "zz-Attachments/eligos-house.png",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "5-World/Districts/Ardentia City/Haven.md",
-    "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
-    "5-World/Points of Interest/Ardentia City/Arcane Exchange Consortium Headquarters.md",
-    "5-World/Dungeons/Aetherial Observatory.md",
-    "5-World/Maps/Aetherial Highlands Map.md",
-    "5-World/Maps/Ardentia City Map - Seekers Quarter.md",
-    "zz-Attachments/Ardentia City - Seekers Quarter.png",
-    "zz-Templates/GM Templates/Locations/Template - Point of Interest.md",
-    "zz-Attachments/arcane-exchange-headquarters.png",
-    "zz-Attachments/Pasted image 20240714230832.png",
-    "zz-Attachments/Pasted image 20240714231654.png",
-    "zz-Attachments/Pasted image 20240714231738.png",
-    "zz-Attachments/Pasted image 20240714232040.png",
-    "zz-Attachments/Pasted image 20240714232057.png",
-    "zz-Attachments/Pasted image 20240714232119.png",
-    "zz-Attachments/Pasted image 20240714232136.png",
-    "5-World/NPCs/Ardentia City/Riven Stormblade.md",
-    "5-World/Districts/Ardentia City/Isle of Learning.md",
-    "5-World/Districts/Ardentia City/Seekers Quarter.md",
-    "5-World/Districts/Ardentia City/Merchant's Quarter.md",
     "5-World/Districts/Ardentia City"
   ]
 }

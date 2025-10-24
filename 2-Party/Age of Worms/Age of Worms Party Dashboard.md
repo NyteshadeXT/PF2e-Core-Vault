@@ -73,6 +73,7 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Family") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 > 
 >> [!metadata|ally] Ally
 >> ```dataview
@@ -80,6 +81,7 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Ally") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 >
 >> [!metadata|friend] Friends
 >> ```dataview
@@ -87,6 +89,7 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Friend") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 >
 >> [!metadata|like] Like
 >> ```dataview
@@ -94,6 +97,7 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Like") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 > 
 >> [!metadata|dislike] Dislike
 >> ```dataview
@@ -101,6 +105,7 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Dislike") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 > 
 >> [!metadata|enemy] Enemy
 >> ```dataview
@@ -108,7 +113,36 @@ TABLE WITHOUT ID
 >> FROM "5-World"
 >> WHERE econtains(party1relation, "Enemy") AND !contains(condition, "Dead")
 >> SORT file.name ASC
+>> ```
 > 
+
+## Reputations
+> [!column|3 no-title]
+>
+>> [!metadata|family] Family
+>> ```dataview
+>> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
+>> FROM "5-World"
+>> WHERE econtains(party1relation, "Family") AND !contains(condition, "Dead")
+>> SORT file.name ASC
+>> ```
+> 
+>> [!metadata|ally] Ally
+>> ```dataview
+>> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
+>> FROM "5-World"
+>> WHERE econtains(party1relation, "Ally") AND !contains(condition, "Dead")
+>> SORT file.name ASC
+>> ```
+>
+>> [!metadata|friend] Friends
+>> ```dataview
+>> TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases
+>> FROM "5-World"
+>> WHERE econtains(party1relation, "Friend") AND !contains(condition, "Dead")
+>> SORT file.name ASC
+>> ```
+>
 
 ## Notes
 

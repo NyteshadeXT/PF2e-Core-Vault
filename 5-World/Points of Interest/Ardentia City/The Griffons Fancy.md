@@ -2,20 +2,19 @@
 tags:
   - "#Location"
   - "#POI"
-art: zz-Attachments/arcane-apothecary.png
-pronounced: Ar-kane App-o-the-cary
+art: zz-Attachments/griffons-fancy.png
+pronounced: Fan-c Griff-on
+organization:
+  - "[[Dungeon Seekers Guild]]"
 poitype:
-  - Shop [Apothecary]
-  - Shop [Potion]
+  - Shop [Tavern]
 location:
   - "[[Ardentia City]]"
   - "[[Seekers Quarter]]"
 owner:
-  - "[[Alaric Swiftwind]]"
-organization:
-  - "[[Arcane Conclave]]"
-dominion:
-  - "[[Arcane Conclave]]"
+  - "[[Brannik Underbough]]"
+aliases:
+  - The Griffon
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -61,7 +60,7 @@ dominion:
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
 > [!recite]- Introduction
-> The scent of ozone and crushed herbs fills the air as you step into the Arcane Apothecary. Ribbons of liquid light spiral through glass conduits in the walls, and glass orbs drift lazily overhead. A centaur with starlit hooves greets you warmly, his eyes glinting with intelligence. Shelves shimmer with potions that pulse like living constellations.
+> The scent of roasted meat, spiced ale, and pipe smoke fills the air as you step into the Gilded Gryphon. Warm golden light glows from enchanted chandeliers crafted from gryphon feathers and crystal talons. A halfling stands atop the bar—mug in one hand, lute in the other—leading a chorus of adventurers in raucous song. Behind him, a tattered, rune-etched map nailed to the wall mutters irritably about “proper cartographic accuracy.”
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -110,22 +109,28 @@ dominion:
 > ```
 
 ## Overview 
-A premier alchemical establishment catering to Seekers who brave the Aetherial Observatory. The Apothecary crafts bespoke potions infused with Creature Cores—each vial holds a fragment of dungeon essence. Adventurers come here for curatives, antidotes, and experimental elixirs designed to resist the mutating energies of Aetheria’s Dungeons.
+The Gilded Gryphon Tavern is the heart of the Seekers Quarter—a raucous, welcoming stronghold for adventurers returning from the Aetherial Observatory or preparing for another delve. It’s part guild hall, part inn, part rumor mill. The owner, Brannik Underbough, is a retired dungeon cartographer turned brewer and bard. He runs the place with cheer, stubborn pride, and a bit of enchantment.
 
-- **Atmosphere:** Calm yet humming with mana; every bottle sings faintly when touched.
-- **Notable Products:** Healing potions, elemental resist elixirs, core infusions, rejuvenation tonics.
-- **Unique Service:** Identify & extract trace essence from spent Creature Cores.
+Brannik’s tavern is more than a place to drink; it’s a living archive of adventuring stories. The enchanted map behind the bar—known as *The Mouth of Maps*—records snippets of dungeon routes, coordinates, and muttered secrets overheard in the common room. On occasion, it blurts out a forgotten passage or half-mad warning mid-song.
+
+- **Atmosphere:** Loud, warm, alive with song and magic.  
+- **Services:** Ale and meals, rumor exchange, contract posting, and nightly bardic contests.  
+- **Specialties:** *Gryphon’s Bite* (spicy spirit that glows faintly blue), *Cartographer’s Courage* (strong stout brewed with minor fortitude enchantment).
 
 ## Keyed Locations
-- **Front Hall:** Floating orbs illuminate ingredients; customers browse shimmering displays.
-- **Brewing Chamber:** Lined with crystal alembics that hum in harmony with ambient mana.
-- **Vault of Essences:** Protected by starlight wards—stores rare Dungeon reagents.
-- **Garden of Sparks:** A rooftop herbarium where luminescent flora grows under controlled magic.
+- **Main Hall:** Long oak tables carved with adventurer initials and expedition notes; a stage enchanted to amplify instruments.  
+- **The Bar & Map Wall:** The *Mouth of Maps* hangs here—an ancient talking dungeon chart with a caustic sense of humor.  
+- **The Loft Rooms:** Inexpensive lodging for Seekers; rooms inscribed with minor warding runes for safety.  
+- **The Cellar of Stories:** A hidden basement archive containing the journals of fallen adventurers, maintained by Brannik himself.
 
 ## Current Events
-Alaric experiments with hybrid elixirs combining Aetherium dust and Creature Core residue—rumors whisper the process can *awaken latent magic* within mortals. The Arcane Conclave watches closely.
+Brannik recently swears *The Mouth of Maps* shouted out a new route into the Aetherial Observatory—coordinates no known cartographer recognizes. The Dungeon Seekers Guild has begun quietly verifying whether it’s real or a prank. Meanwhile, tavern regulars claim the map has started whispering *names* in the night.
 
 ## History
-Founded shortly after the Dungeon Seekers Guild was established, the Apothecary became the primary supplier for guild expeditions. Its recipes are said to originate from pre-Fracture alchemical manuscripts recovered beneath Ardentia.
+Brannik Underbough was once a celebrated Dungeon Seeker and master cartographer whose maps helped open the first lower wings of the Aetherial Observatory. After his partner vanished during a delve, Brannik retired, opening the Griffon as both a tavern and a tribute to those who never returned. His motto hangs over the hearth:  
+> *“For every path we lose, we find a song worth singing.”*
 
 ## Notes
+
+
+

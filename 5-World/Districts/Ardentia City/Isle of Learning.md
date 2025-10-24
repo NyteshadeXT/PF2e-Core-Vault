@@ -10,7 +10,6 @@ districttype:
   - Cultural
 location:
   - "[[Ardentia City]]"
-  - "[[Arcane Apothecary]]"
   - "[[Codex Arcanum]]"
   - "[[Terramore Academy]]"
   - "[[Spellweaver's Sanctuary]]"

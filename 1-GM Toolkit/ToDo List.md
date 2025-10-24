@@ -43,7 +43,9 @@ tags:
 - [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.
 - [ ] Review Everything Shields material for final inclusion
 - [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
+- [ ] Potential New Shop Types: Antiques and Relics, Apothecary, Bakery, Bookstore, Butcher, Cartographer, Carpenter, Fishmonger, Glassblower, Herbalist, Mail Service, Tavern, Tinkerer, Winery.
 
 
-# Encounter Loot Generator ToDos
-- [ ] Build first iteration using Python, SQLite and HTML
+# World Things
+- [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?
+- [ ] Elaborate role of a "Dungeon Cartographer" for the [[Dungeon Seekers Guild]].
