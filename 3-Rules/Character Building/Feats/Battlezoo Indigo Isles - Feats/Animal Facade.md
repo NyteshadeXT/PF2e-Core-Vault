@@ -13,7 +13,7 @@ license: OGL
 ---
 # Animal Facade `pf2:1`
 ## Feat 5
-### [[concentrate]][[polymorph]][[sprite]]
+### [[concentrate]][[polymorph]][[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

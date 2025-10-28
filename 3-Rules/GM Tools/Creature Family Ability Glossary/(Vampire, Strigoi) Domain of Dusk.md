@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Strigoi) Domain of Dusk `pf2:2`
 
-### [[divine]][[shadow]]
+### [[divine]][[3-Rules/Trait Reference/S/shadow]]
 
 **Category** defensive; 
 

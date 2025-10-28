@@ -17,7 +17,7 @@ license: OGL
 ---
 # Gloaming Shard
 ## Item 11
-### [[agile]][[finesse]][[magical]][[shadow]][[thrown-10]][[versatile-s]]
+### [[agile]][[finesse]][[magical]][[3-Rules/Trait Reference/S/shadow]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sculpt Shadows `pf2:3`
 ## Feat 9
-### [[fetchling]][[occult]][[shadow]]
+### [[fetchling]][[occult]][[3-Rules/Trait Reference/S/shadow]]
 
 **Category** ancestry; 
 

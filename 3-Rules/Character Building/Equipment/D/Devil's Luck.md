@@ -20,7 +20,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-**Devil** [[Monster Core/Imp|Imp]]
+**Devil** [[3-Rules/Bestiaries/Monster Core/I/Imp|Imp]]
 
 **Decipher Writing** Arcana, Occultism, Society
 

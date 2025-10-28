@@ -29,7 +29,7 @@ If the figurine is slain while in animal form, it reverts to its statue shape an
 
 * * *
 
-This statuette depicts a pair of gold lions, and when activated, it becomes a pair of adult [[Monster Core/Lion|Lions]].
+This statuette depicts a pair of gold lions, and when activated, it becomes a pair of adult [[3-Rules/Bestiaries/Monster Core/L/Lion|Lions]].
 
 The lions can be called on only once per day, and they remain in lion form for no more than 1 hour.
 

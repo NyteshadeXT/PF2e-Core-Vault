@@ -29,7 +29,7 @@ Every _marvelous miniature_ is an exceptionally small replica of a real creature
 
 * * *
 
-When activated, this miniature transforms into a horse. The horse can't attack or use reactions, but otherwise uses all the statistics of a [[Monster Core/Riding Horse|Riding Horse]] and follows your basic commands. The horse doesn't need to eat or drink. After 8 hours, it reverts back to miniature form, then crumbles to dust.
+When activated, this miniature transforms into a horse. The horse can't attack or use reactions, but otherwise uses all the statistics of a [[3-Rules/Bestiaries/Monster Core/R/Riding Horse|Riding Horse]] and follows your basic commands. The horse doesn't need to eat or drink. After 8 hours, it reverts back to miniature form, then crumbles to dust.
 
 *Source: Pathfinder GM Core*
 *ORC*

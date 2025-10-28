@@ -23,7 +23,7 @@ This lustrous, rat-shaped pyrite statuette is 1 inch tall. When activated, the s
 
 * * *
 
-**Effect** You place the statue on solid ground and speak the rat's secret name, causing the statuette to transform into a living [[Monster Core/Giant Rat|Giant Rat]].
+**Effect** You place the statue on solid ground and speak the rat's secret name, causing the statuette to transform into a living [[3-Rules/Bestiaries/Monster Core/G/Giant Rat|Giant Rat]].
 
 In creature form, the giant rat acts on your turn. It gets 2 actions and can't use reactions. You have to spend an action each turn to tell it what to do; otherwise, it tries to run away from danger or cowers where it is.
 

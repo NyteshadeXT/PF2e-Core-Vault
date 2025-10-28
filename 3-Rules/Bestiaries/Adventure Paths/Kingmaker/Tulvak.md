@@ -110,4 +110,4 @@ creatures:
 
 Variant female green hag
 
-Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Equipment/Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[Monster Core/Changeling Exile|Changelings]] who have the potential to become hags themselves.
+Malevolent crones who lurk at the edges of civilization, hags use their deceptive, magical abilities to prey upon humanoids, manipulating and corrupting them. Some say hags arose from fey that became twisted by their inner selfishness. Hags gather together in covens for greater power, craft unique magical items known as _[[Equipment/Hag Eye|Hag Eyes]]_, and are known to replace infant humanoids with their own offspring-these children are [[3-Rules/Bestiaries/Monster Core/C/Changeling Exile|Changelings]] who have the potential to become hags themselves.

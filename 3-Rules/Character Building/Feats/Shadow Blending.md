@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shadow Blending `pf2:r`
 ## Feat 1
-### [[fetchling]][[illusion]][[occult]][[shadow]]
+### [[fetchling]][[illusion]][[occult]][[3-Rules/Trait Reference/S/shadow]]
 
 **Category** ancestry; 
 

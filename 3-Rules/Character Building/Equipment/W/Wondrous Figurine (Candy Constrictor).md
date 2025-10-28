@@ -19,7 +19,7 @@ license: OGL
 
 Although appearing as a multicolored piece of stick candy, this figurine bears a narrow snake head at one end and is as durable as stone.
 
-When activated, it becomes a rainbow-striped [[Monster Core/Python|Ball Python]] except it lacks the Stealth skill.
+When activated, it becomes a rainbow-striped [[Python|Ball Python]] except it lacks the Stealth skill.
 
 The snake can be used once per day, and it can remain in snake form for up to 20 minutes.
 

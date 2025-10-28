@@ -29,7 +29,7 @@ A fossil fragment is a piece of a fossil creature, typically a smaller bone from
 
 * * *
 
-This small piece of triceratops frill turns into a [[Monster Core/Triceratops|Triceratops]] when activated. It can be called upon once per day and can remain in triceratops form for no more than 10 minutes. The skeleton can serve as a mount for a creature one size smaller than it or smaller.
+This small piece of triceratops frill turns into a [[3-Rules/Bestiaries/Monster Core/T/Triceratops|Triceratops]] when activated. It can be called upon once per day and can remain in triceratops form for no more than 10 minutes. The skeleton can serve as a mount for a creature one size smaller than it or smaller.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Passage Charm
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[shadow]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[3-Rules/Trait Reference/S/shadow]]
 
 
 **Price** 1000 gp; 

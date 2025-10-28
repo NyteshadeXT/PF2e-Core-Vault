@@ -29,7 +29,7 @@ If the figurine is slain while in animal form, it reverts to its statue shape an
 
 * * *
 
-This simple onyx statue transforms into a [[Monster Core/Guard Dog|Guard Dog]].
+This simple onyx statue transforms into a [[3-Rules/Bestiaries/Monster Core/G/Guard Dog|Guard Dog]].
 
 The dog has a +4 circumstance bonus to Survival checks to Track, and it has darkvision. When the dog senses a hidden creature with its scent, that creature is instead observed and concealed.
 

@@ -384,7 +384,7 @@ Before running encounters here, be sure to study the “Temple Organization” s
 Before proceeding with this encounter, remember that the state of this chamber depends on whether the characters know the knock code. See the Tactics section below to determine what happens depending upon what knock the PCs use.
 
 At the start of the encounter, place the following foes on the map: 
- - 8: [[3-Rules/Bestiaries/Monster Core/Skeleton Guard|Skeleton Guard]] S
+ - 8: [[3-Rules/Bestiaries/Monster Core/S/Skeleton Guard|Skeleton Guard]] S
 
 ```encounter
 name: Chamber of the Guardians
@@ -607,7 +607,7 @@ The two torches are everburning torches. The chapel's ceremonial objects are hid
 - [ ] Low (8 XP) Level 3
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[3-Rules/Bestiaries/Monster Core/Zombie Brute|Zombie Brute]] Z
+ - 2: [[3-Rules/Bestiaries/Monster Core/Z/Zombie Brute|Zombie Brute]] Z
 
 ```encounter
 name: Chapel of Hextor
@@ -1154,7 +1154,7 @@ Four groups of monsters inhabit the labyrinth, three small bands of tengu and a 
 > - [<] Severe (120 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
- - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+ - 6: [[3-Rules/Bestiaries/Monster Core/T/Tengu Sneak|Tengu Sneak]] W
 
 ```encounter
 name: Labyrinth Group 1
@@ -1169,7 +1169,7 @@ creatures:
 - [ ] Severe (120 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
- - 6: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+ - 6: [[3-Rules/Bestiaries/Monster Core/T/Tengu Sneak|Tengu Sneak]] W
 
 ```encounter
 name: Labyrinth Group 2
@@ -1184,7 +1184,7 @@ creatures:
 > - [<] Severe (110 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[3-Rules/Bestiaries/Monster Core/Tengu Sneak|Tengu Sneak]] W
+ - 2: [[3-Rules/Bestiaries/Monster Core/T/Tengu Sneak|Tengu Sneak]] W
  - 1: [[Tengu Windcaller]]
  - 1: [[Tengu Blade Sovereign]]
 
@@ -1203,7 +1203,7 @@ creatures:
 > - [<] Trivial (40 XP) Level 4
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[3-Rules/Bestiaries/Monster Core/Warg|Warg]] W
+ - 2: [[3-Rules/Bestiaries/Monster Core/W/Warg|Warg]] W
  
  ```encounter
 name: Labyrinth Denizens
@@ -1280,7 +1280,7 @@ This unholy place was one of Vecna's lairs in his mortal days. Now, it is a chap
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[Corrupted Priest]] W
- - 1: [[3-Rules/Bestiaries/Monster Core/Ghost Commoner|Ghost Commoner]] H
+ - 1: [[3-Rules/Bestiaries/Monster Core/G/Ghost Commoner|Ghost Commoner]] H
 
 ```encounter
 name: The Inner Sanctum

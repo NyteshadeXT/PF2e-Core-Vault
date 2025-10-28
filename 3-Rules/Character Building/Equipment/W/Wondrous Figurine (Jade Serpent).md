@@ -31,7 +31,7 @@ If the figurine is slain while in animal form, it reverts to its statue shape an
 
 This tiny statue first appears to be a formless lump of jade until closer inspection reveals it to be a serpentine body curled into a snug knot.
 
-When activated, this figurine becomes a [[Monster Core/Giant Viper|Giant Viper]].
+When activated, this figurine becomes a [[3-Rules/Bestiaries/Monster Core/G/Giant Viper|Giant Viper]].
 
 The figurine can be used only once per day, and it can remain in serpent form for no more than 10 minutes.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Elemental Spark
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[sprite]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

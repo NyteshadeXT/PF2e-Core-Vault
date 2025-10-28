@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fey Magic
 ## Feat 9
-### [[sprite]]
+### [[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

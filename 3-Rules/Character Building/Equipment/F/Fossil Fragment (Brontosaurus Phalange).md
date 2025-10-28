@@ -29,7 +29,7 @@ A fossil fragment is a piece of a fossil creature, typically a smaller bone from
 
 * * *
 
-This massive toe bone becomes a [[Monster Core/Brontosaurus|Brontosaurus]] when activated. It can be called upon no more than four times per month. The skeleton remains for 24 hours if used as a beast of burden or for transport. If it attempts an attack or otherwise engage in combat, it reverts to its fragment form after 1d4 rounds.
+This massive toe bone becomes a [[3-Rules/Bestiaries/Monster Core/B/Brontosaurus|Brontosaurus]] when activated. It can be called upon no more than four times per month. The skeleton remains for 24 hours if used as a beast of burden or for transport. If it attempts an attack or otherwise engage in combat, it reverts to its fragment form after 1d4 rounds.
 
 The skeleton is so massive and sturdy that it can serve as the base of a structure (from an item or spell effect with the structure trait), provided the structure is no larger than 20 feet in width or height. When the brontosaurus reverts to its fragment form, the structure reverts with it.
 

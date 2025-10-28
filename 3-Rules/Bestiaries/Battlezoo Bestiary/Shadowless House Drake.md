@@ -92,7 +92,7 @@ The transformed house drake's appearance is what gives these creatures their mon
 
 ## Worlds of Potential
 
-Like typical [[Bestiary 3/House Drake|House Drakes]], shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
+Like typical [[House Drake 1|House Drakes]], shadowless house drakes are almost exclusively found in certain cosmopolitan cities. Unlike their mundane brethren, however, these shadowy dragons are not bound to just one planet. Indeed, their bizarre interactions with the greater cosmos has planted descendants of the original shadowless house drakes on every celestial body in the solar system.
 
 ## Monster Part Subsystem
 

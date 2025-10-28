@@ -17,7 +17,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-Finely carved from a solid piece of marble, this gleaming elephant statuette becomes a fully grown [[Monster Core/Elephant|Elephant]] when activated.
+Finely carved from a solid piece of marble, this gleaming elephant statuette becomes a fully grown [[3-Rules/Bestiaries/Monster Core/E/Elephant|Elephant]] when activated.
 
 The elephant can be called upon no more than four times per month. It remains for 24 hours as long as it is being used as a beast of burden or for transport.
 

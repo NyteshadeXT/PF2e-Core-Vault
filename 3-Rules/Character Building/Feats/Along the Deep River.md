@@ -12,7 +12,7 @@ license: ORC
 ---
 # Along the Deep River
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[sprite]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

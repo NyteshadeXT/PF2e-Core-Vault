@@ -27,7 +27,7 @@ These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images 
 | 13 | Moon. Roll 1d4 to determine how many wishes the card grants you, which also affects the phase of the moon depicted on the card (1: crescent moon; 2: half moon; 3: gibbous moon; 4: full moon). These wishes each take one action to speak and have the effect of a [[Spells/Wish\|Wish]] spell. |
 | 14 | Rogue. One NPC ally becomes filled with hatred and immediately turns against you forever. The NPC might keep this hatred secret until an opportune moment. |
 | 15 | Ruin. You lose all your nonmagical possessions, including any wealth and property. |
-| 16 | Skull. You must immediately battle a [[Monster Core/Lesser Death\|Lesser Death]]. If slain in the battle, you can never be revived, except by a deity. |
+| 16 | Skull. You must immediately battle a [[3-Rules/Bestiaries/Monster Core/L/Lesser Death\|Lesser Death]]. If slain in the battle, you can never be revived, except by a deity. |
 | 17 | Star. Gain an ability boost you must use immediately on one ability score of your choice. |
 | 18 | Sun. Gain 1,000 XP and a beneficial permanent magic item of 6th to 11th level, chosen by the GM. |
 | 19 | Talons. All your magic items disappear permanently, except for the deck and any artifact of higher level than the deck. |

@@ -25,7 +25,7 @@ The vampire transforms into one of its animal forms or back into its normal form
 
 Use the options in the [[Spells/Aerial Form|Aerial Form]] and [[Spells/Animal Form|Animal Form]] spells as guidelines.
 
-*   **Bat** The vampire changes into a [[Monster Core/Vampire Bat Swarm|Bat Swarm]] or [[Monster Core/Giant Bat|Giant Bat]]. They gain echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as their highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.
+*   **Bat** The vampire changes into a [[3-Rules/Bestiaries/Monster Core/V/Vampire Bat Swarm|Bat Swarm]] or [[3-Rules/Bestiaries/Monster Core/G/Giant Bat|Giant Bat]]. They gain echolocation 40 feet, a land Speed of 20 feet and a fly Speed of 30 feet, and a fangs Strike with the same attack bonus as their highest melee attack. These fangs deal the same amount of damage as the vampire's claws, but deal piercing damage rather than slashing damage.
 
 * * *
 

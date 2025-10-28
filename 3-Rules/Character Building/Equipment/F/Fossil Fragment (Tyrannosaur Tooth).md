@@ -29,7 +29,7 @@ A fossil fragment is a piece of a fossil creature, typically a smaller bone from
 
 * * *
 
-This dagger-shaped tooth turns into a [[Monster Core/Tyrannosaurus|Tyrannosaurus]] when activated. It can be called upon once per day and can remain in tyrannosaurus form for no more than 10 minutes. The skeleton can serve as a mount for a creature one size smaller than it or smaller.
+This dagger-shaped tooth turns into a [[3-Rules/Bestiaries/Monster Core/T/Tyrannosaurus|Tyrannosaurus]] when activated. It can be called upon once per day and can remain in tyrannosaurus form for no more than 10 minutes. The skeleton can serve as a mount for a creature one size smaller than it or smaller.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

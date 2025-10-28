@@ -21,7 +21,7 @@ license: ORC
 
 The zombie carries a plague that can create more of its own kind.
 
-This functions as the [[Monster Core/Plague Zombie|Plague Zombie's]] zombie rot, except at stage 5, the victim rises as another of the zombie's type, rather than a plague zombie.
+This functions as the [[3-Rules/Bestiaries/Monster Core/P/Plague Zombie|Plague Zombie's]] zombie rot, except at stage 5, the victim rises as another of the zombie's type, rather than a plague zombie.
 
 * * *
 

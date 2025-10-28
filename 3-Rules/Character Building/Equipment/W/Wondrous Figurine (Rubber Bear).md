@@ -31,7 +31,7 @@ If the figurine is slain while in animal form, it reverts to its statue shape an
 
 This small, stretchable statuette depicts a bear wearing a tutu and a fez and balancing on a ball slightly larger than its head.
 
-When activated, it becomes a [[Monster Core/Grizzly Bear|Grizzly Bear]] with similar attire.
+When activated, it becomes a [[3-Rules/Bestiaries/Monster Core/G/Grizzly Bear|Grizzly Bear]] with similar attire.
 
 The bear remains balanced upon its rubber ball, and is therefore ungainly: it cannot Climb or Swim, has a -10- foot circumstance penalty to its Speed, and is always off-guard. If the bear leaves its ball, such as if it is repositioned with forced movement or knocked prone, it immediately reverts to statuette form.
 

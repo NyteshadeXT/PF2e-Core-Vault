@@ -469,7 +469,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1761156221275,
+      "lastAccessed": 1761685328240,
       "markers": [
         {
           "id": "ID_d8795bc9caaa",
@@ -491,8 +491,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5-World/Points of Interest/Ardentia City/Wanderers Respite.md",
-        "5-World/Points of Interest/Ardentia City/Exchange Vault.md"
+        "zz-Templates/GM Templates/Locations/Template - Settlement.md"
       ]
     }
   ],

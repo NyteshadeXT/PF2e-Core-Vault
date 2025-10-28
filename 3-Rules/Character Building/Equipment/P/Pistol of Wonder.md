@@ -39,7 +39,7 @@ This _+2 greater striking flintlock pistol_ bears strange, jagged markings of er
 
 | d% | Wondrous Effect |
 | --- | --- |
-| 1-2 | The pistol casts [[Spells/Summon Animal\|Summon Animal]] (3rd rank) to produce a [[Monster Core/Hippogriff\|Hippogriff]] adjacent to you; only you can ride it. |
+| 1-2 | The pistol casts [[Spells/Summon Animal\|Summon Animal]] (3rd rank) to produce a [[3-Rules/Bestiaries/Monster Core/H/Hippogriff\|Hippogriff]] adjacent to you; only you can ride it. |
 | 3 | The target becomes a shiny metal color (bronze, copper, or iron) and any sound or speech becomes tinny and robotic in nature; this effect lasts 1 month. |
 | 4-5 | The pistol casts [[Spells/Planar Tether\|Planar Tether]]. |
 | 6 | [[Spells/Rewrite Memory\|Rewrite Memory]] (6th rank) causes the target to forget you ever existed; you can't Sustain the Spell. |

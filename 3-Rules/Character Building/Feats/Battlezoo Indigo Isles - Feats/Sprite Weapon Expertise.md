@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sprite Weapon Expertise
 ## Feat 13
-### [[sprite]]
+### [[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

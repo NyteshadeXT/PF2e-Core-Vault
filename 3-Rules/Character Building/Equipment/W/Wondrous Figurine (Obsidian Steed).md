@@ -19,7 +19,7 @@ license: OGL
 
 This sinister-looking black statuette resembles a horse rearing up on its hind legs.
 
-When activated, this figurine becomes a [[Monster Core/Nightmare|Nightmare]].
+When activated, this figurine becomes a [[3-Rules/Bestiaries/Monster Core/N/Nightmare|Nightmare]].
 
 It can be called upon once per week for up to 24 hours, though it won't use [[Spells/Interplanar Teleport|Interplanar Teleport]] or its other abilities on behalf of its rider.
 

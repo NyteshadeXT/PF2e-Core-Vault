@@ -14,7 +14,7 @@ license: OGL
 ---
 # Maw of Hungry Shadows
 ## Item 18
-### [[grimoire]][[incapacitation]][[magical]][[shadow]][[teleportation]]
+### [[grimoire]][[incapacitation]][[magical]][[3-Rules/Trait Reference/S/shadow]][[teleportation]]
 
 
 **Price** 21000 gp; 

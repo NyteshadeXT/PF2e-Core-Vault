@@ -12,7 +12,7 @@ license: OGL
 ---
 # Quick Disassemble `pf2:3`
 ## Feat 9
-### [[manipulate]][[sprite]]
+### [[manipulate]][[3-Rules/Bestiaries/Monster Core/S/Sprite]]
 
 **Category** ancestry; 
 

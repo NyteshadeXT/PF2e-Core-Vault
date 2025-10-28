@@ -498,7 +498,7 @@ Artophanx wants more then anything else to escape, and might be fooled into coop
 - [<] Moderate (80 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[3-Rules/Bestiaries/Monster Core/Sod Hound|Sod Hound]] W
+ - 1: [[3-Rules/Bestiaries/Monster Core/S/Sod Hound|Sod Hound]] W
 
 ```encounter
 name: The Whispering Cairn - Workshop
@@ -761,7 +761,7 @@ Alastor left home 30 years ago. It's been at least a decade since the last adven
 - [ ] Low (60 XP) Level 2
 
 Should the PCs attack Alastor, place him on the map: 
- - : [[3-Rules/Bestiaries/Monster Core/Ghost Commoner|Ghost Commoner]] W
+ - : [[3-Rules/Bestiaries/Monster Core/G/Ghost Commoner|Ghost Commoner]] W
 
 ```encounter
 name: Alastor Land
@@ -1154,7 +1154,7 @@ At the start of the encounter, place the following foes on the map:
  - 1: [[Filge|Filge]] F
  - 1: [[Skeleton Warrior]] W
  - 1: [[Void Zombie]] V
- - 3: [[3-Rules/Bestiaries/Monster Core/Zombie Shambler|Zombie Shambler]]
+ - 3: [[3-Rules/Bestiaries/Monster Core/Z/Zombie Shambler|Zombie Shambler]]
 
 ```encounter
 name: Operating Theater

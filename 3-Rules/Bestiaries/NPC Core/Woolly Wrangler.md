@@ -88,7 +88,7 @@ creatures:
 
 
 
-When a giant, dangerous animal is found, there's always someone who tries to pet it. A woolly wrangler is usually accompanied by an [[Monster Core/Elephant|Elephant]] or [[Monster Core/Mammoth|Mammoth]]. They can Command this Animal without needing to succeed at a Nature check.
+When a giant, dangerous animal is found, there's always someone who tries to pet it. A woolly wrangler is usually accompanied by an [[3-Rules/Bestiaries/Monster Core/E/Elephant|Elephant]] or [[3-Rules/Bestiaries/Monster Core/M/Mammoth|Mammoth]]. They can Command this Animal without needing to succeed at a Nature check.
 
 * * *
 

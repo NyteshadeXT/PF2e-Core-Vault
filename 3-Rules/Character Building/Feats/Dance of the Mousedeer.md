@@ -16,7 +16,7 @@ license: ORC
 ---
 # Dance of the Mousedeer `pf2:1`
 ## Feat 1
-### [[illusion]][[occult]][[shadow]][[visual]][[wayang]]
+### [[illusion]][[occult]][[3-Rules/Trait Reference/S/shadow]][[visual]][[wayang]]
 
 **Category** ancestry; 
 

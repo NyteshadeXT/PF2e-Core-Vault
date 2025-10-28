@@ -15,7 +15,7 @@ license: OGL
 ---
 # Shadewither Key
 ## Item 22
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[illusion]][[invested]][[primal]][[shadow]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[illusion]][[invested]][[primal]][[3-Rules/Character Building/Equipment/S/shadow]]
 
 
 **Price** 0 gp; 

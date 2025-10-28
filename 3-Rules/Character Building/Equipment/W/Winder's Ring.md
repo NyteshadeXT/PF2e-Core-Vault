@@ -35,7 +35,7 @@ This ring contains dozens of minute, interlocking bronze gears that buzz incessa
 
 * * *
 
-**Effect** The _winder's ring_ transforms into a [[Bestiary 3/Clockwork Spy|Clockwork Spy]] that doesn't require winding and obeys your spoken commands for up to 1 hour. In this form, the _winder's ring_ has the minion trait. You can use this action again to return the clockwork spy to _winder's ring_ form as long as you're adjacent to the clockwork spy. If the clockwork spy is slain, it reverts to its ring shape, and the _winder's ring_ can't be activated again until 1 week has passed.
+**Effect** The _winder's ring_ transforms into a [[Clockwork Spy 1|Clockwork Spy 1]] that doesn't require winding and obeys your spoken commands for up to 1 hour. In this form, the _winder's ring_ has the minion trait. You can use this action again to return the clockwork spy to _winder's ring_ form as long as you're adjacent to the clockwork spy. If the clockwork spy is slain, it reverts to its ring shape, and the _winder's ring_ can't be activated again until 1 week has passed.
 
 *Source: Pathfinder #179: Cradle of Quartz*
 *OGL*

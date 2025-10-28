@@ -19,7 +19,7 @@ license: OGL
 
 The ghost possesses and transforms an adjacent corpse (this requires 2 actions if the ghost is possessing its own corpse; otherwise, it takes an hour).
 
-The possessed corpse uses the statistics of a non-incorporeal undead 2 levels lower than the ghost, and the ghost possesses it as if using the [[Spells/Possession|Possession]] spell. The specific undead is determined by the nature of the ghost and the corpse-[[Bestiary 1/Ghoul|Ghouls]], [[Monster Core/Wight|Wights]], and [[Monster Core/Dullahan|Dullahans]] are all common, but almost any undead is possible.
+The possessed corpse uses the statistics of a non-incorporeal undead 2 levels lower than the ghost, and the ghost possesses it as if using the [[Spells/Possession|Possession]] spell. The specific undead is determined by the nature of the ghost and the corpse-[[Bestiary 1/Ghoul|Ghouls]], [[3-Rules/Bestiaries/Monster Core/W/Wight|Wights]], and [[3-Rules/Bestiaries/Monster Core/D/Dullahan|Dullahans]] are all common, but almost any undead is possible.
 
 If the ghost ceases to possess the corpse, the corporeal undead is immediately destroyed.
 

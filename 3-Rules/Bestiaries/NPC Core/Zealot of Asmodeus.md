@@ -93,7 +93,7 @@ creatures:
 
 
 
-Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves Asmodeus, but others might serve Abadar, Calistria, Iomedae, Norgorber, Pharasma, Sarenrae, or Zon-Kuthon. They often ride a [[Monster Core/War Horse|War Horse]] wearing light barding. To depict a zealot's mount, add this horse to the encounter as an additional monster with its own actions, adjusting the encounter's XP budget accordingly.
+Zealots ferret out plots against their religion and seek justice for their church's followers. This zealot serves Asmodeus, but others might serve Abadar, Calistria, Iomedae, Norgorber, Pharasma, Sarenrae, or Zon-Kuthon. They often ride a [[3-Rules/Bestiaries/Monster Core/W/War Horse|War Horse]] wearing light barding. To depict a zealot's mount, add this horse to the encounter as an additional monster with its own actions, adjusting the encounter's XP budget accordingly.
 
 * * *
 
