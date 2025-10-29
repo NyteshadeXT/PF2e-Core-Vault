@@ -103,7 +103,7 @@ The Lantern Grove is the corrupted heart of Harley’s domain — a place of ete
 > **Effect:** DC 25 Reflex save or a worm burrows beneath the skin (1 persistent acid + 1 persistent negative damage; DC 23 Medicine to Treat Wounds to remove). 
 > **Automatic Resolution:** 1 minute of exposure to positive damage, area fire, or a Heal spell kills the worms.
 
-### Battlefield Features
+#### Battlefield Features
 
 ```encounter
 name: The Lantern Grove
@@ -130,13 +130,19 @@ When the final corrupted creature falls, the grove’s flames dim and re-ignite 
 ![[pavilion-of-hallow-masks.png|right wtall]]
 
 > [!note]+ **Read Aloud**
->  Harley raises a trembling hand, and the lanterns bow their carved faces toward her in silence. A faint path of light unfurls through the fallen leaves — a trail of softly burning embers leading deeper into the Hollow.  As you follow the trail, the forest grows quieter. The twisted branches lean closer together overhead, and the air grows heavy with the scent of smoke and decay. Faint shapes move among the trees — echoes of dancers long gone, faces pale and empty.  In the distance, music drifts through the fog: a broken waltz played on phantom strings. The path opens into a moonlit clearing, and there stands a pavilion of black silk and silver bones.
+>  Harley raises a trembling hand, and the lanterns bow their carved faces toward her in silence. A faint path of light unfurls through the fallen leaves — a trail of softly burning embers leading deeper into the Hollow.  The path winds through silent trees until the lantern-light fades to a dull ember glow. Ahead, a pavilion of black silk and silver bones shimmers in the mist. Inside, dozens of masks drift in slow circles above four faceless statues. The air is heavy — every breath thick with smoke and rot. Harley steps beside you, her gown whispering like leaves. Her orange eyes dim, the black scar beneath them seeming deeper than before.
+> 
+> “This is where I kept my memories,” she says softly. “Each mask — a moment, an emotion. But the worms have hollowed them — turned joy to hunger, love to pain. They feed upon what I once was.”
+> 
+> She touches one of the silver effigies; it hisses and smokes beneath her glove. “The corruption twists my essence. If the wrong mask is worn, the Hollow will drown in its own despair.”
+> 
+> Her gaze fixes on you. “You must restore what’s true. Find which memories still carry my light, and place them upon the waiting faces. But beware — the worms despise healing. Here, even your kindness will wither until the rite is done.”
 
 The pavilion once served as the centerpiece of Harley’s All Hallows revel — a place of laughter, dance, and delight. Now it’s deserted, the air thick with stillness. Masks hang from silver threads across the tent’s interior, swaying gently as if breathing.
 
 Each mask represents an _emotion_, _memory_, or _aspect_ of Harley’s fey essence, now fractured by Kyuss’s corruption.  The puzzle is about restoring balance — finding which masks still belong to her, and which have been hollowed out by the Worm God’s influence.
 
-### 🪞 Environment Details
+#### Environment Details
 
 |Feature|Description|
 |---|---|
@@ -145,89 +151,176 @@ Each mask represents an _emotion_, _memory_, or _aspect_ of Harley’s fey essen
 |**Haunting Music**|A spectral waltz drifts from nowhere. PCs who listen for a full round hear faint laughter and weeping mixed within the notes.|
 |**The Silver Effigies**|Four faceless statues stand equidistant in the pavilion, hands outstretched as if waiting for something. Each is carved with faint fey runes.|
 
-### 🧩 The Puzzle of the Hollow Masks
+#### The Puzzle of the Hollow Masks
+The heroes must restore the Pavilion’s balance by placing the correct masks upon the proper effigies while resisting the corrupting whispers of Kyuss’s rot. Each skill roll contributes toward earning Victory Points (success) or Complications (failure). Earn **8 Victory Points** before accruing **3 Complications** to cleanse the Pavilion and restore Harley’s fractured essence.
 
-**Objective:**  
-Place the correct four masks on the matching effigies to restore harmony and open the way forward. Each round of investigation or action progresses time; with each failure, the corruption grows.
+When the players arrive, the pavilion’s spectral music begins to play. Four effigies stand waiting for masks representing **Joy, Fear, Love, and Despair**. The remaining masks (corrupted ones) whisper lies or project horrifying memories of decay. Each “round” of play represents 1 minute of investigation, interaction, or performance in the Pavilion.  If more then two rounds occur without a success or a complication a complication will automatically be triggered.
 
----
+##### Skill Actions
 
-#### 🕰️ Puzzle Setup
-
-Each mask is whispering phrases hinting at its nature.  
-For example:
-
-|Mask|Hint|Correct Statue|
+|Skill|DC|Effect|
 |---|---|---|
-|**Mask of Joy**|“Once I laughed until I cried… now I only remember the tears.”|The effigy holding a cracked goblet.|
-|**Mask of Fear**|“Every light casts a shadow… and mine always stares back.”|The effigy clutching its own face.|
-|**Mask of Love**|“I burned too bright, and now my heart is ash.”|The effigy whose chest bears a hollow flame rune.|
-|**Mask of Despair**|“When the dance ends, all that’s left is silence.”|The kneeling effigy with open palms.|
+|**Occultism**|25|Analyze magical resonances in the masks to determine which retain fey essence. A success grants 1 VP. A critical success grants 2 VP. A failure triggers a Complication.|
+|**Religion**|23|Detect the corruptive touch of Kyuss and identify which effigies are tainted. Success grants 1 VP and cleanses one effigy temporarily.|
+|**Performance**|25|Recreate the emotion of a mask through dance, gesture, or song, awakening its connection to Harley’s spirit. Success grants 1 VP. A critical success calms the surrounding corruption, granting +1 circumstance bonus to subsequent checks for 1 round.|
+|**Society**|24|Interpret the effigies’ symbolism and link gestures to emotions. Success grants 1 VP.|
+|**Arcana**|26|Match arcane runes across the pavilion to mask sigils. Success grants 1 VP; failure produces a pulse of green flame, causing 1d6 acid damage to all nearby.|
+|**Perception**|22|Notice faint wormlike movements or glowing veins within corrupted masks, identifying one false mask. Success grants 1 VP.|
+|**Diplomacy**|25|Appease the whispering spirits by addressing them directly, granting a temporary lull in the haunting chorus. Success prevents the next Complication.|
+|**Intimidation**|25|Command the corrupted spirits to silence, disrupting a Complication in progress (Reaction). Critical success earns 1 VP.|
+|**Assisting (Any)**|DC 20|Aiding another’s roll grants +1 circumstance bonus on success, +2 on critical success.|
 
----
+##### Complications
+Each time the group accrues a failure, the corruption deepens.  On 3 Complications, the _Broken Masquerade Haunt_ manifests.
 
-#### 🧩 Skill Checks
+|Complication|Description|
+|---|---|
+|**Wormlight Pulse**|A burst of green fire erupts (`dice: 2d6` acid, DC 24 Reflex half).|
+|**Echo of Despair**|All PCs take a –1 status penalty to Will saves until the end of the scene.|
+|**Broken Masquerade**|The haunt triggers — faceless dancers manifest (see Encounter 2B).|
 
-Each PC can attempt one check per round.
+> [!danger]+ The Broken Masquerade (Haunt)
+> If the corruption overtakes the pavilion: The masks twist in unison, their hollow eyes flaring green. Phantom dancers appear — faceless, jerking marionettes — and laughter turns to screams.
+> 
+> ##### **Haunt (Level 7)**
+> **Stealth:** +18 to notice
+> **Trigger:** 3 failed puzzle attempts
+> **Effect (1 action):** All creatures in the pavilion must attempt a **Will DC 26** save each round The Broken Masquerade is active.   Conditions my replenish and higher failure conditions will overrule lower failure conditions.
+> 
+>> **Success:** [[Frightened|Frightened 1]].
+>> **Failure:** [[Frightened|Frightened 2]] and `dice: 2d8` mental damage.
+>> **Critical Failure:** [[Frightened|Frightened 3]], `dice: 4d8` mental damage, and the character is [[Stupefied|Stupefied 1]] for 1 minute.
+>
+> **Deactivation:** 2 actions, DC 25 [[Skills#Religion|Religion]] or [[Skills#Occultism|Occultism]] to recenter the corrupted essence.
 
-|Skill|Use|DC|
-|---|---|---|
-|**Occultism (DC 25)**|Identify which masks radiate true fey essence.||
-|**Religion (DC 23)**|Detect Kyuss corruption in the masks or effigies.||
-|**Society (DC 24)**|Match emotional symbolism and gestures to the correct effigy.||
-|**Performance (DC 25)**|Emulate the emotion the mask represents to awaken it safely.||
-|**Arcana (DC 26)**|Identify runic correspondences on the effigies.||
-|**Perception (DC 22)**|Notice faint green veins pulsing through corrupted masks.||
+##### Resolution
 
-Each correct placement counts as **1 success**.  
-Each failed attempt counts as **1 failure**.  
-After **4 successes**, the puzzle is solved.  
-After **3 failures**, the _Broken Masquerade_ manifests.
+###### **Success (8 VP before 3 Complications):**
+> [!note]+ Read Aloud
+> The pavilion’s lights shift from green to amber. The masks sigh in unison, then hang still once more. The air clears, and Harley steps forward, her tone soft and full of gratitude.
+> 
+> “You’ve reminded me who I was before the rot set in… I am in your debt, my darlings.”
 
----
+Harley regains full control of her domain. PCs gain a _Fey Favor_ (award each PC a hero point). The path to the corrupted heart opens.
 
-### 💀 The Broken Masquerade (Haunt)
+###### **Failure (3 Complications before 8 VP):**
+> [!note]+ Read Aloud
+> The pavilion’s silk tears, and laughter turns to screams. The masks twist into warped visages, merging into a single monstrous face. The Broken Masquerade begins…
 
-If the corruption overtakes the pavilion:
+Trigger the _Broken Masquerade Haunt_ immediately as a combat encounter (moderate threat, Level 7).
 
-> The masks twist in unison, their hollow eyes flaring green. Phantom dancers appear — faceless, jerking marionettes — and laughter turns to screams.
-
-**Haunt (Level 7)**
-
-- **Stealth:** +18 to notice
-    
-- **Trigger:** 3 failed puzzle attempts
-    
-- **Effect (1 action):**
-    
-    - All creatures in the pavilion must attempt a **Will DC 26** save.
-        
-    - **Success:** Frightened 1.
-        
-    - **Failure:** Frightened 2 and 2d8 mental damage.
-        
-    - **Critical Failure:** Frightened 3, 4d8 mental damage, and the character is **Stupefied 1** for 1 minute.
-        
-- **Deactivation:** 2 actions, DC 25 Religion or Occultism to recenter the corrupted essence.
-    
-- **Special:** If Harley assists, add +2 circumstance bonus to the check.
-    
-
----
-
-### ✨ Resolution
-
+##### ✨ Resolution
 Once the puzzle is solved or the haunt dispelled, the pavilion’s music softens into a gentle lullaby. The masks rehang themselves along the canopy’s edge, now glowing with warm candlelight instead of sickly green.
 
 > [!note]+ **Read Aloud**
-> 
 > Harley exhales in relief. “My memories… they remember me again,” she whispers. “Thank you.”
 > 
-> Her eyes drift toward the dark forest beyond the pavilion. “But the Hollow’s heart still beats with worm-song. Beneath the roots, the rot stirs. We must end it… before it ends me.”
+> Her eyes drift toward the dark forest beyond the pavilion. “But the Hollow’s heart still beats with worm-song. Beneath the roots, the rot stirs. We must end it… before it ends me.”\
+> 
+> With a wave of her hand, the pavilion folds itself into darkness — revealing a spiral path descending beneath the roots of the grove, glowing faintly green.
 
-With a wave of her hand, the pavilion folds itself into darkness — revealing a spiral path descending beneath the roots of the grove, glowing faintly green.
+### Encounter 3 - The Worm Beneath the Roots
+![[worm-beneath-the-roots.png|left wtall]]
+
+> [!note]+ **Descent to the Hollow’s Heart**
+> A foul warmth rises from below — the stench of rot and stagnant water mingling with the faint scent of autumn leaves. As you descend, the roots grow slick with a pulsing green secretion. The light fades to murky emerald, and whispers echo in your minds — hungry, maddening murmurs promising rebirth through decay. The tunnel opens into a vast cavern of intertwined roots and fungal masses; translucent sacs filled with glowing green ichor, shot through with twitching veins and tiny wormlike movements beneath their surface. At its center lies a churning pool of luminous slime where worms writhe through the bark of an enormous, half-dead tree. A twisted figure kneels before it — a fey knight, his silver armor now blackened and weeping acid, his voice a rasping whisper: “All things rot, all beauty feeds the Worm. Even she.”
+
+### 🌱 Lore: The Kyuss Growths
+
+The **Kyuss Growths** are not mere fungus — they are _worm-nests of corruption_ that have merged with Harley’s world-tree heart.  
+Each growth pulses with necrotic energy, feeding both the **Worm-Rotted Fey Knight** and the Hollow’s infection.
+
+**Mechanically:**  
+They act as both environmental hazards and secondary objectives — the heroes must destroy or purify them to prevent the Hollow’s complete collapse.
+
+### Battlefield Features
+
+```encounter
+name: The Worm Beneath the Roots
+party: Age of Worms
+creatures:
+  - 3: Kyuss Growth, 40, 24, 0
+  - 1: Environmental Corruption, hidden
+```
 
 
+|Element|Level|Role|
+|---|---|---|
+|**Worm-Rotted Fey Knight**|8 (Elite Template)|Primary Foe|
+
+---
+
+### ⚔️ The Worm-Rotted Fey Knight
+
+_(Use the **Worm That Walks (Lvl 8, B2 p. 286)** as a base, reflavored as a corrupted fey warrior with armor and blade instead of robes.)_
+
+#### Modifications:
+- **Armor and Weapon:** Treat its melee Strike as a _corroded greatsword_ (+20 to hit, 2d10+8 slashing + 1d6 acid).
+- **Aura (Wormlight Miasma):** 15 ft aura; living creatures take 2d6 acid damage when starting their turn in the aura (DC 25 Fort half).
+- **Fey Essence (Weakness):** Positive damage 10.
+- **Phase Step (Reaction):** When damaged by positive energy, the knight flickers between corporeal and incorporeal for 1 round (Resist all 5).
+
+#### Tactics:
+The Worm-Rotted Fey Knight begins combat between the Growths, defending them. Each round a Growth remains intact, the knight gains 5 temporary HP at the start of his turn. When reduced below half HP, he retreats toward the pool, attempting to merge with the central Growth to trigger the **Worm Ascension** (a one-time, area-wide eruption of worms).
+    
+
+> [!danger]+ The Kyuss Growths (Hazard)
+> **Level:** 6 **Complexity:** Simple (HP-based, 3 total in area)
+> 
+> Each Growth is a pulsating cyst of corruption feeding the knight.
+> 
+> **Perception DC** 22 (obvious visually)
+> **AC** 24
+> **Fort Save DC** 24
+> **HP** 40 (Hardness 10)
+> **Immunity** Mental, Visual
+> **Weakness** Positive 10, Fire 5
+> **On Destroyed** The Growth bursts in a 10-ft. radius of acid and worm fragments (`dice: 2d6` acid damage, DC 24 Reflex half).
+> 
+> **Special:** Each active Growth grants the Fey Knight a +1 status bonus to attack and damage rolls.  Destroying a Growth removes one bonus (stacking).
+
+> [!danger]+ Environmental Corruption (Hazard)
+> At the end of each round, roll `dice: 1d4` causing one of the following random effects occurs:
+>
+>> 1) Roots lash out (attack +18, `dice: 2d8` bludgeoning, DC 23 Reflex to avoid).
+>> 2) Acidic seep erupts from the floor (5-ft. radius, `dice: 2d6` acid, DC 24 Reflex).
+>> 3) Wormlight Pulse — DC 24 Fort save or [[Sickened|Sickened 1]].
+>> 4) The cavern groans, causing falling debris (`dice: 2d8` bludgeoning, DC 25 Reflex half).
+
+---
+
+### 🕯️ Resolution
+
+#### **Success:**
+
+> The last Growth bursts, its ooze sizzling away into pale smoke. The knight screams as his form unravels into a cloud of burning worms that turn to ash before touching the ground.
+> 
+> The cavern heaves as orange light seeps through the bark — the Hollow’s heart restored. The whispers fade, and Harley descends through the roots, her gown trailing starlight and shadow.
+> 
+> “You’ve done what I could not,” she says quietly. “My heart beats again… thanks to you.”
+
+**Effect:** The corruption recedes. All environmental damage ends. The party can finally rest — Harley restores full vitality with fey healing light.
+
+#### **Failure:**
+
+> The knight merges with the heart-tree, and a massive worm bursts from the roots, flooding the chamber in green flame.  
+> Harley screams as she’s dragged upward by black roots — and the Hollow collapses into shadow.
+
+Campaign consequence: The Hollow becomes a permanent Kyuss-tainted zone; Harley’s future aid is lost until cleansed through another ritual.
+
+---
+
+### 🧠 GM Notes
+
+- Emphasize **environmental chaos** — acid dripping, roots thrashing, green glow dimming as Growths are destroyed.
+    
+- Track Growth HP openly so players feel their progress.
+    
+- The knight’s dialogue is half madness, half reverence toward “the Worm That Reigns Beneath.”
+    
+- When the first Growth falls, he screams, _“You kill the seed, but you cannot kill the soil!”_
+    
+- Harley may appear midway (at half HP threshold) to bolster morale, granting the party a **+1 status bonus on Will saves** for the rest of combat.
 
 
 

@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Template - Settlement"
             }
+          },
+          {
+            "id": "f522a556ee4a9259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "worm-rotted-fey-knight"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-World/Maps/Ardentia City Map.md",
+                "file": "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ardentia City Map"
+              "title": "Backlinks for worm-rotted-fey-knight"
             }
           },
           {
@@ -212,12 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of worm-rotted-fey-knight"
             }
           },
           {
@@ -240,7 +255,8 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "b1acc93246655d59",
@@ -285,10 +301,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3502321e0ecc2228",
+  "active": "f522a556ee4a9259",
   "lastOpenFiles": [
-    "zz-Attachments/pavilion-of-hallow-masks.png",
+    "zz-Attachments/worm-rotted-knight.png",
+    "3-Rules/Bestiaries/Homebrew/W/wind-warrior.md",
+    "3-Rules/Bestiaries/Monster Core/A/Adamantine Dragon (Adult, Spellcaster).md",
+    "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
+    "3-Rules/Bestiaries/NPC Core/Knight.md",
+    "4-Campaign/Age of Worms/The Hallow Beckons - Halloween 2025.md",
+    "zz-Attachments/worm-beneath-the-roots.png",
     "3-Rules/Bestiaries/Monster Core/Z/Zecui.md",
+    "zz-Attachments/pavilion-of-hallow-masks.png",
     "3-Rules/Bestiaries/Monster Core/Y/Yamaraj.md",
     "3-Rules/Bestiaries/Monster Core/X/Xoarian.md",
     "3-Rules/Bestiaries/Monster Core/W/War Horse.md",
@@ -318,11 +341,6 @@
     "3-Rules/Bestiaries/Monster Core/M/Magma Worm.md",
     "3-Rules/Bestiaries/Monster Core/L/Lamia.md",
     "3-Rules/Bestiaries/Monster Core/K/Kanya.md",
-    "3-Rules/Bestiaries/Monster Core/K/Keketar.md",
-    "3-Rules/Bestiaries/Monster Core/J/Jaathoom.md",
-    "3-Rules/Bestiaries/Monster Core/I/Ice Linnorm.md",
-    "3-Rules/Bestiaries/Monster Core/H/Hadrosaurid.md",
-    "3-Rules/Bestiaries/Monster Core/G/Gancanagh.md",
     "zz-Attachments/lantern-husk.png",
     "zz-Attachments/lantern-grove-halloween.png",
     "zz-Attachments/image.png",
@@ -330,8 +348,6 @@
     "zz-Attachments/wanderers-respite.png",
     "zz-Attachments/griffons-fancy.png",
     "zz-Attachments/prism-and-parchment.png",
-    "zz-Attachments/darrin-ironsoul.png",
-    "zz-Attachments/gilded-gauntlet.png",
-    "zz-Attachments/alaric-switfwind.png"
+    "zz-Attachments/darrin-ironsoul.png"
   ]
 }
