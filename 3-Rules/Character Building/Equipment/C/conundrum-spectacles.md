@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "conundrum-spectacles"
 aliases: "Conundrum Spectacles"
 source: "Pathfinder Special: Fumbus!"
-pg: ""
-rarity: ""
+pg: "0"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +1 item bonus to [[Actions/Decipher Writing|Decipher Writing]].  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  **Requirements** You are attempting to read something in a language you don't understand  * * *  **Effect** You flick a small toggle on the side of the spectacles, flipping the lenses over in the frames. You can understand the meaning of the language you are reading. This doesn't let you understand codes, riddles, or metaphors (subject to the GM's discretion). This effect lasts 1 hour."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These wire spectacles have been fitted with circular glass lenses. While wearing the spectacles, you gain a +1 item bonus to [[Decipher Writing]]."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[interact]])"
+frequency1: "once per day"
+requirement1: "You are attempting to read something in a language you don't understand"
 trigger1:
-mechanics1:
+mechanics1: "You flick a small toggle on the side of the spectacles, flipping the lenses over in the frames. You can understand the meaning of the language you are reading. This doesn't let you understand codes, riddles, or metaphors (subject to the GM's discretion). This effect lasts 1 hour."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

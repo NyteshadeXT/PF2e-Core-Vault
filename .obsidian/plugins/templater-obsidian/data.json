@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Tutorials/YouTube Series/Buttons/NPCs",
+      "folder": "",
       "template": "z_Templates/TemplateNPC.md"
     },
     {
@@ -38,5 +38,6 @@
   "startup_templates": [
     ""
   ],
+  "intellisense_render": 1,
   "enable_ribbon_icon": true
 }

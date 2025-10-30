@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Factions/The Ebon Triad.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/C/coronet-of-stars.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Ebon Triad"
+              "title": "coronet-of-stars"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,53 +301,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f522a556ee4a9259",
+  "active": "92be28f7bf66468b",
   "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/C/cordelias-greater-construct-key.md",
+    "3-Rules/Character Building/Equipment/C/cordelias-construct-key.md",
+    "3-Rules/Character Building/Equipment/C/coral-armor.md",
+    "3-Rules/Character Building/Equipment/C/conflagration-club.md",
+    "zz-Attachments/coral-armor.png",
+    "3-Rules/Character Building/Equipment/C/copper-penny.md",
+    "3-Rules/Character Building/Equipment/C/cooperative-waffles-greater.md",
+    "3-Rules/Character Building/Equipment/C/cooperative-waffles.md",
+    "zz-Attachments/cooperative-waffles.png",
+    "3-Rules/Character Building/Equipment/C/cooperative-blade.md",
+    "3-Rules/Character Building/Equipment/C/cooling-elixir-moderate.md",
+    "3-Rules/Character Building/Equipment/C/cooling-elixir-lesser.md",
+    "3-Rules/Character Building/Equipment/C/cooling-elixir-greater.md",
+    "3-Rules/Character Building/Equipment/C/cookware.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "3-Rules/Character Building/Equipment/C/conundrum-spectacles-greater.md",
+    "3-Rules/Character Building/Actions/Decipher Writing.md",
+    "3-Rules/Character Building/Equipment/C/conundrum-spectacles.md",
+    "3-Rules/Character Building/Equipment/C/containment-contraption.md",
+    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-moderate.md",
+    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-lesser.md",
+    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-greater.md",
+    "3-Rules/Character Building/Equipment/C/constricting-whip-tail.md",
+    "3-Rules/Character Building/Equipment/C/constricting-meteor.md",
+    "3-Rules/Character Building/Equipment/C/conspirators-cookie.md",
+    "3-Rules/Character Building/Equipment/C/conrasu-coin-bythos.md",
     "zz-Attachments/worm-rotted-knight.png",
-    "3-Rules/Bestiaries/Homebrew/W/wind-warrior.md",
-    "3-Rules/Bestiaries/Monster Core/A/Adamantine Dragon (Adult, Spellcaster).md",
-    "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
-    "3-Rules/Bestiaries/NPC Core/Knight.md",
-    "4-Campaign/Age of Worms/The Hallow Beckons - Halloween 2025.md",
     "zz-Attachments/worm-beneath-the-roots.png",
-    "3-Rules/Bestiaries/Monster Core/Z/Zecui.md",
     "zz-Attachments/pavilion-of-hallow-masks.png",
-    "3-Rules/Bestiaries/Monster Core/Y/Yamaraj.md",
-    "3-Rules/Bestiaries/Monster Core/X/Xoarian.md",
-    "3-Rules/Bestiaries/Monster Core/W/War Horse.md",
-    "3-Rules/Bestiaries/Monster Core/V/Vampire Bat Swarm.md",
-    "3-Rules/Bestiaries/Monster Core/Untitled.md",
     "3-Rules/Bestiaries/Monster Core/V",
-    "3-Rules/Bestiaries/Monster Core/U/Ugothol.md",
-    "3-Rules/Bestiaries/Monster Core/V.md",
     "3-Rules/Bestiaries/Monster Core/Z",
     "3-Rules/Bestiaries/Monster Core/Y",
     "3-Rules/Bestiaries/Monster Core/X",
     "3-Rules/Bestiaries/Monster Core/W",
-    "3-Rules/Bestiaries/Monster Core/U/Umbral Gnome Rockwarden.md",
     "3-Rules/Bestiaries/Monster Core/U",
-    "3-Rules/Bestiaries/Monster Core/T/Tabellia.md",
-    "3-Rules/Bestiaries/Monster Core/S/Sargassum Heap.md",
-    "3-Rules/Bestiaries/Monster Core/R/Raja-Krodha.md",
-    "3-Rules/Bestiaries/Monster Core/S/Satyr.md",
-    "3-Rules/Bestiaries/Monster Core/Q/Qarna.md",
-    "3-Rules/Bestiaries/Monster Core/P/Pachycephalosaurus.md",
-    "3-Rules/Bestiaries/Monster Core/O/Ofalth.md",
     "3-Rules/Bestiaries/Monster Core/T",
     "3-Rules/Bestiaries/Monster Core/S",
     "3-Rules/Bestiaries/Monster Core/R",
     "3-Rules/Bestiaries/Monster Core/Q",
-    "3-Rules/Bestiaries/Monster Core/N/Naiad.md",
-    "3-Rules/Bestiaries/Monster Core/M/Magma Worm.md",
-    "3-Rules/Bestiaries/Monster Core/L/Lamia.md",
-    "3-Rules/Bestiaries/Monster Core/K/Kanya.md",
     "zz-Attachments/lantern-husk.png",
     "zz-Attachments/lantern-grove-halloween.png",
     "zz-Attachments/image.png",
     "zz-Attachments/Jerrykk.png",
-    "zz-Attachments/wanderers-respite.png",
-    "zz-Attachments/griffons-fancy.png",
-    "zz-Attachments/prism-and-parchment.png",
-    "zz-Attachments/darrin-ironsoul.png"
+    "zz-Attachments/wanderers-respite.png"
   ]
 }

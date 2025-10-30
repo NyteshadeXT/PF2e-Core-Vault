@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "constricting-whip-tail"
 aliases: "Constricting Whip Tail"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "99"
 rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "You have a strong, prehensile tail. You gain a tail unarmed attack that deals 1d6 bludgeoning damage. This tail is in the brawling group. You gain a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] and to Athletics checks to Climb. You can also use your tail for the [[Actions/Grab an Edge|Grab an Edge]] action, even if your hands are otherwise occupied.  You can use your tail unarmed attack to [[Actions/Grapple|Grapple]] even if you don't have a free hand. You gain a +2 item bonus to Athletics checks to Grapple."
+description: "You have a strong, prehensile tail. You gain a tail unarmed attack that deals `dice: 1d6` 1d6 bludgeoning damage. This tail is in the brawling group. You gain a +1 item bonus to [[Skills#Acrobatics|Acrobatics]] checks to [[Balance]] and to [[Skills#Athletics|Athletics]] checks to [[Climb]]. You can also use your tail for the [[Grab an Edge]] action, even if your hands are otherwise occupied.  You can use your tail unarmed attack to [[Grapple]] even if you don't have a free hand. You gain a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[Grapple]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

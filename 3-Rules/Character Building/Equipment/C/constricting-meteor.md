@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "constricting-meteor"
 aliases: "Constricting Meteor"
 source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
+pg: "102"
+rarity: "uncommon"
 trait01: "backswing"
 trait02: "disarm"
 trait03: "magical"
 trait04: "reach"
 trait05: "trip"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -25,34 +25,36 @@ subvalue: "gp"
 invest:
 usage: "held in two hands "
 license: "ORC"
+group: "Flail"
 identify:
-description: "The weights of this _+1 striking meteor hammer_ are shaped like snake heads, and anaconda scales adorn the chain.  * * *  **Activate—Coiling Chain** `pf2:1` (concentrate)  **Requirements** Your last action was a successful melee Strike or [[Actions/Trip|Trip]] with the _constricting meteor_  **Effect** The chain of the meteor hammer wraps around the target and squeezes. Attempt an Athletics check to [[Actions/Grapple|Grapple]] the creature with a +1 item bonus. In addition to being [[Conditions/Grabbed|Grabbed]] on a success, the target takes 1d10+7 bludgeoning damage.  * * *  **Craft Requirements** The initial raw materials must include the scales of a giant anaconda."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The weights of this _[[Weapon Potency (+1)|+1]] [[striking]] [[meteor hammer]]_ are shaped like snake heads, and anaconda scales adorn the chain."
+powerTitle1: "Coiling Chain"
+actionEconomy1: 1
+type1: "([[concentrate]])"
 frequency1:
 trigger1:
-mechanics1:
+requirement1: "Your last action was a successful melee Strike or [[Trip]] with the _constricting meteor_"
+mechanics1: "The chain of the meteor hammer wraps around the target and squeezes. Attempt an [[Skills#Athletics|Athletics]] check to [[Grapple]] the creature with a +1 item bonus. In addition to being [[Grabbed]] on a success, the target takes `dice: 1d10+7` 1d10+7 bludgeoning damage."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include the scales of a giant anaconda."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 2d8 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d8
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Meteor Hammer"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "cooperative-blade"
 aliases: "Cooperative Blade"
 source: "Pathfinder #164: Hands of the Devil"
-pg: ""
-rarity: ""
+pg: "71"
+rarity: "unique"
 trait01: "magical"
 trait02: "versatile-p"
-trait03: "unique"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -25,8 +25,9 @@ subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
+group: "Sword"
 identify:
-description: "This _+1 striking longsword_ has a mirror-like blade free of tarnish despite being millennia old.  While wielding it, you gain a +2 item bonus to checks to [[Actions/Aid|Aid]]. If you're an expert with the skill or attack roll you're using to Aid and you critically succeed, you grant your ally a +3 circumstance bonus to the triggering check instead of a +2 bonus."
+description: "This _[[Weapon Potency (+1)|+1]] [[striking]] [[longsword]]_ has a mirror-like blade free of tarnish despite being millennia old.  While wielding it, you gain a +2 item bonus to checks to [[Aid]]. If you're an expert with the skill or attack roll you're using to Aid and you critically succeed, you grant your ally a +3 circumstance bonus to the triggering check instead of a +2 bonus."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d8 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d8
+dmg1Type: slashing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Longsword"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
