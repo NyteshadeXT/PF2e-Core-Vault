@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Bestiary 3/P/Pakalchi.md",
+                "file": "1-GM Toolkit/DC Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pakalchi"
+              "title": "DC Calculator"
             }
           },
           {
@@ -69,44 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Hallow Beckons - Halloween 2025.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Hallow Beckons - Halloween 2025"
-            }
-          },
-          {
-            "id": "6bb97946ee1d26f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz-Templates/GM Templates/Locations/Template - Settlement.md",
+                "file": "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V/Vewslog.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Template - Settlement"
+              "title": "Vewslog"
             }
           },
           {
-            "id": "f522a556ee4a9259",
+            "id": "76837705573d72a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Homebrew/W/worm-rotted-fey-knight.md",
-                "mode": "source",
+                "file": "3-Rules/Bestiaries/Uniques/Elaxan.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "worm-rotted-fey-knight"
+              "title": "Elaxan"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -163,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 354.5
   },
   "right": {
     "id": "2a5b285256e58b6d",
@@ -273,6 +259,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "48076666fb4005da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d7a032aee2c9fb9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,53 +303,58 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "92be28f7bf66468b",
+  "active": "198676ae38ebd193",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/cordelias-greater-construct-key.md",
-    "3-Rules/Character Building/Equipment/C/cordelias-construct-key.md",
-    "3-Rules/Character Building/Equipment/C/coral-armor.md",
-    "3-Rules/Character Building/Equipment/C/conflagration-club.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V/Vivielle Ramslay.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/T/The Claws of Time.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/S/Sabora Sharkosa.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/R/Repeater Crossbow Trap.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/P/Palzu.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/Y",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/W",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/T",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/S",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/R",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/M/Masu.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L/Leadsmith.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/I/I.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/H/Headless Rustler.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/P",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/O",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/M",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/G/Gilded Gunner Assassin.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/F/Falling Portcullis Trap.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/D/Daelum.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/C/Captured Dezullon.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/B/Brighite Herexen.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/A/Akrida.md",
+    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L/Lucky Lanks.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/W/Weakened Floor.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/V/Valerie (Level 1).md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/Untitled.canvas",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/T/Talon Peak Roc.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/S/Satinder Morne.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/R/Rezatha.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/P/Paranoia Well.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/O/Old Crackjaw.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/N/Narlmarch Hunters.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/M/Murder of Crows.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/N/Ngara.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/Untitled 1.canvas",
+    "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled 1.canvas",
+    "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled.canvas",
+    "3-Rules/Bestiaries/Adventure Paths/Extinction Curse/Untitled.canvas",
+    "zz-Attachments/parade-of-thieves.png",
+    "zz-Attachments/The Pumpkin Queen.png",
+    "zz-Attachments/slimers-slurp.png",
+    "zz-Attachments/deaths-mantle.png",
+    "zz-Attachments/bow-of-the-eight-legs.png",
     "zz-Attachments/coral-armor.png",
-    "3-Rules/Character Building/Equipment/C/copper-penny.md",
-    "3-Rules/Character Building/Equipment/C/cooperative-waffles-greater.md",
-    "3-Rules/Character Building/Equipment/C/cooperative-waffles.md",
     "zz-Attachments/cooperative-waffles.png",
-    "3-Rules/Character Building/Equipment/C/cooperative-blade.md",
-    "3-Rules/Character Building/Equipment/C/cooling-elixir-moderate.md",
-    "3-Rules/Character Building/Equipment/C/cooling-elixir-lesser.md",
-    "3-Rules/Character Building/Equipment/C/cooling-elixir-greater.md",
-    "3-Rules/Character Building/Equipment/C/cookware.md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "3-Rules/Character Building/Equipment/C/conundrum-spectacles-greater.md",
-    "3-Rules/Character Building/Actions/Decipher Writing.md",
-    "3-Rules/Character Building/Equipment/C/conundrum-spectacles.md",
-    "3-Rules/Character Building/Equipment/C/containment-contraption.md",
-    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-moderate.md",
-    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-lesser.md",
-    "3-Rules/Character Building/Equipment/C/contagion-metabolizer-greater.md",
-    "3-Rules/Character Building/Equipment/C/constricting-whip-tail.md",
-    "3-Rules/Character Building/Equipment/C/constricting-meteor.md",
-    "3-Rules/Character Building/Equipment/C/conspirators-cookie.md",
-    "3-Rules/Character Building/Equipment/C/conrasu-coin-bythos.md",
     "zz-Attachments/worm-rotted-knight.png",
     "zz-Attachments/worm-beneath-the-roots.png",
-    "zz-Attachments/pavilion-of-hallow-masks.png",
-    "3-Rules/Bestiaries/Monster Core/V",
-    "3-Rules/Bestiaries/Monster Core/Z",
-    "3-Rules/Bestiaries/Monster Core/Y",
-    "3-Rules/Bestiaries/Monster Core/X",
-    "3-Rules/Bestiaries/Monster Core/W",
-    "3-Rules/Bestiaries/Monster Core/U",
-    "3-Rules/Bestiaries/Monster Core/T",
-    "3-Rules/Bestiaries/Monster Core/S",
-    "3-Rules/Bestiaries/Monster Core/R",
-    "3-Rules/Bestiaries/Monster Core/Q",
-    "zz-Attachments/lantern-husk.png",
-    "zz-Attachments/lantern-grove-halloween.png",
-    "zz-Attachments/image.png",
-    "zz-Attachments/Jerrykk.png",
-    "zz-Attachments/wanderers-respite.png"
+    "zz-Attachments/pavilion-of-hallow-masks.png"
   ]
 }

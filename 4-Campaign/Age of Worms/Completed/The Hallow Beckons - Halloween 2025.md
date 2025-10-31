@@ -1,7 +1,38 @@
 ---
 tags:
   - "#Adventure"
-art: zz-Attachments/PlaceholderImage.png
+art: zz-Attachments/The Pumpkin Queen.png
+whichparty:
+  - "[[Age of Worms Party Dashboard]]"
+adventure_status: Completed
+adventure_level: 7
+total_xp: 0
+completed_xp: 0
+completed_xp_log: []
+awarded_coin:
+  - date: 2025-10-30
+    pp: 0
+    gp: 0
+    sp: 0
+    cp: 0
+awarded_consumable_items:
+  - name: Scroll of Harley's Haunting Visage
+    ilvl: 5
+    gp: 30
+    date: 2025-10-30
+  - name: Slimer's Slurp
+    ilvl: 5
+    gp: 29
+    date: 2025-10-30
+awarded_permanent_items:
+  - name: Death's Mantle
+    ilvl: 7
+    gp: 340
+    date: 2025-10-30
+  - name: Bow of the Eight Legs
+    ilvl: 7
+    gp: 340
+    date: 2025-10-30
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -96,7 +127,7 @@ The Lantern Grove is the corrupted heart of Harley’s domain — a place of ete
 ![[lantern-grove-halloween.png|left wtall]]
 
 > [!danger]+ Kyuss Worm Hazard (Triggered Effect)
-> When the _Rotting Treant_ or a _Lantern Husk_ dies, `dice: 1d4` wriggling Kyuss Worms scatter into adjacent squares.
+> When a _Lantern Husk_ dies, `dice: 1d4` wriggling Kyuss Worms scatter into adjacent squares.
 > 
 > **Hazard:** Level 6 (Moderate); Stealth +17; 
 > **Trigger:** a creature enters a space containing worms. 
@@ -215,7 +246,7 @@ Once the puzzle is solved or the haunt dispelled, the pavilion’s music softens
 > [!note]+ **Read Aloud**
 > Harley exhales in relief. “My memories… they remember me again,” she whispers. “Thank you.”
 > 
-> Her eyes drift toward the dark forest beyond the pavilion. “But the Hollow’s heart still beats with worm-song. Beneath the roots, the rot stirs. We must end it… before it ends me.”\
+> Her eyes drift toward the dark forest beyond the pavilion. “But the Hollow’s heart still beats with worm-song. Beneath the roots, the rot stirs. We must end it… before it ends me.”
 > 
 > With a wave of her hand, the pavilion folds itself into darkness — revealing a spiral path descending beneath the roots of the grove, glowing faintly green.
 
@@ -225,14 +256,6 @@ Once the puzzle is solved or the haunt dispelled, the pavilion’s music softens
 > [!note]+ **Descent to the Hollow’s Heart**
 > A foul warmth rises from below — the stench of rot and stagnant water mingling with the faint scent of autumn leaves. As you descend, the roots grow slick with a pulsing green secretion. The light fades to murky emerald, and whispers echo in your minds — hungry, maddening murmurs promising rebirth through decay. The tunnel opens into a vast cavern of intertwined roots and fungal masses; translucent sacs filled with glowing green ichor, shot through with twitching veins and tiny wormlike movements beneath their surface. At its center lies a churning pool of luminous slime where worms writhe through the bark of an enormous, half-dead tree. A twisted figure kneels before it — a fey knight, his silver armor now blackened and weeping acid, his voice a rasping whisper: “All things rot, all beauty feeds the Worm. Even she.”
 
-### 🌱 Lore: The Kyuss Growths
-
-The **Kyuss Growths** are not mere fungus — they are _worm-nests of corruption_ that have merged with Harley’s world-tree heart.  
-Each growth pulses with necrotic energy, feeding both the **Worm-Rotted Fey Knight** and the Hollow’s infection.
-
-**Mechanically:**  
-They act as both environmental hazards and secondary objectives — the heroes must destroy or purify them to prevent the Hollow’s complete collapse.
-
 ### Battlefield Features
 
 ```encounter
@@ -240,29 +263,24 @@ name: The Worm Beneath the Roots
 party: Age of Worms
 creatures:
   - 3: Kyuss Growth, 40, 24, 0
+  - 1: Worm Rotted Fey Knight   
   - 1: Environmental Corruption, hidden
 ```
 
-
-|Element|Level|Role|
-|---|---|---|
-|**Worm-Rotted Fey Knight**|8 (Elite Template)|Primary Foe|
-
----
-
-### ⚔️ The Worm-Rotted Fey Knight
-
-_(Use the **Worm That Walks (Lvl 8, B2 p. 286)** as a base, reflavored as a corrupted fey warrior with armor and blade instead of robes.)_
-
-#### Modifications:
-- **Armor and Weapon:** Treat its melee Strike as a _corroded greatsword_ (+20 to hit, 2d10+8 slashing + 1d6 acid).
-- **Aura (Wormlight Miasma):** 15 ft aura; living creatures take 2d6 acid damage when starting their turn in the aura (DC 25 Fort half).
-- **Fey Essence (Weakness):** Positive damage 10.
-- **Phase Step (Reaction):** When damaged by positive energy, the knight flickers between corporeal and incorporeal for 1 round (Resist all 5).
+> [!danger]+ Environmental Corruption (Hazard)
+> At the end of each round, roll `dice: 1d4` causing one of the following random effects occurs:
+>
+>> 1) Roots lash out (attack +18, `dice: 2d8` bludgeoning, DC 23 Reflex to avoid).
+>> 2) Acidic seep erupts from the floor (5-ft. radius, `dice: 2d6` acid, DC 24 Reflex).
+>> 3) Wormlight Pulse — DC 24 Fort save or [[Sickened|Sickened 1]].
+>> 4) The cavern groans, causing falling debris (`dice: 2d8` bludgeoning, DC 25 Reflex half).
 
 #### Tactics:
 The Worm-Rotted Fey Knight begins combat between the Growths, defending them. Each round a Growth remains intact, the knight gains 5 temporary HP at the start of his turn. When reduced below half HP, he retreats toward the pool, attempting to merge with the central Growth to trigger the **Worm Ascension** (a one-time, area-wide eruption of worms).
-    
+
+Emphasize environmental chaos — acid dripping, roots thrashing, green glow dimming as Growths are destroyed. Harley attempts to intervene appear midway (at half HP threshold) to bolster morale, granting the party a **+1 status bonus on Will saves and `dice: 3d8` healing** for the rest of combat.  However after providing the players with the boon she falls to her knees; her remaining strength expended.
+
+The Kyuss Growths are not mere fungus — they are _worm-nests of corruption_ that have merged with Harley’s world-tree heart.  Each growth pulses with necrotic energy, feeding both the Worm-Rotted Fey Knight and the Hollow’s infection. The heroes must destroy or purify them to prevent the Hollow’s complete collapse.
 
 > [!danger]+ The Kyuss Growths (Hazard)
 > **Level:** 6 **Complexity:** Simple (HP-based, 3 total in area)
@@ -274,54 +292,54 @@ The Worm-Rotted Fey Knight begins combat between the Growths, defending them. Ea
 > **Fort Save DC** 24
 > **HP** 40 (Hardness 10)
 > **Immunity** Mental, Visual
-> **Weakness** Positive 10, Fire 5
+> **Weakness** Vitality 10, Fire 5
 > **On Destroyed** The Growth bursts in a 10-ft. radius of acid and worm fragments (`dice: 2d6` acid damage, DC 24 Reflex half).
 > 
 > **Special:** Each active Growth grants the Fey Knight a +1 status bonus to attack and damage rolls.  Destroying a Growth removes one bonus (stacking).
 
-> [!danger]+ Environmental Corruption (Hazard)
-> At the end of each round, roll `dice: 1d4` causing one of the following random effects occurs:
+The outcome of this battle determines the fate of the Hallow's Eve realm.
+
+### **Epilogue — All Hallows Beneath the Boughs**
+
+#### If the Party Succeeds
+> [!note]+ **Read Aloud — The Hollow Restored**
+> The last worm bursts into green flame, the sound like rain falling on hot iron. The knight’s armor collapses into a heap, hollow save for the faint shimmer of fey light within. The cavern quakes, roots trembling as pale light spreads through them — first amber, then gold, then the soft orange of lantern fire reborn. The stench of rot fades. The worms crumble into ash. Above, a sigh passes through the wood, as though the entire Hollow exhales in relief. Autumn leaves swirl around Harley and she emerges, her energy and vitality restored.
+> 
+> “You’ve done it,” she whispers. “You pulled me back from the rot’s embrace. The Hollow breathes again… because of you.”
+> 
+> She waves her hand, and the air fills with drifting autumn leaves that glow like embers. “No more tricks tonight, my darlings. You’ve earned your treats.”
+
+Harley rewards each hero with a **Treat of the Hollow**, a fey blessing given in gratitude. The form depends on her whim and the hero’s demeanor — a spectral charm, a whisper of luck, a lingering boon.
+
+> [!note]+ **Read Aloud — The Farewell**
+> Harley draws a circle in the air with her gloved hand, and the roots above split open to reveal moonlight — a perfect round window looking up into a familiar sky.
+> 
+> “My Hollow will sleep for a time,” she says softly. “And so should you. Walk through that light and remember this night — not for its fear, but for its beauty.”
+> 
+> She smiles faintly, eyes gleaming like candlelight through amber glass. “Happy All Hallows, my brave little heroes.”
+> 
+> The portal’s light swells, and in the blink of an eye the grove, the pavilion, and the Hollow are gone. You stand once more beneath a familiar sky, the scent of autumn sweet instead of sour, and the faint echo of laughter drifts away on the wind.
+
+> [!tip]+ Treasure
+> Harley awards the players with [[slimers-slurp|Slimer's Slurp]], [[deaths-mantle|Death's Mantle]], [[bow-of-the-eight-legs|Bow of the Eight Legs]] and [[harleys-haunting-visage|Scroll of Harley's Haunting Visage]].
+> 
+> - [<] permanent::[[deaths-mantle|Death's Mantle]] [ilvl::7] [gp::340]
+> - [<] permanent::[[bow-of-the-eight-legs|Bow of the Eight Legs]] [ilvl::7] [gp::340]
+> - [<] consumable::[[harleys-haunting-visage|Scroll of Harley's Haunting Visage]] [ilvl::5] [gp::30]
+> - [<] consumable::[[slimers-slurp|Slimer's Slurp]] [ilvl::5] [gp::29]
+
+#### If the Party Fails
+> [!note]+ **Read Aloud — The Hollow Devoured**
+> The fey knight laughs — a low, bubbling sound as the worms pour from his armor and into the roots. The green light surges, and the cavern erupts with screams that are not your own. The tree’s heart splits open like a wound, vomiting a torrent of worms and ichor. The roots thrash and twist, dragging you backward as the Hollow itself howls in agony. Harley appears amid the chaos, her eyes wide with horror. “No! You don’t understand — if the heart dies, _I die with it!_”
+> 
+> The light consumes her. For an instant, her form flickers — beautiful and terrible — then she raises her hand in a desperate gesture, and the world tears apart.
 >
->> 1) Roots lash out (attack +18, `dice: 2d8` bludgeoning, DC 23 Reflex to avoid).
->> 2) Acidic seep erupts from the floor (5-ft. radius, `dice: 2d6` acid, DC 24 Reflex).
->> 3) Wormlight Pulse — DC 24 Fort save or [[Sickened|Sickened 1]].
->> 4) The cavern groans, causing falling debris (`dice: 2d8` bludgeoning, DC 25 Reflex half).
-
----
-
-### 🕯️ Resolution
-
-#### **Success:**
-
-> The last Growth bursts, its ooze sizzling away into pale smoke. The knight screams as his form unravels into a cloud of burning worms that turn to ash before touching the ground.
+> A deafening crack echoes through the dark. The air becomes a rushing void. The last thing you see is Harley’s outstretched hand, her voice breaking into a whisper: “Go — before the Worm takes you too!”
 > 
-> The cavern heaves as orange light seeps through the bark — the Hollow’s heart restored. The whispers fade, and Harley descends through the roots, her gown trailing starlight and shadow.
-> 
-> “You’ve done what I could not,” she says quietly. “My heart beats again… thanks to you.”
+> The ground vanishes beneath your feet. You fall through smoke, through silence, through the memory of a world unravelling. Then, suddenly, you’re lying on cold earth beneath a gray sky. The portal behind you has vanished. Only a faint ring of blackened leaves marks where it once was. The forest is silent — no laughter, no wind. Just the distant echo of something moving deep underground. What happened to Harley, or her Hollow, you cannot say. But somewhere in the distance, you swear you hear worms stirring in the soil.
 
-**Effect:** The corruption recedes. All environmental damage ends. The party can finally rest — Harley restores full vitality with fey healing light.
-
-#### **Failure:**
-
-> The knight merges with the heart-tree, and a massive worm bursts from the roots, flooding the chamber in green flame.  
-> Harley screams as she’s dragged upward by black roots — and the Hollow collapses into shadow.
-
-Campaign consequence: The Hollow becomes a permanent Kyuss-tainted zone; Harley’s future aid is lost until cleansed through another ritual.
-
----
-
-### 🧠 GM Notes
-
-- Emphasize **environmental chaos** — acid dripping, roots thrashing, green glow dimming as Growths are destroyed.
-    
-- Track Growth HP openly so players feel their progress.
-    
-- The knight’s dialogue is half madness, half reverence toward “the Worm That Reigns Beneath.”
-    
-- When the first Growth falls, he screams, _“You kill the seed, but you cannot kill the soil!”_
-    
-- Harley may appear midway (at half HP threshold) to bolster morale, granting the party a **+1 status bonus on Will saves** for the rest of combat.
-
+> [!warning]
+> **Consequences of Failure:** Harley is presumed lost or corrupted. Her domain becomes a future adventure hook — a “Fallen Hollow,” a tainted Feyrealm that might reappear later in the campaign.  The PCs carry a faint **Wormmark** — a green scar or dream whisper tying them to Kyuss’s influence.
 
 
 

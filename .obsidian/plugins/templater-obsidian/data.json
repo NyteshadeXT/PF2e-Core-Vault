@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": "z_Templates/TemplateNPC.md"
-    },
-    {
       "folder": "Tutorials/YouTube Series/Buttons/Locations",
       "template": "z_Templates/TemplateSettlement.md"
     }

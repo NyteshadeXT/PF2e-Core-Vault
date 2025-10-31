@@ -733,7 +733,7 @@ This room represents Nadroc's last attempt to dispense with unwanted tomb robber
 - [<] Trivial (60 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/Grick|Grick]] W
+ - 1: [[3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/G/Grick|Grick]] W
 
 ```encounter
 name: Alastor's Haunt

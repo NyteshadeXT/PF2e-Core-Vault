@@ -138,6 +138,8 @@ While making their way through Ardentia, the PCs find their progress blocked by 
 > [!note]+ Read Aloud
 > The intersection ahead is packed with a throng of people, straining their necks and cheering as a pair of jugglers, preceded by a large metal cage, makes its way down the cross street. The parade continues to roll past, displaying the talents of numerous street performers and various caged beasts. One large and extravagant cage on a horse-drawn wagon actually consists of two cages. The inner cage is made of iron bars, with panes of glass mounted outside the bars on all four sides. Within is a three-headed monstrosity with the heads of a goat, a lion, and a brilliant blue dragon. As the parade trundles along, the beast roars over and over as its dragon head blasts the iron cage with bolts of electricity that play along the metal bars.
 
+![[parade-of-thieves.png|left wtall]]
+
 The parade, an annual event in celebration of the coming Champion's Games, makes its way through the streets of the Ardentia City to the entertainment of all. Unfortunately, the garish event also attracts a number of thieves, who use the distracting event as cover for their larcenous ways. Any character that mingles іп the crowd to get a better look is a likely target for the pair of rogues in the crowd.
 
 As an added danger, the beast in the cage, a chimera, has ambitions beyond those of a sideshow attraction. The parade organizers did an excellent job ensuring that the chimera's breath weapon wouldn't hurt anyone on the street, and while the lightning isn't doing much damage to the glass panes, it has been slowly weakening the iron bars of the inner cage.
@@ -261,20 +263,21 @@ If the PCs are arrested, they spend the night in jail, stripped of all their gea
 Assuming [[Tarquin]] survives, he is very grateful to the party if they prove their innocence. He offers them free room and board for a month as reward. If the poor innkeeper dies as a result of the attack on his life, his son takes over the business soon after. Obviously, if the party members do not prove their innocence, they are forced to leave the fine establishment.
 
 > [!tip]+ Treasure
-> Elaxan gear consists of [[Scale Mail]], a [[Weapon Potency (+1)|+1]][[shortsword]] and currency in the amount of 4 gp and 6 sp.
+> Elaxan gear consists of [[armor-potency-1|+1]] [[Studded Leather Armor]], a [[Weapon Potency (+1)|+1]] [[striking]] [[shortsword]] and currency in the amount of 30 gp.
 > 
-> - [ ] gp::4
-> - [ ] sp::6
-> - [ ] permanent::[[Weapon Potency (+1)]] [ilvl::2] [gp::35]
+> - [ ] gp::30
+> - [ ] permanent::[[Weapon Potency (+1)|+1]] [ilvl::2] [gp::35]
+> - [ ] permanent::[[armor-potency-1|+1]] [ilvl::5] [gp::160]
+> - [ ] permanent::[[striking|striking]] [ilvl::4] [gp::65]
 
 ## Part 3: Sodden Hold
 ![[sodden-hold-map.png]]
 Down on the banks of the Selintan River, outside the city walls, a large district has been built to service the docks and waterways around [[Ardentia City]]. In among the warehouses, taverns, and shops catering to mariners is a relatively unremarkable warehouse marked "Sodden Hold" in faded green paint. This stone warehouse has a moss-covered roof and is home to à band of doppelgangers, led by Telakin and controlled by a secretive mind flayer named Zyrxog.
 
-This group of shapechangers has spent years infiltrating the government of [[Ardentia City]], from minor nobles to town guards, and it is from this warehouse and the warrens below it that they plan their insidious schemes. Tasked by their hidden master to destroy the PCs and claim their gear, the band of doppelgangers has set events into motion to draw the PCs to their hideout.
+This group of doppelgangers has spent years infiltrating the government of [[Ardentia City]], from minor nobles to town guards, and it is from this warehouse and the warrens below it that they plan their insidious schemes. Tasked by their hidden master to destroy the PCs and claim their gear, the band of doppelgangers has set events into motion to draw the PCs to their hideout.
 
 ### Warehouse Level
-Unless otherwise stated, each chamber ofthe Sodden Hold warehouse is lit with everburning torches suspended from the ceiling 3o feet above. Both the interior and exterior walls are superior masonry walls, while the doors are made of strong wood.
+Unless otherwise stated, each chamber of the Sodden Hold warehouse is lit with everburning torches suspended from the ceiling 3o feet above. Both the interior and exterior walls are superior masonry walls, while the doors are made of strong wood.
 
 #### D1. Sodden Hold
 > [!note]+ Read Aloud

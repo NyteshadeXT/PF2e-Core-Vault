@@ -47,13 +47,13 @@ armorclass:
 hp: 50
 health:
   - name: HP
-    desc: "50; __Immunities__  magic"
+    desc: "50; __Resistances__  See Wormlight Resistance"
 abilities_top:
   - name: ""
 
 abilities_mid:
   - name: "Wormlight Aura"
-    desc: " (aura,light) 15 feet.\n\nEnemies entering or starting their turn in the Lantern Husk's aura take (1d4) 1d4 persistent acid damage."
+    desc: " (aura,light) 15 feet.\n\nEnemies entering or starting their turn in the Lantern Husk's aura take (1d4) 1d4 acid damage."
 
   - name: "Wormlight Resistance"
     desc: " The Lantern Husk resists most direct magical effects, as the writhing Kyuss corruption deflects foreign magic. It gains resistance 10 to all damage from magical effects, except those that deal vitality, fire, or acid damage."

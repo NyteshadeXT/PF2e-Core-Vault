@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Abomination Vaults/Quara Orshendiel|Quara Orshendiel]]
+Granted by [[Quara Orshendiel|Quara Orshendiel]]
 
 Drow around Quara are heartened by her presence. Her drow allies in the aura gain a +1 status bonus to attack rolls and skill checks.
 

@@ -1,5 +1,5 @@
 ---
-title: ""Lucky" Lanks"
+title: "Lucky Lanks"
 obsidianUIMode: preview
 noteType: pf2eMonster
 cssClasses: pf2e
@@ -22,7 +22,7 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Pathfinder #179: Cradle of Quartz"
-name: ""Lucky" Lanks"
+name: "Lucky Lanks"
 level: "Creature 5"
 rare_03: [[Unique]]
 alignment: ""

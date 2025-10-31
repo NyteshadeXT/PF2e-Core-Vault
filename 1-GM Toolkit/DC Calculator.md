@@ -10,7 +10,7 @@ itemValue: 65
 itemType: 0
 craftProficiency: 1
 itemRarity: 0
-completionDays: 13
+completionDays: 0
 craftRoll: 1
 recallRarity: 16
 magicRarity: 0
