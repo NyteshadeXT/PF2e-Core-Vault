@@ -314,7 +314,7 @@ The elevator can handle only three more rounds of this stress.  On the third rou
 
 One round after the elevator falls, the PCs may make a [[Skills#Perception|Perception]] check to hear the skittering of thousands of insects making their way up the shaft toward them.  The DC for this check is 5 for PCs in the green lantern tunnel and 10 for PCs in the main chamber of area 7.
 
-Two rounds later, a living geyser of silverfish bursts from the shaft.  They make for the nearest PC, eagerly attempting to devour the character and move on to the next. Along with the [[Silverfish Swarm|swarms of silverfish]] emerges a [[giant silverfish]].  The silverfish swarms naturally seem to avoid the [[giant silverfish]].
+Two rounds later, a living geyser of silverfish bursts from the shaft.  They make for the nearest PC, eagerly attempting to devour the character and move on to the next. Along with the [[Silverfish Swarm|swarms of silverfish]] emerges a [[Giant Silverfish]].  The silverfish swarms naturally seem to avoid the [[Giant Silverfish]].
 
 The 60-foot shaft leading to area 15 is pitted and scarred, which makes climbing down relatively easy (DC 10 [[Skills#Acrobatics|Acrobatics]] check).
 
@@ -939,7 +939,7 @@ The PCs might discover the location of the Land remains a number of different wa
 - [<] Extreme (200 XP) Level 2
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[3-Rules/Bestiaries/Uniques/Kullen|Kullen]]
+ - 1: [[3-Rules/Bestiaries/Uniques/K/Kullen|Kullen]]
  - 1: [[Rastophan]]
  - 1: [[Todrik]]
  - 1: [[Merovinn Bask]]

@@ -423,7 +423,7 @@ The skeletons will attack until defeated.
 > Blankets cover the floor of this chamber, surrounding a wooden crate atop which stands a small, crude statue of a six armed humanoid figure. A few battered weapons, spears, clubs, and fails lean against the far wall. Stone pegs carved into the wall light this area with flickering, bright flames.
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[Cultist]] W
+ - 2: [[3-Rules/Bestiaries/NPC Core/C/Cultist]] W
 
 ```encounter
 name: Chamber of the Faithful

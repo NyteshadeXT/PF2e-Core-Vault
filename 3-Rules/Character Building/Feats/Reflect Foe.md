@@ -11,7 +11,7 @@ license: OGL
 ---
 # Reflect Foe
 ## Feat 17
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

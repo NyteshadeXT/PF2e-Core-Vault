@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "corrosive-engravings"
 aliases: "Corrosive Engravings"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "111"
 rarity: ""
 trait01: "acid"
 trait02: "grimoire"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These tin sheets are bound in brass and show significant signs of erosion. The grimoire's title is acid-etched, and flipping between the sheets leaves your fingers covered in flecks of rust and powdery metal.  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect** If your next action is to cast an acid or poison spell that deals persistent damage, any creature who takes persistent damage from the spell is also [[Conditions/Sickened|Sickened 2]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These tin sheets are bound in brass and show significant signs of erosion. The grimoire's title is acid-etched, and flipping between the sheets leaves your fingers covered in flecks of rust and powdery metal."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "If your next action is to cast an acid or poison spell that deals persistent damage, any creature who takes persistent damage from the spell is also [[Sickened|Sickened 2]] until the persistent damage ends. Using an action to retch can reduce the sickened value as normal, but it can't reduce the sickened value below 1 until the persistent damage ends."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

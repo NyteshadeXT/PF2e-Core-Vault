@@ -81,11 +81,11 @@ The journey is not without peril. The roads are not as safe as they once were, w
 | 91-95            | `encounter: 2: Tendriculos`    |
 | 96-100           | `encounter: 2: Karkadann`      | 
 
-**Dwarf Crafters:** These dwarves are carting a shipment of metal tools to [[Ardentia City]]. Each dwarf is a [[Merchant]] and carries a bag of goods. They're willing to sell their goods on the road if the buyer seems reputable, and defend themselves and their goods if attacked, but they are not soldiers and would rather be robbed than killed. 
+**Dwarf Crafters:** These dwarves are carting a shipment of metal tools to [[Ardentia City]]. Each dwarf is a [[3-Rules/Bestiaries/NPC Core/M/Merchant]] and carries a bag of goods. They're willing to sell their goods on the road if the buyer seems reputable, and defend themselves and their goods if attacked, but they are not soldiers and would rather be robbed than killed. 
 
-**Gnome Traders:** The gnomes are returning from [[Ardentia City]] after bargaining for exotic goods. They're interested in buying small gems and pieces of jewelry, and have minor alchemical items (25 gp or less) for sale. Each is a [[Merchant]]. As with the dwarves, they'll fight to protect their property but run away if they think odds are they'll be killed. 
+**Gnome Traders:** The gnomes are returning from [[Ardentia City]] after bargaining for exotic goods. They're interested in buying small gems and pieces of jewelry, and have minor alchemical items (25 gp or less) for sale. Each is a [[3-Rules/Bestiaries/NPC Core/M/Merchant]]. As with the dwarves, they'll fight to protect their property but run away if they think odds are they'll be killed. 
 
-**Halfling Farmers:** These [[Farmer]] have bags of herbs and pipeweed they're bringing to market. They don't like to trade on the road and only do so if there is a halfling PC. They run away if attacked. 
+**Halfling Farmers:** These [[3-Rules/Bestiaries/NPC Core/F/Farmer]] have bags of herbs and pipeweed they're bringing to market. They don't like to trade on the road and only do so if there is a halfling PC. They run away if attacked. 
 
 **Religious Pilgrims:** These devout worshipers of Aegis are on their way to Diamond Lake for a religious holiday. Each is a the equivalant of a [[Pilgrim]] except for the leader, who is a [[Acolyte of Pharasma|Acolyte of Aegis]]. The pilgrims subscribe to the militant doctrine of Diamond Lake's church of Aegis, and see any interaction with strangers as a chance to gain new converts. 
 
@@ -883,7 +883,7 @@ The octopins charge down the wall seeking to expose the party to their gaze, whi
 > **Advance players to level 9 following this encounter.**
 
 #### M14. Zyrxog's Private Chamber
-Behind the black column, Zyrxog maintains his private quarters, where he rests and contemplates his plans. The room contains a desk, two bookshelves full of books pertaining to [[Ardentia City]] and the areas beneath it, and a locked chest (Zyrxog carries the key). Lying open on the desk is a ledger, written in Undercommon. It details the mind flayers recent business transactions in rare and dangerous items with patrons throughout the city. The most recent lists a payment for the sale of an ancient relic listed as the Apostolic Scrolls. This transaction is between the mind flayer and [[Loris Raknian]], director of the [[Bloodstone Arena]]. Of more import to the PCs is a note that Raknian also paid Zyrxog to assassinate the PCs. Discovering Raknian's motivations and the truth behind the Apostolic Scrolls is covered in “The Champion's Belt," the next installment of the Age of Worms Adventure Path. 
+Behind the black column, Zyrxog maintains his private quarters, where he rests and contemplates his plans. The room contains a desk, two bookshelves full of books pertaining to [[Ardentia City]] and the areas beneath it, and a locked chest (Zyrxog carries the key). Lying open on the desk is a ledger, written in Undercommon. It details the mind flayers recent business transactions in rare and dangerous items with patrons throughout the city. The most recent lists a payment for the sale of an ancient relic listed as the Apostolic Scrolls. This transaction is between the mind flayer and [[3-Rules/Bestiaries/Uniques/L/Loris Raknian]], director of the [[Bloodstone Arena]]. Of more import to the PCs is a note that Raknian also paid Zyrxog to assassinate the PCs. Discovering Raknian's motivations and the truth behind the Apostolic Scrolls is covered in “The Champion's Belt," the next installment of the Age of Worms Adventure Path. 
 
 > [!tip]+ Treasure
 > Opening the chest requires a DC 25 [[Skills#Thievery|Thievery]] check. The chest contains large bags full of coins. The bags contain 950 cp, 220 sp, 100 gp, and 5 pp. А fifth bag contains loose gemstones totaling 150 gp in value.
@@ -894,6 +894,6 @@ Behind the black column, Zyrxog maintains his private quarters, where he rests a
 > - [ ] cp::950
 
 ### Concluding the Adventure
-Should the PCs fail in their mission, they are more than likely dead. Should they survive, they have undoubtedly learned that they have a powerful new enemy— [[Loris Raknian]]. As long as the PCs remain in [[Ardentia City]], they are in danger.
+Should the PCs fail in their mission, they are more than likely dead. Should they survive, they have undoubtedly learned that they have a powerful new enemy— [[3-Rules/Bestiaries/Uniques/L/Loris Raknian]]. As long as the PCs remain in [[Ardentia City]], they are in danger.
 
 A few days after the PCs defeat Zyrxog and have had a chance to rest and recuperate, but before they have a proper chance to act on the information they've learned about Raknian and his mysterious interest in their livelihood, [[Eligos]] sends them a note inviting them to his estate for dinner. The next adventure іп the Age оf Worms Adventure Path, that adventure begins with this meeting.

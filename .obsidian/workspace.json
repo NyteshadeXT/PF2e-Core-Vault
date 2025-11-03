@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Districts/Ardentia City/Isle of Learning.md",
+                "file": "3-Rules/Character Building/Equipment/C/crimson-worm-repellent.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Isle of Learning"
-            }
-          },
-          {
-            "id": "92be28f7bf66468b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/C/coronet-of-stars.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "coronet-of-stars"
+              "title": "crimson-worm-repellent"
             }
           },
           {
@@ -69,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V/Vewslog.md",
+                "file": "3-Rules/Bestiaries/Adventure Paths/Strength of Thousands/A/Abendego Brute.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vewslog"
+              "title": "Abendego Brute"
+            }
+          },
+          {
+            "id": "ee61bcb92077fa66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Rulebooks/Lost Omens_ Mwangi Expanse/S/Sié Goluo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Sié Goluo"
             }
           },
           {
@@ -83,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Elaxan.md",
-                "mode": "preview",
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Elaxan"
+              "title": "Insert Item"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 366.5
   },
   "right": {
     "id": "2a5b285256e58b6d",
@@ -303,45 +303,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "198676ae38ebd193",
+  "active": "3bce71083c6b45fd",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V/Vivielle Ramslay.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/T/The Claws of Time.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/S/Sabora Sharkosa.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/R/Repeater Crossbow Trap.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/P/Palzu.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/Y",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/W",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/V",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/T",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/S",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/R",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/M/Masu.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L/Leadsmith.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/I/I.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/H/Headless Rustler.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/P",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/O",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/M",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/G/Gilded Gunner Assassin.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/F/Falling Portcullis Trap.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/D/Daelum.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/C/Captured Dezullon.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/B/Brighite Herexen.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/A/Akrida.md",
-    "3-Rules/Bestiaries/Adventure Paths/Outlaws of Alkenstar/L/Lucky Lanks.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/W/Weakened Floor.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/V/Valerie (Level 1).md",
+    "3-Rules/Character Building/Equipment/C/crimson-tome.md",
+    "3-Rules/Character Building/Equipment/C/crimson-fulcrum-lens.md",
+    "3-Rules/Character Building/Equipment/C/crimson-brand.md",
+    "3-Rules/Character Building/Equipment/C/crimson-bluff.md",
+    "3-Rules/Character Building/Equipment/C/cresset-of-grisly-interrogation.md",
+    "3-Rules/Character Building/Equipment/C/crescent-cross.md",
+    "zz-Attachments/crescent-cross.png",
+    "3-Rules/Character Building/Equipment/C/creeping-death.md",
+    "3-Rules/Character Building/Equipment/C/crafters-eyepiece-greater.md",
+    "3-Rules/Character Building/Equipment/C/crafters-eyepiece.md",
+    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-moderate.md",
+    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-major.md",
+    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-lesser.md",
+    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-greater.md",
+    "3-Rules/Character Building/Equipment/C/coyote-cloak-greater.md",
+    "3-Rules/Character Building/Equipment/C/coyote-cloak.md",
+    "3-Rules/Character Building/Equipment/C/cowl-of-keys.md",
+    "3-Rules/Character Building/Equipment/C/covenant-tea.md",
+    "3-Rules/Character Building/Equipment/C/courtiers-pillow-book.md",
+    "zz-Attachments/covenant-tea.png",
+    "3-Rules/Character Building/Equipment/C/countering-charm-major.md",
+    "3-Rules/Character Building/Equipment/C/countering-charm-greater.md",
+    "3-Rules/Character Building/Equipment/C/countering-charm.md",
+    "3-Rules/Character Building/Equipment/C/corset-knife.md",
+    "zz-Attachments/corset-knife.png",
+    "3-Rules/Character Building/Equipment/C/corruption-cassock.md",
+    "3-Rules/Character Building/Equipment/C/corrosive-engravings.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/C/corrosive-ammunition.md",
+    "3-Rules/Bestiaries/Uniques/Z",
+    "3-Rules/Bestiaries/Uniques/T",
+    "3-Rules/Bestiaries/Uniques/S",
+    "3-Rules/Bestiaries/Uniques/R",
+    "3-Rules/Bestiaries/Uniques/M",
+    "3-Rules/Bestiaries/Uniques/L",
+    "3-Rules/Bestiaries/Uniques/K",
+    "3-Rules/Bestiaries/Uniques/I",
+    "3-Rules/Bestiaries/Uniques/H",
+    "3-Rules/Bestiaries/Uniques/G",
+    "3-Rules/Bestiaries/Standalone Adventures/Menace Under Otari/Untitled.canvas",
+    "3-Rules/Bestiaries/Pathfinder Society/Season 2/Untitled.canvas",
+    "3-Rules/Bestiaries/Battlezoo Bestiary Strange and Unusual Creatures/Untitled.canvas",
+    "3-Rules/Bestiaries/Battlezoo Bestiary/Untitled.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Kingmaker/Untitled.canvas",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/T/Talon Peak Roc.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/S/Satinder Morne.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/R/Rezatha.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/P/Paranoia Well.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/O/Old Crackjaw.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/N/Narlmarch Hunters.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/M/Murder of Crows.md",
-    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/N/Ngara.md",
     "3-Rules/Bestiaries/Adventure Paths/Kingmaker/Untitled 1.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled 1.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled.canvas",
@@ -352,9 +359,6 @@
     "zz-Attachments/deaths-mantle.png",
     "zz-Attachments/bow-of-the-eight-legs.png",
     "zz-Attachments/coral-armor.png",
-    "zz-Attachments/cooperative-waffles.png",
-    "zz-Attachments/worm-rotted-knight.png",
-    "zz-Attachments/worm-beneath-the-roots.png",
-    "zz-Attachments/pavilion-of-hallow-masks.png"
+    "zz-Attachments/cooperative-waffles.png"
   ]
 }

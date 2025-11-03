@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "corpsecaller-round"
 aliases: "Corpsecaller Round"
 source: "Pathfinder #180: The Smoking Gun"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "void"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,8 +26,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** round  **Activate** `pf2:1` Interact  * * *  This bullet is crafted entirely from obsidian and engraved with hair-thin runes. When an activated _corpsecaller round_ hits a target, the struck creature is called to the grave. It takes 4d10 void damage with a DC 25 Fortitude check saving throw.  * * *  **Critical Success** The foe is unaffected.  **Success** The foe takes half damage.  **Failure** The foe takes full damage and is [[Conditions/Doomed|Doomed 1]]. If the foe dies within the next 24 hours, its corpse is tethered to the Void, making it easier to raise as an undead. Creatures using the create undead ritual on the foe's corpse receive a +2 circumstance bonus to their primary and secondary skill checks for the ritual.  **Critical Failure** As failure, except the foe takes double damage and is [[Conditions/Doomed|Doomed 2]]."
-powerTitle1:
+activate: "`pf2:1` [[Interact]]"
+description: "This bullet is crafted entirely from obsidian and engraved with hair-thin runes. When an activated _corpsecaller round_ hits a target, the struck creature is called to the grave. It takes 4d10 void damage with a DC 25 Fortitude check saving throw.<br><br>**Critical Success** The foe is unaffected.<br>**Success** The foe takes half damage.<br>**Failure** The foe takes full damage and is [[Doomed|Doomed 1]]. If the foe dies within the next 24 hours, its corpse is tethered to the Void, making it easier to raise as an undead. Creatures using the create undead ritual on the foe's corpse receive a +2 circumstance bonus to their primary and secondary skill checks for the ritual.<br>**Critical Failure** As failure, except the foe takes double damage and is [[Doomed|Doomed 2]]."
+powerTitle1: 
 actionEconomy1:
 type1:
 frequency1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "round"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

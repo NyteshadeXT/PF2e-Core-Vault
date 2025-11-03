@@ -11,7 +11,7 @@ license: OGL
 ---
 # Redirect Attention
 ## Feat 13
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

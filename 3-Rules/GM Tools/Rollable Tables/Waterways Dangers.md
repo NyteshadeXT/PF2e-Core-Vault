@@ -10,7 +10,7 @@ tags:
 # Waterways Dangers
 | 1d100 | result |
 |------|--------|
-| 1-3 | 1d4 [[NPC Core/Bandit\|Bandits]] (Moderate 2) |
+| 1-3 | 1d4 [[3-Rules/Bestiaries/NPC Core/B/Bandit\|Bandits]] (Moderate 2) |
 | 4-7 | 1d6 [[Bestiary 2/Draugr\|Draugr]] (Moderate 3) |
 | 8-11 | 1d4 [[3-Rules/Bestiaries/Monster Core/R/River Drake\|River Drakes]] (Moderate 3) |
 | 12-15 | 1d4 [[Bestiary 2/Brood Leech Swarm\|Brood Leech Swarm]] (Moderate 4) |

@@ -17,7 +17,7 @@ tags:
 | 20-23 | 2d6 [[3-Rules/Bestiaries/Monster Core/S/Skeleton Guard\|Skeleton Guards]] (Moderate 3) |
 | 24-27 | 1 [[Bestiary 2/Baobhan Sith\|Baobhan Sith]] (Moderate 4) |
 | 28-32 | 1 [[Bestiary 2/Scythe Tree\|Scythe Tree]] (Moderate 4) |
-| 33-37 | 1d3 [[NPC Core/Necromancer\|Necromancers]] (Moderate 5) |
+| 33-37 | 1d3 [[3-Rules/Bestiaries/NPC Core/N/Necromancer\|Necromancers]] (Moderate 5) |
 | 38-42 | 2d4 [[3-Rules/Bestiaries/Monster Core/Z/Zombie Brute\|Zombie Brutes]] (Moderate 5) |
 | 43-47 | 1 [[3-Rules/Bestiaries/Monster Core/G/Greater Shadow\|Greater Shadow]] and 1 [[3-Rules/Bestiaries/Monster Core/S/Shadow\|Shadow]] (Moderate 6) |
 | 48-55 | 1d3 [[Bestiary 1/Shambler\|Shamblers]] {Moderate 6} |

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Two Truths `pf2:1`
 ## Feat 9
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

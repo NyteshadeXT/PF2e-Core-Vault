@@ -11,7 +11,7 @@ license: OGL
 ---
 # Replicate
 ## Feat 5
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

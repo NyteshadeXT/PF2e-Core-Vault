@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reflective Pocket
 ## Feat 5
-### [[extradimensional]][[reflection]]
+### [[extradimensional]][[Reflection]]
 
 **Category** ancestry; 
 

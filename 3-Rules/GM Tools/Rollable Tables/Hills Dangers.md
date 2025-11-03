@@ -21,7 +21,7 @@ tags:
 | 35-39 | 2d4 [[3-Rules/Bestiaries/Monster Core/W/Wight\|Wights]] (Moderate 6) |
 | 40-47 | 1d3 [[3-Rules/Bestiaries/Monster Core/S/Skeletal Hulk\|Skeletal Hulks]] (Moderate 7) |
 | 48-55 | 1 [[Roiling Incant (Evocation) 1\|Roiling Incant (Evocation)]] (Moderate 7) |
-| 56-63 | 1 [[NPC Core/Cult Leader\|Cult Leader]] and 1d6 [[NPC Core/Necromancer\|Necromancers]] (Moderate 8) |
+| 56-63 | 1 [[3-Rules/Bestiaries/NPC Core/C/Cult Leader\|Cult Leader]] and 1d6 [[3-Rules/Bestiaries/NPC Core/N/Necromancer\|Necromancers]] (Moderate 8) |
 | 64-71 | 1 [[Bestiary 2/Vrykolakas Master\|Vrykolakas Master]] (Moderate 8) |
 | 72-76 | 2 [[Bestiary 3/Zombie Dragon\|Zombie Dragons]] (Moderate 9) |
 | 77-81 | 1 [[3-Rules/Bestiaries/Monster Core/L/Lich\|Lich]] (Moderate 10) |

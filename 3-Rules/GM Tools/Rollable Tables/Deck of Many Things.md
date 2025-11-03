@@ -23,7 +23,7 @@ These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images 
 | 9 | Gem. Gain your choice of 25 pieces of jewelry worth 200 gp each or 50 gems worth 100 gp each. |
 | 10 | Jester. You can either draw two more cards or gain 1d10\*100 XP. The card then disappears forever. |
 | 11 | Key. Gain a magic weapon of 12th level or higher. The GM determines the item and what runes it has, if any. |
-| 12 | Knight. A [[NPC Core/Palace Guard\|Palace Guard]] arrives and swears unfailing loyalty to you. |
+| 12 | Knight. A [[3-Rules/Bestiaries/NPC Core/P/Palace Guard\|Palace Guard]] arrives and swears unfailing loyalty to you. |
 | 13 | Moon. Roll 1d4 to determine how many wishes the card grants you, which also affects the phase of the moon depicted on the card (1: crescent moon; 2: half moon; 3: gibbous moon; 4: full moon). These wishes each take one action to speak and have the effect of a [[Spells/Wish\|Wish]] spell. |
 | 14 | Rogue. One NPC ally becomes filled with hatred and immediately turns against you forever. The NPC might keep this hatred secret until an opportune moment. |
 | 15 | Ruin. You lose all your nonmagical possessions, including any wealth and property. |

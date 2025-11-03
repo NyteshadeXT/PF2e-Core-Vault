@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "corpse-compass"
 aliases: "Corpse Compass"
 source: "Pathfinder #180: The Smoking Gun"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This bone compass, made of the bones of sapient creatures that died violent deaths, is eerily effective when it comes to locating corpses. If you know you're [[Actions/Track|Tracking]] a creature that's dead, you can use the compass's idiosyncrasies to your advantage and gain a +2 item bonus to your Survival check to do so. Otherwise, it works as a normal [[Equipment/Compass|Compass]]."
+description: "This bone compass, made of the bones of sapient creatures that died violent deaths, is eerily effective when it comes to locating corpses. If you know you're [[Track|Tracking]] a creature that's dead, you can use the compass's idiosyncrasies to your advantage and gain a +2 item bonus to your Survival check to do so. Otherwise, it works as a normal [[compass]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

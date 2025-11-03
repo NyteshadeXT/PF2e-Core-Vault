@@ -24,7 +24,7 @@ Tian Xia's shining cities belie its empires' long shadow of death, darkened by t
 
 You cease aging and, regardless of your actual existential state, now register as an undead to effects that can detect undead (such as lifesense or spiritsense).
 
-In addition, you learn [[Spells/Create Undead|Create Undead]] rituals for [[Book of the Dead/Gashadokuro|Gashadokuro]], [[Book of the Dead/Provincial Jiang-shi|Jiang-shi]], and [[Lost Omens Bestiary/Shui Gui|Shui Gui]]. On a success with one of these rituals, you gain the effects of a critical success instead.
+In addition, you learn [[Spells/Create Undead|Create Undead]] rituals for [[Gashadokuro|Gashadokuro]], [[Provincial Jiang-shi|Jiang-shi]], and [[3-Rules/Bestiaries/Rulebooks/Lost Omens Bestiary/S/Shui Gui|Shui Gui]]. On a success with one of these rituals, you gain the effects of a critical success instead.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

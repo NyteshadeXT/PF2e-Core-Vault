@@ -11,7 +11,7 @@ license: OGL
 ---
 # Unyielding Disguise
 ## Feat 9
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

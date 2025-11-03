@@ -11,7 +11,7 @@ license: OGL
 ---
 # Malleable Form `pf2:1`
 ## Feat 13
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

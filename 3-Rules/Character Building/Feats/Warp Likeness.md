@@ -13,7 +13,7 @@ license: OGL
 ---
 # Warp Likeness `pf2:1`
 ## Feat 5
-### [[morph]][[occult]][[reflection]]
+### [[morph]][[occult]][[Reflection]]
 
 **Category** ancestry; 
 

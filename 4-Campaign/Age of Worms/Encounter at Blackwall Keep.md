@@ -86,15 +86,15 @@ This adventure assumes that the PCs begin in Diamond Lake. Give them time to tie
 | 91-95            | `encounter: 6: Goblin Commando`                         |
 | 96-100           | `encounter: 3: Lizardfolk Scout, 4: Lizardfolk Warrior` | 
 
-**Dwarf Crafters:** These dwarves are carting a shipment of metal tools to [[Ardentia City]]. Each dwarf is a [[Merchant]] and carries a bag of goods. They're willing to sell their goods on the road if the buyer seems reputable, and defend themselves and their goods if attacked, but they are not soldiers and would rather be robbed than killed. 
+**Dwarf Crafters:** These dwarves are carting a shipment of metal tools to [[Ardentia City]]. Each dwarf is a [[3-Rules/Bestiaries/NPC Core/M/Merchant]] and carries a bag of goods. They're willing to sell their goods on the road if the buyer seems reputable, and defend themselves and their goods if attacked, but they are not soldiers and would rather be robbed than killed. 
 
-**Gnome Traders:** The gnomes are returning from [[Ardentia City]] after bargaining for exotic goods. They're interested in buying small gems and pieces of jewelry, and have minor alchemical items (25 gp or less) for sale. Each is a [[Merchant]]. As with the dwarves, they'll fight to protect their property but run away if they think odds are they'll be killed. 
+**Gnome Traders:** The gnomes are returning from [[Ardentia City]] after bargaining for exotic goods. They're interested in buying small gems and pieces of jewelry, and have minor alchemical items (25 gp or less) for sale. Each is a [[3-Rules/Bestiaries/NPC Core/M/Merchant]]. As with the dwarves, they'll fight to protect their property but run away if they think odds are they'll be killed. 
 
-**Halfling Farmers:** These [[Farmer]] have bags of herbs and pipeweed they're bringing to market. They don't like to trade on the road and only do so if there is a halfling PC. They run away if attacked. 
+**Halfling Farmers:** These [[3-Rules/Bestiaries/NPC Core/F/Farmer]] have bags of herbs and pipeweed they're bringing to market. They don't like to trade on the road and only do so if there is a halfling PC. They run away if attacked. 
 
 **Religious Pilgrims:** These devout worshipers of Aegis are on their way to Diamond Lake for a religious holiday. Each is a the equivalant of a [[Pilgrim]] except for the leader, who is a [[Acolyte of Pharasma|Acolyte of Aegis]]. The pilgrims subscribe to the militant doctrine of Diamond Lake's church of Aegis, and see any interaction with strangers as a chance to gain new converts. 
 
-**Bandits:** These ruffians are [[3-Rules/Bestiaries/Rulebooks/NPC Gallery/Bandit|Bandit]] humans or half-orcs and are trying to collect “toll money” from people on the road. They can be cowed by a show of force or intimidation, and flee combat if their opponents appear to have any skill. 
+**Bandits:** These ruffians are [[3-Rules/Bestiaries/Rulebooks/NPC Gallery/B/Bandit|Bandit]] humans or half-orcs and are trying to collect “toll money” from people on the road. They can be cowed by a show of force or intimidation, and flee combat if their opponents appear to have any skill. 
 - [ ] low (60 XP) Level 5
 
 **Orcs:** These savage raiders only attack at night, preferably when most or all of their opponents are sleeping. They are cautious and usually do not attack well-armed or well-guarded targets unless they look wealthy. 
@@ -193,7 +193,7 @@ The soldiers normally wear leather armor but don chainmail when expecting battle
 
 If the PCs attack the lizardfolk, some of the soldiers on the balcony fire arrows at the reptiles if they have clear shots but overall try not to draw javelin fire from the lizardfolk. 
 
-[[Guard|Blackwall Keep Soldier]] (14) 
+[[3-Rules/Bestiaries/NPC Core/G/Guard|Blackwall Keep Soldier]] (14) 
 ```encounter
 name: Blackwall Keep Soldiers
 party: Age of Worms

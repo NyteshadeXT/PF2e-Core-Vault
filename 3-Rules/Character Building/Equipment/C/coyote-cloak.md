@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "coyote-cloak"
 aliases: "Coyote Cloak"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "287"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This dusty coat is made of mangy brown-and-gray coyote fur. You gain a +1 item bonus to Survival checks. If you critically succeed at your Survival check to Subsist, you can feed twice as many additional creatures."
+description: "This dusty coat is made of mangy brown-and-gray coyote fur. You gain a +1 item bonus to [[Skills#Survival|Survival]] checks. If you critically succeed at your Survival check to [[Subsist]], you can feed twice as many additional creatures."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

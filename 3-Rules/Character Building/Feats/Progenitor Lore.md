@@ -11,7 +11,7 @@ license: OGL
 ---
 # Progenitor Lore
 ## Feat 1
-### [[reflection]]
+### [[Reflection]]
 
 **Category** ancestry; 
 

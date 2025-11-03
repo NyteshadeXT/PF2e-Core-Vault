@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "corrosive-(greater)"
 aliases: "Corrosive (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "237"
 rarity: ""
 trait01: "acid"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "Acid sizzles across the surface of the weapon. When you hit with the weapon, add 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target's armor (if any) takes 6d6 acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead.  The acid damage dealt by this weapon ignores the target's acid resistance."
+description: "Acid sizzles across the surface of the weapon. When you hit with the weapon, add `dice: 1d6` 1d6 acid damage to the damage dealt. In addition, on a critical hit, the target's armor (if any) takes `dice: 6d6` 6d6 acid damage (before applying Hardness); if the target has a shield raised, the shield takes this damage instead.  The acid damage dealt by this weapon ignores the target's acid resistance."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

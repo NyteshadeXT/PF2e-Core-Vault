@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "corpseward-pendant"
 aliases: "Corpseward Pendant"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "153"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "A _corpseward pendant_ is usually shaped like the skull of a humanoid or small animal.  **Activate** `pf2:1` Interact  **Frequency** once per hour  * * *  **Effect** You become undetectable to undead creatures for 10 minutes. Undead can't see, hear, or smell you, nor detect you with sensory capabilities such as tremorsense. A creature can attempt a single DC 18 Will check saving throw to ignore this effect. If an undead has reason to believe that undetected opponents are present, it can still attempt to Seek or Strike you. If you attempt to use a vitality spell to damage undead, use [[Feats/Command Undead|Command Undead]], touch or damage an undead creature, or attack any creature while warded in this manner, the pendant's effects immediately end. An undead creature who observes you in this manner or one who succeeds at the Will save is immune to the _corpseward pendant_ for 24 hours."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "A _corpseward pendant_ is usually shaped like the skull of a humanoid or small animal."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[interact]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You become undetectable to undead creatures for 10 minutes. Undead can't see, hear, or smell you, nor detect you with sensory capabilities such as tremorsense. A creature can attempt a single DC 18 Will check saving throw to ignore this effect. If an undead has reason to believe that undetected opponents are present, it can still attempt to Seek or Strike you. If you attempt to use a vitality spell to damage undead, use [[Command Undead]], touch or damage an undead creature, or attack any creature while warded in this manner, the pendant's effects immediately end. An undead creature who observes you in this manner or one who succeeds at the Will save is immune to the _corpseward pendant_ for 24 hours."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

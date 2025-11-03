@@ -12,7 +12,7 @@ license: OGL
 ---
 # Clone-Risen
 ## Feat 1
-### [[lineage]][[reflection]]
+### [[lineage]][[Reflection]]
 
 **Category** ancestry; 
 

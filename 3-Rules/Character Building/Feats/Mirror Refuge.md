@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mirror Refuge `pf2:2`
 ## Feat 9
-### [[extradimensional]][[occult]][[reflection]]
+### [[extradimensional]][[occult]][[Reflection]]
 
 **Category** ancestry; 
 
