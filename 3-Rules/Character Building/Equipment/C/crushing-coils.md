@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "crushing-coils"
 aliases: "Crushing Coils"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "191"
+rarity: "rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[Conditions/Restrained|Restrained]] for 1 round.  **Activate** `pf2:1` command, Interact  * * *  **Effect** The armor wraps around you, allowing you to don it by the time the activation finishes."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Made from constrictor snakeskin, the strips of this _[[armor-potency-1|+1]] [[leather armor]]_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[Restrained]] for 1 round."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[command]], [[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The armor wraps around you, allowing you to don it by the time the activation finishes."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,13 +57,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 1
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
+dexCap: 4
+strRequirement: 0
+checkPenalty: "-1"
 speedPenalty:
-armorCategory:
+armorCategory: "Leather"
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +72,11 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Leather Armor"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

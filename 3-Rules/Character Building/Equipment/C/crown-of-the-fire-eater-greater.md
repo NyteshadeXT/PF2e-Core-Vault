@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "cultist-cowl-(greater)"
-aliases: "Cultist Cowl (Greater)"
-source: "Pathfinder #200: Seven Dooms for Sandpoint"
-pg: ""
-rarity: ""
-trait01: "divine"
+name: "crown-of-the-fire-eater-greater"
+aliases: "Crown of the Fire Eater (Greater)"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "110"
+rarity: "uncommon"
+trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 12
 weight: 
-value: "650"
+value: "2000"
 subvalue: "gp"
 invest:
-usage: "worncloak"
+usage: "worn"
 license: "ORC"
 identify:
-description: "The fabric of a _cultist cowl_ is either raspy burlap, durable cotton, or fine silk, depending on the item's power (and thus the implied import of the worshipper who wears it). When a character who worships a single deity dons a _cultist cowl_, the cowl's colors change to match those sacred to that deity, and the deity's symbol or rune appears on the lower front of the cowl that hangs just over the chest. These colors and symbols remain until a different worshipper wears the cowl. While worn, you gain a +2 item bonus to Religion checks. You also gain a +2 item bonus to all skill checks attempted to aid a ritual by being a secondary caster.  **Activate** `pf2:2` envision, command  **Frequency** once per hour  * * *  **Effect** The cowl casts [[Spells/Crisis of Faith|Crisis of Faith]] (DC 25 Will check) to your specification."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "A wreath of flames dances around the rim of this golden crown. You gain resistance 10 to fire."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[command]])"
+frequency1: "once per day"
+trigger1: "You take fire damage"
+mechanics1: "You absorb some of the flame that would harm you. Increase your fire resistance from the crown from 10 to 25. Just after taking any remaining fire damage, you regain a number of Hit Points equal to 25 or the fire damage dealt by the triggering attack before damage resistance, whichever is less."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

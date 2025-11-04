@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "crystal-ball-(clear-quartz)"
-aliases: "Crystal Ball (Clear Quartz)"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "scrying"
-trait03: "uncommon"
+name: "cryomister-lesser"
+aliases: "Cryomister (Lesser)"
+source: "Pathfinder Guns & Gears"
+pg: "68"
+rarity: "uncommon"
+trait01: "cold"
+trait02: "consumable"
+trait03: "gadget"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
+level: 1
 weight: L
-value: "3800"
+value: "3"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the scrying trait that was cast by the _crystal ball_ appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a spell with the scrying trait by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.  The base version of a crystal ball is a sphere of clear quartz, but other versions are made of different stones.  * * *  **Activate—Clairvoyance** 1 minute (concentrate, manipulate)  **Frequency** once per hour  * * *  **Effect** The _crystal ball_ casts [[Spells/Clairvoyance|Clairvoyance]] to your specifications.  * * *  **Activate—Scrying** 10 minutes (concentrate, manipulate)  **Frequency** twice per day  * * *  **Effect** The _crystal ball_ casts a DC 33 Will check [[Spells/Scrying|Scrying]] spell to your specifications."
+activate: "`pf2:1` ([[manipulate]])"
+description: When you Activate a cryomister, you can either place it in an adjacent square or toss it up to 20 feet away. Once you've done so, the metallic device instantly disperses a heavy mist, settling quickly on nearby flat surfaces and forming a sheet of ice. The cryomister creates a 5-foot burst, making the affected area difficult terrain for 1 minute; at the GM's discretion, however, this duration might be reduced in unusually hot conditions or increased in unusually cold ones. If an affected square takes fire damage, the difficult terrain is removed. Though not designed as a weapon, the cryomister's rapidly cooling mist deals 1 cold splash damage to creatures in the area on activation. Creatures attempting to move through the affected area can attempt a DC 17 [[Skills#Acrobatics|Acrobatics]] check to ignore the difficult terrain and move at their normal Speed. Throwing the cryomister onto the surface of a liquid creates a floating piece of ice for the same duration, capable of supporting one or more medium creatures."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

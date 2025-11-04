@@ -16,10 +16,11 @@ tags:
 aliases: "Compendium.pf2e.spells-srd.Item.w7BHU5rk5JKuIRCe" 
 license: ORC
 ---
+
 ```statblock
 name: "500 Toads  `pf2:2`"
 level: "Spell 1"
-rare_03: [[Rare]]
+rare_01: [[Rare]]
 trait_01: [[concentrate]]
 trait_02: [[manipulate]]
 layout: Basic Pathfinder 2e Layout

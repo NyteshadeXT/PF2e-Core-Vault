@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "cursed-immaculate-instrument"
 aliases: "Cursed Immaculate Instrument"
 source: "Pathfinder War of Immortals"
-pg: ""
-rarity: ""
+pg: "203"
+rarity: "rare"
 trait01: "artifact"
 trait02: "cursed"
 trait03: "divine"
 trait04: "mythic"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This [[Equipment/Immaculate Instrument|Immaculate Instrument]] has been cursed by the sublime breath it was taken from, causing it to warp, rust, or tarnish, though the holder of the instrument cannot perceive this and rationalizes away any attempt to explain the instrument's obviously cursed nature. Whenever the _cursed immaculate instrument_ is used to produce a work, the holder must succeed on a DC 16 Flat check or the work fails, leaving the holder frustrated and raising the DC of subsequent flat checks by 1. When the DC reaches 20, the work fails as normal, but the holder continues to attempt it fruitlessly to the exclusion of all other activities, including eating, drinking, and sleep, until they expire or the curse is broken."
+description: "This [[immaculate-instrument|Immaculate Instrument]] has been cursed by the sublime breath it was taken from, causing it to warp, rust, or tarnish, though the holder of the instrument cannot perceive this and rationalizes away any attempt to explain the instrument's obviously cursed nature. Whenever the _cursed immaculate instrument_ is used to produce a work, the holder must succeed on a DC 16 Flat check or the work fails, leaving the holder frustrated and raising the DC of subsequent flat checks by 1. When the DC reaches 20, the work fails as normal, but the holder continues to attempt it fruitlessly to the exclusion of all other activities, including eating, drinking, and sleep, until they expire or the curse is broken."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

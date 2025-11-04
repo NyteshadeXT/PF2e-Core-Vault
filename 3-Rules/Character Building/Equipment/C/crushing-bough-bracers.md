@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "crushing-bough-bracers"
 aliases: "Crushing Bough Bracers"
 source: "Pathfinder #203: Shepherd of Decay"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/crushing-bough-bracers.png
 level: 13
 weight: L
 value: "2500"
@@ -26,7 +26,7 @@ invest:
 usage: "wornbracers"
 license: "ORC"
 identify:
-description: "Carved from the heartwood of some impossibly large tree on the Plane of Wood or First World, _crushing bough bracers_ enable wearers to cling to and shape plant material with ease. The pine cone designs appear to open and bare their seeds when the bracers are in especially verdant areas.  The bracers grant you a 20-foot climb Speed while climbing plants or fungi. Your Strikes deal damage to fungus, plant, and wood creatures as though their resistances were 5 lower (minimum 0). In addition, the bracers allow you to cast [[Spells/Timber|Timber]] as an innate primal cantrip. When you cast _timber_ on a plane with the wood planar essence trait (or a supernaturally verdant area, at the GM's discretion), you can modify the spell in one of the following two ways: increase the spell's area to 20 feet, to 25 feet if your proficiency rank for spell attack modifier and spell DC is expert, or to 30 feet if your proficiency is legendary; or increase the cantrip's damage die size to d6."
+description: "Carved from the heartwood of some impossibly large tree on the Plane of Wood or First World, _crushing bough bracers_ enable wearers to cling to and shape plant material with ease. The pine cone designs appear to open and bare their seeds when the bracers are in especially verdant areas.<br><br>The bracers grant you a 20-foot climb Speed while climbing plants or fungi. Your Strikes deal damage to fungus, plant, and wood creatures as though their resistances were 5 lower (minimum 0). In addition, the bracers allow you to cast [[Timber]] as an innate primal cantrip. When you cast _timber_ on a plane with the wood planar essence trait (or a supernaturally verdant area, at the GM's discretion), you can modify the spell in one of the following two ways: increase the spell's area to 20 feet, to 25 feet if your proficiency rank for spell attack modifier and spell DC is expert, or to 30 feet if your proficiency is legendary; or increase the cantrip's damage die size to d6."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

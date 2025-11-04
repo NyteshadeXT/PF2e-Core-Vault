@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "crushing-(greater)"
-aliases: "Crushing (Greater)"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+name: "crystal-shards-moderate"
+aliases: "Crystal Shards (Moderate)"
+source: "Pathfinder Player Core 2"
+pg: "284"
 rarity: ""
-trait01: "magical"
-trait02: "uncommon"
-trait03: ""
-trait04: ""
-trait05: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "earth"
+trait05: "splash"
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: 
-value: "650"
+image: zz-Attachments/crystal-shards.png
+level: 4
+weight: L
+value: "16"
 subvalue: "gp"
 invest:
-usage: "etched onto bludgeoning weapon"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.  [[Equipment Effects/Effect_ Crushing (Greater)|Effect: Crushing (Greater)]]"
+activate: "`pf2:1` [[Strike]]"
+description: "This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. You gain a +1 item bonus to attack rolls. When the bomb explodes, it deals `dice: 2d4` piercing damage and 4 piercing splash damage as the mixture suddenly turns into solid crystals flying at high speeds.  On a hit, the target takes 1 persistent bleed damage from the crystals embedded in its flesh. As long as the bleed damage persists, the target also takes a –5-foot penalty to its speed. The target can spend an Interact action to remove the crystals, reducing the DC to stop the bleeding."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 2d4 piercing
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

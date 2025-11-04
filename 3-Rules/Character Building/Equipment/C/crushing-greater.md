@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "crystal-ball-(peridot)"
-aliases: "Crystal Ball (Peridot)"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+name: "crushing-greater"
+aliases: "Crushing (Greater)"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "42"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "scrying"
-trait03: "uncommon"
+trait02: ""
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
-weight: L
-value: "12500"
+level: 9
+weight: 
+value: "650"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "etched onto bludgeoning weapon"
 license: "ORC"
 identify:
-description: "This polished crystal sphere enhances scrying magic. Any visual information received through a spell with the scrying trait that was cast by the _crystal ball_ appears within the sphere, and any auditory information sounds out from the surface of the sphere. When you cast a spell with the scrying trait by any other means while holding the sphere, you can relay any information you receive in the same way, allowing others to see or hear the target.  * * *  **Activate—Clairvoyance** 1 minute (concentrate, manipulate)  **Frequency** once per hour  * * *  **Effect** The _crystal ball_ casts [[Spells/Clairvoyance|Clairvoyance]] to your specifications.  * * *  **Activate—Scrying** 10 minutes (concentrate, manipulate)  **Frequency** twice per day  * * *  **Effect** The _crystal ball_ casts a DC 39 Will check [[Spells/Scrying|Scrying]] spell to your specifications, with the benefits of [[Spells/Telepathy|Telepathy]] for communicating with the target."
+description: "Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Clumsy|Clumsy 2]] and [[Enfeebled|Enfeebled 2]] until the end of your next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

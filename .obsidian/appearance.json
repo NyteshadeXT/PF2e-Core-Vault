@@ -3,15 +3,16 @@
   "cssTheme": "ITS Theme",
   "theme": "moonstone",
   "enabledCssSnippets": [
-    "supercharged-links-gen",
     "Internal-Links",
-    "pf2-compendium",
-    "pf2e-battlezoo",
+    "image-float",
+    "supercharged-links-gen",
     "S - Encoded Fonts",
     "pf2e-statblock",
-    "image-float",
     "pf2e-items",
+    "pf2e-battlezoo",
+    "pf2-compendium",
     "HoverProperties_-_Columns",
+    "pf2e-traits",
     "pf2e-spell"
   ],
   "baseFontSize": 16

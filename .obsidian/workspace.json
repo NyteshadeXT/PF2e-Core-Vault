@@ -13,68 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Session Journals/Age-of-Worms/AoW Session 021.md",
+                "file": "3-Rules/Character Building/Spells/A/Ancestral Memories.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AoW Session 021"
-            }
-          },
-          {
-            "id": "3bce71083c6b45fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/C/crimson-worm-repellent.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "crimson-worm-repellent"
-            }
-          },
-          {
-            "id": "6bd69ed422c784e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-            "id": "3502321e0ecc2228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Adventure Paths/Strength of Thousands/A/Abendego Brute.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Abendego Brute"
-            }
-          },
-          {
-            "id": "ee61bcb92077fa66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Rulebooks/Lost Omens_ Mwangi Expanse/S/Sié Goluo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Sié Goluo"
+              "title": "Ancestral Memories"
             }
           },
           {
@@ -91,8 +35,7 @@
               "title": "Insert Item"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,37 +246,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3bce71083c6b45fd",
+  "active": "e7137664019936b0",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/C/crimson-tome.md",
-    "3-Rules/Character Building/Equipment/C/crimson-fulcrum-lens.md",
-    "3-Rules/Character Building/Equipment/C/crimson-brand.md",
-    "3-Rules/Character Building/Equipment/C/crimson-bluff.md",
-    "3-Rules/Character Building/Equipment/C/cresset-of-grisly-interrogation.md",
-    "3-Rules/Character Building/Equipment/C/crescent-cross.md",
-    "zz-Attachments/crescent-cross.png",
-    "3-Rules/Character Building/Equipment/C/creeping-death.md",
-    "3-Rules/Character Building/Equipment/C/crafters-eyepiece-greater.md",
-    "3-Rules/Character Building/Equipment/C/crafters-eyepiece.md",
-    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-moderate.md",
-    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-major.md",
-    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-lesser.md",
-    "3-Rules/Character Building/Equipment/C/crackling-bubble-gum-greater.md",
-    "3-Rules/Character Building/Equipment/C/coyote-cloak-greater.md",
-    "3-Rules/Character Building/Equipment/C/coyote-cloak.md",
-    "3-Rules/Character Building/Equipment/C/cowl-of-keys.md",
-    "3-Rules/Character Building/Equipment/C/covenant-tea.md",
-    "3-Rules/Character Building/Equipment/C/courtiers-pillow-book.md",
-    "zz-Attachments/covenant-tea.png",
-    "3-Rules/Character Building/Equipment/C/countering-charm-major.md",
-    "3-Rules/Character Building/Equipment/C/countering-charm-greater.md",
-    "3-Rules/Character Building/Equipment/C/countering-charm.md",
-    "3-Rules/Character Building/Equipment/C/corset-knife.md",
-    "zz-Attachments/corset-knife.png",
-    "3-Rules/Character Building/Equipment/C/corruption-cassock.md",
-    "3-Rules/Character Building/Equipment/C/corrosive-engravings.md",
+    "3-Rules/Character Building/Spells/#/500 Toads.md",
+    "3-Rules/Character Building/Spells/A/Ancestral Memories.md",
+    "3-Rules/Bestiaries/Adventure Paths/Strength of Thousands/A/Abendego Brute.md",
+    "3-Rules/Character Building/Spells/A/Aberrant Form.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/C/corrosive-ammunition.md",
+    "3-Rules/Bestiaries/Homebrew/D/dolgrim.md",
+    "3-Rules/Character Building/Spells/A/Aberrant Whispers.md",
+    "3-Rules/Bestiaries/Rulebooks/Lost Omens_ Mwangi Expanse/S/Sié Goluo.md",
+    "3-Rules/Character Building/Spells/A/Allegro.md",
+    "3-Rules/Character Building/Spells/A/Air Walk.md",
+    "3-Rules/Character Building/Spells/A/Adaptive Ablation.md",
+    "3-Rules/Character Building/Spells/A/Acid Storm.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Character Building/Spells/#/Test.md",
+    "3-Rules/Character Building/Spells/A/Abundant Step.md",
+    "3-Rules/Character Building/Spells/A/Abyssal Pact.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/C/cytillesh-oil.md",
+    "3-Rules/Character Building/Equipment/C/Cytillesh.md",
+    "3-Rules/Character Building/Equipment/C/cythbikian-staff.md",
+    "zz-Attachments/cythbikian-staff.png",
+    "3-Rules/Character Building/Equipment/C/curtain-call-cloak.md",
+    "3-Rules/Character Building/Equipment/C/cursed-immaculate-instrument.md",
+    "3-Rules/Character Building/Equipment/C/cursed-dreamstone.md",
+    "3-Rules/Character Building/Equipment/C/cube-of-force.md",
+    "3-Rules/Character Building/Equipment/C/cursebreak-bulwark.md",
+    "3-Rules/Character Building/Equipment/C/cube-of-nex.md",
+    "zz-Attachments/curious-teardrop.png",
+    "zz-Attachments/crystal-shards.png",
+    "zz-Attachments/crystal-ball.png",
+    "zz-Attachments/cruuk.png",
+    "zz-Attachments/crushing-bough-bracers.png",
+    "zz-Attachments/crescent-cross.png",
+    "zz-Attachments/covenant-tea.png",
+    "zz-Attachments/corset-knife.png",
     "3-Rules/Bestiaries/Uniques/Z",
     "3-Rules/Bestiaries/Uniques/T",
     "3-Rules/Bestiaries/Uniques/S",
@@ -353,12 +302,6 @@
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled 1.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Extinction Curse/Untitled.canvas",
-    "zz-Attachments/parade-of-thieves.png",
-    "zz-Attachments/The Pumpkin Queen.png",
-    "zz-Attachments/slimers-slurp.png",
-    "zz-Attachments/deaths-mantle.png",
-    "zz-Attachments/bow-of-the-eight-legs.png",
-    "zz-Attachments/coral-armor.png",
-    "zz-Attachments/cooperative-waffles.png"
+    "zz-Attachments/parade-of-thieves.png"
   ]
 }

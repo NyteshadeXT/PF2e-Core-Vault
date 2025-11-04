@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "cursed-dreamstone"
 aliases: "Cursed Dreamstone"
 source: "Pathfinder #147: Tomorrow Must Burn"
-pg: ""
-rarity: ""
+pg: "71"
+rarity: "rare"
 trait01: "cursed"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _dreamstone_ can become cursed if left exposed to creatures that corrupt sleep, generate nightmares, or otherwise prey on sleeping or dreaming victims via supernatural methods. A _cursed dreamstone_ seems to function as a normal _dreamstone_ until the bearer falls asleep or is forced to attempt a saving throw against a sleep effect. At this point, the person carrying the cursed _dreamstone_ must attempt a DC 26 Will check save to resist the curse's effects.  * * *  **Critical Success** The character resists the curse entirely and experiences a vivid dream while sleeping that warns them of the nature of the _cursed dreamstone_.  **Success** The character resists the curse.  **Failure** As long as the cursed character possesses the stone, they are fatigued whenever they wake from sleep, whether natural or magically induced, and they take a -2 item penalty to all saving throws against sleep effects instead of gaining the normal bonus from a _dreamstone_.  **Critical Failure** As failure, and whenever the bearer attempts a saving throw against a sleep effect, they get the outcome that is one degree worse than the result of their saving throw."
+description: "A _dreamstone_ can become cursed if left exposed to creatures that corrupt sleep, generate nightmares, or otherwise prey on sleeping or dreaming victims via supernatural methods. A _cursed dreamstone_ seems to function as a normal _dreamstone_ until the bearer falls asleep or is forced to attempt a saving throw against a sleep effect. At this point, the person carrying the cursed _dreamstone_ must attempt a DC 26 Will check save to resist the curse's effects.<br><br>**Critical Success** The character resists the curse entirely and experiences a vivid dream while sleeping that warns them of the nature of the _cursed dreamstone_.<br>  **Success** The character resists the curse.<br>**Failure** As long as the cursed character possesses the stone, they are fatigued whenever they wake from sleep, whether natural or magically induced, and they take a -2 item penalty to all saving throws against sleep effects instead of gaining the normal bonus from a _dreamstone_.<br>**Critical Failure** As failure, and whenever the bearer attempts a saving throw against a sleep effect, they get the outcome that is one degree worse than the result of their saving throw."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
