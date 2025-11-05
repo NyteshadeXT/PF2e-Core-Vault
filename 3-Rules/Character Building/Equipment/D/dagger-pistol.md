@@ -7,32 +7,33 @@ notetype: pf2e-item
 name: "dagger-pistol"
 aliases: "Dagger Pistol"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "159"
+rarity: "uncommon"
 trait01: "combination"
 trait02: "concussive"
 trait03: "fatal-d8"
-trait04: "uncommon"
-trait05: ""
-trait06: ""
-trait07: ""
-trait08: ""
+trait04: "agile"
+trait05: "critical fusion"
+trait06: "finesse"
+trait07: "thrown 10ft."
+trait08: "versatile s"
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
 weight: L
 value: "8"
 subvalue: "gp"
 invest:
+group: "Firearm/Knife"
 usage: "held in one hand "
 license: "ORC"
 identify:
 description: "This weapon, favored by rangers and other wilderness wanderers, takes the form of a stoutly built pistol with a dagger blade attached beneath the barrel and extending out past the muzzle."
-powerTitle1:
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The target must succeed at a Fortitude save against your class DC or be [[Stunned|stunned 1]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,14 +46,14 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 30 ft
-ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
-dmg2:
-dmg2Type:
-weaponType:
-weaponCategory:
+ammoType: "Firearm Ammunition (10 rounds)"
+damage:  
+dmg1: 1d4
+dmg1Type: piercing
+dmg2: 1d4
+dmg2Type: piercing
+weaponType: Ranged/Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Dagger Pistol"
+SORT level ASC
+
+```
