@@ -4,18 +4,12 @@ title: "Broken"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/
+  - condition
   - remaster
 aliases: "Compendium.pf2e.conditionitems.Item.6dNUvdb1dhToNDj3"
 license: ORC
 ---
 # Broken
-
-### 
-
-
-
-
-
 
 Broken is a condition that affects only objects. An object is broken when damage has reduced its Hit Points to equal or less than its Broken Threshold. A broken object can't be used for its normal function, nor does it grant bonuses—with the exception of armor. Broken armor still grants its item bonus to AC, but it also imparts a status penalty to AC depending on its category: –1 for broken light armor, –2 for broken medium armor, or –3 for broken heavy armor.
 

@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/Daikyu.md",
+                "file": "3-Rules/Character Building/Spells/A/Ancestral Memories.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Daikyu"
+              "title": "Ancestral Memories"
+            }
+          },
+          {
+            "id": "71aef202ef15a2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/Deities/Lysandra.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lysandra"
+            }
+          },
+          {
+            "id": "f36016aa74a70f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/D/daikyu.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "daikyu"
             }
           },
           {
@@ -27,15 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
+                "file": "1-GM Toolkit/ToDo List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "ToDo List"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 364.5
   },
   "right": {
     "id": "2a5b285256e58b6d",
@@ -246,34 +275,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7137664019936b0",
+  "active": "76837705573d72a3",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/D/dagger-pistol.md",
-    "3-Rules/Character Building/Equipment/D/dagger-of-eternal-sleep.md",
-    "3-Rules/Character Building/Equipment/D/dagger.md",
-    "3-Rules/Character Building/Equipment/D/Dweomerveil.md",
-    "3-Rules/Character Building/Equipment/D/Dwarven Daisy (Lesser).md",
-    "3-Rules/Character Building/Equipment/D/Dust Goggles.md",
-    "3-Rules/Character Building/Equipment/D/Durian Bomb (Greater).md",
-    "3-Rules/Character Building/Equipment/D/Dueling Pistol.md",
-    "3-Rules/Character Building/Equipment/D/Dueling Cape.md",
-    "3-Rules/Character Building/Equipment/D/Drums of War.md",
-    "3-Rules/Character Building/Equipment/D/Dream Lens.md",
-    "3-Rules/Character Building/Equipment/D/Dread (Greater).md",
-    "3-Rules/Character Building/Equipment/D/Drakeheart Mutagen (Greater).md",
-    "3-Rules/Character Building/Equipment/D/Drake Rifle (Acid).md",
-    "3-Rules/Character Building/Equipment/D/Dragontooth Club.md",
-    "3-Rules/Character Building/Equipment/D/Dragonscale Amulet.md",
-    "3-Rules/Character Building/Equipment/D/Dragonprism Staff.md",
-    "3-Rules/Character Building/Equipment/D/Dragonfly Fulu.md",
-    "3-Rules/Character Building/Equipment/D/Dragon's Crest.md",
-    "3-Rules/Character Building/Equipment/D/Dragon's Blood Pudding.md",
-    "3-Rules/Character Building/Equipment/D/Dragon Rune Bracelet.md",
-    "3-Rules/Character Building/Equipment/D/Dragon Bile.md",
-    "3-Rules/Character Building/Equipment/D/draconal-mask.md",
-    "3-Rules/Character Building/Equipment/D/Dr. Ushernacht's Astonishing Ink (Major).md",
-    "3-Rules/Character Building/Equipment/D/Doubling Rings.md",
-    "3-Rules/Character Building/Equipment/D/Double-Barreled Musket.md",
+    "3-Rules/Effects/Conditions/Wounded.md",
+    "3-Rules/Effects/Conditions/Unnoticed.md",
+    "3-Rules/Effects/Conditions/Unfriendly.md",
+    "3-Rules/Effects/Conditions/Undetected.md",
+    "3-Rules/Effects/Conditions/Unconscious.md",
+    "3-Rules/Effects/Conditions/Stupefied 1.md",
+    "3-Rules/Effects/Conditions/Stupefied.md",
+    "3-Rules/Effects/Conditions/Stunned 1.md",
+    "3-Rules/Effects/Conditions/Stunned.md",
+    "3-Rules/Effects/Conditions/Slowed.md",
+    "3-Rules/Effects/Conditions/Slowed 1.md",
+    "3-Rules/Effects/Conditions/Sickened.md",
+    "3-Rules/Effects/Conditions/Restrained.md",
+    "3-Rules/Effects/Conditions/Quickened.md",
+    "3-Rules/Effects/Conditions/Prone.md",
+    "3-Rules/Effects/Conditions/Petrified.md",
+    "3-Rules/Effects/Conditions/Persistent Damage.md",
+    "3-Rules/Effects/Conditions/Paralyzed.md",
+    "3-Rules/Effects/Conditions/Off-Guard.md",
+    "3-Rules/Effects/Conditions/Observed.md",
+    "3-Rules/Effects/Conditions/Invisible.md",
+    "3-Rules/Effects/Conditions/Indifferent.md",
+    "3-Rules/Effects/Conditions/Immobilized.md",
+    "3-Rules/Effects/Conditions/Hostile.md",
+    "3-Rules/Effects/Conditions/Hidden.md",
+    "3-Rules/Effects/Conditions/Helpful.md",
     "zz-Attachments/cythbikian-staff.png",
     "zz-Attachments/curious-teardrop.png",
     "zz-Attachments/crystal-shards.png",

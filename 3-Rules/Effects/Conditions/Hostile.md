@@ -4,20 +4,15 @@ title: "Hostile"
 cssclasses: pf2e,pf2e-action
 tags:
   - trait/
+  - condition
   - remaster
 aliases: "Compendium.pf2e.conditionitems.Item.ud7gTLwPeklzYSXG"
 license: ORC
 ---
 # Hostile
-
-### 
-
 **Group** attitudes
 
-
-
-
-This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose on a PC. A creature hostile to a character actively seeks to harm that character. It doesn't necessarily attack, but it won't accept [[Actions/Request|Requests]] from the character.
+This condition reflects a creature's disposition toward a particular character, and only supernatural effects (like a spell) can impose on a PC. A creature hostile to a character actively seeks to harm that character. It doesn't necessarily attack, but it won't accept [[Request|Requests]] from the character.
 
 *Source: Pathfinder Player Core*
 *ORC*
