@@ -25,9 +25,9 @@ You can mix ingredients with a powerful sour smell into an alchemical bomb to ma
 
 **Success** The creature is unaffected beyond a strong craving for pickles.
 
-**Failure** The creature is [[Conditions/Sickened|Sickened 1]].
+**Failure** The creature is [[Sickened|Sickened 1]].
 
-**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]], and [[Conditions/Fleeing|Fleeing]] for 1 round from the smell.
+**Critical Failure** The creature is [[Sickened|Sickened 2]], and [[Fleeing|Fleeing]] for 1 round from the smell.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

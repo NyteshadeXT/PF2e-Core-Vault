@@ -23,7 +23,7 @@ As your spell strikes a target, you plant a beacon in the target's mind that ann
 
 * * *
 
-**Amp** Choose one creature hit by the spell (if the spell has a spell attack roll) or that fails its save against the spell (if the spell requires a save). A psychic beacon emits from the creature's location, making it easier to notice the creature as the mind and attention of onlookers is subtly drawn to it. For 1 minute, if the target would be [[Conditions/Invisible|Invisible]], it's instead merely [[Conditions/Concealed|Concealed]], and if it would be concealed, it's no longer concealed.
+**Amp** Choose one creature hit by the spell (if the spell has a spell attack roll) or that fails its save against the spell (if the spell requires a save). A psychic beacon emits from the creature's location, making it easier to notice the creature as the mind and attention of onlookers is subtly drawn to it. For 1 minute, if the target would be [[Invisible|Invisible]], it's instead merely [[3-Rules/Conditions/Concealed|Concealed]], and if it would be concealed, it's no longer concealed.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

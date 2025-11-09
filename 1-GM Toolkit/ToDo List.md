@@ -14,6 +14,7 @@ tags:
 	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
 	- [ ] Add Cold Iron Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Cold Iron Chunk and Ingot
+	- [ ] Add Dawnsilver Chunk and Ingot
 - [ ] Update item templates with Identification criteria
 - [ ] Create trait template
 - [ ] Update traits to new template

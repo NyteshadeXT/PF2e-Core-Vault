@@ -23,7 +23,7 @@ license: ORC
 You attack with great precision. Add the following debilitations to the list you can choose from when you use [[Actions/Debilitating Strike|Debilitating Strike]].
 
 *   **Debilitation** The target takes an additional 2d6 precision damage from your attacks. [[Feat_Feature Effects/Effect_ Precise Debilitations|Effect: Precise Debilitations]]
-*   **Debilitation** The target becomes [[Conditions/Off-Guard|Off-Guard]].
+*   **Debilitation** The target becomes [[Off-Guard|Off-Guard]].
 
 *Source: Pathfinder Player Core*
 *ORC*

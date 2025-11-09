@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** `pf2:2` Interact
 
-This bottle contains a shrunken hippogriff. When opened, the contents reconstitute into a Large effigy of a hippogriff. The hippogriff waits up to 1 round and allows two creatures to mount it, then Flies up to 65 feet and waits 1 more round to give the mounted creatures time to dismount. Creatures who are still mounted on the hippogriff when it dissolves fall [[Conditions/Prone|Prone]] in the space where the hippogriff corpse ends its movement.
+This bottle contains a shrunken hippogriff. When opened, the contents reconstitute into a Large effigy of a hippogriff. The hippogriff waits up to 1 round and allows two creatures to mount it, then Flies up to 65 feet and waits 1 more round to give the mounted creatures time to dismount. Creatures who are still mounted on the hippogriff when it dissolves fall [[Prone|Prone]] in the space where the hippogriff corpse ends its movement.
 
 * * *
 

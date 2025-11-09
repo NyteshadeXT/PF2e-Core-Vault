@@ -28,7 +28,7 @@ You fire your gun while throwing off a target's balance with your melee weapon. 
 
 * * *
 
-**Critical Success** The target falls and lands [[Conditions/Prone|Prone]]. It takes 2d6 bludgeoning damage from the fall.
+**Critical Success** The target falls and lands [[Prone|Prone]]. It takes 2d6 bludgeoning damage from the fall.
 
 **Success** The target falls and lands prone.
 

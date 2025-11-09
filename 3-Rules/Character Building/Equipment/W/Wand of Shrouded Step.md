@@ -26,7 +26,7 @@ When you move this delicately carved poplar wand, it looks indistinct, leaving a
 
 * * *
 
-**Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.
+**Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[3-Rules/Conditions/Concealed|Concealed]] while you Stride.
 
 * * *
 

@@ -32,11 +32,11 @@ Rendered from the fat of corporeal undead creatures and infused with ghoulish ma
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** [[Conditions/Enfeebled|Enfeebled 2]] (1 minute)
+**Stage 1** [[Enfeebled|Enfeebled 2]] (1 minute)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 3]] (1 minute)
+**Stage 2** [[Enfeebled|Enfeebled 3]] (1 minute)
 
-**Stage 3** [[Conditions/Enfeebled|Enfeebled 4]] (1d4 minutes)
+**Stage 3** [[Enfeebled|Enfeebled 4]] (1d4 minutes)
 
 * * *
 

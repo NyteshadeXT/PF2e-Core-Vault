@@ -26,7 +26,7 @@ license: ORC
 
 Thanks to your diligence in the study of divine and occult mysteries, you can focus to temporarily attain a perception beyond the ordinary. A lightless flame appears in the center of your forehead. For 1 minute, you gain the benefits of a [[Spells/See the Unseen|See the Unseen]] spell.
 
-In addition, when you attempt a Strike during this time against a creature about which you could Recall Knowledge using Occultism or Religion, the attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+In addition, when you attempt a Strike during this time against a creature about which you could Recall Knowledge using Occultism or Religion, the attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[3-Rules/Conditions/Concealed|Concealed]] or [[Hidden|Hidden]].
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

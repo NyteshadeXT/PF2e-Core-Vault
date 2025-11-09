@@ -31,7 +31,7 @@ This _+2 resilient [[Equipment/Invisibility|Invisibility]] chain shirt_ is itsel
 
 * * *
 
-**Effect** You Stride and turn partially invisible, becoming [[Conditions/Concealed|Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Actions/Hide|Hide]].
+**Effect** You Stride and turn partially invisible, becoming [[3-Rules/Conditions/Concealed|Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Actions/Hide|Hide]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

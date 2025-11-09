@@ -20,7 +20,7 @@ license: OGL
 
 **Frequency** once per hour
 
-**Trigger** You give a creature within 30 feet of you the [[Conditions/Frightened|Frightened]] condition
+**Trigger** You give a creature within 30 feet of you the [[Frightened|Frightened]] condition
 
 * * *
 

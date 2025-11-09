@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20-foot emanation centered on your location. Creatures are [[Conditions/Concealed|Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.
+You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20-foot emanation centered on your location. Creatures are [[3-Rules/Conditions/Concealed|Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

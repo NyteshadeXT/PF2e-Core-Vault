@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a Fortitude check save against your class DC. On a failure, they also fall [[Conditions/Prone|Prone]]. After you use this action, you can't use it again for 1d4 rounds.
+You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a Fortitude check save against your class DC. On a failure, they also fall [[Prone|Prone]]. After you use this action, you can't use it again for 1d4 rounds.
 
 * * *
 

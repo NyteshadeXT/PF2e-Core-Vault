@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[Conditions/Frightened|Frightened 1]].
+You fly the banner of your pledge from your mount, raising your allies' spirits. You and all allies within 30 feet gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[Frightened|Frightened 1]].
 
 [[Feat_Feature Effects/Effect_ Cavalier's Banner|Effect: Cavalier's Banner]]
 

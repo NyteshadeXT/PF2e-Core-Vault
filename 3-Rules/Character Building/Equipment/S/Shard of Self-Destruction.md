@@ -37,13 +37,13 @@ Once the curse has activated for the first time, the weapon fuses to you; while 
 
 **Onset** 1 hour
 
-**Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)
+**Stage 1** [[Enfeebled|Enfeebled 1]] (1 day)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]], [[Conditions/Fatigued|Fatigued]], and 1d6 spirit damage each time you would take persistent bleed damage (1 week)
+**Stage 2** [[Enfeebled|Enfeebled 2]], [[Fatigued|Fatigued]], and 1d6 spirit damage each time you would take persistent bleed damage (1 week)
 
 **Stage 3** as stage 2, but the spirit damage increases to 2d6 (1 week)
 
-**Stage 4** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and 4d6 spirit damage each time you would take persistent bleed damage (1 week)
+**Stage 4** [[Enfeebled|Enfeebled 3]], fatigued, and 4d6 spirit damage each time you would take persistent bleed damage (1 week)
 
 **Stage 5** death
 

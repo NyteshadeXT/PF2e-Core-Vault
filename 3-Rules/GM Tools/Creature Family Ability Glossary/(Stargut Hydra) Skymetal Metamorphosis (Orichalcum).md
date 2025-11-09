@@ -20,7 +20,7 @@ license: ORC
 
 Each stargut hydra has at least one metamorphosis resulting from consuming a specific skymetal and internalizing its properties.
 
-**Orichalcum** When the stargut hydra has only two heads remaining, it is [[Conditions/Quickened|Quickened]]. It can use the extra action only to Stride or Strike.
+**Orichalcum** When the stargut hydra has only two heads remaining, it is [[Quickened|Quickened]]. It can use the extra action only to Stride or Strike.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

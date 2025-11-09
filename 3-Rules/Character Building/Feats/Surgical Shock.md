@@ -25,9 +25,9 @@ With a few well-placed jabs with your fist or weapon, you render your opponent d
 
 * * *
 
-**Critical Success** The target is either [[Conditions/Clumsy|Clumsy 3]] or [[Conditions/Stupefied|Stupefied 3]] until the end of your next turn. The target is then immune to Surgical Shock for 1 hour.
+**Critical Success** The target is either [[Clumsy|Clumsy 3]] or [[Stupefied|Stupefied 3]] until the end of your next turn. The target is then immune to Surgical Shock for 1 hour.
 
-**Success** As critical success, but the target is either [[Conditions/Clumsy|Clumsy 2]] or [[Conditions/Stupefied|Stupefied 2]].
+**Success** As critical success, but the target is either [[Clumsy|Clumsy 2]] or [[Stupefied|Stupefied 2]].
 
 **Failure** The target is minorly inconvenienced. You gain a +1 circumstance bonus to the next attack action you attempt against it before the end of your turn.
 

@@ -32,9 +32,9 @@ This unassuming hooded lantern contains a mass of flash beetle eggs suspended in
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
-**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round.
+**Failure** The creature is [[Blinded|Blinded]] for 1 round.
 
 **Critical Failure** The creature is blinded for 1 minute.
 

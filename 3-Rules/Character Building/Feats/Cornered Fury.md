@@ -19,7 +19,7 @@ license: ORC
 
 
 
-If a foe of a larger size than you critically hits and damages you, that foe is [[Conditions/Off-Guard|Off-Guard]] to you for 1 round.
+If a foe of a larger size than you critically hits and damages you, that foe is [[Off-Guard|Off-Guard]] to you for 1 round.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

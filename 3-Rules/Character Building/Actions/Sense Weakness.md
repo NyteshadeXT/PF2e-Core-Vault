@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You pick a precise moment to attack, giving you an edge. Your opponent is [[Conditions/Off-Guard|Off-Guard]] against the attack. If your opponent is using Deception for initiative when this ability is used, they are instead off-guard until the start of their next turn.
+You pick a precise moment to attack, giving you an edge. Your opponent is [[Off-Guard|Off-Guard]] against the attack. If your opponent is using Deception for initiative when this ability is used, they are instead off-guard until the start of their next turn.
 
 *Source: Pathfinder GM Core*
 *ORC*

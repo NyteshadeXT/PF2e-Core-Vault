@@ -26,7 +26,7 @@ license: OGL
 
 You summon an aura of swirling wind and lightning.
 
-For 1 minute, you gain [[Conditions/Concealed|Concealment]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 electricity damage (Reflex check save using your class DC or spell DC, whichever is higher).
+For 1 minute, you gain [[3-Rules/Conditions/Concealed|Concealment]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 electricity damage (Reflex check save using your class DC or spell DC, whichever is higher).
 
 At 13th and 17th level, this damage increases by 1d12.
 

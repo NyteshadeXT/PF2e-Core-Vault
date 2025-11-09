@@ -30,7 +30,7 @@ Whenever you take a move action to Stride, you can attempt a DC 15 Acrobatics ch
 
 **Failure** You lose 5 feet of movement from your Speeds until the end of your Stride action.
 
-**Critical Failure** Your character softlocks and is [[Conditions/Paralyzed|Paralyzed]] permanently. Only a [[Spells/Wish|Wish]] ritual or similar magic can reverse this effect.
+**Critical Failure** Your character softlocks and is [[Paralyzed|Paralyzed]] permanently. Only a [[Spells/Wish|Wish]] ritual or similar magic can reverse this effect.
 
 *Source: Paizo Blog: Foolish Housekeeping and Other Articles*
 *ORC*

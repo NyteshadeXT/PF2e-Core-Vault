@@ -36,9 +36,9 @@ Midnight milk is a strange and powerful drug, originally invented by the intelle
 
 **Stage 1** +3 item bonus to Perception (1 hour)
 
-**Stage 2** [[Conditions/Unconscious|Unconscious]] (1 hour; if the creature recovers from the dosage and wakes up before reaching Stage 3, they don't remember their vivid dreams but do wake up feeling revitalized as if they'd enjoyed a full 8 hours of sleep—this doesn't allow the creature to perform their daily preparations more often than once per day though)
+**Stage 2** [[Unconscious|Unconscious]] (1 hour; if the creature recovers from the dosage and wakes up before reaching Stage 3, they don't remember their vivid dreams but do wake up feeling revitalized as if they'd enjoyed a full 8 hours of sleep—this doesn't allow the creature to perform their daily preparations more often than once per day though)
 
-**Stage 3** unconscious (1 hour; the vivid dreams the creature enjoys at stage 2 shift into phantasmagoric nightmares as described in the text above—during this stage, the creature is a viable _Dream Lens_ target, and once a creature recovers and awakens from stage 3, they're [[Conditions/Fatigued|Fatigued]])
+**Stage 3** unconscious (1 hour; the vivid dreams the creature enjoys at stage 2 shift into phantasmagoric nightmares as described in the text above—during this stage, the creature is a viable _Dream Lens_ target, and once a creature recovers and awakens from stage 3, they're [[Fatigued|Fatigued]])
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

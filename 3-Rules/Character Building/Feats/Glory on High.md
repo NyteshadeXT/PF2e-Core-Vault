@@ -28,9 +28,9 @@ You take to the skies to unveil the full magnificence of your deity's power. Fly
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 minute.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 minute.
 
-**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round, dazzled for 1 minute, and takes 10d6 mental damage.
+**Failure** The creature is [[Blinded|Blinded]] for 1 round, dazzled for 1 minute, and takes 10d6 mental damage.
 
 **Critical Failure** The creature is blinded for 1 minute, dazzled for 1 hour, and takes 20d6 mental damage.
 

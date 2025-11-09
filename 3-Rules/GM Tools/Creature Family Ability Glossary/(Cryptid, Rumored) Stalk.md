@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Requirements** The rumored cryptid is [[Conditions/Undetected|Undetected]]
+**Requirements** The rumored cryptid is [[Undetected|Undetected]]
 
 * * *
 

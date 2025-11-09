@@ -22,7 +22,7 @@ license: ORC
 * * *
 **Frequency** once per day
 
-**Requirements** You are [[Conditions/Enfeebled|Enfeebled]] or [[Conditions/Fatigued|Fatigued]].
+**Requirements** You are [[Enfeebled|Enfeebled]] or [[Fatigued|Fatigued]].
 
 * * *
 

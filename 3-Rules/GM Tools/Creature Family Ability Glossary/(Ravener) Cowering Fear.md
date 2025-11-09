@@ -23,7 +23,7 @@ license: OGL
 
 0 feet. Will check
 
-A ravener's frightful presence causes creatures to cower in fear as well. As long as a creature is at least [[Conditions/Frightened|Frightened 2]] or more as a result of the ravener's frightful presence, it is also [[Conditions/Immobilized|Immobilized]] from the fear.
+A ravener's frightful presence causes creatures to cower in fear as well. As long as a creature is at least [[Frightened|Frightened 2]] or more as a result of the ravener's frightful presence, it is also [[Immobilized|Immobilized]] from the fear.
 
 * * *
 
@@ -35,11 +35,11 @@ Regardless of the result of the saving throw, the creature is temporarily immune
 
 **Critical Success** The creature is unaffected by the presence.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]].
+**Critical Failure** The creature is [[Frightened|Frightened 4]].
 
 *Source: Pathfinder Bestiary 2*
 *OGL*

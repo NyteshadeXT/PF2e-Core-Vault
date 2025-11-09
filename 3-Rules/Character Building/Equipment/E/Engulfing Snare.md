@@ -28,9 +28,9 @@ You arrange a spiky cage of bones, particularly tough vegetation, or other mater
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is knocked aside by the snare's deployment, takes half damage, and is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+**Success** The creature is knocked aside by the snare's deployment, takes half damage, and is [[Off-Guard|Off-Guard]] until the end of its next turn.
 
-**Failure** The creature is captured by the cage, taking full damage and falling [[Conditions/Prone|Prone]]. It's [[Conditions/Immobilized|Immobilized]] while it remains within the cage. It can get free by [[Actions/escape dc=34|escape dc=34]]{Escaping} (DC 34) or by destroying the cage (AC 30, Fort +18, Ref +24, Hardness 5, HP 30, object immunities).
+**Failure** The creature is captured by the cage, taking full damage and falling [[Prone|Prone]]. It's [[Immobilized|Immobilized]] while it remains within the cage. It can get free by [[Actions/escape dc=34|escape dc=34]]{Escaping} (DC 34) or by destroying the cage (AC 30, Fort +18, Ref +24, Hardness 5, HP 30, object immunities).
 
 **Critical Failure** As failure, but the creature takes double damage.
 

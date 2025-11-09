@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Make a ranged Strike with your ikon. If the Strike hits, the target must succeed at a Reflex check save against your class DC or the arrow transforms into a multitude of ethereal snakes that coil around the target, [[Conditions/Immobilized|Immobilizing]] it until it succeeds at an [[Actions/Escape|Escape]] attempt against your class DC.
+Make a ranged Strike with your ikon. If the Strike hits, the target must succeed at a Reflex check save against your class DC or the arrow transforms into a multitude of ethereal snakes that coil around the target, [[Immobilized|Immobilizing]] it until it succeeds at an [[Actions/Escape|Escape]] attempt against your class DC.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

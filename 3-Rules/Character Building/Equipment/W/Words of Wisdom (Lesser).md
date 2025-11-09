@@ -19,7 +19,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** tattooed-on-the-body
 
-Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[Conditions/Hidden|Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
+Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[Hidden|Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
 
 **Activate** `pf2:1` Command
 

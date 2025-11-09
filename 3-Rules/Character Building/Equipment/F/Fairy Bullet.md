@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[Spells/Revealing Light|Revealing Light]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_ if the target is [[Conditions/Hidden|Hidden]] from you.
+These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[Spells/Revealing Light|Revealing Light]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_ if the target is [[Hidden|Hidden]] from you.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

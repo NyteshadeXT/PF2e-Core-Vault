@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dark-pepper-powder"
 aliases: "Dark Pepper Powder"
 source: "Pathfinder Lost Omens Highhelm"
-pg: ""
-rarity: ""
+pg: "86"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Made from the smokebulbs that grow in Stonebreach, dark pepper is used as a common spice in dwarven cooking, but can also be an irritant in large quantities. Sacks of dark pepper are readily available in the Roundabout Market, but are less common in markets elsewhere in the city. You can toss a handful of dark pepper at an adjacent creature as an Interact action. The target must attempt a DC 16 Fortitude check save to avoid coughing to the point of choking. On a failed save, the creature coughs uncontrollably, becoming [[Conditions/Off-Guard|Off-Guard]] for 1 round. On a critical failure, the creature is instead off-guard for 3 rounds."
+activate: "`pf2:1` [[interact]]"
+description: "Made from the smokebulbs that grow in Stonebreach, dark pepper is used as a common spice in dwarven cooking, but can also be an irritant in large quantities. Sacks of dark pepper are readily available in the Roundabout Market, but are less common in markets elsewhere in the city. You can toss a handful of dark pepper at an adjacent creature as an Interact action. The target must attempt a DC 16 Fortitude check save to avoid coughing to the point of choking. On a failed save, the creature coughs uncontrollably, becoming [[Off-Guard]] for 1 round. On a critical failure, the creature is instead off-guard for 3 rounds."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-When you begin your turn [[Conditions/Hidden|Hidden]] or unnoticed by your hunted prey, that creature is [[Conditions/Off-Guard|Off-Guard]] to you until the end of your turn. If you're in natural surroundings, you can [[Actions/Avoid Notice|Avoid Notice]] and [[Actions/Sneak|Sneak]] at full speed.
+When you begin your turn [[Hidden|Hidden]] or unnoticed by your hunted prey, that creature is [[Off-Guard|Off-Guard]] to you until the end of your turn. If you're in natural surroundings, you can [[Actions/Avoid Notice|Avoid Notice]] and [[Actions/Sneak|Sneak]] at full speed.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -18,7 +18,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smooth obsidian containing three dark glimmers of Nhimbaloth's essence. Incorporeal creatures can touch and carry the _Ebon Fulcrum Lens_. While you have the _Ebon Fulcrum Lens_ invested, and you're a corporeal creature, you become insubstantial, gain the incorporeal trait, and are [[Conditions/Drained|Drained 2]]. Your drained condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of Nhimbaloth's power).
+This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smooth obsidian containing three dark glimmers of Nhimbaloth's essence. Incorporeal creatures can touch and carry the _Ebon Fulcrum Lens_. While you have the _Ebon Fulcrum Lens_ invested, and you're a corporeal creature, you become insubstantial, gain the incorporeal trait, and are [[Drained|Drained 2]]. Your drained condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of Nhimbaloth's power).
 
 [[Equipment Effects/Effect_ Ebon Fulcrum Lens (Incorporeal)|Effect: Ebon Fulcrum Lens (Incorporeal)]]
 
@@ -46,7 +46,7 @@ This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smo
 
 **Requirements** At least one glimmer remains in the _Ebon Fulcrum Lens_
 
-**Effect** You draw upon a glimmer of Nhimbaloth's essence for power; reduce the number of glimmers remaining in the lens by 1. You're [[Conditions/Quickened|Quickened]] for 1 minute and gain a +1 item bonus to attack rolls, saving throws, and DCs. You can use this extra action to Stride or Step, or for an action in a special ghost ability you have.
+**Effect** You draw upon a glimmer of Nhimbaloth's essence for power; reduce the number of glimmers remaining in the lens by 1. You're [[Quickened|Quickened]] for 1 minute and gain a +1 item bonus to attack rolls, saving throws, and DCs. You can use this extra action to Stride or Step, or for an action in a special ghost ability you have.
 
 [[Equipment Effects/Effect_ Ebon Fulcrum Lens (2 Action)|Effect: Ebon Fulcrum Lens (2 Action)]]
 

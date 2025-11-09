@@ -12,12 +12,12 @@ The amount of light in an area can affect how well you see things. There are thr
 
 ## Bright Light
 
-In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [[Conditions/Dazzled|Dazzled]] or [[Conditions/Blinded|Blinded]] by bright light.
+In bright light, such as sunlight, creatures and objects can be observed clearly by anyone with average vision or better. Some types of creatures are [[Dazzled|Dazzled]] or [[Blinded|Blinded]] by bright light.
 
 ## Dim Light
 
-Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [[Conditions/Concealed|Concealed]] condition, unless the seeker has darkvision or low-light vision ([[Senses|Senses]]), or a precise sense other than vision.
+Areas in shadow or lit by weak light sources are in dim light. Creatures and objects in dim light have the [[3-Rules/Conditions/Concealed|Concealed]] condition, unless the seeker has darkvision or low-light vision ([[Senses|Senses]]), or a precise sense other than vision.
 
 ## Darkness
 
-A creature or object within darkness is hidden or undetected unless the seeker has darkvision or a precise sense other than vision ([[Senses|Senses]]). A creature without darkvision or another means of perceiving in darkness has the [[Conditions/Blinded|Blinded]] condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [[Conditions/Dazzled|Dazzled]] for a short time, as determined by the GM.
+A creature or object within darkness is hidden or undetected unless the seeker has darkvision or a precise sense other than vision ([[Senses|Senses]]). A creature without darkvision or another means of perceiving in darkness has the [[Blinded|Blinded]] condition while in darkness, though it might be able to see illuminated areas beyond the darkness. If a creature can see into an illuminated area, it can observe creatures within that illuminated area normally. After being in darkness, sudden exposure to bright light might make you [[Dazzled|Dazzled]] for a short time, as determined by the GM.

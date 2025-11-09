@@ -25,7 +25,7 @@ These bulky opera glasses are attached to a rod for ease of use. When held up to
 
 * * *
 
-**Effect** For 1 hour, anyone who looks through the glasses can see [[Conditions/Invisible|Invisible]] creatures and objects, and sees creatures with the spirit trait as solid and substantial (rather than ghostly).
+**Effect** For 1 hour, anyone who looks through the glasses can see [[Invisible|Invisible]] creatures and objects, and sees creatures with the spirit trait as solid and substantial (rather than ghostly).
 
 *Source: Pathfinder #185: A Taste of Ashes*
 *OGL*

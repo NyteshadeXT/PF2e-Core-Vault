@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You gain resistance to mental damage equal to half your level and a +1 circumstance bonus to saving throws against effects that would make you [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], or [[Conditions/Enfeebled|Enfeebled]].
+You gain resistance to mental damage equal to half your level and a +1 circumstance bonus to saving throws against effects that would make you [[Clumsy|Clumsy]], [[Drained|Drained]], or [[Enfeebled|Enfeebled]].
 
 *Source: Pathfinder #178: Punks in a Powder Keg*
 *OGL*

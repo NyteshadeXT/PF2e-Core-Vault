@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts. You're permanently [[Conditions/Quickened|Quickened]]. You can use your extra action only to Step or Interact to reload.
+You prepare to fire with an instinctive speed and muscle memory that go beyond your conscious thoughts. You're permanently [[Quickened|Quickened]]. You can use your extra action only to Step or Interact to reload.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

@@ -29,7 +29,7 @@ These fermented and dried tea leaves are rolled into a ball shaped like a pearl.
 
 When brewed as a tea and consumed, it promotes an outpouring of vital energy that surges through your body. For the next 10 minutes, you have resistance 15 to void damage, and your unarmed attacks deal an additional 1d6 points of vitality damage on a successful Strike.
 
-While this effect is active, whenever a damaging attack or effect would reduce you to 0 Hit Points, you can use your reaction to immediately end the benefits of dragon pearl and remain conscious and standing with 10 Hit Points, increasing your [[Conditions/Wounded|Wounded]] condition by 1.
+While this effect is active, whenever a damaging attack or effect would reduce you to 0 Hit Points, you can use your reaction to immediately end the benefits of dragon pearl and remain conscious and standing with 10 Hit Points, increasing your [[Wounded|Wounded]] condition by 1.
 
 [[Equipment Effects/Effect_ Dragon Pearl|Effect: Dragon Pearl]]
 

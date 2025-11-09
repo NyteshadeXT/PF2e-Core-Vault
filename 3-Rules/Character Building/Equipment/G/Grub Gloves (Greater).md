@@ -26,7 +26,7 @@ Danila Kenn and Depa Stepwell of Common Goods developed these gloves after compl
 
 * * *
 
-**Effect** You rub your hands together and take a deep breath to prepare for the rest of your day. You regain 8d8+30 healing Hit Points and feel refreshed, losing the [[Conditions/Fatigued|Fatigued]] condition. As normal for effects that remove fatigue, this doesn't remove any underlying source of fatigue, such as lack of sleep, causing the condition to return if the underlying source isn't addressed.
+**Effect** You rub your hands together and take a deep breath to prepare for the rest of your day. You regain 8d8+30 healing Hit Points and feel refreshed, losing the [[Fatigued|Fatigued]] condition. As normal for effects that remove fatigue, this doesn't remove any underlying source of fatigue, such as lack of sleep, causing the condition to return if the underlying source isn't addressed.
 
 *Source: Pathfinder Lost Omens Highhelm*
 *OGL*

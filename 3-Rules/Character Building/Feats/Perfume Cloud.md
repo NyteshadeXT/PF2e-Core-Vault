@@ -29,11 +29,11 @@ You issue a cloud of your fragrance like a full-body sneeze—but one that might
 
 **Critical Success** No effect.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled and can see only 10 feet away for 1 round.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round.
+**Critical Failure** The creature is [[Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

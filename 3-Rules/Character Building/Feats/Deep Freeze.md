@@ -31,7 +31,7 @@ You vent a jet of supercooled fluid from your innovation, damaging a foe and slo
 
 **Failure** The target takes full damage and takes a -10-foot status penalty to its Speeds for 1 round.
 
-**Critical Failure** The target takes double damage, is [[Conditions/Slowed|Slowed 1]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
+**Critical Failure** The target takes double damage, is [[Slowed|Slowed 1]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
 
 [[Feat_Feature Effects/Effect_ Deep Freeze|Effect: Deep Freeze]]
 

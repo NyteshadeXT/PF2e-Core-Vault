@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your careful shot against an unsuspecting opponent pierces a vital artery or organ. Make a ranged Strike. If the target is [[Conditions/Off-Guard|Off-Guard]], the Strike deals an extra die of weapon damage, and the foe takes persistent bleed damage equal to the amount of precision damage from your [[Actions/One Shot, One Kill|One Shot, One Kill]].
+Your careful shot against an unsuspecting opponent pierces a vital artery or organ. Make a ranged Strike. If the target is [[Off-Guard|Off-Guard]], the Strike deals an extra die of weapon damage, and the foe takes persistent bleed damage equal to the amount of precision damage from your [[Actions/One Shot, One Kill|One Shot, One Kill]].
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

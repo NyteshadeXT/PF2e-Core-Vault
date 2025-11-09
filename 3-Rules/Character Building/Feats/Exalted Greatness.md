@@ -32,7 +32,7 @@ You improve your exalted reaction with the benefit listed for your cause.
 
 **Liberation** You and all affected allies can attempt to break free, not just the triggering ally.
 
-**Obedience** The damage dealt to creatures other than the triggering creature who refuse to drop [[Conditions/Prone|Prone]] increases to half the damage the triggering creature would take (roll the damage only once for all affected creatures).
+**Obedience** The damage dealt to creatures other than the triggering creature who refuse to drop [[Prone|Prone]] increases to half the damage the triggering creature would take (roll the damage only once for all affected creatures).
 
 **Redemption** The resistance isn't reduced.
 

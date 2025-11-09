@@ -19,7 +19,7 @@ license: ORC
 
 **Prerequisites** Wilderness Born
 * * *
-You naturally blend in with the wilderness, becoming camouflaged. In natural terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[Conditions/Concealed|Concealed]].
+You naturally blend in with the wilderness, becoming camouflaged. In natural terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[3-Rules/Conditions/Concealed|Concealed]].
 
 * * *
 

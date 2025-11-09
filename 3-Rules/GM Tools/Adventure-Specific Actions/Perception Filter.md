@@ -34,7 +34,7 @@ license: OGL
 
 **Success** The creature takes a –2 status penalty to Perception checks to [[Actions/Seek|Seek]] or otherwise detect you.
 
-**Failure** You filter all of the creature's senses, making it difficult for it to notice you. When you are [[Conditions/Hidden|Hidden]] or undetected from the creature, it doesn't observe you as soon as you do anything other than [[Actions/Hide|Hide]], [[Actions/Sneak|Sneak]], or Step. If it rolls a Perception check to Seek or otherwise detect you, it gets the outcome one degree of success worse than what it rolled, and if you roll a Stealth check to Hide, Sneak, or otherwise escape its attention, you get the outcome one degree of success better than what you rolled against the creature. If you use a hostile action toward the creature, the effect ends for that creature after your hostile action is completed.
+**Failure** You filter all of the creature's senses, making it difficult for it to notice you. When you are [[Hidden|Hidden]] or undetected from the creature, it doesn't observe you as soon as you do anything other than [[Actions/Hide|Hide]], [[Actions/Sneak|Sneak]], or Step. If it rolls a Perception check to Seek or otherwise detect you, it gets the outcome one degree of success worse than what it rolled, and if you roll a Stealth check to Hide, Sneak, or otherwise escape its attention, you get the outcome one degree of success better than what you rolled against the creature. If you use a hostile action toward the creature, the effect ends for that creature after your hostile action is completed.
 
 **Critical Failure** As failure, but the effect doesn't end for that creature if you use a hostile action against it.
 

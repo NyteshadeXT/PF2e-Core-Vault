@@ -30,9 +30,9 @@ When you leap onto a creature in this way, you do not also deal damage for falli
 
 * * *
 
-**Critical Success** The target falls and lands [[Conditions/Prone|Prone]], reducing the falling damage you take by an amount equal to twice your level. You then can make a melee Strike against the target. The Strike gains the deadly d8 weapon property and deals an additional 1d6 bludgeoning damage. This additional damage increases to 2d6 if you are a master in Athletics, and to 3d6 if you are legendary in Athletics.
+**Critical Success** The target falls and lands [[Prone|Prone]], reducing the falling damage you take by an amount equal to twice your level. You then can make a melee Strike against the target. The Strike gains the deadly d8 weapon property and deals an additional 1d6 bludgeoning damage. This additional damage increases to 2d6 if you are a master in Athletics, and to 3d6 if you are legendary in Athletics.
 
-**Success** The target is [[Conditions/Off-Guard|Off-Guard]] until the beginning of your next turn, reducing the falling damage you take by an amount equal to your level. You can then make a melee Strike against the target, adding the deadly d8 weapon property to the attack.
+**Success** The target is [[Off-Guard|Off-Guard]] until the beginning of your next turn, reducing the falling damage you take by an amount equal to your level. You can then make a melee Strike against the target, adding the deadly d8 weapon property to the attack.
 
 **Failure** You can make a Strike against the target.
 

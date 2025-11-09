@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes vitality damage equal to half your level and becomes [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes vitality damage equal to half your level and becomes [[Off-Guard|Off-Guard]] for 1 round.
 
 *Source: Pathfinder Lost Omens Knights of Lastwall*
 *OGL*

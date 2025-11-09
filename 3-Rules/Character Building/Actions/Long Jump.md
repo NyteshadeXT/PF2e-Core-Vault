@@ -27,7 +27,7 @@ You Stride, then attempt a DC 15 [[Actions/long-jump|long-jump]]{Athletics} chec
 
 **Failure** You make a normal horizontal Leap.
 
-**Critical Failure** You make a normal horizontal Leap, then fall and land [[Conditions/Prone|Prone]].
+**Critical Failure** You make a normal horizontal Leap, then fall and land [[Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

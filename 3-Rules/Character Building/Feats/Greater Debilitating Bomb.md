@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Debilitating Bomb
 * * *
-You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], add the following to the list you can choose from: [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], [[Conditions/Stupefied|Stupefied 1]], or –10-foot status penalty to Speeds.
+You have learned enhanced techniques and alchemical secrets that allow you to expand the range of effects you can impose with your bombs. When you use [[Feats/Debilitating Bomb|Debilitating Bomb]], add the following to the list you can choose from: [[Clumsy|Clumsy 1]], [[Enfeebled|Enfeebled 1]], [[Stupefied|Stupefied 1]], or –10-foot status penalty to Speeds.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

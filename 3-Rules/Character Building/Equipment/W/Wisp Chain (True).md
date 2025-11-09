@@ -21,7 +21,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** wornarmor
 
-This _+3 greater resilient chain shirt_ is made of small, interlocking currents of wind carefully woven together. While the links of air don't jingle against each other like chain links might, the tiny cyclones nevertheless create a blustering howl akin to standing at the center of a storm. A creature that ends its turn adjacent to you must attempt a DC 39 Fortitude check save. On a failure, it becomes [[Conditions/Deafened|Deafened]] until it moves away from you.
+This _+3 greater resilient chain shirt_ is made of small, interlocking currents of wind carefully woven together. While the links of air don't jingle against each other like chain links might, the tiny cyclones nevertheless create a blustering howl akin to standing at the center of a storm. A creature that ends its turn adjacent to you must attempt a DC 39 Fortitude check save. On a failure, it becomes [[Deafened|Deafened]] until it moves away from you.
 
 **Activate—Slicing Links** `pf2:2` (concentrate)
 

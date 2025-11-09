@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You attempt to grab a creature or object with your free hand. Attempt an [[Actions/grapple|grapple]]{Athletics} check against the target's Fortitude DC. You can grapple a target you already have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] without having a hand free.
+You attempt to grab a creature or object with your free hand. Attempt an [[Actions/grapple|grapple]]{Athletics} check against the target's Fortitude DC. You can grapple a target you already have [[Grabbed|Grabbed]] or [[Restrained|Restrained]] without having a hand free.
 
 * * *
 
@@ -33,7 +33,7 @@ You attempt to grab a creature or object with your free hand. Attempt an [[Actio
 
 **Failure** You fail to grab your target. If you already had the target grabbed or restrained using a Grapple, those conditions on the target end.
 
-**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Conditions/Prone|Prone]].
+**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Provocator Dedication
 * * *
-You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then [[Conditions/Off-Guard|Off-Guard]] against your next Strike this turn.
+You Strike a target within reach and then Step to any other open space adjacent to that target. Your target is then [[Off-Guard|Off-Guard]] against your next Strike this turn.
 
 *Source: Pathfinder #159: All or Nothing*
 *OGL*

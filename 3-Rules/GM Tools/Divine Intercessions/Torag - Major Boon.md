@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Standing watch or guarding a location counts as resting for you, preventing you from being [[Conditions/Fatigued|Fatigued]] due to lack of rest as long as you stand watch for at least 6 hours a day.
+Standing watch or guarding a location counts as resting for you, preventing you from being [[Fatigued|Fatigued]] due to lack of rest as long as you stand watch for at least 6 hours a day.
 
 You can recover your Focus Points (if you have them) by standing guard in addition to any other options you have available.
 

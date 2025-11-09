@@ -30,11 +30,11 @@ Either by witnessing or surviving the petrifying stare of a medusa or similar cr
 
 **Critical Success** The creature is unaffected and temporarily immune to your Petrifying Gaze Mimicry for 24 hours.
 
-**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Success** The creature is [[Slowed|Slowed 1]] for 1 round.
 
-**Failure** The creature is slowed 1 for 1 round and [[Conditions/Immobilized|Immobilized]] for 1 round or until it [[Actions/Escape|Escapes]].
+**Failure** The creature is slowed 1 for 1 round and [[Immobilized|Immobilized]] for 1 round or until it [[Actions/Escape|Escapes]].
 
-**Critical Failure** The creature is [[Conditions/Slowed|Slowed 2]] for 1 round and immobilized until it Escapes.
+**Critical Failure** The creature is [[Slowed|Slowed 2]] for 1 round and immobilized until it Escapes.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

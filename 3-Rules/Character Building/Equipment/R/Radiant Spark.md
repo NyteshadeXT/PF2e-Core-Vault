@@ -22,7 +22,7 @@ This shining prism is bound within a golden frame. The bright glow within the ar
 
 While holding the Radiant Spark, you gain a +2 item bonus to saving throws against divine spells and effects and you are aware of its powers.
 
-If you are good, while holding the Radiant Spark, you are [[Conditions/Sickened|Sickened 3]] and can't recover from this condition.
+If you are good, while holding the Radiant Spark, you are [[Sickened|Sickened 3]] and can't recover from this condition.
 
 * * *
 
@@ -56,7 +56,7 @@ If you are good, while holding the Radiant Spark, you are [[Conditions/Sickened|
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Drained|Drained 2]].
+**Success** The target is [[Drained|Drained 2]].
 
 **Failure** The target dies and its essence is trapped within the Radiant Spark. It can be brought back to life only with powerful magic such as [[Spells/Wish|Wish]] or [[Spells/Miracle|Miracle]].
 

@@ -24,7 +24,7 @@ license: OGL
 
 **Trigger** You would take acid, bludgeoning, fire, or slashing damage from an enemy's attack, spell, or other hostile effect.
 
-**Requirements** You're aware of the hostile effect, and you aren't [[Conditions/Off-Guard|Off-Guard]] against it.
+**Requirements** You're aware of the hostile effect, and you aren't [[Off-Guard|Off-Guard]] against it.
 
 * * *
 

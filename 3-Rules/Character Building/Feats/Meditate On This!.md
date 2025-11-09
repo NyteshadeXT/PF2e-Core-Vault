@@ -35,11 +35,11 @@ You meditate to alter your qi, coloring it with your resentment and anger. Until
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn.
+**Critical Failure** The creature is [[Frightened|Frightened 3]] and [[Fleeing|Fleeing]] until the end of its next turn.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

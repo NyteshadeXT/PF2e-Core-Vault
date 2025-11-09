@@ -33,7 +33,7 @@ Your venom is particularly potent, affecting targets in different ways. When you
     
     **Stage 1** no adjustment
     
-    **Stage 2** [[Conditions/Off-Guard|Off-Guard]]
+    **Stage 2** [[Off-Guard|Off-Guard]]
     
     **Stage 3** off-guard and a –5-foot penalty to Speed
     

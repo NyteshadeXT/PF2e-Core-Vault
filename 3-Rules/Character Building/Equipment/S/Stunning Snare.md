@@ -28,11 +28,11 @@ You rig a snare to disorient a creature with a quick bash, leaving it with littl
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] for 1 round and [[Conditions/Stunned|Stunned 1]].
+**Success** The creature takes half damage and is [[Off-Guard|Off-Guard]] for 1 round and [[Stunned|Stunned 1]].
 
-**Failure** The creature takes full damage and is off-guard for 1 round and [[Conditions/Stunned|Stunned 2]].
+**Failure** The creature takes full damage and is off-guard for 1 round and [[Stunned|Stunned 2]].
 
-**Critical Failure** The creature takes double damage and is off-guard for 1 minute and [[Conditions/Stunned|Stunned 4]].
+**Critical Failure** The creature takes double damage and is off-guard for 1 minute and [[Stunned|Stunned 4]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -29,11 +29,11 @@ Each draft of faerie dragon liqueur has a different flavor. For 1 hour after you
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.
+**Success** The creature is [[Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The creature is stupefied 1 for 1 minute and [[Conditions/Slowed|Slowed 1]] for 1d4 rounds.
+**Failure** The creature is stupefied 1 for 1 minute and [[Slowed|Slowed 1]] for 1d4 rounds.
 
-**Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 2]] and slowed 1 for 1 minute.
+**Critical Failure** The creature is [[Stupefied|Stupefied 2]] and slowed 1 for 1 minute.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

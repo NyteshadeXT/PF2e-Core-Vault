@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Scion of Domora Dedication; Spiritual Strike
 * * *
-When you use Spiritual Strike, hit targets become [[Conditions/Off-Guard|Off-Guard]] until the end of your current turn. In addition, the additional force damage dealt by the Strike increases by 2d6.
+When you use Spiritual Strike, hit targets become [[Off-Guard|Off-Guard]] until the end of your current turn. In addition, the additional force damage dealt by the Strike increases by 2d6.
 
 *Source: Pathfinder #188: They Watched the Stars*
 *OGL*

@@ -28,7 +28,7 @@ You know exactly what song to play or food to serve to make everyone at the part
 
 * * *
 
-**Critical Success** Reduce the [[Conditions/Frightened|Frightened]] value of all creatures affected by your Revel by 2.
+**Critical Success** Reduce the [[Frightened|Frightened]] value of all creatures affected by your Revel by 2.
 
 **Success** Reduce the frightened value of all creatures affected by your Revel by 1.
 

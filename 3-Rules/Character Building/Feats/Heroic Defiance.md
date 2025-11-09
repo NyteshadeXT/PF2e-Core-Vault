@@ -22,7 +22,7 @@ license: ORC
 * * *
 **Frequency** once per 10 minutes
 
-**Trigger** You gain the [[Conditions/Doomed|Doomed]] condition.
+**Trigger** You gain the [[Doomed|Doomed]] condition.
 
 * * *
 

@@ -30,7 +30,7 @@ With reckless speed, you dash, jump and swing around a creature to find a more v
 
 **Failure** Your movement ends, and you trigger reactions as if you had moved out of the square you started in.
 
-**Critical Failure** As failure, and you fall [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, and you fall [[Prone|Prone]].
 
 [[Feat_Feature Effects/Effect_ The Bigger They Are|Effect: The Bigger They Are]]
 

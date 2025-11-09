@@ -31,7 +31,7 @@ This tea is brewed with a mixture of matcha, turmeric, and 10 drops of morning d
 
 * * *
 
-**Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[Conditions/Fatigued|Fatigued]] condition.
+**Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[Fatigued|Fatigued]] condition.
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

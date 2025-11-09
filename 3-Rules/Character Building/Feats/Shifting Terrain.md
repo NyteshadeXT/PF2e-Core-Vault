@@ -31,11 +31,11 @@ After you use this action, you can't use it again for 1d4 rounds.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.
+**Success** The creature is [[Clumsy|Clumsy 1]] for 1 round.
 
-**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] for 1 round.
+**Failure** The creature is [[Clumsy|Clumsy 2]] for 1 round.
 
-**Critical Failure** The creature is clumsy 2 for 1 round and falls [[Conditions/Prone|Prone]].
+**Critical Failure** The creature is clumsy 2 for 1 round and falls [[Prone|Prone]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -27,7 +27,7 @@ You find the most strategic options for you and your allies. When you use this a
 
 * * *
 
-**Critical Success** Your marshal's aura increases to a 20-foot emanation, and it grants you and allies a +1 status bonus to Reflex saving throws. Once per turn, when you succeed or critically succeed at a Recall Knowledge check to gain information about an enemy creature, the target of the Recall Knowledge check becomes [[Conditions/Off-Guard|Off-Guard]] to the next attack made against it by you or an ally in your aura.
+**Critical Success** Your marshal's aura increases to a 20-foot emanation, and it grants you and allies a +1 status bonus to Reflex saving throws. Once per turn, when you succeed or critically succeed at a Recall Knowledge check to gain information about an enemy creature, the target of the Recall Knowledge check becomes [[Off-Guard|Off-Guard]] to the next attack made against it by you or an ally in your aura.
 
 **Success** As critical success, but your aura's size doesn't increase.
 

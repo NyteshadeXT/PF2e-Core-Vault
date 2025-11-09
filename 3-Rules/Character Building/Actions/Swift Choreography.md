@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Trigger** An ally within 30 feet would become [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Off-Guard|Off-Guard]], [[Conditions/Prone|Prone]], or [[Conditions/Restrained|Restrained]]
+**Trigger** An ally within 30 feet would become [[Grabbed|Grabbed]], [[Immobilized|Immobilized]], [[Off-Guard|Off-Guard]], [[Prone|Prone]], or [[Restrained|Restrained]]
 
 * * *
 

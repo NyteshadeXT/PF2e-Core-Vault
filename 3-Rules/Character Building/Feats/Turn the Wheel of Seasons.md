@@ -27,9 +27,9 @@ The seasons shift rapidly. This impulse affects a cube 100 feet in each dimensio
 
 **Spring** Each ally in the cube gains 20 temporary HP that last until the start of your next turn. Any dying ally rolls a recovery check, but can't get worse than a success.
 
-**Summer** (light) Each enemy in the area is exposed to sunlight and must attempt a Reflex check save against your class DC. It's unaffected on a critical success, [[Conditions/Dazzled|Dazzled]] until the start of your next turn on a success, or [[Conditions/Blinded|Blinded]] until the start of your next turn on a failure.
+**Summer** (light) Each enemy in the area is exposed to sunlight and must attempt a Reflex check save against your class DC. It's unaffected on a critical success, [[Dazzled|Dazzled]] until the start of your next turn on a success, or [[Blinded|Blinded]] until the start of your next turn on a failure.
 
-**Autumn** Leaves and rain make everything in the area [[Conditions/Concealed|Concealed]] until the start of your next turn, and a cold wind makes each enemy in the area [[Conditions/Slowed|Slowed 1]] until the start of your next turn unless it succeeds at a Fortitude check save against your class DC.
+**Autumn** Leaves and rain make everything in the area [[3-Rules/Conditions/Concealed|Concealed]] until the start of your next turn, and a cold wind makes each enemy in the area [[Slowed|Slowed 1]] until the start of your next turn unless it succeeds at a Fortitude check save against your class DC.
 
 **Winter** Each enemy in the aura takes 5d6 cold damage with a Reflex check save against your class DC. A creature that fails its save also takes 2d6 persistent cold damage.
 

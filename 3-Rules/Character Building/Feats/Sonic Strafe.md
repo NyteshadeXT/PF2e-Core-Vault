@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You can now achieve such flight speeds that your passage splits the very air. Fly twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (Fortitude check save against your class DC). On a critical failure, the creature is also [[Conditions/Deafened|Deafened]] for 1 hour.
+You can now achieve such flight speeds that your passage splits the very air. Fly twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (Fortitude check save against your class DC). On a critical failure, the creature is also [[Deafened|Deafened]] for 1 hour.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

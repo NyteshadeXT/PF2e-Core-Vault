@@ -17,7 +17,7 @@ license: OGL
 
 
 
-When your mind becomes clouded, you know to hit harder rather than smarter. You gain a circumstance bonus to damage rolls on your melee Strikes equal to the value of your [[Conditions/Stupefied|Stupefied]] condition (to a maximum of a +4 circumstance bonus) whenever you have the stupefied condition.
+When your mind becomes clouded, you know to hit harder rather than smarter. You gain a circumstance bonus to damage rolls on your melee Strikes equal to the value of your [[Stupefied|Stupefied]] condition (to a maximum of a +4 circumstance bonus) whenever you have the stupefied condition.
 
 *Source: *
 *OGL*

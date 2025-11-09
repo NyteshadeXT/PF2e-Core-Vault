@@ -38,9 +38,9 @@ Taking an additional dose of grolna while affected by the effects of stage 1 of 
 
 **Maximum Duration** 8 hours
 
-**Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to Survival checks to follow tracks, and become [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to Survival checks to follow tracks, and become [[Stupefied|Stupefied 1]] (1 hour)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (6 hours)
+**Stage 2** [[Stupefied|Stupefied 2]] (6 hours)
 
 *Source: Pathfinder #157: Devil at the Dreaming Palace*
 *OGL*

@@ -24,7 +24,7 @@ Your magic saturates your surroundings with hateful psychic energy. Use this amp
 
 * * *
 
-**Amp** Choose one target of the spell. Psychic phenomena turn themselves on the target-typically, objects fling themselves at the creature. At the beginning of each of the target's turns, it takes 1d4 bludgeoning damage for each spell rank of the psi cantrip this amp was added to, with a basic Reflex save. The target remains marked by psychic ire for 3 rounds. The effect persists even if you fall [[Conditions/Unconscious|Unconscious]] or leave the area.
+**Amp** Choose one target of the spell. Psychic phenomena turn themselves on the target-typically, objects fling themselves at the creature. At the beginning of each of the target's turns, it takes 1d4 bludgeoning damage for each spell rank of the psi cantrip this amp was added to, with a basic Reflex save. The target remains marked by psychic ire for 3 rounds. The effect persists even if you fall [[Unconscious|Unconscious]] or leave the area.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

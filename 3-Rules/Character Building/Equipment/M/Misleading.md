@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** etched-onto-light-armor
 
-This rune attempts to obfuscate your location through illusory trickery. When you're [[Conditions/Concealed|Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
+This rune attempts to obfuscate your location through illusory trickery. When you're [[3-Rules/Conditions/Concealed|Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
 
 **Activate** `pf2:2` command, envision
 

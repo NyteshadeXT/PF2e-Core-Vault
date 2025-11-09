@@ -34,7 +34,7 @@ You also gain the following abilities for 1 minute.
 *   The effects of 6th-rank [[Spells/Runic Body|Runic Body]], and your horns deal an additional 1d4 electricity damage.
 *   Bloodsense as a precise sense with a range of 60 feet, allowing you to detect freshly spilled blood; this allows you to accurately detect creatures taking persistent bleed damage, creatures whose Hit Points are currently at half or less of their maximum, and freestanding puddles or droplets of recently spilled blood.
 
-Kishin Rage lasts for 1 minute. Once it ends, you're [[Conditions/Stunned|Stunned 3]] as you recharge and recenter yourself.
+Kishin Rage lasts for 1 minute. Once it ends, you're [[Stunned|Stunned 3]] as you recharge and recenter yourself.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

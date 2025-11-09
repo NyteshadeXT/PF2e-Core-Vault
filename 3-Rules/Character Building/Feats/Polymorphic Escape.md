@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** You would become [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Prone|Prone]], or [[Conditions/Restrained|Restrained]].
+**Trigger** You would become [[Grabbed|Grabbed]], [[Immobilized|Immobilized]], [[Prone|Prone]], or [[Restrained|Restrained]].
 
 * * *
 

@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-The force of your mind unleashing itself wracks your enemies with a violent shockwave. You deal 1d6 force damage to all creatures in a 20-foot emanation, with a basic Reflex save. This explosion is taxing, making you [[Conditions/Stunned|Stunned 1]]. At 5th level and every 2 levels thereafter, the damage increases by 1d6.
+The force of your mind unleashing itself wracks your enemies with a violent shockwave. You deal 1d6 force damage to all creatures in a 20-foot emanation, with a basic Reflex save. This explosion is taxing, making you [[Stunned|Stunned 1]]. At 5th level and every 2 levels thereafter, the damage increases by 1d6.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

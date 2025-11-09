@@ -18,7 +18,7 @@ license: ORC
 
 
 
-Nemesis inherits an immunity possessed by the inspiring villain, chosen from the following: acid, cold, electricity, fire, or sonic. The second is chosen from acid, bleed, cold, electricity, emotion, fire, force, [[Conditions/Paralyzed|Paralyzed]], poison, precision, sonic, spirit, or void.
+Nemesis inherits an immunity possessed by the inspiring villain, chosen from the following: acid, cold, electricity, fire, or sonic. The second is chosen from acid, bleed, cold, electricity, emotion, fire, force, [[Paralyzed|Paralyzed]], poison, precision, sonic, spirit, or void.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

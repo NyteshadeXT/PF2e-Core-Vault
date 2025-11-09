@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** Your turn ends and you have a status penalty to your Speed or are [[Conditions/Immobilized|Immobilized]] or [[Conditions/Slowed|Slowed]]
+**Trigger** Your turn ends and you have a status penalty to your Speed or are [[Immobilized|Immobilized]] or [[Slowed|Slowed]]
 
 * * *
 

@@ -20,11 +20,11 @@ license: ORC
 
 
 
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
-You slam an unlucky foe with the tremendous power of a plunging wave. Make a melee Strike against the required creature, after which they are no longer grabbed or restrained by you. This Strike must be made with an unarmed attack or a monk weapon. If you deal damage with this Strike, the target is knocked [[Conditions/Prone|Prone]] and is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] until the end of its next turn.
+You slam an unlucky foe with the tremendous power of a plunging wave. Make a melee Strike against the required creature, after which they are no longer grabbed or restrained by you. This Strike must be made with an unarmed attack or a monk weapon. If you deal damage with this Strike, the target is knocked [[Prone|Prone]] and is [[Clumsy|Clumsy 1]] and [[Enfeebled|Enfeebled 1]] until the end of its next turn.
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

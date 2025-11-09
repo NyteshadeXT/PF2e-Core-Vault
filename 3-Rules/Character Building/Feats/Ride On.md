@@ -21,7 +21,7 @@ license: ORC
 
 **Frequency** once per hour
 
-**Trigger** You would gain the [[Conditions/Fatigued|Fatigued]] condition.
+**Trigger** You would gain the [[Fatigued|Fatigued]] condition.
 
 * * *
 

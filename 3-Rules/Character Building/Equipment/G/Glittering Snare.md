@@ -32,11 +32,11 @@ Small flecks of mica, sand, and ground glass are packed into a spring-loaded can
 
 [[Equipment Effects/Effect_ Glittering Snare (Success)|Effect: Glittering Snare (Success)]]
 
-**Failure** The creature takes a -2 status penalty to Stealth checks for 2 minutes or until it spends a 2-action activity, which has the manipulate trait, to remove the glitter. If the creature was [[Conditions/Invisible|Invisible]], the glitter outlines it for 1 round, making it [[Conditions/Concealed|Concealed]] rather than [[Conditions/Undetected|Undetected]] to visual senses.
+**Failure** The creature takes a -2 status penalty to Stealth checks for 2 minutes or until it spends a 2-action activity, which has the manipulate trait, to remove the glitter. If the creature was [[Invisible|Invisible]], the glitter outlines it for 1 round, making it [[3-Rules/Conditions/Concealed|Concealed]] rather than [[Undetected|Undetected]] to visual senses.
 
 [[Equipment Effects/Effect_ Glittering Snare (Failure)|Effect: Glittering Snare (Failure)]]
 
-**Critical Failure** As failure, but the penalty is -4. The glitter sticks for 5 minutes or until the creature spends a 3-action activity, which has the manipulate trait, to remove it. The glitter continues to fall around the creature until completely removed, leaving a trail behind it as it moves and revealing its rough location; the creature is [[Conditions/Hidden|Hidden]], rather than undetected, to any creature that can see the glitter whenever it would otherwise have been undetected.
+**Critical Failure** As failure, but the penalty is -4. The glitter sticks for 5 minutes or until the creature spends a 3-action activity, which has the manipulate trait, to remove it. The glitter continues to fall around the creature until completely removed, leaving a trail behind it as it moves and revealing its rough location; the creature is [[Hidden|Hidden]], rather than undetected, to any creature that can see the glitter whenever it would otherwise have been undetected.
 
 [[Equipment Effects/Effect_ Glittering Snare (Critical Failure)|Effect: Glittering Snare (Critical Failure)]]
 

@@ -35,7 +35,7 @@ While this sinister-looking weapon isn't inherently evil, its unsettling appeara
 
 * * *
 
-**Effect** Instead of inflicting slashing damage with the grisly scythe, you inflict void damage. You regain a number of hit points equal to half the void damage inflicted, and the creature struck becomes [[Conditions/Sickened|Sickened 1]] from the agony.
+**Effect** Instead of inflicting slashing damage with the grisly scythe, you inflict void damage. You regain a number of hit points equal to half the void damage inflicted, and the creature struck becomes [[Sickened|Sickened 1]] from the agony.
 
 *Source: Pathfinder Kingmaker*
 *OGL*

@@ -35,9 +35,9 @@ The physical growth of your transformation is a spectacle that shakes foes to th
 
 **Success** The creature is unaffected.
 
-**Failure** The creature becomes [[Conditions/Frightened|Frightened 1]].
+**Failure** The creature becomes [[Frightened|Frightened 1]].
 
-**Critical Failure** The creature becomes [[Conditions/Frightened|Frightened 2]], and you can push it up to 10 feet from you. This is forced movement.
+**Critical Failure** The creature becomes [[Frightened|Frightened 2]], and you can push it up to 10 feet from you. This is forced movement.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

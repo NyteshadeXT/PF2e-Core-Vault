@@ -21,7 +21,7 @@ license: ORC
 
 You rejuvenate your spirit by taking your rest where Mother Earth embraces Father Moon. When you rest outdoors, you can choose one of the following benefits, which lasts until your next sleep cycle and can't be changed.
 
-*   **Father Moon's Vigilance** While sleeping, you don't take a penalty to Perception rolls for being [[Conditions/Unconscious|Unconscious]].
+*   **Father Moon's Vigilance** While sleeping, you don't take a penalty to Perception rolls for being [[Unconscious|Unconscious]].
 *   **Mother Earth's Care** After 8 hours of sleep, you regain additional Hit Points equal to your Constitution modifier plus your level.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*

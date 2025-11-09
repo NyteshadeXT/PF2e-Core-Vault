@@ -47,7 +47,7 @@ When an undead creature or a haunt comes within the light of a _soulspark candle
 
 * * *
 
-**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[Conditions/Concealed|Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
+**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[3-Rules/Conditions/Concealed|Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
 
 **Activate** `pf2:3` command (divine, evocation, fire)
 

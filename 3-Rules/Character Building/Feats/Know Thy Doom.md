@@ -23,7 +23,7 @@ license: ORC
 * * *
 **Frequency** once per day
 
-**Trigger** You are [[Conditions/Doomed|Doomed 1]] or greater and your [[Conditions/Dying|Dying]] value would increase.
+**Trigger** You are [[Doomed|Doomed 1]] or greater and your [[Dying|Dying]] value would increase.
 
 * * *
 

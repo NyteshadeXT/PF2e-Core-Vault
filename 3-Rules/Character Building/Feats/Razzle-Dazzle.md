@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[Conditions/Blinded|Blinded]] or [[Conditions/Dazzled|Dazzled]] condition you give the target by 1 round.
+You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[Blinded|Blinded]] or [[Dazzled|Dazzled]] condition you give the target by 1 round.
 
 *Source: Pathfinder Player Core*
 *ORC*

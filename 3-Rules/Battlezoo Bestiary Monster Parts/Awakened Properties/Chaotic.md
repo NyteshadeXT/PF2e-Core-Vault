@@ -45,4 +45,4 @@ aliases: "Chaotic"
 *   **14th** The chaotic damage dealt by this awakened property (including persistent chaotic damage) ignores resistances
 *   **16th** On a critical hit against a lawful creature, they become [[Stupefied|Stupefied 2]] instead of [[stupefied 1]]
 *   **18th** On a successful DC 11 Flat Check when dealing persistent chaotic damage, the damage increases to 10 instead of 6
-*   **20th** On a critical hit, the befuddling effect becomes even more powerful. After becoming [[stupefied|stupefied 2]], the target must succeed at a Will save or become [[Confused]] for 1 round
+*   **20th** On a critical hit, the befuddling effect becomes even more powerful. After becoming [[Stupefied|stupefied 2]], the target must succeed at a Will save or become [[Confused]] for 1 round

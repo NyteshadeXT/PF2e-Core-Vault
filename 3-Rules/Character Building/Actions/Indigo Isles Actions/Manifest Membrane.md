@@ -30,11 +30,11 @@ license: OGL
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 1** [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** [[Conditions/Drained|Drained 1]] and stupefied 1 (1 round)
+**Stage 2** [[Drained|Drained 1]] and stupefied 1 (1 round)
 
-**Stage 3** drained 1 and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 3** drained 1 and [[Stupefied|Stupefied 2]] (1 round)
 
 *Source: *
 *OGL*

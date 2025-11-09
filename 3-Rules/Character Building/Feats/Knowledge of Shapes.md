@@ -14,7 +14,7 @@ license: ORC
 ---
 # Knowledge of Shapes `pf2:0`
 ## Feat 4
-### [[cursebound]][[oracle]][[spellshape]]
+### [[Cursebound]][[oracle]][[spellshape]]
 
 **Category** class; 
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a 20-foot burst centered on one corner of your space. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a 20-foot burst centered on one corner of your space. All creatures within that area are [[3-Rules/Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
 
 *Source: Pathfinder GM Core*
 *ORC*

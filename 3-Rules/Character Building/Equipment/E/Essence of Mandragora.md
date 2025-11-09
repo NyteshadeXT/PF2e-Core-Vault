@@ -32,9 +32,9 @@ This poison is extracted carefully from a mandragora's thorny vines in a process
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)
+**Stage 2** 1d6 poison damage, [[Confused|Confused]], and stupefied 1 (1 round)
 
 **Stage 3** 2d6 poison damage, confused, and stupefied 1 (1 round)
 

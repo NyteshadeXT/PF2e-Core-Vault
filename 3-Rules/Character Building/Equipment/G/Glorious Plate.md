@@ -27,9 +27,9 @@ In battle, _glorious plate_ sheds bright light in a 10-foot radius, which enemie
 
 **Success** The enemy is unaffected.
 
-**Failure** For 1 minute, the wearer's allies within the glorious plate's 10-foot radius of light are [[Conditions/Concealed|Concealed]] to the enemy. Allies are concealed only while they remain within the light; if allies enter the light later, they are concealed as well.
+**Failure** For 1 minute, the wearer's allies within the glorious plate's 10-foot radius of light are [[3-Rules/Conditions/Concealed|Concealed]] to the enemy. Allies are concealed only while they remain within the light; if allies enter the light later, they are concealed as well.
 
-**Critical Failure** As failure, except the wearer's allies are [[Conditions/Hidden|Hidden]] to the enemy instead of concealed.
+**Critical Failure** As failure, except the wearer's allies are [[Hidden|Hidden]] to the enemy instead of concealed.
 
 * * *
 

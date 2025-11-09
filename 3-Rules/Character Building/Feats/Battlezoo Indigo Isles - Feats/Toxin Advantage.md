@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Persistent Toxin
 * * *
-It's easy for you to strike your foe down while they're ravaged by your toxin. Any creature suffering from persistent acid damage or persistent poison damage from your toxin is [[Conditions/Off-Guard]] to you as long as they're suffering from the persistent damage. If they're immune to both acid and poison damage, they aren't off-guard to you.
+It's easy for you to strike your foe down while they're ravaged by your toxin. Any creature suffering from persistent acid damage or persistent poison damage from your toxin is [[Off-Guard]] to you as long as they're suffering from the persistent damage. If they're immune to both acid and poison damage, they aren't off-guard to you.
 
 *Source: *
 *OGL*

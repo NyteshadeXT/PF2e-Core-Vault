@@ -30,11 +30,11 @@ This substance is the result of a failed alchemical experiment to regrow a sever
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 4d6 poison, [[Conditions/Clumsy|Clumsy 1]], and must succeed at a DC 5 Flat check to perform an action with the manipulate trait or the action fails and is lost (1 round)
+**Stage 1** 4d6 poison, [[Clumsy|Clumsy 1]], and must succeed at a DC 5 Flat check to perform an action with the manipulate trait or the action fails and is lost (1 round)
 
-**Stage 2** 4d6 poison, clumsy 1, [[Conditions/Slowed|Slowed 1]], 2d6 bludgeoning (1 round)
+**Stage 2** 4d6 poison, clumsy 1, [[Slowed|Slowed 1]], 2d6 bludgeoning (1 round)
 
-**Stage 3** 4d6 poison, [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Slowed|Slowed 2]], 4d6 bludgeoning (1 round)
+**Stage 3** 4d6 poison, [[Clumsy|Clumsy 2]], [[Slowed|Slowed 2]], 4d6 bludgeoning (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

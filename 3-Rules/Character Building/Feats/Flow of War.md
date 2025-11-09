@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Divine battle instincts take over your body, letting you move and lash out with instinctive speed. You become [[Conditions/Quickened|Quickened]] until the end of your turn and can use the extra action only to Strike or Stride.
+Divine battle instincts take over your body, letting you move and lash out with instinctive speed. You become [[Quickened|Quickened]] until the end of your turn and can use the extra action only to Strike or Stride.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

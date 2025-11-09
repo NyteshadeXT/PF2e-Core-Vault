@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You spring on an unsuspecting opponent, tearing at them with your teeth. You Stride up to 10 feet and make a jaws Strike at the end of that movement. If you began this action [[Conditions/Hidden|Hidden]], you remain hidden until after this Strike. If you have a fly or swim Speed, you can Fly or Swim up to 10 feet instead of Stride
+You spring on an unsuspecting opponent, tearing at them with your teeth. You Stride up to 10 feet and make a jaws Strike at the end of that movement. If you began this action [[Hidden|Hidden]], you remain hidden until after this Strike. If you have a fly or swim Speed, you can Fly or Swim up to 10 feet instead of Stride
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

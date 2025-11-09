@@ -38,7 +38,7 @@ The top can't be activated again for 1d4 hours
 
 | d20 | Madcap Top Effect |
 | --- | --- |
-| 1 | You spin just like the top. You are [[Conditions/Stunned\|Stunned]] for 1 round and then [[Conditions/Confused\|Confused]] for 1 round. |
+| 1 | You spin just like the top. You are [[Stunned\|Stunned]] for 1 round and then [[Confused\|Confused]] for 1 round. |
 | 2 | [[Spells/Slow\|Slow]] affects the target. |
 | 3 | [[Spells/Shrink\|Shrink]] affects you for 1 day. |
 | 4 | A 3rd-rank [[Spells/Illusory Disguise\|Illusory Disguise]] makes you look like the target. |

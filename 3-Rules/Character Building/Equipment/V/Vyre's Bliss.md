@@ -33,13 +33,13 @@ Vyre's Bliss is a toxin that looks and tastes like fine wine.
 
 **Maximum Duration** 24 hours
 
-**Stage 1** [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 1** [[Off-Guard|Off-Guard]] and [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** off-guard, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 2** off-guard, [[Clumsy|Clumsy 1]], and [[Stupefied|Stupefied 2]] (1 round)
 
-**Stage 3** off-guard, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Stupefied|Stupefied 3]] (1 round)
+**Stage 3** off-guard, [[Clumsy|Clumsy 2]], and [[Stupefied|Stupefied 3]] (1 round)
 
-**Stage 4** clumsy 2, stupefied 3, and [[Conditions/Unconscious|Unconscious]] (8 hours)
+**Stage 4** clumsy 2, stupefied 3, and [[Unconscious|Unconscious]] (8 hours)
 
 *Source: Pathfinder #206: Bring the House Down*
 *ORC*

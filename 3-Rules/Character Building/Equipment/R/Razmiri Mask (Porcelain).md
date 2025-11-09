@@ -30,7 +30,7 @@ A porcelain Razmiri mask grants a +4 item bonus to Deception checks to [[Actions
 
 * * *
 
-**Effect** You bend "divine" power to your will using the techniques taught you by the Razmiri priesthood. You grant a single target you touch a number of temporary Hit Points equal to twice your level that last for 24 hours. If the target was [[Conditions/Unconscious|Unconscious]], it regains consciousness and doesn't lose consciousness again due to Hit Point loss as long as it has temporary Hit Points from this effect remaining.
+**Effect** You bend "divine" power to your will using the techniques taught you by the Razmiri priesthood. You grant a single target you touch a number of temporary Hit Points equal to twice your level that last for 24 hours. If the target was [[Unconscious|Unconscious]], it regains consciousness and doesn't lose consciousness again due to Hit Point loss as long as it has temporary Hit Points from this effect remaining.
 
 [[Equipment Effects/Effect_ Call Upon Razmir's Benevolence|Effect: Call Upon Razmir's Benevolence]]
 

@@ -34,9 +34,9 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
+**Failure** The creature is [[Slowed|Slowed 1]] until the end of its next turn.
 
-**Critical Failure** The creature is [[Conditions/Petrified|Petrified]] until the end of its next turn.
+**Critical Failure** The creature is [[Petrified|Petrified]] until the end of its next turn.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

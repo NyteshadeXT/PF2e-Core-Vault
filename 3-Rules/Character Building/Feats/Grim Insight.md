@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** umbral gnome heritage
 * * *
-Others' attempts to scare you often grant you insights about your would-be bullies that you can then exploit. If you roll a success on a saving throw against a fear effect, you get a critical success instead, and the source of the fear effect is [[Conditions/Off-Guard|Off-Guard]] to you until the end of your next turn.
+Others' attempts to scare you often grant you insights about your would-be bullies that you can then exploit. If you roll a success on a saving throw against a fear effect, you get a critical success instead, and the source of the fear effect is [[Off-Guard|Off-Guard]] to you until the end of your next turn.
 
 *Source: Pathfinder Lost Omens Character Guide*
 *OGL*

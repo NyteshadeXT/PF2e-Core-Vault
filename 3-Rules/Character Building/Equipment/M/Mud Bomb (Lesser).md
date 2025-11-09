@@ -32,7 +32,7 @@ license: OGL
 
 * * *
 
-This clay vessel launches gobs of clinging mud and grit. The bomb deals 1d6 bludgeoning damage and 1 bludgeoning splash damage. On a critical hit, the target is [[Conditions/Dazzled|Dazzled]] until the start of your next turn.
+This clay vessel launches gobs of clinging mud and grit. The bomb deals 1d6 bludgeoning damage and 1 bludgeoning splash damage. On a critical hit, the target is [[Dazzled|Dazzled]] until the start of your next turn.
 
 *Source: Pathfinder #176: Lost Mammoth Valley*
 *OGL*

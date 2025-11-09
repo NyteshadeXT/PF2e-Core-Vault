@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Pactbinder Dedication
 * * *
-You've sworn a pact with a pact that has somehow survived long after the death of the original pactbinder. You gain the [[Actions/Forced Pact|Forced Pact]] action. In exchange, this and any other pact you have made seek longevity. Whenever you become [[Conditions/Dying|Dying 3]] or higher, all of your pacts abandon you and flee to the nearest safe space. You can sense their direction at all times, and if you find them, you regain all of your pacts.
+You've sworn a pact with a pact that has somehow survived long after the death of the original pactbinder. You gain the [[Actions/Forced Pact|Forced Pact]] action. In exchange, this and any other pact you have made seek longevity. Whenever you become [[Dying|Dying 3]] or higher, all of your pacts abandon you and flee to the nearest safe space. You can sense their direction at all times, and if you find them, you regain all of your pacts.
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

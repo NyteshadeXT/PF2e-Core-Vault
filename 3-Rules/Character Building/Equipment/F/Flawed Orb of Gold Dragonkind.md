@@ -34,7 +34,7 @@ While carried, the _Flawed Orb of Gold Dragonkind_ grants its owner resistance 3
 
 **Critical Success** The dragon is unaffected.
 
-**Success** The dragon is [[Conditions/Stunned|Stunned 3]].
+**Success** The dragon is [[Stunned|Stunned 3]].
 
 **Failure** The dragon is stunned for as long as the orb's wielder Sustains the Activation.
 

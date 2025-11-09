@@ -32,7 +32,7 @@ A slew of logs eject from the Plane of Wood and slam into your enemies. They rol
 
 **Failure** The creature takes full damage and is pushed out of the line in the most direct path available.
 
-**Critical Failure** The creature takes double damage and is knocked [[Conditions/Prone|Prone]].
+**Critical Failure** The creature takes double damage and is knocked [[Prone|Prone]].
 
 * * *
 

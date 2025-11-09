@@ -35,11 +35,11 @@ Each enemy in the bright light of your nimbus attempts a Will check saving throw
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]], but can immediately Step as long it moves away from you.
+**Success** The creature is [[Frightened|Frightened 1]], but can immediately Step as long it moves away from you.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]] and you are [[Conditions/Concealed|Concealed]] to that creature while it has the frightened condition.
+**Failure** The creature is [[Frightened|Frightened 2]] and you are [[3-Rules/Conditions/Concealed|Concealed]] to that creature while it has the frightened condition.
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and you are [[Conditions/Hidden|Hidden]] to that creature while it has the frightened condition.
+**Critical Failure** The creature is [[Frightened|Frightened 3]] and you are [[Hidden|Hidden]] to that creature while it has the frightened condition.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

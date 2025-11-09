@@ -35,13 +35,13 @@ This gray mold can be found growing on the remains of venomous arachnids - parti
 
 * * *
 
-**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** [[Slowed|Slowed 1]] (1 round)
 
-**Stage 2** [[Conditions/Slowed|Slowed 2]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 2** [[Slowed|Slowed 2]] and [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 3** [[Conditions/Paralyzed|Paralyzed]] and Stupefied 1 (1 round)
+**Stage 3** [[Paralyzed|Paralyzed]] and Stupefied 1 (1 round)
 
-**Stage 4** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours).
+**Stage 4** [[Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours).
 
 *Source: Pathfinder One-Shot #2: Dinner at Lionlodge*
 *OGL*

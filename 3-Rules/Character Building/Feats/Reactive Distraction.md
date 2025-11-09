@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You reactively switch with your decoy to foil your foe. You use Perfect Distraction, even if you were observed, as long as you end the movement of your [[Actions/Sneak|Sneak]] while [[Conditions/Concealed|Concealed]] or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your Sneak doesn't move you out of the area, both you and the decoy are targeted by the effect.
+You reactively switch with your decoy to foil your foe. You use Perfect Distraction, even if you were observed, as long as you end the movement of your [[Actions/Sneak|Sneak]] while [[3-Rules/Conditions/Concealed|Concealed]] or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your Sneak doesn't move you out of the area, both you and the decoy are targeted by the effect.
 
 *Source: Pathfinder Player Core*
 *ORC*

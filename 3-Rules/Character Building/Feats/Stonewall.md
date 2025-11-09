@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The strength of stone overcomes you so strongly that it replaces your stout body. You become [[Conditions/Petrified|Petrified]] until the end of the current turn. You don't take any damage from the triggering effect or any other ill effects that couldn't affect stone.
+The strength of stone overcomes you so strongly that it replaces your stout body. You become [[Petrified|Petrified]] until the end of the current turn. You don't take any damage from the triggering effect or any other ill effects that couldn't affect stone.
 
 *Source: Pathfinder Player Core*
 *ORC*

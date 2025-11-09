@@ -20,7 +20,7 @@ license: ORC
 
 The ghost stares at a creature it can see within 30 feet. The target takes 1d6 void damage + 1d6 per 2 levels with a Will check save.
 
-A creature that fails its save is also [[Conditions/Stupefied|Stupefied 1]] for 1 minute.
+A creature that fails its save is also [[Stupefied|Stupefied 1]] for 1 minute.
 
 For DCs, use the high spell DC of the ghost's level.
 

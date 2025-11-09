@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Empowered with divine energy, you can be at an ally's side in the blink of an eye. You teleport to an empty space adjacent to an ally within 100 feet. If you spend a Mythic Point as part of this action, you can teleport to anywhere within a mile, and when you arrive, any enemies adjacent to you must succeed at a Will check saving throw against your class DC or spell DC or be [[Conditions/Stunned|Stunned 1]].
+Empowered with divine energy, you can be at an ally's side in the blink of an eye. You teleport to an empty space adjacent to an ally within 100 feet. If you spend a Mythic Point as part of this action, you can teleport to anywhere within a mile, and when you arrive, any enemies adjacent to you must succeed at a Will check saving throw against your class DC or spell DC or be [[Stunned|Stunned 1]].
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

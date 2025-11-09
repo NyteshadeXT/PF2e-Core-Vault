@@ -29,11 +29,11 @@ You position particularly foul substances to splash over a creature. The first c
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes [[Conditions/Sickened|Sickened 1]].
+**Success** The creature becomes [[Sickened|Sickened 1]].
 
-**Failure** The creature becomes [[Conditions/Sickened|Sickened 2]].
+**Failure** The creature becomes [[Sickened|Sickened 2]].
 
-**Critical Failure** The creature becomes [[Conditions/Sickened|Sickened 3]].
+**Critical Failure** The creature becomes [[Sickened|Sickened 3]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

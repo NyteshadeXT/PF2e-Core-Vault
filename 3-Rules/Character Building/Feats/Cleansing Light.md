@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-rank [[Spells/Restoration|Restoration]] spell. All enemies within the emanation are [[Conditions/Dazzled|Dazzled]] until the end of your next turn.
+A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-rank [[Spells/Restoration|Restoration]] spell. All enemies within the emanation are [[Dazzled|Dazzled]] until the end of your next turn.
 
 *Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

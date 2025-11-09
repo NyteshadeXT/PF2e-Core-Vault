@@ -22,7 +22,7 @@ license: ORC
 * * *
 Like how a constrictor wraps itself around its next meal, your companion tightens its teeth around its constrained prey to squeeze the life out of it. Your companions with a qualifying unarmed attack learn the Sinking Jaws activity.
 
-**Sinking Jaws** `pf2:1` **Requirements** This companion has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with its jaws or fangs
+**Sinking Jaws** `pf2:1` **Requirements** This companion has a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]] with its jaws or fangs
 
 * * *
 

@@ -23,11 +23,11 @@ license: OGL
 
 * * *
 
-**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)
+**Stage 1** [[Fatigued|Fatigued]] (1 day)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)
+**Stage 2** [[Enfeebled|Enfeebled 2]] and fatigued (1 day)
 
-**Stage 3** [[Conditions/Enfeebled|Enfeebled 3]], fatigued, and takes 1d6 bleed every 1d20 minutes (1 day)
+**Stage 3** [[Enfeebled|Enfeebled 3]], fatigued, and takes 1d6 bleed every 1d20 minutes (1 day)
 
 *Source: Pathfinder Bestiary 2*
 *OGL*

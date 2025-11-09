@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Iruxi Armaments (Tail)
 * * *
-**Trigger** You become [[Conditions/Grabbed|Grabbed]].
+**Trigger** You become [[Grabbed|Grabbed]].
 
 **Requirements** You have a fully grown tail.
 

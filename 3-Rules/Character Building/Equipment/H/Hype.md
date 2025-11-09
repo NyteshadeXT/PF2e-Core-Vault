@@ -31,9 +31,9 @@ A synthetic adrenaline supplement that increases awareness and reaction time.
 
 **Stage 1** quickened and can use the additional action to Step or Stride (1 round)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 2** [[Stupefied|Stupefied 2]] (1 round)
 
-**Stage 3** [[Conditions/Drained|Drained 2]] and stupefied 2 (1 round)
+**Stage 3** [[Drained|Drained 2]] and stupefied 2 (1 round)
 
 *Source: Pathfinder Lost Omens Legends*
 *OGL*

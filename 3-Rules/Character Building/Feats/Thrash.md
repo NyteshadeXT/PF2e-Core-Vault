@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You have an enemy [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have an enemy [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 

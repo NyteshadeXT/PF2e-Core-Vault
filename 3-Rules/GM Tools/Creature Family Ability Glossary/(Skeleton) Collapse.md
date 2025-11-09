@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-**Effect** The skeleton collapses into a pile of bones and the attack deals only normal damage. The skeleton can reform in a standing position as an action, but until it does, it is [[Conditions/Immobilized|Immobilized]] and [[Conditions/Off-Guard|Off-Guard]].
+**Effect** The skeleton collapses into a pile of bones and the attack deals only normal damage. The skeleton can reform in a standing position as an action, but until it does, it is [[Immobilized|Immobilized]] and [[Off-Guard|Off-Guard]].
 
 *Source: Pathfinder Monster Core*
 *ORC*

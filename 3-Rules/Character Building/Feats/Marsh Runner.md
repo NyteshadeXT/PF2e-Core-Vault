@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** You have a swim Speed
 * * *
-When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to [[Actions/Balance|Balance]] on narrow surfaces or uneven marshy ground, you aren't [[Conditions/Off-Guard|Off-Guard]], and if you roll a success on the Acrobatics check, you get a critical success instead.
+When you use the Step action, you can ignore difficult terrain caused by flooding, swamps, or quicksand. In addition, when you use the Acrobatics skill to [[Actions/Balance|Balance]] on narrow surfaces or uneven marshy ground, you aren't [[Off-Guard|Off-Guard]], and if you roll a success on the Acrobatics check, you get a critical success instead.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -25,7 +25,7 @@ This rune utilizes magical principles used in an _[[Equipment/Immovable Rod|Immo
 
 * * *
 
-**Effect** Your armor anchors you in place, even defying gravity, rendering you [[Conditions/Immobilized|Immobilized]] until you Dismiss the Activation. While you're immobilized in this way, you can be moved only if a creature succeeds at a DC 40 Athletics check check to [[Actions/Force Open|Force Open]] your armor. You can also be moved if 8,000 pounds of pressure are placed upon you, though this is likely fatal.
+**Effect** Your armor anchors you in place, even defying gravity, rendering you [[Immobilized|Immobilized]] until you Dismiss the Activation. While you're immobilized in this way, you can be moved only if a creature succeeds at a DC 40 Athletics check check to [[Actions/Force Open|Force Open]] your armor. You can also be moved if 8,000 pounds of pressure are placed upon you, though this is likely fatal.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

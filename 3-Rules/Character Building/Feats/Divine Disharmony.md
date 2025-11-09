@@ -25,7 +25,7 @@ From your collection of religious trinkets, you pull out opposing divine objects
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Off-Guard|Off-Guard]] to your attacks until the end of your next turn.
+**Critical Success** The creature is [[Off-Guard|Off-Guard]] to your attacks until the end of your next turn.
 
 **Success** The creature is off-guard against your attacks until the end of your current turn.
 

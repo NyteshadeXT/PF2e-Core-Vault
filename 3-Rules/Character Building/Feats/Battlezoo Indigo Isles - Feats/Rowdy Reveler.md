@@ -26,9 +26,9 @@ You can incite a crowd into frenzied fervor, often making things more dangerous 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] until the end of their next turn.
+**Failure** The creature is [[Clumsy|Clumsy 2]] until the end of their next turn.
 
-**Critical Failure** The creature is clumsy 2 and [[Conditions/Confused|Confused]] until the end of their next turn or for the duration of the Revel, whichever is longer.
+**Critical Failure** The creature is clumsy 2 and [[Confused|Confused]] until the end of their next turn or for the duration of the Revel, whichever is longer.
 
 *Source: *
 *OGL*

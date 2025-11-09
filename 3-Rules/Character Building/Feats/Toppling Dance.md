@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Dance Underfoot
 * * *
-While sharing a creature's space using Dance Underfoot, your melee weapons and unarmed attacks gain the trip trait, but only against the creature whose space you share. You can be in the same space as a Large or larger [[Conditions/Prone|Prone]] creature, even if it's not your ally.
+While sharing a creature's space using Dance Underfoot, your melee weapons and unarmed attacks gain the trip trait, but only against the creature whose space you share. You can be in the same space as a Large or larger [[Prone|Prone]] creature, even if it's not your ally.
 
 *Source: Pathfinder Player Core*
 *ORC*

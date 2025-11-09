@@ -36,7 +36,7 @@ This _+1 striking dagger_ made of black stone is carved from the bloodstained ea
 
 * * *
 
-**Effect** Blood seeps out of the knife, coating your hand. Enemies within 30 feet who can see this must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] (frightened 1 and [[Conditions/Doomed|Doomed 1]] on a critical failure). The knife continues to bleed for 1 minute or until you make a successful Strike with it, which deals an additional 1d6 persistent bleed damage.
+**Effect** Blood seeps out of the knife, coating your hand. Enemies within 30 feet who can see this must succeed at a DC 26 Will check save or become [[Frightened|Frightened 1]] (frightened 1 and [[Doomed|Doomed 1]] on a critical failure). The knife continues to bleed for 1 minute or until you make a successful Strike with it, which deals an additional 1d6 persistent bleed damage.
 
 *Source: Pathfinder #208: Hoof, Cinder, and Storm*
 *ORC*

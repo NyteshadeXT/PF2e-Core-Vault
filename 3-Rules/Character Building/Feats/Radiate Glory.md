@@ -29,11 +29,11 @@ Any creature that can see you while you Radiate Glory must attempt a Will check 
 
 **Critical Success** The creature is unaffected.
 
-**Success** You are [[Conditions/Concealed|Concealed]] to the creature for 1 round by the shining light, but can't use this concealment to [[Actions/Hide|Hide]], as normal for when your location is obvious.
+**Success** You are [[3-Rules/Conditions/Concealed|Concealed]] to the creature for 1 round by the shining light, but can't use this concealment to [[Actions/Hide|Hide]], as normal for when your location is obvious.
 
 **Failure** As success, except you are concealed to the creature while your glory radiates.
 
-**Critical Failure** You are [[Conditions/Hidden|Hidden]] to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [[Actions/Sneak|Sneak]].
+**Critical Failure** You are [[Hidden|Hidden]] to the creature while your glory radiates, lost amid the radiant corona of your presence. Your general position is still obvious, so you can't use this to [[Actions/Sneak|Sneak]].
 
 *Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

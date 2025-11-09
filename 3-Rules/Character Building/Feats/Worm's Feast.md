@@ -34,7 +34,7 @@ You call forth a brood of infantile cave worms to feast on your enemy's flesh. C
 
 **Failure** The target takes 6d6 piercing + 2d6 persistent piercing damage.
 
-**Critical Failure** As failure, plus the target is [[Conditions/Off-Guard|Off-Guard]] as long as it takes persistent piercing damage.
+**Critical Failure** As failure, plus the target is [[Off-Guard|Off-Guard]] as long as it takes persistent piercing damage.
 
 * * *
 

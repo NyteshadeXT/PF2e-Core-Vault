@@ -33,7 +33,7 @@ You quickly wrap your lash around an opponent and pull them toward you. Attempt 
 
 **Success** You pull the target to the nearest open space adjacent to you.
 
-**Critical Failure** You misjudge your leverage and fall [[Conditions/Prone|Prone]].
+**Critical Failure** You misjudge your leverage and fall [[Prone|Prone]].
 
 * * *
 

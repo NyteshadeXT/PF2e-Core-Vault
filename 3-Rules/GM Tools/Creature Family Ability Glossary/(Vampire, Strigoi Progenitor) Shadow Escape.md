@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The strigoi uses Shadow Form. It can take move actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the strigoi is unaffected by further damage. Once the strigoi reaches its coffin, or if it hasn't done so within 2 hours, it automatically returns to its physical form, [[Conditions/Unconscious|Unconscious]].
+**Effect** The strigoi uses Shadow Form. It can take move actions to move toward its coffin even though it's at 0 HP. While at 0 HP in this form, the strigoi is unaffected by further damage. Once the strigoi reaches its coffin, or if it hasn't done so within 2 hours, it automatically returns to its physical form, [[Unconscious|Unconscious]].
 
 *Source: Pathfinder Adventure: Shadows at Sundown*
 *OGL*

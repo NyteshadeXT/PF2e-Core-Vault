@@ -20,7 +20,7 @@ license: ORC
 
 
 
-Desperate to finish the fight, you pour all your rage into one final blow. Make a Strike. If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). After this Strike, your Rage immediately ends, and you are [[Conditions/Fatigued|Fatigued]] until you rest for at least 10 minutes.
+Desperate to finish the fight, you pour all your rage into one final blow. Make a Strike. If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). After this Strike, your Rage immediately ends, and you are [[Fatigued|Fatigued]] until you rest for at least 10 minutes.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

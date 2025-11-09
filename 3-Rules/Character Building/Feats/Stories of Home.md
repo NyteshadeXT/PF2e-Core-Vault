@@ -30,7 +30,7 @@ license: ORC
 
 * * *
 
-You share the joy of every story of long-awaited homecoming you've offered to Isthralei. You can spend 10 minutes sharing this joy with your allies within 30 feet. You and those allies regain Hit Points equal to their Constitution modifier (minimum 1) times their level and recover from the [[Conditions/Doomed|Doomed]], [[Conditions/Drained|Drained]], and [[Conditions/Fatigued|Fatigued]] conditions as though they had a full night's rest (though they gain no other benefits associated with having a full night's rest).
+You share the joy of every story of long-awaited homecoming you've offered to Isthralei. You can spend 10 minutes sharing this joy with your allies within 30 feet. You and those allies regain Hit Points equal to their Constitution modifier (minimum 1) times their level and recover from the [[Doomed|Doomed]], [[Drained|Drained]], and [[Fatigued|Fatigued]] conditions as though they had a full night's rest (though they gain no other benefits associated with having a full night's rest).
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

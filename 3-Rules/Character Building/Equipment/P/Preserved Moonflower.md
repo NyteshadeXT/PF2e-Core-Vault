@@ -32,7 +32,7 @@ When consumed, tendrils sprout from your veins and curl around you, granting you
 
 [[Equipment Effects/Effect_ Preserved Moonflower|Effect: Preserved Moonflower]]
 
-Eating more than one preserved moonflower dish in a day doesn't grant further benefits and makes you [[Conditions/Drained|Drained 1]].
+Eating more than one preserved moonflower dish in a day doesn't grant further benefits and makes you [[Drained|Drained 1]].
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

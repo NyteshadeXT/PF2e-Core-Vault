@@ -31,9 +31,9 @@ Fired clay covers a shallow pit of thin mud interspersed with fragile vials of a
 
 **Success** The creature takes a –5-foot circumstance penalty to its Speed for 1 minute or until it [[Actions/escape dc=27|escape dc=27]]{Escapes} (DC 27).
 
-**Failure** The creature is [[Conditions/Stunned|Stunned 2]], and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
+**Failure** The creature is [[Stunned|Stunned 2]], and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
 
-**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]], and it's [[Conditions/Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
+**Critical Failure** The creature is [[Stunned|Stunned 3]], and it's [[Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
 
 [[Equipment Effects/Effect_ Mudrock Snare|Effect: Mudrock Snare]]
 

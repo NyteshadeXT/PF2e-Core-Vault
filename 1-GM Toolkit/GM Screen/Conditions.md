@@ -12,15 +12,15 @@ tags:
 
 | **Group** | **Conditions** |  |  |  |
 | --- | --- | --- | --- | --- |
-| **Degrees of Detection** | **[[Conditions/Observed\|Observed]]** | **[[Conditions/Hidden\|Hidden]]** | **[[Conditions/Undetected\|Undetected]]** | **[[Conditions/Unnoticed\|Unnoticed]]** |
-| **Senses** | [[Conditions/Blinded\|Blinded]] | [[Conditions/Concealed\|Concealed]] | [[Conditions/Dazzled\|Dazzled]] | [[Conditions/Deafened\|Deafened]] |
-|  | [[Conditions/Invisible\|Invisible]] |  |  |  |
-| **Death and Dying** | [[Conditions/Doomed\|Doomed]] | [[Conditions/Dying\|Dying]] | [[Conditions/Unconscious\|Unconscious]] | [[Conditions/Wounded\|Wounded]] |
-| **Attitudes** | [[Conditions/Hostile\|Hostile]] | [[Conditions/Unfriendly\|Unfriendly]] | [[Conditions/Indifferent\|Indifferent]] | [[Conditions/Friendly\|Friendly]] |
-|  | [[Conditions/Helpful\|Helpful]] |  |  |  |
-| **Lowered Ability** | [[Conditions/Broken\|Broken]] | [[Conditions/Clumsy\|Clumsy]] | [[Conditions/Confused\|Confused]] | [[Conditions/Controlled\|Controlled]] |
-|  | [[Conditions/Drained\|Drained]] | [[Conditions/Encumbered\|Encumbered]] | [[Conditions/Enfeebled\|Enfeebled]] | [[Conditions/Fascinated\|Fascinated]] |
-|  | [[Conditions/Fatigued\|Fatigued]] | [[Conditions/Off-Guard\|Off-Guard]] | [[Conditions/Fleeing\|Fleeing]] | [[Conditions/Frightened\|Frightened]] |
-|  | [[Conditions/Grabbed\|Grabbed]] | [[Conditions/Immobilized\|Immobilized]] | [[Conditions/Paralyzed\|Paralyzed]] | [[Conditions/Persistent Damage\|Persistent Damage]] |
-|  | [[Conditions/Petrified\|Petrified]] | [[Conditions/Prone\|Prone]] | [[Conditions/Quickened\|Quickened]] | [[Conditions/Restrained\|Restrained]] |
-|  | [[Conditions/Sickened\|Sickened]] | [[Conditions/Slowed\|Slowed]] | [[Conditions/Stunned\|Stunned]] | [[Conditions/Stupefied\|Stupefied]] |
+| **Degrees of Detection** | **[[Observed\|Observed]]** | **[[Hidden\|Hidden]]** | **[[Undetected\|Undetected]]** | **[[Unnoticed\|Unnoticed]]** |
+| **Senses** | [[Blinded\|Blinded]] | [[3-Rules/Conditions/Concealed\|Concealed]] | [[Dazzled\|Dazzled]] | [[Deafened\|Deafened]] |
+|  | [[Invisible\|Invisible]] |  |  |  |
+| **Death and Dying** | [[Doomed\|Doomed]] | [[Dying\|Dying]] | [[Unconscious\|Unconscious]] | [[Wounded\|Wounded]] |
+| **Attitudes** | [[Hostile\|Hostile]] | [[Unfriendly\|Unfriendly]] | [[Indifferent\|Indifferent]] | [[Friendly\|Friendly]] |
+|  | [[Helpful\|Helpful]] |  |  |  |
+| **Lowered Ability** | [[Broken\|Broken]] | [[Clumsy\|Clumsy]] | [[Confused\|Confused]] | [[Controlled\|Controlled]] |
+|  | [[Drained\|Drained]] | [[Encumbered\|Encumbered]] | [[Enfeebled\|Enfeebled]] | [[Fascinated\|Fascinated]] |
+|  | [[Fatigued\|Fatigued]] | [[Off-Guard\|Off-Guard]] | [[Fleeing\|Fleeing]] | [[Frightened\|Frightened]] |
+|  | [[Grabbed\|Grabbed]] | [[Immobilized\|Immobilized]] | [[Paralyzed\|Paralyzed]] | [[Persistent Damage\|Persistent Damage]] |
+|  | [[Petrified\|Petrified]] | [[Prone\|Prone]] | [[Quickened\|Quickened]] | [[Restrained\|Restrained]] |
+|  | [[Sickened\|Sickened]] | [[Slowed\|Slowed]] | [[Stunned\|Stunned]] | [[Stupefied\|Stupefied]] |

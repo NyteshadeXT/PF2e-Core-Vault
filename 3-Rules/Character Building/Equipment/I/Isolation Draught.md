@@ -33,11 +33,11 @@ Derived from steeping toxic highland plum pits in refined grain alcohols, this c
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Conditions/Dazzled|Dazzled]], -3 to all Perception checks (1 minute)
+**Stage 1** [[Dazzled|Dazzled]], -3 to all Perception checks (1 minute)
 
-**Stage 2** dazzled, [[Conditions/Deafened|Deafened]], -5 to all Perception checks (1 minute)
+**Stage 2** dazzled, [[Deafened|Deafened]], -5 to all Perception checks (1 minute)
 
-**Stage 3** [[Conditions/Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)
+**Stage 3** [[Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

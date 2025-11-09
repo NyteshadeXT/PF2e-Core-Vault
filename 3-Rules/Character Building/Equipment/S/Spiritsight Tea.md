@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[Conditions/Invisible|Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[Conditions/Concealed|Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal creatures.
+Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[Invisible|Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[3-Rules/Conditions/Concealed|Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal creatures.
 
 [[Equipment Effects/Effect_ Spiritsight Tea|Effect: Spiritsight Tea]]
 

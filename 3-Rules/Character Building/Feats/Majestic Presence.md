@@ -29,11 +29,11 @@ By taking an impressive stance, the full force of your personality cows lesser b
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]].
+**Critical Failure** The creature is [[Frightened|Frightened 4]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

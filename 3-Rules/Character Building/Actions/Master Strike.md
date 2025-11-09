@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Trigger** Your Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage.
+**Trigger** Your Strike hits an [[Off-Guard|Off-Guard]] creature and deals damage.
 
 * * *
 
@@ -30,11 +30,11 @@ The target attempts a Fortitude check save against your class DC. It then become
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.
+**Success** The target is [[Enfeebled|Enfeebled 2]] until the end of your next turn.
 
-**Failure** The target is [[Conditions/Paralyzed|Paralyzed]] for 4 rounds.
+**Failure** The target is [[Paralyzed|Paralyzed]] for 4 rounds.
 
-**Critical Failure** The target is paralyzed for 4 rounds, knocked [[Conditions/Unconscious|Unconscious]] for 2 hours, or killed (your choice).
+**Critical Failure** The target is paralyzed for 4 rounds, knocked [[Unconscious|Unconscious]] for 2 hours, or killed (your choice).
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Athletics
 * * *
-Your techniques allow you to fight as you climb. You're not [[Conditions/Off-Guard|Off-Guard]] while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.
+Your techniques allow you to fight as you climb. You're not [[Off-Guard|Off-Guard]] while Climbing and can Climb with a hand occupied. You must still use another hand and both legs to Climb.
 
 *Source: Pathfinder Player Core*
 *ORC*

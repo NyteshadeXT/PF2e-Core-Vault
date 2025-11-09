@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round.
+This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or be [[Paralyzed|Paralyzed]] for 1 round.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

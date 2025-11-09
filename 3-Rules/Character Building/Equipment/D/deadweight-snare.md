@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "deadweight-snare"
 aliases: "Deadweight Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
-rarity: ""
+pg: "298"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "kobold"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes a -1 status penalty to attack rolls for 1 round or until it [[Actions/escape dc=18|escape dc=18]]{Escapes} (DC 18).  [[Equipment Effects/Effect_ Deadweight Snare (Success)|Effect: Deadweight Snare (Success)]]  **Failure** The creature takes a -2 status penalty to attack rolls for 1 minute or until it Escapes (DC 18).  **Critical Failure** As failure, but the creature drops any metallic items it's holding.  [[Equipment Effects/Effect_ Deadweight Snare (Failure_Critical Failure)|Effect: Deadweight Snare (Failure/Critical Failure)]]"
+description: "This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex check save.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes a -1 status penalty to attack rolls for 1 round or until it [[Escape]] (DC 18).<br>**Failure** The creature takes a -2 status penalty to attack rolls for 1 minute or until it [[Escape|Escapes]] (DC 18).<br>**Critical Failure** As failure, but the creature drops any metallic items it's holding."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

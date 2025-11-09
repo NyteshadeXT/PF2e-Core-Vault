@@ -34,7 +34,7 @@ You command that your foes bow down before you or face your wrath. All enemies w
 
 **Failure** The creature takes 6d6 persistent mental damage.
 
-**Critical Failure** The creature takes 6d6 persistent mental damage and is [[Conditions/Clumsy|Clumsy 2]] for as long as it's taking that persistent damage.
+**Critical Failure** The creature takes 6d6 persistent mental damage and is [[Clumsy|Clumsy 2]] for as long as it's taking that persistent damage.
 
 The persistent mental damage can be ended only if the creature Drops Prone in a location that you can see and doesn't Stand until their next turn. An affected creature is aware of this restriction.
 

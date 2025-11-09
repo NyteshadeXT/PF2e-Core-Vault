@@ -35,7 +35,7 @@ You attempt to deftly swap places with an adjacent enemy to avoid the attack. Ch
 
 **Failure** You lose your panache.
 
-**Critical Failure** You become [[Conditions/Off-Guard|Off-Guard]] against the triggering attack, and you lose your panache.
+**Critical Failure** You become [[Off-Guard|Off-Guard]] against the triggering attack, and you lose your panache.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

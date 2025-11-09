@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You draw on this spiritual pain to push your body to greater heights. You gain the [[Conditions/Quickened|Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
+You draw on this spiritual pain to push your body to greater heights. You gain the [[Quickened|Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

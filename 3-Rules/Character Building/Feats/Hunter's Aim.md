@@ -20,7 +20,7 @@ license: ORC
 
 
 
-When you focus on aiming, your attack becomes particularly accurate. Make a ranged weapon Strike against your hunted prey. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore your prey's [[Conditions/Concealed|Concealed]] condition and any lesser cover.
+When you focus on aiming, your attack becomes particularly accurate. Make a ranged weapon Strike against your hunted prey. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore your prey's [[3-Rules/Conditions/Concealed|Concealed]] condition and any lesser cover.
 
 *Source: Pathfinder Player Core*
 *ORC*

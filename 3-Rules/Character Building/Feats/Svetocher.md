@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You were born to a moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [[Conditions/Drained|Drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice.
+You were born to a moroi, the most common vampires, and you share their supernatural fortitude and power of persuasion. When you have the [[Drained|Drained]] condition, calculate the penalty to your Fortitude saves and your Hit Point reduction as though the condition value were 1 lower. You're trained in Diplomacy. If you would automatically be trained in it, you instead become trained in a skill of your choice.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -24,7 +24,7 @@ license: OGL
 
 **Activate** `pf2:0` envision
 
-**Trigger** You gain the [[Conditions/Frightened|Frightened]] condition as a result of a Will save
+**Trigger** You gain the [[Frightened|Frightened]] condition as a result of a Will save
 
 **Requirements** You're an expert in Will saves.
 

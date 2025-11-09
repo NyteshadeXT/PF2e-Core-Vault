@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-**Effect** Drawing upon divine fury, you single out a target that damaged you or an ally within the past round and fill your relic with divine vengeance against them. Make a Strike against that foe, dealing an additional damage die on a hit. If the target is evil, it is also [[Conditions/Enfeebled|Enfeebled 1]] until the start of your next turn on a hit (or [[Conditions/Enfeebled|Enfeebled 2]] on a critical hit).
+**Effect** Drawing upon divine fury, you single out a target that damaged you or an ally within the past round and fill your relic with divine vengeance against them. Make a Strike against that foe, dealing an additional damage die on a hit. If the target is evil, it is also [[Enfeebled|Enfeebled 1]] until the start of your next turn on a hit (or [[Enfeebled|Enfeebled 2]] on a critical hit).
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

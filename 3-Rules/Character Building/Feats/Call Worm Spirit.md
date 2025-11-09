@@ -31,9 +31,9 @@ You call forth a ghostly manifestation of the worm spirit. Choose an intersectio
 
 **Success** The target takes 1d10+13 bludgeoning damage as it is battered by the worm's body.
 
-**Failure** The target takes 3d10+15 piercing damage as it is bitten by the worm. The target is [[Conditions/Immobilized|Immobilized]] until the end of its next turn.
+**Failure** The target takes 3d10+15 piercing damage as it is bitten by the worm. The target is [[Immobilized|Immobilized]] until the end of its next turn.
 
-**Critical Failure** As failure, but the damage increases to 6d10+30 bludgeoning and the target is knocked [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, but the damage increases to 6d10+30 bludgeoning and the target is knocked [[Prone|Prone]].
 
 * * *
 

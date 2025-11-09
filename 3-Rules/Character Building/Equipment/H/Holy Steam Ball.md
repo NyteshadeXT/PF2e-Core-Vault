@@ -36,7 +36,7 @@ After using a _holy steam ball_, you must refill it before the next use in a pro
 
 **Requirements** The _holy steam ball_ is filled with evaporated [[Equipment/Holy Water|Holy Water]] and incense smoke;
 
-**Effect** You release the stored steam and smoke to grant yourself its protections. Each use of the _holy steam ball_ lasts for 1 hour and gives you a +2 item bonus to Will saving throws against possession effects from fiends and undead and effects from fiends and undead that cause the [[Conditions/Controlled|Controlled]] condition.
+**Effect** You release the stored steam and smoke to grant yourself its protections. Each use of the _holy steam ball_ lasts for 1 hour and gives you a +2 item bonus to Will saving throws against possession effects from fiends and undead and effects from fiends and undead that cause the [[Controlled|Controlled]] condition.
 
 [[Equipment Effects/Effect_ Holy Steam Ball|Effect: Holy Steam Ball]]
 

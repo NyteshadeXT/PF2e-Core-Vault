@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Thlipit Contestant Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with your lash.
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]] with your lash.
 
 * * *
 

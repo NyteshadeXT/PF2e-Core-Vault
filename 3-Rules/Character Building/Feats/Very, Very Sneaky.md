@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Very Sneaky
 * * *
-You can move up to your Speed when you use the [[Actions/Sneak|Sneak]] action, and you no longer need to have cover or greater cover or be [[Conditions/Concealed|Concealed]] to [[Actions/Hide|Hide]] or Sneak.
+You can move up to your Speed when you use the [[Actions/Sneak|Sneak]] action, and you no longer need to have cover or greater cover or be [[3-Rules/Conditions/Concealed|Concealed]] to [[Actions/Hide|Hide]] or Sneak.
 
 *Source: Pathfinder Player Core*
 *ORC*

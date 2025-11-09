@@ -21,7 +21,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-You carefully pack rare, heat-absorbing powders into a specially prepared clay vessel, then bury the vessel in the ground up to its neck. When a creature enters the square, the vessel's neck shatters, dispersing the powders into the air. The powder instantly douses non-magical fires the size of a campfire or smaller within 10 feet of the snare. The creature triggering the snare must attempt a DC 20 Reflex check save to avoid getting powder in its face. A creature [[Conditions/Blinded|Blinded]] or [[Conditions/Dazzled|Dazzled]] by the powder can use an Interact action to attempt a DC 10 Flat check check; on a success, it removes the condition. On a failure, it can try again, with a DC 5 Flat check check on the next Interact check. If it fails a second time, it automatically removes the condition with a third Interact action.
+You carefully pack rare, heat-absorbing powders into a specially prepared clay vessel, then bury the vessel in the ground up to its neck. When a creature enters the square, the vessel's neck shatters, dispersing the powders into the air. The powder instantly douses non-magical fires the size of a campfire or smaller within 10 feet of the snare. The creature triggering the snare must attempt a DC 20 Reflex check save to avoid getting powder in its face. A creature [[Blinded|Blinded]] or [[Dazzled|Dazzled]] by the powder can use an Interact action to attempt a DC 10 Flat check check; on a success, it removes the condition. On a failure, it can try again, with a DC 5 Flat check check on the next Interact check. If it fails a second time, it automatically removes the condition with a third Interact action.
 
 * * *
 

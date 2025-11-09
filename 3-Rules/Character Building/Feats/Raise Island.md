@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You churn the sea and fish up stone so your enemies together can receive their punishment. Each enemy in a 30-foot emanation must succeed at a Fortitude check save against your class DC or be swept up to 15 feet to another location of your choice within the affected area and become [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn. Then, if you're on a surface, a pillar of earth rises underneath you and lasts for 1 minute. The pillar is 10 feet tall, and its surface includes your space and a 5-foot emanation around you. After the pillar rises, you can attempt a melee Strike against one enemy in reach.
+You churn the sea and fish up stone so your enemies together can receive their punishment. Each enemy in a 30-foot emanation must succeed at a Fortitude check save against your class DC or be swept up to 15 feet to another location of your choice within the affected area and become [[Off-Guard|Off-Guard]] until the start of your next turn. Then, if you're on a surface, a pillar of earth rises underneath you and lasts for 1 minute. The pillar is 10 feet tall, and its surface includes your space and a 5-foot emanation around you. After the pillar rises, you can attempt a melee Strike against one enemy in reach.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

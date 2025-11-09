@@ -37,9 +37,9 @@ Each living creature in a 40-foot emanation takes 8d10 void damage and must atte
 
 **Success** The creature takes full damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Drained|Drained]] 1d4.
+**Failure** The creature takes full damage and is [[Drained|Drained]] 1d4.
 
-**Critical Failure** The creature takes double damage and is [[Conditions/Drained|Drained 4]].
+**Critical Failure** The creature takes double damage and is [[Drained|Drained 4]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

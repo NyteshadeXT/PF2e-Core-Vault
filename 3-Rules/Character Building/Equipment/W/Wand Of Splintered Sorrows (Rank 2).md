@@ -32,7 +32,7 @@ This wooden wand is roughly cut, as if it had been crudely chopped from a tree a
 
 * * *
 
-**Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[Conditions/Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[Conditions/Slowed|Slowed 1]] for the same duration.
+**Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[Slowed|Slowed 1]] for the same duration.
 
 * * *
 

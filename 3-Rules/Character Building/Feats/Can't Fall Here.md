@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[Conditions/Unconscious|Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Conditions/Wounded|Wounded]] condition increases by 1.
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[Unconscious|Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Wounded|Wounded]] condition increases by 1.
 
 [[Feat_Feature Effects/Effect_ Can't Fall Here|Effect: Can't Fall Here]]
 

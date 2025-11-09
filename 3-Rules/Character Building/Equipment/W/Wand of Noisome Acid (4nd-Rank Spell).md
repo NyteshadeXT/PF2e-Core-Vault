@@ -29,7 +29,7 @@ This greasy stick emits a stomach-churning scent when held in a hand.
 
 * * *
 
-**Effect** You cast [[Spells/Acid Arrow|Acid Arrow]] at 4th rank.A creature that takes initial acid damage from this spell become [[Conditions/Sickened|Sickened 1]]. Use your spell DC if the creatures attempts to recover from this sickness. This is an olfactory effect.
+**Effect** You cast [[Spells/Acid Arrow|Acid Arrow]] at 4th rank.A creature that takes initial acid damage from this spell become [[Sickened|Sickened 1]]. Use your spell DC if the creatures attempts to recover from this sickness. This is an olfactory effect.
 
 * * *
 

@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Like the fastest of predatory birds, you soar toward your prey at great speeds. Fly twice. At any point during this movement, you can make a Strike against one enemy within reach or within the first range increment of a ranged weapon. That enemy is [[Conditions/Off-Guard|Off-Guard]] against the Strike if you're attacking them from above.
+Like the fastest of predatory birds, you soar toward your prey at great speeds. Fly twice. At any point during this movement, you can make a Strike against one enemy within reach or within the first range increment of a ranged weapon. That enemy is [[Off-Guard|Off-Guard]] against the Strike if you're attacking them from above.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

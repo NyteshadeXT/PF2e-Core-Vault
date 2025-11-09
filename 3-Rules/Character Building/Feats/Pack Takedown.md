@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The pack is strongest when it acts as one, and like a group of hungry wolves, you work together to bring down a single target. If you and both of your active companions threaten the same creature, each of you makes a melee Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against all of these attacks. If more than one attack hits, combine the damage from all successful Strikes, and apply resistances and weaknesses only once.
+The pack is strongest when it acts as one, and like a group of hungry wolves, you work together to bring down a single target. If you and both of your active companions threaten the same creature, each of you makes a melee Strike against it. The creature is [[Off-Guard|Off-Guard]] against all of these attacks. If more than one attack hits, combine the damage from all successful Strikes, and apply resistances and weaknesses only once.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

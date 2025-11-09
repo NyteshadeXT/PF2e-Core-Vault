@@ -31,13 +31,13 @@ This magical flower immediately grows and blooms when planted, showering the are
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Fascinated|Fascinated]] and [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** [[Fascinated|Fascinated]] and [[Slowed|Slowed 1]] (1 round)
 
-**Stage 2** [[Conditions/Confused|Confused]] and slowed 1 (1 round)
+**Stage 2** [[Confused|Confused]] and slowed 1 (1 round)
 
 **Stage 3** confused (1 round)
 
-**Stage 4** [[Conditions/Unconscious|Unconscious]]
+**Stage 4** [[Unconscious|Unconscious]]
 
 *Source: Pathfinder #201: Pactbreaker*
 *ORC*

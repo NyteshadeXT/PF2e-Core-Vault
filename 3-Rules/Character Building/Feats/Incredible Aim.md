@@ -20,7 +20,7 @@ license: ORC
 
 
 
-By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[Conditions/Concealed|Concealed]] condition.
+By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[3-Rules/Conditions/Concealed|Concealed]] condition.
 
 *Source: Pathfinder Player Core*
 *ORC*

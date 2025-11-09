@@ -35,7 +35,7 @@ A pheromone flare has a built-in delayed activation timer of up to 1 hour. When 
 
 **Success** The animal is unaffected but must attempt a new save every 10 minutes it remains within the area.
 
-**Failure** The animal is attracted by the pheromones, following the cloud to its source. The creature becomes [[Conditions/Fascinated|Fascinated]] until it reaches the flare and spends 1 round investigating it. After this, it becomes temporarily immune for 24 hours.
+**Failure** The animal is attracted by the pheromones, following the cloud to its source. The creature becomes [[Fascinated|Fascinated]] until it reaches the flare and spends 1 round investigating it. After this, it becomes temporarily immune for 24 hours.
 
 **Critical Failure** As failure, except the fascination lasts for up to 1 hour, though the animal can attempt a new save against the effect every 10 minutes. The animal takes a –1 status penalty to this save that increases by 1 with each subsequent failure or critical failure, up to a maximum of a –3 status penalty
 

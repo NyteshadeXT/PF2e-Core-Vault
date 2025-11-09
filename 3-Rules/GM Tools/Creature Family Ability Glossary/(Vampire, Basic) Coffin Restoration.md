@@ -20,7 +20,7 @@ license: ORC
 
 
 
-Unlike other undead, a vampire isn't destroyed at 0 HP. Instead, it falls [[Conditions/Unconscious|Unconscious]]. If its body rests in its coffin for 1 hour, the vampire gains 1 HP, after which its fast healing begins to function normally.
+Unlike other undead, a vampire isn't destroyed at 0 HP. Instead, it falls [[Unconscious|Unconscious]]. If its body rests in its coffin for 1 hour, the vampire gains 1 HP, after which its fast healing begins to function normally.
 
 *Source: Pathfinder Monster Core*
 *ORC*

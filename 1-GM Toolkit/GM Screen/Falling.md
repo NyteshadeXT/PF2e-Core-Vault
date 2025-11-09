@@ -14,7 +14,7 @@ tags:
 | --- |
 | When you fall more than 5 feet, take bludgeoning damage equal to half the distance you fell. If you take any damage, you land prone. If you fall into water or a soft substance, calculate damage as though the fall were 20 feet shorter, 30 if you intentionally dove in (up to the depth of the substance). |
 
-When you fall more than 5 feet, you take bludgeoning damage equal to half the distance you fell when you land. Treat falls longer than 1,500 feet as though they were 1,500 feet (750 damage). If you take any damage from a fall, you land [[Conditions/Prone|Prone]]. You fall about 500 feet in the first round of falling and about 1,500 feet each round thereafter.
+When you fall more than 5 feet, you take bludgeoning damage equal to half the distance you fell when you land. Treat falls longer than 1,500 feet as though they were 1,500 feet (750 damage). If you take any damage from a fall, you land [[Prone|Prone]]. You fall about 500 feet in the first round of falling and about 1,500 feet each round thereafter.
 
 You can [[Actions/Grab an Edge|Grab an Edge]] as a reaction to reduce the damage from some falls. In addition, if you fall into water, snow, or another relatively soft substance, you can treat the fall as though it were 20 feet shorter, or 30 feet shorter if you intentionally dove in. The effective reduction can't be greater than the depth (so when falling into 10-foot-deep water, you treat the fall as 10 feet shorter).
 

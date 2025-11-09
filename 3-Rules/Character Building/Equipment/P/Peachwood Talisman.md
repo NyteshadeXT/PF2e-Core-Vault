@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
+Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[Off-Guard|Off-Guard]] to [[Hidden|Hidden]], [[Undetected|Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

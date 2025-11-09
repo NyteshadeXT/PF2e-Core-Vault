@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Spellstrike
 * * *
-You've made it almost effortless to combine spells and attacks. You're permanently [[Conditions/Quickened|Quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.
+You've made it almost effortless to combine spells and attacks. You're permanently [[Quickened|Quickened]]. You can use your extra action only to Strike or to recharge Spellstrike.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

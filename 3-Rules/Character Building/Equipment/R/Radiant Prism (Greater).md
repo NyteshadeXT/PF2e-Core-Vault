@@ -20,7 +20,7 @@ license: OGL
 
 Any armor or weapon this glass prism is affixed to glows softly with shifting colored lights. The spell DC of any spell cast by activating this item is 38.
 
-*   **Armor**(light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [[Conditions/Concealed|Concealed]] for 2 rounds.
+*   **Armor**(light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [[3-Rules/Conditions/Concealed|Concealed]] for 2 rounds.
 *   **Weapon** After you cast an abjuration spell by activating the prism, your Strikes with the weapon gain the _brilliant_ property rune until the end of your next turn. The damage from this rune increases to 2d4 of each type.
 
 **Activate** Cast a Spell

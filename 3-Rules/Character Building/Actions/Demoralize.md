@@ -27,9 +27,9 @@ With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Frightened|Frightened 2]].
+**Critical Success** The target becomes [[Frightened|Frightened 2]].
 
-**Success** The target becomes [[Conditions/Frightened|Frightened 1]].
+**Success** The target becomes [[Frightened|Frightened 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

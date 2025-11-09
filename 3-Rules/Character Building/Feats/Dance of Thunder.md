@@ -22,7 +22,7 @@ license: ORC
 
 **Frequency** once per minute
 
-**Requirements** You're wielding a loaded firearm or crossbow and are not [[Conditions/Fatigued|Fatigued]].
+**Requirements** You're wielding a loaded firearm or crossbow and are not [[Fatigued|Fatigued]].
 
 * * *
 

@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Pirate Dedication
 * * *
-Shimali Manux trains every Salt Breaker to fight in the cramped quarters below deck, and you've learned how to use these techniques with your crew. During your daily preparations, you can name up to five crewmates you will be working with that day. If an enemy is within reach of you and at least two of your crewmates, that enemy is [[Conditions/Off-Guard|Off-Guard]] against you.
+Shimali Manux trains every Salt Breaker to fight in the cramped quarters below deck, and you've learned how to use these techniques with your crew. During your daily preparations, you can name up to five crewmates you will be working with that day. If an enemy is within reach of you and at least two of your crewmates, that enemy is [[Off-Guard|Off-Guard]] against you.
 
 *Source: Pathfinder Lost Omens Firebrands*
 *OGL*

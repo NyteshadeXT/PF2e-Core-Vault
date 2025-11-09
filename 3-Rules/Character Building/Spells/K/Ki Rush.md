@@ -18,7 +18,7 @@ aliases: "Compendium.pf2e.spells-srd.Item.ps0nmhclT6aIXgd8"
 * * * 
 Accelerated by your ki, you move with such speed you become a blur. Move two times: two Strides, two Steps, or one Stride and one Step (in either order).
 
-You gain the [[Conditions/Concealed|Concealed]] condition during this movement and until the start of your next turn.
+You gain the [[3-Rules/Conditions/Concealed|Concealed]] condition during this movement and until the start of your next turn.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

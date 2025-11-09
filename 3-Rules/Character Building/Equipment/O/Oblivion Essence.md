@@ -31,11 +31,11 @@ Created from a daemon's powdered soul gems or refined from the waters of Abaddon
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 8d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** 8d6 poison damage and [[Slowed|Slowed 1]] (1 round)
 
-**Stage 2** 10d6 poison damage, [[Conditions/Enfeebled|Enfeebled 2]], and slowed 1 (1 round)
+**Stage 2** 10d6 poison damage, [[Enfeebled|Enfeebled 2]], and slowed 1 (1 round)
 
-**Stage 3** 12d6 poison damage, [[Conditions/Enfeebled|Enfeebled 3]], slowed 1 (1 round)
+**Stage 3** 12d6 poison damage, [[Enfeebled|Enfeebled 3]], slowed 1 (1 round)
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

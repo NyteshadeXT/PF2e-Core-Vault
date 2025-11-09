@@ -32,7 +32,7 @@ With a stern call, carefully chosen barb, or some other challenging declaration,
 
 You can have only one challenge in effect at a time; challenging a new opponent ends this effect on any current target. Otherwise, the effect lasts until one of you is defeated, flees, or the encounter ends.
 
-**Critical Failure** You become [[Conditions/Frightened|Frightened 1]] and can't use this ability again for 1 minute.
+**Critical Failure** You become [[Frightened|Frightened 1]] and can't use this ability again for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

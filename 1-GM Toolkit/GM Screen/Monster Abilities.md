@@ -16,7 +16,7 @@ This monster can see in all directions simultaneously, and therefore can't be fl
 
 **Requirements** The monster is hiding in water and a creature that hasn't detected it is within the listed number of feet.
 
-**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a [[Actions/Strike|Strike]] against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike.
+**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a [[Actions/Strike|Strike]] against it. The creature is [[Off-Guard|Off-Guard]] against this Strike.
 
 ## [[Bestiary Ability Glossary/Attack of Opportunity|Attack of Opportunity]]
 
@@ -62,7 +62,7 @@ A constant spell affects the monster without the monster needing to cast it, and
 
 ## [[Bestiary Ability Glossary/Constrict|Constrict]]
 
-The monster deals the listed amount of damage to any number of creatures [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC.
+The monster deals the listed amount of damage to any number of creatures [[Grabbed|Grabbed]] or [[Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC.
 
 ## [[Bestiary Ability Glossary/Coven|Coven]]
 
@@ -84,7 +84,7 @@ When a creature is exposed to a monster's disease, it attempts a Fortitude save 
 
 The monster [[Actions/Stride|Strides]] up to double its Speed and can move through the spaces of any creatures in its path. Any creature of the monster's size or smaller whose space the monster moves through can attempt a Reflex save with the listed DC to avoid being engulfed. A creature unable to act automatically critically fails this save. If a creature succeeds at its save, it can choose to be either pushed aside (out of the monster's path) or pushed in front of the monster to the end of the monster's movement. The monster can attempt to Engulf the same creature only once in a single use of Engulf. The monster can contain as many creatures as can fit in its space.
 
-A creature that fails its save is pulled into the monster's body. It is [[Conditions/Grabbed|Grabbed]], is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by [[Actions/Escape|Escaping]] against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free. A creature that gets free by either method can immediately breathe and exits the swallowing monster's space.
+A creature that fails its save is pulled into the monster's body. It is [[Grabbed|Grabbed]], is [[Slowed|Slowed 1]], and has to hold its breath or start suffocating. The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed. An engulfed creature can get free by [[Actions/Escape|Escaping]] against the listed escape DC. An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free. A creature that gets free by either method can immediately breathe and exits the swallowing monster's space.
 
 If the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion.
 
@@ -96,7 +96,7 @@ A monster with this ability regains the given number of Hit Points each round at
 
 **Trigger** The monster is reduced to 0 HP.
 
-**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Conditions/Wounded|Wounded]] value increases by 1. When it is wounded 3, it can no longer use this ability.
+**Effect** The monster avoids being knocked out and remains at 1 HP, but its [[Wounded|Wounded]] value increases by 1. When it is wounded 3, it can no longer use this ability.
 
 ## [[Bestiary Ability Glossary/Frightful Presence|Frightful Presence]]
 
@@ -104,7 +104,7 @@ A monster with this ability regains the given number of Hit Points each round at
 
 **Critical Success** The creature is unaffected by the presence.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
 **Failure** The creature is frightened 2.
 
@@ -114,13 +114,13 @@ A monster with this ability regains the given number of Hit Points each round at
 
 **Requirements** The monster's last action was a success with a [[Actions/Strike|Strike]] that lists Grab in its damage entry, or it has a creature grabbed using this action.
 
-**Effect** The monster automatically [[Actions/Grapple|Grabs]] the target until the end of the monster's next turn. The creature is [[Conditions/Grabbed|Grabbed]] by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended.
+**Effect** The monster automatically [[Actions/Grapple|Grabs]] the target until the end of the monster's next turn. The creature is [[Grabbed|Grabbed]] by whichever body part the monster attacked with, and that body part can't be used to Strike creatures until the grab is ended.
 
 Using Grab extends the duration of the monster's Grab until the end of its next turn for all creatures grabbed by it. A grabbed creature can use the Escape action to get out of the grab, and the Grab ends for a grabbed creatures if the monster moves away from it.
 
 ## [[Bestiary Ability Glossary/Greater Constrict|Greater Constrict]]
 
-The monster deals the listed amount of damage to any number of creatures [[Bestiary Ability Glossary/Grab|Grab]] or [[Conditions/Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls unconscious, and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute.
+The monster deals the listed amount of damage to any number of creatures [[Bestiary Ability Glossary/Grab|Grab]] or [[Restrained|Restrained]] by it. Each of those creatures can attempt a basic Fortitude save with the listed DC. A creature that fails this save falls unconscious, and a creature that succeeds is then temporarily immune to falling unconscious from Greater Constrict for 1 minute.
 
 ## [[Bestiary Ability Glossary/Improved Grab|Improved Grab]]
 
@@ -138,7 +138,7 @@ The monster can use Push as a free action triggered by a hit with its initial at
 
 **Requirements** The monster's last action was a success with a [[Actions/Strike|Strike]] that lists Knockdown in its damage entry.
 
-**Effect** The monster knocks the target [[Conditions/Prone|Prone]].
+**Effect** The monster knocks the target [[Prone|Prone]].
 
 ## [[Bestiary Ability Glossary/Lifesense|Lifesense]]
 
@@ -146,11 +146,11 @@ Lifesense allows a monster to sense the vital essence of living and undead creat
 
 ## [[Bestiary Ability Glossary/Light Blindness|Light Blindness]]
 
-When first exposed to bright light, the monster is blinded until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Conditions/Dazzled|Dazzled]].
+When first exposed to bright light, the monster is blinded until the end of its next turn. After this exposure, light doesn't blind the monster again until after it spends 1 hour in darkness. However, as long as the monster is in an area of bright light, it's [[Dazzled|Dazzled]].
 
 ## [[Bestiary Ability Glossary/Low-Light Vision|Low-Light Vision]]
 
-The monster can see in dim light as though it were bright light, so it ignores the [[Conditions/Concealed|Concealed]] condition due to dim light.
+The monster can see in dim light as though it were bright light, so it ignores the [[3-Rules/Conditions/Concealed|Concealed]] condition due to dim light.
 
 ## [[Bestiary Ability Glossary/Void Healing|Void Healing]]
 
@@ -168,7 +168,7 @@ When a creature is exposed to a monster's poison, it attempts a Fortitude save t
 
 ## [[Bestiary Ability Glossary/Regeneration|Regeneration]]
 
-This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Conditions/Dying|Dying]] condition never increases beyond dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to dying 4.
+This monster regains the listed number of Hit Points each round at the beginning of its turn. Its [[Dying|Dying]] condition never increases beyond dying 3 as long as its regeneration is active. However, if it takes damage of a type listed in the regeneration entry, its regeneration deactivates until the end of its next turn. Deactivate the regeneration before applying any damage of a listed type, since that damage might kill the monster by bringing it to dying 4.
 
 ## [[Bestiary Ability Glossary/Rend|Rend]]
 
@@ -198,13 +198,13 @@ If a creature emits a heavy aroma or is upwind, the GM can double or even triple
 
 ## [[Bestiary Ability Glossary/Sneak Attack|Sneak Attack]]
 
-When the monster [[Actions/Strike|Strikes]] a creature that has the [[Conditions/Off-Guard|Off-Guard]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, it also deals the listed precision damage. For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.
+When the monster [[Actions/Strike|Strikes]] a creature that has the [[Off-Guard|Off-Guard]] condition with an agile or finesse melee weapon, an agile or finesse unarmed attack, or a ranged weapon attack, it also deals the listed precision damage. For a ranged attack with a thrown weapon, that weapon must also be an agile or finesse weapon.
 
 ## [[Bestiary Ability Glossary/Swallow Whole|Swallow Whole]]
 
-(attack) The monster attempts to swallow a creature of the listed size or smaller that it has [[Conditions/Grabbed|Grabbed]] in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to [[Actions/Strike|Strike]] or Grab once again. The monster can't attack creatures it has swallowed.
+(attack) The monster attempts to swallow a creature of the listed size or smaller that it has [[Grabbed|Grabbed]] in its jaws or mouth. If a swallowed creature is of the maximum size listed, the monster can't use Swallow Whole again. If the creature is smaller than the maximum, the monster can usually swallow more creatures; the GM determines the maximum. The monster attempts an Athletics check opposed by the grabbed creature's Reflex DC. If it succeeds, it swallows the creature. The monster's mouth or jaws no longer grab a creature it has swallowed, so the monster is free to use them to [[Actions/Strike|Strike]] or Grab once again. The monster can't attack creatures it has swallowed.
 
-A swallowed creature is grabbed, is [[Conditions/Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Conditions/Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.
+A swallowed creature is grabbed, is [[Slowed|Slowed 1]], and has to hold its breath or start suffocating. The swallowed creature takes the listed amount of damage when first swallowed and at the end of each of its turns while it's swallowed. If the victim [[Actions/Escape|Escapes]] this ability's grabbed condition, it exits through the monster's mouth. This frees any other creature grabbed in the monster's mouth or jaws. A swallowed creature can attack the monster that has swallowed it, but only with unarmed attacks or with weapons of light Bulk or less. The engulfing creature is [[Off-Guard|Off-Guard]] against the attack. If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free. A creature that gets free by either Escaping or cutting itself free can immediately breathe and exits the swallowing monster's space.
 
 If the monster dies, a swallowed creature can be freed by creatures adjacent to the corpse if they spend a combined total of 3 actions cutting the monster open with a weapon or unarmed attack that deals piercing or slashing damage.
 

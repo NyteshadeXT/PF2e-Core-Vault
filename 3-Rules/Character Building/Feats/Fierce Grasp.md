@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** climbing animal heritage
 * * *
-**Requirements** You have an opponent [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have an opponent [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 

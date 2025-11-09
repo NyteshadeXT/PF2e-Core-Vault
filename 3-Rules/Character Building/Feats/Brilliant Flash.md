@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** grandeur cause
 * * *
-Your light cleanses souls of fear. When you use [[Actions/Flash of Grandeur|Flash of Grandeur]], the attacker is also [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+Your light cleanses souls of fear. When you use [[Actions/Flash of Grandeur|Flash of Grandeur]], the attacker is also [[Off-Guard|Off-Guard]] for 1 round.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

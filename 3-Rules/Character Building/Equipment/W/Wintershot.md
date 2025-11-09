@@ -29,7 +29,7 @@ license: ORC
 
 This _+2 greater striking frost composite shortbow_ belonged to a legendary scout, Jelarial, who found herself in command of a company of elves fleeing Mierani north into the Crown of the World to escape the doom of Earthfall thousands of years ago. _Wintershot_ resurfaced during the war to reclaim Kyonin from Tanglebriar several thousand years later, wielded by a succession of mysterious snipers whose movements through the woodland confounded the demons, so much so that it gave rise to rumors that Jelarial's ghost had returned to the south to aid her kin in a time of need.
 
-When making a Strike with _Wintershot_, targets do not gain [[Conditions/Concealed|concealment]] from the effects of mist or precipitation, and circumstance penalties to attacks of up to –2 imparted from strong winds are negated.
+When making a Strike with _Wintershot_, targets do not gain [[3-Rules/Conditions/Concealed|concealment]] from the effects of mist or precipitation, and circumstance penalties to attacks of up to –2 imparted from strong winds are negated.
 
 * * *
 
@@ -41,7 +41,7 @@ When making a Strike with _Wintershot_, targets do not gain [[Conditions/Conceal
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is surrounded by shimmering lights akin to an aurora, causing it to become [[Conditions/Dazzled|Dazzled]] for 2 rounds. If the creature was [[Conditions/Invisible|Invisible]], it becomes [[Conditions/Concealed|Concealed]] instead. If the creature was already concealed for any other reason, it is no longer concealed.
+**Success** The creature is surrounded by shimmering lights akin to an aurora, causing it to become [[Dazzled|Dazzled]] for 2 rounds. If the creature was [[Invisible|Invisible]], it becomes [[3-Rules/Conditions/Concealed|Concealed]] instead. If the creature was already concealed for any other reason, it is no longer concealed.
 
 **Failure** As success, but the creature also takes 2d6 persistent cold damage, and the light affects the creature for 1 minute.
 

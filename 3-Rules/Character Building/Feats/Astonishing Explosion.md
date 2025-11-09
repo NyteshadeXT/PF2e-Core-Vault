@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. Any target hit by your Strike with the bomb is [[Conditions/Fascinated|Fascinated]] by you for 1 round. On a critical success, the target is also [[Conditions/Stunned|Stunned 1]].
+Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. Any target hit by your Strike with the bomb is [[Fascinated|Fascinated]] by you for 1 round. On a critical success, the target is also [[Stunned|Stunned 1]].
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

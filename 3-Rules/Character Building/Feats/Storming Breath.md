@@ -25,7 +25,7 @@ Leveled damage
 
 * * *
 
-**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[Conditions/Prone|Prone]].
+**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[Prone|Prone]].
 
 * * *
 

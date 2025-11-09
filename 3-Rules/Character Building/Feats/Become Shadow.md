@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You unleash your mythic power to shroud yourself in darkness and silence to stalk your prey. When you attempt a check to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], or when you roll Stealth for initiative, you can spend a Mythic Point to become [[Conditions/Concealed|Concealed]] and to attempt the check or roll using mythic proficiency.
+You unleash your mythic power to shroud yourself in darkness and silence to stalk your prey. When you attempt a check to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], or when you roll Stealth for initiative, you can spend a Mythic Point to become [[3-Rules/Conditions/Concealed|Concealed]] and to attempt the check or roll using mythic proficiency.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

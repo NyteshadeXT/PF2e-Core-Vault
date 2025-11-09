@@ -28,7 +28,7 @@ license: ORC
 
 This robust porridge—made from a cockatrice distilled into a broth, hot peppers from a demonic source, and various toppings—causes diners to utter a ghostly wail from the intense heat.
 
-Consuming the porridge grants you a +2 item bonus to saving throws against being [[Conditions/Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.
+Consuming the porridge grants you a +2 item bonus to saving throws against being [[Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.
 
 [[Equipment Effects/Effect_ Ghost Fowl Porridge|Effect: Ghost Fowl Porridge]]
 

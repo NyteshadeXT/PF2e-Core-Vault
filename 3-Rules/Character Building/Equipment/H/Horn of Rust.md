@@ -50,11 +50,11 @@ The following activations do not consume charges from the Horn of Rust, and they
 
 **Onset** 10 days
 
-**Stage 1** [[Conditions/Clumsy|Clumsy 1]] (1 week)
+**Stage 1** [[Clumsy|Clumsy 1]] (1 week)
 
-**Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)
+**Stage 2** [[Clumsy|Clumsy 2]] and can't speak (1 day)
 
-**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)
+**Stage 3** [[Paralyzed|Paralyzed]] with spasms (1 day)
 
 **Stage 4** death
 

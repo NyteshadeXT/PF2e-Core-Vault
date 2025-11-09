@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-**Effect** Thick slabs of stone rise around you before tilting over. You deal 1d6 bludgeoning damage to all adjacent creatures (Reflex check against your class DC or spell DC, whichever is higher). On a critical failure, the creature is also knocked [[Conditions/Prone|Prone]]. At 3rd level, and every 2 levels thereafter, this damage increases by 1d6.
+**Effect** Thick slabs of stone rise around you before tilting over. You deal 1d6 bludgeoning damage to all adjacent creatures (Reflex check against your class DC or spell DC, whichever is higher). On a critical failure, the creature is also knocked [[Prone|Prone]]. At 3rd level, and every 2 levels thereafter, this damage increases by 1d6.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

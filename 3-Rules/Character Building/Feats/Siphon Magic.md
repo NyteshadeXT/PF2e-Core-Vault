@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You gorge upon the magical energies of your foe's blood. You regain one expended spell slot that must be of a lower rank than the highest rank spell you can cast. You become [[Conditions/Drained|Drained 1]] or increase the value of your drained condition by 1.
+You gorge upon the magical energies of your foe's blood. You regain one expended spell slot that must be of a lower rank than the highest rank spell you can cast. You become [[Drained|Drained 1]] or increase the value of your drained condition by 1.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

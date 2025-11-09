@@ -26,7 +26,7 @@ Originally designed by a fanatical sect of Gozren priests, _goz masks_ were desi
 
 **Frequency** once per day
 
-**Effect** The mask gives you darkvision and allows you to ignore all [[Conditions/Concealed|Concealment]] from any environmental effects for 1 hour.
+**Effect** The mask gives you darkvision and allows you to ignore all [[3-Rules/Conditions/Concealed|Concealment]] from any environmental effects for 1 hour.
 
 [[Equipment Effects/Effect_ Goz Mask (Major)|Effect: Goz Mask (Major)]]
 

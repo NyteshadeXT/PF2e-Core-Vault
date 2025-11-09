@@ -31,11 +31,11 @@ Your dedication to the ideals of art and beauty allows your head gem to access t
 
 **Critical Success** The enemy is unaffected.
 
-**Success** The enemy is [[Conditions/Fascinated|Fascinated]] for 1 round.
+**Success** The enemy is [[Fascinated|Fascinated]] for 1 round.
 
-**Failure** The enemy is [[Conditions/Stunned|Stunned 1]].
+**Failure** The enemy is [[Stunned|Stunned 1]].
 
-**Critical Failure** The enemy is [[Conditions/Paralyzed|Paralyzed]] for 1 round.
+**Critical Failure** The enemy is [[Paralyzed|Paralyzed]] for 1 round.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

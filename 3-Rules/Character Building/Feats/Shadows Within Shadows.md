@@ -23,7 +23,7 @@ license: ORC
 
 
 
-**Trigger** You would be detected by an enemy Seeking you, or an enemy would succeed at a counteract check against a spell making you [[Conditions/Hidden|Hidden]], [[Conditions/Concealed|Concealed]], or [[Conditions/Undetected|Undetected]].
+**Trigger** You would be detected by an enemy Seeking you, or an enemy would succeed at a counteract check against a spell making you [[Hidden|Hidden]], [[3-Rules/Conditions/Concealed|Concealed]], or [[Undetected|Undetected]].
 
 **Requirements** Your attuned apparition grants Hunting Lore or Underworld Lore as one of its apparition skills.
 

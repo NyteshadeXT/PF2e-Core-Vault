@@ -42,11 +42,11 @@ Colorful stripes and trailing ribbons give this _+2 striking underwater wounding
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 3d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)
+**Stage 1** 3d6 poison damage and [[Sickened|Sickened 1]] (1 round)
 
-**Stage 2** 5d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)
+**Stage 2** 5d6 poison damage and [[Sickened|Sickened 2]] (1 round)
 
-**Stage 3** [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours
+**Stage 3** [[Paralyzed|Paralyzed]] for 2d4 hours
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -22,7 +22,7 @@ license: OGL
 * * *
 You are skilled at tracking big game animals and similar creatures. You gain the [[Actions/Hunt Prey|Hunt Prey]] action, but you can designate only animals, beasts, and dragons as prey. In addition to the other benefits of Hunt Prey, you gain a +2 circumstance bonus to Stealth checks against your hunted prey.
 
-When you succeed at a Strike against your hunted prey while it's [[Conditions/Off-Guard|Off-Guard]], it must attempt a Fortitude save against your class DC. On a failure, the prey's Speeds are each reduced by 10 feet for 1 round; on a critical failure, the duration of this effect is 1 minute. The prey is then temporarily immune to this effect for 10 minutes.
+When you succeed at a Strike against your hunted prey while it's [[Off-Guard|Off-Guard]], it must attempt a Fortitude save against your class DC. On a failure, the prey's Speeds are each reduced by 10 feet for 1 round; on a critical failure, the duration of this effect is 1 minute. The prey is then temporarily immune to this effect for 10 minutes.
 
 If you already have Hunt Prey, you become an expert in Survival. You apply the Stealth bonus and the Speed reduction only when your prey is an animal, beast, or dragon.
 

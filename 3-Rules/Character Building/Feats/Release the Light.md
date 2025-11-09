@@ -32,9 +32,9 @@ Many people report seeing a bright light before their death. You're one of these
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
-**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.
+**Failure** The creature is [[Blinded|Blinded]] for 1 round and dazzled for 1 minute.
 
 **Critical Failure** The creature is blinded for 2 rounds and dazzled for 1 minute.
 

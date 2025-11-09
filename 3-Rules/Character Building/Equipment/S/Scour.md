@@ -35,11 +35,11 @@ This gritty powder improves responsiveness but suppresses thoughts and leaves yo
 
 **Maximum Duration** 6 hours
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 2]] and +2 item bonus to Reflex saves and Dexterity-based skill checks (1 hour)
+**Stage 1** [[Stupefied|Stupefied 2]] and +2 item bonus to Reflex saves and Dexterity-based skill checks (1 hour)
 
-**Stage 2** [[Conditions/Fatigued|Fatigued]] (1 hour)
+**Stage 2** [[Fatigued|Fatigued]] (1 hour)
 
-**Stage 3** [[Conditions/Drained|Drained 2]] and fatigued (1 hour)
+**Stage 3** [[Drained|Drained 2]] and fatigued (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

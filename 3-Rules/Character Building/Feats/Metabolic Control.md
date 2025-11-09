@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You're able to better control your body's metabolism to preserve energy. After eating a proper meal, you can go without food and water for 1 week before taking damage from starvation and thirst. You aren't [[Conditions/Fatigued|Fatigued]] during this week.
+You're able to better control your body's metabolism to preserve energy. After eating a proper meal, you can go without food and water for 1 week before taking damage from starvation and thirst. You aren't [[Fatigued|Fatigued]] during this week.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

@@ -36,9 +36,9 @@ This suit of padded armor consists of a beautifully woven pleated tunic adorned 
 
 **Success** The target is distracted by you and keeps looking your way. They take a –1 status penalty to Perception checks against everything but you, a –1 status penalty to all saving throws against your visual effects, and gain a +2 status bonus to all saving throws against visual effects created by anyone else; these penalties and bonus last for 1 minute.
 
-**Failure** As success, but the target is also [[Conditions/Off-Guard|Off-Guard]] to everyone other than you as long as you remain visible.
+**Failure** As success, but the target is also [[Off-Guard|Off-Guard]] to everyone other than you as long as you remain visible.
 
-**Critical Failure** As failure, but the target also becomes [[Conditions/Slowed|Slowed 1]] as they spend extra time on their turn admiring, glowering, or otherwise being distracted by you.
+**Critical Failure** As failure, but the target also becomes [[Slowed|Slowed 1]] as they spend extra time on their turn admiring, glowering, or otherwise being distracted by you.
 
 [[Equipment Effects/Effect_ Look at Me!|Effect: Look at Me!]]
 

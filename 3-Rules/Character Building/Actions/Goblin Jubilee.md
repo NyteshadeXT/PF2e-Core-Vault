@@ -31,11 +31,11 @@ license: ORC
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] and [[Conditions/Deafened|Deafened]] until the end of its next turn and takes half damage.
+**Success** The creature is [[Dazzled|Dazzled]] and [[Deafened|Deafened]] until the end of its next turn and takes half damage.
 
 **Failure** The creature is dazzled and deafened for 1 minute and takes full damage.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round, dazzled and deafened for 1 minute, and takes double damage.
+**Critical Failure** The creature is [[Blinded|Blinded]] for 1 round, dazzled and deafened for 1 minute, and takes double damage.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

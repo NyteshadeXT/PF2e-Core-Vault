@@ -26,7 +26,7 @@ aliases: ["Devious Spiked Pit"]
 
 - The first 30 feet appear solid due to the *illusory wall*. A falling creature can attempt a DC 26 basic Reflex save to [[Rules/Skills#Grab an Edge|Grab an Edge]] before plunging deeper.  
 - The pit is actually 60 feet deep: the creature takes `dice: 6d6` bludgeoning damage from the fall.  
-- At the bottom, sharpened spikes deal `dice: 4d10` piercing damage (DC 26 basic Reflex save). On a critical failure, the creature is also [[prone]] and takes double spike damage.  
+- At the bottom, sharpened spikes deal `dice: 4d10` piercing damage (DC 26 basic Reflex save). On a critical failure, the creature is also [[Prone]] and takes double spike damage.  
 - Because of the *silence*, no sound of the fall or cries for help escape the pit.  
 
 **Walls**: The walls are magically greased and unnaturally smooth. A creature can attempt to climb out with a DC 30 [[Skills#Athletics|Athletics]] check, made more difficult by the conditions. Success allows slow ascent, while failure by 5 or more causes the climber to fall back down. Magic such as *spider climb* or flight bypasses this obstacle.  

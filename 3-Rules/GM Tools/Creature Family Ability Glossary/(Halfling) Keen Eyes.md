@@ -18,7 +18,7 @@ license: ORC
 
 
 
-The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Conditions/Hidden|Hidden]] or undetected creatures within 30 feet of them. Whenever the halfling targets a creature that is [[Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
+The halfling gains a +2 circumstance bonus when using the [[Actions/Seek|Seek]] action to find [[Hidden|Hidden]] or undetected creatures within 30 feet of them. Whenever the halfling targets a creature that is [[3-Rules/Conditions/Concealed|Concealed]] or hidden from them, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.
 
 *Source: Pathfinder NPC Core*
 *ORC*

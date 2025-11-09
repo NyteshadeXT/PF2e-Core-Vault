@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-Realizing that you're falling behind in your studies, you cram more than you probably should. You Study twice, each in a branch that satisfies the activity requirements. However, the extra studying comes at a price. Until the next time you take the Study downtime activity, you're particularly tired from all the extra hours cramming; at the start of each day of adventuring, you must succeed at a DC 8 Flat check check or be [[Conditions/Fatigued|Fatigued]] for that day.
+Realizing that you're falling behind in your studies, you cram more than you probably should. You Study twice, each in a branch that satisfies the activity requirements. However, the extra studying comes at a price. Until the next time you take the Study downtime activity, you're particularly tired from all the extra hours cramming; at the start of each day of adventuring, you must succeed at a DC 8 Flat check check or be [[Fatigued|Fatigued]] for that day.
 
 *Source: Pathfinder #169: Kindled Magic*
 *OGL*

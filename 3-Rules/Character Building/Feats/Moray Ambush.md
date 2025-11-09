@@ -19,11 +19,11 @@ license: ORC
 
 
 
-**Trigger** You are [[Conditions/Hidden|Hidden]] and a creature who hasn't detected you passes within 20 feet of you.
+**Trigger** You are [[Hidden|Hidden]] and a creature who hasn't detected you passes within 20 feet of you.
 
 * * *
 
-Like the moray eels athamaru communities raise and train, you know how to quickly strike from hiding. Stride or Swim directly toward the triggering creature and make a melee Strike against it. The target creature is [[Conditions/Off-Guard|Off-Guard]] to this attack.
+Like the moray eels athamaru communities raise and train, you know how to quickly strike from hiding. Stride or Swim directly toward the triggering creature and make a melee Strike against it. The target creature is [[Off-Guard|Off-Guard]] to this attack.
 
 * * *
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-This mash of Cinderlands peppers has been fermented into a potent poultice to expel toxins from the body. When you have the sickened condition, you can slather this poultice onto your skin to reduce your [[Conditions/Sickened|Sickened]] value by 1.
+This mash of Cinderlands peppers has been fermented into a potent poultice to expel toxins from the body. When you have the sickened condition, you can slather this poultice onto your skin to reduce your [[Sickened|Sickened]] value by 1.
 
 *Source: Pathfinder #208: Hoof, Cinder, and Storm*
 *ORC*

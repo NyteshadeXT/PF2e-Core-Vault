@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** trained in Acrobatics or Athletics; Firebrand Braggart Dedication
 * * *
-You attempt a death-defying maneuver to distract your enemies. Select one foe within reach and attempt either an Acrobatics check or Athletics check check against your target's Reflex DC. If you succeed, you can Stride up to half your Speed (or up to your full Speed if you critically succeed) without triggering reactions from the target due to your movement, and the target is [[Conditions/Off-Guard|Off-Guard]] against the next melee attack you attempt against it before the end of your turn.
+You attempt a death-defying maneuver to distract your enemies. Select one foe within reach and attempt either an Acrobatics check or Athletics check check against your target's Reflex DC. If you succeed, you can Stride up to half your Speed (or up to your full Speed if you critically succeed) without triggering reactions from the target due to your movement, and the target is [[Off-Guard|Off-Guard]] against the next melee attack you attempt against it before the end of your turn.
 
 *Source: Pathfinder Lost Omens Character Guide*
 *OGL*

@@ -24,7 +24,7 @@ license: ORC
 * * *
 Your strength is part of your rage. As long as your anger remains, you can gather your strength and rage to overcome any sort of enfeeblement.
 
-You reduce your [[Conditions/Enfeebled|Enfeebled]] condition's value by 1.
+You reduce your [[Enfeebled|Enfeebled]] condition's value by 1.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

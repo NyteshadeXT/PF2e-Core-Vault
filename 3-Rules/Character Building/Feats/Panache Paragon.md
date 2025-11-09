@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[Conditions/Quickened|Quickened]]. You can use the extra action only to perform a bravado action.
+You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[Quickened|Quickened]]. You can use the extra action only to perform a bravado action.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

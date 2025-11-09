@@ -33,7 +33,7 @@ This gnarled wooden staff is carved with humanoid faces in various emotional sta
 
 **Frequency** once per round
 
-**Effect** Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[Conditions/Off-Guard|Off-Guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
+**Effect** Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[Off-Guard|Off-Guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
 
 [[Equipment Effects/Effect_ Whispering Staff (Enemy)|Effect: Whispering Staff (Enemy)]]
 

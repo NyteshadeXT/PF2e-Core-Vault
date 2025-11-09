@@ -18,7 +18,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** worn
 
-This black quartz pendant carved in the shape of an angel's feather hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning Mammoths, this family heirloom anchors you to your ancestors, preserving your sense of self and protecting your mind from mental manipulation and demonic possession. You gain a +1 item bonus to saving throws against mental effects that would make you [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Frightened|Frightened]], or [[Conditions/Stupefied|Stupefied]]. This bonus increases to +2 if the source of the effect is a fiend.
+This black quartz pendant carved in the shape of an angel's feather hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning Mammoths, this family heirloom anchors you to your ancestors, preserving your sense of self and protecting your mind from mental manipulation and demonic possession. You gain a +1 item bonus to saving throws against mental effects that would make you [[Confused|Confused]], [[Controlled|Controlled]], [[Frightened|Frightened]], or [[Stupefied|Stupefied]]. This bonus increases to +2 if the source of the effect is a fiend.
 
 * * *
 

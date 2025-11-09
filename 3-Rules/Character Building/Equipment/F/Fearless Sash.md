@@ -26,7 +26,7 @@ A feeling of security radiates out from this sash made of fine yellow fabric. Yo
 
 * * *
 
-**Effect** You and each ally in a 5-foot emanation reduce your [[Conditions/Frightened|Frightened]] values by 1.
+**Effect** You and each ally in a 5-foot emanation reduce your [[Frightened|Frightened]] values by 1.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -18,7 +18,7 @@ license: OGL
 
 
 
-The third time a jiang-shi successfully Drains Qi within a single minute, they become [[Conditions/Quickened|Quickened]] for 1 minute. They can use their extra action only to Strike or Stride.
+The third time a jiang-shi successfully Drains Qi within a single minute, they become [[Quickened|Quickened]] for 1 minute. They can use their extra action only to Strike or Stride.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

@@ -23,7 +23,7 @@ license: OGL
 * * *
 **Frequency** once per day
 
-**Requirements** Your identity is [[Conditions/Hidden|Hidden]], either by magic or a disguise.
+**Requirements** Your identity is [[Hidden|Hidden]], either by magic or a disguise.
 
 * * *
 

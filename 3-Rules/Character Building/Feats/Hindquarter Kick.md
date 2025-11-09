@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Clawdancer Dedication
 * * *
-**Requirements** You are in claw stance and have [[Conditions/Grabbed|Grabbed]] a creature.
+**Requirements** You are in claw stance and have [[Grabbed|Grabbed]] a creature.
 
 * * *
 

@@ -34,11 +34,11 @@ This tiny capsule of soluble material is filled with a flavorless clear powder m
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** [[Conditions/Sickened|Sickened 1]] (1 minute)
+**Stage 1** [[Sickened|Sickened 1]] (1 minute)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and sickened 1 (1 minute)
+**Stage 2** [[Enfeebled|Enfeebled 1]] and sickened 1 (1 minute)
 
-**Stage 3** 4d6 bludgeoning damage (DC 23 Fortitude check save) and [[Conditions/Enfeebled|Enfeebled 2]] as the affected target painfully vomits (1 minute)
+**Stage 3** 4d6 bludgeoning damage (DC 23 Fortitude check save) and [[Enfeebled|Enfeebled 2]] as the affected target painfully vomits (1 minute)
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -29,11 +29,11 @@ Concocted from the formulas provided by otherworldly refugees to Irrisen, mustar
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison and [[Conditions/Dazzled|Dazzled]] (1 round)
+**Stage 1** 1d6 poison and [[Dazzled|Dazzled]] (1 round)
 
-**Stage 2** 2d4 poison, dazzled, [[Conditions/Sickened|Sickened 1]], and unable to smell (1 round)
+**Stage 2** 2d4 poison, dazzled, [[Sickened|Sickened 1]], and unable to smell (1 round)
 
-**Stage 3** 2d6 poison, dazzled, [[Conditions/Sickened|Sickened 2]], and unable to smell (1 round)
+**Stage 3** 2d6 poison, dazzled, [[Sickened|Sickened 2]], and unable to smell (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

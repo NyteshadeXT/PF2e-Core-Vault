@@ -22,7 +22,7 @@ license: OGL
 * * *
 **Frequency** once per 10 minutes
 
-**Trigger** Another creature within 30 feet of you that can see you would gain the [[Conditions/Frightened|Frightened]] condition.
+**Trigger** Another creature within 30 feet of you that can see you would gain the [[Frightened|Frightened]] condition.
 
 * * *
 

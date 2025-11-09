@@ -28,9 +28,9 @@ You attempt a dizzying blow. Make a melee Strike. If you hit, your foe must atte
 
 **Success** The target can't use reactions until its next turn.
 
-**Failure** The target is [[Conditions/Stunned|Stunned 1]].
+**Failure** The target is [[Stunned|Stunned 1]].
 
-**Critical Failure** The target is [[Conditions/Stunned|Stunned 3]].
+**Critical Failure** The target is [[Stunned|Stunned 3]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

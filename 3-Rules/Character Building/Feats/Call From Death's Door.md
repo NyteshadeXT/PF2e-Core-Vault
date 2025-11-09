@@ -20,11 +20,11 @@ license: ORC
 
 **Prerequisites** Caretaker's Calling
 * * *
-**Trigger** The [[Conditions/Dying|Dying]] condition of an ally you're observing would increase.
+**Trigger** The [[Dying|Dying]] condition of an ally you're observing would increase.
 
 * * *
 
-Even death halts in the face of your power. Spend a Mythic Point; the triggering ally loses the dying condition, their [[Conditions/Wounded|Wounded]] condition doesn't increase, and they heal a number of Hit Points equal to twice your level.
+Even death halts in the face of your power. Spend a Mythic Point; the triggering ally loses the dying condition, their [[Wounded|Wounded]] condition doesn't increase, and they heal a number of Hit Points equal to twice your level.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

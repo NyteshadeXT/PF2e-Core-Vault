@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Hunter's Aim
 * * *
-You carefully track your prey's position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+You carefully track your prey's position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target's [[3-Rules/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

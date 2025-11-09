@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You let your words defend you, just as your allies in the Vellumis Scholars defend through knowledge. You immediately cast _shield_ and gain its bonus to AC even though you normally couldn't cast it, and you become [[Conditions/Slowed|Slowed 1]] for 1 round.
+You let your words defend you, just as your allies in the Vellumis Scholars defend through knowledge. You immediately cast _shield_ and gain its bonus to AC even though you normally couldn't cast it, and you become [[Slowed|Slowed 1]] for 1 round.
 
 *Source: Pathfinder Claws of the Tyrant*
 *ORC*

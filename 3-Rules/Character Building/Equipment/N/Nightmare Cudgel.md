@@ -27,7 +27,7 @@ license: OGL
 
 Crafted from polished wood, this seemingly mundane _+1 striking [[Equipment/Club|Club]]_ comes with a red leather strap near the handle. The mere sight of the cudgel in a guard's hand fills prisoners with dread.
 
-Good creatures are [[Conditions/Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
+Good creatures are [[Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.
 
 * * *
 

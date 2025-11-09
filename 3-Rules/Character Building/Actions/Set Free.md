@@ -20,7 +20,7 @@ license: OGL
 
 **Frequency** once per hour
 
-**Trigger** You attempt a check to remove or counteract an effect with the [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Fascinated|Fascinated]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], or [[Conditions/Restrained|Restrained]] conditions
+**Trigger** You attempt a check to remove or counteract an effect with the [[Confused|Confused]], [[Controlled|Controlled]], [[Fascinated|Fascinated]], [[Immobilized|Immobilized]], [[Paralyzed|Paralyzed]], or [[Restrained|Restrained]] conditions
 
 * * *
 

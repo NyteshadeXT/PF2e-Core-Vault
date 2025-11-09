@@ -31,11 +31,11 @@ No matter the result, affected creatures are then temporarily immune to the effe
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]].
+**Critical Failure** The creature is [[Frightened|Frightened 3]].
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

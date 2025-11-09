@@ -29,7 +29,7 @@ Every Firebrand can recognize the skill of others, but you've turned it into an 
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Critical Success** The target becomes [[Off-Guard|Off-Guard]] for 1 round.
 
 **Success** The target becomes off-guard against your attacks for 1 round.
 

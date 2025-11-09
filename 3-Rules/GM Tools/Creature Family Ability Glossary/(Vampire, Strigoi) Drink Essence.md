@@ -18,11 +18,11 @@ license: OGL
 
 
 
-**Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within the strigoi's reach
+**Requirements** A [[Grabbed|Grabbed]], [[Paralyzed|Paralyzed]], [[Restrained|Restrained]], [[Unconscious|Unconscious]], or willing creature is within the strigoi's reach
 
 * * *
 
-**Effect** The strigoi sinks their fangs into the targeted creature to drink its blood and draw out its vital essence. This requires an Athletics check check against the creature's Fortitude DC if the creature is grabbed and is automatic for any of the other conditions. The creature becomes [[Conditions/Drained|Drained 1]] and [[Conditions/Stupefied|Stupefied 1]], and the strigoi regains HP equal to 10% of their maximum HP, gaining any excess HP as temporary Hit Points. Drinking Essence from a creature that's already drained or stupefied doesn't restore any HP, but increases either the creature's drained condition value or its stupefied condition value by 1 (whichever value is lesser is increased; if both values are equal, then the strigoi chooses which condition to increase the value of).
+**Effect** The strigoi sinks their fangs into the targeted creature to drink its blood and draw out its vital essence. This requires an Athletics check check against the creature's Fortitude DC if the creature is grabbed and is automatic for any of the other conditions. The creature becomes [[Drained|Drained 1]] and [[Stupefied|Stupefied 1]], and the strigoi regains HP equal to 10% of their maximum HP, gaining any excess HP as temporary Hit Points. Drinking Essence from a creature that's already drained or stupefied doesn't restore any HP, but increases either the creature's drained condition value or its stupefied condition value by 1 (whichever value is lesser is increased; if both values are equal, then the strigoi chooses which condition to increase the value of).
 
 A victim's drained condition decreases by 1 per week. A blood transfusion, which requires a successful DC 20 Medicine check check and sufficient blood or a blood donor, reduces the drained value by 1 after 10 minutes.
 

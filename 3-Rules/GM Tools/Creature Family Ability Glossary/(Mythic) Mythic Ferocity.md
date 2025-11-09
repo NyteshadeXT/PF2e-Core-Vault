@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-**Effect** The monster avoids being knocked out and remains at half its maximum HP, but its wounded value increases by 1. When it is [[Conditions/Wounded|Wounded 3]], it can no longer use this ability.
+**Effect** The monster avoids being knocked out and remains at half its maximum HP, but its wounded value increases by 1. When it is [[Wounded|Wounded 3]], it can no longer use this ability.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

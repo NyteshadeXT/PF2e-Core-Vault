@@ -15,7 +15,7 @@ tags:
 | 1-3 | Leaves grow from the target; they last 24 hours |
 | 4-8 | [[Spells/Darkness\|Darkness]] |
 | 9 | Summon a [[3-Rules/Bestiaries/Monster Core/G/Giant Stag Beetle\|Giant Stag Beetle]] (5th-level [[Spells/Summon Animal\|Summon Animal]]) |
-| 10-13 | A stream of 600 large and colorful butterflies pours forth, fluttering in a 20-foot burst for 2 rounds; creatures are [[Conditions/Blinded\|Blinded]] while in the cloud of butterflies |
+| 10-13 | A stream of 600 large and colorful butterflies pours forth, fluttering in a 20-foot burst for 2 rounds; creatures are [[Blinded\|Blinded]] while in the cloud of butterflies |
 | 14-15 | All the target's weapons animate with the effects of the [[Equipment/Animated\|Dancing]] rune |
 | 16-25 | [[Spells/Lightning Bolt\|Lightning Bolt]] |
 | 26-29 | Grass grows in a 60-foot cone in front of the rod, or existing grass grows at 10 × normal rate |
@@ -37,7 +37,7 @@ tags:
 | 73-77 | [[Spells/Mind Reading\|Mind Reading]] |
 | 78-80 | Roll again; the target believes you created the effect of the second roll |
 | 81-84 | [[Spells/Enlarge\|Enlarge]] |
-| 85-87 | Target is coated in nectar, making it [[Conditions/Clumsy\|Clumsy 1]] for 1 round |
+| 85-87 | Target is coated in nectar, making it [[Clumsy\|Clumsy 1]] for 1 round |
 | 88-92 | [[Spells/Faerie Fire\|Faerie Fire]] |
 | 93-97 | The rod casts [[Spells/Invisibility\|Invisibility]] on you |
 | 98-100 | The rod casts [[Spells/Shrink\|Shrink]] on you, lasting 1 day |

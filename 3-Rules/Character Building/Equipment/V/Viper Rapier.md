@@ -52,7 +52,7 @@ Crafted from flawless jade, the guard of this rapier takes the form of a twistin
 
 **Frequency** once per hour
 
-**Effect** You twirl your rapier in a serpentine pattern, causing your form to become a blur of motion. You're [[Conditions/Concealed|Concealed]] for 1 minute or until you take a hostile action. While you're concealed, you also gain a +2 circumstance bonus to Reflex saving throws.
+**Effect** You twirl your rapier in a serpentine pattern, causing your form to become a blur of motion. You're [[3-Rules/Conditions/Concealed|Concealed]] for 1 minute or until you take a hostile action. While you're concealed, you also gain a +2 circumstance bonus to Reflex saving throws.
 
 [[Equipment Effects/Effect_ Viper Rapier|Effect: Viper Rapier]]
 

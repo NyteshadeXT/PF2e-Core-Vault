@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** You're [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a creature.
+**Requirements** You're [[Grabbed|Grabbed]] or [[Restrained|Restrained]] by a creature.
 
 * * *
 

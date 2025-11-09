@@ -23,7 +23,7 @@ This item appears to be an ordinary semiprecious stone and is typically mounted 
 
 The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of her coven, can peer through the eye using the Seek action. This has no range limit, provided the hag is on the same plane.
 
-Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.
+Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded|Blinded]] for 1 hour.
 
 A frightful hag eye is made with the eye of a creature whose gaze inflicts fear, such as some velstracs.
 
@@ -39,11 +39,11 @@ A frightful hag eye is made with the eye of a creature whose gaze inflicts fear,
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Frightened|Frightened 1]].
+**Success** The target is [[Frightened|Frightened 1]].
 
-**Failure** The target is [[Conditions/Frightened|Frightened 2]].
+**Failure** The target is [[Frightened|Frightened 2]].
 
-**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Failure** The target is [[Frightened|Frightened 3]] and [[Fleeing|Fleeing]] for 1 round.
 
 * * *
 

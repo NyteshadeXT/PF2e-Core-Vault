@@ -29,11 +29,11 @@ Your debilitations are especially effective on your most powerful attacks. Whene
     
     **Critical Success** The target is unaffected.
     
-    **Success** The target is [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
+    **Success** The target is [[Slowed|Slowed 1]] until the end of your next turn.
     
-    **Failure** The target is [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
+    **Failure** The target is [[Slowed|Slowed 2]] until the end of your next turn.
     
-    **Critical Failure** The target is [[Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
+    **Critical Failure** The target is [[Paralyzed|Paralyzed]] until the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

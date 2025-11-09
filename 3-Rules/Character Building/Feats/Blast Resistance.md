@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to fire and sonic. If you roll a success on a saving throw against an effect that causes the [[Conditions/Dazzled|Dazzled]] or [[Conditions/Deafened|Deafened]] conditions, you get a critical success instead.
+You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to fire and sonic. If you roll a success on a saving throw against an effect that causes the [[Dazzled|Dazzled]] or [[Deafened|Deafened]] conditions, you get a critical success instead.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

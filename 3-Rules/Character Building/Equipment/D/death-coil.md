@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "death-coil"
 aliases: "Death Coil"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "rare"
 trait01: "consumable"
 trait02: "electricity"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This modified Stasian coil of metal and glass stands about three feet tall. It activates when at least three creatures are within 20 feet of it, or if at least one creature stays within 20 feet of it for more than 1 round. It then lashes out with a torrent of electrical energy dealing 7d12 electricity damage to all creatures within 20 feet of it. Due to the fact that it doesn't trigger immediately when a creature enters its square, abilities like [[Feats/Surprise Snare|Surprise Snare]] don't work with a death coil. Creatures within that area must attempt a DC 43 Fortitude check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 2]].  **Critical Failure** The creature takes double damage is [[Conditions/Stunned|Stunned 4]]."
+description: "This modified Stasian coil of metal and glass stands about three feet tall. It activates when at least three creatures are within 20 feet of it, or if at least one creature stays within 20 feet of it for more than 1 round. It then lashes out with a torrent of electrical energy dealing `dice: 7d12` electricity damage to all creatures within 20 feet of it. Due to the fact that it doesn't trigger immediately when a creature enters its square, abilities like [[Surprise Snare]] don't work with a death coil. Creatures within that area must attempt a DC 43 Fortitude check saving throw.<br><br>**Critical Success** The creature is unaffected.<br>**Success** The creature takes half damage.<br>**Failure** The creature takes full damage and is [[Stunned|Stunned 2]].<br>**Critical Failure** The creature takes double damage is [[Stunned|Stunned 4]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

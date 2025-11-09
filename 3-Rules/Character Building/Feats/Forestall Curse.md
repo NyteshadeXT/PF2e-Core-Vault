@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You've learned to hold back your curse. If the next action you use is a cursebound ability, your [[Conditions/Cursebound|Cursebound]] value doesn't increase
+You've learned to hold back your curse. If the next action you use is a cursebound ability, your [[Cursebound|Cursebound]] value doesn't increase
 
 *Source: Pathfinder Player Core 2*
 *ORC*

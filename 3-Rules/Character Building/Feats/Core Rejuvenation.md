@@ -21,11 +21,11 @@ license: ORC
 
 **Frequency** once per day
 
-**Trigger** You have the [[Conditions/Dying|Dying]] condition and are about to attempt a recovery check.
+**Trigger** You have the [[Dying|Dying]] condition and are about to attempt a recovery check.
 
 * * *
 
-Your soul taps into your core's power to push against the grasp of death and allow you to recover consciousness. You're restored to 1 Hit Point, lose the dying and [[Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
+Your soul taps into your core's power to push against the grasp of death and allow you to recover consciousness. You're restored to 1 Hit Point, lose the dying and [[Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
 
 **Enhancement** Your soul can draw even more power from your core, granting you additional benefits. When you use Core Rejuvenation, you also gain a number of temporary Hit Points equal to three times your level. These Hit Points remain for 1 minute.
 

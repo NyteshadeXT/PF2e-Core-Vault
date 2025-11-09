@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The primeval cryptid creates a shockwave by stomping on the ground, beating its tail on the ground, or making another similarly violent, percussive slam. Creatures on the ground within 30 feet of the primeval cryptid take 1d6 bludgeoning damage per level of the primeval cryptid (minimum 2d6 damage), with a Reflex check. On a critical failure, a creature is also knocked [[Conditions/Prone|Prone]].
+The primeval cryptid creates a shockwave by stomping on the ground, beating its tail on the ground, or making another similarly violent, percussive slam. Creatures on the ground within 30 feet of the primeval cryptid take 1d6 bludgeoning damage per level of the primeval cryptid (minimum 2d6 damage), with a Reflex check. On a critical failure, a creature is also knocked [[Prone|Prone]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

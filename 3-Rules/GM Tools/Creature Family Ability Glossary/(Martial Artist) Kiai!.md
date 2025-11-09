@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-**Effect** The martial student shouts to startle their adversary. If the Strike is successful, the target becomes [[Conditions/Frightened|Frightened 1]].
+**Effect** The martial student shouts to startle their adversary. If the Strike is successful, the target becomes [[Frightened|Frightened 1]].
 
 *Source: Pathfinder NPC Core*
 *ORC*

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** A creature attempts a flat check to target you due to you being [[Conditions/Concealed|Concealed]] from it
+**Trigger** A creature attempts a flat check to target you due to you being [[3-Rules/Conditions/Concealed|Concealed]] from it
 
 * * *
 

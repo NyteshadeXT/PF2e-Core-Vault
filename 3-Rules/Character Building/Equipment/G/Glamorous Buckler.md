@@ -32,7 +32,7 @@ A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding 
 
 * * *
 
-**Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Dazzled|Dazzled]] for 1 round.
 
 * * *
 

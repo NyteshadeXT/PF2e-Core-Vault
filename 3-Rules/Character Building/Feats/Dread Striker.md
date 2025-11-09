@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You capitalize on your enemies' fear to slip past their defenses. Any creature that has the [[Conditions/Frightened|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against your attacks.
+You capitalize on your enemies' fear to slip past their defenses. Any creature that has the [[Frightened|Frightened]] condition is also [[Off-Guard|Off-Guard]] against your attacks.
 
 *Source: Pathfinder Player Core*
 *ORC*

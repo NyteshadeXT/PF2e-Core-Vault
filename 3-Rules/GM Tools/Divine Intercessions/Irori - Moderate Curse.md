@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Irori challenges you to adapt to adversity in order to perfect yourself. You become weighed down as if under heavy weights, becoming [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Encumbered|Encumbered]] until you accomplish a challenging task of Irori's choosing.
+Irori challenges you to adapt to adversity in order to perfect yourself. You become weighed down as if under heavy weights, becoming [[Clumsy|Clumsy 2]] and [[Encumbered|Encumbered]] until you accomplish a challenging task of Irori's choosing.
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

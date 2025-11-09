@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Eternal Legend Dedication; master in Fortitude or Reflex saves
 * * *
-You plant your feet in a wide stance, resisting all movement not of your own volition. While in this stance and on the ground, you are immune to forced movement and if an effect would knock you [[Conditions/Prone|Prone]], you aren't knocked prone and can Step as a free action.
+You plant your feet in a wide stance, resisting all movement not of your own volition. While in this stance and on the ground, you are immune to forced movement and if an effect would knock you [[Prone|Prone]], you aren't knocked prone and can Step as a free action.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

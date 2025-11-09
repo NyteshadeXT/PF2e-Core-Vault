@@ -30,7 +30,7 @@ This _+1 resilient breastplate_ is made from shining bronze overlaid with reinfo
 
 * * *
 
-**Effect** You grant allies within 100 feet a +2 status bonus to saves against fear effects for 1 minute. When you activate this ability, each affected ally who's [[Conditions/Frightened|Frightened]] reduces their frightened value by 1.
+**Effect** You grant allies within 100 feet a +2 status bonus to saves against fear effects for 1 minute. When you activate this ability, each affected ally who's [[Frightened|Frightened]] reduces their frightened value by 1.
 
 [[Equipment Effects/Effect_ Command Bravery|Effect: Command Bravery]]
 

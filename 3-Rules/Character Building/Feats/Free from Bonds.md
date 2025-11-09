@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Flash of Omnipresence
 * * *
-As a mortal herald, you cannot easily be captured, nor can your allies. If you are [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] when you use [[Feats/Flash of Omnipresence|Flash of Omnipresence]], the creature or effect that is imparting that condition on you takes spirit damage equal to your level.
+As a mortal herald, you cannot easily be captured, nor can your allies. If you are [[Grabbed|Grabbed]] or [[Restrained|Restrained]] when you use [[Feats/Flash of Omnipresence|Flash of Omnipresence]], the creature or effect that is imparting that condition on you takes spirit damage equal to your level.
 
 If you teleport adjacent to a grabbed or restrained ally using Flash of Omnipresence, attempt a Religion check check against the hard DC for the level of the creature or effect that is imparting that condition. on a success, your ally no longer has that condition.
 

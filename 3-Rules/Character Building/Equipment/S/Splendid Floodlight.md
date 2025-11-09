@@ -28,7 +28,7 @@ This drum-shaped metal floodlight has a metal handle on each side and a housing 
 
 * * *
 
-**Effect** You flip a switch and the splendid floodlight emits bright magical light in a 120-foot cone that hangs in the air and remains in place even if you move the floodlight. If the cone passes through an area of magical darkness or targets a creature affected by magical darkness, the splendid floodlight attempts to counteract the darkness. Creatures in the cone who are [[Conditions/Frightened|Frightened]] reduce the value of their frightened condition by 1 at the beginning of each turn they start in the area of the cone. The light remains in place until you Interact to flip the switch again to extinguish the floodlight. If you haven't done so after an hour, the switch flips on its own and the floodlight turns off.
+**Effect** You flip a switch and the splendid floodlight emits bright magical light in a 120-foot cone that hangs in the air and remains in place even if you move the floodlight. If the cone passes through an area of magical darkness or targets a creature affected by magical darkness, the splendid floodlight attempts to counteract the darkness. Creatures in the cone who are [[Frightened|Frightened]] reduce the value of their frightened condition by 1 at the beginning of each turn they start in the area of the cone. The light remains in place until you Interact to flip the switch again to extinguish the floodlight. If you haven't done so after an hour, the switch flips on its own and the floodlight turns off.
 
 **Activate** `pf2:2` Interact
 

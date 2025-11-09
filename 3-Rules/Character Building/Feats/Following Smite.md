@@ -34,9 +34,9 @@ You call upon your deity's power and channel it through your weapon. The creatur
 
 **Success** The target takes spirit damage equal to half your level.
 
-**Failure** The target takes spirit damage equal to your level and is knocked [[Conditions/Prone|Prone]].
+**Failure** The target takes spirit damage equal to your level and is knocked [[Prone|Prone]].
 
-**Critical Failure** The target takes spirit damage equal to twice your level, is knocked prone, and becomes [[Conditions/Clumsy|Clumsy 1]] until the beginning of your next turn.
+**Critical Failure** The target takes spirit damage equal to twice your level, is knocked prone, and becomes [[Clumsy|Clumsy 1]] until the beginning of your next turn.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

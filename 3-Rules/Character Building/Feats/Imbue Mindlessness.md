@@ -25,11 +25,11 @@ You grasp the mind of an undead creature and temporarily wipe it as empty as a z
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Stupefied|Stupefied 1]] for 1 round.
+**Success** The target is [[Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The target is [[Conditions/Stupefied|Stupefied 2]] for 1 minute. While it is stupefied, you can use your Corpse Tender feats on the target as though it were mindless.
+**Failure** The target is [[Stupefied|Stupefied 2]] for 1 minute. While it is stupefied, you can use your Corpse Tender feats on the target as though it were mindless.
 
-**Critical Failure** As failure, except the target is [[Conditions/Stupefied|Stupefied 3]] for 10 minutes.
+**Critical Failure** As failure, except the target is [[Stupefied|Stupefied 3]] for 10 minutes.
 
 *Source: Pathfinder #181: Zombie Feast*
 *OGL*

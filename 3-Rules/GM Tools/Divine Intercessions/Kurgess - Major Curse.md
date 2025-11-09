@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The wrath of Kurgess withers you almost to nothing. You are permanently [[Conditions/Drained|Drained 2]] and [[Conditions/Enfeebled|Enfeebled 4]].
+The wrath of Kurgess withers you almost to nothing. You are permanently [[Drained|Drained 2]] and [[Enfeebled|Enfeebled 4]].
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

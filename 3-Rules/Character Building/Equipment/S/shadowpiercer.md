@@ -30,7 +30,7 @@ license: ORC
 
 Muted, silvery moonlight gleams along the curved blade of this _+4 major striking ghost touch spear_. Braided tassels of horsehair dangle from its sturdy haft, and archaic runes in Nidalese script shimmer along the weapon in the presence of shadow magic.
 
-_Shadowpiercer_ ignores immunity and resistance to precision damage of creatures with the incorporeal or shadow trait, and deals an additional 2d6 precision damage to such creatures. While wielding _Shadowpiercer_, you gain a +2 status bonus to saving throws against darkness and shadow effects; this bonus also applies to allies within 60 feet of you while you wield the spear. If you are a worshipper of [[Deities/Zon-Kuthon|Zon-Kuthon]], you are [[Conditions/Drained|Drained 4]] and [[Conditions/Enfeebled|Enfeebled 4]] while carrying or wielding _Shadowpiercer_. If you use a darkness or shadow effect while carrying or wielding _Shadowpiercer_, you become enfeebled 4; this condition's value reduces by 1 at the start of each day you do not have physical contact with _Shadowpiercer_.
+_Shadowpiercer_ ignores immunity and resistance to precision damage of creatures with the incorporeal or shadow trait, and deals an additional 2d6 precision damage to such creatures. While wielding _Shadowpiercer_, you gain a +2 status bonus to saving throws against darkness and shadow effects; this bonus also applies to allies within 60 feet of you while you wield the spear. If you are a worshipper of [[Deities/Zon-Kuthon|Zon-Kuthon]], you are [[Drained|Drained 4]] and [[Enfeebled|Enfeebled 4]] while carrying or wielding _Shadowpiercer_. If you use a darkness or shadow effect while carrying or wielding _Shadowpiercer_, you become enfeebled 4; this condition's value reduces by 1 at the start of each day you do not have physical contact with _Shadowpiercer_.
 
 * * *
 
@@ -48,7 +48,7 @@ _Shadowpiercer_ ignores immunity and resistance to precision damage of creatures
 
 **Requirements** You don't currently have the drained condition
 
-**Effect** Spend a Mythic Point; the spear drains your vitality to counteract the effect. You can attempt to counteract the effect (+46 modifier level, counteract rank 10). You can activate this effect without having a Mythic Point available but doing so makes you [[Conditions/Drained|Drained 2]].
+**Effect** Spend a Mythic Point; the spear drains your vitality to counteract the effect. You can attempt to counteract the effect (+46 modifier level, counteract rank 10). You can activate this effect without having a Mythic Point available but doing so makes you [[Drained|Drained 2]].
 
 * * *
 

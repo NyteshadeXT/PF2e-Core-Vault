@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Beastmaster Dedication; animal companion with an agile or finesse unarmed attack
 * * *
-Your companions pick at an enemy's weak points. When your companion strikes a [[Conditions/Off-Guard|Off-Guard]] creature with an agile or finesse unarmed attack, it deals an additional 1d4 precision damage (2d4 if the animal companion is specialized). If the companion already deals precision damage, combine the precision damage.
+Your companions pick at an enemy's weak points. When your companion strikes a [[Off-Guard|Off-Guard]] creature with an agile or finesse unarmed attack, it deals an additional 1d4 precision damage (2d4 if the animal companion is specialized). If the companion already deals precision damage, combine the precision damage.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

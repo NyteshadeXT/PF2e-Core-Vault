@@ -17,7 +17,7 @@ license: OGL
 
 
 
-It's second nature for you to be on the lookout for allies. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead [[Conditions/Hidden|Hidden]] from you. The DC of the flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
+It's second nature for you to be on the lookout for allies. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead [[Hidden|Hidden]] from you. The DC of the flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
 
 *Source: *
 *OGL*

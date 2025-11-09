@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Actions/Command an Animal|Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
+You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Actions/Command an Animal|Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[Slowed|Slowed 1]] until the end of its next turn.
 
 *Source: Pathfinder #177: Burning Tundra*
 *OGL*

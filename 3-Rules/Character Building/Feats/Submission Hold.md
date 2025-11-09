@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
@@ -28,7 +28,7 @@ Your iron grip saps your opponent's strength. Attempt an Athletics check to [[Ac
 
 * * *
 
-**Critical Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn and [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute.
+**Critical Success** The target is [[Enfeebled|Enfeebled 2]] until the end of its next turn and [[Enfeebled|Enfeebled 1]] for 1 minute.
 
 **Success** The target is enfeebled 1 until the end of its next turn.
 

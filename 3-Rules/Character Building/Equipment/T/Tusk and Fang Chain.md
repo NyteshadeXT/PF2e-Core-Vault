@@ -35,7 +35,7 @@ This length of silver chain has a tiger's fang on one end and the tip of a dire 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Confused|Confused]] on its next action.
+**Success** The creature is [[Confused|Confused]] on its next action.
 
 **Failure** The creature is confused for 1 round.
 

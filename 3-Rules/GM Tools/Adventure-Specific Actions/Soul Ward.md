@@ -19,7 +19,7 @@ license: OGL
 
 **Frequency** once
 
-**Trigger** You would gain the [[Conditions/Unconscious|Unconscious]] or [[Conditions/Dying|Dying]] condition, or you would be destroyed
+**Trigger** You would gain the [[Unconscious|Unconscious]] or [[Dying|Dying]] condition, or you would be destroyed
 
 * * *
 

@@ -34,7 +34,7 @@ This bitter paste is used among some gladiatorial rings for its short-term benef
 
 **Stage 1** +2 item bonus to Perception rolls for initiative, and if you have an addiction to zerk, your melee weapon and unarmed attacks deal an extra 2 damage during the first round of a combat encounter (1 minute)
 
-**Stage 2** [[Conditions/Drained|Drained 1]] (1 hour)
+**Stage 2** [[Drained|Drained 1]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

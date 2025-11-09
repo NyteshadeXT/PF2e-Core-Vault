@@ -26,7 +26,7 @@ license: ORC
 
 Your hands move in a hypnotic and distracting flurry that throws your foes off-balance before you cast them away with a violent pirouette.
 
-You Step. Then each enemy within your reach must attempt a Will check save against the higher of your class DC or your Deception DC; on a failure, they're [[Conditions/Off-Guard|Off-Guard]] to melee attacks from you and your allies until the end of your next turn. Then, [[Actions/Shove|Shove]] up to three adjacent enemies; each Shove counts toward your multiple attack penalty, but you don't increase your penalty until after you've resolved all the Shove attempts.
+You Step. Then each enemy within your reach must attempt a Will check save against the higher of your class DC or your Deception DC; on a failure, they're [[Off-Guard|Off-Guard]] to melee attacks from you and your allies until the end of your next turn. Then, [[Actions/Shove|Shove]] up to three adjacent enemies; each Shove counts toward your multiple attack penalty, but you don't increase your penalty until after you've resolved all the Shove attempts.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

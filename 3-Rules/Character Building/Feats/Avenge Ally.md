@@ -22,7 +22,7 @@ license: ORC
 
 **Frequency** once every 10 minutes
 
-**Requirements** You are within 30 feet of an ally with the [[Conditions/Dying|Dying]] condition.
+**Requirements** You are within 30 feet of an ally with the [[Dying|Dying]] condition.
 
 * * *
 

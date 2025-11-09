@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Using your prior attack to shift your opponent's guard, you take another swing and grab them. Make a melee Strike while keeping one hand free. If the Strike hits, you grab the target using your free hand. The creature remains [[Conditions/Grabbed|Grabbed]] until the end of your next turn or until it [[Actions/Escape|Escapes]], whichever comes first.
+Using your prior attack to shift your opponent's guard, you take another swing and grab them. Make a melee Strike while keeping one hand free. If the Strike hits, you grab the target using your free hand. The creature remains [[Grabbed|Grabbed]] until the end of your next turn or until it [[Actions/Escape|Escapes]], whichever comes first.
 
 *Source: Pathfinder Player Core*
 *ORC*

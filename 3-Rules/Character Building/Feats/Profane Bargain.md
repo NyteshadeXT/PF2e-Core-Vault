@@ -26,7 +26,7 @@ You can strike a profane bargain with a willing, sapient creature. That creature
 
 If the target accepts, they verbally make a request. You can choose to twist their request by selecting specific details, as long as you still fulfill the requirements of their request. If the request could be granted by a [[Spells/Wish|Wish]] ritual, you spend 1 Mythic Point and the request is magically granted.
 
-As long as the bargain persists, you always know the target's location, can communicate telepathically with the target at any distance, and can see through the target's senses by taking a single action that has the concentrate trait. Once per day, you can take control of the target as an activity that takes three actions and has the concentrate trait. When you do, they become [[Conditions/Controlled|Controlled]] by you for 10 minutes. They have no memory of their time spent under your control.
+As long as the bargain persists, you always know the target's location, can communicate telepathically with the target at any distance, and can see through the target's senses by taking a single action that has the concentrate trait. Once per day, you can take control of the target as an activity that takes three actions and has the concentrate trait. When you do, they become [[Controlled|Controlled]] by you for 10 minutes. They have no memory of their time spent under your control.
 
 If the target ever breaks the terms of this bargain, you immediately select one of the following punishments: they die, they die and you possess their soul, they become permanently controlled by you, or they become imprisoned in a cell within your realm's dungeon (you must have the [[Feats/Imprison Foe|Imprison Foe]] feat to select this final option).
 

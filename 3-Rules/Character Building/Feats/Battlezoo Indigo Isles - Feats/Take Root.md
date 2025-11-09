@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** rhizo heritage
 * * *
-You draw upon your connection to the mangrove's deep roots to improve your stability. You gain the [[Conditions/Immobilized|Immobilized]] condition, and a +4 circumstance bonus to your Reflex and Fortitude saving throws and DC against attempts to forcefully move you or make you [[Conditions/Prone|Prone]]. You can use Take Root again to end this effect and be able to move again, and it automatically ends if you lose the immobilized condition or are forcefully moved as your roots are pulled out.
+You draw upon your connection to the mangrove's deep roots to improve your stability. You gain the [[Immobilized|Immobilized]] condition, and a +4 circumstance bonus to your Reflex and Fortitude saving throws and DC against attempts to forcefully move you or make you [[Prone|Prone]]. You can use Take Root again to end this effect and be able to move again, and it automatically ends if you lose the immobilized condition or are forcefully moved as your roots are pulled out.
 
 *Source: *
 *OGL*

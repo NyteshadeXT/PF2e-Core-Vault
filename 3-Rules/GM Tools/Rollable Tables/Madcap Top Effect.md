@@ -10,12 +10,12 @@ tags:
 # Madcap Top Effect
 | 1d20 | result |
 |------|--------|
-| 1 | You spin just like the top. You are [[Conditions/Stunned\|Stunned]] for 1 round and then [[Conditions/Confused\|Confused]] for 1 round. |
+| 1 | You spin just like the top. You are [[Stunned\|Stunned]] for 1 round and then [[Confused\|Confused]] for 1 round. |
 | 2 | [[Spells/Slow\|Slow]] affects the target. |
 | 3 | [[Spells/Shrink\|Shrink]] affects you for 1 day. |
 | 4 | A 3rd-rank [[Spells/Illusory Disguise\|Illusory Disguise]] makes you look like the target. |
 | 5 | A statue of the target, made of chocolate or candy, appears adjacent to you. |
-| 6 | Gravity reverses, sending you and the target 30 feet in the air, [[Conditions/Immobilized\|Immobilized]]. You both fall at the start of your next turn. |
+| 6 | Gravity reverses, sending you and the target 30 feet in the air, [[Immobilized\|Immobilized]]. You both fall at the start of your next turn. |
 | 7 | [[Spells/Mind Reading\|Mind Reading]] affects the target, and the top loudly recites what it discovers. |
 | 8 | [[Spells/Laughing Fit\|Laughing Fit]] affects the target. |
 | 9 | A fountain erupts from the top, spraying wine for 10 minutes. |

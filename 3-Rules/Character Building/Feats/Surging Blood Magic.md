@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Rising Blood Magic; master in Arcana or Religion, depending on your chosen tradition
 * * *
-Your blood courses with magic. You gain the [[PF2e Journals/Archetypes/Expert Spellcasting Feat|Expert Spellcasting Feat]] benefits. In addition, when you Cast a Spell from your repertoire and you are at least [[Conditions/Drained|Drained 2]], increase the extra damage dealt by that spell from Rage by an additional 2 (for a total of 3).
+Your blood courses with magic. You gain the [[PF2e Journals/Archetypes/Expert Spellcasting Feat|Expert Spellcasting Feat]] benefits. In addition, when you Cast a Spell from your repertoire and you are at least [[Drained|Drained 2]], increase the extra damage dealt by that spell from Rage by an additional 2 (for a total of 3).
 
 *Source: Pathfinder War of Immortals*
 *ORC*

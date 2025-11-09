@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-You move across a narrow surface or uneven ground, attempting an [[Actions/balance|balance]]{Acrobatics} check against its Balance DC. You are [[Conditions/Off-Guard|Off-Guard]] while on a narrow surface or uneven ground.
+You move across a narrow surface or uneven ground, attempting an [[Actions/balance|balance]]{Acrobatics} check against its Balance DC. You are [[Off-Guard|Off-Guard]] while on a narrow surface or uneven ground.
 
 * * *
 

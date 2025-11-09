@@ -34,13 +34,13 @@ Lethargy poison is commonly used in hit-and-run tactics by attackers who want th
 
 **Maximum Duration** 4 hours
 
-**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** [[Slowed|Slowed 1]] (1 round)
 
-**Stage 2** [[Conditions/Slowed|Slowed 1]] (1 minute)
+**Stage 2** [[Slowed|Slowed 1]] (1 minute)
 
-**Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 round)
+**Stage 3** [[Unconscious|Unconscious]] with no Perception check to wake up (1 round)
 
-**Stage 4** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours).
+**Stage 4** [[Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours).
 
 *Source: Pathfinder GM Core*
 *ORC*

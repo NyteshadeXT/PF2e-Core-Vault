@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** master in Athletics
 * * *
-**Trigger** A [[Conditions/Prone|Prone]] foe within your reach Stands.
+**Trigger** A [[Prone|Prone]] foe within your reach Stands.
 
 * * *
 

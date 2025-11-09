@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** Healthy Snack
 * * *
-When you use [[Feats/Healthy Snack|Healthy Snack]], you can also reduce the value of your [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Stupefied|Stupefied]] condition by 1. Once per day, when you use Healthy Snack, you can reduce the value of your [[Conditions/Drained|Drained]] condition by 1 instead.
+When you use [[Feats/Healthy Snack|Healthy Snack]], you can also reduce the value of your [[Clumsy|Clumsy]], [[Enfeebled|Enfeebled]], or [[Stupefied|Stupefied]] condition by 1. Once per day, when you use Healthy Snack, you can reduce the value of your [[Drained|Drained]] condition by 1 instead.
 
 *Source: *
 *OGL*

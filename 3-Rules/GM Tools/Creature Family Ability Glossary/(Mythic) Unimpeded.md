@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-**Effect** The mythic striker automatically ends one effect that would give it a circumstance penalty to Speed. When it attempts to [[Actions/Escape|Escape]] an effect that has it [[Conditions/Immobilized|Immobilized]], [[Conditions/Grabbed|Grabbed]], or [[Conditions/Restrained|Restrained]], it automatically succeeds.
+**Effect** The mythic striker automatically ends one effect that would give it a circumstance penalty to Speed. When it attempts to [[Actions/Escape|Escape]] an effect that has it [[Immobilized|Immobilized]], [[Grabbed|Grabbed]], or [[Restrained|Restrained]], it automatically succeeds.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

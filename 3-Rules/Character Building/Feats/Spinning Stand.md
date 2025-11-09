@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Clawdancer Dedication
 * * *
-**Requirements** You're [[Conditions/Prone|Prone]].
+**Requirements** You're [[Prone|Prone]].
 
 * * *
 

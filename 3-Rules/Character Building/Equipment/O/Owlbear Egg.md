@@ -31,11 +31,11 @@ Not only are owlbear eggs delicious when boiled, but when infused with a mix of 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Failure** The creature is [[Frightened|Frightened 3]] and [[Fleeing|Fleeing]] for 1 round.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

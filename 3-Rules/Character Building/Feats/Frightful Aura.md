@@ -23,9 +23,9 @@ You're surrounded by a palpable sense of menace and power that's terrifying to b
 
 **Success** The creature is unaffected and temporarily immune to your Frightful Aura for 1 minute.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 1]].
+**Failure** The creature is [[Frightened|Frightened 1]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Critical Failure** The creature is [[Frightened|Frightened 2]].
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

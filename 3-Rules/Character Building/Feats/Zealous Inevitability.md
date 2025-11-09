@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You channel your zeal through a sacred weapon, bringing a foe closer to their demise. Strike a target with the required weapon. on a success, the target becomes [[Conditions/Doomed|Doomed 1]] or increases the value of their doomed condition by 1 (most living creatures die when they've reached doomed 4). Creatures doomed in this way take a status penalty to their saving throws against divine spells equal to their doomed value.
+You channel your zeal through a sacred weapon, bringing a foe closer to their demise. Strike a target with the required weapon. on a success, the target becomes [[Doomed|Doomed 1]] or increases the value of their doomed condition by 1 (most living creatures die when they've reached doomed 4). Creatures doomed in this way take a status penalty to their saving throws against divine spells equal to their doomed value.
 
 [[Feat_Feature Effects/Effect_ Zealous Inevitability|Effect: Zealous Inevitability]]
 

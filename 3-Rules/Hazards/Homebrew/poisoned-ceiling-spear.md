@@ -24,7 +24,7 @@ aliases: ["Poisoned Ceiling Spear"]
 
 **Scorpion Venom** (poison, injury)  
 *Saving Throw* DC 26 Fortitude.  
-*Maximum Duration* 6 rounds; *Stage 1* `dice: 1d6` 1d6 poison damage and [[clumsy|clumsy 1]] (1 round); *Stage 2* `dice: 2d6` 2d6 poison damage and [[clumsy|clumsy 2]] (1 round).  
+*Maximum Duration* 6 rounds; *Stage 1* `dice: 1d6` 1d6 poison damage and [[Clumsy|clumsy 1]] (1 round); *Stage 2* `dice: 2d6` 2d6 poison damage and [[Clumsy|clumsy 2]] (1 round).  
 
 ---
 **Reset** None. Once triggered, the spear mechanism must be manually reloaded and re-poisoned.  

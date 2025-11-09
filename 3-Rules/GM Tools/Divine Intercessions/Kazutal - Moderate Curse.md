@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Your strength betrays you, preventing you from taking more than your fair share. You are [[Conditions/Enfeebled|Enfeebled 2]] and can't carry anything beyond the gear you are actively wearing or using.
+Your strength betrays you, preventing you from taking more than your fair share. You are [[Enfeebled|Enfeebled 2]] and can't carry anything beyond the gear you are actively wearing or using.
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

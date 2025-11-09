@@ -20,7 +20,7 @@ license: ORC
 
 
 
-As your renown as a fighter grows, your Calling comes to fruition. Almost nothing can keep you down. During your daily preparations, choose [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], or [[Conditions/Enfeebled|Enfeebled]]. For the remainder of the day, when you roll a success against an effect that would impose that condition on you, you get a critical success instead. In addition, anytime you gain the chosen condition, reduce its value by 1. You can change the chosen condition with a single action that has the concentrate trait.
+As your renown as a fighter grows, your Calling comes to fruition. Almost nothing can keep you down. During your daily preparations, choose [[Clumsy|Clumsy]], [[Drained|Drained]], or [[Enfeebled|Enfeebled]]. For the remainder of the day, when you roll a success against an effect that would impose that condition on you, you get a critical success instead. In addition, anytime you gain the chosen condition, reduce its value by 1. You can change the chosen condition with a single action that has the concentrate trait.
 
 [[PF2e Journals/Archetypes/Eternal Legend|Eternal Legend]]
 

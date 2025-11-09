@@ -37,11 +37,11 @@ This _+1 striking greatpick_ bears a head studded with the tusks of a trollhound
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature suffers hunger pangs, becoming [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Success** The creature suffers hunger pangs, becoming [[Off-Guard|Off-Guard]] for 1 round.
 
-**Failure** The creature experiences gnawing hunger, becoming off-guard for 1 round and [[Conditions/Enfeebled|Enfeebled 1]] for 1 minute. If the creature consumes any amount of food or drink (including imbibing a potion), the enfeebled condition ends.
+**Failure** The creature experiences gnawing hunger, becoming off-guard for 1 round and [[Enfeebled|Enfeebled 1]] for 1 minute. If the creature consumes any amount of food or drink (including imbibing a potion), the enfeebled condition ends.
 
-**Critical Failure** As failure, but the creature is [[Conditions/Enfeebled|Enfeebled 2]] and each instance of consuming food or drink reduces the penalty by 1.
+**Critical Failure** As failure, but the creature is [[Enfeebled|Enfeebled 2]] and each instance of consuming food or drink reduces the penalty by 1.
 
 * * *
 

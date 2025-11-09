@@ -25,7 +25,7 @@ This hand-polished pipe is carved from oak and releases small wisps of smoke eve
 
 * * *
 
-**Effect** You draw on the pipe and then blow a massive cloud of smoke that fills a 30-foot emanation that includes your space. All creatures within the smoke cloud are [[Conditions/Concealed|Concealed]] from each other and from creatures outside the smoke, though you can still see clearly within it. The smoke dissipates after 3 rounds, or after 1 round if subjected to a strong wind.
+**Effect** You draw on the pipe and then blow a massive cloud of smoke that fills a 30-foot emanation that includes your space. All creatures within the smoke cloud are [[3-Rules/Conditions/Concealed|Concealed]] from each other and from creatures outside the smoke, though you can still see clearly within it. The smoke dissipates after 3 rounds, or after 1 round if subjected to a strong wind.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -26,7 +26,7 @@ license: ORC
 
 
 
-A _staff of the tempest_ is usually crafted from the wood of a tree struck by lightning. It's often gnarled and blackened with the occasional spark of electricity flashing from its length. While wielding the staff, your vision is less inhibited by stormy weather. While you hold the staff, you ignore the [[Conditions/Concealed|Concealed]] condition from mist, precipitation, and the like.
+A _staff of the tempest_ is usually crafted from the wood of a tree struck by lightning. It's often gnarled and blackened with the occasional spark of electricity flashing from its length. While wielding the staff, your vision is less inhibited by stormy weather. While you hold the staff, you ignore the [[3-Rules/Conditions/Concealed|Concealed]] condition from mist, precipitation, and the like.
 
 * * *
 

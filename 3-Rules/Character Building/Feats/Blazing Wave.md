@@ -23,7 +23,7 @@ license: OGL
 
 
 
-Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 2d6 fire damage with a Reflex check save against your class DC. A creature that critically fails its save is knocked [[Conditions/Prone|Prone]].
+Flames flow out of you in a cascade, engulfing everyone in a 30-foot cone. Each creature in the area takes 2d6 fire damage with a Reflex check save against your class DC. A creature that critically fails its save is knocked [[Prone|Prone]].
 
 * * *
 

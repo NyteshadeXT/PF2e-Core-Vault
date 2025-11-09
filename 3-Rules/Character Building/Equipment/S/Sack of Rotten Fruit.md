@@ -20,7 +20,7 @@ license: OGL
 
 **Activate** `pf2:1` Strike
 
-Each of these unassuming sacks contains enough rotting fruit to provide a fungus leshy with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt an DC 15 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]]. The range increment of a thrown sack of rotten fruit is 20 feet.
+Each of these unassuming sacks contains enough rotting fruit to provide a fungus leshy with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt an DC 15 Fortitude check save. On a failure, the creature is [[Sickened|Sickened 1]]. The range increment of a thrown sack of rotten fruit is 20 feet.
 
 *Source: Pathfinder Adventure: A Fistful of Flowers*
 *OGL*

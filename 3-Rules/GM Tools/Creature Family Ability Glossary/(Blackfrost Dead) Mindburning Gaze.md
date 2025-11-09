@@ -21,7 +21,7 @@ license: OGL
 
 
 
-The blackfrost dead fixes its terrifying gaze on a creature within 60 feet. The creature takes 1d4 mental per level of the blackfrost dead (minimum 2d4), with a Will check save. On a critical failure, the creature is [[Conditions/Frightened|Frightened 1]].
+The blackfrost dead fixes its terrifying gaze on a creature within 60 feet. The creature takes 1d4 mental per level of the blackfrost dead (minimum 2d4), with a Will check save. On a critical failure, the creature is [[Frightened|Frightened 1]].
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

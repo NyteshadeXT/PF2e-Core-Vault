@@ -19,7 +19,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** tattooed-on-the-body
 
-The spider lily tattoo marks you as a trusted member of Granny Hu's network. This crimson tattoo fades and becomes [[Conditions/Invisible|Invisible]] within a day of being applied, reappearing only when you Activate it, when you gain the [[Conditions/Doomed|Doomed]] condition, or when you die. The higher the doomed value, the more vivid the color.
+The spider lily tattoo marks you as a trusted member of Granny Hu's network. This crimson tattoo fades and becomes [[Invisible|Invisible]] within a day of being applied, reappearing only when you Activate it, when you gain the [[Doomed|Doomed]] condition, or when you die. The higher the doomed value, the more vivid the color.
 
 If your tattoo is plainly visible, you gain a +1 item bonus to Intimidation checks against all creatures that can see the tattoo, but you take a –1 item penalty to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] on those who understand the actual meaning of the spider lily tattoo (including all of Willowshore's citizens).
 

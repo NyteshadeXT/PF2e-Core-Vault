@@ -25,7 +25,7 @@ This stone figurine of a chariot pulled by two horses was used by Tekritanin adu
 
 * * *
 
-**Effect** You place the figurine on the ground and roll it forward. As the chariot begins to move, it rapidly expands to the size of a Large heavy chariot pulled by two animated stone war horses. You can board the chariot and drive it up to 80 feet in a straight line. You can move through spaces occupied by creatures of size Medium or smaller, dealing 4d8+10 bludgeoning damage to those creatures. Affected creatures must attempt a DC 28 Reflex check save; on a failure, a creature is knocked [[Conditions/Prone|Prone]]. The chariot returns to its figurine form once it stops moving.
+**Effect** You place the figurine on the ground and roll it forward. As the chariot begins to move, it rapidly expands to the size of a Large heavy chariot pulled by two animated stone war horses. You can board the chariot and drive it up to 80 feet in a straight line. You can move through spaces occupied by creatures of size Medium or smaller, dealing 4d8+10 bludgeoning damage to those creatures. Affected creatures must attempt a DC 28 Reflex check save; on a failure, a creature is knocked [[Prone|Prone]]. The chariot returns to its figurine form once it stops moving.
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

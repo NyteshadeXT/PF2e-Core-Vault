@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This delicate strand of spiderweb sticks to the target of a [[Spells/Spider Sting|Spider Sting]] spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become [[Conditions/Clumsy|Clumsy]] instead of [[Conditions/Enfeebled|Enfeebled]].
+This delicate strand of spiderweb sticks to the target of a [[Spells/Spider Sting|Spider Sting]] spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become [[Clumsy|Clumsy]] instead of [[Enfeebled|Enfeebled]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -19,7 +19,7 @@ license: ORC
 
 These goggles are usually fitted with a polished piece of yellowtoned crystal, allowing the wearer some protection against the brightness of the sun. Near the Crown of the World, a version of these goggles exists where the crystal is replaced by thin slits, mitigating the effects of the sun's reflection on snow.
 
-When wearing these goggles, you gain a +1 item bonus to saving throws against effects that could inflict the [[Conditions/Dazzled|Dazzled]] condition.
+When wearing these goggles, you gain a +1 item bonus to saving throws against effects that could inflict the [[Dazzled|Dazzled]] condition.
 
 *Source: Pathfinder NPC Core*
 *ORC*

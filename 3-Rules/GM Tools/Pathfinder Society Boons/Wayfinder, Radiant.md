@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-**Effect** The _wayfinder_ glows with a spiritual radiance, revealing that which is [[Conditions/Hidden|Hidden]]. This has the effects of [[Faerie Fire|Faerie Fire]], except the effect occurs in a 10-foot radius centered around you.
+**Effect** The _wayfinder_ glows with a spiritual radiance, revealing that which is [[Hidden|Hidden]]. This has the effects of [[Faerie Fire|Faerie Fire]], except the effect occurs in a 10-foot radius centered around you.
 
 You can safely use this benefit once per adventure. You can attempt to use it a second time, overcharging the _wayfinder_ at the risk of destroying it. When you do so, roll a DC 10 Flat check. On a success, the _wayfinder_ is broken. On a failure, the _wayfinder_ is destroyed. If anyone tries to overcharge a _wayfinder_ that's already been overcharged, the item is automatically destroyed (even if it has been repaired) and does not provide the activated benefit.
 

@@ -36,11 +36,11 @@ Once a stick of pyronite's fuse is lit, it explodes at the end of your turn, reg
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Deafened|Deafened]] for 1 round.
+**Success** The creature takes half damage and is [[Deafened|Deafened]] for 1 round.
 
 **Failure** The creature takes full damage and is deafened for 1 minute.
 
-**Critical Failure** The creature takes double damage and is knocked [[Conditions/Prone|Prone]], [[Conditions/Stunned|Stunned 1]], and deafened for 1 hour.
+**Critical Failure** The creature takes double damage and is knocked [[Prone|Prone]], [[Stunned|Stunned 1]], and deafened for 1 hour.
 
 *Source: Pathfinder #179: Cradle of Quartz*
 *OGL*

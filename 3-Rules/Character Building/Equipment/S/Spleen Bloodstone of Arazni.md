@@ -25,7 +25,7 @@ The _Spleen Bloodstone of Arazni_ represents freedom. Holding the _Spleen Bloods
 
 **Activate—Sure Footing** `pf2:1` to `pf2:3` (concentrate)
 
-**Requirements** You aren't [[Conditions/Immobilized|Immobilized]]
+**Requirements** You aren't [[Immobilized|Immobilized]]
 
 **Frequency** once per hour
 
@@ -39,7 +39,7 @@ The _Spleen Bloodstone of Arazni_ represents freedom. Holding the _Spleen Bloods
 
 **Frequency** once per day
 
-**Effect** The [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Petrified|Petrified]], and [[Conditions/Restrained|Restrained]] conditions, as well as any Speed penalties affecting you, immediately end unless the effect is magical and of 12th level or higher. You can use this ability even if your actions are restricted or otherwise decided for you (such as being confused or controlled).
+**Effect** The [[Confused|Confused]], [[Controlled|Controlled]], [[Grabbed|Grabbed]], [[Immobilized|Immobilized]], [[Paralyzed|Paralyzed]], [[Petrified|Petrified]], and [[Restrained|Restrained]] conditions, as well as any Speed penalties affecting you, immediately end unless the effect is magical and of 12th level or higher. You can use this ability even if your actions are restricted or otherwise decided for you (such as being confused or controlled).
 
 * * *
 

@@ -26,7 +26,7 @@ license: ORC
 
 **Prerequisites** trained in Diplomacy
 * * *
-You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[Conditions/Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
+You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
 
 * * *
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-By keeping your feathers clean and sleek, you can catch the light across your wings to create a startling glare in the eyes of a creature within 20 feet. The target must succeed at a Fortitude check save against your class DC or be [[Conditions/Dazzled|Dazzled]] for 1 round (1 minute on a critical failure). Regardless of their result, the target is temporarily immune to Sunbird Glare for 10 minutes.
+By keeping your feathers clean and sleek, you can catch the light across your wings to create a startling glare in the eyes of a creature within 20 feet. The target must succeed at a Fortitude check save against your class DC or be [[Dazzled|Dazzled]] for 1 round (1 minute on a critical failure). Regardless of their result, the target is temporarily immune to Sunbird Glare for 10 minutes.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

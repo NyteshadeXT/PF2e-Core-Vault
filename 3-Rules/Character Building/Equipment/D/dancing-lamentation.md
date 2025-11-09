@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "dancing-lamentation"
 aliases: "Dancing Lamentation"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "68"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  This toxin erratically stimulates the limbs, forcing unexpected shifts in momentum. The result resembles a gangly, lurching dance. At the start of each turn, the victim takes one or more Steps in a random direction if able. This movement is forced and doesn't count against the victim's actions for the round.  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 4d6 poison and 1 Step of forced movement (1 round)  **Stage 2** 6d6 poison, [[Conditions/Clumsy|Clumsy 1]], and 1 Step of forced movement (1 round)  **Stage 3** 8d6 poison, [[Conditions/Clumsy|Clumsy 2]], 2 Steps of forced movement (1 round)"
+activate: "`pf2:2` [[Interact]]"
+description: "This toxin erratically stimulates the limbs, forcing unexpected shifts in momentum. The result resembles a gangly, lurching dance. At the start of each turn, the victim takes one or more Steps in a random direction if able. This movement is forced and doesn't count against the victim's actions for the round.  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 4d6` poison and 1 Step of forced movement (1 round)  **Stage 2** `dice: 6d6` poison, [[Clumsy|Clumsy 1]], and 1 Step of forced movement (1 round)  **Stage 3** `dice: 8d6` poison, [[Clumsy|Clumsy 2]], 2 Steps of forced movement (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your ranged attacks can shoot an unprepared foe right out of the air. Make a ranged Strike against an [[Conditions/Off-Guard|Off-Guard]] creature. If the Strike is a success and deals damage, the target must attempt a Reflex check save against your class DC.
+Your ranged attacks can shoot an unprepared foe right out of the air. Make a ranged Strike against an [[Off-Guard|Off-Guard]] creature. If the Strike is a success and deals damage, the target must attempt a Reflex check save against your class DC.
 
 * * *
 

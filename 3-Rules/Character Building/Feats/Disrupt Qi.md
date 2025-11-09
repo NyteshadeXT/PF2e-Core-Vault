@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You carefully target a creature's pressure points to block its inner life force. Make an unarmed Strike. If it deals damage to a living creature, that creature takes 0d6 persistent void damage and is [[Conditions/Enfeebled|Enfeebled 1]] until the persistent damage ends. If you're 18th level or higher, the persistent void damage increases to 3d6.
+You carefully target a creature's pressure points to block its inner life force. Make an unarmed Strike. If it deals damage to a living creature, that creature takes 0d6 persistent void damage and is [[Enfeebled|Enfeebled 1]] until the persistent damage ends. If you're 18th level or higher, the persistent void damage increases to 3d6.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

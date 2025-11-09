@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You distract your opponent with a few choice words or a rude gesture. Choose a target within 30 feet. It's [[Conditions/Off-Guard|Off-Guard]] against your attacks until the end of your next turn. Depending on the way you describe your distraction, this action gains either the auditory or visual trait.
+You distract your opponent with a few choice words or a rude gesture. Choose a target within 30 feet. It's [[Off-Guard|Off-Guard]] against your attacks until the end of your next turn. Depending on the way you describe your distraction, this action gains either the auditory or visual trait.
 
 *Source: Pathfinder Player Core*
 *ORC*

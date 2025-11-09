@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-The spotlight should always be on you and you alone. Attempt a @check\[performance|defense:will\] check against the Will DCs of all enemies within 30 feet who can see or hear you. On a success, the targets focus on you and gain a +1 circumstance bonus to hit you, but they're [[Conditions/Off-Guard|Off-Guard]] to all creatures other than yourself. On a critical success, the effect lasts for 3 rounds.
+The spotlight should always be on you and you alone. Attempt a @check\[performance|defense:will\] check against the Will DCs of all enemies within 30 feet who can see or hear you. On a success, the targets focus on you and gain a +1 circumstance bonus to hit you, but they're [[Off-Guard|Off-Guard]] to all creatures other than yourself. On a critical success, the effect lasts for 3 rounds.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

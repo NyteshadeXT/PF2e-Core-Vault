@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You refuse to even let death get in the way of your guests enjoyment and ruin your party. You administer a special drink or offer a rallying toast to an adjacent creature who has died while benefiting from [[Actions/Revel|Revel]] no more than 2 rounds ago. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[Conditions/Wounded|Wounded 1]].
+You refuse to even let death get in the way of your guests enjoyment and ruin your party. You administer a special drink or offer a rallying toast to an adjacent creature who has died while benefiting from [[Actions/Revel|Revel]] no more than 2 rounds ago. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[Wounded|Wounded 1]].
 
 *Source: *
 *OGL*

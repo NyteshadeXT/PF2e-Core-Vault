@@ -26,9 +26,9 @@ When the divine warden is reduced to 0 HP, it erupts with divine energy in a 30-
 
 **Success** The creature takes full damage.
 
-**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.
+**Failure** The creature takes full damage and becomes temporarily cursed by the patron deity. The creature becomes [[Enfeebled|Enfeebled 1]] and [[Stupefied|Stupefied 1]] for 1 day; this is a curse effect that uses the Will save DC as the counteract DC.
 
-**Critical Failure** As failure, except the creature becomes [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Stupefied|Stupefied 2]].
+**Critical Failure** As failure, except the creature becomes [[Enfeebled|Enfeebled 2]] and [[Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

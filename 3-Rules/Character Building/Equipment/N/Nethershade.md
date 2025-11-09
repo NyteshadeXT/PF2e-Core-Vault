@@ -35,9 +35,9 @@ Distilled from the Netherworld, this oily substance imposes tenebrous effects. T
 
 **Stage 1** 2d6 void damage and 2d6 poison damage (1 round)
 
-**Stage 2** 3d6 void damage, 2d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
+**Stage 2** 3d6 void damage, 2d6 poison damage, and [[Enfeebled|Enfeebled 1]] (1 round)
 
-**Stage 3** 3d6 void damage, 3d6 poison damage, and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)
+**Stage 3** 3d6 void damage, 3d6 poison damage, and [[Enfeebled|Enfeebled 2]] (1 round)
 
 *Source: Pathfinder Player Core 2*
 *ORC*

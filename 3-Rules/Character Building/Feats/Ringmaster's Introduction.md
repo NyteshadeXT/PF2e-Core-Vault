@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You announce the triggering ally with a litany of their legendary achievements, spurring them to action. The target is [[Conditions/Quickened|Quickened]] this turn and can spend the extra action to Stride, Strike, Demoralize, Feint, or Perform.
+You announce the triggering ally with a litany of their legendary achievements, spurring them to action. The target is [[Quickened|Quickened]] this turn and can spend the extra action to Stride, Strike, Demoralize, Feint, or Perform.
 
 *Source: Pathfinder #156: The Apocalypse Prophet*
 *OGL*

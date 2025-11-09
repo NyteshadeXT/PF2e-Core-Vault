@@ -20,7 +20,7 @@ license: OGL
 
 Your senses are peerless. You gain a +2 circumstance bonus to Perception checks, and you gain low-light vision. If you already have low-light vision, gain darkvision instead.
 
-Furthermore, when you target an enemy, you automatically succeed at the flat check if that enemy is [[Conditions/Concealed|Concealed]], [[Conditions/Hidden|Hidden]], or [[Conditions/Undetected|Undetected]].
+Furthermore, when you target an enemy, you automatically succeed at the flat check if that enemy is [[3-Rules/Conditions/Concealed|Concealed]], [[Hidden|Hidden]], or [[Undetected|Undetected]].
 
 *Source: Pathfinder #150: Broken Promises*
 *OGL*

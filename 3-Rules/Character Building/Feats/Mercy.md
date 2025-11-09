@@ -22,11 +22,11 @@ license: ORC
 * * *
 Your touch soothes the body or mind. You can cast lay on hands targeting a living creature using 2 actions instead of 1. If you do, you can attempt to counteract one condition of your choice affecting the target. When you select this feat, choose one of the following options, which determines the conditions you can choose:
 
-*   **Mercy of the Body** [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]];
+*   **Mercy of the Body** [[Blinded|Blinded]], [[Dazzled|Dazzled]], [[Deafened|Deafened]], [[Enfeebled|Enfeebled]], [[Sickened|Sickened]];
     
-*   **Mercy of Grace** [[Conditions/Clumsy|Clumsy]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]];
+*   **Mercy of Grace** [[Clumsy|Clumsy]], [[Grabbed|Grabbed]], [[Paralyzed|Paralyzed]];
     
-*   **Mercy of the Mind** [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]].
+*   **Mercy of the Mind** [[Fleeing|Fleeing]], [[Frightened|Frightened]], [[Stupefied|Stupefied]].
     
 
 * * *

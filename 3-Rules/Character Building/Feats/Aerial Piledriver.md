@@ -21,13 +21,13 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
 Heaving both yourself and your opponent into the air, you bring them crashing to the ground. Make an unarmed melee Strike against the creature you have grabbed or restrained. This Strike deals 1d6 additional damage per weapon damage die, and it has the following additional effects on a success, failure, and critical failure.
 
-**Success** The target lands [[Conditions/Prone|Prone]].
+**Success** The target lands [[Prone|Prone]].
 
 **Failure** You lose your grip on the target, and it is no longer grabbed or restrained by you.
 

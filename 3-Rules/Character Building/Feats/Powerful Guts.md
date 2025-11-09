@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your [[Conditions/Sickened|Sickened]] value, you reduce it by 2 (or by 3 on a critical success).
+Your stomach is particularly durable. When you succeed at a Fortitude save to reduce your [[Sickened|Sickened]] value, you reduce it by 2 (or by 3 on a critical success).
 
 *Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

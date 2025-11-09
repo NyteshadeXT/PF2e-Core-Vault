@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** master in Stealth
 * * *
-You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[Conditions/Concealed|Concealed]].
+You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[3-Rules/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

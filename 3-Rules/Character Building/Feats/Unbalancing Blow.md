@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** thief racket
 * * *
-Interweaving attacks, you unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is [[Conditions/Off-Guard|Off-Guard]] against your attacks until the end of your next turn.
+Interweaving attacks, you unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is [[Off-Guard|Off-Guard]] against your attacks until the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

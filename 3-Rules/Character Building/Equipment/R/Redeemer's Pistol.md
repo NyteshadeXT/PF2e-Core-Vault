@@ -42,7 +42,7 @@ This _+2 striking dueling pistol_ is fashioned from silvery steel that glistens 
 **Effect** The protective spirit within the gun imposes a vision of redemption in your foe's mind. The foe must choose one of the following options.
 
 *   You're unharmed by the triggering damage.
-*   You gain resistance to all damage against the triggering damage equal to 2 + your level. After the damaging effect is applied, the enemy becomes [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn and takes 4 persistent spirit damage
+*   You gain resistance to all damage against the triggering damage equal to 2 + your level. After the damaging effect is applied, the enemy becomes [[Enfeebled|Enfeebled 2]] until the end of its next turn and takes 4 persistent spirit damage
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

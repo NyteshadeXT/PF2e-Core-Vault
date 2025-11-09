@@ -34,7 +34,7 @@ Ephemeral connections between people, places, and concepts are invisible to most
 
 **Failure** You fail to make a connection.
 
-**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[Conditions/Stupefied|Stupefied 1]] until the end of your next turn.
+**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[Stupefied|Stupefied 1]] until the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

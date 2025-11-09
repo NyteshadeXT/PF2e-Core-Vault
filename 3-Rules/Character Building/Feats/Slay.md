@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Avenger Dedication
 * * *
-**Requirements** Your target is [[Conditions/Doomed|Doomed 2]] or greater.
+**Requirements** Your target is [[Doomed|Doomed 2]] or greater.
 
 * * *
 

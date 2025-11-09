@@ -43,7 +43,7 @@ The blade of this _+2 greater striking holy standard-grade cold iron elven curve
 
 **Success** The demon is unaffected by the glow.
 
-**Failure** The demon becomes outlined with a shimmering aura of dim light that causes it to become [[Conditions/Dazzled|Dazzled]]. If the demon was [[Conditions/Invisible|Invisible]], it becomes [[Conditions/Concealed|Concealed]] instead. If it was already concealed for any other reason, it is no longer concealed. This light affects the demon for 1 minute.
+**Failure** The demon becomes outlined with a shimmering aura of dim light that causes it to become [[Dazzled|Dazzled]]. If the demon was [[Invisible|Invisible]], it becomes [[3-Rules/Conditions/Concealed|Concealed]] instead. If it was already concealed for any other reason, it is no longer concealed. This light affects the demon for 1 minute.
 
 **Critical Failure** As failure, but with a duration of 10 minutes.
 

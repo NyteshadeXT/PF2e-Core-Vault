@@ -19,11 +19,11 @@ license: OGL
 
 **Frequency** once per day
 
-**Trigger** You have the [[Conditions/Dying|Dying]] condition and are about to attempt a recovery check.
+**Trigger** You have the [[Dying|Dying]] condition and are about to attempt a recovery check.
 
 * * *
 
-You refuse to step any closer to death’s door; instead, you wrench yourself bodily from the doorway, bust up the frame, and return for one final push to defeat your foes. You’re restored to 1 Hit Point, lose the dying and [[Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the [[Conditions/Wounded|Wounded]] condition as normal when losing the dying condition in this way.
+You refuse to step any closer to death’s door; instead, you wrench yourself bodily from the doorway, bust up the frame, and return for one final push to defeat your foes. You’re restored to 1 Hit Point, lose the dying and [[Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the [[Wounded|Wounded]] condition as normal when losing the dying condition in this way.
 
 *Source: *
 *OGL*

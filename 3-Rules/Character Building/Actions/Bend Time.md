@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-**Effect** You are [[Conditions/Quickened|Quickened]] this turn. You can use your extra action to Stride.
+**Effect** You are [[Quickened|Quickened]] this turn. You can use your extra action to Stride.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

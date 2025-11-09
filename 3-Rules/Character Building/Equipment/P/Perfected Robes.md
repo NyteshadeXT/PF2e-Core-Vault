@@ -19,7 +19,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** worn
 
-These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing _perfected robes_, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant [[Spells/Truesight|Truesight]] (+32 counteract bonus). A creature who dons these robes without earning them is [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Enfeebled|Enfeebled 3]], and [[Conditions/Stupefied|Stupefied 3]] while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
+These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing _perfected robes_, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant [[Spells/Truesight|Truesight]] (+32 counteract bonus). A creature who dons these robes without earning them is [[Clumsy|Clumsy 3]], [[Enfeebled|Enfeebled 3]], and [[Stupefied|Stupefied 3]] while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
 
 **Activate** `pf2:0` envision
 

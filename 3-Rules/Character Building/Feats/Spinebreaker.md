@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
@@ -28,7 +28,7 @@ You squeeze your opponent in a vicious bear hug, putting intense pressure on the
 
 * * *
 
-**Critical Success** The target is [[Conditions/Clumsy|Clumsy 2]] until the end of its next turn and [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
+**Critical Success** The target is [[Clumsy|Clumsy 2]] until the end of its next turn and [[Clumsy|Clumsy 1]] for 1 minute.
 
 **Success** The target is clumsy 1 until the end of its next turn.
 

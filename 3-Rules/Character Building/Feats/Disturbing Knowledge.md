@@ -30,7 +30,7 @@ Attempt an Occultism check check and compare the result to the Will DC of an ene
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Confused|Confused]] for 1 round and [[Conditions/Frightened|Frightened 1]].
+**Critical Success** The target becomes [[Confused|Confused]] for 1 round and [[Frightened|Frightened 1]].
 
 **Success** The target becomes frightened 1.
 

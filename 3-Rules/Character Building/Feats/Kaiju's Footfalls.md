@@ -24,7 +24,7 @@ You channel the might and mass of a kaiju. You can cast [[Spells/Enlarge|Enlarge
 
 * * *
 
-**Failure** The creature is knocked [[Conditions/Prone|Prone]].
+**Failure** The creature is knocked [[Prone|Prone]].
 
 **Critical Failure** The creature is knocked prone and takes 2d6 bludgeoning damage.
 

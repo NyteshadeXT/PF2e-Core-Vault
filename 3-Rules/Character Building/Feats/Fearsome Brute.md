@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against [[Conditions/Frightened|Frightened]] creatures. The bonus is equal to double the target's frightened value.
+Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against [[Frightened|Frightened]] creatures. The bonus is equal to double the target's frightened value.
 
 If you're a master in Intimidation, increase the bonus to triple the target's frightened value.
 

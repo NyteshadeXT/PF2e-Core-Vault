@@ -27,9 +27,9 @@ This affliction can't be reduced below stage 1, nor the damage from it healed, u
 
 **Stage 1** 4d6 cold (1 minute)
 
-**Stage 2** weakness to cold 5 and [[Conditions/Drained|Drained 1]] (1 day)
+**Stage 2** weakness to cold 5 and [[Drained|Drained 1]] (1 day)
 
-**Stage 3** weakness to cold 10 and [[Conditions/Drained|Drained 2]] (1 day)
+**Stage 3** weakness to cold 10 and [[Drained|Drained 2]] (1 day)
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

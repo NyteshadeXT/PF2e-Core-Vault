@@ -33,7 +33,7 @@ This soporific chemical comes in liquid form and is virtually undetectable by ta
 
 **Maximum Duration** 10 hours
 
-**Stage 1** fall [[Conditions/Unconscious|Unconscious]] and can't attempt Perception checks to wake up (1 minute)
+**Stage 1** fall [[Unconscious|Unconscious]] and can't attempt Perception checks to wake up (1 minute)
 
 **Stage 2** sleep normally (1d4 hours)
 

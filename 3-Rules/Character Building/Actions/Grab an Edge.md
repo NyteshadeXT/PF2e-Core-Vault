@@ -21,7 +21,7 @@ license: ORC
 
 **Trigger** You fall from or past an edge or handhold.
 
-**Requirements** Your hands are not tied behind your back or otherwise [[Conditions/Restrained|Restrained]].
+**Requirements** Your hands are not tied behind your back or otherwise [[Restrained|Restrained]].
 
 * * *
 

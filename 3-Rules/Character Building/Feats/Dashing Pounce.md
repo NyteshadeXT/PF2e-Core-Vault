@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-With a burst of speed, you leap into the air, slashing with your hands. You [[Actions/Leap|Leap]], and if you end your movement adjacent to an enemy, you make two frenzied claw unarmed strikes against it. Apply your multiple attack penalty to these Strikes normally. If both Strikes miss, you fall [[Conditions/Prone|Prone]] at the end of your Leap.
+With a burst of speed, you leap into the air, slashing with your hands. You [[Actions/Leap|Leap]], and if you end your movement adjacent to an enemy, you make two frenzied claw unarmed strikes against it. Apply your multiple attack penalty to these Strikes normally. If both Strikes miss, you fall [[Prone|Prone]] at the end of your Leap.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

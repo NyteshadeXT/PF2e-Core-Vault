@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The ability to move elegantly and undetected through darkness aided your people as they fled the Netherworld. You can move 5 feet farther when you take the [[Actions/Sneak|Sneak]] action, up to your Speed. In addition, as long as you continue to use Sneak actions and succeed at your Stealth check, you don't become observed if you end a Sneak action in dim light or darkness, as long as you have cover or greater cover or are [[Conditions/Concealed|Concealed]] at the end of your turn.
+The ability to move elegantly and undetected through darkness aided your people as they fled the Netherworld. You can move 5 feet farther when you take the [[Actions/Sneak|Sneak]] action, up to your Speed. In addition, as long as you continue to use Sneak actions and succeed at your Stealth check, you don't become observed if you end a Sneak action in dim light or darkness, as long as you have cover or greater cover or are [[3-Rules/Conditions/Concealed|Concealed]] at the end of your turn.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

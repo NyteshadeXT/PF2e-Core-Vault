@@ -30,7 +30,7 @@ You aim a shot from your weapon directly at a foe's eye, blinding them in the pr
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Blinded|Blinded]] until the end of its next turn.
+**Success** The target is [[Blinded|Blinded]] until the end of its next turn.
 
 **Failure** The target is blinded for as long as they are taking the persistent bleed damage and for 1 additional round thereafter.
 

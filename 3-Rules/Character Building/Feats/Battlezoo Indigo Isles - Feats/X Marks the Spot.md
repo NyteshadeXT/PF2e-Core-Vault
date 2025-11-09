@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Pirate Dedication
 * * *
-You make two quick attacks against your foe, forming an X and marking a vulnerability for your allies to exploit. Strike twice against the same foe. If both Strikes hit, the foe is [[Conditions/Off-Guard|Off-Guard]] until your next turn, and each of your allies gain a +1 circumstance bonus on their next attack rolls against that foe before your next turn. If both Strikes are critical hits, the circumstance bonus is +2 instead of +1.
+You make two quick attacks against your foe, forming an X and marking a vulnerability for your allies to exploit. Strike twice against the same foe. If both Strikes hit, the foe is [[Off-Guard|Off-Guard]] until your next turn, and each of your allies gain a +1 circumstance bonus on their next attack rolls against that foe before your next turn. If both Strikes are critical hits, the circumstance bonus is +2 instead of +1.
 
 [[Effects/Effect_ X Marks the Spot|Effect: X Marks the Spot]]
 

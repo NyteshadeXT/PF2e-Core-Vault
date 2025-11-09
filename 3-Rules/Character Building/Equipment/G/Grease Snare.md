@@ -27,7 +27,7 @@ This snare releases a stream of grease that coats the area, making movement diff
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.
+**Success** The creature is [[Clumsy|Clumsy 1]] for 1 round.
 
 **Failure** For 1 minute, the creature is clumsy 1 and must roll twice and use the worse result whenever attempting a Thievery check. If the target rolls a failure at a Thievery check, it gets a critical failure instead. This is a misfortune effect.
 

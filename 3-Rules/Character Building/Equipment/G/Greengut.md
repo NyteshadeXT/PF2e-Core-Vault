@@ -34,9 +34,9 @@ The swallower must succeed at a DC 40 Fortitude check save or take 18d6 poison d
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage, is [[Conditions/Sickened|Sickened 1]], and vomits up any and all creatures Swallowed Whole on its next turn (a single action, which also allows it a Fortitude save against the sickened condition), as well as any stones or other objects it swallowed.
+**Failure** The creature takes full damage, is [[Sickened|Sickened 1]], and vomits up any and all creatures Swallowed Whole on its next turn (a single action, which also allows it a Fortitude save against the sickened condition), as well as any stones or other objects it swallowed.
 
-**Critical Failure** As failure, but the creature takes double damage and is [[Conditions/Sickened|Sickened 2]].
+**Critical Failure** As failure, but the creature takes double damage and is [[Sickened|Sickened 2]].
 
 *Source: Pathfinder #155: Lord of the Black Sands*
 *OGL*

@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn.
+You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[Off-Guard|Off-Guard]] until the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

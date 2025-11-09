@@ -23,7 +23,7 @@ This item appears to be an ordinary semiprecious stone and is typically mounted 
 
 The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of her coven, can peer through the eye using the Seek action. This has no range limit, provided the hag is on the same plane.
 
-Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.
+Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded|Blinded]] for 1 hour.
 
 Oracular hag eyes are made with the eye of a cyclops. A hag who casts [[Spells/Augury|Augury]] with an oracular hag eye in her possession reduces the DC of the secret flat check to 2.
 

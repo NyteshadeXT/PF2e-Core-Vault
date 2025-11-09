@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be [[Conditions/Concealed|Concealed]] that you don't need to succeed at a flat check to target creatures benefiting from such concealment.
+Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be [[3-Rules/Conditions/Concealed|Concealed]] that you don't need to succeed at a flat check to target creatures benefiting from such concealment.
 
 *Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

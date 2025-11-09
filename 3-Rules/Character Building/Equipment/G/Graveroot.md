@@ -34,9 +34,9 @@ The opaque white sap from the graveroot shrub clouds the mind.
 
 **Stage 1** 1d8 poison damage (1 round)
 
-**Stage 2** 1d10 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 2** 1d10 poison damage and [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 3** 2d6 poison damage and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 3** 2d6 poison damage and [[Stupefied|Stupefied 2]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

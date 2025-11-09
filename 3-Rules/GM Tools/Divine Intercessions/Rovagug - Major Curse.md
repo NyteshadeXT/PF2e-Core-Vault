@@ -19,7 +19,7 @@ license: OGL
 
 You are useful only as a beacon of destruction.
 
-You are permanently [[Conditions/Confused|Confused]], rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon Strikes.
+You are permanently [[Confused|Confused]], rampaging against anything and everything in your sight, and you deal an additional 18 damage with your unarmed and weapon Strikes.
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

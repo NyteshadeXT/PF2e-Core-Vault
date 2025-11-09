@@ -31,7 +31,7 @@ You gain unparalleled sensitivity to the tiniest of vibrations through solid sur
 
 **Benefit** For 1 minute, you gain precise echolocation out to 40 feet, imprecise tremorsense out to 60 feet, and a +2 item bonus to Perception checks using either of these senses.
 
-**Drawback** You are [[Conditions/Blinded|Blinded]] for 1 minute.
+**Drawback** You are [[Blinded|Blinded]] for 1 minute.
 
 [[Equipment Effects/Effect_ Pallesthetic Mutagen|Effect: Pallesthetic Mutagen]]
 

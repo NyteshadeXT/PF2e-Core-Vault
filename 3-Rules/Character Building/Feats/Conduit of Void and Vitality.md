@@ -14,7 +14,7 @@ license: ORC
 ---
 # Conduit of Void and Vitality `pf2:2`
 ## Feat 16
-### [[cursebound]][[divine]][[oracle]]
+### [[Cursebound]][[divine]][[oracle]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You use the unstable energy of your curse to manipulate the most basic of divine magic. You cast a 3-action _heal_ or _harm_ spell, expending the slot as normal. If the spell restores Hit Points to one or more creatures, then one creature healed by this spell regains a number of additional Hit Points equal to 1d8 × your [[Conditions/Cursebound|Cursebound]] value; if the spell damages one or more creatures, then one creature harmed by this spell takes additional damage equal to 1d8 × your cursebound value.
+You use the unstable energy of your curse to manipulate the most basic of divine magic. You cast a 3-action _heal_ or _harm_ spell, expending the slot as normal. If the spell restores Hit Points to one or more creatures, then one creature healed by this spell regains a number of additional Hit Points equal to 1d8 × your [[Cursebound|Cursebound]] value; if the spell damages one or more creatures, then one creature harmed by this spell takes additional damage equal to 1d8 × your cursebound value.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

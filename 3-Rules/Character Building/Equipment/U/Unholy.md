@@ -19,7 +19,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** etched-onto-weapon-wo-unholy-rune
 
-An _unholy_ rune instills fiendish power into the etched weapon. Strikes made with it gain the unholy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against a holy target. If you are holy, you are [[Conditions/Enfeebled|Enfeebled 2]] while carrying or wielding this weapon.
+An _unholy_ rune instills fiendish power into the etched weapon. Strikes made with it gain the unholy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against a holy target. If you are holy, you are [[Enfeebled|Enfeebled 2]] while carrying or wielding this weapon.
 
 **Activate—Unholy Bloodshed** `pf2:r` (concentrate)
 
@@ -29,7 +29,7 @@ An _unholy_ rune instills fiendish power into the etched weapon. Strikes made wi
 
 * * *
 
-**Effect** The target takes [[Conditions/Persistent Damage|Persistent Bleed Damage]] equal to 1d8 per weapon damage die of the etched weapon.
+**Effect** The target takes [[Persistent Damage|Persistent Bleed Damage]] equal to 1d8 per weapon damage die of the etched weapon.
 
 **Craft Requirements** You are unholy.
 

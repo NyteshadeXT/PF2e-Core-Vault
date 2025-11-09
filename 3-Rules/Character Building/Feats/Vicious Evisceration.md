@@ -20,7 +20,7 @@ license: ORC
 
 
 
-You make a vicious strike that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is [[Conditions/Drained|Drained 1]], or [[Conditions/Drained|Drained 2]] on a critical success.
+You make a vicious strike that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is [[Drained|Drained 1]], or [[Drained|Drained 2]] on a critical success.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

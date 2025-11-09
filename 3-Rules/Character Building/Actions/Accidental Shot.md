@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-**Effect** You make a Strike with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+**Effect** You make a Strike with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[3-Rules/Conditions/Concealed|Concealed]] or [[Hidden|Hidden]].
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

@@ -36,9 +36,9 @@ Once you imbibe this bitter elixir, your skin exudes a toxin for 1 hour, affecti
 
 **Stage 1** 2d4 poison damage (1 round)
 
-**Stage 2** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)
+**Stage 2** 2d6 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)
 
-**Stage 3** 3d6 poison damage, [[Conditions/Enfeebled|Enfeebled 3]], and [[Conditions/Sickened|Sickened 1]] (1 round)
+**Stage 3** 3d6 poison damage, [[Enfeebled|Enfeebled 3]], and [[Sickened|Sickened 1]] (1 round)
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Druid Dedication or Wizard Dedication
 * * *
-Like Azure Leopard, the Patient Warden, your mask makes you most at home in the night and teaches you how to use the darkness to hunt. You gain greater darkvision. Immediately after you Cast a non-cantrip Spell with the shadow or darkness trait, you can attempt to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]] as a free action. You must still meet the usual requirements of the action you choose, such as having cover or concealment to Hide and being undetected or [[Conditions/Hidden|Hidden]] to Sneak.
+Like Azure Leopard, the Patient Warden, your mask makes you most at home in the night and teaches you how to use the darkness to hunt. You gain greater darkvision. Immediately after you Cast a non-cantrip Spell with the shadow or darkness trait, you can attempt to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]] as a free action. You must still meet the usual requirements of the action you choose, such as having cover or concealment to Hide and being undetected or [[Hidden|Hidden]] to Sneak.
 
 *Source: Pathfinder #174: Shadows of the Ancients*
 *OGL*

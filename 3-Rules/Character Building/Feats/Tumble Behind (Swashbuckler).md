@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your tumbling puts your foes on the back foot. When you [[Actions/Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[Conditions/Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
+Your tumbling puts your foes on the back foot. When you [[Actions/Tumble Through|Tumble Through]] successfully, the foe you Tumbled Through is [[Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

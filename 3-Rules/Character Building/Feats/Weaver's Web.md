@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your swarm can spin dense webs much like those left by stone-gray weaver spiders under eaves and in derelict city buildings, especially along the coasts of Varisia. When your swarm ends its turn, it fills all surfaces in its space with sticky webs that last for 1 minute. The webs are difficult terrain. A creature that ends its turn in the webs must succeed at a Reflex check save or be [[Conditions/Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]]. The webs' save DC and Escape DC are equal to the higher of your class DC or spell DC. The swarm is immune to its webs.
+Your swarm can spin dense webs much like those left by stone-gray weaver spiders under eaves and in derelict city buildings, especially along the coasts of Varisia. When your swarm ends its turn, it fills all surfaces in its space with sticky webs that last for 1 minute. The webs are difficult terrain. A creature that ends its turn in the webs must succeed at a Reflex check save or be [[Immobilized|Immobilized]] until it [[Actions/Escape|Escapes]]. The webs' save DC and Escape DC are equal to the higher of your class DC or spell DC. The swarm is immune to its webs.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

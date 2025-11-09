@@ -44,7 +44,7 @@ Crafted for a long-forgotten knight to slay Avathrael Realmshaper, this _+2 stri
 
 **Frequency** once per day
 
-**Effect** With a bold proclamation, you thrust the lance forward, firing a beam of brilliant, scouring light in a 120-foot line. Creatures in the area take 6d8 spirit damage, or 6d12 spirit damage if they're a dragon (DC 28 Reflex check save). Creatures that critically fail are also [[Conditions/Blinded|Blinded]] for 1 round.
+**Effect** With a bold proclamation, you thrust the lance forward, firing a beam of brilliant, scouring light in a 120-foot line. Creatures in the area take 6d8 spirit damage, or 6d12 spirit damage if they're a dragon (DC 28 Reflex check save). Creatures that critically fail are also [[Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

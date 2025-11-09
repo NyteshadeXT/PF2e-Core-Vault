@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** armor innovation
 * * *
-**Requirements** You have a foe [[Conditions/Grabbed|Grabbed]].
+**Requirements** You have a foe [[Grabbed|Grabbed]].
 
 * * *
 

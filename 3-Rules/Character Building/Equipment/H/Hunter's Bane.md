@@ -26,13 +26,13 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** A [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] enemy hits you with an attack
+**Trigger** A [[Hidden|Hidden]] or [[Undetected|Undetected]] enemy hits you with an attack
 
 **Requirements** You are trained in Survival
 
 * * *
 
-This talisman is a ring of dried, interwoven pieces of straw. When you activate the _hunter's bane_, you sense the exact location of the attacker. It becomes [[Conditions/Observed|Observed]] by you if it was hidden from you or becomes hidden from you if it was undetected. If the attacker is behind lead, the _hunter's bane_ has no effect.
+This talisman is a ring of dried, interwoven pieces of straw. When you activate the _hunter's bane_, you sense the exact location of the attacker. It becomes [[Observed|Observed]] by you if it was hidden from you or becomes hidden from you if it was undetected. If the attacker is behind lead, the _hunter's bane_ has no effect.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

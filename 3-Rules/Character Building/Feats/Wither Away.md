@@ -29,8 +29,8 @@ license: ORC
 
 You hasten the passage of time for a living creature, prematurely aging them into decrepitude. A living creature within 60 feet takes 14d6 void damage and a part of its body you chose withers, taking the following penalties depending on the result of their a Fortitude check saving throw against your class DC or spell DC, whichever is higher.
 
-*   **Arms** The target's arms grow weak. The target becomes [[Conditions/Enfeebled|Enfeebled 1]].
-*   **Head** The target has trouble thinking straight. The target becomes [[Conditions/Stupefied|Stupefied 1]].
+*   **Arms** The target's arms grow weak. The target becomes [[Enfeebled|Enfeebled 1]].
+*   **Head** The target has trouble thinking straight. The target becomes [[Stupefied|Stupefied 1]].
 *   **Legs** The target's legs buckle with every movement. The target takes a –10-foot status penalty to its Speeds.
 *   **Torso** The target's skin becomes thin and papery. The target gains weakness 10 to slashing damage.
 

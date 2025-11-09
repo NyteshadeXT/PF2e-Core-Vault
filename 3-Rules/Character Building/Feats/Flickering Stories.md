@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Campfire Chronicler Dedication
 * * *
-Stories, like fires, can create shadows as much as they illuminate. When you Offer a Story, you can become [[Conditions/Concealed|Concealed]] by shifting shadows for the duration instead of the normal benefits. The action then gains the shadow trait. You can't use this concealment to [[Actions/Hide|Hide]], as normal for concealing effects that leave your location obvious. The creature you share a story with can choose this benefit even if you did not.
+Stories, like fires, can create shadows as much as they illuminate. When you Offer a Story, you can become [[3-Rules/Conditions/Concealed|Concealed]] by shifting shadows for the duration instead of the normal benefits. The action then gains the shadow trait. You can't use this concealment to [[Actions/Hide|Hide]], as normal for concealing effects that leave your location obvious. The creature you share a story with can choose this benefit even if you did not.
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

@@ -22,7 +22,7 @@ license: ORC
 * * *
 **Trigger** You are the target of a melee attack.
 
-**Requirements** You're aware of the attack and aren't [[Conditions/Off-Guard|Off-Guard]].
+**Requirements** You're aware of the attack and aren't [[Off-Guard|Off-Guard]].
 
 * * *
 

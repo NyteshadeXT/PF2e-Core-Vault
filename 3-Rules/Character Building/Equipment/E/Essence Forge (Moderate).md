@@ -46,7 +46,7 @@ Spirit forges are emblazoned with strange runes and obscure symbols enhanced by 
 
 **Activate—Craft an Item** 2 hours (concentrate, manipulate)
 
-**Requirements** The essence forge has been primed with raw materials equaling or exceeding the value of the item you intend to craft, and you are not [[Conditions/Fatigued|Fatigued]]
+**Requirements** The essence forge has been primed with raw materials equaling or exceeding the value of the item you intend to craft, and you are not [[Fatigued|Fatigued]]
 
 **Effect** You place your hands atop the forge's workspace and focus your concentration on the essence contained within the forge. Choose an item whose formula you have and whose level is equal to or less than the essence forge's level, or choose an essence charm. The essence forge begins to construct that item as you concentrate, causing an increasingly realistic illusion of the item to come into focus atop the forge's workspace. Attempt a Crafting check with a DC determined by the forge's type (lesser, moderate, or greater); this check earns Forge Points (using the [[PF2e Journals/GM Screen/Victory Point|Victory Point]] system). You can sustain this activation for up to 8 hours; each time you sustain the activation, attempt another Crafting check to earn Forge Points. When you choose to end the activation, you become fatigued, and any remaining essence stored in the forge dissipates with no further effect. Consult the Essence Forge Crafting section below to determine if you were successful in crafting the item you chose.
 

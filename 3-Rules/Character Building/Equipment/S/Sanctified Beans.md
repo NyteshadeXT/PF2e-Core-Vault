@@ -31,11 +31,11 @@ These roasted soybeans are blessed by a priest to ward against all various forms
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Success** The creature becomes [[Off-Guard|Off-Guard]] until the start of your next turn.
 
-**Failure** The creature becomes [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Failure** The creature becomes [[Slowed|Slowed 1]] for 1 round.
 
-**Critical Failure** The creature becomes [[Conditions/Stunned|Stunned 1]] and is then slowed 1 for 1 round.
+**Critical Failure** The creature becomes [[Stunned|Stunned 1]] and is then slowed 1 for 1 round.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

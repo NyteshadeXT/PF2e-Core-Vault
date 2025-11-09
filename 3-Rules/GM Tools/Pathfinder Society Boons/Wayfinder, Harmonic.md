@@ -31,7 +31,7 @@ license: OGL
 
 You can activate this ability as a free action before you [[Actions/Aid|Aid]] an ally. If you roll a success on the check to [[Actions/Aid|Aid]], you instead get a critical success.
 
-You can safely use this benefit once per adventure.You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 Flat check. On a success, the wayfinder is [[Conditions/Broken|Broken]]. On a failure, the wayfinder is destroyed. Trying to overcharge it twice destroys it.
+You can safely use this benefit once per adventure.You can attempt to use it a second time, overcharging the wayfinder at the risk of destroying it. When you do so, roll a DC 10 Flat check. On a success, the wayfinder is [[Broken|Broken]]. On a failure, the wayfinder is destroyed. Trying to overcharge it twice destroys it.
 
 *Source: *
 *OGL*

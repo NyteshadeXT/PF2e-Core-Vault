@@ -29,11 +29,11 @@ Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. W
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+**Success** The creature takes half damage and is [[Off-Guard|Off-Guard]] until the end of its next turn.
 
-**Failure** The creature takes full damage plus 2d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round.
+**Failure** The creature takes full damage plus 2d6 bleed, and it becomes [[Clumsy|Clumsy 2]] for 1 round.
 
-**Critical Failure** The creature takes double damage plus 4d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy 2]] for 1 minute.
+**Critical Failure** The creature takes double damage plus 4d6 bleed, and it becomes [[Clumsy|Clumsy 2]] for 1 minute.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

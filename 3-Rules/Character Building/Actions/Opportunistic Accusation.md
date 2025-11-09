@@ -33,7 +33,7 @@ You make a quick cutting remark against the demon that takes advantage of the fi
 
 **Success** The demon takes 2d6 mental damage.
 
-**Failure** The demon takes 4d6 mental damage and is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
+**Failure** The demon takes 4d6 mental damage and is [[Off-Guard|Off-Guard]] until the start of its next turn.
 
 **Critical Failure** As failure, but the off-guard condition lasts until the end of the next round. The demon also takes 2d6 persistent mental damage.
 

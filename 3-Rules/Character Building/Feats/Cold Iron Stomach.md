@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You have steeled yourself against potent odors. Whenever you gain the [[Conditions/Sickened|Sickened]] condition, you reduce the value of that condition by 1; if this reduces the value to 0, you avoid becoming sickened entirely. You gain a +2 circumstance bonus to all saving throws against olfactory and poison effects created by demons or environmental hazards associated with the Outer Rifts (including all environmental hazards found in Tanglebriar).
+You have steeled yourself against potent odors. Whenever you gain the [[Sickened|Sickened]] condition, you reduce the value of that condition by 1; if this reduces the value to 0, you avoid becoming sickened entirely. You gain a +2 circumstance bonus to all saving throws against olfactory and poison effects created by demons or environmental hazards associated with the Outer Rifts (including all environmental hazards found in Tanglebriar).
 
 *Source: Pathfinder #210: Whispers in the Dirt*
 *ORC*

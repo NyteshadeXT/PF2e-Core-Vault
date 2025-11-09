@@ -26,7 +26,7 @@ This long, golden cloak is among the royal regalia of the emperors of Taldor. It
 
 * * *
 
-**Effect** You pull the hood of the mantle over your face, revealing the six eyes of Grogrisant. The mantle gives off a flash of blinding light in a 60-foot emanation. All enemies within this area must attempt a DC 38 Fortitude check saving throw. On a failure, they're [[Conditions/Blinded|Blinded]] for 1 minute. On a critical failure, they're permanently blinded.
+**Effect** You pull the hood of the mantle over your face, revealing the six eyes of Grogrisant. The mantle gives off a flash of blinding light in a 60-foot emanation. All enemies within this area must attempt a DC 38 Fortitude check saving throw. On a failure, they're [[Blinded|Blinded]] for 1 minute. On a critical failure, they're permanently blinded.
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

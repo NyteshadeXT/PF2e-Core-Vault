@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You are always ready to embrace to a change in tempo and adapt your actions to take advantage of unforeseen developments. When you return to the initiative order after you Delay, you do so in an unpredictable way. All enemies are [[Conditions/Off-Guard|Off-Guard]] to you until the start of your next turn, and you become [[Conditions/Quickened|Quickened]] for the current round but can only use the extra action to Stride or Strike.
+You are always ready to embrace to a change in tempo and adapt your actions to take advantage of unforeseen developments. When you return to the initiative order after you Delay, you do so in an unpredictable way. All enemies are [[Off-Guard|Off-Guard]] to you until the start of your next turn, and you become [[Quickened|Quickened]] for the current round but can only use the extra action to Stride or Strike.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

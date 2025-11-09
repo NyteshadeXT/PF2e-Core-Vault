@@ -34,11 +34,11 @@ This carefully concocted mixture of fungal spores and ground bones has paralytic
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 minute)
+**Stage 1** [[Fatigued|Fatigued]] (1 minute)
 
 **Stage 2** 5d6 poison damage and fatigued (1 minute)
 
-**Stage 3** 5d6 poison damage, fatigued, and [[Conditions/Paralyzed|Paralyzed]] (1 minute)
+**Stage 3** 5d6 poison damage, fatigued, and [[Paralyzed|Paralyzed]] (1 minute)
 
 *Source: Pathfinder Player Core 2*
 *ORC*

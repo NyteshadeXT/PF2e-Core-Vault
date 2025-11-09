@@ -32,7 +32,7 @@ With a look and a gesture, you turn a thinking creature's mind against itself, c
 
 **Failure** For the next 3 rounds, if the target performs an activity that requires two or more actions, they take 12d8 mental damage.
 
-**Critical Failure** As failure, but the target is also [[Conditions/Stunned|Stunned 1]] as its mind struggles to function.
+**Critical Failure** As failure, but the target is also [[Stunned|Stunned 1]] as its mind struggles to function.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

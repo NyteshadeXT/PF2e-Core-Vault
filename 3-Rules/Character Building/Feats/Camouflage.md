@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** master in Stealth
 * * *
-You alter your appearance to blend in to the wilderness. In natural terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[Conditions/Concealed|Concealed]].
+You alter your appearance to blend in to the wilderness. In natural terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[3-Rules/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Player Core*
 *ORC*

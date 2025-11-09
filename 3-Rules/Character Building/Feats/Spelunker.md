@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Living underground, you have learned to find your way without landmarks or even solid ground. If you roll a success on an Survival check to [[Actions/Sense Direction|Sense Direction]] or an Athletics check to [[Actions/Climb|Climb]], you get a critical success instead. You're not [[Conditions/Off-Guard|Off-Guard]] when you attempt to Climb.
+Living underground, you have learned to find your way without landmarks or even solid ground. If you roll a success on an Survival check to [[Actions/Sense Direction|Sense Direction]] or an Athletics check to [[Actions/Climb|Climb]], you get a critical success instead. You're not [[Off-Guard|Off-Guard]] when you attempt to Climb.
 
 *Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

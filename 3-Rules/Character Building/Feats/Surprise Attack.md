@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Assassin Dedication
 * * *
-You act before foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are [[Conditions/Off-Guard|Off-Guard]] to you.
+You act before foes can react. On the first round of combat, if you roll Deception or Stealth for initiative, creatures that haven't acted are [[Off-Guard|Off-Guard]] to you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

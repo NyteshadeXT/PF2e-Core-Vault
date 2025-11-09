@@ -8,7 +8,7 @@ tags:
 ---
 
 # Senses
-The ways a creature can use Perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in:[[Conditions/Observed|Observed]], [[Conditions/Hidden|Hidden]], or [[Conditions/Undetected|Undetected]]. Vision, hearing, and scent are three prominent senses, but they don't have the same degree of acuity.
+The ways a creature can use Perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of detection a target can be in:[[Observed|Observed]], [[Hidden|Hidden]], or [[Undetected|Undetected]]. Vision, hearing, and scent are three prominent senses, but they don't have the same degree of acuity.
 
 ## Precise Senses
 
@@ -16,11 +16,11 @@ Average vision is a precise sense—a sense that can be used to perceive the wor
 
 ## Imprecise Senses
 
-Hearing is an imprecise sense—it cannot detect the full range of detail that a precise sense can. You can usually sense a creature automatically with an imprecise sense, but it has the [[Conditions/Hidden|Hidden]] condition instead of the observed condition. It might be undetected by you if it's using Stealth or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [[Actions/Seek|Seek]] basic action to detect the creature. At best, an imprecise sense can be used to make an undetected creature (or one you didn't even know was there) merely [[Conditions/Hidden|Hidden]]—it can't make the creature [[Conditions/Observed|Observed]].
+Hearing is an imprecise sense—it cannot detect the full range of detail that a precise sense can. You can usually sense a creature automatically with an imprecise sense, but it has the [[Hidden|Hidden]] condition instead of the observed condition. It might be undetected by you if it's using Stealth or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the [[Actions/Seek|Seek]] basic action to detect the creature. At best, an imprecise sense can be used to make an undetected creature (or one you didn't even know was there) merely [[Hidden|Hidden]]—it can't make the creature [[Observed|Observed]].
 
 ## Vague Senses
 
-A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an unnoticed creature, making it undetected. Even then, the vague sense isn't sufficient to make the creature [[Conditions/Hidden|Hidden]] or [[Conditions/Observed|Observed]].
+A character also has many vague senses—ones that can alert you that something is there but aren't useful for zeroing in on it to determine exactly what it is. The most useful of these for a typical character is the sense of smell. At best, a vague sense can be used to detect the presence of an unnoticed creature, making it undetected. Even then, the vague sense isn't sufficient to make the creature [[Hidden|Hidden]] or [[Observed|Observed]].
 
 When one creature might detect another, the GM almost always uses the most precise sense available.
 
@@ -38,7 +38,7 @@ A creature with darkvision or greater darkvision can see perfectly well in areas
 
 ## Low-Light Vision
 
-A creature with low-light vision can see in dim light as though it were bright light, so it ignores the [[Conditions/Concealed|Concealed]] condition due to dim light.
+A creature with low-light vision can see in dim light as though it were bright light, so it ignores the [[3-Rules/Conditions/Concealed|Concealed]] condition due to dim light.
 
 ## Scent
 

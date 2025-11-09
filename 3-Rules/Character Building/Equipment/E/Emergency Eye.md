@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** `pf2:0` command
 
-**Trigger** You become [[Conditions/Blinded|Blinded]], or an effect otherwise impedes your vision
+**Trigger** You become [[Blinded|Blinded]], or an effect otherwise impedes your vision
 
 **Requirements** You are an expert in Perception.
 

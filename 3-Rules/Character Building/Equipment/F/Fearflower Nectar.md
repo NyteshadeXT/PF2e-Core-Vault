@@ -32,11 +32,11 @@ The nectar of a night-blooming desert flower attacks a victim's central nervous 
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Conditions/Frightened|Frightened 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[Frightened|Frightened 1]] (1 round)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 round)
+**Stage 2** 1d6 poison damage and [[Frightened|Frightened 2]] (1 round)
 
-**Stage 3** 1d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 round)
+**Stage 3** 1d6 poison damage and [[Frightened|Frightened 3]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -28,7 +28,7 @@ license: ORC
 
 Your magic explodes in bursts of excess energy, creating thunderous waves. If your next action is to Cast a Spell, attempt a DC 5 Flat check.
 
-**Critical Success** Enemies within a 10-foot radius burst centered on the target of the spell or within the spell's area of effect take sonic damage equal to twice your level (Fortitude check saving throw against your class DC or spell DC, whichever is higher). Those who fail the save are also knocked [[Conditions/Prone|Prone]].
+**Critical Success** Enemies within a 10-foot radius burst centered on the target of the spell or within the spell's area of effect take sonic damage equal to twice your level (Fortitude check saving throw against your class DC or spell DC, whichever is higher). Those who fail the save are also knocked [[Prone|Prone]].
 
 **Success** Enemies within a 10-foot radius burst centered on the target of the spell or within the spell's area of effect take sonic damage equal to your level (basic Fortitude saving throw against your class DC or spell DC, whichever is higher). Those who critically fail the save are also knocked prone.
 

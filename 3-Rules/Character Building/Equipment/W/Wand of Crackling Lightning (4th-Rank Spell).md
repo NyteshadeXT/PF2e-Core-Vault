@@ -28,7 +28,7 @@ This wand is made of two copper plates and a ceramic center.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 4th-rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 4th-rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Off-Guard|Off-Guard]] for 1 round.
 
 * * *
 

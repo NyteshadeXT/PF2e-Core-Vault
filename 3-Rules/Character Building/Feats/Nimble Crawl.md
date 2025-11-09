@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** expert in Acrobatics
 * * *
-You can [[Actions/Crawl|Crawl]] incredibly swiftly—up to half your Speed, rather than 5 feet. If you're a master in Acrobatics, you can Crawl at full Speed, and if you're legendary, you aren't [[Conditions/Off-Guard|Off-Guard]] while [[Conditions/Prone|Prone]].
+You can [[Actions/Crawl|Crawl]] incredibly swiftly—up to half your Speed, rather than 5 feet. If you're a master in Acrobatics, you can Crawl at full Speed, and if you're legendary, you aren't [[Off-Guard|Off-Guard]] while [[Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

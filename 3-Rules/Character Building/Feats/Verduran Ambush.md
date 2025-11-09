@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Verduran Shadow Dedication; expert in Stealth
 * * *
-You prepare to ambush a foe. You Ready an activity that takes 2 actions, though that activity must either be Death from Above or an activity with the requirement that you be [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] by all your opponents (such as [[Feats/Scout's Pounce|Scout's Pounce]]). After using the reaction, you cannot use this feat again for 10 minutes.
+You prepare to ambush a foe. You Ready an activity that takes 2 actions, though that activity must either be Death from Above or an activity with the requirement that you be [[Hidden|Hidden]] or [[Undetected|Undetected]] by all your opponents (such as [[Feats/Scout's Pounce|Scout's Pounce]]). After using the reaction, you cannot use this feat again for 10 minutes.
 
 *Source: Pathfinder #201: Pactbreaker*
 *ORC*

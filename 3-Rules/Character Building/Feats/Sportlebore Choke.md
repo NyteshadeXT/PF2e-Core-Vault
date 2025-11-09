@@ -31,11 +31,11 @@ Like nefarious sportlebores, a species of insect that plague adventurers by hidi
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Sickened|Sickened 1]] as it spits out most of the offending sportlebores.
+**Success** The creature takes half damage and is [[Sickened|Sickened 1]] as it spits out most of the offending sportlebores.
 
 **Failure** The sportlebores crawl down the creature's throat. The creature takes full damage and is sickened 1.
 
-**Critical Failure** As failure, but the creature takes double damage and is [[Conditions/Sickened|Sickened 2]].
+**Critical Failure** As failure, but the creature takes double damage and is [[Sickened|Sickened 2]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

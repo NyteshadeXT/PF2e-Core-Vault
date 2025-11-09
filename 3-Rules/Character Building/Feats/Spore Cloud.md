@@ -28,11 +28,11 @@ You unleash a cloud of pollen or similar spores. All creatures in a 10-foot eman
 
 **Critical Success** No effect.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled and can see only 10 feet away for 1 round.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round.
+**Critical Failure** The creature is [[Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder Lost Omens Ancestry Guide*
 *OGL*

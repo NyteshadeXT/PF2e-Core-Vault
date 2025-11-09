@@ -30,7 +30,7 @@ A broad wooden tube with a handle, a _sparking spellgun_ radiates warmth. You Ac
 
 * * *
 
-**Critical Success** The target takes double damage, takes double persistent damage, is [[Conditions/Blinded|Blinded]] for 1 round, and is [[Conditions/Dazzled|Dazzled]] while the persistent damage lasts.
+**Critical Success** The target takes double damage, takes double persistent damage, is [[Blinded|Blinded]] for 1 round, and is [[Dazzled|Dazzled]] while the persistent damage lasts.
 
 **Success** The target takes full damage, full persistent damage, and is dazzled while the persistent damage lasts.
 

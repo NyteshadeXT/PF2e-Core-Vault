@@ -23,7 +23,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The [[Conditions/Frightened|Frightened]] condition from fearweed can't be removed while the poison lasts.
+Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The [[Frightened|Frightened]] condition from fearweed can't be removed while the poison lasts.
 
 * * *
 
@@ -35,9 +35,9 @@ Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fea
 
 **Stage 1** 7d6 poison damage and frightened 1 (1 minute)
 
-**Stage 2** 8d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 minute)
+**Stage 2** 8d6 poison damage and [[Frightened|Frightened 2]] (1 minute)
 
-**Stage 3** 9d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 minute)
+**Stage 3** 9d6 poison damage and [[Frightened|Frightened 3]] (1 minute)
 
 * * *
 

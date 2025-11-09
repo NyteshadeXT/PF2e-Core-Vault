@@ -34,11 +34,11 @@ You can beguile and bewitch with your song. All creatures in a 60-foot emanation
 
 **Critical Success** The target is unaffected and becomes immune to your Siren Song for 24 hours.
 
-**Success** The target is [[Conditions/Fascinated|Fascinated]] with you until the end of your next turn.
+**Success** The target is [[Fascinated|Fascinated]] with you until the end of your next turn.
 
-**Failure** As success, and the target is [[Conditions/Stupefied|Stupefied 1]] for as long as it's fascinated.
+**Failure** As success, and the target is [[Stupefied|Stupefied 1]] for as long as it's fascinated.
 
-**Critical Failure** As success, and the target is [[Conditions/Stupefied|Stupefied 2]] for as long as it's fascinated.
+**Critical Failure** As success, and the target is [[Stupefied|Stupefied 2]] for as long as it's fascinated.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

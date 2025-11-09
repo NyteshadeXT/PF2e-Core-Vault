@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You reach ahead and make use of time that's yet to be. You become [[Conditions/Quickened|Quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[Conditions/Stunned|Stunned 1]].
+You reach ahead and make use of time that's yet to be. You become [[Quickened|Quickened]] and can use the extra action to Step, Stride, or Strike. You gain this extra action immediately and can use it this turn. At the end of your turn, you become [[Stunned|Stunned 1]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

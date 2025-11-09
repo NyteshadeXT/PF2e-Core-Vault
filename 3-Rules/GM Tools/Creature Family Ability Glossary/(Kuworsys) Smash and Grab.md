@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Kuworsys Strides up to twice its Speed. At the end of its movement, it can make a melee limb Strike. On a successful Strike, the creature becomes [[Conditions/Grabbed|Grabbed]] until the end of Kuworsys's next turn
+Kuworsys Strides up to twice its Speed. At the end of its movement, it can make a melee limb Strike. On a successful Strike, the creature becomes [[Grabbed|Grabbed]] until the end of Kuworsys's next turn
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

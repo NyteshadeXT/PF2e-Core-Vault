@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
@@ -28,9 +28,9 @@ You pinch crucial points of your target's nervous system, impeding its ability t
 
 * * *
 
-**Critical Success** The target falls [[Conditions/Unconscious|Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
+**Critical Success** The target falls [[Unconscious|Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
 
-**Success** The target is [[Conditions/Clumsy|Clumsy 1]] until the end of its next turn.
+**Success** The target is [[Clumsy|Clumsy 1]] until the end of its next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

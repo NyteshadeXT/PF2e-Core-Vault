@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Trigger** A creature you had [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] successfully Escapes.
+**Trigger** A creature you had [[Grabbed|Grabbed]] or [[Restrained|Restrained]] successfully Escapes.
 
 * * *
 

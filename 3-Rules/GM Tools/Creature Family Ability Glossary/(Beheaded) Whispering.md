@@ -21,7 +21,7 @@ license: OGL
 
 
 
-30 feet. The beheaded constantly whispers twisted incantations in unknown languages secret and foul. Foes that enter or begin their turn in the area must succeed at a Will save or be [[Conditions/Stupefied|Stupefied 1]]. The aura uses the moderate DC for the beheaded's level.
+30 feet. The beheaded constantly whispers twisted incantations in unknown languages secret and foul. Foes that enter or begin their turn in the area must succeed at a Will save or be [[Stupefied|Stupefied 1]]. The aura uses the moderate DC for the beheaded's level.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

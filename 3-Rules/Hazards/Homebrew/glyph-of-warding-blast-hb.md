@@ -20,7 +20,7 @@ aliases: ["Glyph of Warding (Blast)"]
 
 **Acid Burst** `pf2:r`  
 **Trigger** A creature not attuned to the glyph passes beneath it.  
-**Effect** The glyph explodes in a 10-foot burst. All creatures in the area take `dice: 6d8` acid damage (DC 26 basic Reflex save). On a critical failure, creatures are also [[sickened|sickened 1]].  
+**Effect** The glyph explodes in a 10-foot burst. All creatures in the area take `dice: 6d8` acid damage (DC 26 basic Reflex save). On a critical failure, creatures are also [[Sickened|sickened 1]].  
 
 ---
 **Reset** None. Once triggered, the glyph burns out.  

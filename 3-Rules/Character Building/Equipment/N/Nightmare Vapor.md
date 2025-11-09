@@ -33,11 +33,11 @@ Purportedly sourced from any number of outlandish locales, nightmare vapor is mo
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Confused|Confused]] (1 round)
+**Stage 1** [[Confused|Confused]] (1 round)
 
-**Stage 2** confused and [[Conditions/Off-Guard|Off-Guard]] (1 round)
+**Stage 2** confused and [[Off-Guard|Off-Guard]] (1 round)
 
-**Stage 3** confused, off-guard, and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 3** confused, off-guard, and [[Stupefied|Stupefied 2]] (1 round)
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Any living, non-elf creature hit by a ghoul's attack must succeed at a Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.
+Any living, non-elf creature hit by a ghoul's attack must succeed at a Fortitude check save or become [[Paralyzed|Paralyzed]]. It can attempt a new save at the end of each of its turns, and the DC cumulatively decreases by 1 on each such save.
 
 *Source: Pathfinder Bestiary*
 *OGL*

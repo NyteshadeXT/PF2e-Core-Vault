@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Lepidstadt Surgeon Dedication; master in Medicine
 * * *
-**Requirements** You are holding healer's tools, or you are wearing them and have a hand free; a creature with the [[Conditions/Dying|Dying]] condition is in your reach.
+**Requirements** You are holding healer's tools, or you are wearing them and have a hand free; a creature with the [[Dying|Dying]] condition is in your reach.
 
 * * *
 

@@ -31,10 +31,10 @@ You hold your arms out, and the fury of the seasons comes to your jubilant embra
 
 The emanation is quartered into four non-overlapping cones, each of a different season, which must be arranged clockwise from spring, to summer, to fall, to winter. Each cone has different traits, damage type, and a different effect to a creature that critically fails its saving throw; a creature large enough to be in multiple seasons can choose which it is affected by.
 
-*   **Spring** (electricity) Spring lightning deals electricity damage. Creatures who critically fail are left numb, becoming [[Conditions/Clumsy|Clumsy 2]] until the end of their next turn.
-*   **Summer** (water) A summer monsoon deals bludgeoning damage. Creatures who critically fail are knocked [[Conditions/Prone|Prone]] by hurricane winds.
-*   **Fall** (emotion, mental, wood) Falling leaves deal slashing damage. Creatures who critically fail are gripped by melancholy, becoming [[Conditions/Off-Guard|Off-Guard]] until the end of their next turn.
-*   **Winter** (cold) A blizzard deals cold damage. Creatures who critically fail are [[Conditions/Stupefied|Stupefied 2]] until the end of their next turn as the cold numbs their senses.
+*   **Spring** (electricity) Spring lightning deals electricity damage. Creatures who critically fail are left numb, becoming [[Clumsy|Clumsy 2]] until the end of their next turn.
+*   **Summer** (water) A summer monsoon deals bludgeoning damage. Creatures who critically fail are knocked [[Prone|Prone]] by hurricane winds.
+*   **Fall** (emotion, mental, wood) Falling leaves deal slashing damage. Creatures who critically fail are gripped by melancholy, becoming [[Off-Guard|Off-Guard]] until the end of their next turn.
+*   **Winter** (cold) A blizzard deals cold damage. Creatures who critically fail are [[Stupefied|Stupefied 2]] until the end of their next turn as the cold numbs their senses.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

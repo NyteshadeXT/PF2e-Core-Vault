@@ -44,7 +44,7 @@ If you die at this stage or higher, your body implodes. Your soul reincarnates a
 
 * * *
 
-**Stage 3 (32 Days)** Your telepathy range increases to 100 feet, and the wisp grants you resistance to mental damage equal to your level. The mental noise increases the penalty to Perception to –2. Whenever you roll initiative, you become [[Conditions/Confused|Confused]] for up to 1d4 rounds.
+**Stage 3 (32 Days)** Your telepathy range increases to 100 feet, and the wisp grants you resistance to mental damage equal to your level. The mental noise increases the penalty to Perception to –2. Whenever you roll initiative, you become [[Confused|Confused]] for up to 1d4 rounds.
 
 * * *
 

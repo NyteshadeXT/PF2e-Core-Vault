@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[Conditions/Stupefied|Stupefied 2]] for 1 round ([[Conditions/Stupefied|Stupefied 3]] on a critical hit).
+You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[Stupefied|Stupefied 2]] for 1 round ([[Stupefied|Stupefied 3]] on a critical hit).
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

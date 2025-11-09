@@ -34,9 +34,9 @@ You can deliver a melee blow to a demon that creates an explosion of holy light 
 
 **Success** The demon takes half damage.
 
-**Failure** The demon takes full damage and is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Failure** The demon takes full damage and is [[Dazzled|Dazzled]] for 1 round.
 
-**Critical Failure** The demon takes full damage and is permanently [[Conditions/Blinded|Blinded]].
+**Critical Failure** The demon takes full damage and is permanently [[Blinded|Blinded]].
 
 *Source: Pathfinder #210: Whispers in the Dirt*
 *ORC*

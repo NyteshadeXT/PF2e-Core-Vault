@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Fang Sharpener
 * * *
-You'll eat anything and anyone. Whenever you inflict [[Conditions/Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
+You'll eat anything and anyone. Whenever you inflict [[Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
 
 [[Feat_Feature Effects/Effect_ Hungry Goblin|Effect: Hungry Goblin]]
 

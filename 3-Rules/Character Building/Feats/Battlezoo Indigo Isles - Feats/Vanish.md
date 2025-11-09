@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You become [[Conditions/Invisible|Invisible]] before the Strike resolves, forcing the enemy to attempt the regular DC 11 Flat check to target you. After the Strike you Step 10 feet. The invisibility lasts until you use a hostile action or the end of your next turn, whichever happens first.
+You become [[Invisible|Invisible]] before the Strike resolves, forcing the enemy to attempt the regular DC 11 Flat check to target you. After the Strike you Step 10 feet. The invisibility lasts until you use a hostile action or the end of your next turn, whichever happens first.
 
 *Source: *
 *OGL*

@@ -17,7 +17,7 @@ license: ORC
 ---
 # Oracular Warning `pf2:0`
 ## Feat 1
-### [[auditory]][[cursebound]][[divine]][[emotion]][[3-Rules/Trait Reference/M/mental]][[oracle]]
+### [[auditory]][[Cursebound]][[divine]][[emotion]][[3-Rules/Trait Reference/M/mental]][[oracle]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You have a premonition about impending danger that you use to warn your allies. Each ally within 20 feet gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to half your level, which last for 1 minute. If you are [[Conditions/Cursebound|Cursebound 2]] when you use Oracular Warning, the bonus increases to +3, and if you are cursebound 3, the bonus increases to +4.
+You have a premonition about impending danger that you use to warn your allies. Each ally within 20 feet gains a +2 status bonus to their initiative roll and gains temporary Hit Points equal to half your level, which last for 1 minute. If you are [[Cursebound|Cursebound 2]] when you use Oracular Warning, the bonus increases to +3, and if you are cursebound 3, the bonus increases to +4.
 
 [[Feat_Feature Effects/Effect_ Oracular Warning|Effect: Oracular Warning]]
 

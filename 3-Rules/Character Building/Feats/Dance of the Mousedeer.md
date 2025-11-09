@@ -27,7 +27,7 @@ You move your body in a pattern that evokes the small and clever Sister Mousedee
 
 * * *
 
-**Critical Success** Imaginary shadows rise up in the target's vision, hiding you from sight. You gain greater cover against that enemy, which provides a +4 circumstance bonus to AC and to Stealth checks to Hide, [[Actions/Sneak|Sneak]], or otherwise avoid detection. As the shadows are illusory, you don't gain the typical bonus to Reflex saves from greater cover. These benefits last until the beginning of your next turn, or until you move from your current space, use an attack action, or become [[Conditions/Unconscious|Unconscious]], whichever comes first.
+**Critical Success** Imaginary shadows rise up in the target's vision, hiding you from sight. You gain greater cover against that enemy, which provides a +4 circumstance bonus to AC and to Stealth checks to Hide, [[Actions/Sneak|Sneak]], or otherwise avoid detection. As the shadows are illusory, you don't gain the typical bonus to Reflex saves from greater cover. These benefits last until the beginning of your next turn, or until you move from your current space, use an attack action, or become [[Unconscious|Unconscious]], whichever comes first.
 
 **Success** As critical success, except you gain only standard cover (a +2 circumstance bonus instead).
 

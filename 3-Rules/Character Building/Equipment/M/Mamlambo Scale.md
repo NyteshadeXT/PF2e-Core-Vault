@@ -36,11 +36,11 @@ The faint glow beneath the thick, algae-green scales of this suit of _+1 resilie
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Success** The creature is [[Slowed|Slowed 1]] for 1 round.
 
-**Failure** The creature is [[Conditions/Fascinated|Fascinated]], and for as long as it remains in the light, it must spend at least 1 of its actions on each of its turns to move closer to the source of the light. If the creature ends its movement adjacent to you, it is slowed 1 until it is out of the light or until you make a Strike against it.
+**Failure** The creature is [[Fascinated|Fascinated]], and for as long as it remains in the light, it must spend at least 1 of its actions on each of its turns to move closer to the source of the light. If the creature ends its movement adjacent to you, it is slowed 1 until it is out of the light or until you make a Strike against it.
 
-**Critical Failure** As failure, but the creature is also [[Conditions/Off-Guard|Off-Guard]] against the first Strike you make against it while it is slowed.
+**Critical Failure** As failure, but the creature is also [[Off-Guard|Off-Guard]] against the first Strike you make against it while it is slowed.
 
 * * *
 

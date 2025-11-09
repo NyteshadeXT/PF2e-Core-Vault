@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see [[Conditions/Invisible|Invisible]] creatures and objects, and you gain the benefits of [[Spells/Truesight|Truesight]] (with a counteract check modifier equal to your Perception modifier).
+You tap into the collective consciousness of the Godmind, the governing entity of axiomite society, to rapidly parse near-infinite variables to read your surroundings. For 1 minute, you gain precise motion sense out to 60 feet, you can see [[Invisible|Invisible]] creatures and objects, and you gain the benefits of [[Spells/Truesight|Truesight]] (with a counteract check modifier equal to your Perception modifier).
 
 *Source: Pathfinder War of Immortals*
 *ORC*

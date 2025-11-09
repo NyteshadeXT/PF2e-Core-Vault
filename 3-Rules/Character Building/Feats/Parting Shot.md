@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is [[Conditions/Off-Guard|Off-Guard]] against the attack.
+You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is [[Off-Guard|Off-Guard]] against the attack.
 
 *Source: Pathfinder Player Core*
 *ORC*

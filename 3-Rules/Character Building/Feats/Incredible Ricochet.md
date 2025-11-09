@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Incredible Aim
 * * *
-After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike against a creature you previously attacked this turn. You ignore the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike against a creature you previously attacked this turn. You ignore the target's [[3-Rules/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Player Core*
 *ORC*

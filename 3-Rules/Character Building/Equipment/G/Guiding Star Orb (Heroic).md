@@ -46,9 +46,9 @@ As long as you have the _Guiding Star Orb_ invested, teleportation effects creat
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The target is [[Dazzled|Dazzled]] for 1 round.
 
-**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round.
+**Failure** The target is [[Blinded|Blinded]] for 1 round.
 
 **Critical Failure** The target is permanently blinded.
 

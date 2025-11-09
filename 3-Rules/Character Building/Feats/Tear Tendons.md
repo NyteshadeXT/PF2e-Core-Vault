@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You rake into your opponent with two claws, cutting into their muscle and depriving them of needed strength. Make two frenzied claw attacks against the same target, increasing the multiple attack penalty normally. If both attacks hit, the target must succeed at a Fortitude check save against your class DC or be [[Conditions/Enfeebled|Enfeebled 2]] for 1 round; if it critically fails, it's instead enfeebled 2 for 1 minute.
+You rake into your opponent with two claws, cutting into their muscle and depriving them of needed strength. Make two frenzied claw attacks against the same target, increasing the multiple attack penalty normally. If both attacks hit, the target must succeed at a Fortitude check save against your class DC or be [[Enfeebled|Enfeebled 2]] for 1 round; if it critically fails, it's instead enfeebled 2 for 1 minute.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

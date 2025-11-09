@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
@@ -28,13 +28,13 @@ You propel your enemy away. Attempt an [[Action Macros/Whirling Throw_ Athletics
 
 * * *
 
-**Critical Success** You throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls [[Conditions/Prone|Prone]].
+**Critical Success** You throw the creature any distance up to 10 feet, plus 5 feet × your Strength modifier. It takes bludgeoning damage equal to your Strength modifier plus 1d6 per 10 feet you threw it. If you threw the target at least 10 feet and into a solid obstacle, use the maximum distance you could have thrown it to calculate the damage. The creature falls [[Prone|Prone]].
 
 **Success** As critical success, but the creature doesn't fall prone.
 
 **Failure** You don't throw the creature.
 
-**Critical Failure** You don't throw the creature, and it's no longer [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you.
+**Critical Failure** You don't throw the creature, and it's no longer [[Grabbed|Grabbed]] or [[Restrained|Restrained]] by you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

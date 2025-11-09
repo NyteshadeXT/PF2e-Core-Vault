@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can withstand blood loss startlingly well. Whenever you would gain the [[Conditions/Drained|Drained]] condition, you can attempt a DC 17 Flat check. On a success, you don't gain the drained condition.
+You can withstand blood loss startlingly well. Whenever you would gain the [[Drained|Drained]] condition, you can attempt a DC 17 Flat check. On a success, you don't gain the drained condition.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

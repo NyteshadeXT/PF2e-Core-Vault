@@ -19,7 +19,7 @@ license: ORC
 
 **Prerequisites** ardande trait, plant trait, or wood trait
 * * *
-You have specialized glands inside your throat, which produce acidic nectar that you can spit long distances. You gain a nectar ranged unarmed attack with a range increment of 20 feet that deals 1d4 acid damage. On a critical hit, the target is additionally [[Conditions/Sickened|Sickened 1]]. Your nectar doesn't add critical specialization effects. You're immune to your own nectar.
+You have specialized glands inside your throat, which produce acidic nectar that you can spit long distances. You gain a nectar ranged unarmed attack with a range increment of 20 feet that deals 1d4 acid damage. On a critical hit, the target is additionally [[Sickened|Sickened 1]]. Your nectar doesn't add critical specialization effects. You're immune to your own nectar.
 
 * * *
 

@@ -28,9 +28,9 @@ license: ORC
 
 * * *
 
-Dark smoke seems to writhe within this obsidian gem. When you activate the gem, make a melee Strike. If you hit and deal damage, the target is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] on a critical hit.
+Dark smoke seems to writhe within this obsidian gem. When you activate the gem, make a melee Strike. If you hit and deal damage, the target is [[Frightened|Frightened 1]], or [[Frightened|Frightened 2]] on a critical hit.
 
-If you have the [[Feats/Intimidating Strike|Intimidating Strike]] feat, increase the frightened condition value caused by the Strike to [[Conditions/Frightened|Frightened 2]], or [[Conditions/Frightened|Frightened 3]] on a critical hit.
+If you have the [[Feats/Intimidating Strike|Intimidating Strike]] feat, increase the frightened condition value caused by the Strike to [[Frightened|Frightened 2]], or [[Frightened|Frightened 3]] on a critical hit.
 
 *Source: Pathfinder GM Core*
 *ORC*

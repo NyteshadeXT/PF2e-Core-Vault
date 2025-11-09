@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Seeing your allies falter, you fill their hearts with your unbreakable hope, rousing them to stay in the fight. All allies within 60 feet that are [[Conditions/Dying|Dying]], or [[Conditions/Unconscious|Unconscious]] and [[Conditions/Wounded|Wounded]], are healed a number of Hit Points equal to three times your level. Then, all allies within 60 feet that are [[Conditions/Prone|Prone]] may stand up as a free action that does not provoke reactions.
+Seeing your allies falter, you fill their hearts with your unbreakable hope, rousing them to stay in the fight. All allies within 60 feet that are [[Dying|Dying]], or [[Unconscious|Unconscious]] and [[Wounded|Wounded]], are healed a number of Hit Points equal to three times your level. Then, all allies within 60 feet that are [[Prone|Prone]] may stand up as a free action that does not provoke reactions.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

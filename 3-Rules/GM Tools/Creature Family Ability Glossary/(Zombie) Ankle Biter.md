@@ -17,7 +17,7 @@ license: OGL
 
 
 
-This zombie fights just as well on the ground as it does standing. While [[Conditions/Prone|Prone]], the zombie isn't [[Conditions/Off-Guard|Off-Guard]], it ignores the status penalty to its attack rolls, and it gains a +2 circumstance bonus to Athletics checks to [[Actions/Trip|Trip]]. The zombie can also move up to half its Speed when it Crawls.
+This zombie fights just as well on the ground as it does standing. While [[Prone|Prone]], the zombie isn't [[Off-Guard|Off-Guard]], it ignores the status penalty to its attack rolls, and it gains a +2 circumstance bonus to Athletics checks to [[Actions/Trip|Trip]]. The zombie can also move up to half its Speed when it Crawls.
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

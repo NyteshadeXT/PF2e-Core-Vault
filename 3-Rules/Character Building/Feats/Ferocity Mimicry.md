@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You have trained yourself to continue fighting even when your body is screaming for you to stop. You avoid being knocked out and remain at 1 Hit Point, and your [[Conditions/Wounded|Wounded]] condition increases by 1.
+You have trained yourself to continue fighting even when your body is screaming for you to stop. You avoid being knocked out and remain at 1 Hit Point, and your [[Wounded|Wounded]] condition increases by 1.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

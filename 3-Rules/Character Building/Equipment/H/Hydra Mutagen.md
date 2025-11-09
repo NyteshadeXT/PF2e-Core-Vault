@@ -30,7 +30,7 @@ You sprout a second head, increasing your awareness, intuition, and cognitive ab
 
 **Benefit** For 10 minutes, you gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based skill checks. Once during the mutagen's effect, if you fail or critically fail a Will saving throw against a mental effect, you can treat the result as one degree of success better.
 
-**Drawback** You are [[Conditions/Clumsy|Clumsy 1]] for 10 minutes.
+**Drawback** You are [[Clumsy|Clumsy 1]] for 10 minutes.
 
 [[Equipment Effects/Effect_ Hydra Mutagen|Effect: Hydra Mutagen]]
 

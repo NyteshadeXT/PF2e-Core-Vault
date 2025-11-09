@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-You don't believe in any mental twaddle, and you're certainly not afraid of it. You scoff and verbally refute the triggering effect, attempting a counteract check using your Intimidation modifier with a counteract rank of half your level rounded up. If you succeed, you ignore the triggering effect, though any other creatures that were also targeted or in the area are still affected. If the source of the effect you successfully counteracted understands your language and has an Intelligence modifier of -3 or higher, that creature becomes [[Conditions/Stupefied|Stupefied]] for 1 round.
+You don't believe in any mental twaddle, and you're certainly not afraid of it. You scoff and verbally refute the triggering effect, attempting a counteract check using your Intimidation modifier with a counteract rank of half your level rounded up. If you succeed, you ignore the triggering effect, though any other creatures that were also targeted or in the area are still affected. If the source of the effect you successfully counteracted understands your language and has an Intelligence modifier of -3 or higher, that creature becomes [[Stupefied|Stupefied]] for 1 round.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

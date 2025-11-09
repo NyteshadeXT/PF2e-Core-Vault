@@ -35,7 +35,7 @@ license: ORC
 
 These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures.
 
-A _ghost charge_ gives a +3 item bonus to attack rolls, deals 4d8 vitality damage and 4 vitality splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. A primary target that takes damage from a _ghost charge_ becomes [[Conditions/Enfeebled|Enfeebled 2]] until the start of your next turn.
+A _ghost charge_ gives a +3 item bonus to attack rolls, deals 4d8 vitality damage and 4 vitality splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. A primary target that takes damage from a _ghost charge_ becomes [[Enfeebled|Enfeebled 2]] until the start of your next turn.
 
 _Ghost charges_ are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead.
 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-Make a Strike against the creature that triggered your champion's reaction. If you hit, double the extra damage the target takes from your reaction, and the target must succeed at a Fortitude check save against your class DC or be [[Conditions/Drained|Drained 1]]. Regardless of the result, the creature is temporarily immune to your Gruesome Strike for 24 hours.
+Make a Strike against the creature that triggered your champion's reaction. If you hit, double the extra damage the target takes from your reaction, and the target must succeed at a Fortitude check save against your class DC or be [[Drained|Drained 1]]. Regardless of the result, the creature is temporarily immune to your Gruesome Strike for 24 hours.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

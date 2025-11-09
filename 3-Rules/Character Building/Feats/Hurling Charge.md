@@ -24,7 +24,7 @@ You make a ranged Strike with a thrown weapon you already have in your hand, Str
 
 * * *
 
-**Special** If you are [[Actions/Rage|Raging]], and end the Stride adjacent to an enemy, that enemy is [[Conditions/Off-Guard|Off-Guard]] against the next Strike you make against it with the weapon you drew before the end of your next turn.
+**Special** If you are [[Actions/Rage|Raging]], and end the Stride adjacent to an enemy, that enemy is [[Off-Guard|Off-Guard]] against the next Strike you make against it with the weapon you drew before the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take 0d8 void damage, with a Reflex check save against your class DC. A creature that critically fails this saving throw is also [[Conditions/Drained|Drained 1]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
+You draw in the moisture from nearby creatures, draining them dry to heal your wounds. Creatures in a 30-foot cone take 0d8 void damage, with a Reflex check save against your class DC. A creature that critically fails this saving throw is also [[Drained|Drained 1]]. As long as at least one creature was damaged by your Desiccating Inhalation, you regain HP equal to your level.
 
 At 14th level and every 2 levels thereafter, the damage increases by 1d8.
 

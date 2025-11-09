@@ -24,7 +24,7 @@ You tumble around your foes, expertly avoiding their reactions. Stride up to hal
 
 * * *
 
-**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[Conditions/Off-Guard|Off-Guard]] to you until the end of your turn
+**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[Off-Guard|Off-Guard]] to you until the end of your turn
 
 **Success** This movement doesn't trigger reactions from the enemy.
 

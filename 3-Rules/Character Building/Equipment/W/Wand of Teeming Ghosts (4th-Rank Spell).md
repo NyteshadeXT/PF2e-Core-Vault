@@ -34,7 +34,7 @@ This pale wooden wand is carved to resemble a thigh bone with metal caps at each
 
 **Activation** `pf2:0` envision
 
-**Trigger** You successfully impart the [[Conditions/Frightened|Frightened 1]] condition to a creature
+**Trigger** You successfully impart the [[Frightened|Frightened 1]] condition to a creature
 
 **Requirements** You have at least 1 temporary Hit Point from false life
 

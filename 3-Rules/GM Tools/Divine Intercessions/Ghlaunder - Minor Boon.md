@@ -18,7 +18,7 @@ license: OGL
 
 Your commitment to filth draws a small cloud of disease-laden insects.
 
-Once, you can summon a cloud of midges, mosquitos, and flies to surround you for 1 minute. Creatures adjacent to you at any point during that time become [[Conditions/Drained|Drained 1]], [[Conditions/Sickened|Sickened 1]], and exposed to a blood-borne illness.
+Once, you can summon a cloud of midges, mosquitos, and flies to surround you for 1 minute. Creatures adjacent to you at any point during that time become [[Drained|Drained 1]], [[Sickened|Sickened 1]], and exposed to a blood-borne illness.
 
 Ghlaunder typically grants this boon when you can infect a significant number of creatures.
 

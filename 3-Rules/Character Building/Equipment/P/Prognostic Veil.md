@@ -37,7 +37,7 @@ This gauzy purple veil is embroidered with symbols of divinatory significance. A
 
 **Trigger** An ally within 30 feet is about to attempt a saving throw
 
-**Requirements** You have the [[Conditions/Cursebound|Cursebound]] condition
+**Requirements** You have the [[Cursebound|Cursebound]] condition
 
 * * *
 

@@ -22,7 +22,7 @@ license: ORC
 
 
 
-The weight of authority falls heavily upon you, as well as nearby creatures. All enemies in a 15-foot burst within 60 feet take spirit damage damage equal to your level with a Will check save against your class DC. Any enemy that fails its save must immediately kneel, dropping [[Conditions/Prone|Prone]] as a free action.
+The weight of authority falls heavily upon you, as well as nearby creatures. All enemies in a 15-foot burst within 60 feet take spirit damage damage equal to your level with a Will check save against your class DC. Any enemy that fails its save must immediately kneel, dropping [[Prone|Prone]] as a free action.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-The well of psychic energy held within your mind can exceed the limitations of your physical body. You're restored to 1 Hit Point, lose the dying and [[Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal for losing the dying condition.
+The well of psychic energy held within your mind can exceed the limitations of your physical body. You're restored to 1 Hit Point, lose the dying and [[Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal for losing the dying condition.
 
 *Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

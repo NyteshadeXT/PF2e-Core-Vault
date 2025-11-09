@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-Your clockwork devices can commandeer the bodies of undead, bending them to your will. Make a melee Strike against an adjacent undead creature. On a success, instead of taking damage, the target becomes [[Conditions/Controlled|Controlled]] by you if its level is equal to or lower than your level - 3. It can attempt a Will check saving throw against the higher of your class DC or spell DC to resist being controlled by you. If the target is already under someone else's command, the controlling creature also rolls a saving throw, and the undead uses the better result.
+Your clockwork devices can commandeer the bodies of undead, bending them to your will. Make a melee Strike against an adjacent undead creature. On a success, instead of taking damage, the target becomes [[Controlled|Controlled]] by you if its level is equal to or lower than your level - 3. It can attempt a Will check saving throw against the higher of your class DC or spell DC to resist being controlled by you. If the target is already under someone else's command, the controlling creature also rolls a saving throw, and the undead uses the better result.
 
 * * *
 

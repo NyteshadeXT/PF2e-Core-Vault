@@ -26,7 +26,7 @@ _In the Shadows of Toil_ was originally an incomplete copy of a journal kept by 
 
 **Frequency** once per day
 
-**Effect** If your next action is to cast a necromancy spell that you prepared from this grimoire and that allows a saving throw, you infuse the magic with sensations of endless toil. If the target fails its saving throw against the spell, it becomes [[Conditions/Fatigued|Fatigued]] for 1 minute by the sense of exhaustion imbued in the magic.
+**Effect** If your next action is to cast a necromancy spell that you prepared from this grimoire and that allows a saving throw, you infuse the magic with sensations of endless toil. If the target fails its saving throw against the spell, it becomes [[Fatigued|Fatigued]] for 1 minute by the sense of exhaustion imbued in the magic.
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

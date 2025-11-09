@@ -23,7 +23,7 @@ license: ORC
 * * *
 Sometimes your deity requires you to act in the shadows, accomplishing things without drawing attention to yourself—or them.
 
-Once per day, when you roll Stealth for initiative at the start of a combat, you can choose to be [[Conditions/Invisible|Invisible]] for 1 minute. If you spend a Mythic Point while beginning the [[Actions/Avoid Notice|Avoid Notice]] exploration activity, you are invisible for as long as you continue to Avoid Notice.
+Once per day, when you roll Stealth for initiative at the start of a combat, you can choose to be [[Invisible|Invisible]] for 1 minute. If you spend a Mythic Point while beginning the [[Actions/Avoid Notice|Avoid Notice]] exploration activity, you are invisible for as long as you continue to Avoid Notice.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

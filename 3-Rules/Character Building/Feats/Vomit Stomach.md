@@ -19,13 +19,13 @@ license: ORC
 
 
 
-**Trigger** You gain the [[Conditions/Sickened|Sickened]] condition or fail a saving throw against an ingested poison.
+**Trigger** You gain the [[Sickened|Sickened]] condition or fail a saving throw against an ingested poison.
 
 **Frequency** once per day
 
 * * *
 
-In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[Conditions/Off-Guard|Off-Guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
+In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[Off-Guard|Off-Guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

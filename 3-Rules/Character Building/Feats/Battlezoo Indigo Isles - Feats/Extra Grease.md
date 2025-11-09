@@ -20,7 +20,7 @@ license: OGL
 * * *
 **Frequency** once per day
 
-**Trigger** You become [[Conditions/Grabbed|Grabbed]]
+**Trigger** You become [[Grabbed|Grabbed]]
 
 * * *
 

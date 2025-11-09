@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You move as fast and as high as the wind itself. You're permanently [[Conditions/Quickened|Quickened]].
+You move as fast and as high as the wind itself. You're permanently [[Quickened|Quickened]].
 
 You can use your extra action to Stride or [[Actions/Leap|Leap]], to provide one of the actions needed for a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]]
 

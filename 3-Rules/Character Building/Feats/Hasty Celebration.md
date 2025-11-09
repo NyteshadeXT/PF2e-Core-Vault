@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-After even the briefest success, you get caught up in the moment and begin to party, cheering your allies on. You grant all allies within 60 feet a +2 circumstance bonus to attack rolls and damage until the end of your next turn. Unfortunately, while you sing and dance, you aren't keeping an eye on your surroundings like you should, making you [[Conditions/Off-Guard|Off-Guard]] to all enemies until the end of your next turn as well.
+After even the briefest success, you get caught up in the moment and begin to party, cheering your allies on. You grant all allies within 60 feet a +2 circumstance bonus to attack rolls and damage until the end of your next turn. Unfortunately, while you sing and dance, you aren't keeping an eye on your surroundings like you should, making you [[Off-Guard|Off-Guard]] to all enemies until the end of your next turn as well.
 
 [[Feat_Feature Effects/Effect_ Hasty Celebration|Effect: Hasty Celebration]]
 

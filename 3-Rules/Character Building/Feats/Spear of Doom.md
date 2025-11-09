@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Warrior of Legend Dedication
 * * *
-**Requirements** An enemy hit you with an attack dealing the same damage type as your cursed weakness within the last round, and you are [[Conditions/Doomed|Doomed 1]] or greater.
+**Requirements** An enemy hit you with an attack dealing the same damage type as your cursed weakness within the last round, and you are [[Doomed|Doomed 1]] or greater.
 
 * * *
 

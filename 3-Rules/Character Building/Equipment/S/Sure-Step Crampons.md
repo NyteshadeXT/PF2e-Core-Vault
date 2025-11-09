@@ -28,7 +28,7 @@ _Sure-step crampons_ are sturdy leather boots with warm fur lining and magically
 
 * * *
 
-**Effect** You dig the crampons into the spot where you're standing, offering additional support until the next time you move. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] you. This bonus also applies to saving throws against spells or effects that attempt to move you or knock you [[Conditions/Prone|Prone]]. The bonus lasts until you move from your current spot.
+**Effect** You dig the crampons into the spot where you're standing, offering additional support until the next time you move. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to [[Actions/Shove|Shove]] or [[Actions/Trip|Trip]] you. This bonus also applies to saving throws against spells or effects that attempt to move you or knock you [[Prone|Prone]]. The bonus lasts until you move from your current spot.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

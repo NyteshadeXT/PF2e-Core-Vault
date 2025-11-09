@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-Your deep understanding of the crossbow allows you to reload efficiently while moving yourself out of the line of return fire. Either [[Actions/Create a Diversion|Create a Diversion]] or [[Actions/Take Cover|Take Cover]], then Interact to reload. As normal, you must meet the requirements to Take Cover; you must be [[Conditions/Prone|Prone]], benefiting from cover, or near a feature that allows you to Take Cover.
+Your deep understanding of the crossbow allows you to reload efficiently while moving yourself out of the line of return fire. Either [[Actions/Create a Diversion|Create a Diversion]] or [[Actions/Take Cover|Take Cover]], then Interact to reload. As normal, you must meet the requirements to Take Cover; you must be [[Prone|Prone]], benefiting from cover, or near a feature that allows you to Take Cover.
 
 *Source: Pathfinder Player Core*
 *ORC*

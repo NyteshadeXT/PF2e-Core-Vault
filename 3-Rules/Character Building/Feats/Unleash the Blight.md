@@ -25,7 +25,7 @@ You unleash the rot infecting you, spreading the blight to those nearby. All liv
 
 **Awakening** The blight is infectious. Creatures damaged by your blight take an additional 1d6 persistent void damage, as they begin to decompose.
 
-**Awakening** The blight is debilitating. Creatures damaged become [[Conditions/Drained|Drained 1]] for one round on a success, drained 1 for 1 minute on a failure, and [[Conditions/Drained|Drained 2]] for 1 minute on a critical failure.
+**Awakening** The blight is debilitating. Creatures damaged become [[Drained|Drained 1]] for one round on a success, drained 1 for 1 minute on a failure, and [[Drained|Drained 2]] for 1 minute on a critical failure.
 
 *Source: Pathfinder #202: Severed at the Root*
 *ORC*

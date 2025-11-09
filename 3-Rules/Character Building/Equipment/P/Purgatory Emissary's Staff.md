@@ -39,7 +39,7 @@ When used as a weapon, a purgatory emissary's staff is a _+2 striking ghost touc
 
 *   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]]
 *   **1st** [[Spells/Command|Command]], [[Spells/Sanctuary|Sanctuary]]
-*   **2nd** [[Spells/Clear Mind|Clear Mind]] ([[Conditions/Frightened|Frightened]] only), [[Spells/See the Unseen|See the Unseen]]
+*   **2nd** [[Spells/Clear Mind|Clear Mind]] ([[Frightened|Frightened]] only), [[Spells/See the Unseen|See the Unseen]]
 *   **3rd** [[Spells/Holy Light|Holy Light]], [[Spells/Ring of Truth|Ring of Truth]]
 *   **4th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Talking Corpse|Talking Corpse]]
 *   **5th** [[Spells/Banishment|Banishment]], [[Spells/Truespeech|Truespeech]]

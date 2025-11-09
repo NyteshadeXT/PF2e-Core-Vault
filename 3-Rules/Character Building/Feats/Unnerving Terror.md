@@ -35,11 +35,11 @@ You let out a mighty howl, chant of death, or speak with eerie repetition that p
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Frightened|Frightened 1]].
+**Success** The target is [[Frightened|Frightened 1]].
 
-**Failure** The target is frightened 1 and [[Conditions/Off-Guard|Off-Guard]].
+**Failure** The target is frightened 1 and [[Off-Guard|Off-Guard]].
 
-**Critical Failure** The target is [[Conditions/Frightened|Frightened 2]] and off-guard.
+**Critical Failure** The target is [[Frightened|Frightened 2]] and off-guard.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

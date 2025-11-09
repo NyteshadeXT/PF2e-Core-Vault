@@ -58,7 +58,7 @@ _Wintershot_ is a _+3 major striking greater frost holy composite shortbow_. Whe
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is surrounded by shimmering lights akin to the aurora, causing it to become [[Conditions/Dazzled|Dazzled]] for 2 rounds. If the creature was [[Conditions/Invisible|Invisible]], it becomes [[Conditions/Concealed|Concealed]] instead. If the creature was already concealed for any other reason, it's no longer concealed.
+**Success** The creature is surrounded by shimmering lights akin to the aurora, causing it to become [[Dazzled|Dazzled]] for 2 rounds. If the creature was [[Invisible|Invisible]], it becomes [[3-Rules/Conditions/Concealed|Concealed]] instead. If the creature was already concealed for any other reason, it's no longer concealed.
 
 **Failure** As success, but the creature also takes 6d6 persistent cold damage, and the lights affect the creature for 1 minute.
 
@@ -80,9 +80,9 @@ _Wintershot_ is a _+3 major striking greater frost holy composite shortbow_. Whe
 
 **Critical Success** The creature is unaffected
 
-**Success** The creature's discomfort and shivering from the sudden drop in temperature causes it to become [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn. Creatures that are immune to cold are immune to this effect.
+**Success** The creature's discomfort and shivering from the sudden drop in temperature causes it to become [[Off-Guard|Off-Guard]] until the start of its next turn. Creatures that are immune to cold are immune to this effect.
 
-**Failure** The creature becomes encrusted with ice. It becomes [[Conditions/Slowed|Slowed 1]] and off-guard for 1 minute, or until it Escapes from the crusting ice (DC 43).
+**Failure** The creature becomes encrusted with ice. It becomes [[Slowed|Slowed 1]] and off-guard for 1 minute, or until it Escapes from the crusting ice (DC 43).
 
 *Source: Pathfinder #212: A Voice in the Blight*
 *ORC*

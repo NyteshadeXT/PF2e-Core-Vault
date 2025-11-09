@@ -94,7 +94,7 @@ creatures:
 
 
 
-Most creatures who perish from the cold while cursed with blackfrost rise as zombies. Though mindless, blackfrost zombies are driven by the [[Conditions/Invisible|Invisible]] will of blackfrost to spread their foul curse.
+Most creatures who perish from the cold while cursed with blackfrost rise as zombies. Though mindless, blackfrost zombies are driven by the [[Invisible|Invisible]] will of blackfrost to spread their foul curse.
 
 * * *
 

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Non-lizardfolk creatures in difficult terrain are [[Conditions/Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
+Non-lizardfolk creatures in difficult terrain are [[Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

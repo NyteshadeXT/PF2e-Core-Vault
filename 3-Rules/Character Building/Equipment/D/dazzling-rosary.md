@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dazzling-rosary"
 aliases: "Dazzling Rosary"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "168"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,8 +26,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A [[Spells/Spiritual Weapon|Spiritual Weapon]] empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Conditions/Dazzled|Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of 4th level or below.  [[Equipment Effects/Effect_ Dazzling Rosary|Effect: Dazzling Rosary]]"
-powerTitle1:
+activate: "Cast a Spell"
+description: "When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A [[Spiritual Weapon]] empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of 4th level or below."
+powerTitle1: 
 actionEconomy1:
 type1:
 frequency1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

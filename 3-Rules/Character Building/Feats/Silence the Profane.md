@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Your training included instruction on how to prevent enemy priests from using their magic against you, a technique you have mastered and adapted. Make a Strike with your deity's favored weapon against the triggering creature. On a success, the target is [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn. The triggering spell is disrupted on a critical success, or on a success if the target is your hunted prey and the spell is a divine spell.
+Your training included instruction on how to prevent enemy priests from using their magic against you, a technique you have mastered and adapted. Make a Strike with your deity's favored weapon against the triggering creature. On a success, the target is [[Off-Guard|Off-Guard]] until the end of your next turn. The triggering spell is disrupted on a critical success, or on a success if the target is your hunted prey and the spell is a divine spell.
 
 * * *
 

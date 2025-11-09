@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You call forth the sleeping krakens of the deep to crush your enemies. You open a dozen small portals to some lightless, watery abyss in a 30-foot burst within 120 feet. The powerful tentacles of a kraken reach through to grab at each creature in the area. Each affected creature takes 8d6 untyped damage depending on its Fortitude check save against the higher of your class DC or spell DC. You can Sustain the call up to 1 minute. The first time you Sustain it on each subsequent turn, each creature in the area not already [[Conditions/Grabbed|Grabbed]] by the tentacles must attempt the save.
+You call forth the sleeping krakens of the deep to crush your enemies. You open a dozen small portals to some lightless, watery abyss in a 30-foot burst within 120 feet. The powerful tentacles of a kraken reach through to grab at each creature in the area. Each affected creature takes 8d6 untyped damage depending on its Fortitude check save against the higher of your class DC or spell DC. You can Sustain the call up to 1 minute. The first time you Sustain it on each subsequent turn, each creature in the area not already [[Grabbed|Grabbed]] by the tentacles must attempt the save.
 
 * * *
 

@@ -33,9 +33,9 @@ Typically used to fake one's death, this poison swiftly causes the imbiber to lo
 
 **Maximum Duration** 5 days
 
-**Stage 1** [[Conditions/Clumsy|Clumsy 2]] (1 round)
+**Stage 1** [[Clumsy|Clumsy 2]] (1 round)
 
-**Stage 2** [[Conditions/Unconscious|Unconscious]] (1 hour)
+**Stage 2** [[Unconscious|Unconscious]] (1 hour)
 
 **Stage 3** unconscious (1 day)
 

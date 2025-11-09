@@ -21,7 +21,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-When you critically hit with this weapon, the target becomes [[Conditions/Frightened|Frightened 2]].
+When you critically hit with this weapon, the target becomes [[Frightened|Frightened 2]].
 
 *Source: Pathfinder GM Core*
 *ORC*

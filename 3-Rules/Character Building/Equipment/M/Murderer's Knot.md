@@ -23,7 +23,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You damage an [[Conditions/Off-Guard|Off-Guard]] creature with a Strike using the affixed weapon
+**Trigger** You damage an [[Off-Guard|Off-Guard]] creature with a Strike using the affixed weapon
 
 * * *
 

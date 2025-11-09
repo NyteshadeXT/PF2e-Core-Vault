@@ -27,7 +27,7 @@ This beaded pendant crafted by Lyrune-Quah shamans features an uncut moonstone t
 
 * * *
 
-**Effect** Bright moonlight shines out of the gem in a 30-foot emanation, forcing hostile creatures in the area to make a DC 26 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 round.
+**Effect** Bright moonlight shines out of the gem in a 30-foot emanation, forcing hostile creatures in the area to make a DC 26 Fortitude check save or be [[Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder #208: Hoof, Cinder, and Storm*
 *ORC*

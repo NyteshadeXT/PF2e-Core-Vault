@@ -29,9 +29,9 @@ license: OGL
 
 **Critical Success** The creature is unaffected.
 
-**Success** The ravener tears off a small chunk of the creature's soul. If the victim is restored to life, they are [[Conditions/Drained|Drained 1]] in addition to any other side effects of returning to life. The ravener adds a number of Hit Points to their soul ward equal to half the creature's level.
+**Success** The ravener tears off a small chunk of the creature's soul. If the victim is restored to life, they are [[Drained|Drained 1]] in addition to any other side effects of returning to life. The ravener adds a number of Hit Points to their soul ward equal to half the creature's level.
 
-**Failure** As success, but the creature's soul is ravaged. The creature is [[Conditions/Drained|Drained 3]] and the ravener adds a number of Hit Points to their soul ward equal to the creature's level.
+**Failure** As success, but the creature's soul is ravaged. The creature is [[Drained|Drained 3]] and the ravener adds a number of Hit Points to their soul ward equal to the creature's level.
 
 **Critical Failure** As failure, but the ravener devours the entire soul. The victim can't be restored to life as long as the ravener exists except via a 10th-rank effect such as [[Spells/Miracle|Miracle]] or [[Spells/Wish|Wish]], and the ravener adds a number of Hit Points to their soul ward equal to twice the creature's level.
 

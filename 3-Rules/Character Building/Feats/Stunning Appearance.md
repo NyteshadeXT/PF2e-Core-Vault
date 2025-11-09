@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Startling Appearance
 * * *
-Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance, if your foe's level is equal to or lower than yours, they are also [[Conditions/Stunned|Stunned 1]] on a hit, or [[Conditions/Stunned|Stunned 2]] on a critical hit.
+Your sudden appearance leaves your foe unable to respond. When you use Startling Appearance, if your foe's level is equal to or lower than yours, they are also [[Stunned|Stunned 1]] on a hit, or [[Stunned|Stunned 2]] on a critical hit.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

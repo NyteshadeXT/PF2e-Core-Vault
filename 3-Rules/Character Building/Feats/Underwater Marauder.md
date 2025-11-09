@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Athletics
 * * *
-You've learned to fight underwater. You are not [[Conditions/Off-Guard|Off-Guard]] while in water, and you don't take the usual penalties for using a bludgeoning or slashing melee weapon in water.
+You've learned to fight underwater. You are not [[Off-Guard|Off-Guard]] while in water, and you don't take the usual penalties for using a bludgeoning or slashing melee weapon in water.
 
 *Source: Pathfinder Player Core*
 *ORC*

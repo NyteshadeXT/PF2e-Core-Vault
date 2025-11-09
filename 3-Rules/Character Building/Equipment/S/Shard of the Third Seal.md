@@ -17,7 +17,7 @@ license: OGL
 **Bulk** L; **Size** med
 **Usage** held-in-one-hand
 
-This stone fragment from the Third Seal retains a tiny sliver of that legendary item's power. The shard sheds light constantly, with the effects of a torch requiring no oxygen and generating no heat. The flame can be covered or [[Conditions/Hidden|Hidden]], but it can't be smothered or quenched.
+This stone fragment from the Third Seal retains a tiny sliver of that legendary item's power. The shard sheds light constantly, with the effects of a torch requiring no oxygen and generating no heat. The flame can be covered or [[Hidden|Hidden]], but it can't be smothered or quenched.
 
 * * *
 

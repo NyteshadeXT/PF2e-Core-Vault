@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Collateral Thrash
 * * *
-You whirl a foe to smash into all nearby creatures before throwing them far away. You [[Feats/Thrash|Thrash]]. During this Thrash, your [[Feats/Collateral Thrash|Collateral Thrash]] feat applies to all other enemies adjacent to you. You can then throw the [[Conditions/Grabbed|Grabbed]] creature 10 feet, where they fall [[Conditions/Prone|Prone]].
+You whirl a foe to smash into all nearby creatures before throwing them far away. You [[Feats/Thrash|Thrash]]. During this Thrash, your [[Feats/Collateral Thrash|Collateral Thrash]] feat applies to all other enemies adjacent to you. You can then throw the [[Grabbed|Grabbed]] creature 10 feet, where they fall [[Prone|Prone]].
 
 If the enemy you choose for Collateral Thrash is also adjacent to you, it attempts only one save and takes the damage only once.
 

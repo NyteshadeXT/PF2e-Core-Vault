@@ -17,7 +17,7 @@ license: OGL
 
 
 
-A path maiden has a fly Speed equal to her Speed but can't fly higher than 10 feet above the ground, and if she ends her turn above a nonsolid surface, she vanishes and rematerializes on the last space she occupied over solid ground and becomes [[Conditions/Stunned|Stunned 1]].
+A path maiden has a fly Speed equal to her Speed but can't fly higher than 10 feet above the ground, and if she ends her turn above a nonsolid surface, she vanishes and rematerializes on the last space she occupied over solid ground and becomes [[Stunned|Stunned 1]].
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

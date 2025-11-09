@@ -21,7 +21,7 @@ license: OGL
 
 **Trigger** You are about to attempt a check
 
-**Requirements** You are [[Conditions/Frightened|Frightened]]
+**Requirements** You are [[Frightened|Frightened]]
 
 * * *
 

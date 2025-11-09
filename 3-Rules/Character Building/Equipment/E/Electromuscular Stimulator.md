@@ -28,7 +28,7 @@ This rare gadget uses Stasian technology to grant someone a burst of activity, t
 
 * * *
 
-**Critical Success** You gain the [[Conditions/Quickened|Quickened]] condition for 1 minute and can use the extra action each round only to Stride or Strike.
+**Critical Success** You gain the [[Quickened|Quickened]] condition for 1 minute and can use the extra action each round only to Stride or Strike.
 
 **Success** As critical success, but you also take 3 persistent electricity damage.
 

@@ -25,7 +25,7 @@ This [[Equipment/Net|Net]] was woven by the jorogumo Injigo, who presented it as
 
 **Frequency** once per day
 
-**Effect** You spin the net in the direction of an incorporeal creature within 30 feet that you can see. Lines of silken force whip out to lash around the incorporeal creature, who must attempt a DC 25 Reflex check save to avoid becoming [[Conditions/Immobilized|Immobilized]] until the end of your next turn. You can Sustain this activation for up to 1 minute, and the creature must succeed at a DC 25 check to [[Actions/Escape|Escape]] the net.
+**Effect** You spin the net in the direction of an incorporeal creature within 30 feet that you can see. Lines of silken force whip out to lash around the incorporeal creature, who must attempt a DC 25 Reflex check save to avoid becoming [[Immobilized|Immobilized]] until the end of your next turn. You can Sustain this activation for up to 1 minute, and the creature must succeed at a DC 25 check to [[Actions/Escape|Escape]] the net.
 
 * * *
 

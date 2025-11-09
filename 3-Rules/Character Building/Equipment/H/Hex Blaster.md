@@ -45,11 +45,11 @@ This _+2 striking fearsome arquebus_ is composed of warped and twisted wood engr
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]]. It also takes 1d6 persistent mental damage.
+**Success** The creature is [[Frightened|Frightened 1]]. It also takes 1d6 persistent mental damage.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]]. It also takes 2d6 persistent mental damage.
+**Failure** The creature is [[Frightened|Frightened 2]]. It also takes 2d6 persistent mental damage.
 
-**Critical Failure** The creature is frightened 2 and [[Conditions/Slowed|Slowed 1]] for 1 minute. It also takes 4d6 persistent mental damage and is cursed with a hex of impending doom. If the target falls [[Conditions/Unconscious|Unconscious]] from damage dealt by this Strike or the persistent mental damage, it remains unconscious for 1 day or until this curse is removed. After 1 day, if the creature is still unconscious, it must succeed at a DC 28 Fortitude check save or die; this effect has the death and incapacitation traits.
+**Critical Failure** The creature is frightened 2 and [[Slowed|Slowed 1]] for 1 minute. It also takes 4d6 persistent mental damage and is cursed with a hex of impending doom. If the target falls [[Unconscious|Unconscious]] from damage dealt by this Strike or the persistent mental damage, it remains unconscious for 1 day or until this curse is removed. After 1 day, if the creature is still unconscious, it must succeed at a DC 28 Fortitude check save or die; this effect has the death and incapacitation traits.
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

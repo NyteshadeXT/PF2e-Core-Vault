@@ -21,7 +21,7 @@ license: ORC
 **Bulk** L; **Size** med
 **Usage** wornheadwear
 
-Lightning crackles from the wings flanking this helm, which is emblazoned with images of valkyries in the service of benevolent deities. You gain a +3 item bonus to Athletics checks and gain electricity resistance 20. When you invest in the helm, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher score. If you are unholy, you become [[Conditions/Drained|Drained 2]] as long as you wear the helm.
+Lightning crackles from the wings flanking this helm, which is emblazoned with images of valkyries in the service of benevolent deities. You gain a +3 item bonus to Athletics checks and gain electricity resistance 20. When you invest in the helm, you either increase your Strength modifier by 1 or increase it to +4, whichever would give you a higher score. If you are unholy, you become [[Drained|Drained 2]] as long as you wear the helm.
 
 **Activate—Path of the Pegasus** 10 minutes (concentrate)
 

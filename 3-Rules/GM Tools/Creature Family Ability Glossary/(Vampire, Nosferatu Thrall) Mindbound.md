@@ -17,7 +17,7 @@ license: OGL
 
 
 
-A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[Conditions/Controlled|Controlled]] condition, the thrall's master rolls a counteract check against it using their Dominate DC - 10 as the counteract check modifier.
+A nosferatu master exerts a fierce hold over their thrall's mind. If any creature other than the thrall's master targets them with an effect that would give them the [[Controlled|Controlled]] condition, the thrall's master rolls a counteract check against it using their Dominate DC - 10 as the counteract check modifier.
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

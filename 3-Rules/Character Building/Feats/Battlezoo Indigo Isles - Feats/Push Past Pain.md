@@ -19,7 +19,7 @@ license: OGL
 
 **Frequency** once per day
 
-**Requirements** You have the [[Conditions/Wounded|Wounded]] condition.
+**Requirements** You have the [[Wounded|Wounded]] condition.
 
 * * *
 

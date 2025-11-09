@@ -18,7 +18,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** etched-onto-weapon-wo-holy-rune
 
-A holy weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against an unholy target. If you are unholy, you are [[Conditions/Enfeebled|Enfeebled 2]] while carrying or wielding this weapon.
+A holy weapon commands powerful celestial energy. Strikes made with it gain the holy trait and deal an extra 1d4 spirit damage, or an extra 2d4 against an unholy target. If you are unholy, you are [[Enfeebled|Enfeebled 2]] while carrying or wielding this weapon.
 
 **Activate—Holy Healing** `pf2:r` (concentrate, healing, vitality)
 

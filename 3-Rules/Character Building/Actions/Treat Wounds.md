@@ -37,7 +37,7 @@ The result of your Medicine check determines how many Hit Points the target rega
 
 * * *
 
-**Critical Success** The target regains [[/r 4d8\[healing\] #Treat Wounds]] Hit Points and loses the [[Conditions/Wounded|Wounded]] condition.
+**Critical Success** The target regains [[/r 4d8\[healing\] #Treat Wounds]] Hit Points and loses the [[Wounded|Wounded]] condition.
 
 **Success** The target regains [[/r 2d8\[healing\] #Treat Wounds]] Hit Points, and loses the wounded condition.
 

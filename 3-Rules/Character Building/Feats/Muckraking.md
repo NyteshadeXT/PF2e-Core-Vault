@@ -26,7 +26,7 @@ license: ORC
 * * *
 It seems like your knowledge has come in handy after all and you have your enemy at your feet. Pulling out your fan mail, you read your fans' scathing remarks about your enemy to their face, letting them feel just how much everyone hates them and everything that they've done. They hate the way that they walk, they hate the way that they talk.
 
-Your enemy takes 10d10 mental damage, with a basic Will check save. On a critical failure, they're [[Conditions/Off-Guard|Off-Guard]] until the beginning of your next turn and lose all reactions, except to cry, loudly.
+Your enemy takes 10d10 mental damage, with a basic Will check save. On a critical failure, they're [[Off-Guard|Off-Guard]] until the beginning of your next turn and lose all reactions, except to cry, loudly.
 
 *Source: Paizo Blog: Foolish Housekeeping and Other Articles*
 *ORC*

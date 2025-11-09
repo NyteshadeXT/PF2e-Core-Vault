@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Seeing your ally's attack about to go astray, you fire your weapon to right its course. Discharge your firearm and roll a d20. Your ally uses this roll instead of their own, and the attack ignores any bonuses the target would gain against the attack from lesser or standard cover, as well as the flat check if the target is [[Conditions/Concealed|Concealed]].
+Seeing your ally's attack about to go astray, you fire your weapon to right its course. Discharge your firearm and roll a d20. Your ally uses this roll instead of their own, and the attack ignores any bonuses the target would gain against the attack from lesser or standard cover, as well as the flat check if the target is [[3-Rules/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

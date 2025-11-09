@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your broken bones jut at odd angles, yet this pain only adds to your anger and prowess. You add the combined value of your [[Conditions/Doomed|Doomed]] and [[Conditions/Wounded|Wounded]] conditions as a circumstance bonus to damage rolls with your melee attacks (for example, if you were doomed 1 and wounded 2, you would gain a +3 circumstance bonus to your melee damage rolls).
+Your broken bones jut at odd angles, yet this pain only adds to your anger and prowess. You add the combined value of your [[Doomed|Doomed]] and [[Wounded|Wounded]] conditions as a circumstance bonus to damage rolls with your melee attacks (for example, if you were doomed 1 and wounded 2, you would gain a +3 circumstance bonus to your melee damage rolls).
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

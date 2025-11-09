@@ -1,35 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Dawnlight"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/divine
-  - trait/uncommon
-aliases: "Compendium.pf2e.equipment-srd.Item.1tqyghMGI6PEYFGK"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "Dawnlight"
+aliases: "dawnlight"
+source: "Pathfinder Book of the Dead"
+pg: "18"
+rarity: "uncommon"
+trait01: "divine"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 3
+group: 
+bulk: "L"
+value: "60"
+subvalue: "gp"
+invest: 
+usage: "held in one hand"
+license: "OGL"
+identify: ""
+description: "This shining symbol of Sarenrae depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess."
+activate: ""
+craft: "You have a spellcasting class feature with the divine tradition."
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Cast a Spell"
+actionEconomy1: 
+type1: 
+frequency1: "once per day for each spell"
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "The _dawnlight_ casts 1st-rank [[Vitality Lash]] or [[3-Rules/Character Building/Spells/L/Light|Light]]. The _dawnlight_'s spell attack roll and counteract modifier are +7, and any spell with the light trait is treated as though its counteract rank were 1 higher for counteracting darkness."
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Dawnlight
-## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]]
 
 
-**Price** 60 gp; 
-**Bulk** L; **Size** med
-**Usage** held-in-one-hand
-
-This shining symbol of Sarenrae depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
-
-**Activate** Cast a Spell
-
-**Frequency** once per day for each spell
-
-* * *
-
-**Effect** The _dawnlight_ casts 1st-rank [[Spells/Vitality Lash|Vitality Lash]] or [[Spells/Light|Light]]. The _dawnlight_'s spell attack roll and counteract modifier are +7, and any spell with the light trait is treated as though its counteract rank were 1 higher for counteracting darkness.
-
-* * *
-
-**Craft Requirements** You have a spellcasting class feature with the divine tradition.
-
-*Source: Pathfinder Book of the Dead*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```

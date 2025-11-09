@@ -33,11 +33,11 @@ King's sleep is an insidious long-term poison that can seem like a disease or ev
 
 **Onset** 1 day
 
-**Stage 1** [[Conditions/Drained|Drained 1]] (1 day)
+**Stage 1** [[Drained|Drained 1]] (1 day)
 
-**Stage 2**[[Conditions/Drained|Drained 1]] (1 day)
+**Stage 2**[[Drained|Drained 1]] (1 day)
 
-**Stage 3** [[Conditions/Drained|Drained 2]] (1 day)
+**Stage 3** [[Drained|Drained 2]] (1 day)
 
 *Source: Pathfinder Player Core 2*
 *ORC*

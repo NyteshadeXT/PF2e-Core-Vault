@@ -25,33 +25,33 @@ Add one of the following to the debilitations from which you can choose when you
     
     **Stage 1** no effect
     
-    **Stage 2** [[Conditions/Clumsy|Clumsy 1]]
+    **Stage 2** [[Clumsy|Clumsy 1]]
     
-    **Stage 3** [[Conditions/Clumsy|Clumsy 2]]
+    **Stage 3** [[Clumsy|Clumsy 2]]
     
 *   **Devitalizing** (level 13) Reduce damage by 3 dice
     
     **Stage 1** no effect
     
-    **Stage 2** [[Conditions/Drained|Drained 1]]
+    **Stage 2** [[Drained|Drained 1]]
     
-    **Stage 3** [[Conditions/Drained|Drained 2]]
+    **Stage 3** [[Drained|Drained 2]]
     
 *   **Nauseating** (level 13) Reduce damage by 2 dice
     
     **Stage 1** no effect
     
-    **Stage 2** [[Conditions/Sickened|Sickened 1]]
+    **Stage 2** [[Sickened|Sickened 1]]
     
-    **Stage 3** [[Conditions/Sickened|Sickened 2]]
+    **Stage 3** [[Sickened|Sickened 2]]
     
 *   **Weakening** (level 13) Reduce damage by 1 die
     
-    **Stage 1** [[Conditions/Enfeebled|Enfeebled 1]]
+    **Stage 1** [[Enfeebled|Enfeebled 1]]
     
     **Stage 2** enfeebled 1
     
-    **Stage 3** [[Conditions/Enfeebled|Enfeebled 2]]
+    **Stage 3** [[Enfeebled|Enfeebled 2]]
     
 
 **Special** You can select this feat multiple times, choosing a different debilitation each time.

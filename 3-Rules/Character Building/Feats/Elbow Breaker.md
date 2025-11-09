@@ -20,11 +20,11 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
-You bend your opponent's body or limbs into agonizing positions that make it difficult for them to maintain their grip. Make an unarmed melee Strike against the creature you have [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. This Strike has the following effects in addition to its usual effects.
+You bend your opponent's body or limbs into agonizing positions that make it difficult for them to maintain their grip. Make an unarmed melee Strike against the creature you have [[Grabbed|Grabbed]] or [[Restrained|Restrained]]. This Strike has the following effects in addition to its usual effects.
 
 * * *
 

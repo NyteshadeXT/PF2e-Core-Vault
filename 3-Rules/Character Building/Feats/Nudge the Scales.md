@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nudge the Scales `pf2:1`
 ## Feat 1
-### [[cursebound]][[divine]][[healing]][[oracle]][[spirit]]
+### [[Cursebound]][[divine]][[healing]][[oracle]][[spirit]]
 
 **Category** class; 
 

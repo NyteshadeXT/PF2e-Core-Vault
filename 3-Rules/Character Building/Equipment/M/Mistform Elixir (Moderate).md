@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-A faint mist emanates from your skin, making you [[Conditions/Concealed|Concealed]] for 1 minute.
+A faint mist emanates from your skin, making you [[3-Rules/Conditions/Concealed|Concealed]] for 1 minute.
 
 As usual being concealed when your position is still obvious, you can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]].
 

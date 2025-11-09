@@ -30,7 +30,7 @@ license: ORC
 
 * * *
 
-"In lightning, there is life." This lesson is whispered throughout Lepidstadt, and you can put it to practical use. You have integrated a miniature Stasian coil into your healer's toolkit. You use the coil to gently shock a willing or [[Conditions/Unconscious|Unconscious]] ally within your reach, who gains 2d4 temporary Hit Points from the jolt. These temporary Hit Points last for 1 minute. These temporary Hit Points increase by 1d4 at 8th level and every 4 levels thereafter.
+"In lightning, there is life." This lesson is whispered throughout Lepidstadt, and you can put it to practical use. You have integrated a miniature Stasian coil into your healer's toolkit. You use the coil to gently shock a willing or [[Unconscious|Unconscious]] ally within your reach, who gains 2d4 temporary Hit Points from the jolt. These temporary Hit Points last for 1 minute. These temporary Hit Points increase by 1d4 at 8th level and every 4 levels thereafter.
 
 [[Feat_Feature Effects/Effect_ In Lightning, Life|Effect: In Lightning, Life]]
 

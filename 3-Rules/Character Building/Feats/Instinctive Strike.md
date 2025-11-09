@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Acute Scent or scent
 * * *
-You trust your instincts and your sense of smell, using all your senses to pinpoint your opponent's location. When you make a melee Strike against an opponent you're detecting using scent, ignore any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+You trust your instincts and your sense of smell, using all your senses to pinpoint your opponent's location. When you make a melee Strike against an opponent you're detecting using scent, ignore any flat check required due to the target being [[3-Rules/Conditions/Concealed|Concealed]] or [[Hidden|Hidden]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

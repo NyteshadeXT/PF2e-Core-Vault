@@ -26,7 +26,7 @@ This suit of _+2 resilient chain mail_ is made of fine white links of a strange 
 
 You gain a +1 circumstance bonus to AC and saving throws against fiends. You appear radiant while you wear the armor, giving you a +2 item bonus to Diplomacy checks against all creatures except fiends.
 
-If you're unholy, you're [[Conditions/Drained|Drained 2]] while wearing _holy chain_. You can't recover from this condition while wearing the armor.
+If you're unholy, you're [[Drained|Drained 2]] while wearing _holy chain_. You can't recover from this condition while wearing the armor.
 
 * * *
 

@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.
+You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is [[Off-Guard|Off-Guard]] until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.
 
 *Source: Pathfinder Player Core*
 *ORC*

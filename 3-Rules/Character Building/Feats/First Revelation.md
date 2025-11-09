@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Oracle Dedication
 * * *
-You gain your mystery's initial revelation spell. If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your [[Conditions/Cursebound|Cursebound]] value by 1.
+You gain your mystery's initial revelation spell. If you don't have one, you gain a focus pool of 1 Focus Point. You can Refocus by reconciling the conflicting nature of your mystery, which also reduces your [[Cursebound|Cursebound]] value by 1.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

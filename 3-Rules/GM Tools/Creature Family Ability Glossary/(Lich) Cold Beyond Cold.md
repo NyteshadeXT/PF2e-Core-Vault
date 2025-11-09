@@ -18,9 +18,9 @@ license: ORC
 
 
 
-The lich's hand Strike deals cold damage instead of void, and the target is [[Conditions/Slowed|Slowed 2]].
+The lich's hand Strike deals cold damage instead of void, and the target is [[Slowed|Slowed 2]].
 
-A successful Fortitude check save reduces this to [[Conditions/Slowed|Slowed 1]] (or negates it on a critical success).
+A successful Fortitude check save reduces this to [[Slowed|Slowed 1]] (or negates it on a critical success).
 
 *Source: Pathfinder Monster Core*
 *ORC*

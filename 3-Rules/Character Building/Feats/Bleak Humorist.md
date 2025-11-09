@@ -37,9 +37,9 @@ You've watched dozens of morbid comedies depicting Beldam I, Taldor's prankster 
 
 **Success** The target is distracted by giggles and can't use reactions until the beginning of your next turn.
 
-**Failure** The target laughs uncontrollably. It can't use reactions until the beginning of your next turn and is [[Conditions/Slowed|Slowed 1]].
+**Failure** The target laughs uncontrollably. It can't use reactions until the beginning of your next turn and is [[Slowed|Slowed 1]].
 
-**Critical Failure** As failure, but the target also immediately falls [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, but the target also immediately falls [[Prone|Prone]].
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

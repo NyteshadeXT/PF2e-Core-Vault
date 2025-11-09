@@ -35,7 +35,7 @@ The _Frost Fair Yanyuedao_ is a _+2 greater striking yanyuedao_ (use statistics 
 
 **Activate—Dragon Chill** `pf2:1` (manipulate)
 
-**Effect** Until the end of your turn, the _Frost Fair Yanyuedao_ gains the effects of a _[[Equipment/Frost (Greater)|Greater Frost]]_ rune. While under this effect, if you critically succeed at a Strike using this weapon against a creature who has resistance or immunity to cold, that creature must attempt a DC 31 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 minute.
+**Effect** Until the end of your turn, the _Frost Fair Yanyuedao_ gains the effects of a _[[Equipment/Frost (Greater)|Greater Frost]]_ rune. While under this effect, if you critically succeed at a Strike using this weapon against a creature who has resistance or immunity to cold, that creature must attempt a DC 31 Fortitude check save or be [[Slowed|Slowed 1]] for 1 minute.
 
 [[Equipment Effects/Effect_ Dragon Chill|Effect: Dragon Chill]]
 

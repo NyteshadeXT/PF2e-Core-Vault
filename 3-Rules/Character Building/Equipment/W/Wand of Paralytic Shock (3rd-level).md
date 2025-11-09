@@ -28,7 +28,7 @@ A two-pronged metal rod, this wand has a handle coated in thick rubber. Each pro
 
 * * *
 
-**Effect** You cast [[Spells/Paralyze|Paralyze]], electrocuting the target into immobility. Each target takes 1d12 electricity damage at the start of its turns while it remains stunned or [[Conditions/Paralyzed|Paralyzed]] due to the spell.
+**Effect** You cast [[Spells/Paralyze|Paralyze]], electrocuting the target into immobility. Each target takes 1d12 electricity damage at the start of its turns while it remains stunned or [[Paralyzed|Paralyzed]] due to the spell.
 
 * * *
 

@@ -22,7 +22,7 @@ license: OGL
 
 A creature damaged by the lich's hand Strike must succeed at a Fortitude check save against the lich's spell DC-4.
 
-The creature becomes [[Conditions/Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Conditions/Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive.
+The creature becomes [[Paralyzed|Paralyzed]] for 1 round on a failure. On a critical failure, the creature is paralyzed permanently, falls [[Prone|Prone]], and seems dead. A DC 25 Medicine check check reveals the victim is alive.
 
 *Source: Pathfinder Bestiary*
 *OGL*

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You attack in an unceasing flurry of charging headbutts. Stride or Climb and then make a ramming horn Strike. If the Strike is successful, you immediately push the target back 10 feet, then Stride or Climb and make a second ramming horn Strike against them. If the second Strike is successful, you immediately knock the target [[Conditions/Prone|Prone]], but if the second Strike is a failure or if you're unable to complete all the required actions, you become [[Conditions/Stunned|Stunned 1]].
+You attack in an unceasing flurry of charging headbutts. Stride or Climb and then make a ramming horn Strike. If the Strike is successful, you immediately push the target back 10 feet, then Stride or Climb and make a second ramming horn Strike against them. If the second Strike is successful, you immediately knock the target [[Prone|Prone]], but if the second Strike is a failure or if you're unable to complete all the required actions, you become [[Stunned|Stunned 1]].
 
 Both Strikes count toward your multiple attack penalty, but the penalty doesn't increase until you've made both of them.
 

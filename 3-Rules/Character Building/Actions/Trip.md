@@ -27,7 +27,7 @@ You try to knock a creature to the ground. Attempt an [[Actions/trip|trip]]{Athl
 
 * * *
 
-**Critical Success** The target falls, lands [[Conditions/Prone|Prone]], and takes 1d6 bludgeoning damage.
+**Critical Success** The target falls, lands [[Prone|Prone]], and takes 1d6 bludgeoning damage.
 
 **Success** The target falls and lands prone.
 

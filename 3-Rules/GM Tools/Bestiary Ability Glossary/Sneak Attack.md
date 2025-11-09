@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The creature's Strikes deal an additional 1d6 precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.
+The creature's Strikes deal an additional 1d6 precision damage to [[Off-Guard|Off-Guard]] creatures.
 
 *Source: Pathfinder Bestiary*
 *OGL*

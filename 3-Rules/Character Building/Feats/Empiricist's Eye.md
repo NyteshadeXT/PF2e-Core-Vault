@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** empiricism methodology
 * * *
-Sharp and piercing, your eyes see all and convey more. Your Point Out actions lose the auditory trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[Conditions/Off-Guard|Off-Guard]] to your allies until the start of your next turn.
+Sharp and piercing, your eyes see all and convey more. Your Point Out actions lose the auditory trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[Off-Guard|Off-Guard]] to your allies until the start of your next turn.
 
 * * *
 

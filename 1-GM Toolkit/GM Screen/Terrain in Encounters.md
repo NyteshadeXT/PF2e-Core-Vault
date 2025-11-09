@@ -15,9 +15,9 @@ tags:
 | **Difficult Terrain** | Each square costs 5 extra feet of movement |
 | **Greater Difficult Terrain** | Each square costs 10 extra feet of movement |
 | **Hazardous Terrain** | Moving through terrain deals damage. |
-| **Narrow Surface** | [[Conditions/Off-Guard\|Off-Guard]] and must [[Actions/Balance\|Balance]] to cross. When you're hit or fail a save, succeed at a Reflex save or fall. |
-| **Uneven Ground** | [[Conditions/Off-Guard\|Off-Guard]] and might need to [[Actions/Balance\|Balance]] or fall prone. When you're hit or fail a save, succeed at a Reflex save or fall. |
-| **Incline** | You need to [[Actions/Climb\|Climb]] to ascend an incline. You're [[Conditions/Off-Guard\|Off-Guard]] while Climbing. |
+| **Narrow Surface** | [[Off-Guard\|Off-Guard]] and must [[Actions/Balance\|Balance]] to cross. When you're hit or fail a save, succeed at a Reflex save or fall. |
+| **Uneven Ground** | [[Off-Guard\|Off-Guard]] and might need to [[Actions/Balance\|Balance]] or fall prone. When you're hit or fail a save, succeed at a Reflex save or fall. |
+| **Incline** | You need to [[Actions/Climb\|Climb]] to ascend an incline. You're [[Off-Guard\|Off-Guard]] while Climbing. |
 
 # Terrain
 
@@ -35,12 +35,12 @@ Hazardous terrain damages you whenever you move through it. An acid pool and a p
 
 ## Narrow Surfaces
 
-A narrow surface is so precariously thin that you need to [[Actions/Balance|Balance]] (see Acrobatics) or risk falling. Even on a success, you are [[Conditions/Off-Guard|Off-Guard]] on a narrow surface. Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the Acrobatics check to [[Actions/Balance|Balance]]) or fall.
+A narrow surface is so precariously thin that you need to [[Actions/Balance|Balance]] (see Acrobatics) or risk falling. Even on a success, you are [[Off-Guard|Off-Guard]] on a narrow surface. Each time you are hit by an attack or fail a save on a narrow surface, you must succeed at a Reflex save (with the same DC as the Acrobatics check to [[Actions/Balance|Balance]]) or fall.
 
 ## Uneven Ground
 
-Uneven ground is an area unsteady enough that you need to [[Actions/Balance|Balance]] (see Acrobatics) or risk falling [[Conditions/Prone|Prone]] and possibly injuring yourself, depending on the specifics of the uneven ground. You are [[Conditions/Off-Guard|Off-Guard]] on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to [[Actions/Balance|Balance]]) or fall prone.
+Uneven ground is an area unsteady enough that you need to [[Actions/Balance|Balance]] (see Acrobatics) or risk falling [[Prone|Prone]] and possibly injuring yourself, depending on the specifics of the uneven ground. You are [[Off-Guard|Off-Guard]] on uneven ground. Each time you are hit by an attack or fail a save on uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to [[Actions/Balance|Balance]]) or fall prone.
 
 ## Inclines
 
-An incline is an area so steep that you need to [[Actions/Climb|Climb]] using the Athletics skill in order to progress upward. You're [[Conditions/Off-Guard|Off-Guard]] hen [[Actions/Climb|Climbing]] an incline.
+An incline is an area so steep that you need to [[Actions/Climb|Climb]] using the Athletics skill in order to progress upward. You're [[Off-Guard|Off-Guard]] hen [[Actions/Climb|Climbing]] an incline.

@@ -28,9 +28,9 @@ You point out a detail that incontrovertibly supports your faith, causing a list
 
 * * *
 
-**Critical Success** The target is [[Conditions/Stupefied|Stupefied 2]] for 1 round.
+**Critical Success** The target is [[Stupefied|Stupefied 2]] for 1 round.
 
-**Success** The target is [[Conditions/Stupefied|Stupefied 1]] for 1 round.
+**Success** The target is [[Stupefied|Stupefied 1]] for 1 round.
 
 **Failure** The target is unaffected.
 

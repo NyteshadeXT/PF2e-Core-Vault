@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You grab your foe while it's distracted by your attack. The foe you hit becomes [[Conditions/Grabbed|Grabbed]], as if you had succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
+You grab your foe while it's distracted by your attack. The foe you hit becomes [[Grabbed|Grabbed]], as if you had succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

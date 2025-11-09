@@ -31,7 +31,7 @@ The spells granted by this awakened property are always primal.
 ### Path: Might
 *   **4th** Strikes with the weapon deal 1 additional piercing damage from thorns and pointed branches; this additional damage has the [[plant]] trait.
 *   **6th** The additional piercing damage increases to 1d4.
-*   **8th** The additional piercing damage increases to 1d6. On a critical hit, vines attempt to entangle the target; they must attempt a Reflex save against the weapon's DC. On a failure, they're [[immobilized]], and on a success they take a –10-foot circumstance penalty to their Speeds. Either condition ends after 1 round or if they spend an [[Interact]] action to remove the effect, whichever comes first.
+*   **8th** The additional piercing damage increases to 1d6. On a critical hit, vines attempt to entangle the target; they must attempt a Reflex save against the weapon's DC. On a failure, they're [[Immobilized]], and on a success they take a –10-foot circumstance penalty to their Speeds. Either condition ends after 1 round or if they spend an [[Interact]] action to remove the effect, whichever comes first.
 *   **12th** The additional piercing damage dealt by this awakened property ignores resistances. Even if the main weapon deals piercing damage, this benefit only applies to the additional damage.
 *   **14th** On a critical hit with the weapon, if the target succeeds at their saving throw, they take a –20-foot circumstance penalty to their Speeds, instead of a –10-foot circumstance penalty.
 *   **18th** The additional piercing damage increases to 1d8.
@@ -42,7 +42,7 @@ The spells granted by this awakened property are always primal.
 ### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent piercing damage as thorns and vines continue to sprout from within them; this additional damage has the [[plant]] trait.
 *   **6th** Strikes with the weapon deal 1 additional piercing damage from thorns and pointed branches; this additional damage has the [[plant]] trait.
-*   **8th** The persistent piercing damage on a hit increases to 1d6. On a critical hit, vines attempt to entangle the target; they must attempt a Reflex save against the weapon's DC. On a failure, they're [[immobilized]], and on a success they take a –10-foot circumstance penalty to their Speeds. Either condition ends after 1 round or if they spend an Interact action to remove the effect, whichever comes first.
+*   **8th** The persistent piercing damage on a hit increases to 1d6. On a critical hit, vines attempt to entangle the target; they must attempt a Reflex save against the weapon's DC. On a failure, they're [[Immobilized]], and on a success they take a –10-foot circumstance penalty to their Speeds. Either condition ends after 1 round or if they spend an Interact action to remove the effect, whichever comes first.
 *   **12th** The additional damage and persistent piercing damage dealt by this awakened property ignores resistances. Even if the main weapon deals piercing damage, this benefit only applies to the piercing damage from this awakened property.
 *   **14th** The persistent piercing damage on a hit increases to 1d8.
 *   **16th** Even on a normal hit, the vines on the target grow longer and impede their movement. They take a –5-foot circumstance penalty to their Speeds for 1 round, on until they spend an [[Interact]] action pulling off the vines to remove the effect, whichever comes first. On a successful Reflex save after a critical hit, the circumstance penalty increases to a –20-foot circumstance penalty.

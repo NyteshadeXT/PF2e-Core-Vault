@@ -20,8 +20,8 @@ license: OGL
 
 Carved in this wooden disc is a humanoid eye, painted in muted shades that blend in with the wood. The eye's pupil continually twitches and moves, scanning its bearer's surroundings.
 
-*   **Armor** (revelation) You aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures of the eye's level or lower, or creatures of the eye's level or lower using surprise attack, though you can still be flanked.
-*   **Weapon** When you make a Strike with the weapon against a target that's [[Conditions/Concealed|Concealed]], hidden, or undetected, the DC of your flat check to target it is 4 if the target is concealed or 10 if it's hidden or undetected.
+*   **Armor** (revelation) You aren't [[Off-Guard|Off-Guard]] to [[Hidden|Hidden]] or [[Undetected|Undetected]] creatures of the eye's level or lower, or creatures of the eye's level or lower using surprise attack, though you can still be flanked.
+*   **Weapon** When you make a Strike with the weapon against a target that's [[3-Rules/Conditions/Concealed|Concealed]], hidden, or undetected, the DC of your flat check to target it is 4 if the target is concealed or 10 if it's hidden or undetected.
 
 **Activate** Cast a Spell
 

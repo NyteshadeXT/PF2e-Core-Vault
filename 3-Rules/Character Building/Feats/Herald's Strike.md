@@ -28,11 +28,11 @@ The power of your blows can send your victim hurling through your deity's realm 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes 3d10 spirit damage and becomes [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The target takes 3d10 spirit damage and becomes [[Dazzled|Dazzled]] for 1 round.
 
-**Failure** The target takes 6d10 spirit damage and becomes dazzled for 1 round and [[Conditions/Drained|Drained 1]].
+**Failure** The target takes 6d10 spirit damage and becomes dazzled for 1 round and [[Drained|Drained 1]].
 
-**Critical Failure** The target takes 12d10 spirit damage and becomes [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Drained|Drained 2]].
+**Critical Failure** The target takes 12d10 spirit damage and becomes [[Blinded|Blinded]] for 1 round and [[Drained|Drained 2]].
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

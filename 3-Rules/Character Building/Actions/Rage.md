@@ -22,7 +22,7 @@ license: ORC
 
 
 
-**Requirements** You aren't [[Conditions/Fatigued|Fatigued]] or raging.
+**Requirements** You aren't [[Fatigued|Fatigued]] or raging.
 
 * * *
 
@@ -32,7 +32,7 @@ You tap into your inner fury and begin raging. You gain a number of temporary Hi
 *   You can't use actions with the concentrate trait unless they also have the rage trait. You can [[Actions/Seek|Seek]] while raging.
     
 
-Rage lasts for 1 minute, until you fall [[Conditions/Unconscious|Unconscious]], or until the encounter ends, whichever comes first. You can't voluntarily stop raging. When you stop raging, you lose any remaining temporary Hit Points from Rage, and can't gain temporary Hit Points from using the Rage action again for 1 minute.
+Rage lasts for 1 minute, until you fall [[Unconscious|Unconscious]], or until the encounter ends, whichever comes first. You can't voluntarily stop raging. When you stop raging, you lose any remaining temporary Hit Points from Rage, and can't gain temporary Hit Points from using the Rage action again for 1 minute.
 
 [[Feat_Feature Effects/Effect_ Rage Temporary Hit Points Immunity|Effect: Rage Temporary Hit Points Immunity]]
 

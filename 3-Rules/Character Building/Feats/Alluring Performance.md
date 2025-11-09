@@ -30,7 +30,7 @@ You command the attention of those around you with an elegant display. Attempt a
 
 * * *
 
-**Critical Success** The target is [[Conditions/Fascinated|Fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[Conditions/Dazzled|Dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
+**Critical Success** The target is [[Fascinated|Fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[Dazzled|Dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
 
 **Success** The target is fascinated for 1 round and is dazzled for 1 round.
 

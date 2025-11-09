@@ -31,11 +31,11 @@ You hook a foe's bootlaces together, pull their hat over their eyes, loosen thei
 
 * * *
 
-**Critical Success** The target is [[Conditions/Clumsy|Clumsy 1]] until they use an Interact action to end the impediment
+**Critical Success** The target is [[Clumsy|Clumsy 1]] until they use an Interact action to end the impediment
 
 **Success** As critical success, but the condition ends automatically after 1 round.
 
-**Critical Failure** You fall [[Conditions/Prone|Prone]] as your attempt backfires.
+**Critical Failure** You fall [[Prone|Prone]] as your attempt backfires.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

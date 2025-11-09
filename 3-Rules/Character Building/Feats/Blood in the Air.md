@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Requirements** An enemy you've damaged with a ranged weapon during the last minute is [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]] from you.
+**Requirements** An enemy you've damaged with a ranged weapon during the last minute is [[3-Rules/Conditions/Concealed|Concealed]] or [[Hidden|Hidden]] from you.
 
 * * *
 

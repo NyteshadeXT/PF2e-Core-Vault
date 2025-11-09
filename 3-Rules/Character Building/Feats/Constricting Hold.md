@@ -20,7 +20,7 @@ license: OGL
 
 
 
-**Requirements** Your eidolon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** Your eidolon has a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.
 

@@ -38,7 +38,7 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 **Deep-Seeded Fear** You gain a +2 status bonus to your Intimidation checks and don't take any penalties for not sharing a language when Demoralizing foes who can perceive your armament's essence form. When you manifest the essence form, you can attempt to Demoralize an enemy who can perceive the manifestation. _Corruption Flaw_ If you attempt to Demoralize an enemy, your Demoralize also targets the ally closest to you.
 
-**Determined Toughness** Any status penalties you take from the following conditions are 1 less than their condition's value: [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Stupefied|Stupefied]]. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC). _Corruption Flaw_ Whenever you take a status penalty from the listed conditions, you also take a -1 penalty to the same statistics.
+**Determined Toughness** Any status penalties you take from the following conditions are 1 less than their condition's value: [[Clumsy|Clumsy]], [[Drained|Drained]], [[Enfeebled|Enfeebled]], [[Frightened|Frightened]], [[Sickened|Sickened]], [[Stupefied|Stupefied]]. This doesn't change the actual condition value, or any other effects of the condition (such as stupefied's disruption and its DC). _Corruption Flaw_ Whenever you take a status penalty from the listed conditions, you also take a -1 penalty to the same statistics.
 
 **Harmful Malice** (void) Your Strikes deal an additional 1d4 void damage. Once while the armament is manifested, you can cast harm as an innate spell, with a level equal to half your level rounded up. _Corruption Flaw_ Reduce any damage you would deal by half your level.
 
@@ -52,7 +52,7 @@ Your soulforged armament has an essence power you choose when you first bind it.
 
 **Planar Pain** (evocation) Weapon only. When you manifest the essence form, choose one damage type: acid, cold, electricity, fire, sonic, spirit, vitality, or void. Attacks with the weapon deal this type of damage instead of their physical damage with a +2 status bonus to the damage. _Corruption Flaw_ When you deal damage with a weapon or unarmed attack, you take 2 damage of the last type you chose for planar pain, even if the damage type normally wouldn't harm you, such as spirit damage if you aren't evil.
 
-**Pull of Stasis** (transmutation) Weapon only. Any time you hit with the soulforged weapon, the target takes a -10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is [[Conditions/Immobilized|Immobilized]] for 1 round instead. _Corruption Flaw_ You take a -10-foot penalty to all your Speeds.
+**Pull of Stasis** (transmutation) Weapon only. Any time you hit with the soulforged weapon, the target takes a -10-foot penalty to its Speeds for 1 round. On a critical hit, the creature is [[Immobilized|Immobilized]] for 1 round instead. _Corruption Flaw_ You take a -10-foot penalty to all your Speeds.
 
 **Reflecting Spirit** Armor or shield only. You gain a +2 status bonus to AC against physical ranged attacks. If an enemy's physical ranged attack misses you, you can use your reaction to immediately attempt a ranged Strike against the attacker using the projectile that missed. _Corruption Flaw_ You have weakness 5 to physical ranged attacks.
 

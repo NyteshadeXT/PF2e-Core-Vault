@@ -36,7 +36,7 @@ You draw a card from your harrow deck just before you cast a spell to infuse you
 
 **Star** The spell's magic bolsters those it aids. This effect only enhances single-target spells cast on willing subjects. The magic restores Hit Points to the affected target equal to 2d6 + the spell's rank. If your harrow omen is Stars, the magic also grants the target a +2 status bonus to all saving throws until the start of your next turn.
 
-**Crown** The spell's magic is [[Conditions/Hidden|Hidden]] and subtle, and observers may not realize you're doing anything more than manipulating cards in your harrow deck. Attempt a Fortune-Telling Lore check against all observer's Perception DCs. If your check is successful against an observer's Perception DC, that observer doesn't notice you are Casting a Spell, even though normally spells have sensory manifestations. This hides only the spell's spellcasting actions and manifestations, not its effects. If your harrow omen is Crowns, you gain a +2 status bonus to your Fortune-Telling Lore check.
+**Crown** The spell's magic is [[Hidden|Hidden]] and subtle, and observers may not realize you're doing anything more than manipulating cards in your harrow deck. Attempt a Fortune-Telling Lore check against all observer's Perception DCs. If your check is successful against an observer's Perception DC, that observer doesn't notice you are Casting a Spell, even though normally spells have sensory manifestations. This hides only the spell's spellcasting actions and manifestations, not its effects. If your harrow omen is Crowns, you gain a +2 status bonus to your Fortune-Telling Lore check.
 
 *Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

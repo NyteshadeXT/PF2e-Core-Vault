@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You release a torrent of magic to fill the air with tiny, distracting explosions of light. All creatures within your _spellsurge_ aura become [[Conditions/Concealed|Concealed]], and all creatures outside the aura are concealed to creatures within it. However, you can ignore this concealment. This effect lasts until the end of your next turn, but you can extend the duration for an additional round by Sustaining it once per round.
+You release a torrent of magic to fill the air with tiny, distracting explosions of light. All creatures within your _spellsurge_ aura become [[3-Rules/Conditions/Concealed|Concealed]], and all creatures outside the aura are concealed to creatures within it. However, you can ignore this concealment. This effect lasts until the end of your next turn, but you can extend the duration for an additional round by Sustaining it once per round.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "deathless-light"
 aliases: "Deathless Light"
 source: "Pathfinder #172: Secrets of the Temple-City"
-pg: ""
-rarity: ""
+pg: "85"
+rarity: "uncommon"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` envision  * * *  This glowing piece of flesh increases the spell rank of a spell with the light trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [[Spells/Darkness|Darkness]] spell."
+activate: "`pf2:1` [[envision]]"
+description: "This glowing piece of flesh increases the spell rank of a spell with the light trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a [[3-Rules/Character Building/Spells/D/Darkness|Darkness]] spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

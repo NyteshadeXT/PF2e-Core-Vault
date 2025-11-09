@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Frighten Undead
 * * *
-Your very presence strikes fear into the undead. When you use [[Actions/Slayer's Identification|Slayer's Identification]] and succeed at your check, you can [[Feats/Frighten Undead|Frighten Undead]] as a free action, targeting the creature you identified. Any time you get a critical success to Frighten Undead, if the target's level is lower than yours, the target is [[Conditions/Fleeing|Fleeing]] for 1 round.
+Your very presence strikes fear into the undead. When you use [[Actions/Slayer's Identification|Slayer's Identification]] and succeed at your check, you can [[Feats/Frighten Undead|Frighten Undead]] as a free action, targeting the creature you identified. Any time you get a critical success to Frighten Undead, if the target's level is lower than yours, the target is [[Fleeing|Fleeing]] for 1 round.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

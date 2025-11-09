@@ -28,7 +28,7 @@ Most monsters that serve as mounts can attempt to buck off unwanted or annoying 
 
 * * *
 
-**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Conditions/Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall.
+**Effect** The triggering creature must succeed at a Reflex saving throw against the listed DC or fall off the creature and land [[Prone|Prone]]. If the save is a critical failure, the triggering creature also takes 1d6 bludgeoning damage in addition to the normal damage for the fall.
 
 *Source: Pathfinder Monster Core*
 *ORC*

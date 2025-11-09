@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You fall [[Conditions/Prone|Prone]].
+You fall [[Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

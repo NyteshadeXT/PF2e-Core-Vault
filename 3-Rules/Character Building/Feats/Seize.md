@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You seize your foe and pull it close. The foe you hit is [[Conditions/Grabbed|Grabbed]] as if you succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
+You seize your foe and pull it close. The foe you hit is [[Grabbed|Grabbed]] as if you succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

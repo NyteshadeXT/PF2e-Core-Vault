@@ -22,9 +22,9 @@ license: ORC
 * * *
 Choose physical invigoration or mental invigoration, and add the listed conditions to those you can choose for an invigorating elixir you create to counteract:
 
-**Physical Invigoration** [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]], [[Conditions/Drained|Drained]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]]
+**Physical Invigoration** [[Blinded|Blinded]], [[Deafened|Deafened]], [[Drained|Drained]], [[Paralyzed|Paralyzed]], [[Slowed|Slowed]]
 
-**Mental Invigoration** [[Conditions/Confused|Confused]], controlled, [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened|Frightened]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]].
+**Mental Invigoration** [[Confused|Confused]], controlled, [[Fleeing|Fleeing]], [[Frightened|Frightened]], [[Paralyzed|Paralyzed]], [[Slowed|Slowed]].
 
 * * *
 

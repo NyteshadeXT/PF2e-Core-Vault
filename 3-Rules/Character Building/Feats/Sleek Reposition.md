@@ -28,7 +28,7 @@ While your opponent is still recovering from your prior attack, you snag its arm
 
 This Strike has the following failure effect.
 
-**Failure** The target becomes [[Conditions/Off-Guard|Off-Guard]] until the end of your current turn.
+**Failure** The target becomes [[Off-Guard|Off-Guard]] until the end of your current turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/daikyu.md",
+                "file": "3-Rules/Character Building/Equipment/D/defoliation-bomb-(greater).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "daikyu"
+              "title": "defoliation-bomb-(greater)"
             }
           },
           {
-            "id": "76837705573d72a3",
+            "id": "fde64e2b314fe34d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
+          },
+          {
+            "id": "b67db7dc0f4b57fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,43 +289,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "76837705573d72a3",
+  "active": "f36016aa74a70f64",
   "lastOpenFiles": [
-    "3-Rules/Effects/Conditions/Wounded.md",
-    "3-Rules/Effects/Conditions/Unnoticed.md",
-    "3-Rules/Effects/Conditions/Unfriendly.md",
-    "3-Rules/Effects/Conditions/Undetected.md",
-    "3-Rules/Effects/Conditions/Unconscious.md",
-    "3-Rules/Effects/Conditions/Stupefied 1.md",
-    "3-Rules/Effects/Conditions/Stupefied.md",
-    "3-Rules/Effects/Conditions/Stunned 1.md",
-    "3-Rules/Effects/Conditions/Stunned.md",
-    "3-Rules/Effects/Conditions/Slowed.md",
-    "3-Rules/Effects/Conditions/Slowed 1.md",
-    "3-Rules/Effects/Conditions/Sickened.md",
-    "3-Rules/Effects/Conditions/Restrained.md",
-    "3-Rules/Effects/Conditions/Quickened.md",
-    "3-Rules/Effects/Conditions/Prone.md",
-    "3-Rules/Effects/Conditions/Petrified.md",
-    "3-Rules/Effects/Conditions/Persistent Damage.md",
-    "3-Rules/Effects/Conditions/Paralyzed.md",
-    "3-Rules/Effects/Conditions/Off-Guard.md",
-    "3-Rules/Effects/Conditions/Observed.md",
-    "3-Rules/Effects/Conditions/Invisible.md",
-    "3-Rules/Effects/Conditions/Indifferent.md",
-    "3-Rules/Effects/Conditions/Immobilized.md",
-    "3-Rules/Effects/Conditions/Hostile.md",
-    "3-Rules/Effects/Conditions/Hidden.md",
-    "3-Rules/Effects/Conditions/Helpful.md",
-    "zz-Attachments/cythbikian-staff.png",
-    "zz-Attachments/curious-teardrop.png",
-    "zz-Attachments/crystal-shards.png",
-    "zz-Attachments/crystal-ball.png",
-    "zz-Attachments/cruuk.png",
-    "zz-Attachments/crushing-bough-bracers.png",
-    "zz-Attachments/crescent-cross.png",
-    "zz-Attachments/covenant-tea.png",
-    "zz-Attachments/corset-knife.png",
+    "3-Rules/Character Building/Equipment/D/deflecting-branch.md",
+    "3-Rules/Character Building/Equipment/D/defiled-costa-greater.md",
+    "3-Rules/Character Building/Equipment/D/defiled-costa.md",
+    "3-Rules/Character Building/Equipment/D/deepdread-claw.md",
+    "3-Rules/Character Building/Equipment/D/deck-of-mischief.md",
+    "3-Rules/Character Building/Equipment/D/deck-of-many-things.md",
+    "3-Rules/Character Building/Equipment/D/deck-of-illusions.md",
+    "3-Rules/Character Building/Equipment/D/deck-of-harrowed-tales.md",
+    "3-Rules/Character Building/Equipment/D/decaying-(greater).md",
+    "3-Rules/Character Building/Equipment/D/decaying.md",
+    "3-Rules/Character Building/Equipment/D/decanter-of-endless-water.md",
+    "zz-Attachments/decanter-of-endless-water.png",
+    "3-Rules/Character Building/Equipment/D/deathstalk-mushroom.md",
+    "3-Rules/Character Building/Equipment/D/deathseeker.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/D/deathless-light.md",
+    "3-Rules/Character Building/Equipment/D/Deathless.md",
+    "3-Rules/Character Building/Equipment/D/deathdrinking.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/D/deathcap-powder.md",
+    "3-Rules/Character Building/Equipment/D/death-coil.md",
+    "3-Rules/Character Building/Equipment/D/deadweight-snare.md",
+    "3-Rules/Character Building/Equipment/E/execution-powder.md",
+    "3-Rules/Character Building/Equipment/D/deafening-music-box.md",
+    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-moderate.md",
+    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-major.md",
+    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-lesser.md",
+    "zz-Attachments/deadly-slashing-claws.png",
+    "zz-Attachments/image-4.png",
+    "zz-Attachments/image-3.png",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/image.png",
+    "zz-Attachments/image-1.png",
+    "zz-Attachments/dart-umbrella.png",
+    "zz-Attachments/dart-shield.png",
+    "zz-Attachments/dart.png",
     "3-Rules/Bestiaries/Uniques/Z",
     "3-Rules/Bestiaries/Uniques/T",
     "3-Rules/Bestiaries/Uniques/S",
@@ -330,7 +345,6 @@
     "3-Rules/Bestiaries/Adventure Paths/Kingmaker/Untitled 1.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled 1.canvas",
     "3-Rules/Bestiaries/Adventure Paths/Fists of the Ruby Phoenix/Untitled.canvas",
-    "3-Rules/Bestiaries/Adventure Paths/Extinction Curse/Untitled.canvas",
-    "zz-Attachments/parade-of-thieves.png"
+    "3-Rules/Bestiaries/Adventure Paths/Extinction Curse/Untitled.canvas"
   ]
 }

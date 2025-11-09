@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The Narlmarch Wardens are skilled hunters, but by taking a few of these archers out of the army's ranks and posting them on [[Conditions/Hidden|Hidden]] locations on rooftops or in trees throughout the battlefield, the PCs can maximize their potential.
+The Narlmarch Wardens are skilled hunters, but by taking a few of these archers out of the army's ranks and posting them on [[Hidden|Hidden]] locations on rooftops or in trees throughout the battlefield, the PCs can maximize their potential.
 
 * * *
 

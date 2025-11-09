@@ -30,9 +30,9 @@ license: ORC
 
 **Success** The target is unaffected and temporarily immune for 24 hours.
 
-**Failure** The target is [[Conditions/Clumsy|Clumsy 1]] for 1 minute.
+**Failure** The target is [[Clumsy|Clumsy 1]] for 1 minute.
 
-**Critical Failure** The target is [[Conditions/Clumsy|Clumsy 2]] for 1 minute.
+**Critical Failure** The target is [[Clumsy|Clumsy 2]] for 1 minute.
 
 *Source: Pathfinder Player Core*
 *ORC*

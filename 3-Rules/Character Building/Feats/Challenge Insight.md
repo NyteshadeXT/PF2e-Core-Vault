@@ -33,7 +33,7 @@ Your deep grasp of the mystical lets you know exactly what to say to make others
 
 Attempt a counteract check against the triggering spell. Your counteract rank is half your level rounded up. You use your Occultism modifier as your counteract modifier if the triggering spell is from the occult tradition, or your Religion modifier if the triggering spell is from the divine tradition.
 
-If you successfully counteract the spell, the caster becomes [[Conditions/Stupefied|Stupefied 1]] until the end of their next turn.
+If you successfully counteract the spell, the caster becomes [[Stupefied|Stupefied 1]] until the end of their next turn.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

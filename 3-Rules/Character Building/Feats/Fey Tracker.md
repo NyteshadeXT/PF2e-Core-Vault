@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Greenwatch Initiate
 * * *
-You are exceptionally skilled at noticing the subtle techniques fey use to avoid notice. You gain a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] fey creatures, to Perception checks to [[Actions/Seek|Seek]] for [[Conditions/Hidden|Hidden]] fey, and to your Perception DC to resist a fey creature's attempt to [[Actions/Create a Diversion|Create a Diversion]].
+You are exceptionally skilled at noticing the subtle techniques fey use to avoid notice. You gain a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] fey creatures, to Perception checks to [[Actions/Seek|Seek]] for [[Hidden|Hidden]] fey, and to your Perception DC to resist a fey creature's attempt to [[Actions/Create a Diversion|Create a Diversion]].
 
 *Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

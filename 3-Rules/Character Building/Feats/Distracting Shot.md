@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The sheer power of your attacks, or the overwhelming number of them, leaves an enemy flustered. If you critically hit your hunted prey with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, it's [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+The sheer power of your attacks, or the overwhelming number of them, leaves an enemy flustered. If you critically hit your hunted prey with a ranged weapon, or hit it at least twice on the same turn with a ranged weapon, it's [[Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -26,9 +26,9 @@ aliases: "Sonic"
 ### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent sonic damage
 *   **6th** Strikes with the weapon deal 1 additional sonic damage
-*   **8th** The persistent sonic damage increases to 1d6. On a critical hit, the target must succeed at a Fortitude save or be [[deafened]] for 1 minute, or 1 hour on a critical failure
+*   **8th** The persistent sonic damage increases to 1d6. On a critical hit, the target must succeed at a Fortitude save or be [[Deafened]] for 1 minute, or 1 hour on a critical failure
 *   **12th** The sonic damage dealt by this awakened property (including persistent sonic damage) ignores resistances
 *   **14th** The persistent sonic damage on a hit increases to 1d8
 *   **16th** The deafness is permanent and the target is also [[Stunned|Stunned 1]] on a failure or critical failure
 *   **18th** The persistent sonic damage on a hit increases to 1d10
-*   **20th** The sonic damage and persistent sonic damage create a sonic boom, affecting all creatures adjacent to the target with an AC lower than or equal to your attack roll. On a critical hit, all creatures that take sonic damage in this way must attempt the Fortitude save to avoid being [[deafened]] and [[stunned]]
+*   **20th** The sonic damage and persistent sonic damage create a sonic boom, affecting all creatures adjacent to the target with an AC lower than or equal to your attack roll. On a critical hit, all creatures that take sonic damage in this way must attempt the Fortitude save to avoid being [[Deafened]] and [[Stunned]]

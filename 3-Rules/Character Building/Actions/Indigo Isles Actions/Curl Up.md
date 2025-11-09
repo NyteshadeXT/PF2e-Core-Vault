@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The shale hatchling recoils into its carapace, gaining a +2 circumstance bonus to AC. It retains this bonus to AC and is [[Conditions/Slowed|Slowed 1]] until it uncurls by spending an action (this action has the move trait).
+The shale hatchling recoils into its carapace, gaining a +2 circumstance bonus to AC. It retains this bonus to AC and is [[Slowed|Slowed 1]] until it uncurls by spending an action (this action has the move trait).
 
 *Source: *
 *OGL*

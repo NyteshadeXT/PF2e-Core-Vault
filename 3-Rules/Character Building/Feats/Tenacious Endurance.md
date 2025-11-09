@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Beastmaster Dedication
 * * *
-You encourage your companion to refuse to yield, against even the mightiest of foes. When one of your animal companions is reduced to 0 Hit Points, if it isn't wounded, it can remain standing with 1 Hit Point and become [[Conditions/Wounded|Wounded 1]].
+You encourage your companion to refuse to yield, against even the mightiest of foes. When one of your animal companions is reduced to 0 Hit Points, if it isn't wounded, it can remain standing with 1 Hit Point and become [[Wounded|Wounded 1]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

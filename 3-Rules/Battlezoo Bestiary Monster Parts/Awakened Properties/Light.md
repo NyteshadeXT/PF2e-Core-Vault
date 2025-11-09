@@ -42,9 +42,9 @@ Choose when you first awaken the weapon for the granted spells to be either arca
 ### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent fire damage as the light continues to sear them; this additional damage has the [[3-Rules/Battlezoo Bestiary Monster Parts/Awakened Properties/Light]] trait.
 *   **6th** Strikes with the weapon deal 1 additional fire damage as the light warms from within; this additional damage has the [[3-Rules/Battlezoo Bestiary Monster Parts/Awakened Properties/Light]] trait.
-*   **8th** The persistent fire damage on a hit increases to 1d6. On a critical hit, the target must attempt a Fortitude save against the weapon's DC. On a failure, it's [[blinded]] by the light for 1 round.
+*   **8th** The persistent fire damage on a hit increases to 1d6. On a critical hit, the target must attempt a Fortitude save against the weapon's DC. On a failure, it's [[Blinded]] by the light for 1 round.
 *   **12th** The additional damage and persistent fire damage dealt by this awakened property ignores resistances.
 *   **14th** The persistent fire damage on a hit increases to 1d8.
-*   **16th** While suffering from the persistent fire damage, the light limns the creature, outlining it and preventing it from becoming [[concealed]] or becoming [[Invisible]]. A visible creature can't be concealed while suffering from the persistent fire damage; if the creature is invisible, it's concealed while suffering from the persistent fire damage, rather than being [[undetected]].
+*   **16th** While suffering from the persistent fire damage, the light limns the creature, outlining it and preventing it from becoming [[3-Rules/Conditions/Concealed]] or becoming [[Invisible]]. A visible creature can't be concealed while suffering from the persistent fire damage; if the creature is invisible, it's concealed while suffering from the persistent fire damage, rather than being [[Undetected]].
 *   **18th** The persistent fire damage on a hit increases to 1d10.
 *   **20th** The persistent light cancels out the darkness. Each time the target takes the persistent fire damage from this property, the light attempts to counteract one darkness effect on the target or the target's belongings with a counteract level of 10 and a counteract modifier of +33.

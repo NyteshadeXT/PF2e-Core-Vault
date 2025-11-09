@@ -26,9 +26,9 @@ license: ORC
 
 * * *
 
-The spirits you've invoked throughout your life have left behind echoes and spiritual fragments, which you can manifest across your own flesh, temporarily transforming you into something more akin to spirit than mortal. For 1 minute, you gain fast healing 5 and you become [[Conditions/Concealed|Concealed]]. You can't use this concealment to Hide. Your Strikes gain the benefits of a ghost touch property rune. Whenever you deal damage with a Strike, you can choose to have that Strike deal spirit damage, rather than its usual damage type.
+The spirits you've invoked throughout your life have left behind echoes and spiritual fragments, which you can manifest across your own flesh, temporarily transforming you into something more akin to spirit than mortal. For 1 minute, you gain fast healing 5 and you become [[3-Rules/Conditions/Concealed|Concealed]]. You can't use this concealment to Hide. Your Strikes gain the benefits of a ghost touch property rune. Whenever you deal damage with a Strike, you can choose to have that Strike deal spirit damage, rather than its usual damage type.
 
-If you would be knocked [[Conditions/Unconscious|Unconscious]] or your dying value would increase while One with the Spirits is active, the spirits revive you at the beginning of your next turn, restoring you to 30 Hit Points. One with the Spirits then immediately ends.
+If you would be knocked [[Unconscious|Unconscious]] or your dying value would increase while One with the Spirits is active, the spirits revive you at the beginning of your next turn, restoring you to 30 Hit Points. One with the Spirits then immediately ends.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

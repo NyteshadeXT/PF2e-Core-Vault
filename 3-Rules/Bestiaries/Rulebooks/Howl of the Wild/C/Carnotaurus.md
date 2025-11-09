@@ -81,4 +81,4 @@ creatures:
 
 
 
-This 2,000-pound predator lives up to its name by ramming its prey with its distinctive horns lowered, knocking them [[Conditions/Prone|Prone]], and viciously tearing into fallen victims before they can regain their footing. Do not let its size fool you; this massive dinosaur is deceptively quick when charging a potential meal. Aggressive and highly territorial, a carnotaurus will not hesitate to hunt down and slay any creature unlucky enough to cross its path.
+This 2,000-pound predator lives up to its name by ramming its prey with its distinctive horns lowered, knocking them [[Prone|Prone]], and viciously tearing into fallen victims before they can regain their footing. Do not let its size fool you; this massive dinosaur is deceptively quick when charging a potential meal. Aggressive and highly territorial, a carnotaurus will not hesitate to hunt down and slay any creature unlucky enough to cross its path.

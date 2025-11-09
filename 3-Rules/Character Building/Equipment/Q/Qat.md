@@ -38,7 +38,7 @@ The save for addiction to qat is DC 14 Fortitude check, but the maximum addictio
 
 [[Equipment Effects/Effect_ Qat (Stage 1)|Effect: Qat (Stage 1)]]
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 2** [[Stupefied|Stupefied 1]] (1 hour)
 
 *Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

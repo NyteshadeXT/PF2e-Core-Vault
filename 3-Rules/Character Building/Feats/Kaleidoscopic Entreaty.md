@@ -29,11 +29,11 @@ If your next action is to cast [[Spells/Entreat Spirit|Entreat Spirit]], you can
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled for 1 minute.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute.
+**Critical Failure** The creature is [[Blinded|Blinded]] for 1 round and dazzled for 1 minute.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** sneak attack
 * * *
-Your attacks deal more damage, even against creatures that aren't [[Conditions/Off-Guard|Off-Guard]]. When you succeed or critically succeed at a Strike against a creature that isn't off-guard, you also deal 1d6 precision damage. This applies only if you're using a weapon or unarmed attack you could deal sneak attack damage with.
+Your attacks deal more damage, even against creatures that aren't [[Off-Guard|Off-Guard]]. When you succeed or critically succeed at a Strike against a creature that isn't off-guard, you also deal 1d6 precision damage. This applies only if you're using a weapon or unarmed attack you could deal sneak attack damage with.
 
 At 14th level, if you would normally deal 3d6 or more sneak attack damage to off-guard creatures, you deal 2d6 precision damage to creatures that aren't off-guard.
 

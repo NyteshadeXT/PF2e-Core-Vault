@@ -42,11 +42,11 @@ Built from the larynx of a terror shrike, or similar animal that possesses a fri
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Failure** The creature is [[Frightened|Frightened 3]] and [[Fleeing|Fleeing]] for 1 round.
 
 * * *
 

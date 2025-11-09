@@ -29,7 +29,7 @@ license: ORC
 
 * * *
 
-You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[Conditions/Wounded|Wounded]] condition still increases by 1 as though they had been [[Conditions/Dying|Dying]] and recovered.
+You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[Wounded|Wounded]] condition still increases by 1 as though they had been [[Dying|Dying]] and recovered.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

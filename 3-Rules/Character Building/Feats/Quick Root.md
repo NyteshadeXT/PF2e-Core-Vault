@@ -19,7 +19,7 @@ license: ORC
 
 **Prerequisites** ardande trait, plant trait, or wood trait
 * * *
-**Trigger** A creature successfully Shoves or Trips you, or you fail a saving throw against an effect that would move you or knock you [[Conditions/Prone|Prone]].
+**Trigger** A creature successfully Shoves or Trips you, or you fail a saving throw against an effect that would move you or knock you [[Prone|Prone]].
 
 * * *
 

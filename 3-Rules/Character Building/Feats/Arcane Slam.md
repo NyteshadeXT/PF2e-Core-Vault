@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** warrior automaton
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 
@@ -28,7 +28,7 @@ You channel magical power from your core into your arm, empowering your attack a
 
 * * *
 
-**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[Conditions/Prone|Prone]], becomes [[Conditions/Dazzled|Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you.
+**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[Prone|Prone]], becomes [[Dazzled|Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer [[Grabbed|Grabbed]] or [[Restrained|Restrained]] by you.
 
 **Success** You slam the foe down. The creature is knocked prone and takes damage equal to your Strength modifier. The foe is no longer grabbed or restrained by you.
 

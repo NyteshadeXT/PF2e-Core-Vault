@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You cause your own burning embers to flare up, creating a thick plume of opaque smoke in a 5-foot emanation. You lose 1 Hit Point per level. All creatures within the affected area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke persists for 1 minute or until it is dispersed by a strong wind.
+You cause your own burning embers to flare up, creating a thick plume of opaque smoke in a 5-foot emanation. You lose 1 Hit Point per level. All creatures within the affected area are [[3-Rules/Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke persists for 1 minute or until it is dispersed by a strong wind.
 
 *Source: *
 *OGL*

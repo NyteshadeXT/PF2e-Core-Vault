@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-As you're hit, you emit a dense cloud of pollen, obscuring you from sight. You become [[Conditions/Concealed|Concealed]] until the beginning of your next turn.
+As you're hit, you emit a dense cloud of pollen, obscuring you from sight. You become [[3-Rules/Conditions/Concealed|Concealed]] until the beginning of your next turn.
 
 * * *
 

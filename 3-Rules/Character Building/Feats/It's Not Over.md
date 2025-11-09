@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-In the world of drama, the finale of any performance doesn't have to be the end, and for you, this now extends to life itself. When damage reduces you to 0 Hit Points, you can use this reaction to suddenly spring back into action. Instead of gaining the dying condition and falling [[Conditions/Unconscious|Unconscious]], you regain a number of Hit Points equal to 10 + your level + your Constitution modifier.
+In the world of drama, the finale of any performance doesn't have to be the end, and for you, this now extends to life itself. When damage reduces you to 0 Hit Points, you can use this reaction to suddenly spring back into action. Instead of gaining the dying condition and falling [[Unconscious|Unconscious]], you regain a number of Hit Points equal to 10 + your level + your Constitution modifier.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

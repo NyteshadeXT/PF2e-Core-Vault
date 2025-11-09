@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "defiled-costa"
 aliases: "Defiled Costa"
 source: "Pathfinder Lost Omens Impossible Lands"
-pg: ""
-rarity: ""
+pg: "177"
+rarity: "rare"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` envision  * * *  This still-bloody rib was taken from a priest of Urgathoa at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [[Spells/Mask of Terror|Mask of Terror]] spell cast using this catalyst, it also takes 6d10 mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail."
+activate: "`pf2:1` [[envision]]"
+description: "This still-bloody rib was taken from a priest of Urgathoa at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a [[Mask of Terror]] spell cast using this catalyst, it also takes `dice: 6d10` mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

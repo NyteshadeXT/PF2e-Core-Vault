@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The sun burns you for your transgression. You receive a sunburn that causes you to become permanently [[Conditions/Clumsy|Clumsy 1]].
+The sun burns you for your transgression. You receive a sunburn that causes you to become permanently [[Clumsy|Clumsy 1]].
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

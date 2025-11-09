@@ -32,7 +32,7 @@ You attempt to steal a section of Kothogaz's heart. Attempt an attack roll or a 
 
 **Failure** You take Kothogaz's Swallow Whole damage.
 
-**Critical Failure** You take double Kothogaz's Swallow Whole damage and are [[Conditions/Deafened|Deafened]] by its heartbeat for 1 minute.
+**Critical Failure** You take double Kothogaz's Swallow Whole damage and are [[Deafened|Deafened]] by its heartbeat for 1 minute.
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

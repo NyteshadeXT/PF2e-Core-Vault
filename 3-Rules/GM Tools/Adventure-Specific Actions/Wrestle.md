@@ -17,7 +17,7 @@ license: OGL
 
 
 
-You make a claw Strike against a creature [[Conditions/Grabbed|Grabbed]] or otherwise [[Conditions/Restrained|Restrained]] by you. If you hit, you deal damage as usual and that creature is knocked [[Conditions/Prone|Prone]].
+You make a claw Strike against a creature [[Grabbed|Grabbed]] or otherwise [[Restrained|Restrained]] by you. If you hit, you deal damage as usual and that creature is knocked [[Prone|Prone]].
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

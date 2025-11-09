@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Thorough Research
 * * *
-You fundamentally understand everything to the point where your research can't possibly be wrong. You are permanently [[Conditions/Quickened|Quickened]] and can use the extra action to Recall Knowledge. In addition, you gain the following benefits with Recall Knowledge.
+You fundamentally understand everything to the point where your research can't possibly be wrong. You are permanently [[Quickened|Quickened]] and can use the extra action to Recall Knowledge. In addition, you gain the following benefits with Recall Knowledge.
 
 *   Your checks to Recall Knowledge are no longer secret.
 *   When you Recall Knowledge, you use the outcome for one degree of success better than the result of your check.

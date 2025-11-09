@@ -30,7 +30,7 @@ license: ORC
 
 * * *
 
-You dramatically cry out in poetic verse about the tragedies that led to your doom at this very moment, instilling guilt in your attacker. The Strike deals normal damage rather than critical damage as your foe relents on their attack at the last moment as they're moved by your words, though other effects that happen on a critical hit still occur. The creature that made the triggering Strike must then succeed on a Will check save against your Class DC or be [[Conditions/Slowed|Slowed 1]] for 1 round by guilt at its actions against you.
+You dramatically cry out in poetic verse about the tragedies that led to your doom at this very moment, instilling guilt in your attacker. The Strike deals normal damage rather than critical damage as your foe relents on their attack at the last moment as they're moved by your words, though other effects that happen on a critical hit still occur. The creature that made the triggering Strike must then succeed on a Will check save against your Class DC or be [[Slowed|Slowed 1]] for 1 round by guilt at its actions against you.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

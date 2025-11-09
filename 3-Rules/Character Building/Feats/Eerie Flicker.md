@@ -19,7 +19,7 @@ license: OGL
 
 
 
-**Trigger** An enemy's Strike would hit you and you weren't already [[Conditions/Concealed|Concealed]], [[Conditions/Hidden|Hidden]], or [[Conditions/Undetected|Undetected]] by that enemy.
+**Trigger** An enemy's Strike would hit you and you weren't already [[3-Rules/Conditions/Concealed|Concealed]], [[Hidden|Hidden]], or [[Undetected|Undetected]] by that enemy.
 
 * * *
 
@@ -27,7 +27,7 @@ Your body flickers momentarily into the Ethereal Plane. You become concealed for
 
 * * *
 
-**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[Conditions/Frightened|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
+**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[Frightened|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
 
 * * *
 

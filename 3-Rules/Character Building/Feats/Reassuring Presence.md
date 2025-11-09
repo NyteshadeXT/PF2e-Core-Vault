@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[Conditions/Frightened|Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
+You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[Frightened|Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
 
 *Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

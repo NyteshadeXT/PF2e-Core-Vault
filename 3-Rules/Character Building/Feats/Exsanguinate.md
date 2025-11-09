@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-After one of your attacks, you direct your foe's blood to spray upon you, infusing you with life energy. You gain a number of sanguimancy HP equal to half your level that last only until the end of your next turn. Exsanguinate works only against active foes who are able to act and aren't [[Conditions/Restrained|Restrained]].
+After one of your attacks, you direct your foe's blood to spray upon you, infusing you with life energy. You gain a number of sanguimancy HP equal to half your level that last only until the end of your next turn. Exsanguinate works only against active foes who are able to act and aren't [[Restrained|Restrained]].
 
 *Source: Pathfinder #213: Thirst for Blood*
 *ORC*

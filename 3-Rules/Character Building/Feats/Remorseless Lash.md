@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You're skilled at beating an enemy when their morale is already breaking. When you succeed at a melee weapon Strike against a [[Conditions/Frightened|Frightened]] enemy, that enemy can't reduce their frightened condition below 1 until the beginning of your next turn.
+You're skilled at beating an enemy when their morale is already breaking. When you succeed at a melee weapon Strike against a [[Frightened|Frightened]] enemy, that enemy can't reduce their frightened condition below 1 until the beginning of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

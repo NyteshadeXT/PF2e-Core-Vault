@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** In Lightning, Life
 * * *
-Charging a living body with electricity may seem like a bad idea, but you know better. When a creature gains temporary Hit Points from your In Lightning, Life, they gain the [[Conditions/Quickened|Quickened]] condition until the end of their next turn. They can use the extra action only for Stride and Strike actions.
+Charging a living body with electricity may seem like a bad idea, but you know better. When a creature gains temporary Hit Points from your In Lightning, Life, they gain the [[Quickened|Quickened]] condition until the end of their next turn. They can use the extra action only for Stride and Strike actions.
 
 *Source: Pathfinder Lost Omens Rival Academies*
 *ORC*

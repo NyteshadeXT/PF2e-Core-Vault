@@ -21,7 +21,7 @@ license: ORC
 
 
 
-**Requirements** A creature within your reach is [[Conditions/Prone|Prone]] or swimming.
+**Requirements** A creature within your reach is [[Prone|Prone]] or swimming.
 
 * * *
 
@@ -31,9 +31,9 @@ You summon the explosive power of a geyser beneath a foe. The required creature 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Sickened|Sickened 1]].
+**Success** The target is [[Sickened|Sickened 1]].
 
-**Failure** The target is [[Conditions/Sickened|Sickened 2]]. If you have a free hand and they are not larger than you, you can attempt an Athletics check to [[Actions/Grapple|Grapple]] them as a free action.
+**Failure** The target is [[Sickened|Sickened 2]]. If you have a free hand and they are not larger than you, you can attempt an Athletics check to [[Actions/Grapple|Grapple]] them as a free action.
 
 **Critical Failure** As failure, but if you succeed at the Athletics check to Grapple them, you get a critical success instead.
 

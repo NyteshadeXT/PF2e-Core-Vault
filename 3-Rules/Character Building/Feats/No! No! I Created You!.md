@@ -24,7 +24,7 @@ license: ORC
 * * *
 **Frequency** once per minute
 
-**Trigger** Your construct companion would become [[Conditions/Confused|Confused]] or [[Conditions/Controlled|Controlled]].
+**Trigger** Your construct companion would become [[Confused|Confused]] or [[Controlled|Controlled]].
 
 * * *
 

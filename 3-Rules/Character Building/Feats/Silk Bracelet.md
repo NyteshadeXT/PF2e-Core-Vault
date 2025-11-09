@@ -37,7 +37,7 @@ Taking inspiration from Desna's image as a giant silk moth in Tian Xia, you've a
 
 **Failure** As success, and the target takes an additional 0d4 persistent poison damage. The poison damage increases to 2d4 at 12th level and 3d4 at 18th level.
 
-**Critical Failure** As failure, and the target is [[Conditions/Immobilized|Immobilized]] until the end of their next turn.
+**Critical Failure** As failure, and the target is [[Immobilized|Immobilized]] until the end of their next turn.
 
 * * *
 

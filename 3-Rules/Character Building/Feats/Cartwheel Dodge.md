@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Provocator Dedication
 * * *
-**Requirements** You aren't [[Conditions/Encumbered|Encumbered]] or overburdened.
+**Requirements** You aren't [[Encumbered|Encumbered]] or overburdened.
 
 **Trigger** You succeed or critically succeed at a Reflex saving throw.
 

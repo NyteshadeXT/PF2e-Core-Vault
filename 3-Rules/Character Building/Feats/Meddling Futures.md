@@ -14,7 +14,7 @@ license: ORC
 ---
 # Meddling Futures `pf2:0`
 ## Feat 2
-### [[cursebound]][[divine]][[oracle]]
+### [[Cursebound]][[divine]][[oracle]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 You open yourself to the guidance of whatever spirits or powers deign to help you. Roll 1d4 to see what type of spirit is drawn to you. Your next action must be the type of action the spirit prefers, but you also gain the listed benefit for the action as the spirit guides you. If you attempt to use a different action, you must succeed at a DC 6 Flat check or the action is lost.
 
-**1 Warrior** You must attempt a Strike. You gain a +1 status bonus to your attack roll and a +2 status bonus to damage, or a +6 status bonus to damage if you are at least [[Conditions/Cursebound|Cursebound 3]].
+**1 Warrior** You must attempt a Strike. You gain a +1 status bonus to your attack roll and a +2 status bonus to damage, or a +6 status bonus to damage if you are at least [[Cursebound|Cursebound 3]].
 
 **2 Adept** You must attempt a Perception check or a skill action. You gain a +1 status bonus to the check, or a +2 status bonus if you are cursebound 3.
 

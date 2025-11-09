@@ -18,7 +18,7 @@ license: ORC
 
 
 
-The martial artist pulls out a [[Conditions/Concealed|Concealed]] alchemical vial of mutagen and drinks it to improve their combat prowess. The item is usually a [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]], or [[Equipment/Quicksilver Mutagen (Lesser)|Quicksilver Mutagen (Lesser)]]. This ability can't be used again until the martial artist has time to acquire and hide a new mutagen. Some martial artists use concealed small vials, but others hide a syringe or soak the alchemical liquid into a garment they can put in their mouth.
+The martial artist pulls out a [[3-Rules/Conditions/Concealed|Concealed]] alchemical vial of mutagen and drinks it to improve their combat prowess. The item is usually a [[Equipment/Juggernaut Mutagen (Lesser)|Juggernaut Mutagen (Lesser)]], or [[Equipment/Quicksilver Mutagen (Lesser)|Quicksilver Mutagen (Lesser)]]. This ability can't be used again until the martial artist has time to acquire and hide a new mutagen. Some martial artists use concealed small vials, but others hide a syringe or soak the alchemical liquid into a garment they can put in their mouth.
 
 *Source: Pathfinder NPC Core*
 *ORC*

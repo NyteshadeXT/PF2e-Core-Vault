@@ -38,15 +38,15 @@ The save for addiction to succubus kiss is DC 28 Fortitude check, and the addict
 
 [[Equipment Effects/Effect_ Succubus Kiss (Stage 1)|Effect: Succubus Kiss (Stage 1)]]
 
-**Stage 2** as stage 1 plus [[Conditions/Drained|Drained 1]] (1 hour)
+**Stage 2** as stage 1 plus [[Drained|Drained 1]] (1 hour)
 
 [[Equipment Effects/Effect_ Succubus Kiss (Stage 2)|Effect: Succubus Kiss (Stage 2)]]
 
-**Stage 3** as stage 2 plus [[Conditions/Blinded|Blindness]] or [[Conditions/Deafened|Deafness]] (1 hour)
+**Stage 3** as stage 2 plus [[Blinded|Blindness]] or [[Deafened|Deafness]] (1 hour)
 
 **Stage 4** blindness and deafness (1 hour)
 
-**Stage 5** [[Conditions/Unconscious|Unconscious]]
+**Stage 5** [[Unconscious|Unconscious]]
 
 *Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

@@ -25,7 +25,7 @@ license: OGL
 
 
 
-Geometric patterns are etched into the smooth brown and gray surface of a staff of earth, which makes a solid thud whenever tapped against the ground. While wielding a staff of earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that [[Actions/Shove|Shove]] you or knock you [[Conditions/Prone|Prone]].
+Geometric patterns are etched into the smooth brown and gray surface of a staff of earth, which makes a solid thud whenever tapped against the ground. While wielding a staff of earth, you gain a +1 circumstance bonus to your Fortitude saves and DC against effects that [[Actions/Shove|Shove]] you or knock you [[Prone|Prone]].
 
 * * *
 

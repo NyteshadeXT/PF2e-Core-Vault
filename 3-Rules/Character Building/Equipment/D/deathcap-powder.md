@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "deathcap-powder"
 aliases: "Deathcap Powder"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 33 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 6 minutes  **Stage 1** 7d8 poison damage (1 minute)  **Stage 2** 9d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 minute)  **Stage 3** 8d10 poison damage and [[Conditions/Sickened|Sickened 3]] (1 minute)"
+activate: "`pf2:1` ([[manipulate]])"
+description: "The toxic deathcap mushroom can be dried, ground, and treated to form a flavorless powder with accelerated effects.<br><br>**Saving Throw** DC 33 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 6 minutes  **Stage 1** `dice: 7d8` poison damage (1 minute)  **Stage 2** `dice: 9d6` poison damage and [[Sickened|Sickened 2]] (1 minute)  **Stage 3** `dice: 8d10` poison damage and [[Sickened|Sickened 3]] (1 minute)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -48,9 +48,9 @@ The save for addiction to grit is DC 15 Fortitude check, and the addiction has t
 
 **Stage 4** as stage 3 (1 hour)
 
-**Stage 5** [[Conditions/Confused|Confusion]] (1 round)
+**Stage 5** [[Confused|Confusion]] (1 round)
 
-**Stage 6** [[Conditions/Unconscious|Unconscious]] (remaining duration)
+**Stage 6** [[Unconscious|Unconscious]] (remaining duration)
 
 *Source: Pathfinder Lost Omens Absalom, City of Lost Omens*
 *OGL*

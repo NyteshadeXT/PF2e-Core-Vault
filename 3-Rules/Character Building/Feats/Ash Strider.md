@@ -26,7 +26,7 @@ license: OGL
 
 
 
-You discorporate into a cloud of whirling ash and Stride. If you have a fly Speed, you can Fly instead. This movement doesn't trigger reactions, you can move through occupied spaces and tiny cracks, and you ignore any difficult terrain and greater difficult terrain that wouldn't impede smoke. The first creature you pass through during this movement takes 0d6 fire damage with a Reflex check save against your class DC. Ash lingers around you after your movement is complete, making you [[Conditions/Concealed|Concealed]] until the start of your next turn.
+You discorporate into a cloud of whirling ash and Stride. If you have a fly Speed, you can Fly instead. This movement doesn't trigger reactions, you can move through occupied spaces and tiny cracks, and you ignore any difficult terrain and greater difficult terrain that wouldn't impede smoke. The first creature you pass through during this movement takes 0d6 fire damage with a Reflex check save against your class DC. Ash lingers around you after your movement is complete, making you [[3-Rules/Conditions/Concealed|Concealed]] until the start of your next turn.
 
 * * *
 

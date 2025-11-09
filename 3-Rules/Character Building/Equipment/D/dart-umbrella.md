@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dart-umbrella"
 aliases: "Dart Umbrella"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "63"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "concealable"
 trait03: "nonlethal"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -23,6 +23,7 @@ weight: 1
 value: "1"
 subvalue: "gp"
 invest:
+group: "Dart"
 usage: "held in one hand "
 license: "ORC"
 identify:
@@ -45,14 +46,14 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 30 ft
-ammoType:
-damage: 1 piercing
-dmg1:
-dmg1Type:
+ammoType: "Dart"
+damage: 
+dmg1: 1
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Ranged
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

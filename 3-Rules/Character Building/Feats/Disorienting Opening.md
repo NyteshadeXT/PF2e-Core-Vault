@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Reactive Strike
 * * *
-You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of a Reactive Strike, that creature becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of a Reactive Strike, that creature becomes [[Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

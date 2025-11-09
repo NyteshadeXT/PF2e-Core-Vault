@@ -32,11 +32,11 @@ Scorpion venom is excruciating and its effects are somewhat debilitating.
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
+**Stage 1** 2d6 poison damage and [[Enfeebled|Enfeebled 1]] (1 round)
 
-**Stage 2** 2d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)
+**Stage 2** 2d8 poison damage and [[Enfeebled|Enfeebled 1]] (1 round)
 
-**Stage 3** 2d10 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)
+**Stage 3** 2d10 poison damage and [[Enfeebled|Enfeebled 2]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

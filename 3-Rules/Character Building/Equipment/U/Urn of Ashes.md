@@ -23,7 +23,7 @@ This sealed pewter urn contains the ashes of a benevolent ancestor, with a slive
 
 **Activate—Doom the Urn** `pf2:r` (concentrate)
 
-**Trigger** You would become [[Conditions/Doomed|Doomed]], or your doomed value would increase
+**Trigger** You would become [[Doomed|Doomed]], or your doomed value would increase
 
 **Requirements** The ashes aren't doomed
 

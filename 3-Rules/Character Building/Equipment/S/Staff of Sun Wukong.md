@@ -37,7 +37,7 @@ Also known as _Ruyi Bang_, this _+3 major striking greater extending grievous bo
 
 * * *
 
-**Effect** You extend the staff with the force of a meteor, dealing 10d10 bludgeoning damage to a single creature within 120 feet and making it [[Conditions/Enfeebled|Enfeebled 1]] for 1 day. All other creatures within 10 feet of the target (except the staff's wielder) take 8d10 sonic damage (DC 43 Reflex check save).
+**Effect** You extend the staff with the force of a meteor, dealing 10d10 bludgeoning damage to a single creature within 120 feet and making it [[Enfeebled|Enfeebled 1]] for 1 day. All other creatures within 10 feet of the target (except the staff's wielder) take 8d10 sonic damage (DC 43 Reflex check save).
 
 **Activate—Close at Hand** `pf2:0`
 

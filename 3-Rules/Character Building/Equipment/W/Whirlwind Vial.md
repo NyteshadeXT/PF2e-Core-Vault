@@ -33,7 +33,7 @@ Opening this vial releases a mighty gust, forming into a fearsome Huge elemental
 
 **Failure** The creature is pushed 20 feet.
 
-**Critical Failure** The creature is pushed 20 feet and knocked [[Conditions/Prone|Prone]].
+**Critical Failure** The creature is pushed 20 feet and knocked [[Prone|Prone]].
 
 * * *
 

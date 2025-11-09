@@ -30,7 +30,7 @@ A _scizore of the crab_ is a _+1 scizore_ that has the grapple trait in addition
 
 **Activate** `pf2:1` Interact
 
-**Requirements** Your last action was a successful Strike with this weapon, or you have a creature [[Conditions/Grabbed|Grabbed]] with this weapon
+**Requirements** Your last action was a successful Strike with this weapon, or you have a creature [[Grabbed|Grabbed]] with this weapon
 
 * * *
 

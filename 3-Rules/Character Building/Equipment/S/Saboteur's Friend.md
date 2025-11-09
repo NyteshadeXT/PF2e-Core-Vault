@@ -31,11 +31,11 @@ The euphemistically named saboteur's friend looks, smells, and tastes like an ap
 
 **Maximum Duration** 1 hour
 
-**Stage 1** [[Conditions/Sickened|Sickened 1]] (10 minutes)
+**Stage 1** [[Sickened|Sickened 1]] (10 minutes)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Sickened|Sickened 2]] (10 minutes)
+**Stage 2** [[Enfeebled|Enfeebled 1]] and [[Sickened|Sickened 2]] (10 minutes)
 
-**Stage 3** enfeebled 1, [[Conditions/Fatigued|Fatigued]], and [[Conditions/Sickened|Sickened 3]] (10 minutes)
+**Stage 3** enfeebled 1, [[Fatigued|Fatigued]], and [[Sickened|Sickened 3]] (10 minutes)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -21,7 +21,7 @@ license: ORC
 
 **Trigger** You roll initiative.
 
-**Requirements** You are not [[Conditions/Encumbered|Encumbered]] or wearing heavy armor.
+**Requirements** You are not [[Encumbered|Encumbered]] or wearing heavy armor.
 
 * * *
 

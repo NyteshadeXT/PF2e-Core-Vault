@@ -16,7 +16,7 @@ license: OGL
 
 
 
-**Requirements** The zombie has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** The zombie has a creature [[Grabbed|Grabbed]] or [[Restrained|Restrained]].
 
 * * *
 

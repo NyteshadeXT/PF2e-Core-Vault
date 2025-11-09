@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is [[Conditions/Off-Guard|Off-Guard]] to you.
+You are adept at working with your allies to surround an enemy. If an enemy is within reach of you and at least two of your allies, that enemy is [[Off-Guard|Off-Guard]] to you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

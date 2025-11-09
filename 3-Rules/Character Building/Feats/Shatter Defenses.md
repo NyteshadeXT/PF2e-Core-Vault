@@ -20,11 +20,11 @@ license: ORC
 
 
 
-**Requirements** A [[Conditions/Frightened|Frightened]] creature is in your melee reach.
+**Requirements** A [[Frightened|Frightened]] creature is in your melee reach.
 
 * * *
 
-Your offense exploits your enemy's fear. Make a melee Strike against a frightened creature. If you hit and deal damage, the target becomes [[Conditions/Off-Guard|Off-Guard]] until its frightened condition ends. If the target was already off-guard to you when you damaged it with this Strike, it can't reduce its frightened value below 1 until the start of your next turn.
+Your offense exploits your enemy's fear. Make a melee Strike against a frightened creature. If you hit and deal damage, the target becomes [[Off-Guard|Off-Guard]] until its frightened condition ends. If the target was already off-guard to you when you damaged it with this Strike, it can't reduce its frightened value below 1 until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

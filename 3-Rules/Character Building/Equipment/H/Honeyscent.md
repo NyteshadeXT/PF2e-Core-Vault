@@ -33,9 +33,9 @@ This sweet-scented poison triggers vivid hallucinations in those who succumb to 
 
 **Stage 1** 2d6 slashing damage (1 round)
 
-**Stage 2** 2d6 slashing damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 2** 2d6 slashing damage and [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 3** 2d6 slashing damage, [[Conditions/Drained|Drained 1]], and stupefied 1
+**Stage 3** 2d6 slashing damage, [[Drained|Drained 1]], and stupefied 1
 
 *Source: Pathfinder Lost Omens Legends*
 *OGL*

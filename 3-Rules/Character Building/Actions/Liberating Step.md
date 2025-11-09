@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** An enemy damages, [[Conditions/Grabbed|grabs]], or [[Conditions/Restrained|restrains]] your ally, and both are in your champion's aura
+**Trigger** An enemy damages, [[Grabbed|grabs]], or [[Restrained|restrains]] your ally, and both are in your champion's aura
 
 * * *
 
@@ -27,7 +27,7 @@ You free an ally from restraint.
 
 If the trigger was an ally taking damage, the ally gains resistance to all damage against the triggering damage equal to 2 + your level.
 
-The ally can attempt to break free of effects grabbing, [[Conditions/Restrained|Restraining]], [[Conditions/Immobilized|Immobilizing]], or [[Conditions/Paralyzed|Paralyzing]] them. They either attempt a new save against one such effect that allows a save, or attempt to [[Actions/Escape|Escape]] from one effect as a free action.
+The ally can attempt to break free of effects grabbing, [[Restrained|Restraining]], [[Immobilized|Immobilizing]], or [[Paralyzed|Paralyzing]] them. They either attempt a new save against one such effect that allows a save, or attempt to [[Actions/Escape|Escape]] from one effect as a free action.
 
 If they can move, the ally can Step as a free action, even if they didn't need to escape.
 

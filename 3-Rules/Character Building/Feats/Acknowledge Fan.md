@@ -28,11 +28,11 @@ Your reputation as a Firebrand precedes you, and you need only make a simple ges
 
 **Critical Success** The target is unaffected and becomes temporarily immune to Acknowledge Fan for 1 day.
 
-**Success** The target is [[Conditions/Stunned|Stunned 1]] and becomes temporarily immune to Acknowledge Fan for 1 day.
+**Success** The target is [[Stunned|Stunned 1]] and becomes temporarily immune to Acknowledge Fan for 1 day.
 
-**Failure** The target is [[Conditions/Stunned|Stunned 2]].
+**Failure** The target is [[Stunned|Stunned 2]].
 
-**Critical Failure** The target is [[Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
+**Critical Failure** The target is [[Paralyzed|Paralyzed]] until the end of your next turn.
 
 * * *
 

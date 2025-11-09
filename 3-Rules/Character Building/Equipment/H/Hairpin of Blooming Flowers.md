@@ -26,7 +26,7 @@ The flower that adorns this hairpin is a blooming lotus flower that varies in co
 
 **Frequency** once per day
 
-**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10-foot burst centered on you. You become [[Conditions/Concealed|Concealed]] for 1 minute or until you move from your current location. Any creature within the 10-foot burst when you Activate the Item must succeed at a DC 23 Reflex check save or become [[Conditions/Dazzled|Dazzled]] until the end of its next turn (or [[Conditions/Blinded|Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.
+**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10-foot burst centered on you. You become [[3-Rules/Conditions/Concealed|Concealed]] for 1 minute or until you move from your current location. Any creature within the 10-foot burst when you Activate the Item must succeed at a DC 23 Reflex check save or become [[Dazzled|Dazzled]] until the end of its next turn (or [[Blinded|Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You fear no exertion. You can employ exploration tactics normally while [[Conditions/Fatigued|Fatigued]].
+You fear no exertion. You can employ exploration tactics normally while [[Fatigued|Fatigued]].
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

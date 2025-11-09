@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The ghost becomes [[Conditions/Invisible|Invisible]] until the beginning of its next turn.
+The ghost becomes [[Invisible|Invisible]] until the beginning of its next turn.
 
 *Source: Pathfinder #165: Eyes of Empty Death*
 *OGL*

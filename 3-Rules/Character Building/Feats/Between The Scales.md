@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You've learned to take advantage of slips in your foes' defenses. When you Strike an [[Conditions/Off-Guard|Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.
+You've learned to take advantage of slips in your foes' defenses. When you Strike an [[Off-Guard|Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

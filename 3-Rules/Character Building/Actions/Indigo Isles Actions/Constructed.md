@@ -17,7 +17,7 @@ license: OGL
 
 
 
-A mechanical parrot is immune to bleed, death effects, disease, [[Conditions/Doomed|Doomed]], [[Conditions/Drained|Drained]], [[Conditions/Fatigued|Fatigued]], healing, necromancy, nonlethal attacks, [[Conditions/Paralyzed|Paralyzed]], poison, [[Conditions/Sickened|Sickened]], and [[Conditions/Unconscious|Unconscious]]. It can recover Hit Points only via the Repair action and other methods that fix items, not from any form of Hit Point healing. It's destroyed at 0 HP.
+A mechanical parrot is immune to bleed, death effects, disease, [[Doomed|Doomed]], [[Drained|Drained]], [[Fatigued|Fatigued]], healing, necromancy, nonlethal attacks, [[Paralyzed|Paralyzed]], poison, [[Sickened|Sickened]], and [[Unconscious|Unconscious]]. It can recover Hit Points only via the Repair action and other methods that fix items, not from any form of Hit Point healing. It's destroyed at 0 HP.
 
 *Source: *
 *OGL*

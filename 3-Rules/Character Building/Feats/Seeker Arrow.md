@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Eldritch Archer Dedication
 * * *
-Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+Your shots zip around corners and fly at impossible angles to reach your target. Make a bow Strike against a foe you can see; the ammunition travels to your target, even around corners. You ignore the target's [[3-Rules/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

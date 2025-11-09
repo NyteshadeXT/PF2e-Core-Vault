@@ -26,7 +26,7 @@ This well-worn manuscript is side stitched with fading lilac-colored thread. It 
 
 * * *
 
-**Effect** If your next action is to Cast a Spell that has the linguistic trait and that targets 1 creature, you are overtaken by Juubun's spirit, and the spoken elements of your spell become impactfully poetic. If the target is an ally, your words inspire them and they gain 10 temporary Hit Points, which last for 1 minute. If the targeted creature is an enemy and the spell requires a saving throw, and if the enemy fails its saving throw, they become [[Conditions/Sickened|Sickened 1]] as a result of despair and sadness.
+**Effect** If your next action is to Cast a Spell that has the linguistic trait and that targets 1 creature, you are overtaken by Juubun's spirit, and the spoken elements of your spell become impactfully poetic. If the target is an ally, your words inspire them and they gain 10 temporary Hit Points, which last for 1 minute. If the targeted creature is an enemy and the spell requires a saving throw, and if the enemy fails its saving throw, they become [[Sickened|Sickened 1]] as a result of despair and sadness.
 
 [[Equipment Effects/Effect_ Juubun's One Thousand Poems|Effect: Juubun's One Thousand Poems]]
 

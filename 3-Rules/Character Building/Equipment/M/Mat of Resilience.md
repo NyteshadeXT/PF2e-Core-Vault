@@ -32,7 +32,7 @@ You unfurl the mat and choose which shape it takes, either a 10-foot square or a
 
 **Requirements** A creature is atop the mat
 
-**Effect** The creature enters a simple stance that makes the most of the mat's stabilizing magic. While in this stance, if at least half of the creature's space is atop the mat, it cannot gain the [[Conditions/Off-Guard|Off-Guard]] condition.
+**Effect** The creature enters a simple stance that makes the most of the mat's stabilizing magic. While in this stance, if at least half of the creature's space is atop the mat, it cannot gain the [[Off-Guard|Off-Guard]] condition.
 
 *Source: Pathfinder #209: Destroyer's Doom*
 *ORC*

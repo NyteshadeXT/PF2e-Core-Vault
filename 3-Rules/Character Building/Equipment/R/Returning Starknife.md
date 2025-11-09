@@ -43,11 +43,11 @@ This _returning throwing knife_ is specially made for Lyrune-Quah hunters, and i
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Clumsy|Clumsy 1]].
+**Success** The creature takes half damage and is [[Clumsy|Clumsy 1]].
 
-**Failure** The creature takes full damage and is [[Conditions/Immobilized|Immobilized]] for 1 round.
+**Failure** The creature takes full damage and is [[Immobilized|Immobilized]] for 1 round.
 
-**Critical Failure** The creature takes full damage and is [[Conditions/Restrained|Restrained]] with an [[Actions/Escape|Escape]] DC of 24.
+**Critical Failure** The creature takes full damage and is [[Restrained|Restrained]] with an [[Actions/Escape|Escape]] DC of 24.
 
 *Source: Pathfinder #208: Hoof, Cinder, and Storm*
 *ORC*

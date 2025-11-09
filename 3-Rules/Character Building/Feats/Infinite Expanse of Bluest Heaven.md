@@ -32,9 +32,9 @@ An illusion of a limitless expanse with an impossibly blue sky makes all within 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Off-Guard|Off-Guard]].
+**Success** The creature is [[Off-Guard|Off-Guard]].
 
-**Failure** The creature is off-guard. It is [[Conditions/Fleeing|Fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 Flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
+**Failure** The creature is off-guard. It is [[Fleeing|Fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 Flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

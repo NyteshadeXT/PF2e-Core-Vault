@@ -24,7 +24,7 @@ This item appears to be an ordinary semiprecious stone and is typically mounted 
 
 The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of their coven, to peer through the eye using the [[Actions/Seek|Seek]] action. This has no range limit, provided the hag is on the same plane.
 
-Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.
+Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded|Blinded]] for 1 hour.
 
 * * *
 

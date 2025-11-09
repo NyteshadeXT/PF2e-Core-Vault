@@ -27,9 +27,9 @@ A spirit trap consists of a net dipped in water that has been steeped with sacre
 
 **Critical Success** The creature is unaffected
 
-**Success** The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Success** The creature is [[Off-Guard|Off-Guard]] for 1 round.
 
-**Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round.
+**Failure** The creature is [[Immobilized|Immobilized]] for 1 round.
 
 **Critical Failure** The creature is immobilized until it Escapes (DC 16).
 

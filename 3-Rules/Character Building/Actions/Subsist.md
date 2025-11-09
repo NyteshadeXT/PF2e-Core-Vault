@@ -35,7 +35,7 @@ You try to provide food and shelter for yourself, and possibly others as well, w
 
 **Success** You find enough food and shelter with basic protection from the elements to provide you a subsistence living.
 
-**Failure** You're exposed to the elements and don't get enough food, becoming [[Conditions/Fatigued|Fatigued]] until you attain sufficient food and shelter.
+**Failure** You're exposed to the elements and don't get enough food, becoming [[Fatigued|Fatigued]] until you attain sufficient food and shelter.
 
 **Critical Failure** You attract trouble, eat something you shouldn't, or otherwise worsen your situation. You take a –2 circumstance penalty to checks to Subsist for 1 week. You don't find any food at all; if you don't have any stored up, you're in danger of starving or dying of thirst if you continue failing.
 

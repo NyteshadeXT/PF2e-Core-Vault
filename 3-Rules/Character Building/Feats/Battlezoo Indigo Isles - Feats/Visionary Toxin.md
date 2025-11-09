@@ -28,13 +28,13 @@ Additionally, the frequency of Manifest Membrane becomes once per hour, instead 
 
 **Maximum Duration** 10 minutes
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 1** [[Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 2]] and [[Conditions/Drained|Drained 1]] (1 round)
+**Stage 2** [[Stupefied|Stupefied 2]] and [[Drained|Drained 1]] (1 round)
 
-**Stage 3** [[Conditions/Stupefied|Stupefied 4]], [[Conditions/Drained|Drained 2]], and [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 3** [[Stupefied|Stupefied 4]], [[Drained|Drained 2]], and [[Slowed|Slowed 1]] (1 round)
 
-**Stage 4** [[Conditions/Unconscious|Unconscious]] (10 minutes)
+**Stage 4** [[Unconscious|Unconscious]] (10 minutes)
 
 **Stage 5** dead
 

@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-Your life force can fuel the stuff of miracles. You become [[Conditions/Drained|Drained 1]] or increase the value of your drained condition by 1 if you already have the drained condition. Before the end of your next turn, if you Cast a Spell of 4th rank or lower, you don't expend the spell's slot when you cast it, or if you cast a focus spell, it does not cost a Focus Point. The spell loses whatever tradition trait it would normally have and gains the divine trait.
+Your life force can fuel the stuff of miracles. You become [[Drained|Drained 1]] or increase the value of your drained condition by 1 if you already have the drained condition. Before the end of your next turn, if you Cast a Spell of 4th rank or lower, you don't expend the spell's slot when you cast it, or if you cast a focus spell, it does not cost a Focus Point. The spell loses whatever tradition trait it would normally have and gains the divine trait.
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

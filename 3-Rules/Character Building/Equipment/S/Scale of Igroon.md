@@ -39,7 +39,7 @@ Carved from a scale of the kaiju Igroon, this jagged shield refracts light aroun
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Blinded|Blinded]] until its next turn begins.
+**Success** The target is [[Blinded|Blinded]] until its next turn begins.
 
 **Failure** The target is blinded for 1 minute.
 

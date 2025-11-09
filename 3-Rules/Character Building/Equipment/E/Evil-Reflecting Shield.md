@@ -27,7 +27,7 @@ A bright, octagonal frame surrounds this circular dawnsilver shield, which itsel
 
 * * *
 
-**Effect** Your saving throw result is considered one degree better than the actual result. If this effect turns a success into a critical success, you can reflect some of the effect's power as a wave of magical backlash back to the source of the triggering effect, as long as the source is within 30 feet. When you do so, the target must succeed at a DC 28 Fortitude check save or become [[Conditions/Stunned|Stunned 1]].
+**Effect** Your saving throw result is considered one degree better than the actual result. If this effect turns a success into a critical success, you can reflect some of the effect's power as a wave of magical backlash back to the source of the triggering effect, as long as the source is within 30 feet. When you do so, the target must succeed at a DC 28 Fortitude check save or become [[Stunned|Stunned 1]].
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

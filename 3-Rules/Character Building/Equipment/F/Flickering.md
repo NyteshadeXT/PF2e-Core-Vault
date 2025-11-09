@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-A flickering rune causes a weapon to shimmer, grow blurry and indistinct, and momentarily turn invisible at random intervals for a second or two. A flickering weapon adds its item bonus from its potency rune to the DC against attempts to [[Actions/Disarm|Disarm]] or [[Actions/Steal|Steal]] it. On a critical hit, the weapon flashes bright pulses of color into the creature's eyes, [[Conditions/Dazzled|Dazzling]] the creature for 1 round (this effect has the visual trait).
+A flickering rune causes a weapon to shimmer, grow blurry and indistinct, and momentarily turn invisible at random intervals for a second or two. A flickering weapon adds its item bonus from its potency rune to the DC against attempts to [[Actions/Disarm|Disarm]] or [[Actions/Steal|Steal]] it. On a critical hit, the weapon flashes bright pulses of color into the creature's eyes, [[Dazzled|Dazzling]] the creature for 1 round (this effect has the visual trait).
 
 **Activate** `pf2:2` envision, Interact
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Eternal Legend Dedication; master in Intimidation
 * * *
-Whether they have heard of your legend or seen your prowess on the field of battle, those already quaking in their boots grow weak when forced to stand against you. You gain resistance against bludgeoning, piercing, and slashing damage against Strikes made by creatures with the [[Conditions/Frightened|Frightened]] condition. This resistance is equal to four times the value of that creature's frightened condition.
+Whether they have heard of your legend or seen your prowess on the field of battle, those already quaking in their boots grow weak when forced to stand against you. You gain resistance against bludgeoning, piercing, and slashing damage against Strikes made by creatures with the [[Frightened|Frightened]] condition. This resistance is equal to four times the value of that creature's frightened condition.
 
 [[Feat_Feature Effects/Effect_ Terrifying Mien|Effect: Terrifying Mien]]
 

@@ -34,7 +34,7 @@ where (Status = "Active")
 >> [[Blinded]] 
 >> [[Broken]] 
 >> [[Clumsy]]
->> [[Concealed]]  
+>> [[3-Rules/Conditions/Concealed]]  
 >> [[Confused]] 
 >> [[Controlled]] 
 >> [[Dazzled]] 

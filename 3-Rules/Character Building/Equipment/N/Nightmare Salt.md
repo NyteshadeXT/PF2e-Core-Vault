@@ -33,9 +33,9 @@ This potent poison consists of crystals whose flavor and appearance mimics edibl
 
 **Maximum Duration** 5 days
 
-**Stage 1** [[Conditions/Frightened|Frightened 2]] once every 1d4 hours, plus [[Conditions/Fatigued|Fatigued]] (1 day)
+**Stage 1** [[Frightened|Frightened 2]] once every 1d4 hours, plus [[Fatigued|Fatigued]] (1 day)
 
-**Stage 2** [[Conditions/Confused|Confused]] for 1 minute once every 1d4 hours, plus [[Conditions/Frightened|Frightened 3]] and fatigued (1 day)
+**Stage 2** [[Confused|Confused]] for 1 minute once every 1d4 hours, plus [[Frightened|Frightened 3]] and fatigued (1 day)
 
 **Stage 3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day)
 

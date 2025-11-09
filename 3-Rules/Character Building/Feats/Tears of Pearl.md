@@ -34,11 +34,11 @@ You weep, and your tears become gleaming pearls as they fall to the ground, so b
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Slowed|Slowed 1]] until the start of your next turn as it covets the pearls or reaches for them.
+**Success** The target is [[Slowed|Slowed 1]] until the start of your next turn as it covets the pearls or reaches for them.
 
 **Failure** The target is slowed 1 until the start of your next turn as it grabs for the pearls, and if it doesn't have a free hand (or similar appendage), it must spend its first action on its next turn to Release one item it's holding.
 
-**Critical Failure** As failure, but the target is [[Conditions/Slowed|Slowed 2]] instead of slowed 1.
+**Critical Failure** As failure, but the target is [[Slowed|Slowed 2]] instead of slowed 1.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

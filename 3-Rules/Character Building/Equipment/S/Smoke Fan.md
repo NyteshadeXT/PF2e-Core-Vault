@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-When you Activate a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+When you Activate a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are [[3-Rules/Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

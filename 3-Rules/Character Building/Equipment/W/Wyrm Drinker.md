@@ -35,7 +35,7 @@ This staff is made from the femur of a gold dragon wrapped in the multicolored s
 
 * * *
 
-**Effect** Attempt a melee Strike with Wyrm Drinker. If your target is a dragon or a creature with a strong draconic tie, such as a kobold, and you damage the target, the target is [[Conditions/Drained|Drained 2]], or [[Conditions/Drained|Drained 4]] on a critical hit.
+**Effect** Attempt a melee Strike with Wyrm Drinker. If your target is a dragon or a creature with a strong draconic tie, such as a kobold, and you damage the target, the target is [[Drained|Drained 2]], or [[Drained|Drained 4]] on a critical hit.
 
 * * *
 

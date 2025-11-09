@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Werecreature Dedication
 * * *
-You can be injured by non-silver sources but recover with staggering speed. When you are reduced to 0 Hit Points by non-silver damage and don't immediately die from a death effect or a high [[Conditions/Dying|Dying]] value, you stabilize immediately afterward. You gain the [[Conditions/Wounded|Wounded]] condition as normal.
+You can be injured by non-silver sources but recover with staggering speed. When you are reduced to 0 Hit Points by non-silver damage and don't immediately die from a death effect or a high [[Dying|Dying]] value, you stabilize immediately afterward. You gain the [[Wounded|Wounded]] condition as normal.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

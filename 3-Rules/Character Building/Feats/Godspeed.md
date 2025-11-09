@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Mythic power grants you speed to rival beasts and demigods. Spend a Mythic Point; for the next minute, you gain a +10-foot status bonus to all your Speeds and are [[Conditions/Quickened|Quickened]]. You can use the extra action each round to Stride, Step, or [[Actions/Leap|Leap]].
+Mythic power grants you speed to rival beasts and demigods. Spend a Mythic Point; for the next minute, you gain a +10-foot status bonus to all your Speeds and are [[Quickened|Quickened]]. You can use the extra action each round to Stride, Step, or [[Actions/Leap|Leap]].
 
 *Source: Pathfinder War of Immortals*
 *ORC*

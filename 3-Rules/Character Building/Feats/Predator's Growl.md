@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** expert in Intimidation
 * * *
-**Trigger** You successfully [[Actions/Seek|Seek]] a [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creature.
+**Trigger** You successfully [[Actions/Seek|Seek]] a [[Hidden|Hidden]] or [[Undetected|Undetected]] creature.
 
 * * *
 

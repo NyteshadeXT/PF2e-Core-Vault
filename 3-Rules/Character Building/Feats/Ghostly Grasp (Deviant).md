@@ -23,7 +23,7 @@ An invisible arm extends from you to grab and manipulate objects. The arm reache
 
 * * *
 
-**Awakening** Your invisible arm can grab on to an unsuspecting target. You can modify the power's target to be 1 creature within range. You make an attack roll against the creature's Fortitude DC and add the attack trait to the action. On a success, the target is [[Conditions/Grabbed|Grabbed]] by the arm (or [[Conditions/Restrained|Restrained]] on a critical success). This lasts for 1 round or until the creature Escapes.
+**Awakening** Your invisible arm can grab on to an unsuspecting target. You can modify the power's target to be 1 creature within range. You make an attack roll against the creature's Fortitude DC and add the attack trait to the action. On a success, the target is [[Grabbed|Grabbed]] by the arm (or [[Restrained|Restrained]] on a critical success). This lasts for 1 round or until the creature Escapes.
 
 * * *
 

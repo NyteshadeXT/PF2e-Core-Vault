@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Apocalypse Rider Dedication
 * * *
-**Trigger** Another creature within 30 feet gains the [[Conditions/Doomed|Doomed]] or [[Conditions/Dying|Dying]] condition or their doomed or dying condition increases.
+**Trigger** Another creature within 30 feet gains the [[Doomed|Doomed]] or [[Dying|Dying]] condition or their doomed or dying condition increases.
 
 * * *
 

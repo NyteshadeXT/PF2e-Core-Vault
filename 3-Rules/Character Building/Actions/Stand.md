@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You stand up from [[Conditions/Prone|Prone]].
+You stand up from [[Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

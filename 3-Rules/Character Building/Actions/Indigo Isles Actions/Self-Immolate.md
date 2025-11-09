@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Effect** Your wildfire leshy familiar can flare up its own burning embers, creating a thick plume of opaque smoke where it stands in a 5-foot burst. The wildfire leshy loses 4 Hit Points. All creatures within the affected area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke persists for 1 minute or until it is dispersed by a strong wind.
+**Effect** Your wildfire leshy familiar can flare up its own burning embers, creating a thick plume of opaque smoke where it stands in a 5-foot burst. The wildfire leshy loses 4 Hit Points. All creatures within the affected area are [[3-Rules/Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke persists for 1 minute or until it is dispersed by a strong wind.
 
 *Source: *
 *OGL*

@@ -24,7 +24,7 @@ license: ORC
 
 **Prerequisites** Eternal Legend Dedication
 * * *
-Raising your weapon or fist aloft, you begin to gleam with dazzling radiance. You fulminate with power and glory, making it clear to all who see you that your legend is real and possibly even greater than purported. Spend a Mythic Point. All enemies who can see you must succeed at a Will check saving throw against your class DC or become [[Conditions/Frightened|Frightened 3]] ([[Conditions/Frightened|Frightened 4]] on a critical failure). You and any ally who can see you may choose to Strike or Stride as a free action. Any of these Strikes are made at mythic proficiency.
+Raising your weapon or fist aloft, you begin to gleam with dazzling radiance. You fulminate with power and glory, making it clear to all who see you that your legend is real and possibly even greater than purported. Spend a Mythic Point. All enemies who can see you must succeed at a Will check saving throw against your class DC or become [[Frightened|Frightened 3]] ([[Frightened|Frightened 4]] on a critical failure). You and any ally who can see you may choose to Strike or Stride as a free action. Any of these Strikes are made at mythic proficiency.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

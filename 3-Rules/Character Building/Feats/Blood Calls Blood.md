@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-The magical potency of your blood will not be denied. You finish Casting the Spell, then become [[Conditions/Drained|Drained 1]] or increase the value of your drained condition by 1.
+The magical potency of your blood will not be denied. You finish Casting the Spell, then become [[Drained|Drained 1]] or increase the value of your drained condition by 1.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

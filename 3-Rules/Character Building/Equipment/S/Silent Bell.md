@@ -32,7 +32,7 @@ This large handbell is made from cast bronze and has a wooden handle. The outsid
 
 * * *
 
-**Effect** The silent bell creates an [[Conditions/Invisible|Invisible]] wall surrounding a cube, 20 feet to a side, that prevents sound from passing into or from the cube for 10 minutes. The wall isn't solid and doesn't prevent anything but sound from passing through. Since the cube is invisible, creatures can still read lips and body language through the wall.
+**Effect** The silent bell creates an [[Invisible|Invisible]] wall surrounding a cube, 20 feet to a side, that prevents sound from passing into or from the cube for 10 minutes. The wall isn't solid and doesn't prevent anything but sound from passing through. Since the cube is invisible, creatures can still read lips and body language through the wall.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

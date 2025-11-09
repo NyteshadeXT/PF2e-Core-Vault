@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your taunts and threats earn your foes' ire. When you successfully [[Actions/Demoralize|Demoralize]] a creature, its [[Conditions/Frightened|Frightened]] condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.
+Your taunts and threats earn your foes' ire. When you successfully [[Actions/Demoralize|Demoralize]] a creature, its [[Frightened|Frightened]] condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

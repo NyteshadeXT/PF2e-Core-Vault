@@ -36,9 +36,9 @@ Specialists in Kyonin prepare this emerald-green beverage.
 
 **Stage 1** +2 item bonus to Diplomacy and Performance checks (1 hour)
 
-**Stage 2** [[Conditions/Drained|Drained 2]] (1 hour)
+**Stage 2** [[Drained|Drained 2]] (1 hour)
 
-**Stage 3** [[Conditions/Stupefied|Stupefied 4]] (1 hour)
+**Stage 3** [[Stupefied|Stupefied 4]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

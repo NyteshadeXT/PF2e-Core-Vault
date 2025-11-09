@@ -32,7 +32,7 @@ You hide insulating crystals or other material that releases a strong static cha
 
 [[Equipment Effects/Effect_ Static Snare|Effect: Static Snare]]
 
-**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[Conditions/Invisible|Invisible]], it's merely [[Conditions/Hidden|Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.
+**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[Invisible|Invisible]], it's merely [[Hidden|Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.
 
 *Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

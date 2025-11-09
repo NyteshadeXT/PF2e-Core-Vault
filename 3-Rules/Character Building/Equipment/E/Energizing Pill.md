@@ -26,7 +26,7 @@ This special blend of potent herbs comes in the form of a compact ball that allo
 
 **Secondary Effect** `pf2:r`
 
-**Trigger** You would become [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stupefied|Stupefied]]
+**Trigger** You would become [[Clumsy|Clumsy]], [[Drained|Drained]], [[Enfeebled|Enfeebled]], [[Frightened|Frightened]], [[Sickened|Sickened]], [[Slowed|Slowed]], or [[Stupefied|Stupefied]]
 
 * * *
 

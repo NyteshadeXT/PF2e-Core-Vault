@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You can startle foes who are unaware of your presence. Make a Strike against your target. That creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike, as normal. If your Strike hits, the target remains off-guard for the rest of your turn and is [[Conditions/Frightened|Frightened 1]] (frightened 2 on a critical hit).
+You can startle foes who are unaware of your presence. Make a Strike against your target. That creature is [[Off-Guard|Off-Guard]] against this Strike, as normal. If your Strike hits, the target remains off-guard for the rest of your turn and is [[Frightened|Frightened 1]] (frightened 2 on a critical hit).
 
 *Source: Pathfinder Player Core 2*
 *ORC*

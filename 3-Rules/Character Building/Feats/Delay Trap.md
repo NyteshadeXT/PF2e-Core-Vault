@@ -33,7 +33,7 @@ You try to jam the workings of a trap to delay its effects. Attempt a Thievery c
 
 **Failure** No effect.
 
-**Critical Failure** You're [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Critical Failure** You're [[Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -32,11 +32,11 @@ Some animals and beasts have electric organs in their body that they can use to 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.
+**Success** The creature is [[Clumsy|Clumsy 1]] for 1 round.
 
-**Failure** The creature is [[Conditions/Clumsy|Clumsy 2]] for 1 round.
+**Failure** The creature is [[Clumsy|Clumsy 2]] for 1 round.
 
-**Critical Failure** The creature is [[Conditions/Clumsy|Clumsy 3]] for 1 round.
+**Critical Failure** The creature is [[Clumsy|Clumsy 3]] for 1 round.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

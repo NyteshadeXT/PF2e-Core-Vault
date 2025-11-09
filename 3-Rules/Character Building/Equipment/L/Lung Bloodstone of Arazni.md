@@ -39,7 +39,7 @@ The _Lung Bloodstone of Arazni_ represents suffering. While you carry the Lung B
 
 **Frequency** once per day
 
-**Effect** You point your finger at a creature within 60 feet that has wronged you, and you verbally admonish them. The creature takes 1d4 mental damage for every level you have (Will check save against your class DC). On a failed save, the creature is also [[Conditions/Stunned|Stunned 1]] ([[Conditions/Stunned|Stunned 3]] on a critical failure).
+**Effect** You point your finger at a creature within 60 feet that has wronged you, and you verbally admonish them. The creature takes 1d4 mental damage for every level you have (Will check save against your class DC). On a failed save, the creature is also [[Stunned|Stunned 1]] ([[Stunned|Stunned 3]] on a critical failure).
 
 * * *
 

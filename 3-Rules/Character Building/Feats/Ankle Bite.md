@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Fang Sharpener or razortooth goblin heritage
 * * *
-**Trigger** A foe gives you the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] condition using a part of its body.
+**Trigger** A foe gives you the [[Grabbed|Grabbed]] or [[Restrained|Restrained]] condition using a part of its body.
 
 * * *
 

@@ -23,13 +23,13 @@ license: OGL
 
 **Activate** `pf2:2` Interact
 
-Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is [[Conditions/Concealed|Concealed]] by this poison, then the cloud of dust also conceals other creatures from the victim.
+Pale fade is a white ointment with a sharp, earthy scent. The poison rapidly desiccates flesh, which then crumbles and forms a cloud of pallid dust. If the victim is [[3-Rules/Conditions/Concealed|Concealed]] by this poison, then the cloud of dust also conceals other creatures from the victim.
 
 **Saving Throw** DC 42 Fortitude check
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 10d6 poison and [[Conditions/Drained|Drained 1]] (1 round)
+**Stage 1** 10d6 poison and [[Drained|Drained 1]] (1 round)
 
 **Stage 2** 12d6 poison, drained 1, and concealed (1 round)
 

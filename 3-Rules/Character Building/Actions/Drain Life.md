@@ -25,9 +25,9 @@ Your eidolon attacks a living creature and drains some of the creature's life fo
 
 **Success** Your eidolon drains a small amount of life force. The enemy takes additional void damage equal to half your level.
 
-**Failure** Your eidolon drains enough life force to satisfy itself. The enemy takes additional void damage equal to half your level and is [[Conditions/Drained|Drained 1]]. Your eidolon gains temporary Hit Points equal to the enemy's level, which last for 1 minute.
+**Failure** Your eidolon drains enough life force to satisfy itself. The enemy takes additional void damage equal to half your level and is [[Drained|Drained 1]]. Your eidolon gains temporary Hit Points equal to the enemy's level, which last for 1 minute.
 
-**Critical Failure** Your eidolon drains an incredible amount of life force and is thoroughly glutted with energy. As failure, but the enemy is [[Conditions/Drained|Drained 2]] and the temporary Hit Points are equal to double the enemy's level.
+**Critical Failure** Your eidolon drains an incredible amount of life force and is thoroughly glutted with energy. As failure, but the enemy is [[Drained|Drained 2]] and the temporary Hit Points are equal to double the enemy's level.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

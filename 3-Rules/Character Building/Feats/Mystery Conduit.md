@@ -14,7 +14,7 @@ license: ORC
 ---
 # Mystery Conduit `pf2:0`
 ## Feat 20
-### [[cursebound]][[oracle]][[spellshape]]
+### [[Cursebound]][[oracle]][[spellshape]]
 
 **Category** class; 
 

@@ -25,7 +25,7 @@ This prosthetic eye resembles that of a bird of prey. Along with the abilities o
 
 * * *
 
-**Effect** You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the [[Conditions/Blinded|Blinded]] condition.
+**Effect** You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the [[Blinded|Blinded]] condition.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

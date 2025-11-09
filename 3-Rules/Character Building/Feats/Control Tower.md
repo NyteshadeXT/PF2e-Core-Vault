@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Overwatch Dedication; master in Perception
 * * *
-Your keen senses and ability to process battlefield information have dramatically improved, allowing you to drastically reduce the advantage of unseen foes. You and allies in your overwatch field gain a +2 circumstance bonus when using the Seek action to find [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creatures within the overwatch field.
+Your keen senses and ability to process battlefield information have dramatically improved, allowing you to drastically reduce the advantage of unseen foes. You and allies in your overwatch field gain a +2 circumstance bonus when using the Seek action to find [[Hidden|Hidden]] or [[Undetected|Undetected]] creatures within the overwatch field.
 
 [[Feat_Feature Effects/Effect_ Control Tower|Effect: Control Tower]]
 

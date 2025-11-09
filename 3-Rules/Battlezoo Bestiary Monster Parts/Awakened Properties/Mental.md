@@ -43,10 +43,10 @@ Choose when you first awaken the weapon for the granted spells to be either arca
 ### Path: Technique
 *   **4th** Strikes with the weapon deal 1 persistent mental damage
 *   **6th** Strikes with the weapon deal 1 additional mental damage
-*   **8th** On a critical hit, the target is [[stupefied]] 1 for 1 round
+*   **8th** On a critical hit, the target is [[Stupefied]] 1 for 1 round
 *   **10th** The persistent mental damage increases to 1d6
 *   **12th** The mental damage dealt by this awakened property (including persistent mental damage) ignores resistances
 *   **14th** The persistent mental damage on a hit increases to 1d8
-*   **16th** On a critical hit, the target is [[stupefied|Stupefied 2]] for 1 round
+*   **16th** On a critical hit, the target is [[Stupefied|Stupefied 2]] for 1 round
 *   **18th** The persistent mental damage on a hit increases to 1d10
-*   **20th** While the foe has persistent mental damage from the awakened property, the [[stupefied]] condition from a critical hit lasts until the persistent damage ends or for 1 round, whichever is longer
+*   **20th** While the foe has persistent mental damage from the awakened property, the [[Stupefied]] condition from a critical hit lasts until the persistent damage ends or for 1 round, whichever is longer

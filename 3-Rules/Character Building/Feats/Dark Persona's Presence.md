@@ -34,11 +34,11 @@ The force of your dark persona's negativity batters constantly against all creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target is [[Conditions/Frightened|Frightened 1]].
+**Success** The target is [[Frightened|Frightened 1]].
 
-**Failure** The target is [[Conditions/Frightened|Frightened 2]].
+**Failure** The target is [[Frightened|Frightened 2]].
 
-**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]].
+**Critical Failure** The target is [[Frightened|Frightened 3]].
 
 While your Psyche is Unleashed, your dark persona cares only for destruction. You can [[Actions/Cast a Spell|Cast a Spell]] only if it can directly damage an enemy or object or can impose a detrimental condition or penalty on one.
 

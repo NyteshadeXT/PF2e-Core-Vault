@@ -33,7 +33,7 @@ The poison known as looter's lethargy ensures no thieves are strong enough to wa
 
 **Stage 1** reduce Bulk limit by 3 (1 minute)
 
-**Stage 2** [[Conditions/Off-Guard|Off-Guard]], reduce Bulk limit by 4 (10 minutes)
+**Stage 2** [[Off-Guard|Off-Guard]], reduce Bulk limit by 4 (10 minutes)
 
 **Stage 3** off-guard, reduce Bulk limit by 5 (10 minutes)
 

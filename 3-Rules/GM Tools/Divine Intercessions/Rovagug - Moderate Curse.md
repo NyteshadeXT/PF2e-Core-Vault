@@ -19,7 +19,7 @@ license: OGL
 
 Your destructive rage seeks to remain unbound.
 
-Any armor you wear automatically becomes [[Conditions/Broken|Broken]]. Other items in your possession occasionally become broken over time.
+Any armor you wear automatically becomes [[Broken|Broken]]. Other items in your possession occasionally become broken over time.
 
 *Source: Pathfinder Lost Omens Gods & Magic*
 *OGL*

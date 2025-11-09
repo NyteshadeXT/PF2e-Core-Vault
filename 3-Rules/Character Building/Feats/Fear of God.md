@@ -28,7 +28,7 @@ license: ORC
 
 * * *
 
-You embed a divine fear into the triggering foe that lasts for 10 minutes. During that time, you ignore that creature's temporary immunity to your Demoralize attempts and whenever you successfully Demoralize the triggering enemy, you can instead increase their existing frightened condition by 1 (or 2 on a critical success) to a maximum of [[Conditions/Frightened|Frightened 4]].
+You embed a divine fear into the triggering foe that lasts for 10 minutes. During that time, you ignore that creature's temporary immunity to your Demoralize attempts and whenever you successfully Demoralize the triggering enemy, you can instead increase their existing frightened condition by 1 (or 2 on a critical success) to a maximum of [[Frightened|Frightened 4]].
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

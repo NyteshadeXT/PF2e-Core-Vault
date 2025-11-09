@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Effect** You make a Strike before falling [[Conditions/Unconscious|Unconscious]].
+**Effect** You make a Strike before falling [[Unconscious|Unconscious]].
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

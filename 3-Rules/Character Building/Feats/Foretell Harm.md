@@ -14,7 +14,7 @@ license: ORC
 ---
 # Foretell Harm `pf2:0`
 ## Feat 1
-### [[cursebound]][[divine]][[oracle]]
+### [[Cursebound]][[divine]][[oracle]]
 
 **Category** class; 
 

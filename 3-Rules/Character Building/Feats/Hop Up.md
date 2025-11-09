@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** You lose the [[Conditions/Unconscious|Unconscious]] condition.
+**Trigger** You lose the [[Unconscious|Unconscious]] condition.
 
 * * *
 

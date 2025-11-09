@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-Your grasp has a supernatural quality to it, preventing your foes from easily escaping-with or without magical assistance. If a creature you have [[Conditions/Grabbed|Grabbed]] attempts to use a teleportation spell or effect, it must succeed at a DC 15 Flat check check or the spell fails. If a creature you have grabbed attempts to Escape while under the effect of freedom of movement, it must succeed at a DC 15 Flat check check or be forced to roll the Escape attempt normally, rather than automatically succeeding.
+Your grasp has a supernatural quality to it, preventing your foes from easily escaping-with or without magical assistance. If a creature you have [[Grabbed|Grabbed]] attempts to use a teleportation spell or effect, it must succeed at a DC 15 Flat check check or the spell fails. If a creature you have grabbed attempts to Escape while under the effect of freedom of movement, it must succeed at a DC 15 Flat check check or be forced to roll the Escape attempt normally, rather than automatically succeeding.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

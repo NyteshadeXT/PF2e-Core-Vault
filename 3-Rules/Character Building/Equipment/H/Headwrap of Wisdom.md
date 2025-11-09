@@ -36,7 +36,7 @@ This simple scarf is designed for wrapping around the head and comes with a gemm
 
 **Frequency** once per hour
 
-**Trigger** You fail a saving throw against an effect that makes you [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Stupefied|Stupefied]]
+**Trigger** You fail a saving throw against an effect that makes you [[Confused|Confused]], [[Fascinated|Fascinated]], or [[Stupefied|Stupefied]]
 
 **Effect** The _headwrap of wisdom_ clears your mind. You can reroll the saving throw and use the better result.
 

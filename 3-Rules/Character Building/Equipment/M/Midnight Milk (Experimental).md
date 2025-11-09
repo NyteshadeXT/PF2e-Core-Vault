@@ -36,9 +36,9 @@ Midnight milk is a strange and powerful drug, originally invented by the intelle
 
 **Stage 1** +2 item bonus to Perception (1 hour)
 
-**Stage 2** [[Conditions/Fatigued|Fatigued]] (1 hour)
+**Stage 2** [[Fatigued|Fatigued]] (1 hour)
 
-**Stage 3** [[Conditions/Unconscious|Unconscious]] (1 hour; while unconscious, the creature dreams of being drawn down into the Darklands to be ruled by sinister unseen forces—to the dreaming creature, the effect seems to last for years, and the creature is fatigued upon awakening from this stage)
+**Stage 3** [[Unconscious|Unconscious]] (1 hour; while unconscious, the creature dreams of being drawn down into the Darklands to be ruled by sinister unseen forces—to the dreaming creature, the effect seems to last for years, and the creature is fatigued upon awakening from this stage)
 
 *Source: Pathfinder #200: Seven Dooms for Sandpoint*
 *OGL*

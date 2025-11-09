@@ -32,7 +32,7 @@ license: OGL
 
 * * *
 
-This tightly sealed metal container is filled with highly pressurized gas that can explode to release a powerful shockwave. A pressure bomb deals 4d4 bludgeoning damage and 4 bludgeoning splash damage. On a critical hit, the target is knocked [[Conditions/Prone|Prone]].
+This tightly sealed metal container is filled with highly pressurized gas that can explode to release a powerful shockwave. A pressure bomb deals 4d4 bludgeoning damage and 4 bludgeoning splash damage. On a critical hit, the target is knocked [[Prone|Prone]].
 
 Medium or smaller creatures who take splash damage are pushed 5 feet away from the target, and then, if the target is Large or smaller, it is pushed 5 feet away from you.
 

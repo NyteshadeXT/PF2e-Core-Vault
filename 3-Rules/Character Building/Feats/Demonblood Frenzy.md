@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury. You become [[Conditions/Quickened|Quickened]] until the end of your next turn and you can use the extra action to make a tusks Strike, Stride, or Step.
+Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury. You become [[Quickened|Quickened]] until the end of your next turn and you can use the extra action to make a tusks Strike, Stride, or Step.
 
 *Source: Pathfinder Lost Omens The Mwangi Expanse*
 *OGL*

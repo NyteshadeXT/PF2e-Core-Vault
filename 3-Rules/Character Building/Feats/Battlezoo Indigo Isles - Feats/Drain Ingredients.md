@@ -30,9 +30,9 @@ You magically draw ingredients out of your enemies’ bodies, transforming them 
 
 **Success** The enemy takes half damage.
 
-**Failure** The enemy takes full damage and is [[Conditions/Drained|Drained 1]].
+**Failure** The enemy takes full damage and is [[Drained|Drained 1]].
 
-**Critical Failure** The enemy takes double damage and is [[Conditions/Drained|Drained 2]].
+**Critical Failure** The enemy takes double damage and is [[Drained|Drained 2]].
 
 *Source: *
 *OGL*

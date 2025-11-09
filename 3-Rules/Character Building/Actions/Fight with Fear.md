@@ -31,7 +31,7 @@ license: OGL
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]], and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
+**Failure** The creature is [[Frightened|Frightened 2]], and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
 
 **Critical Failure** The creature is frightened 2, and you're unaffected by the triggering mental effect.
 

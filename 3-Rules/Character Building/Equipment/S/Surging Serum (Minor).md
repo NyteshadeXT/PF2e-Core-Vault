@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it counteracts at 1st-rank and has a +6 Counteract Modifier to remove the [[Conditions/Clumsy|Clumsy]] or [[Conditions/Enfeebled|Enfeebled]] condition from a single source, using the source of that condition to determine the counteract rank and DC.
+Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it counteracts at 1st-rank and has a +6 Counteract Modifier to remove the [[Clumsy|Clumsy]] or [[Enfeebled|Enfeebled]] condition from a single source, using the source of that condition to determine the counteract rank and DC.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

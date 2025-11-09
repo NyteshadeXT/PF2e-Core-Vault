@@ -24,12 +24,12 @@ Many proteans can subject their foes to disorienting alterations perceived in ti
 
 | 4d6 temporary Hit Points |
 | --- |
-| 3 | [[Conditions/Dazzled\|Dazzled]] (permanent on a critical failure) |
-| 4 | [[Conditions/Enfeebled\|Enfeebled 2]] ([[Conditions/Enfeebled\|Enfeebled 3]] on a critical failure) |
-| 5 | [[Conditions/Immobilized\|Immobilized]] by filaments of energy |
-| 6 | [[Conditions/Quickened\|Quickened]] (Stride, Strike, or Step only) |
-| 7 | [[Conditions/Slowed\|Slowed 1]] |
-| 8 | [[Conditions/Stupefied\|Stupefied 2]] ([[Conditions/Stupefied\|Stupefied 3]] on a critical failure) |
+| 3 | [[Dazzled\|Dazzled]] (permanent on a critical failure) |
+| 4 | [[Enfeebled\|Enfeebled 2]] ([[Enfeebled\|Enfeebled 3]] on a critical failure) |
+| 5 | [[Immobilized\|Immobilized]] by filaments of energy |
+| 6 | [[Quickened\|Quickened]] (Stride, Strike, or Step only) |
+| 7 | [[Slowed\|Slowed 1]] |
+| 8 | [[Stupefied\|Stupefied 2]] ([[Stupefied\|Stupefied 3]] on a critical failure) |
 
 *Source: Pathfinder Monster Core*
 *ORC*

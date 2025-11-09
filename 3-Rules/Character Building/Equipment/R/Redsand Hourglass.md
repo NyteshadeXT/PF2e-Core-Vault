@@ -18,7 +18,7 @@ license: OGL
 **Bulk** 1; **Size** med
 **Usage** held-in-one-hand
 
-This platinum hourglass is filled with red sand, is decorated with imagery of roses and whippoorwills with tiny black onyx eyes, and has the ability to manipulate time. Once used by Pharasma herself, the _Redsand Hourglass_ was stolen from Pharasma's court a millennia ago. While the hourglass is in your possession, you're immune to the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions.
+This platinum hourglass is filled with red sand, is decorated with imagery of roses and whippoorwills with tiny black onyx eyes, and has the ability to manipulate time. Once used by Pharasma herself, the _Redsand Hourglass_ was stolen from Pharasma's court a millennia ago. While the hourglass is in your possession, you're immune to the [[Paralyzed|Paralyzed]], [[Slowed|Slowed]], and [[Stunned|Stunned]] conditions.
 
 **Activate** `pf2:r` Interact (divine, fortune, transmutation)
 
@@ -36,7 +36,7 @@ This platinum hourglass is filled with red sand, is decorated with imagery of ro
 
 * * *
 
-**Effect** You flip the hourglass upside down, unhinging you from the flow of time. You become [[Conditions/Quickened|Quickened]] for 1 minute. You can use this extra action only to Step, Stride, or Sustain a Spell.
+**Effect** You flip the hourglass upside down, unhinging you from the flow of time. You become [[Quickened|Quickened]] for 1 minute. You can use this extra action only to Step, Stride, or Sustain a Spell.
 
 **Activate** `pf2:3` Interact (divine, transmutation)
 

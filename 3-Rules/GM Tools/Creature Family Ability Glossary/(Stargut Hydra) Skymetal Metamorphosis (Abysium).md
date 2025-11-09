@@ -22,7 +22,7 @@ license: ORC
 
 Each stargut hydra has at least one metamorphosis resulting from consuming a specific skymetal and internalizing its properties.
 
-**Abysium** (aura, poison) The stargut hydra emits an aura of nauseating radiation from the abysium in its body. Any creature that begins its turn within 30 feet of the stargut hydra is [[Conditions/Sickened|Sickened 1]].
+**Abysium** (aura, poison) The stargut hydra emits an aura of nauseating radiation from the abysium in its body. Any creature that begins its turn within 30 feet of the stargut hydra is [[Sickened|Sickened 1]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

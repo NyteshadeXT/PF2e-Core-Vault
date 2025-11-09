@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-When you've decided to quash a story, no one can escape from you with any incriminating information. Make a melee Strike against the triggering creature. On a hit, the triggering creature is Grabbed, and on a critical hit, they're [[Conditions/Slowed|Slowed 1]]. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
+When you've decided to quash a story, no one can escape from you with any incriminating information. Make a melee Strike against the triggering creature. On a hit, the triggering creature is Grabbed, and on a critical hit, they're [[Slowed|Slowed 1]]. This Strike doesn't count toward your multiple attack penalty, and your multiple attack penalty doesn't apply to this Strike.
 
 *Source: Paizo Blog: Foolish Housekeeping and Other Articles*
 *ORC*

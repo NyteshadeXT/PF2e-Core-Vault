@@ -34,7 +34,7 @@ Choose when you first awaken the weapon for the granted spells to be either divi
 *   **8th** The additional negative damage increases to 1d6
 *   **10th** On a critical hit, the target is [[Enfeebled|Enfeebled 1]] for 1 round
 *   **12th** The negative damage dealt by this awakened property ignores resistances
-*   **16th** On a critical hit, the target is [[enfeebled|Enfeebled 2]] for 1 round
+*   **16th** On a critical hit, the target is [[Enfeebled|Enfeebled 2]] for 1 round
 *   **18th** The additional negative damage increases to 1d8
 *   **20th** On a successful Strike with the weapon, before applying negative damage, the target gains weakness 1 to negative until the beginning of your next turn
 

@@ -37,7 +37,7 @@ This _+2 striking whip_'s thousands of long, opalescent strands shimmer and appe
 
 **Frequency** once per round;
 
-**Effect** You wave the silken tail in a fantastic display of bedazzling color and light. Creatures other than you within 5 feet who can see the whip must succeed at a DC 26 Fortitude check save or become [[Conditions/Dazzled|Dazzled]] for 1 round. Creatures you have damaged with the whip this round take a -2 circumstance penalty on this save.
+**Effect** You wave the silken tail in a fantastic display of bedazzling color and light. Creatures other than you within 5 feet who can see the whip must succeed at a DC 26 Fortitude check save or become [[Dazzled|Dazzled]] for 1 round. Creatures you have damaged with the whip this round take a -2 circumstance penalty on this save.
 
 * * *
 

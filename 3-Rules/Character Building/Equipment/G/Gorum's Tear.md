@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-This teardrop-shaped piece of iron is a naturally occurring mineral, said to be a solidified tear of bellicose joy shed by Gorum during his battles. When you activate the Gorum's tear, you roll your next attack roll twice and take the better result, ignoring any circumstance penalties. You then become [[Conditions/Off-Guard|Off-Guard]] to the creature you targeted until the beginning of your next turn.
+This teardrop-shaped piece of iron is a naturally occurring mineral, said to be a solidified tear of bellicose joy shed by Gorum during his battles. When you activate the Gorum's tear, you roll your next attack roll twice and take the better result, ignoring any circumstance penalties. You then become [[Off-Guard|Off-Guard]] to the creature you targeted until the beginning of your next turn.
 
 *Source: Pathfinder #209: Destroyer's Doom*
 *ORC*

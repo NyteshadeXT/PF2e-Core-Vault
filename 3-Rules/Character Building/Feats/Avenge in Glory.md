@@ -22,7 +22,7 @@ license: OGL
 
 **Access** mountain dwarf ethnicity
 
-**Trigger** An ally within 30 feet gains the [[Conditions/Dying|Dying]] condition.
+**Trigger** An ally within 30 feet gains the [[Dying|Dying]] condition.
 
 * * *
 

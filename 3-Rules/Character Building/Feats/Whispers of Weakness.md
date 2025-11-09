@@ -14,7 +14,7 @@ license: ORC
 ---
 # Whispers of Weakness `pf2:1`
 ## Feat 1
-### [[cursebound]][[divine]][[oracle]]
+### [[Cursebound]][[divine]][[oracle]]
 
 **Category** class; 
 

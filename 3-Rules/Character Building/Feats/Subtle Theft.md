@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Thievery
 * * *
-When you successfully [[Actions/Steal|Steal]] something, observers (creatures other than the creature you stole from) take a –2 circumstance penalty to their Perception DCs to detect your theft. Additionally, if you first [[Actions/Create a Diversion|Create a Diversion]] using Deception, taking a single [[Actions/Palm an Object|Palm an Object]] or Steal action doesn't end your [[Conditions/Undetected|Undetected]] condition.
+When you successfully [[Actions/Steal|Steal]] something, observers (creatures other than the creature you stole from) take a –2 circumstance penalty to their Perception DCs to detect your theft. Additionally, if you first [[Actions/Create a Diversion|Create a Diversion]] using Deception, taking a single [[Actions/Palm an Object|Palm an Object]] or Steal action doesn't end your [[Undetected|Undetected]] condition.
 
 *Source: Pathfinder Player Core*
 *ORC*

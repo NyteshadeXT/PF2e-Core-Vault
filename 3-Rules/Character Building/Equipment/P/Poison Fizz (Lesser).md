@@ -26,7 +26,7 @@ Made from a special mixture of honey and alchemical reagents, poison fizz is a z
 
 **Secondary Effect** `pf2:2` (poison)
 
-**Effect** You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot cone. This deals 3d6 poison with a DC 24 Reflex check. A creature that critically fails is also [[Conditions/Blinded|Blinded]] until the end of your next turn and is then temporarily immune to being blinded by poison fizz for 1 hour.
+**Effect** You bite the poison fizz to release its poisonous liquid center and spray green mist in a 15-foot cone. This deals 3d6 poison with a DC 24 Reflex check. A creature that critically fails is also [[Blinded|Blinded]] until the end of your next turn and is then temporarily immune to being blinded by poison fizz for 1 hour.
 
 [[Equipment Effects/Effect_ Poison Fizz|Effect: Poison Fizz]]
 

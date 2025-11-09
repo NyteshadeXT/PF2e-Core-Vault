@@ -33,7 +33,7 @@ You gain resistance equal to half your level against one type of damage determin
 *   **Green** Poison
 *   **Silver or White** Cold
 
-You also gain a +1 circumstance bonus to saving throws against sleep effects and effects that would make you [[Conditions/Paralyzed|Paralyzed]].
+You also gain a +1 circumstance bonus to saving throws against sleep effects and effects that would make you [[Paralyzed|Paralyzed]].
 
 **Special** If you later take the sorcerer archetype, you must choose the draconic bloodline.
 

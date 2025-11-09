@@ -17,7 +17,7 @@ license: OGL
 
 
 
-You respond with a sudden and powerful flare of fury when an opponent overwhelms you physically and revenge comes quickly to mind for this indignity. If a foe your size or larger knocks you [[Conditions/Prone|Prone]], that foe is [[Conditions/Off-Guard|Off-Guard]] to you for 1 round. If a foe reduces you to 0 Hit Points, that foe is off-guard to you for 1 round after you regain consciousness.
+You respond with a sudden and powerful flare of fury when an opponent overwhelms you physically and revenge comes quickly to mind for this indignity. If a foe your size or larger knocks you [[Prone|Prone]], that foe is [[Off-Guard|Off-Guard]] to you for 1 round. If a foe reduces you to 0 Hit Points, that foe is off-guard to you for 1 round after you regain consciousness.
 
 *Source: *
 *OGL*

@@ -28,11 +28,11 @@ You can frighten foes so much, they might die. Attempt an Intimidation check che
 
 * * *
 
-**Critical Success** The target must attempt a Fortitude check save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[Conditions/Frightened|Frightened 2]] and is [[Conditions/Fleeing|Fleeing]] for 1 round. The critical failure effect has the death trait.
+**Critical Success** The target must attempt a Fortitude check save against your Intimidation DC. On a critical failure, it dies. On any other result, it becomes [[Frightened|Frightened 2]] and is [[Fleeing|Fleeing]] for 1 round. The critical failure effect has the death trait.
 
 **Success** The target becomes frightened 2.
 
-**Failure** The target becomes [[Conditions/Frightened|Frightened 1]].
+**Failure** The target becomes [[Frightened|Frightened 1]].
 
 **Critical Failure** The target is unaffected.
 

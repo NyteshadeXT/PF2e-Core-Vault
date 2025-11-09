@@ -32,9 +32,9 @@ When a creature enters this snare's square, it triggers an extremely loud clockw
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 round.
+**Failure** The creature takes full damage and is [[Deafened|Deafened]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[Conditions/Deafened|Deafened]] for 1 minute.
+**Critical Failure** The creature takes double damage and is [[Deafened|Deafened]] for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

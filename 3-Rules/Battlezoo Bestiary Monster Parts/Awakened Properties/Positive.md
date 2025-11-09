@@ -33,7 +33,7 @@ Choose when you first awaken the weapon for the granted spells to be either divi
 *   **4th** The additional positive damage increases to 1d4
 *   **6th** The additional positive damage increases to 1d6. On a critical hit, the undead is also [[Enfeebled|Enfeebled 1]] until the end of your next turn
 *   **10th** The positive damage dealt by this awakened property ignores resistances
-*   **14th** On a critical hit, instead of being [[enfeebled|Enfeebled 1]] until the end of your next turn, the undead must attempt a Fortitude save. On a critical success, it's [[enfeebled|Enfeebled 1]] until the end of your next turn, on a success, it's [[enfeebled|Enfeebled 2]] until then, on a failure, it's [[enfeebled|Enfeebled 3]] until then, and on a critical failure, it's destroyed. This effect has the [[incapacitation]] trait
+*   **14th** On a critical hit, instead of being [[Enfeebled|Enfeebled 1]] until the end of your next turn, the undead must attempt a Fortitude save. On a critical success, it's [[Enfeebled|Enfeebled 1]] until the end of your next turn, on a success, it's [[Enfeebled|Enfeebled 2]] until then, on a failure, it's [[Enfeebled|Enfeebled 3]] until then, and on a critical failure, it's destroyed. This effect has the [[incapacitation]] trait
 *   **18th** The additional positive damage increases to 1d8
 *   **20th** On a successful Strike with the weapon, before applying positive damage, the target gains weakness 1 to positive until the beginning of your next turn
 

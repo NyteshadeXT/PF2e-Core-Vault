@@ -21,11 +21,11 @@ license: OGL
 
 **Access** Help either the Washboard Dogs or the Diobel Sweepers destroy their rival.
 
-**Requirements** You have a melee weapon of light bulk [[Conditions/Concealed|Concealed]] on your person via the Stealth skill, and the target isn't aware of it.
+**Requirements** You have a melee weapon of light bulk [[3-Rules/Conditions/Concealed|Concealed]] on your person via the Stealth skill, and the target isn't aware of it.
 
 * * *
 
-You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[Conditions/Off-Guard|Off-Guard]] for this attack.
+You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[Off-Guard|Off-Guard]] for this attack.
 
 *Source: Pathfinder #159: All or Nothing*
 *OGL*

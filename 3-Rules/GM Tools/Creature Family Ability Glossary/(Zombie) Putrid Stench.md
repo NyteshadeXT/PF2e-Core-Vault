@@ -19,7 +19,7 @@ license: OGL
 
 
 
-15 feet. The zombie's rotting flesh is particularly malodorous. A creature that enters the area must attempt a Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all zombies' putrid stenches for 1 minute.
+15 feet. The zombie's rotting flesh is particularly malodorous. A creature that enters the area must attempt a Fortitude check save. On a failure, the creature is [[Sickened|Sickened 1]], and on a critical failure, the creature also takes a -5-foot status penalty to its Speeds for 1 round. While within the aura, the creature takes a -2 circumstance penalty to saves to recover from the sickened condition. A creature that succeeds at its save is temporarily immune to all zombies' putrid stenches for 1 minute.
 
 [[Bestiary Effects/Effect_ Putrid Stench|Effect: Putrid Stench]]
 

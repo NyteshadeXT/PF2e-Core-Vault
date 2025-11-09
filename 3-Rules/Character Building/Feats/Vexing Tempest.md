@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Familiar Sage Dedication; Tempest Cloud's Speed
 * * *
-Your familiar channels elemental air around it to unleash a disruptive gust that sends creatures flying. If the next action you use is to Cast a Spell that has the air trait, all creatures within a 15-foot emanation of your familiar must attempt a Reflex save against your spell DC or be pushed 10 feet away. On a critical failure, they're also knocked [[Conditions/Prone|Prone]].
+Your familiar channels elemental air around it to unleash a disruptive gust that sends creatures flying. If the next action you use is to Cast a Spell that has the air trait, all creatures within a 15-foot emanation of your familiar must attempt a Reflex save against your spell DC or be pushed 10 feet away. On a critical failure, they're also knocked [[Prone|Prone]].
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

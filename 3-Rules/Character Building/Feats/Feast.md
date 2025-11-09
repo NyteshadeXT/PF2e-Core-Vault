@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Zombie Dedication
 * * *
-**Requirements** You are adjacent to a [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour.
+**Requirements** You are adjacent to a [[Restrained|Restrained]] or [[Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour.
 
 * * *
 

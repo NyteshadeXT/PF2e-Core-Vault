@@ -138,7 +138,7 @@ rarity: uncommon
 **Forceful Tail Grip (Additive, Level 7)**  
 - *Add To:* Bludgeoning melee weapons  
 - *Effect:* Gains [[forceful]] and [[shove]] traits  
-- *Bonus:* On a critical hit, the target must succeed at a DC 22 Reflex save or fall [[prone]]
+- *Bonus:* On a critical hit, the target must succeed at a DC 22 Reflex save or fall [[Prone]]
 
 ---
 

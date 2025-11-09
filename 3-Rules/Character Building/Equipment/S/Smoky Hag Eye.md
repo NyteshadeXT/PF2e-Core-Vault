@@ -23,7 +23,7 @@ This item appears to be an ordinary semiprecious stone and is typically mounted 
 
 The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of her coven, can peer through the eye using the Seek action. This has no range limit, provided the hag is on the same plane.
 
-Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.
+Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded|Blinded]] for 1 hour.
 
 A _smoky hag eye_ is named after the black vapor that constantly emanates from it, like the smoke that continually seeps from a bodak's eye.
 
@@ -35,11 +35,11 @@ A _smoky hag eye_ is named after the black vapor that constantly emanates from i
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Drained|Drained 1]].
+**Success** The creature is [[Drained|Drained 1]].
 
-**Failure** The creature is [[Conditions/Doomed|Doomed 1]] and [[Conditions/Drained|Drained 2]].
+**Failure** The creature is [[Doomed|Doomed 1]] and [[Drained|Drained 2]].
 
-**Critical Failure** The creature is doomed 1 and [[Conditions/Drained|Drained 3]].
+**Critical Failure** The creature is doomed 1 and [[Drained|Drained 3]].
 
 * * *
 

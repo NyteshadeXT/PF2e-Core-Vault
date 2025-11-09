@@ -19,11 +19,11 @@ license: ORC
 
 
 
-**Requirements** The grandmaster has a target grappled or [[Conditions/Restrained|Restrained]]
+**Requirements** The grandmaster has a target grappled or [[Restrained|Restrained]]
 
 * * *
 
-**Effect** The grandmaster tosses their target upwards and electrocutes them with a qi-infused double palm strike as they land. The target becomes [[Conditions/Prone|Prone]], loses the grappled or restrained condition, and takes 5d6 bludgeoning and 2d8 persistent electricity damage (DC 38 Fortitude check save).
+**Effect** The grandmaster tosses their target upwards and electrocutes them with a qi-infused double palm strike as they land. The target becomes [[Prone|Prone]], loses the grappled or restrained condition, and takes 5d6 bludgeoning and 2d8 persistent electricity damage (DC 38 Fortitude check save).
 
 *Source: Pathfinder NPC Core*
 *ORC*

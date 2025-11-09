@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-Vitality floods your trammeled soul, offering you rejuvenation, if not quite rest. For each effect that causes the [[Conditions/Enfeebled|Enfeebled]] or [[Conditions/Fatigued|Fatigued]] conditions to affect you, attempt a Nature check check to counteract that effect. The counteract rank of Germination of Resolve is equal to half your level rounded up.
+Vitality floods your trammeled soul, offering you rejuvenation, if not quite rest. For each effect that causes the [[Enfeebled|Enfeebled]] or [[Fatigued|Fatigued]] conditions to affect you, attempt a Nature check check to counteract that effect. The counteract rank of Germination of Resolve is equal to half your level rounded up.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

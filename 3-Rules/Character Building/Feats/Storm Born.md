@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** storm order
 * * *
-You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don't require a flat check to succeed against a target [[Conditions/Concealed|Concealed]] by weather (such as fog).
+You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don't require a flat check to succeed against a target [[3-Rules/Conditions/Concealed|Concealed]] by weather (such as fog).
 
 *Source: Pathfinder Player Core*
 *ORC*

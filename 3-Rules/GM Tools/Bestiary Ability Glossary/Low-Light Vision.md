@@ -18,7 +18,7 @@ license: ORC
 
 
 
-The monster can see in dim light as though it were bright light, so it ignores the [[Conditions/Concealed|Concealed]] condition due to dim light.
+The monster can see in dim light as though it were bright light, so it ignores the [[3-Rules/Conditions/Concealed|Concealed]] condition due to dim light.
 
 *Source: Pathfinder Monster Core*
 *ORC*

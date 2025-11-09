@@ -26,7 +26,7 @@ Originally designed by a fanatical sect of Gozren priests, _goz masks_ were desi
 
 **Frequency** once per day
 
-**Effect** You ignore [[Conditions/Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 1 minute.
+**Effect** You ignore [[3-Rules/Conditions/Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 1 minute.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

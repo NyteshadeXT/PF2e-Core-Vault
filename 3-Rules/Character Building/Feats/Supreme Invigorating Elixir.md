@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Invigorating Elixir
 * * *
-For the purposes of counteracting effects with invigorating elixirs, treat your level as though it were 2 higher. Add the listed conditions to those you can choose for an invigorating elixir you create to counteract: [[Conditions/Petrified|Petrified]], [[Conditions/Stunned|Stunned]]. You can also choose a disease regardless of what, if any, conditions it imposes.
+For the purposes of counteracting effects with invigorating elixirs, treat your level as though it were 2 higher. Add the listed conditions to those you can choose for an invigorating elixir you create to counteract: [[Petrified|Petrified]], [[Stunned|Stunned]]. You can also choose a disease regardless of what, if any, conditions it imposes.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

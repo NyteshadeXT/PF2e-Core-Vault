@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You wash away a creature's pain with a touch. An adjacent creature regains 100 healing Hit Points and reduces their [[Conditions/Drained|Drained]], [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], and [[Conditions/Stupefied|Stupefied]] conditions by 1 (to a minimum of 0).
+You wash away a creature's pain with a touch. An adjacent creature regains 100 healing Hit Points and reduces their [[Drained|Drained]], [[Clumsy|Clumsy]], [[Enfeebled|Enfeebled]], [[Frightened|Frightened]], and [[Stupefied|Stupefied]] conditions by 1 (to a minimum of 0).
 
 *Source: Pathfinder Lost Omens Divine Mysteries*
 *ORC*

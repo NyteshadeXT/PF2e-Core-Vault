@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** wildfire leshy heritage
 * * *
-Ash and smoke are just as much of a part of your being as fire. By attuning yourself to the fine particles that linger in smoky air, you can see through it clearly. Smoke doesn’t impair your vision; you ignore the [[Conditions/Concealed|Concealed]] condition from smoke.
+Ash and smoke are just as much of a part of your being as fire. By attuning yourself to the fine particles that linger in smoky air, you can see through it clearly. Smoke doesn’t impair your vision; you ignore the [[3-Rules/Conditions/Concealed|Concealed]] condition from smoke.
 
 *Source: *
 *OGL*

@@ -29,7 +29,7 @@ license: ORC
 
 * * *
 
-This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and battle magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 Reflex check save). On a failed save, the foe is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
+This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and battle magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 Reflex check save). On a failed save, the foe is [[Off-Guard|Off-Guard]] until the start of its next turn.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

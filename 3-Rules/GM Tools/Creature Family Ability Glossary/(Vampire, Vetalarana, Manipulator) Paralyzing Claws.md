@@ -19,7 +19,7 @@ license: OGL
 
 
 
-Any living creature hit by a vetalarana manipulator's claw Strike must succeed at a Fortitude check save or become [[Conditions/Paralyzed|Paralyzed]]. The target can attempt a new save at the end of each of its turns to end the effect, and the DC cumulatively decreases by 1 on each such save. Use the moderate DC for the creature's level.
+Any living creature hit by a vetalarana manipulator's claw Strike must succeed at a Fortitude check save or become [[Paralyzed|Paralyzed]]. The target can attempt a new save at the end of each of its turns to end the effect, and the DC cumulatively decreases by 1 on each such save. Use the moderate DC for the creature's level.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

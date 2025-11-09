@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You drop your disguise at the right moment and surprise your target. After you [[Actions/Impersonate|Impersonate]] someone else using a disguise kit, you can remove your disguise with a dramatic gesture. Any creatures that previously failed to see through your disguise are [[Conditions/Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
+You drop your disguise at the right moment and surprise your target. After you [[Actions/Impersonate|Impersonate]] someone else using a disguise kit, you can remove your disguise with a dramatic gesture. Any creatures that previously failed to see through your disguise are [[Off-Guard|Off-Guard]] against the next attack you make before the end of your turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

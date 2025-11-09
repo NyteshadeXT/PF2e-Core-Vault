@@ -21,11 +21,11 @@ license: ORC
 
 **Prerequisites** Scout Dedication
 * * *
-**Requirements** You are [[Conditions/Hidden|Hidden]] from or [[Conditions/Undetected|Undetected]] by all of your opponents, and you aren't within 10 feet of any enemy.
+**Requirements** You are [[Hidden|Hidden]] from or [[Undetected|Undetected]] by all of your opponents, and you aren't within 10 feet of any enemy.
 
 * * *
 
-You leap from the shadows to strike your foes. Stride up to your Speed, then Strike twice. If you were hidden or unnoticed by the target of these Strikes, your foe is [[Conditions/Off-Guard|Off-Guard]] against both attacks.
+You leap from the shadows to strike your foes. Stride up to your Speed, then Strike twice. If you were hidden or unnoticed by the target of these Strikes, your foe is [[Off-Guard|Off-Guard]] against both attacks.
 
 Your multiple attack penalty applies normally for both attacks.
 

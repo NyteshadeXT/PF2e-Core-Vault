@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [[Conditions/Confused|Confused]] state. Secret societies use these drops to befuddle a target or to frame them for violence.
+These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [[Confused|Confused]] state. Secret societies use these drops to befuddle a target or to frame them for violence.
 
 * * *
 
@@ -37,11 +37,11 @@ These innocuous, colorless drops can be poured directly into a victim's mouth, o
 
 **Maximum Duration** 1 hour
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)
+**Stage 1** [[Stupefied|Stupefied 1]] (10 minutes)
 
-**Stage 2** stupefied 1 and [[Conditions/Clumsy|Clumsy 1]] (20 minutes)
+**Stage 2** stupefied 1 and [[Clumsy|Clumsy 1]] (20 minutes)
 
-**Stage 3** stupefied 1, clumsy 1, and [[Conditions/Confused|Confused]] (30 minutes)
+**Stage 3** stupefied 1, clumsy 1, and [[Confused|Confused]] (30 minutes)
 
 *Source: Pathfinder Dark Archive*
 *OGL*

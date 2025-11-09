@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Sniping Duo Dedication
 * * *
-You and your spotter are adept at watching out for one another. As long as you can see or hear each other, neither of you is [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking creatures of your level or lower, or to creatures of your level or lower using a surprise attack. However, they can still help their allies flank.
+You and your spotter are adept at watching out for one another. As long as you can see or hear each other, neither of you is [[Off-Guard|Off-Guard]] to [[Hidden|Hidden]], [[Undetected|Undetected]], or flanking creatures of your level or lower, or to creatures of your level or lower using a surprise attack. However, they can still help their allies flank.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

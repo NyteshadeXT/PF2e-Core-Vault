@@ -23,9 +23,9 @@ The grandmaster unleashes a qi wave as bright as the sun. All creatures within a
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Critical Success** The creature is [[Dazzled|Dazzled]] for 1 round.
 
-**Success** The creature is [[Conditions/Blinded|Blinded]] for 1 round.
+**Success** The creature is [[Blinded|Blinded]] for 1 round.
 
 **Failure** The creature is blinded for 1 day.
 

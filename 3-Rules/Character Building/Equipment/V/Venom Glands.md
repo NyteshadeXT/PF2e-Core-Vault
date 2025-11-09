@@ -21,7 +21,7 @@ license: ORC
 **Bulk** 0; **Size** med
 **Usage** implanted
 
-Your salivary glands are modified to be capable of spraying a deadly venom. You gain a poison spray unarmed ranged attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target is also [[Conditions/Sickened|Sickened 1]].
+Your salivary glands are modified to be capable of spraying a deadly venom. You gain a poison spray unarmed ranged attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target is also [[Sickened|Sickened 1]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

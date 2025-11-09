@@ -49,7 +49,7 @@ This wicked-looking curved weapon is a _+1 striking dagger_ that draws power fro
 
 **Trigger** You reduce a foe to 0 Hit Points with a Strike from the heartripper blade
 
-**Effect** The heartripper blade draws life from the victim's body and siphons it into you. Choose one of the following effects: restore 2d8 healing; reduce the value of your [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Stupefied|Stupefied]] conditions by 1; or reduce the stage of one toxin or disease you're suffering by one stage (this can't reduce the stage below stage 1 or cure the affliction).
+**Effect** The heartripper blade draws life from the victim's body and siphons it into you. Choose one of the following effects: restore 2d8 healing; reduce the value of your [[Clumsy|Clumsy]], [[Enfeebled|Enfeebled]], or [[Stupefied|Stupefied]] conditions by 1; or reduce the stage of one toxin or disease you're suffering by one stage (this can't reduce the stage below stage 1 or cure the affliction).
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

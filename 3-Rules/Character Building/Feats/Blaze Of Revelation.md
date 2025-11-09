@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** You are [[Conditions/Cursebound|Cursebound 4]].
+**Requirements** You are [[Cursebound|Cursebound 4]].
 
 * * *
 
@@ -31,9 +31,9 @@ At the end of the minute, the durations of any revelation spells you cast during
 
 **Critical Success** You aren't otherwise affected.
 
-**Success** You are [[Conditions/Drained|Drained 2]] and can't reduce or remove this condition until your next preparations.
+**Success** You are [[Drained|Drained 2]] and can't reduce or remove this condition until your next preparations.
 
-**Failure** You are [[Conditions/Drained|Drained 4]] and can't reduce or remove this condition until your next preparations.
+**Failure** You are [[Drained|Drained 4]] and can't reduce or remove this condition until your next preparations.
 
 **Critical Failure** You die.
 

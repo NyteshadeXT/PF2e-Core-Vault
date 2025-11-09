@@ -19,7 +19,7 @@ license: ORC
 
 
 
-The martial artist [[Actions/feint|feint]]{Feints}. On a success, the martial artist tosses sand into the face of one target, [[Conditions/Blinded|Blinding]] them for 1 round or until the target Interacts to remove the blinded condition.
+The martial artist [[Actions/feint|feint]]{Feints}. On a success, the martial artist tosses sand into the face of one target, [[Blinded|Blinding]] them for 1 round or until the target Interacts to remove the blinded condition.
 
 *Source: Pathfinder NPC Core*
 *ORC*

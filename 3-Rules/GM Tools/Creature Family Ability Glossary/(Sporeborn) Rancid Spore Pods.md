@@ -19,7 +19,7 @@ license: OGL
 
 
 
-The sporeborn is covered in spore pods that rupture when it takes any piercing damage or a critical hit. In either case, adjacent creatures are hit with spores, causing them to become [[Conditions/Sickened|Sickened 1]] unless they succeed at a Fortitude check save.
+The sporeborn is covered in spore pods that rupture when it takes any piercing damage or a critical hit. In either case, adjacent creatures are hit with spores, causing them to become [[Sickened|Sickened 1]] unless they succeed at a Fortitude check save.
 
 *Source: Pathfinder #193: Mantle of Gold*
 *OGL*

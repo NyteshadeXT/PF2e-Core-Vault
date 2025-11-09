@@ -19,7 +19,7 @@ license: OGL
 
 
 
-No one can match the pace at which elements flow from you. You're permanently [[Conditions/Quickened|Quickened]]. You can use your extra action only to [[Actions/Channel Elements|Channel Elements]], use a 1-action [[Actions/Elemental Blast|Elemental Blast]], or use a 1-action stance impulse.
+No one can match the pace at which elements flow from you. You're permanently [[Quickened|Quickened]]. You can use your extra action only to [[Actions/Channel Elements|Channel Elements]], use a 1-action [[Actions/Elemental Blast|Elemental Blast]], or use a 1-action stance impulse.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

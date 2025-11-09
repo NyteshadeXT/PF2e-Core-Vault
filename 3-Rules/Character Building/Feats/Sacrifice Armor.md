@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes [[Conditions/Broken|Broken]], reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.
+With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes [[Broken|Broken]], reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

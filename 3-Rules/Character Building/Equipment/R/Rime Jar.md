@@ -23,7 +23,7 @@ Magical reagents slosh inside this rime-frosted pottery jar the size of a human 
 
 * * *
 
-**Effect** The jar draws off the cold and warms your body. If you have the [[Conditions/Fatigued|Fatigued]] condition caused by exposure to environmental cold, it removes the condition. For 8 hours after applying the rime, you treat extreme cold as severe cold.
+**Effect** The jar draws off the cold and warms your body. If you have the [[Fatigued|Fatigued]] condition caused by exposure to environmental cold, it removes the condition. For 8 hours after applying the rime, you treat extreme cold as severe cold.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

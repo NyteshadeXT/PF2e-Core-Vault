@@ -21,7 +21,7 @@ license: ORC
 
 The zombie is covered in pustules that rupture when it takes any piercing damage or any critical hit.
 
-Adjacent creatures are hit with vile fluid, causing them to become [[Conditions/Sickened|Sickened 1]] unless they succeed at a Fortitude check save against the moderate spell DC for the zombie's level.
+Adjacent creatures are hit with vile fluid, causing them to become [[Sickened|Sickened 1]] unless they succeed at a Fortitude check save against the moderate spell DC for the zombie's level.
 
 *Source: Pathfinder Monster Core*
 *ORC*

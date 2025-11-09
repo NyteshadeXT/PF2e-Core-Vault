@@ -32,7 +32,7 @@ By experimenting with the effects of momentum gained from your signature vehicle
 
 **Rowed** Reinforced ports protect the rowers below decks from harm. Rowers of your signature vehicle who are below decks have greater cover from attacks from outside the vehicle and are not damaged when the vehicle takes collision damage.
 
-**Steam** The outlet of steam forms a cloud around the vehicle as it moves. For the duration of its movement, your signature vehicle is [[Conditions/Concealed|Concealed]].
+**Steam** The outlet of steam forms a cloud around the vehicle as it moves. For the duration of its movement, your signature vehicle is [[3-Rules/Conditions/Concealed|Concealed]].
 
 **Wind** The draft of the wind helps the vehicle turn. During this movement, your signature vehicle can turn normally, rather than needing to move in a straight line as normal for a 2- or 3-action Drive.
 

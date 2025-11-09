@@ -95,4 +95,4 @@ Tidragats are popular with kobolds because their size makes kobolds feel closer 
 
 **Eligible Refinements** weapons (slashing), armor (light, medium, heavy), perception item, skill items (Acrobatics, Arcana, Athletics, Deception, Stealth, Thievery)
 
-**Eligible Imbued Properties** bane, charisma, dexterity, energy resistant (positive), intelligence, light, mental, poison, spells (Arcane: color spray, daze, detect magic, floating disk, ghost sound, illusory object, invisibility, [[Conditions/Invisible|Invisible]] item, mage hand, telekinetic projectile), wild, winged
+**Eligible Imbued Properties** bane, charisma, dexterity, energy resistant (positive), intelligence, light, mental, poison, spells (Arcane: color spray, daze, detect magic, floating disk, ghost sound, illusory object, invisibility, [[Invisible|Invisible]] item, mage hand, telekinetic projectile), wild, winged

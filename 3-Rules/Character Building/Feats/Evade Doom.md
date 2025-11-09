@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You can elude supernatural disaster. When you would gain the [[Conditions/Doomed|Doomed]] condition, you can attempt a DC 17 Flat check check. On a success, you don't gain the doomed condition.
+You can elude supernatural disaster. When you would gain the [[Doomed|Doomed]] condition, you can attempt a DC 17 Flat check check. On a success, you don't gain the doomed condition.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[Conditions/Quickened|Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
+You rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[Quickened|Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

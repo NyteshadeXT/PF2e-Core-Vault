@@ -27,7 +27,7 @@ license: OGL
 
 You mix a special additive into your elixir that calms the drinker's body and mind.
 
-The elixir of life attempts to counteract one fear effect or one effect imposing the [[Conditions/Paralyzed|Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.
+The elixir of life attempts to counteract one fear effect or one effect imposing the [[Paralyzed|Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

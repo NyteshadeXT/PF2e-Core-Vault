@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Your mask can hide you from the undead. You become [[Conditions/Concealed|Concealed]] to undead using vision or lifesense, allowing you to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] without other sources of cover or concealment. This effect lasts only as long as you continue to take no actions other than to Hide, Sneak, [[Actions/Recall Knowledge|Recall Knowledge]], [[Actions/Command an Animal|Command an Animal]] to direct your mask familiar, or other surreptitious actions. The GM determines which actions end the effect, but attacking, casting spells, activating items, and the like always do.
+Your mask can hide you from the undead. You become [[3-Rules/Conditions/Concealed|Concealed]] to undead using vision or lifesense, allowing you to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] without other sources of cover or concealment. This effect lasts only as long as you continue to take no actions other than to Hide, Sneak, [[Actions/Recall Knowledge|Recall Knowledge]], [[Actions/Command an Animal|Command an Animal]] to direct your mask familiar, or other surreptitious actions. The GM determines which actions end the effect, but attacking, casting spells, activating items, and the like always do.
 
 *Source: Pathfinder Claws of the Tyrant*
 *ORC*

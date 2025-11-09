@@ -27,7 +27,7 @@ Popular in Ustalav and other lands where undead are numerous, a _Pharasmin visor
 
 **Frequency** once per day
 
-**Effect** You adjust the visors so that both are lowered. Your vision becomes obscured, causing you to become [[Conditions/Dazzled|Dazzled]]. At the same time, a tiny fraction of Pharasma's notice seeps out of the visor to fill the area around you in a 30-foot emanation. All undead creatures in this area take 12d6 spirit damage (DC 30 Will check save). At the end of your turn, both visors automatically rise back up, but you remain dazzled until the start of your next turn.
+**Effect** You adjust the visors so that both are lowered. Your vision becomes obscured, causing you to become [[Dazzled|Dazzled]]. At the same time, a tiny fraction of Pharasma's notice seeps out of the visor to fill the area around you in a 30-foot emanation. All undead creatures in this area take 12d6 spirit damage (DC 30 Will check save). At the end of your turn, both visors automatically rise back up, but you remain dazzled until the start of your next turn.
 
 * * *
 
@@ -41,7 +41,7 @@ Popular in Ustalav and other lands where undead are numerous, a _Pharasmin visor
 
 **Frequency** once per day
 
-**Effect** You adjust the helm so that only the right visor is lowered. You can see [[Conditions/Invisible|Invisible]] creatures as though they weren't invisible, although their features are blurred, making them [[Conditions/Concealed|Concealed]] and difficult to identify. You can also see incorporeal creatures like ghosts when they have phased through an object if you are within 10 feet of an object's surface; they look like blurry shapes seen through those objects. This effect lasts until 8 hours pass, until you adjust the visors again, or until the item is no longer invested by you, whichever comes first.
+**Effect** You adjust the helm so that only the right visor is lowered. You can see [[Invisible|Invisible]] creatures as though they weren't invisible, although their features are blurred, making them [[3-Rules/Conditions/Concealed|Concealed]] and difficult to identify. You can also see incorporeal creatures like ghosts when they have phased through an object if you are within 10 feet of an object's surface; they look like blurry shapes seen through those objects. This effect lasts until 8 hours pass, until you adjust the visors again, or until the item is no longer invested by you, whichever comes first.
 
 * * *
 

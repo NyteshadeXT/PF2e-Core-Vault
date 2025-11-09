@@ -26,7 +26,7 @@ Jagged metal shards form in the air and lash out from you. You choose shards or 
 
 **Shards** Shards deal 1d6 slashing damage in a 15-foot cone, and a creature that critically fails takes 1d6 bleed damage.
 
-**Spines** Spines deal 1d6 piercing damage in a 30-foot line, and a creature that critically fails is [[Conditions/Clumsy|Clumsy 1]] until the start of your next turn.
+**Spines** Spines deal 1d6 piercing damage in a 30-foot line, and a creature that critically fails is [[Clumsy|Clumsy 1]] until the start of your next turn.
 
 * * *
 

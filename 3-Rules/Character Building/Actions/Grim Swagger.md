@@ -34,9 +34,9 @@ For example, if you attempt a Deception check, you lie and boast about your prow
 
 * * *
 
-**Critical Success** The creature becomes [[Conditions/Frightened|Frightened 3]]. If it's lower level than you, it's also [[Conditions/Fleeing|Fleeing]] for 1 round.
+**Critical Success** The creature becomes [[Frightened|Frightened 3]]. If it's lower level than you, it's also [[Fleeing|Fleeing]] for 1 round.
 
-**Success** The creature becomes [[Conditions/Frightened|Frightened 2]].
+**Success** The creature becomes [[Frightened|Frightened 2]].
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

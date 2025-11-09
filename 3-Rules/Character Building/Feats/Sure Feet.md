@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Whether keeping your balance or climbing, your feet easily find purchase. If you roll a success on an Acrobatics check to [[Actions/Balance|Balance]] or an Athletics check to[[Actions/Climb|Climb]], you get a critical success instead. You're not [[Conditions/Off-Guard|Off-Guard]] when you attempt to Balance or Climb.
+Whether keeping your balance or climbing, your feet easily find purchase. If you roll a success on an Acrobatics check to [[Actions/Balance|Balance]] or an Athletics check to[[Actions/Climb|Climb]], you get a critical success instead. You're not [[Off-Guard|Off-Guard]] when you attempt to Balance or Climb.
 
 *Source: Pathfinder Player Core*
 *ORC*

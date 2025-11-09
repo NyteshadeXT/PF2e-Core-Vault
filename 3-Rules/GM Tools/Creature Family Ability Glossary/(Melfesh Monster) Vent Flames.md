@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** Rifts in the Melfesh Monster's body spew burning gas. The triggering creature must succeed at a DC 21 Reflex check save or inhale spores which remain in its body for 1 minute, take 2d6 fire damage, and become [[Conditions/Sickened|Sickened 1]] (on a critical failure, double damage and [[Conditions/Sickened|Sickened 2]]). This ability replaces Reactive Growth.
+**Effect** Rifts in the Melfesh Monster's body spew burning gas. The triggering creature must succeed at a DC 21 Reflex check save or inhale spores which remain in its body for 1 minute, take 2d6 fire damage, and become [[Sickened|Sickened 1]] (on a critical failure, double damage and [[Sickened|Sickened 2]]). This ability replaces Reactive Growth.
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

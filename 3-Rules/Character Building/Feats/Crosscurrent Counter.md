@@ -20,7 +20,7 @@ license: ORC
 
 
 
-**Trigger** You become [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by a creature.
+**Trigger** You become [[Grabbed|Grabbed]] or [[Restrained|Restrained]] by a creature.
 
 * * *
 

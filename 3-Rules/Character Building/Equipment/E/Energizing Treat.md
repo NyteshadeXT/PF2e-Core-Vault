@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-An energizing treat is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [[Conditions/Quickened|Quickened]] for 1 minute. It can use the extra action each round only for Strike, Stride, and Support actions, and it can do so only if it normally has those actions available and you take the proper action to command it.
+An energizing treat is a treat made from meat or grains. When you feed your animal companion or familiar an energizing treat, it's [[Quickened|Quickened]] for 1 minute. It can use the extra action each round only for Strike, Stride, and Support actions, and it can do so only if it normally has those actions available and you take the proper action to command it.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

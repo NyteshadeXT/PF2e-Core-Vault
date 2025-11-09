@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Broken Chain Dedication
 * * *
-**Trigger** An ally gains the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] condition.
+**Trigger** An ally gains the [[Grabbed|Grabbed]] or [[Restrained|Restrained]] condition.
 
 * * *
 

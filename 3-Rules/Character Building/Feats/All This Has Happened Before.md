@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You instantly recall a memory from one of your countless past lives that heightens your awareness of your surroundings and quickens your response. You gain a +4 circumstance bonus to the triggering roll. You become [[Conditions/Quickened|Quickened]] for 1 round and can use your extra action only to Recall Knowledge or Step.
+You instantly recall a memory from one of your countless past lives that heightens your awareness of your surroundings and quickens your response. You gain a +4 circumstance bonus to the triggering roll. You become [[Quickened|Quickened]] for 1 round and can use your extra action only to Recall Knowledge or Step.
 
 *Source: Pathfinder Lost Omens Tian Xia Character Guide*
 *ORC*

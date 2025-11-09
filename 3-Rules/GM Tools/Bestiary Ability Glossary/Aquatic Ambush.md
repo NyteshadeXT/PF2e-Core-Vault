@@ -22,7 +22,7 @@ license: ORC
 
 * * *
 
-**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Conditions/Off-Guard|Off-Guard]] against this Strike.
+**Effect** The monster moves up to its swim Speed + 10 feet toward the triggering creature, traveling on water and on land. Once the creature is in reach, the monster makes a Strike against it. The creature is [[Off-Guard|Off-Guard]] against this Strike.
 
 *Source: Pathfinder Monster Core*
 *ORC*

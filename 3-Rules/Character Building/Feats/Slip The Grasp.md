@@ -19,7 +19,7 @@ license: OGL
 
 
 
-**Requirements** You are [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]].
+**Requirements** You are [[Grabbed|Grabbed]], [[Immobilized|Immobilized]], or [[Restrained|Restrained]].
 
 * * *
 

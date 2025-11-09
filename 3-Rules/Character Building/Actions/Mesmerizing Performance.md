@@ -24,7 +24,7 @@ license: OGL
 
 **Success** The target is unaffected and temporarily immune for 1 hour.
 
-**Failure** The target is [[Conditions/Fascinated|Fascinated]] by the companion for its next action and then is temporarily immune for 1 hour.
+**Failure** The target is [[Fascinated|Fascinated]] by the companion for its next action and then is temporarily immune for 1 hour.
 
 **Critical Failure** The target is fascinated by the companion for 1 round. While it remains fascinated, it can't use reactions.
 

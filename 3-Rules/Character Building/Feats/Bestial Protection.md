@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** Beastmaster Dedication; animal companion that's Large or greater
 * * *
-Your companion's mere presence is enough to rattle creatures that fall under its shadow. When a creature adjacent to your animal companion that's smaller than it targets you with an attack, that creature becomes [[Conditions/Frightened|Frightened 1]].
+Your companion's mere presence is enough to rattle creatures that fall under its shadow. When a creature adjacent to your animal companion that's smaller than it targets you with an attack, that creature becomes [[Frightened|Frightened 1]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

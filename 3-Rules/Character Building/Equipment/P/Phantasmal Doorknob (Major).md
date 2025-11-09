@@ -23,7 +23,7 @@ license: OGL
 This ornate doorknob can open doors both material and metaphysical, revealing dreams and nightmares. The spell DC of any spell cast by activating this item is 34.
 
 *   **Armor** You gain a +2 item bonus to Thievery checks to Pick a Lock.
-*   **Weapon** If you critically succeed at a Strike with the weapon, the target is [[Conditions/Blinded|Blinded]] until the end of its next turn.
+*   **Weapon** If you critically succeed at a Strike with the weapon, the target is [[Blinded|Blinded]] until the end of its next turn.
 
 [[Equipment Effects/Effect_ Phantasmal Doorknob - Armor|Effect: Phantasmal Doorknob - Armor]]
 

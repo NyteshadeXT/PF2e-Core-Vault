@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You have mastered the art of stalking your prey and striking when they are most vulnerable. You Stride and then Strike. If you began this action [[Conditions/Hidden|Hidden]], you remain hidden until after the Strike. You can use Pounce Mimicry while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+You have mastered the art of stalking your prey and striking when they are most vulnerable. You Stride and then Strike. If you began this action [[Hidden|Hidden]], you remain hidden until after the Strike. You can use Pounce Mimicry while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

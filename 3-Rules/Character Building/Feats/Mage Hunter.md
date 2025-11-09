@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You use your hatred of magic to lash out at a known spellcaster. Make a melee Strike against the required creature. If you hit and deal damage, the target is [[Conditions/Stupefied|Stupefied 1]], or [[Conditions/Stupefied|Stupefied 2]] on a critical hit, until the beginning of your next turn.
+You use your hatred of magic to lash out at a known spellcaster. Make a melee Strike against the required creature. If you hit and deal damage, the target is [[Stupefied|Stupefied 1]], or [[Stupefied|Stupefied 2]] on a critical hit, until the beginning of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

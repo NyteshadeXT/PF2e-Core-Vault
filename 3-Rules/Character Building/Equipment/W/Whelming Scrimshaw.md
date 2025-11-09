@@ -29,11 +29,11 @@ An etching of some aquatic beast dragging a figure beneath the waves adorns the 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target becomes [[Conditions/Sickened|Sickened 1]] and unable to breathe until this sickened condition ends.
+**Success** The target becomes [[Sickened|Sickened 1]] and unable to breathe until this sickened condition ends.
 
-**Failure** As success, but [[Conditions/Sickened|Sickened 2]].
+**Failure** As success, but [[Sickened|Sickened 2]].
 
-**Critical Failure** As success, but [[Conditions/Sickened|Sickened 3]].
+**Critical Failure** As success, but [[Sickened|Sickened 3]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

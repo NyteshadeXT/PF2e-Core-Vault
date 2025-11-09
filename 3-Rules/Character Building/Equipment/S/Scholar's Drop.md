@@ -20,7 +20,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-University students in Katapesh first used the scholar's drop to gain an edge over their academic rivals, but the candy has since spread across Golarion. The flavor of this hard, sugar-coated candy is highly refreshing and based on lemon and green tea. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [[Conditions/Fatigued|Fatigued]].
+University students in Katapesh first used the scholar's drop to gain an edge over their academic rivals, but the candy has since spread across Golarion. The flavor of this hard, sugar-coated candy is highly refreshing and based on lemon and green tea. For 1 hour, you gain a +1 item bonus to saving throws against effects that could render you [[Fatigued|Fatigued]].
 
 **Secondary Effect** `pf2:1`
 

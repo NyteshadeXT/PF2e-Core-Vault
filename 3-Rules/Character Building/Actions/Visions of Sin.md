@@ -33,9 +33,9 @@ If the target is evil, it takes a -2 circumstance penalty to its save. Regardles
 
 **Success** The target can't use reactions.
 
-**Failure** The target is [[Conditions/Slowed|Slowed 1]] and can't use reactions.
+**Failure** The target is [[Slowed|Slowed 1]] and can't use reactions.
 
-**Critical Failure** As failure, and the target is also [[Conditions/Confused|Confused]] for 1 round. The confusion can't be extended, but the other effects can.
+**Critical Failure** As failure, and the target is also [[Confused|Confused]] for 1 round. The confusion can't be extended, but the other effects can.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -27,7 +27,7 @@ This black velvet cloak has a silvery blue iridescent lining. The cloak can be w
 
 **Frequency** once per day
 
-**Effect** Distracting colorful smoke blasts outward from the cloak in a 10-foot emanation, causing all creatures in the area to become [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn (DC 30 Will check save). If you were previously [[Conditions/Concealed|Concealed]], [[Conditions/Hidden|Hidden]], or undetected, you lose those conditions. You become [[Conditions/Quickened|Quickened]] for 1 round and may use the extra action to Interact, Strike, or Stride.
+**Effect** Distracting colorful smoke blasts outward from the cloak in a 10-foot emanation, causing all creatures in the area to become [[Off-Guard|Off-Guard]] until the start of your next turn (DC 30 Will check save). If you were previously [[3-Rules/Conditions/Concealed|Concealed]], [[Hidden|Hidden]], or undetected, you lose those conditions. You become [[Quickened|Quickened]] for 1 round and may use the extra action to Interact, Strike, or Stride.
 
 * * *
 

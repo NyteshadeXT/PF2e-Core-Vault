@@ -19,7 +19,7 @@ license: ORC
 
 
 
-Your skill with weapons bends the laws of reality, allowing you to continuously attack with speed that would normally require magical assistance. You're permanently [[Conditions/Quickened|Quickened]]. You can use your extra action only to Strike.
+Your skill with weapons bends the laws of reality, allowing you to continuously attack with speed that would normally require magical assistance. You're permanently [[Quickened|Quickened]]. You can use your extra action only to Strike.
 
 *Source: Pathfinder Player Core*
 *ORC*

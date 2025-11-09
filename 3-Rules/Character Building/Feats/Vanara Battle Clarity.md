@@ -18,7 +18,7 @@ license: OGL
 
 
 
-Your focus in combat is practically unshakable. While you can act, you aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], undetected, or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
+Your focus in combat is practically unshakable. While you can act, you aren't [[Off-Guard|Off-Guard]] to [[Hidden|Hidden]], undetected, or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
 
 *Source: Pathfinder Lost Omens Impossible Lands*
 *OGL*

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Ricochet Shot
 * * *
-You have an eye for angles and can find shots that others believe are impossible. When using [[Feats/Ricochet Shot|Ricochet Shot]], you can bounce your bullet off up to two solid surfaces within your weapon's first range increment instead of just one. In addition, a creature is [[Conditions/Off-Guard|Off-Guard]] the first time you attack it with a Ricochet Shot during an encounter.
+You have an eye for angles and can find shots that others believe are impossible. When using [[Feats/Ricochet Shot|Ricochet Shot]], you can bounce your bullet off up to two solid surfaces within your weapon's first range increment instead of just one. In addition, a creature is [[Off-Guard|Off-Guard]] the first time you attack it with a Ricochet Shot during an encounter.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

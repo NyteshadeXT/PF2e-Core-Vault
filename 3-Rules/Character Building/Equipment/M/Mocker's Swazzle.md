@@ -36,7 +36,7 @@ A swazzle is a device made of two strips of metal bound with sinew and around a 
 
 **Frequency** once per day
 
-**Effect** You direct a quick bit of insulting mockery at a creature who can understand you that's within earshot. If your next action is to cast a mental spell that targets only that creature, that creature takes a –1 item penalty to any saving throw against the spell and, regardless of the result of the saving throw, becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Effect** You direct a quick bit of insulting mockery at a creature who can understand you that's within earshot. If your next action is to cast a mental spell that targets only that creature, that creature takes a –1 item penalty to any saving throw against the spell and, regardless of the result of the saving throw, becomes [[Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

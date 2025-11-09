@@ -28,9 +28,9 @@ A sack of rotting fruit has a range increment of 20 feet. When you succeed at a 
 
 **Success** The creature is unaffected by the foul smell of the fruit.
 
-**Failure** The creature becomes [[Conditions/Sickened|Sickened 1]].
+**Failure** The creature becomes [[Sickened|Sickened 1]].
 
-**Critical Failure** The creature becomes [[Conditions/Sickened|Sickened 2]].
+**Critical Failure** The creature becomes [[Sickened|Sickened 2]].
 
 *Source: Pathfinder Adventure: A Few Flowers More*
 *OGL*

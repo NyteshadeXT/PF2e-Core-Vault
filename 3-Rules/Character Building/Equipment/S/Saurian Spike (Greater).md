@@ -21,7 +21,7 @@ license: OGL
 This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some former battle scar its surface. The bearer of a _saurian spike_ often feels a sudden surge in power and confidence.
 
 *   **Armor** You gain imprecise scent with a range of 60 feet.
-*   **Weapon**(auditory, emotion, fear, visual) When you cast a polymorph spell by activating the spike, your battle form is exceptionally fearsome. Each enemy in a 60-foot emanation must succeed at a DC 28 Will check saving throw or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).
+*   **Weapon**(auditory, emotion, fear, visual) When you cast a polymorph spell by activating the spike, your battle form is exceptionally fearsome. Each enemy in a 60-foot emanation must succeed at a DC 28 Will check saving throw or become [[Frightened|Frightened 1]] ([[Frightened|Frightened 2]] on a critical failure).
 
 [[Equipment Effects/Effect_ Saurian Spike - Armor|Effect: Saurian Spike - Armor]]
 

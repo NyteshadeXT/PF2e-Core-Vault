@@ -18,7 +18,7 @@ license: OGL
 
 **Prerequisites** truecolor sight ancestry feature
 * * *
-Your truecolor sight is so effective that you can even see [[Conditions/Invisible|Invisible]] creatures and objects as blurs of unusual coloration. Invisible creatures and objects are [[Conditions/Concealed|Concealed]] to you, rather than [[Conditions/Hidden|Hidden]] or undetected due to being invisible.
+Your truecolor sight is so effective that you can even see [[Invisible|Invisible]] creatures and objects as blurs of unusual coloration. Invisible creatures and objects are [[3-Rules/Conditions/Concealed|Concealed]] to you, rather than [[Hidden|Hidden]] or undetected due to being invisible.
 
 *Source: *
 *OGL*

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-When you and your companion attack together, you can ensure that escape is but a whispered dream. Strike the same creature that your united companion hit. If your Strike is successful, the targeted creature has been marked for death by you and your companion and can't become [[Conditions/Hidden|Hidden]] or [[Conditions/Concealed|Concealed]] to you and your companion for 1 minute or until it moves more than 60 feet away from either you or your companion, whichever comes first. If the triggering creature is under an effect or spell that would normally grant it this condition, you can immediately attempt to counteract the effect. Your counteract rank is half your level rounded up, and your counteract check modifier is equal to the higher of your class DC –10 or spell DC –10.
+When you and your companion attack together, you can ensure that escape is but a whispered dream. Strike the same creature that your united companion hit. If your Strike is successful, the targeted creature has been marked for death by you and your companion and can't become [[Hidden|Hidden]] or [[3-Rules/Conditions/Concealed|Concealed]] to you and your companion for 1 minute or until it moves more than 60 feet away from either you or your companion, whichever comes first. If the triggering creature is under an effect or spell that would normally grant it this condition, you can immediately attempt to counteract the effect. Your counteract rank is half your level rounded up, and your counteract check modifier is equal to the higher of your class DC –10 or spell DC –10.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

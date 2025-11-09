@@ -21,7 +21,7 @@ license: ORC
 
 **Trigger** You are the target of a physical ranged Strike.
 
-**Requirements** You're aware of the attack, not [[Conditions/Off-Guard|Off-Guard]] against it, and either have a hand free or are wielding a melee weapon.
+**Requirements** You're aware of the attack, not [[Off-Guard|Off-Guard]] against it, and either have a hand free or are wielding a melee weapon.
 
 * * *
 

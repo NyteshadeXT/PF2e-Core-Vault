@@ -36,13 +36,13 @@ Derived from duskwood sap tapped during the winter solstice, this toxin erodes t
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 2d12 void damage and [[Conditions/Doomed|Doomed 1]] for 1 round (1 round)
+**Stage 1** 2d12 void damage and [[Doomed|Doomed 1]] for 1 round (1 round)
 
 **Stage 2** 3d12 void damage and doomed 1 for 1 round (1 round)
 
 **Stage 3** 3d12 void damage and doomed 1 (1 round)
 
-**Stage 4** 3d12 void damage and [[Conditions/Doomed|Doomed 2]] (1 round)
+**Stage 4** 3d12 void damage and [[Doomed|Doomed 2]] (1 round)
 
 *Source: Pathfinder #203: Shepherd of Decay*
 *ORC*

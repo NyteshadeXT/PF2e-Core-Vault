@@ -35,11 +35,11 @@ Slumber wine sees its greatest use in games of intrigue, where an absence can be
 
 **Maximum Duration** 7 days
 
-**Stage 1** [[Conditions/Unconscious|Unconscious]] (1 day)
+**Stage 1** [[Unconscious|Unconscious]] (1 day)
 
-**Stage 2** [[Conditions/Unconscious|Unconscious]] (2 days)
+**Stage 2** [[Unconscious|Unconscious]] (2 days)
 
-**Stage 3** [[Conditions/Unconscious|Unconscious]] (3 days)
+**Stage 3** [[Unconscious|Unconscious]] (3 days)
 
 *Source: Pathfinder GM Core*
 *ORC*

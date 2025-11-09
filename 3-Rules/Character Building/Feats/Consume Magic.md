@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You consume the magic of an incoming spell or effect to protect your allies, though you might give yourself indigestion. Attempt a counteract check against the triggering effect; your counteract rank equals half your level (rounded up), and for the roll, use either your class DC – 10 or your spellcasting attribute modifier plus your spellcasting proficiency bonus. If you counteract the triggering effect, you end the effect for all other creatures in the area, but you become [[Conditions/Sickened|Sickened 1]] as your body struggles to absorb the influx of magic.
+You consume the magic of an incoming spell or effect to protect your allies, though you might give yourself indigestion. Attempt a counteract check against the triggering effect; your counteract rank equals half your level (rounded up), and for the roll, use either your class DC – 10 or your spellcasting attribute modifier plus your spellcasting proficiency bonus. If you counteract the triggering effect, you end the effect for all other creatures in the area, but you become [[Sickened|Sickened 1]] as your body struggles to absorb the influx of magic.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "daredevil-boots"
 aliases: "Daredevil Boots"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "288"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These brightly colored, soft-soled boots motivate you to perform risky stunts and grant you the agility to succeed. The boots grant you a +2 item bonus to Acrobatics checks and a +1 circumstance bonus to checks to Tumble Through an enemy's space.  The boots can grip solid surfaces and help you avoid a fall, allowing you to use the Grab an Edge reaction even if your hands aren't free. You treat falls as 10 feet shorter or, if you have the Cat Fall feat, treat your proficiency rank in Acrobatics as one degree better to determine the benefits of that feat. If you have Cat Fall and are already legendary in Acrobatics, you can choose the speed of your fall, from 60 feet per round up to normal falling speed."
+description: "These brightly colored, soft-soled boots motivate you to perform risky stunts and grant you the agility to succeed. The boots grant you a +2 item bonus to [[skills#Acrobatics|Acrobatics]] checks and a +1 circumstance bonus to checks to [[Tumble Through]] an enemy's space.  The boots can grip solid surfaces and help you avoid a fall, allowing you to use the [[Grab an Edge]] reaction even if your hands aren't free. You treat falls as 10 feet shorter or, if you have the [[Cat Fall]] feat, treat your proficiency rank in [[skills#Acrobatics|Acrobatics]] as one degree better to determine the benefits of that feat. If you have [[Cat Fall]] and are already legendary in [[skills#Acrobatics|Acrobatics]], you can choose the speed of your fall, from 60 feet per round up to normal falling speed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -23,7 +23,7 @@ license: OGL
 
 
 
-Spring-Heeled Jack glares at a creature he can see within 30 feet. The target must immediately attempt a Will save (DC equal to the DC of Jack's Breath Weapon) or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure), and it can't reduce its frightened condition below 1 for 24 hours or until this curse is removed. After attempting its save, the creature is temporarily immune to this ability for 24 hours.
+Spring-Heeled Jack glares at a creature he can see within 30 feet. The target must immediately attempt a Will save (DC equal to the DC of Jack's Breath Weapon) or become [[Frightened|Frightened 1]] ([[Frightened|Frightened 2]] on a critical failure), and it can't reduce its frightened condition below 1 for 24 hours or until this curse is removed. After attempting its save, the creature is temporarily immune to this ability for 24 hours.
 
 *Source: Pathfinder Lost Omens Monsters of Myth*
 *OGL*

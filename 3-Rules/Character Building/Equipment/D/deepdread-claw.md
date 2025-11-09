@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "deepdread-claw"
 aliases: "Deepdread Claw"
 source: "Pathfinder Lost Omens Legends"
-pg: ""
-rarity: ""
+pg: "28"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "monk"
 trait04: "thrown-20"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -24,35 +24,36 @@ value: "4000"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
+group: "Spear"
 license: "ORC"
 identify:
-description: "One of a set of four identical spears collectively known as the Four Claws of the Deepdread, this weapon is fashioned from a single seamless piece of matte-black metal with a razored silver edge. In bright light, it functions as a +1 striking spear, but in darkness or dim light, it becomes a +2 greater striking spear. You can upgrade its fundamental runes as normal for a specific weapon, starting from a +2 greater striking spear, but its fundamental runes are always one type worse in bright light.  **Activate** `pf2:1` command  * * *  **Effect** You establish a telepathic link with someone else wielding a deepdread claw, enabling you to telepathically communicate with the creature while they possess the deepdread claw regardless of distance, so long as you remain on the same plane. You can end a telepathic link you create or that you are part of as an action, which has the concentrate trait.  **Activate** `pf2:2` command, Interact  * * *  **Effect** You cast 4th-rank darkness. You can see clearly in this darkness."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "One of a set of four identical spears collectively known as the Four Claws of the Deepdread, this weapon is fashioned from a single seamless piece of matte-black metal with a razored silver edge. In bright light, it functions as a [[Weapon Potency (+1)|+1]] [[striking]] [[spear]], but in darkness or dim light, it becomes a [[Weapon Potency (+2)|+2]] [[striking-(greater)|greater striking]] [[spear]]. You can upgrade its fundamental runes as normal for a specific weapon, starting from a +2 greater striking spear, but its fundamental runes are always one type worse in bright light."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[command]])"
 frequency1:
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
+mechanics1: "You establish a telepathic link with someone else wielding a deepdread claw, enabling you to telepathically communicate with the creature while they possess the deepdread claw regardless of distance, so long as you remain on the same plane. You can end a telepathic link you create or that you are part of as an action, which has the concentrate trait."
+powerTitle2: "Effect"
+actionEconomy2: 2
+type2: "([[Command]], [[Interact]])"
 frequency2:
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You cast 4th-rank [[3-Rules/Character Building/Spells/D/Darkness|Darkness]]. You can see clearly in this darkness."
 craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: "20 ft."
 ammoType:
-damage: 2d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Spear"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

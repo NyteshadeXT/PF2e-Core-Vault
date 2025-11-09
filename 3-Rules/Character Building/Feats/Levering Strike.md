@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-Make a Strike with your staff. As long as you don't critically fail, the target becomes [[Conditions/Off-Guard|Off-Guard]] and takes a -2 circumstance penalty to its DC against [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Tumble Through|Tumble Through]] attempts until the start of your next turn.
+Make a Strike with your staff. As long as you don't critically fail, the target becomes [[Off-Guard|Off-Guard]] and takes a -2 circumstance penalty to its DC against [[Actions/Shove|Shove]], [[Actions/Trip|Trip]], and [[Actions/Tumble Through|Tumble Through]] attempts until the start of your next turn.
 
 *Source: Pathfinder #151: The Show Must Go On*
 *OGL*

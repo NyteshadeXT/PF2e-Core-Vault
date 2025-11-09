@@ -22,7 +22,7 @@ license: ORC
 * * *
 Your eye has been magically enhanced to pierce darkness. You gain darkvision.
 
-**Enhancement** Your eye can see [[Conditions/Invisible|Invisible]] creatures in brief spurts. You can cast [[Spells/See the Unseen|See the Unseen]] as an arcane innate spell once per hour.
+**Enhancement** Your eye can see [[Invisible|Invisible]] creatures in brief spurts. You can cast [[Spells/See the Unseen|See the Unseen]] as an arcane innate spell once per hour.
 
 *Source: Pathfinder Guns & Gears*
 *ORC*

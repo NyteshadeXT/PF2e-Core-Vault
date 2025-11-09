@@ -28,7 +28,7 @@ This oddly fuzzy buckler resembles the abdomen of a spider. Its defensive side i
 
 * * *
 
-**Effect** You animate the silkspinner's shield. Eight spider legs sprout from the shield's rim, granting you a climb Speed of 25 feet until the end of your next turn. Additionally, the spinnerets animate and produce silk for 1 minute. Successful shield bash Strikes made with the silkspinner's shield during this time entangle the target in silk. The target takes a -10-foot circumstance penalty to its Speeds for 1 round. If your Strike was a critical hit, the target becomes [[Conditions/Immobilized|Immobilized]] for 1 round instead. Regardless, the target can attempt to Escape (DC 30) to end the effect early.
+**Effect** You animate the silkspinner's shield. Eight spider legs sprout from the shield's rim, granting you a climb Speed of 25 feet until the end of your next turn. Additionally, the spinnerets animate and produce silk for 1 minute. Successful shield bash Strikes made with the silkspinner's shield during this time entangle the target in silk. The target takes a -10-foot circumstance penalty to its Speeds for 1 round. If your Strike was a critical hit, the target becomes [[Immobilized|Immobilized]] for 1 round instead. Regardless, the target can attempt to Escape (DC 30) to end the effect early.
 
 [[Equipment Effects/Effect_ Silkspinner's Shield (Animated Strike)|Effect: Silkspinner's Shield (Animated Strike)]]
 

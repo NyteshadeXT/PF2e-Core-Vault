@@ -32,9 +32,9 @@ license: ORC
 
 **Success** The creature takes 7d6 mental damage.
 
-**Failure** The creature takes 14d6 mental damage and is [[Conditions/Confused|Confused]] for 1 minute.
+**Failure** The creature takes 14d6 mental damage and is [[Confused|Confused]] for 1 minute.
 
-**Critical Failure** The creature takes 21d6 mental damage and is [[Conditions/Stunned|Stunned 3]]; when they recover from being stunned, they're confused for 1 minute.
+**Critical Failure** The creature takes 21d6 mental damage and is [[Stunned|Stunned 3]]; when they recover from being stunned, they're confused for 1 minute.
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

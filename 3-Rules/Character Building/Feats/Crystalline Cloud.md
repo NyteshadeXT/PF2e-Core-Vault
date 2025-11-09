@@ -21,7 +21,7 @@ license: OGL
 * * *
 When you use [[Feats/Crystalline Dust|Crystalline Dust]], you can spend one additional action to disperse the motes as a 10-foot-radius cloud centered on you instead of as haze; the activity gains the concentrate trait.
 
-All creatures within the cloud become [[Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it.
+All creatures within the cloud become [[3-Rules/Conditions/Concealed|Concealed]], and all creatures outside the cloud become concealed to creatures within it.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

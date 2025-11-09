@@ -17,7 +17,7 @@ license: OGL
 
 
 
-You take advantage of outthinking your opponents or catching them drunk. When making a melee Strike against a target who is [[Conditions/Stupefied|Stupefied]], you gain a circumstance bonus to the damage roll equal to the number of weapon damage dice or the stupefied value, whichever is higher.
+You take advantage of outthinking your opponents or catching them drunk. When making a melee Strike against a target who is [[Stupefied|Stupefied]], you gain a circumstance bonus to the damage roll equal to the number of weapon damage dice or the stupefied value, whichever is higher.
 
 *Source: *
 *OGL*

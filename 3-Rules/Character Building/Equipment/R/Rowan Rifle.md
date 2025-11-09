@@ -44,7 +44,7 @@ As a star gun, the Rowan Rifle runs on magic, and doesn't use ammunition or blac
 
 **Activate—Skymetal Shot** `pf2:2` (manipulate)
 
-**Effect** The Rowan Rifle fires a 60-foot line of liquid djezet that wraps around all creatures in the affected area before hardening, which impedes them with metallic vines unless the affected creature succeeds at a DC 35 Reflex check save. A creature who fails the save takes a –15-foot circumstance penalty to their Speeds, and a creature who critically fails is [[Conditions/Immobilized|Immobilized]]. A creature who succeeds at a [[Actions/escape|escape]]{DC 35} [[Actions/Escape|Escape]] check ends this effect. Otherwise, the djezet vines last for 10 minutes before crumbling away.
+**Effect** The Rowan Rifle fires a 60-foot line of liquid djezet that wraps around all creatures in the affected area before hardening, which impedes them with metallic vines unless the affected creature succeeds at a DC 35 Reflex check save. A creature who fails the save takes a –15-foot circumstance penalty to their Speeds, and a creature who critically fails is [[Immobilized|Immobilized]]. A creature who succeeds at a [[Actions/escape|escape]]{DC 35} [[Actions/Escape|Escape]] check ends this effect. Otherwise, the djezet vines last for 10 minutes before crumbling away.
 
 * * *
 

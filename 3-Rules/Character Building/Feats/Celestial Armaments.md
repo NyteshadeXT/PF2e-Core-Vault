@@ -22,7 +22,7 @@ license: ORC
 * * *
 You imbue a fragment of your divine spark into a weapon, blessing your blade and transforming it into a weapon worthy of the celestial realms. Select one weapon or [[Equipment/Handwraps of Mighty Blows|Handwraps of Mighty Blows]] when you make your daily preparations. The weapon sheds light like a torch, deals an additional 1d8 spirit damage, and creatures who wield it gain the weapon's critical specialization.
 
-When you critically hit a target with the weapon, the target must succeed at a Fortitude check save against your class DC or spell DC (whichever is higher) or be [[Conditions/Blinded|Blinded]] for 1d4 rounds.
+When you critically hit a target with the weapon, the target must succeed at a Fortitude check save against your class DC or spell DC (whichever is higher) or be [[Blinded|Blinded]] for 1d4 rounds.
 
 [[Feat_Feature Effects/Effect_ Celestial Armaments|Effect: Celestial Armaments]]
 

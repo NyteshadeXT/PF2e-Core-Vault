@@ -17,7 +17,7 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions. You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[Conditions/Grabbed|Grabbed]] or magically [[Conditions/Paralyzed|Paralyzed]].
+The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions. You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[Grabbed|Grabbed]] or magically [[Paralyzed|Paralyzed]].
 
 *Source: Pathfinder Lost Omens The Grand Bazaar*
 *OGL*

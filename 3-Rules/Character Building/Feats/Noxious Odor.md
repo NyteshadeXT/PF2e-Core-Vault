@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** Emit Defensive Odor
 * * *
-You have developed your skill with your defensive pheromones and have concentrated them into a noxious form. A creature that fails its save against your Emit Defensive Odor action also becomes [[Conditions/Sickened|Sickened 1]] (or [[Conditions/Sickened|Sickened 2]] on a critical failure).
+You have developed your skill with your defensive pheromones and have concentrated them into a noxious form. A creature that fails its save against your Emit Defensive Odor action also becomes [[Sickened|Sickened 1]] (or [[Sickened|Sickened 2]] on a critical failure).
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

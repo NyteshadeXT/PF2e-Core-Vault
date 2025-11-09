@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You sing a beautiful and mournful melody to inflict sorrow in the heart of your foe. One foe within 60 feet must succeed at a Will check, with the higher of your class DC or spell DC, or become [[Conditions/Slowed|Slowed 1]] for 1 minute. Each time the foe is attacked during this time, they can attempt another Will save, ending the effect early on a success. Regardless, the foe is temporarily immune to Dolent Aria for 24 hours.
+You sing a beautiful and mournful melody to inflict sorrow in the heart of your foe. One foe within 60 feet must succeed at a Will check, with the higher of your class DC or spell DC, or become [[Slowed|Slowed 1]] for 1 minute. Each time the foe is attacked during this time, they can attempt another Will save, ending the effect early on a success. Regardless, the foe is temporarily immune to Dolent Aria for 24 hours.
 
 *Source: *
 *OGL*

@@ -33,7 +33,7 @@ You try to knock an item out of a creature's grasp. Attempt an [[Actions/disarm|
 
 [[Other Effects/Effect_ Disarm (Success)|Effect: Disarm (Success)]]
 
-**Critical Failure** You lose your balance and become [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Critical Failure** You lose your balance and become [[Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

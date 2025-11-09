@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target.
+**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[Off-Guard|Off-Guard]] target.
 
 * * *
 

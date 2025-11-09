@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You prepare to take advantage of your enemy's sudden change in emotions. The target is [[Conditions/Off-Guard|Off-Guard]] against your next attack before the end of your next turn.
+You prepare to take advantage of your enemy's sudden change in emotions. The target is [[Off-Guard|Off-Guard]] against your next attack before the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*
