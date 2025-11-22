@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "detectives-kit"
 aliases: "Detective's Kit"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "288"
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

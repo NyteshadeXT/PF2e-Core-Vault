@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "depth-charge-vii"
 aliases: "Depth Charge VII"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "81"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/depth-charge.png
 level: 18
 weight: 
 value: "3200"
@@ -26,7 +26,7 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Ammunition** any  * * *  Carved with stylized images of water or aquatic life, depth charges that are fired underwater or at a submerged target function with their normal range increments and can hit no matter their normal damage type. This ammunition explodes if it hits a target underwater, dealing 15d6 bludgeoning damage in a 20-foot burst DC 39 Fortitude check according to its type. This burst doesn't extend out of the water."
+description: "Carved with stylized images of water or aquatic life, depth charges that are fired underwater or at a submerged target function with their normal range increments and can hit no matter their normal damage type. This ammunition explodes if it hits a target underwater, dealing `dice: 15d6` bludgeoning damage in a 20-foot burst DC 39 Fortitude check according to its type. This burst doesn't extend out of the water."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +45,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Any"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -2,7 +2,24 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz-Attachments/Assets/PlaceholderImage.png
+art: zz-Attachments/assets/PlaceholderImage.png
+party1relation: Acquaintance
+language:
+  - Common
+  - Elven
+  - Gnomish
+  - Dwarven
+organization:
+  - "[[Dungeon Seekers Guild]]"
+location:
+  - "[[Dungeon Seeker's Guildhall]]"
+condition: Healthy
+pronounced: clair-reece
+ancestry: Gnome
+gender: Female
+age: Young Adult
+sexuality: Straight
+alignment: Neutral Good
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -100,7 +117,6 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > SORT file.name ASC
 > ```
 
-
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
@@ -110,9 +126,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > ```
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+Clarice, a female gnome, is a one of the many greeters at the [[Dungeon Seeker's Guildhall]].  She is very upbeat and attempts to be has helpful as possible.
 
 > [!column|2 no-title]
 >

@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "demolishing"
-aliases: "Demolishing"
-source: "Pathfinder Special: Fumbus"
-pg: "0"
-rarity: "rare"
-trait01: "magical"
+name: "depth-gauge"
+aliases: "Depth Gauge"
+source: "Pathfinder Lost Omens Society Guide"
+pg: "114"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 0
 group: 
-bulk: 
-value: "225"
+bulk: "L"
+value: "1"
 subvalue: "gp"
 invest: 
-usage: "etched onto a weapon"
+usage: "held in two hands"
 license: "OGL"
 identify: ""
-description: "A _demolishing_ weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature-cracks form, linkages fail, surfaces erode-and otherwise dismantle its body. When you damage a construct using a _demolishing_ weapon, you deal an extra `dice: 1d6` persistent force damage. On a critical hit, you deal an extra `dice: 1d12` persistent force damage instead."
+description: "This simple tool consists of a small iron weight attached to a thin rope that is marked at regular intervals (typically every foot). It can be used to measure the depth of a hole or body of water by dropping the weight down into unknown depths and counting the markings on the rope. It can also be used as a plumb bob."
 activate: ""
 craft: 
 destruction: 

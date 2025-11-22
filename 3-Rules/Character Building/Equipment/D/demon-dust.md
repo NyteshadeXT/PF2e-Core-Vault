@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "demon-dust"
 aliases: "Demon Dust"
 source: "Pathfinder Lost Omens Absalom, City of Lost Omens"
-pg: ""
-rarity: ""
+pg: "391"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "drug"
 trait04: "inhaled"
 trait05: "poison"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  The save for addiction to demon dust is DC 24 Fortitude check, and the addiction has the virulent trait.  **Saving Throw** DC 20 Fortitude check  **Maximum Duration** 8 hours  **Stage 1** +2 item bonus to Athletics checks and treat up to 4 Bulk as being negligible in weight (1 minute)  [[Equipment Effects/Effect_ Demon Dust (Stage 1)|Effect: Demon Dust (Stage 1)]]  **Stage 2** +2 item bonus to Athletics checks, treat up to 4 Bulk as being negligible in weight, and [[Conditions/Stupefied|Stupefied 1]] (1 hour)  [[Equipment Effects/Effect_ Demon Dust (Stage 2)|Effect: Demon Dust (Stage 2)]]  **Stage 3** stupefied 1 (1 hour)  **Stage 4** [[Conditions/Stupefied|Stupefied 2]] (1 hour)  **Stage 5** stupefied 2 and all memories made since you were first exposed to this dose of demon dust become hazy and vague (1 hour)  **Stage 6** stupefied 2 and all memories made in the previous 24 hours become hazy and vague (1 hour)"
+activate: "`pf2:1` [[Interact]]"
+description: "The save for addiction to demon dust is DC 24 Fortitude check, and the addiction has the virulent trait.\n\n**Saving Throw** DC 20 Fortitude check  **Maximum Duration** 8 hours  **Stage 1** +2 item bonus to [[Skills#Athletics|Athletics]] checks and treat up to 4 Bulk as being negligible in weight (1 minute) **Stage 2** +2 item bonus to [[Skills#Athletics|Athletics]] checks, treat up to 4 Bulk as being negligible in weight, and [[Stupefied|Stupefied 1]] (1 hour) **Stage 3** [[Stupefied|Stupefied 1]] (1 hour)  **Stage 4** [[Stupefied|Stupefied 2]] (1 hour)  **Stage 5** [[Stupefied|Stupefied 2]] and all memories made since you were first exposed to this dose of demon dust become hazy and vague (1 hour)  **Stage 6** [[Stupefied|Stupefied 2]] and all memories made in the previous 24 hours become hazy and vague (1 hour)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

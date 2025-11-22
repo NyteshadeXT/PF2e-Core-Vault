@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "defoliation-bomb-(greater)"
-aliases: "Defoliation Bomb (Greater)"
-source: "Pathfinder #202: Severed at the Root"
-pg: ""
-rarity: ""
-trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "splash"
-trait05: "void"
-trait06: "uncommon"
+name: "deployable-cover-ballistic-cover"
+aliases: "Deployable Cover (Ballistic Cover)"
+source: "Pathfinder Guns & Gears"
+pg: "64"
+rarity: "uncommon"
+trait01: ""
+trait02: ""
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 12
-weight: L
-value: "350"
+level: 2
+weight: 1
+value: "35"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This brightly painted ceramic sphere contains chemicals that cause plants to wither and die. You gain a +2 item bonus to attack rolls. A defoliation bomb deals the 3d6 void damage, 3d4 persistent void damage, and 3 void splash damage to all plants in the area. Non-creature plants in the area immediately wither and die."
+description: "This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible metal struts, folded into a baton-like shape, and clamped shut. You can rapidly deploy it on the ground with an Interact action to create cover. Deployable cover completely blocks one edge of the chosen square, allowing you (and others) to gain standard cover when you use the [[Take Cover]] action. Before it can be used again, deployable cover must be carefully folded and clamped shut, which takes 1 minute.  Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and thrown weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged unarmed attacks."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +44,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 3d6 void
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

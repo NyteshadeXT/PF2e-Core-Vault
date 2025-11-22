@@ -46,11 +46,21 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > **Location** | `VIEW[{location}][link]` |
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
-> [!kirk|info] Info (Remove me)
-> Point of Interest: A location within your world, anything from a homes, shops, forts, volcanos or dungeons.
 
 > [!recite]- Introduction
-> A script for the GM to read when the party arrive to this location for the first time.
+> The low hum of mana vibrates through the air as you step inside the Dungeon Seekers Guildhall.
+> 
+> The hall is broad and bustling, built from pale stone reinforced with metal that seems to glow faintly under the lanterns. The atmosphere is energetic—part marketplace, part war room, part university commons. Adventurers of all tiers mingle here: fresh-faced hopefuls filling out forms, seasoned delvers comparing gear, and quartermasters shouting instructions over the din.
+> 
+> Directly ahead, beyond a series of carved stone steps, stands the entrance to the [[Aetherial Observatory]]. The archway framing it is etched with shifting runes, and within the arch churns a swirling blue portal—opaque, roiling like liquid sapphire, impossible to see through. Every few moments it pulses outward, sending gentle ripples of arcane energy across the hall.
+> 
+> To your right, a long counter made from reinforced aetherwood serves as the Seeker Registration Desk. Crystal tablets float above the counter, projecting names, expedition groups, and available time slots as clerks usher new adventurers through the sign-up process. A glowing sigil branded on each form ensures identity and tracks guild membership.
+> 
+> To your left, a cordoned-off area houses the Exchange Counter, where Seekers line up to trade in materials dragged from the dungeon—glimmering cores, strange minerals, remnants of arcane constructs, and other oddities. Behind reinforced, rune-lit glass, appraisers examine each item, projecting its mana signature for both sides to review before determining its value.
+> 
+> Floating arcane orbs drift across the ceiling, projecting updated maps, warnings, and notices about shifting conditions inside the dungeon. The soft hum of these projections mixes with the clatter of gear, excited chatter, and the steady thrum of the portal.
+> 
+> **This is where delves begin. And where stories—successful or otherwise—return to be weighed, logged, and traded.**
 
 > [!metadata|map]- Map
 > ```leaflet
@@ -59,7 +69,7 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > lock: true
 > recenter: true
 > noScrollZoom: false
-> ### Use this ([Obsidian Leaflet Bounds Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1yz-qusYGh7_u-6PXlnad9nemcRRdGjnSPXg9DXk7y04/edit?gid=0#gid=0)) to work out your map's bounds.
+> ### Use this [LINK](https://docs.google.com/spreadsheets/d/1jKQxktYSUFcCJhEkAAPr1wMVBTqUdpEfA5XveUXI17I/edit?usp=sharing) to work out your map's bounds.
 > ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
 > height: 600px
 > width: 640px

@@ -468,22 +468,174 @@
     },
     {
       "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1761685328240,
+      "locked": false,
+      "lastAccessed": 1763749241948,
       "markers": [
         {
-          "id": "ID_d8795bc9caaa",
+          "id": "ID_6b884b4a6a49",
+          "type": "arena",
+          "loc": [
+            -57.609375,
+            66.1875
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7312754699966346,
+            0.6364996831627932
+          ],
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88b90a283ae8",
           "type": "default",
           "loc": [
-            -26.405155692477635,
-            39.04002830191666
+            -64.93595166125448,
+            69.41996972718407
           ],
-          "layer": "%5B%5BDiamond%20Lake.webp%5D%5D",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
           "description": null,
-          "minZoom": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a083b2b1ac9",
+          "type": "default",
+          "loc": [
+            -64.89576133942266,
+            69.40940448217651
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e979aaf8f80b",
+          "type": "default",
+          "loc": [
+            -64.67812369859863,
+            69.20536919390399
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9aa83a2abb",
+          "type": "default",
+          "loc": [
+            -64.998779296875,
+            69.37109375
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b98a399889aa",
+          "type": "default",
+          "loc": [
+            -64.98415387813488,
+            69.2896282989063
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b59095b2a6b",
+          "type": "default",
+          "loc": [
+            -65.37588278914558,
+            69.72259183212864
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38f8389bd8cb",
+          "type": "default",
+          "loc": [
+            -65.04364213203544,
+            69.0610014912475
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69da8bca18e9",
+          "type": "default",
+          "loc": [
+            -64.79859807818244,
+            69.26901098780047
+          ],
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 5.6,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ba9fb0a1a68",
+          "type": "guildhall",
+          "loc": [
+            -65.2744069610466,
+            69.45972111552936
+          ],
+          "link": "Dungeon Seeker's Guildhall",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7674287471893319,
+            0.7211871218763505
+          ],
+          "description": null,
+          "minZoom": 5.6,
           "maxZoom": null,
           "tooltip": "hover"
         }
@@ -491,7 +643,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "zz-Templates/GM Templates/Locations/Template - Settlement.md"
+        "5-World/Districts/Ardentia City/Seekers Quarter.md"
       ]
     }
   ],
@@ -503,9 +655,50 @@
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false,
+    "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAYAAAAMJL+VAAAAAXNSR0IArs4c6QAABFVJREFUOE81lAtM1VUcxz/n/OEKTrk6LmghD21aLbYQeyi2ttSVOWdaC7lIPljNB/gGIctSF+oSvQMBQ3MuH/eCrc1Yr7l8IPZci9paq5kzuHC9gBmQTO5F/qed84fz3/73nP/9Pb6/7/f3OyIa+U8pZTO6BGArZY76Z2hoiPb2NmwUQgn9RgoQQpKWNgVXrAshBEobC+2tHfXWOYtopF/pSCMxnX/RhopTZ/z8dbMNX9Uh0tMzeCZnrvl+pfkqoVsd7NheQs7Tc1gwbx62shFSoGwHnE6qo4joYL8aDapMcFC2TXVtHXsrKnC73RyvO4onMZEZM6Yb0z+u/0lXdw/rioqIj4tn186dePNyTdBRfE54EJF7vU51UjoGKAIN51hbvAHNXG9P2FRkScljWVlc+OIrHpicbGyHbZuJnsl4vbnUHanB0hVoEkfQaz8RGewzsKUQhvvBexHe3v0udcfqqauqJjEx0Yihcxdt3sLqVat5MjvLcK5BfXjiIy5e+Zp1r7/B7nd2MW7sWKMXNlgxlqao19CvS9KbYGeYhzMfRQpdEdi2QloC23ao00s7OjGUAaZRZ8/M4pNAA8mepFGiHVYiRgPbEUdB561bLFn6CuVlJczNmY0ynTMikw44SqWueHjYQDvf9CnxY+NZs3KVA0BKA9Yk0CLf+fcOnaFOk7m7u5uy8l0c2LeXTVu389svrZw620CMpTjsq+KzpiYuXb6ElILbt3s5drye8rJSgh2dLF64kGFszQVpqWlMnDDR0eC0P8D6jUWGFl227pgjvmrK3irj1x9/5tRpP3FjLCoqK1m9YiWTJnkMuknJSWzbUUrZthLWb95ktJKWhZ6r+ppaCrxePQd96oy/gaP1HzArexYnTp4kxhVLRlo6HZ1BsmZm0RXuQSroCIcMx7ExsYY2lyuWv9vaSElJ4caNG4gYSWF+IV9e+Jz39+/n5aUv6TbtU2cbA1z77gdC7e1cvHLZTOCYuDikspg+7SGutTSj7CHuDgwYrcYnJDCsBLPn5BAKBYkMRYneHzKdv+C5+UxwJ7Jg/rMU5K/QCfqVv8GPLST7Kg4QDLeTMM7Ne3v2sGL5cs43NTE1IwMhLZa9mmv4/TgQQEpoaw+yeNEiDvp8+KqqGBwcZMqUVLYUb8TtHk9Bfr4zaGf8fiPwgcqDxumpWU9QX1tLSkoqngcn85rXi7Qkp0fsCrx5puP85xrpDd/maksza4s2EOoKk56WTnlJqWlxo8HA3X+Ur7qW1tafaG5pobe/D5drDMuWLOHN8p08nj2Tgrw8Q1vgXKPhvsCbb1pUa9dxs42aozVUHj5ENHofT5KHF59/gWlTp7F1UzHi+vXf1SOZmeaikjHScKxpMGMxMhvmCtBngRk6PaW2bebVuRb0J2OgfYWJZQ8rvv/mW0RPV1Dpa0EvPbW6du2gr2NtJCRYlt7bJokVa5nE5rmvQDq2o34mjx54oShctYb/AQ3NB3Quq97ZAAAAAElFTkSuQmCC"
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "arena",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAQCAYAAAAMJL+VAAAAAXNSR0IArs4c6QAABFVJREFUOE81lAtM1VUcxz/n/OEKTrk6LmghD21aLbYQeyi2ttSVOWdaC7lIPljNB/gGIctSF+oSvQMBQ3MuH/eCrc1Yr7l8IPZci9paq5kzuHC9gBmQTO5F/qed84fz3/73nP/9Pb6/7/f3OyIa+U8pZTO6BGArZY76Z2hoiPb2NmwUQgn9RgoQQpKWNgVXrAshBEobC+2tHfXWOYtopF/pSCMxnX/RhopTZ/z8dbMNX9Uh0tMzeCZnrvl+pfkqoVsd7NheQs7Tc1gwbx62shFSoGwHnE6qo4joYL8aDapMcFC2TXVtHXsrKnC73RyvO4onMZEZM6Yb0z+u/0lXdw/rioqIj4tn186dePNyTdBRfE54EJF7vU51UjoGKAIN51hbvAHNXG9P2FRkScljWVlc+OIrHpicbGyHbZuJnsl4vbnUHanB0hVoEkfQaz8RGewzsKUQhvvBexHe3v0udcfqqauqJjEx0Yihcxdt3sLqVat5MjvLcK5BfXjiIy5e+Zp1r7/B7nd2MW7sWKMXNlgxlqao19CvS9KbYGeYhzMfRQpdEdi2QloC23ao00s7OjGUAaZRZ8/M4pNAA8mepFGiHVYiRgPbEUdB561bLFn6CuVlJczNmY0ynTMikw44SqWueHjYQDvf9CnxY+NZs3KVA0BKA9Yk0CLf+fcOnaFOk7m7u5uy8l0c2LeXTVu389svrZw620CMpTjsq+KzpiYuXb6ElILbt3s5drye8rJSgh2dLF64kGFszQVpqWlMnDDR0eC0P8D6jUWGFl227pgjvmrK3irj1x9/5tRpP3FjLCoqK1m9YiWTJnkMuknJSWzbUUrZthLWb95ktJKWhZ6r+ppaCrxePQd96oy/gaP1HzArexYnTp4kxhVLRlo6HZ1BsmZm0RXuQSroCIcMx7ExsYY2lyuWv9vaSElJ4caNG4gYSWF+IV9e+Jz39+/n5aUv6TbtU2cbA1z77gdC7e1cvHLZTOCYuDikspg+7SGutTSj7CHuDgwYrcYnJDCsBLPn5BAKBYkMRYneHzKdv+C5+UxwJ7Jg/rMU5K/QCfqVv8GPLST7Kg4QDLeTMM7Ne3v2sGL5cs43NTE1IwMhLZa9mmv4/TgQQEpoaw+yeNEiDvp8+KqqGBwcZMqUVLYUb8TtHk9Bfr4zaGf8fiPwgcqDxumpWU9QX1tLSkoqngcn85rXi7Qkp0fsCrx5puP85xrpDd/maksza4s2EOoKk56WTnlJqWlxo8HA3X+Ur7qW1tafaG5pobe/D5drDMuWLOHN8p08nj2Tgrw8Q1vgXKPhvsCbb1pUa9dxs42aozVUHj5ENHofT5KHF59/gWlTp7F1UzHi+vXf1SOZmeaikjHScKxpMGMxMhvmCtBngRk6PaW2bebVuRb0J2OgfYWJZQ8rvv/mW0RPV1Dpa0EvPbW6du2gr2NtJCRYlt7bJokVa5nE5rmvQDq2o34mjx54oShctYb/AQ3NB3Quq97ZAAAAAElFTkSuQmCC",
+      "tags": [
+        "arena"
+      ],
+      "minZoom": 5.6,
+      "maxZoom": null
+    },
+    {
+      "type": "guildhall",
+      "iconName": "address-book",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "tags": [
+        "guildhall"
+      ],
+      "minZoom": 5.6,
+      "maxZoom": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAYCAYAAAD3Va0xAAAAAXNSR0IArs4c6QAABM1JREFUOE9FlV9sFFUUxn93ZlvqC2gUhIIPEohSJG1pu7ttd7dbUoUgGBDT+GAUJLyQ+ISACYEEstBtKS1WKxGrAVEKtd1SKFRJJEqMCA9KjBhjZZft9i+wbSnSLWVnrrl3WpyHyczknu+c75zvfCMmUqPStiUTEymysp5ACIFg+hJMv+jvwsC20kgpEYYBEhDqZiDGx0flb9d/5+13N9J05CheT9FjIHVEnVYg2GCYBra00akMgbRtDSoliNHhIekp8RMfuEVBbh414Wp9QJViCIFUQBhIVaYOUtU4NetnYfDUrFkKaFB6fAHivTEURZVdZbDTlg5QVSgKhmFg2TaZGSaWJTWoendluFi7+lUHyOsLEkvcJHvePMqDQbq7/+GXq9fIy81jac6LGIYJQjiBhsDMyOBUyyneWL9BV5a/LBcxklRAZcQSUYKlAWprqtl3IMTA4BB79+yh2OPRNE3TwLIsHWiaGYRrq9m57X2nDWoQI8ODsrg0QLQnxnPZC3hpWQ7J4SRrV6/hwfgDxlMpZziPe6Ke1TSFprtg/ny2bNrsAHlLAsT7YjqgYHk+VftCXL12jf01YSYnJ0lbqvkgLUnmDBfWpIUwBabLpKiwiK6Ozv+BVI9ylizlk4YG8nNzOVh3iFA4rBLrSzXeVjQsg4XPLyQWv6nrLCnxTgGNDElvqY/+oX5WVazk2OdNenJ1h+sJhat0sJ6cFqqkvTnCnLmzaWlrp76hDo/bzcXOC4hhRa3UT/9ALxUrKvj6y+O6H7X1dVTVVk9JAmwlOiGYOyebG9d/JZHoI99biNfjoevMOcTIyKD0FPvpHexhRdkKWpubdZCiVn2wmrRlMcOVxTenTjJ6718CgVKenDmTu8kki5fm4PW46Trbibg3elu6S3z0DSUIlpTRevq0VrMCOlATxpaSE1+c4JWKCrJmuLAtm55EP4bLIK8on8LlhVw8f0HpaEB6fQESAz2UB8qJtLQgpc2hD+vZr3pkSQxhsn3bdta/tobFixaxrLCAoduDWOk0HreXi51djrLdvjJ6+mL4S3x0tLbpHas9XKebrXgG/UG2bNnMjp27aGyo15OanT0fKYTu0Xfnzqvxq6n5iffeIuAL0NHaqkeuKgqFD/DC4iW8t3UrHzV+THf0JpOpR5w+eYK33tmINMFdUMS3necRw8kBWewL6qUt8/k509aqlftpUxN794d4fd067ty+w+WfLpN6OKFFqZZaXYapKvI6zR4dmbKRXofa2fZ2feiPG3/SGonQ3nGGnkR8yn+UBJUOQNqC2c88zQfbd7B54yY1tbvSU1yqlzbg83M2EnGULARjY/f5/tIlqmrC/NX995SdKGsR7Nq5m+y5z/JmZaUG1sbm9fmJxqOU+RWQU9G05SqP+uHyj8TiCULhEMk7dznS2EjlhkoyXCa2VI4wvf2+ANF4jKDfT0ckop1Pb7f2acfo0ulH/HzlCqnUOCtfXqm9Wh9zsqpmD8pif4BYPEp5WZCOtrbH1m8Iw/FklJYEluXsndKPME3tRfqMsuP7Y0l55Ohn7N67hzWrVvPV8WOO2TsEtfmrjNJ2wCQ2Uv0IDJXEsRdNbWJiTE4+nNSlm4ZJZmamQ0f/PQw9palpO05gTH8zsG1rClDyH0Y5aIQ3sgfqAAAAAElFTkSuQmCC"
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -523,7 +716,50 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 3.6,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "600px",
+    "image": "[[Ardentia City Map.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Ardentia City Map.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 6.5,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.2,
+    "zoomFeatures": false,
+    "id": "TBD",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "width": "640px",
+    "lat": 2048,
+    "long": 2048,
+    "unit": "miles",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

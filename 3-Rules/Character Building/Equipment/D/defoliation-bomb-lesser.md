@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "deployable-cover-(ballistic-cover)"
-aliases: "Deployable Cover (Ballistic Cover)"
-source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "uncommon"
-trait02: ""
-trait03: ""
-trait04: ""
-trait05: ""
+name: "defoliation-bomb-lesser"
+aliases: "Defoliation Bomb (Lesser)"
+source: "Pathfinder #202: Severed at the Root"
+pg: "77"
+rarity: "uncommon"
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "splash"
+trait05: "void"
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 1
-value: "35"
+weight: L
+value: "7"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This thick mat of canvas, foliage, and wood is mounted on a tripod of flexible metal struts, folded into a baton-like shape, and clamped shut. You can rapidly deploy it on the ground with an Interact action to create cover. Deployable cover completely blocks one edge of the chosen square, allowing you (and others) to gain standard cover when you use the [[Actions/Take Cover|Take Cover]] action. Before it can be used again, deployable cover must be carefully folded and clamped shut, which takes 1 minute.  Specially crafted to protect against bullet fire, a ballistic cover also works against other physical projectiles, such as arrows, bolts, and thrown weapons. While a creature has cover from Taking Cover behind a ballistic cover, it gains resistance 2 to piercing damage from ranged weapons and ranged unarmed attacks."
+activate: "`pf2:1` [[Strike]]"
+description: "This brightly painted ceramic sphere contains chemicals that cause plants to wither and die. A defoliation bomb deals the `dice: 1d6` void damage, `dice: 1d4` persistent void damage, and 1 void splash damage to all plants in the area. Non-creature plants in the area immediately wither and die."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 1d6 void
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

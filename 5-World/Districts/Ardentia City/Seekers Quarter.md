@@ -61,20 +61,20 @@ location:
 > [!metadata|map]- Map
 > ```leaflet
 > id: TBD
-> image: [[PlaceholderImage.png]]
+> image: [[Ardentia City Map.png]]
 > lock: true
 > recenter: true
 > noScrollZoom: false
-> ### Use this [LINK](https://docs.google.com/spreadsheets/d/1jKQxktYSUFcCJhEkAAPr1wMVBTqUdpEfA5XveUXI17I/edit?usp=sharing) to work out your map's bounds.
+> ### Use this ([Obsidian Leaflet Bounds Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1yz-qusYGh7_u-6PXlnad9nemcRRdGjnSPXg9DXk7y04/edit?gid=0#gid=0)) to work out your map's bounds.
 > ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
 > height: 600px
 > width: 640px
-> lat: 0
-> long: 0
+> lat: 2048
+> long: 2048
 > minZoom: 1
 > maxZoom: 6.5
-> defaultZoom: 1
-> zoomDelta: 0.5
+> defaultZoom: 3.6
+> zoomDelta: 0.2
 > unit: miles
 > scale: 1
 > darkMode: false

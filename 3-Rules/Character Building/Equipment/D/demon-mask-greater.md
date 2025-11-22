@@ -4,14 +4,14 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "demon-mask-(greater)"
+name: "demon-mask-greater"
 aliases: "Demon Mask (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "288"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "This terrifying mask is crafted in the visage of a leering demon and grants a +2 item bonus to Intimidation checks.  **Activate—Leering Mask** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** The mask casts a 3rd-rank [[Spells/Fear|Fear]] spell with a DC of 29."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This terrifying mask is crafted in the visage of a leering demon and grants a +2 item bonus to [[Skills#Intimidation|Intimidation]] checks."
+powerTitle1: "Leering Mask"
+actionEconomy1: 2
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The mask casts a 3rd-rank [[3-Rules/Character Building/Spells/F/Fear|Fear]] spell with a DC of 29."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

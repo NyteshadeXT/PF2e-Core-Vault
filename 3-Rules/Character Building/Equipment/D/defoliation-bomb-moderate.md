@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "demolition-fulu-(greater)"
-aliases: "Demolition Fulu (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "fulu"
-trait03: "magical"
-trait04: "common"
-trait05: ""
+name: "defoliation-bomb-moderate"
+aliases: "Defoliation Bomb (Moderate)"
+source: "Pathfinder #202: Severed at the Root"
+pg: "77"
+rarity: "uncommon"
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "splash"
+trait05: "void"
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
-weight: 
-value: "2750"
+level: 4
+weight: L
+value: "18"
 subvalue: "gp"
 invest:
-usage: "affixed to a ranged weapon"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A demolition fulu allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals 10d6 bludgeoning to the object. A demolition fulu serves as a hazard with a DC 37 Perception check check to detect it and DC 37 Thievery check check to disable it according to its type."
+activate: "`pf2:1` [[Strike]]"
+description: "This brightly painted ceramic sphere contains chemicals that cause plants to wither and die. You gain a +1 item bonus to attack rolls. A defoliation bomb deals the `dice: 2d6` void damage, `dice: 2d4` persistent void damage, and 2 void splash damage to all plants in the area. Non-creature plants in the area immediately wither and die."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 2d6 void
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

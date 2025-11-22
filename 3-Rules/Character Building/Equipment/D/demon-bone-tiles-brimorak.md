@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "defoliation-bomb-(lesser)"
-aliases: "Defoliation Bomb (Lesser)"
-source: "Pathfinder #202: Severed at the Root"
-pg: ""
-rarity: ""
-trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "splash"
-trait05: "void"
-trait06: "uncommon"
+name: "demon-bone-tiles-brimorak"
+aliases: "Demon Bone Tiles (Brimorak)"
+source: "Pathfinder Lost Omens Rival Academies"
+pg: "111"
+rarity: "rare"
+trait01: "catalyst"
+trait02: "consumable"
+trait03: "magical"
+trait04: "unholy"
+trait05: ""
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
+level: 5
 weight: L
-value: "7"
+value: "28"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This brightly painted ceramic sphere contains chemicals that cause plants to wither and die. A defoliation bomb deals the 1d6 void damage, 1d4 persistent void damage, and 1 void splash damage to all plants in the area. Non-creature plants in the area immediately wither and die."
+activate: "Cast a Spell (add 1 action)"
+description: "These bones from different types of demons can be used to form temporary barriers. When you crush the bone fragments and blow the resulting dust around yourself as you cast [[Shield]], the shield appears as a bone bulwark shaped like the demon's face.  When use Shield Block with the spell, the barrier explodes into many bone fragments. The shards cause `dice: 1d6` bleed damage to each creature adjacent to you that fails a DC 20 Reflex check save. This persistent bleed damage is unholy and can be stopped with an Interact action to remove the shards."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 1d6 void
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

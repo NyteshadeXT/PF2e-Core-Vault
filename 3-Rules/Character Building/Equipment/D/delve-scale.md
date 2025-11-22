@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "delve-scale"
 aliases: "Delve Scale"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "47"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  If fried, a bulette's thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales' properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to Athletics checks to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]].  [[Equipment Effects/Effect_ Delve Scale|Effect: Delve Scale]]"
+activate: "`pf2:1` [[Interact]]"
+description: "If fried, a bulette's thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales' properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[High Jump]] or [[Long Jump]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

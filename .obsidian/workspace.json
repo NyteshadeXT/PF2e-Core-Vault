@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Spells/A/Ancestral Memories.md",
+                "file": "5-World/Points of Interest/Ardentia City/The Running Rooster.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ancestral Memories"
+              "title": "The Running Rooster"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/defoliation-bomb-(greater).md",
+                "file": "3-Rules/Character Building/Equipment/D/detonating-gears-snare.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "defoliation-bomb-(greater)"
+              "title": "detonating-gears-snare"
             }
           },
           {
@@ -64,17 +64,17 @@
             }
           },
           {
-            "id": "b67db7dc0f4b57fa",
+            "id": "7566d75258f2aa9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/ToDo List.md",
-                "mode": "source",
+                "file": "5-World/Districts/Ardentia City/Seekers Quarter.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
+              "title": "Seekers Quarter"
             }
           }
         ],
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 275.5
   },
   "right": {
     "id": "2a5b285256e58b6d",
@@ -261,6 +261,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "224ba14c436a5a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf9294c3eccf25f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,42 +307,42 @@
   },
   "active": "f36016aa74a70f64",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/D/deflecting-branch.md",
-    "3-Rules/Character Building/Equipment/D/defiled-costa-greater.md",
-    "3-Rules/Character Building/Equipment/D/defiled-costa.md",
-    "3-Rules/Character Building/Equipment/D/deepdread-claw.md",
-    "3-Rules/Character Building/Equipment/D/deck-of-mischief.md",
-    "3-Rules/Character Building/Equipment/D/deck-of-many-things.md",
-    "3-Rules/Character Building/Equipment/D/deck-of-illusions.md",
-    "3-Rules/Character Building/Equipment/D/deck-of-harrowed-tales.md",
-    "3-Rules/Character Building/Equipment/D/decaying-(greater).md",
-    "3-Rules/Character Building/Equipment/D/decaying.md",
-    "3-Rules/Character Building/Equipment/D/decanter-of-endless-water.md",
-    "zz-Attachments/decanter-of-endless-water.png",
-    "3-Rules/Character Building/Equipment/D/deathstalk-mushroom.md",
-    "3-Rules/Character Building/Equipment/D/deathseeker.md",
+    "3-Rules/Character Building/Equipment/D/deteriorating-dust.md",
+    "3-Rules/Character Building/Equipment/D/detector-stone.md",
+    "3-Rules/Character Building/Equipment/D/detectives-kit.md",
+    "3-Rules/Character Building/Equipment/D/detect-anathema-fulu.md",
+    "3-Rules/Character Building/Equipment/D/desolation-locket-major.md",
+    "3-Rules/Character Building/Equipment/D/desolation-locket-greater.md",
+    "3-Rules/Character Building/Equipment/D/desolation-locket.md",
+    "3-Rules/Character Building/Equipment/D/desiccating-scepter.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-vii.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-vi.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-v.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-iv.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-iii.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-ii.md",
+    "3-Rules/Character Building/Equipment/D/depth-charge-i.md",
+    "zz-Attachments/depth-charge.png",
+    "3-Rules/Character Building/Equipment/D/depth-gauge.md",
+    "3-Rules/Character Building/Equipment/D/deployable-cover-ballistic-cover.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/D/deathless-light.md",
-    "3-Rules/Character Building/Equipment/D/Deathless.md",
-    "3-Rules/Character Building/Equipment/D/deathdrinking.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Character Building/Equipment/D/deathcap-powder.md",
-    "3-Rules/Character Building/Equipment/D/death-coil.md",
-    "3-Rules/Character Building/Equipment/D/deadweight-snare.md",
-    "3-Rules/Character Building/Equipment/E/execution-powder.md",
-    "3-Rules/Character Building/Equipment/D/deafening-music-box.md",
-    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-moderate.md",
-    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-major.md",
-    "3-Rules/Character Building/Equipment/D/deadweight-mutagen-lesser.md",
+    "3-Rules/Character Building/Equipment/D/deployable-cover.md",
+    "3-Rules/Character Building/Equipment/D/demortification-oil.md",
+    "3-Rules/Character Building/Equipment/D/demons-knot.md",
+    "3-Rules/Character Building/Equipment/D/demon-mask-greater.md",
+    "3-Rules/Character Building/Equipment/D/demon-mask.md",
+    "3-Rules/Character Building/Equipment/D/demon-hunting-bands.md",
+    "3-Rules/Character Building/Equipment/D/demon-dust.md",
+    "3-Rules/Character Building/Equipment/D/demon-bone-tiles-seraptis.md",
+    "zz-Attachments/guildhall-icon.png",
+    "zz-Attachments/arena-icon.png",
+    "zz-Attachments/Assets/ImagePlaceholder.png",
+    "zz-Attachments/Assets/PlaceholderImage.png",
+    "zz-Attachments/decanter-of-endless-water.png",
     "zz-Attachments/deadly-slashing-claws.png",
     "zz-Attachments/image-4.png",
     "zz-Attachments/image-3.png",
     "zz-Attachments/image-2.png",
-    "zz-Attachments/image.png",
-    "zz-Attachments/image-1.png",
-    "zz-Attachments/dart-umbrella.png",
-    "zz-Attachments/dart-shield.png",
-    "zz-Attachments/dart.png",
     "3-Rules/Bestiaries/Uniques/Z",
     "3-Rules/Bestiaries/Uniques/T",
     "3-Rules/Bestiaries/Uniques/S",
