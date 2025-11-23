@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "discord-fulu"
 aliases: "Discord Fulu"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "77"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "misfortune"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "affixed to a ranged weapon"
 license: "ORC"
 identify:
-description: "**Duration** 1 hour  * * *  Incorporating green in its writing, a _discord fulu_ is a popular but unethical tool often deployed on romantic rivals to foil their advances. While the fulu is affixed to it, a creature treats its attitude toward other creatures as one step worse than it is. The creature also takes a –1 status penalty to Diplomacy checks. The first failure the creature rolls on a Diplomacy check becomes a critical failure instead, and the fulu turns to ash, ending its effect.  [[Equipment Effects/Effect_ Discord Fulu|Effect: Discord Fulu]]"
+description: "Incorporating green in its writing, a _discord fulu_ is a popular but unethical tool often deployed on romantic rivals to foil their advances. While the fulu is affixed to it, a creature treats its attitude toward other creatures as one step worse than it is. The creature also takes a –1 status penalty to [[Skills#Diplomacy|Diplomacy]] checks. The first failure the creature rolls on a Diplomacy check becomes a critical failure instead, and the fulu turns to ash, ending its effect.  The effect lasts for one hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

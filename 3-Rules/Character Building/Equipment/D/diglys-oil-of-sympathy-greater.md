@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "diglys-oil-of-sympathy-(minor)"
-aliases: "Digly's Oil of Sympathy (Minor)"
+name: "diglys-oil-of-sympathy-greater"
+aliases: "Digly's Oil of Sympathy (Greater)"
 source: "Pathfinder NPC Core"
-pg: ""
-rarity: ""
+pg: "65"
+rarity: "rare"
 trait01: "consumable"
 trait02: "healing"
 trait03: "magical"
 trait04: "oil"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 12
 weight: L
-value: "4"
+value: "400"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This thick, red liquid has a pungent—but not unpleasant—smell. You pour the oil onto a weapon when activating it. If the weapon has damaged a creature within the last 10 minutes, the most recent creature damaged by the weapon regains 1d10 Hit Points. The creature is then temporarily immune to _Digly's oil of sympathy_ for 10 minutes.  The magic relies on the malice behind the attack, so the weapon must have been used against an enemy of the attacker. In other words, someone can't voluntarily take damage from a friend's weapon, then heal from it—a fact that made it very difficult for Sir Kenelm Digly to test the oil during its development."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This thick, red liquid has a pungent—but not unpleasant—smell. You pour the oil onto a weapon when activating it. If the weapon has damaged a creature within the last 10 minutes, the most recent creature damaged by the weapon regains `dice: 6d10+20` Hit Points. The creature is then temporarily immune to _Digly's oil of sympathy_ for 10 minutes.  The magic relies on the malice behind the attack, so the weapon must have been used against an enemy of the attacker. In other words, someone can't voluntarily take damage from a friend's weapon, then heal from it—a fact that made it very difficult for Sir Kenelm Digly to test the oil during its development."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

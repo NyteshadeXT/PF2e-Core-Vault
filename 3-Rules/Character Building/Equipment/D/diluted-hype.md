@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "diluted-hype"
 aliases: "Diluted Hype"
 source: "Pathfinder Lost Omens Legends"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "drug"
 trait04: "ingested"
 trait05: "poison"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 1 minute  **Stage 1** [[Conditions/Quickened|Quickened]] and can use the additional action to Step (1 round)  **Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 3** [[Conditions/Drained|Drained 1]] and stupefied 1 (1 round)"
+activate: "`pf2:1` [[Interact]] ([[Ingested]])"
+description: "A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.\n\n**Saving Throw** DC 21 Fortitude check  **Maximum Duration** 1 minute  **Stage 1** [[Quickened]] and can use the additional action to Step (1 round)  **Stage 2** [[Stupefied|Stupefied 1]] (1 round)  **Stage 3** [[Drained|Drained 1]] and [[Stupefied|Stupefied 1]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

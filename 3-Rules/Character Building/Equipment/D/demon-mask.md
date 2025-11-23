@@ -26,7 +26,11 @@ invest:
 usage: "wornmask"
 license: "ORC"
 identify:
+<<<<<<< Updated upstream
 description: "This terrifying mask is crafted in the visage of a leering demon and grants a +1 item bonus to [[Skills#Intimidation|Intimidation]] checks."
+=======
+description: "This terrifying mask is crafted in the visage of a leering demon and grants a +1 item bonus to Intimidation checks."
+>>>>>>> Stashed changes
 powerTitle1: "Leering Mask"
 actionEconomy1: 2
 type1: "([[manipulate]])"
@@ -79,4 +83,7 @@ armorBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes

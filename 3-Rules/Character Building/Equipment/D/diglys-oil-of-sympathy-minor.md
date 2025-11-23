@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "disrupting-oil"
-aliases: "Disrupting Oil"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+name: "diglys-oil-of-sympathy-minor"
+aliases: "Digly's Oil of Sympathy (Minor)"
+source: "Pathfinder NPC Core"
+pg: "65"
+rarity: "rare"
 trait01: "consumable"
-trait02: "magical"
-trait03: "oil"
-trait04: "uncommon"
+trait02: "healing"
+trait03: "magical"
+trait04: "oil"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+level: 1
 weight: L
-value: "10"
+value: "4"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A pearlescent fluid, disrupting oil applied to a weapon grants the benefits of a [[Equipment/Vitalizing|Vitalizing]] rune for 1 minute."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This thick, red liquid has a pungent—but not unpleasant—smell. You pour the oil onto a weapon when activating it. If the weapon has damaged a creature within the last 10 minutes, the most recent creature damaged by the weapon regains `dice: 1d10` Hit Points. The creature is then temporarily immune to _Digly's oil of sympathy_ for 10 minutes.  The magic relies on the malice behind the attack, so the weapon must have been used against an enemy of the attacker. In other words, someone can't voluntarily take damage from a friend's weapon, then heal from it—a fact that made it very difficult for Sir Kenelm Digly to test the oil during its development."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

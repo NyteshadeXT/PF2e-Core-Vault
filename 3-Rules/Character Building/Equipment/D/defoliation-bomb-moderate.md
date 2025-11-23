@@ -47,7 +47,7 @@ craft:
 #========================================================#
 range: 20 ft
 ammoType:
-damage: 2d6 void
+damage: 
 dmg1:
 dmg1Type:
 dmg2:

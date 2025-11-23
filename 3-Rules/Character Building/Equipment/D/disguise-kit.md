@@ -3,23 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-<<<<<<< Updated upstream
-name: "demolishing"
-aliases: "Demolishing"
-source: "Pathfinder Special: Fumbus"
-pg: "0"
-rarity: "rare"
-trait01: "magical"
+name: "disguise-kit"
+aliases: "Disguise Kit"
+source: "Pathfinder Player Core"
+pg: "288"
+rarity: ""
+trait01: ""
 trait02: ""
-=======
-name: "Demolishing"
-aliases: "demolishing"
-source: "Pathfinder Special: Fumbus"
-pg: "0"
-rarity: "Rare"
-trait01: "Evocation"
-trait02: "Magical"
->>>>>>> Stashed changes
 trait03: ""
 trait04:
 trait05:
@@ -27,20 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 0
 group: 
-bulk: 
-value: "225"
+bulk:  "L"
+value: "2"
 subvalue: "gp"
 invest: 
-usage: "etched onto a weapon"
-license: "OGL"
+usage: "held in two hands"
+license: "ORC"
 identify: ""
-<<<<<<< Updated upstream
-description: "A _demolishing_ weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature-cracks form, linkages fail, surfaces erode-and otherwise dismantle its body. When you damage a construct using a _demolishing_ weapon, you deal an extra `dice: 1d6` persistent force damage. On a critical hit, you deal an extra `dice: 1d12` persistent force damage instead."
-=======
-description: "A _demolishing_ weapon is made to destroy constructs. Damage inflicted on a construct with a _demolishing_ weapon continues to spread throughout the creature—cracks form, linkages fail, surfaces erode—and otherwise dismantle its body. When you damage a construct using a _demolishing_ weapon, you deal an extra `dice: 1d6` persistent force damage. On a critical hit, you deal an extra `dice: 1d12` persistent force damage instead."
->>>>>>> Stashed changes
+description: "This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to [[Impersonate]] someone using the [[Skills#Deception|Deception]] skill. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit. You can draw and replace a worn disguise kit as part of the action that uses it."
 activate: ""
 craft: 
 destruction: 
@@ -156,8 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-<<<<<<< Updated upstream
-=======
-
-
->>>>>>> Stashed changes

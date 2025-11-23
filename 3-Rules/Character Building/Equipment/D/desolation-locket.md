@@ -26,9 +26,15 @@ invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
+<<<<<<< Updated upstream
 description: "The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 24.\n\n**Armor** The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against emotion effects.\n**Weapon**(emotion, mental) After you cast an enchantment spell by activating the _locket_, you emanate an aura of hopelessness in a 5-foot emanation until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket's spell DC or become [[Slowed|Slowed 1]] ([[Slowed|Slowed 2]] on a critical failure) until the end of its next turn."
 powerTitle1: "Effect"
 actionEconomy1: "Cast a Spell"
+=======
+description: "The surface of this golden, heart-shaped locket is nearly worn through with cracks. If opened, it reveals a portrait of someone the bearer loved dearly and has lost. The spell DC of any spell cast by activating this item is 24.<br><br>**Armor** The _desolation locket_ numbs you to further despair, and you gain a +2 item bonus to saving throws against emotion effects.<br>**Weapon**(emotion, mental) After you cast an enchantment spell by activating the _locket_, you emanate an aura of hopelessness in a 5-foot emanation until the start of your next turn. A creature that ends its turn in the aura must succeed at a Will saving throw against the locket's spell DC or become [[Slowed|Slowed 1]] ([[Slowed|Slowed 2]] on a critical failure) until the end of its next turn."
+powerTitle1: "Cast a Spell"
+actionEconomy1:
+>>>>>>> Stashed changes
 type1:
 frequency1:
 trigger1:
@@ -38,7 +44,11 @@ actionEconomy2:
 type2:
 frequency2: "once per day"
 trigger2:
+<<<<<<< Updated upstream
 mechanics2: "You cast [[3-Rules/Character Building/Spells/F/Fear|Fear]]."
+=======
+mechanics2: "You cast [[Agonizing Despair]]."
+>>>>>>> Stashed changes
 craft:
 
 #========================================================#

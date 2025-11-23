@@ -79,4 +79,7 @@ armorBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes

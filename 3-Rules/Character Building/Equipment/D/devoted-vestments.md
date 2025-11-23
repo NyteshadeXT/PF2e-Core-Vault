@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "devoted-vestments"
 aliases: "Devoted Vestments"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "288"
 rarity: ""
 trait01: "divine"
 trait02: "focused"
 trait03: "invested"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,20 +26,20 @@ invest:
 usage: "worngarment"
 license: "ORC"
 identify:
-description: "These vestments are made of panels showing various scenes from the legends of a particular deity. It serves as a religious symbol of that deity, and you gain a +2 item bonus to Religion checks. When you cast _harm_ or _heal_, healing granted to followers of that deity is increased by the rank of the spell.  **Activate—Domain Devotion** `pf2:0` (concentrate)  **Frequency** once per day  * * *  **Effect** Gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the vestments are dedicated to. If you don't spend this point by the end of this turn, it is lost.  * * *  **Craft Requirements** You are a cleric who worships the deity tied to the vestments."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These vestments are made of panels showing various scenes from the legends of a particular deity. It serves as a religious symbol of that deity, and you gain a +2 item bonus to Religion checks. When you cast _harm_ or _heal_, healing granted to followers of that deity is increased by the rank of the spell."
+powerTitle1: "Domain Devotion"
+actionEconomy1: 0
+type1: "([[concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "Gain 1 Focus Point, which you can spend only to cast a cleric domain spell for a domain belonging to the deity the vestments are dedicated to. If you don't spend this point by the end of this turn, it is lost."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "You are a cleric who worships the deity tied to the vestments."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

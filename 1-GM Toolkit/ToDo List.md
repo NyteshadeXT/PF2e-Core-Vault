@@ -15,6 +15,7 @@ tags:
 	- [ ] Add Cold Iron Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Cold Iron Chunk and Ingot
 	- [ ] Add Dawnsilver Chunk and Ingot
+	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
 - [ ] Update item templates with Identification criteria
 - [ ] Create trait template
 - [ ] Update traits to new template
@@ -41,6 +42,7 @@ tags:
 - [ ] Review Everything Shields material for final inclusion
 - [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
 - [ ] Potential New Shop Types: Antiques and Relics, Apothecary, Bakery, Bookstore, Butcher, Cartographer, Carpenter, Fishmonger, Glassblower, Herbalist, Mail Service, Tavern, Tinkerer, Winery.
+- [ ] Remove Disrupting Oil and Greater Disrupting Oil
 
 
 # World Things

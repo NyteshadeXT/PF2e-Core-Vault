@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "disrupting-oil-(greater)"
-aliases: "Disrupting Oil (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "disguise-kit-elite-cosmetics"
+aliases: "Disguise Kit (Elite Cosmetics)"
+source: "Pathfinder Player Core"
+pg: "288"
 rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "oil"
-trait04: "uncommon"
+trait01: ""
+trait02: ""
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 3
 weight: L
-value: "250"
-subvalue: "gp"
+value: "5"
+subvalue: "sp"
 invest:
-usage: "held in two hands"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A pearlescent fluid, disrupting oil applied to a weapon grants the benefits of a [[Equipment/Vitalizing (Greater)|Greater Disrupting]] rune with a DC 30 Fortitude check for 1 minute."
+description: "This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to [[Impersonate]] someone using the [[Skills#Deception|Deception]] skill. An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

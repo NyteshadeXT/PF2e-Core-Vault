@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "diplomats-badge"
 aliases: "Diplomat's Badge"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "289"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "When displayed prominently, this brass badge makes creatures find you more agreeable. You gain a +1 item bonus to Diplomacy checks.  * * *  **Activate—Diplomat's Bearing** `pf2:1` (concentrate)  **Frequency** once per day  * * *  **Effect** Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.  [[Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "When displayed prominently, this brass badge makes creatures find you more agreeable. You gain a +1 item bonus to Diplomacy checks."
+powerTitle1: "Diplomat's Bearing"
+actionEconomy1: 1
+type1: "([[Concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for [[Skills#Diplomacy|Diplomacy]] checks with creatures of that group for the rest of the day."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

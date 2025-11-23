@@ -4,15 +4,15 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "disguise-kit-(elite)"
-aliases: "Disguise Kit (Elite)"
-source: "Pathfinder Player Core"
-pg: ""
-rarity: ""
-trait01: "common"
-trait02: ""
-trait03: ""
-trait04: ""
+name: "diglys-oil-of-sympathy-lesser"
+aliases: "Digly's Oil of Sympathy (Lesser)"
+source: "Pathfinder NPC Core"
+pg: "65"
+rarity: "rare"
+trait01: "consumable"
+trait02: "healing"
+trait03: "magical"
+trait04: "oil"
 trait05: ""
 trait06: ""
 trait07: ""
@@ -20,13 +20,14 @@ trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
 weight: L
-value: "40"
+value: "12"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small wooden box contains cosmetics, false facial hair, spirit gum, and a few simple wigs. You usually need a disguise kit to set up a disguise in order to Impersonate someone using the Deception skill. An elite disguise kit adds a +1 item bonus to relevant checks. If you've crafted a large number of disguises, you can replenish your cosmetics supply with replacement cosmetics suitable for the type of your disguise kit. You can draw and replace a worn disguise kit as part of the action that uses it."
+activate: "`pf2:1` ([[manipulate]])"
+description: This thick, red liquid has a pungent—but not unpleasant—smell. You pour the oil onto a weapon when activating it. If the weapon has damaged a creature within the last 10 minutes, the most recent creature damaged by the weapon regains `dice: 2d10+5` Hit Points. The creature is then temporarily immune to _Digly's oil of sympathy_ for 10 minutes.  The magic relies on the malice behind the attack, so the weapon must have been used against an enemy of the attacker. In other words, someone can't voluntarily take damage from a friend's weapon, then heal from it—a fact that made it very difficult for Sir Kenelm Digly to test the oil during its development."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

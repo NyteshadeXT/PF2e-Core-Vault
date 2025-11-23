@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "dirt-sea-in-a-jar"
 aliases: "Dirt Sea in a Jar"
 source: "Pathfinder #209: Destroyer's Doom"
-pg: ""
-rarity: ""
+pg: "83"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small jar of dark sand swirls intensely as you peer into it, evoking the dangerous beauty of the Dirt Sea.  **Activate** `pf2:1` or `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** You pour the contents of the jar onto unworked ground. If you activate this item with one action, you pour the sand into one or two 5-foot squares adjacent to you. If you activate this item with two actions, the sand spreads across a 15-foot cone. The affected space turns into [[Hazards (Rulebooks)/Quicksand|Quicksand]]. Creatures already in the area can Step out of the area as a reaction. The quicksand doesn't inflict lasting damage to most surfaces or nearby architecture, though a feature surrounded by the quicksand might sink or settle naturally. This terrain lasts for 1 day or until the effect is Dismissed, causing the sand to reappear in the jar."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This small jar of dark sand swirls intensely as you peer into it, evoking the dangerous beauty of the Dirt Sea."
+powerTitle1: "Effect"
+actionEconomy1: "Varies"
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You pour the contents of the jar onto unworked ground. If you activate this item with one action, you pour the sand into one or two 5-foot squares adjacent to you. If you activate this item with two actions, the sand spreads across a 15-foot cone. The affected space turns into [[3-Rules/Hazards/Q/quicksand|Quicksand]]. Creatures already in the area can Step out of the area as a reaction. The quicksand doesn't inflict lasting damage to most surfaces or nearby architecture, though a feature surrounded by the quicksand might sink or settle naturally. This terrain lasts for 1 day or until the effect is Dismissed, causing the sand to reappear in the jar."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
