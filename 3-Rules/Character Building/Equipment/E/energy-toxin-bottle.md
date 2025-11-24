@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "divers-gloves-(greater)"
-aliases: "Diver's Gloves (Greater)"
-source: "Pathfinder Lost Omens Firebrands"
-pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "uncommon"
-trait04: ""
+name: "energy-toxin-bottle"
+aliases: "Energy Toxin Bottle"
+source: "Pathfinder Treasure Vault"
+pg: "191"
+rarity: "rare"
+trait01: "consumable"
+trait02: "cursed"
+trait03: "magical"
+trait04: "potion"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 15
+level: 7
 weight: L
-value: "6000"
+value: "0"
 subvalue: "gp"
 invest:
-usage: "worngloves"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These black leather gloves fit snuggly, running up the length of your arm to your elbow. Each glove has an angular fin running along the outside edge of your arms, which forms a narrow triangle when your hands meet in a diving position. While wearing the gloves, you gain a +3 item bonus to Athletics checks to [[Actions/Swim|Swim]]. The item bonus is +3. The gloves grant you a swim Speed equal to your land Speed or 30 feet, whichever is higher.  **Activate** `pf2:r` envision  **Trigger** You would take damage from falling into water  * * *  **Effect** The gloves create a hydrodynamic barrier around you, dispersing the damage that would be done to you during a high dive. You take damage as if the fall were half the distance, to a minimum fall of 5 feet. You then Swim with the effects of a critical success for the check."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This glass bottle embellished with brass decorations appears to be a lesser energy breath potion of a specific type, but has been polluted, making it toxic to use.  **Activate** `pf2:1` Interact  * * *  **Effect** "
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You drink from the bottle and must succeed at a DC 25 Fortitude check saving throw or become [[Sickened|Sickened 1]] ([[Sickened|Sickened 2]] on a critical failure) and immediately vomit the potion directly onto yourself, taking `dice: 5d6 damage of the same damage type the potion deals and expending the item.. If you succeed at your Fortitude save, you become [[Sickened|Sickened 1]] but otherwise are able to unleash energy breath as normal for a [[energy-breath-potion-(fire-lesser)|lesser energy breath potion]] of the appropriate type."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "divers-gloves-(moderate)"
-aliases: "Diver's Gloves (Moderate)"
+name: "divers-gloves-greater"
+aliases: "Diver's Gloves (Greater)"
 source: "Pathfinder Lost Omens Firebrands"
-pg: ""
-rarity: ""
+pg: "85"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 15
 weight: L
-value: "650"
+value: "6000"
 subvalue: "gp"
 invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These black leather gloves fit snuggly, running up the length of your arm to your elbow. Each glove has an angular fin running along the outside edge of your arms, which forms a narrow triangle when your hands meet in a diving position. While wearing the gloves, you gain a +2 item bonus to Athletics checks to [[Actions/Swim|Swim]]. The gloves grant you a swim Speed equal to half of your land Speed  **Activate** `pf2:r` envision  **Trigger** You would take damage from falling into water  * * *  **Effect** The gloves create a hydrodynamic barrier around you, dispersing the damage that would be done to you during a high dive. You take damage as if the fall were half the distance, to a minimum fall of 5 feet. You then Swim with the effects of a critical success for the check."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "These black leather gloves fit snuggly, running up the length of your arm to your elbow. Each glove has an angular fin running along the outside edge of your arms, which forms a narrow triangle when your hands meet in a diving position. While wearing the gloves, you gain a +3 item bonus to [[Skills#Athletics|Athletics]] checks to [[Swim]]. The item bonus is +3. The gloves grant you a swim Speed equal to your land Speed or 30 feet, whichever is higher."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[envision]])"
+frequency1: 
+trigger1: "You would take damage from falling into water"
+mechanics1: "The gloves create a hydrodynamic barrier around you, dispersing the damage that would be done to you during a high dive. You take damage as if the fall were half the distance, to a minimum fall of 5 feet. You then Swim with the effects of a critical success for the check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

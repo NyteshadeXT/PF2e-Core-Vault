@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "dog-bone-knife"
 aliases: "Dog-Bone Knife"
 source: "Pathfinder Dark Archive"
-pg: ""
-rarity: ""
+pg: "134"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -22,11 +22,12 @@ level: 5
 weight: 1
 value: "150"
 subvalue: "gp"
+group: "Knife"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The blade of this _+1 striking dagger_ is made from the thigh bone of a canine that died in the act of protecting its master. A werecreature or other creature willingly under the effects of a non-permanent polymorph effect damaged by a _dog-bone knife_ must attempt a DC 19 Will check save or immediately revert to its natural form-this has no effect on a creature unwillingly polymorphed. On a successful save, the creature is temporarily immune to this effect for 1 minute. Kushtakas and other creatures vulnerable to canines take a -2 circumstance penalty to saves against this effect, and this weapon overcomes any resistance such creatures have to physical attacks."
+description: "The blade of this _[[Weapon Potency (+1)|+1]] [[striking]] [[dagger]]_ is made from the thigh bone of a canine that died in the act of protecting its master. A werecreature or other creature willingly under the effects of a non-permanent polymorph effect damaged by a _dog-bone knife_ must attempt a DC 19 Will check save or immediately revert to its natural form-this has no effect on a creature unwillingly polymorphed. On a successful save, the creature is temporarily immune to this effect for 1 minute. Kushtakas and other creatures vulnerable to canines take a -2 circumstance penalty to saves against this effect, and this weapon overcomes any resistance such creatures have to physical attacks."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,7 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Dagger"
 armorBase:
 
 ---

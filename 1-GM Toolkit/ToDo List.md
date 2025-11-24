@@ -16,6 +16,7 @@ tags:
 	- [ ] Add Cold Iron Chunk and Ingot
 	- [ ] Add Dawnsilver Chunk and Ingot
 	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
+	- [ ] Add Djezet Alloy Mass and Ingot
 - [ ] Update item templates with Identification criteria
 - [ ] Create trait template
 - [ ] Update traits to new template

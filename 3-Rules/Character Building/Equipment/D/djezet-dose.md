@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "djezet-dose"
 aliases: "Djezet Dose"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "98"
+rarity: "rare"
 trait01: "consumable"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Some mages carry vials of djezet for its magic-enhancing properties. When you drink a _djezet dose_, if your next action is to Cast a Spell, you can apply the effects of the [[Feats/Reach Spell|Reach Spell]] or [[Feats/Widen Spell|Widen Spell]] spellshape feats.  * * *  **Craft Requirements** At least 300 gp of djezet."
+activate: "`pf2:1` Interact"
+description: "Some mages carry vials of djezet for its magic-enhancing properties. When you drink a _djezet dose_, if your next action is to Cast a Spell, you can apply the effects of the [[Reach Spell]] or [Widen Spell]] spellshape feats."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "At least 300 gp of djezet."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

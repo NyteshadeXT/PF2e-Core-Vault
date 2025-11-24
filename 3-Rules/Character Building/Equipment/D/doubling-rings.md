@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "doubling-rings"
 aliases: "Doubling Rings"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "289"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/doubling-rings.png
 level: 3
 weight: 
 value: "50"
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

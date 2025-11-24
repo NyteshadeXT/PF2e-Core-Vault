@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "draconic-toxin-bottle"
-aliases: "Draconic Toxin Bottle"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "air"
-trait02: "consumable"
-trait03: "cursed"
-trait04: "magical"
-trait05: "rare"
+name: "divers-gloves-lesser"
+aliases: "Diver's Gloves (Lesser)"
+source: "Pathfinder Lost Omens Firebrands"
+pg: "85"
+rarity: "uncommon"
+trait01: "invested"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 4
 weight: L
-value: "0"
+value: "85"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "worngloves"
 license: "ORC"
 identify:
-description: "This glass bottle appears to be a dragon's breath potion of a specific dragon type (usually red) but has been polluted, making it toxic to use.  **Activate** `pf2:1` Interact  * * *  **Effect** You drink from the bottle and must succeed at a DC 25 Fortitude check saving throw or become [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure) and immediately vomit the potion directly onto yourself, taking damage as though you had failed a save against a standard dragon's breath potion. If you succeed at your Fortitude save, you become sickened 1 but otherwise are able to unleash a breath weapon as normal for a dragon's breath potion of the appropriate type."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "These black leather gloves fit snuggly, running up the length of your arm to your elbow. Each glove has an angular fin running along the outside edge of your arms, which forms a narrow triangle when your hands meet in a diving position. While wearing the gloves, you gain a +1 item bonus to [[Skills#Athletics|Athletics]] checks to [[Swim]]."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You would take damage from falling into water"
+mechanics1: "The gloves create a hydrodynamic barrier around you, dispersing the damage that would be done to you during a high dive. You take damage as if the fall were half the distance, to a minimum fall of 5 feet. You then Swim with the effects of a critical success for the check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

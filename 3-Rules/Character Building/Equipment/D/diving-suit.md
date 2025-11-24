@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "diving-suit"
 aliases: "Diving Suit"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "19"
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "Diving suits are bulky, waterproofed leather outfits with copper helmets, worn by divers and underwater salvagers. The suit grants a +1 item bonus to Swim checks made underwater, and the helmet features tubes for connecting _[[Equipment/Bottled Air|Bottled Air]]_. When connected to a diving suit, _bottled air_ doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [[Conditions/Clumsy|Clumsy 1]] until you remove the diving suit."
+description: "Diving suits are bulky, waterproofed leather outfits with copper helmets, worn by divers and underwater salvagers. The suit grants a +1 item bonus to [[Swim]] checks made underwater, and the helmet features tubes for connecting _[[Bottled Air]]_. When connected to a diving suit, _bottled air_ doesn't need to be held and can be used to breathe as a free action. If you wear armor over a diving suit, you become [[Clumsy|Clumsy 1]] until you remove the diving suit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

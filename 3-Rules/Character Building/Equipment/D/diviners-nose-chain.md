@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "diviners-nose-chain"
 aliases: "Diviner's Nose Chain"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "The diviner's nose chain is worn by attaching piercings to the ear and nose, creating a connection between the senses of hearing and smell. The diviner's nose chain grants you scent out to 30 feet as an imprecise sense, and a +1 item bonus to checks to Seek or Sense Motive."
+description: "The diviner's nose chain is worn by attaching piercings to the ear and nose, creating a connection between the senses of hearing and smell. The diviner's nose chain grants you scent out to 30 feet as an imprecise sense, and a +1 item bonus to checks to [[Seek]] or [[Sense Motive]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

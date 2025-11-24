@@ -1,26 +1,151 @@
 ---
-obsidianUIMode: preview
-title: "Doll"
-cssclasses: pf2e,pf2e-action
-tags:
-  - trait/common
-aliases: "Compendium.pf2e.equipment-srd.Item.ZPFDfWPmWLPUJeW1"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "doll"
+aliases: "Doll"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "58"
+rarity: ""
+trait01: ""
+trait02: ""
+trait03:
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 
+group: 
+weight: "L"
+value: "1"
+subvalue: "sp"
+invest:
+usage: "held in one hand"
+license: "OGL"
+identify: ""
+description: "Dolls are found throughout Golarion in a wide variety of forms. Among the most common are miniature painted figurines, plush animals crafted from fur and stuffed with cotton, porcelain dolls with fine clothing and silky hair, fabric hand puppets, and elaborate marionettes."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Effect"
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                ARMOR/SHIELD PROPERTIES                 #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity:
+weaknesses:
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                 OTHER ITEM PROPERTIES                  #
+#========================================================#
+fort:
+reflex:
+speed:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Doll
 
-### 
-
-
-**Price** 1 sp; 
-**Bulk** L; **Size** med
-**Usage** held-in-one-hand
-
-Dolls are found throughout Golarion in a wide variety of forms. Among the most common are miniature painted figurines, plush animals crafted from fur and stuffed with cotton, porcelain dolls with fine clothing and silky hair, fabric hand puppets, and elaborate marionettes.
-
-* * *
-
-This price is for an average doll of any type.
-
-*Source: Pathfinder Lost Omens The Grand Bazaar*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```
