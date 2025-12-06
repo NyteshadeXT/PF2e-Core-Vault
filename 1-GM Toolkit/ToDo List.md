@@ -44,6 +44,7 @@ tags:
 - [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
 - [ ] Potential New Shop Types: Antiques and Relics, Apothecary, Bakery, Bookstore, Butcher, Cartographer, Carpenter, Fishmonger, Glassblower, Herbalist, Mail Service, Tavern, Tinkerer, Winery.
 - [ ] Remove Disrupting Oil and Greater Disrupting Oil
+- [ ] Dragonclaw Scutcheon drops with a dragon type
 
 
 # World Things

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "dragonfly-fulu"
 aliases: "Dragonfly Fulu"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "77"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You take the [[Actions/Leap|Leap]] action.  * * *  Tradition says the _dragonfly fulu_ should be affixed to the upper back, like the wings of an insect. When you Activate this fulu, you gain a +2 status bonus to Athletics checks to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]] for 1 minute. During this time, you can attempt an Athletics check to High Jump or Long Jump as a single action without the Stride requirement. You can also High Jump or Long Jump from a nonsolid substance, such as air or water, but if you use this power of the fulu, its effects ends after you jump.  [[Equipment Effects/Effect_ Dragonfly Fulu|Effect: Dragonfly Fulu]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "Tradition says the _dragonfly fulu_ should be affixed to the upper back, like the wings of an insect."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You take the [[Leap]] action."
+mechanics1: "When you Activate this fulu, you gain a +2 status bonus to Athletics checks to [[High Jump]] or [[Long Jump]] for 1 minute. During this time, you can attempt an [[Skills#Athletics|Athletics]] check to High Jump or Long Jump as a single action without the Stride requirement. You can also High Jump or Long Jump from a nonsolid substance, such as air or water, but if you use this power of the fulu, its effects ends after you jump."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

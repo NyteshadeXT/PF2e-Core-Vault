@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dragon-turtle-scale-(greater)"
 aliases: "Dragon Turtle Scale (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Athletics  * * *  This shimmering green scale is usually attached to a golden clasp or chain.  When you activate the scale, for 1 minute you gain a swim Speed equal to your land Speed.  [[Equipment Effects/Effect_ Dragon Turtle Scale|Effect: Dragon Turtle Scale]]"
+activate: "`pf2:1` ([[concentrate]])"
+description: "This shimmering green scale is usually attached to a golden clasp or chain.  When you activate the scale, for 1 minute you gain a swim Speed equal to your land Speed. To use, you must be trained in [[Skills#Athletics|Athletics]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

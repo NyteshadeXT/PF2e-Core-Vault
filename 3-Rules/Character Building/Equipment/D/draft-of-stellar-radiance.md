@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "draft-of-stellar-radiance"
 aliases: "Draft of Stellar Radiance"
 source: "Pathfinder #187: The Seventh Arch"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "rare"
 trait01: "consumable"
 trait02: "light"
 trait03: "magical"
 trait04: "potion"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This potion's bottle glows softly with shimmering silver light. Upon drinking this potion, you're surrounded by a nimbus of blazing starlight that lasts for 1 minute. You emanate a field of bright light with a 20-foot radius (and dim light for another 20 feet, like a torch). You take a –20 penalty to Stealth checks. Any creature that targets you with an attack or an ability must succeed at a DC 17 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round. A creature who succeeds at this save is immune to the effect for 24 hours.  [[Equipment Effects/Effect_ Draft of Stellar Radiance|Effect: Draft of Stellar Radiance]]"
+activate: "`pf2:1` [[Interact]]"
+description: "This potion's bottle glows softly with shimmering silver light. Upon drinking this potion, you're surrounded by a nimbus of blazing starlight that lasts for 1 minute. You emanate a field of bright light with a 20-foot radius (and dim light for another 20 feet, like a torch). You take a –20 penalty to [[Skills#Stealth|Stealth]] checks. Any creature that targets you with an attack or an ability must succeed at a DC 17 Fortitude check save or be [[Dazzled]] for 1 round. A creature who succeeds at this save is immune to the effect for 24 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

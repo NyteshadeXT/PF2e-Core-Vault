@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dragon-turtle-armor"
 aliases: "Dragon Turtle Armor"
 source: "Pathfinder #199: To Bloom Below the Web"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "uncommon"
 trait01: "bulwark"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+1 resilient full plate_ is crafted from the most colorful fragments chipped from scales of a dragon turtle's shell, traditionally incorporating that motif in the form of a thicker, sturdier backplate. While wearing this armor, you aren't [[Conditions/Off-Guard|Off-Guard]] from creatures that flank you, and you ignore the armor's speed penalty when you Swim and its check penalty to Athletics checks to Swim."
+description: "This _[[armor-potency-1|+1]] [[resilient]] [[full plate]]_ is crafted from the most colorful fragments chipped from scales of a dragon turtle's shell, traditionally incorporating that motif in the form of a thicker, sturdier backplate. While wearing this armor, you aren't [[Off-Guard]] from creatures that flank you, and you ignore the armor's speed penalty when you Swim and its check penalty to [[Skills#Athletics|Athletics]] checks to Swim."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -72,6 +72,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Full Plate"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

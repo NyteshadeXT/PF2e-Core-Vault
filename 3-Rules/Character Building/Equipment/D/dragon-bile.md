@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "dragon-bile"
 aliases: "Dragon Bile"
 source: "Pathfinder Core Rulebook"
-pg: ""
+pg: "551"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.  **Activate** `pf2:1` Interact (Contact)  **Saving Throw** DC 37 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 6d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)  **Stage 2** 7d6 poison damage and [[Conditions/Sickened|Sickened 3]] (1 round)  **Stage 3** 9d6 poison damage and [[Conditions/Sickened|Sickened 4]] (1 round)"
+activate: "`pf2:1` [[Interact]] ([[Contact]])"
+description: "A mix of digestive juices and green dragon poison glands nauseates the victim as its flesh is digested from within.\n\n**Saving Throw** DC 37 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** `dice: 6d6` poison damage and [[Sickened|Sickened 2]] (1 round)  **Stage 2** `dice: 7d6` poison damage and [[Sickened|Sickened 3]] (1 round)  **Stage 3** `dice: 9d6` poison damage and [[Sickened|Sickened 4]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
