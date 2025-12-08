@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dragonprism-staff-(greater)"
 aliases: "Dragonprism Staff (Greater)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "132"
 rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -23,36 +23,38 @@ weight: 1
 value: "68000"
 subvalue: "gp"
 invest:
+group: Club
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A multi-hued array of scales covers a _dragonprism staff_, forming a gradient of color, and a dragon's claw holds a gem upon the staff's head. Dragons give allies these staves as a mark of esteem. While wielding a _dragonprism staff_ you seem fiercer, gaining a +1 circumstance bonus to Intimidation checks to [[Actions/Demoralize|Demoralize]].  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gouging Claw|Gouging Claw]], [[Spells/Puff of Poison|Puff of Poison]] *   **1st** [[Spells/Breathe Fire|Breathe Fire]], [[Spells/Fear|Fear]] *   **2nd** [[Spells/Acid Arrow|Acid Arrow]], [[Spells/Resist Energy|Resist Energy]] *   **3rd** [[Spells/Fear|Fear]], [[Spells/Lightning Bolt|Lightning Bolt]] *   **4th** [[Spells/Fly|Fly]], [[Spells/Reflective Scales|Reflective Scales]] *   **5th** [[Spells/Cone of Cold|Cone of Cold]], [[Spells/Summon Dragon|Summon Dragon]] *   **6th** [[Spells/Dragon Form|Dragon Form]], [[Spells/Reflective Scales|Reflective Scales]], [[Spells/Summon Dragon|Summon Dragon]] *   **7th** [[Spells/Summon Dragon|Summon Dragon]] *   **8th** [[Spells/Dragon Form|Dragon Form]], [[Spells/Summon Dragon|Summon Dragon]] *   **9th** [[Spells/Summon Draconic Legion|Summon Draconic Legion]], [[Spells/Summon Dragon|Summon Dragon]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle1:
+description: "A multi-hued array of scales covers a _dragonprism staff_, forming a gradient of color, and a dragon's claw holds a gem upon the staff's head. Dragons give allies these staves as a mark of esteem. While wielding a _dragonprism staff_ you seem fiercer, gaining a +1 circumstance bonus to [[Skills#Intimidation|Intimidation]] checks to [[Demoralize]]."
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+activate1: "Cast a Spell"
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.\n\n**Cantrip** [[Gouging Claw]], [[Puff of Poison]]\n**1st** [[Breathe Fire]], [[3-Rules/Character Building/Spells/F/Fear|Fear]]\n**2nd** [[Acid Arrow]], [[Resist Energy]]\n**3rd** [[3-Rules/Character Building/Spells/F/Fear|Fear]], [[Lightning Bolt]]\n**4th** [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Reflective Scales]]\n**5th** [[Cone of Cold]], [[Summon Dragon]]\n**6th** [[Dragon Form]], [[Reflective Scales]], [[Summon Dragon]]\n**7th** [[Summon Dragon]]\n**8th** [[Dragon Form]], [[Summon Dragon]]\n**9th** [[Summon Draconic Legion]], [[Summon Dragon]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
