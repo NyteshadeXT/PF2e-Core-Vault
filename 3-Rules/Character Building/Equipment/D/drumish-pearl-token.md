@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "drumish-pearl-token"
 aliases: "Drumish Pearl Token"
 source: "Pathfinder #210: Whispers in the Dirt"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This silver brooch features an enormous freshwater pearl pulled from the depths of Lake Encarthan. They are often given to trading partners among Drumish merchants as a sign of favor—not as favored as a fellow Kalistocrat, but nonetheless worth treating well. Openly wearing a _Drumish pearl token_ can work wonders when traveling through Druma, whether on legitimate mercantile business or not, but those who flaunt the token inappropriately must beware of repercussions from the Drumish government! The wearer of a _Drumish pearl token_ benefits from a +2 item bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] and to their Perception DC when someone attempts to Lie to them.  **Activate—Subversive Friendship** `pf2:r` (concentrate, emotion, mental)  **Frequency** once per day  **Trigger** You succeed at [[Actions/Make an Impression|Making an Impression]]  * * *  **Effect** You automatically increase the target's attitude to helpful. If the target's initial attitude was unfriendly or hostile, they revert to this attitude after 10 minutes and realize they've been manipulated by you. Afterward, they might decide to act against you."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This silver brooch features an enormous freshwater pearl pulled from the depths of Lake Encarthan. They are often given to trading partners among Drumish merchants as a sign of favor—not as favored as a fellow Kalistocrat, but nonetheless worth treating well. Openly wearing a _Drumish pearl token_ can work wonders when traveling through Druma, whether on legitimate mercantile business or not, but those who flaunt the token inappropriately must beware of repercussions from the Drumish government! The wearer of a _Drumish pearl token_ benefits from a +2 item bonus to [[Skills#Diplomacy|Diplomacy]] checks to [[Make an Impression]] and to their [[Skills#Perception|Perception]] DC when someone attempts to Lie to them."
+powerTitle1: "Subversive Friendship"
+actionEconomy1: r
+type1: "([[concentrate]], [[emotion]], [[mental]])"
+frequency1: "once per day"
+trigger1: "You succeed at [[Making an Impression]]"
+mechanics1: "You automatically increase the target's attitude to helpful. If the target's initial attitude was unfriendly or hostile, they revert to this attitude after 10 minutes and realize they've been manipulated by you. Afterward, they might decide to act against you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

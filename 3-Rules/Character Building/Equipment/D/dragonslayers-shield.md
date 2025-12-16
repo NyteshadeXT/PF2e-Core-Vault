@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "dragonslayers-shield"
 aliases: "Dragonslayer's Shield"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "234"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _dragonslayer's shield_ is a steel shield covered with dragonhide from a specific dragon, which visually distinguishes each shield from the others. While raised, this steel shield (Hardness 8, HP 32, BT 16) grants its circumstance bonus to Reflex saves against area effects (as well as to AC, as normal).  While you hold the shield, it also grants you a +2 circumstance bonus to Will saves against a dragon's frightful presence ability. The shield has resistance 10 against the damage type corresponding to the dragon breath of the dragon whose hide was used in its creation (for example, a _dragonslayer's shield_ made with the hide of a diabolic dragon would grant resistance to fire); this applies after reducing the damage for Hardness, so when you use Shield Block, the _dragonslayer's shield_ takes 18 less damage from attacks of that damage type. You can use Shield Block against effects that deal damage of that type.  * * *  **Craft Requirements** The initial raw materials must include at least 30 gp of dragonhide."
+description: "A _dragonslayer's shield_ is a steel shield covered with dragonhide from a specific dragon, which visually distinguishes each shield from the others. While raised, this steel shield grants its circumstance bonus to Reflex saves against area effects (as well as to AC, as normal).  While you hold the shield, it also grants you a +2 circumstance bonus to Will saves against a dragon's frightful presence ability. The shield has resistance 10 against the damage type corresponding to the dragon breath of the dragon whose hide was used in its creation (for example, a _dragonslayer's shield_ made with the hide of a diabolic dragon would grant resistance to fire); this applies after reducing the damage for Hardness, so when you use Shield Block, the _dragonslayer's shield_ takes 18 less damage from attacks of that damage type. You can use Shield Block against effects that deal damage of that type."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include at least 30 gp of dragonhide."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -57,8 +57,8 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
+baseAC: 2
+modAC: 
 dexCap:
 strRequirement:
 checkPenalty:
@@ -67,11 +67,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 8
+hp: 32
+bt: 16
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

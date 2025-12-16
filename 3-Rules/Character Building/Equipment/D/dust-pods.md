@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "dust-pods"
 aliases: "Dust Pods"
 source: "Pathfinder #151: The Show Must Go On"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You hide fragile pods of pollen or other clinging powder that get in the eyes of the first creature that enters the snare's square. The creature must attempt a DC 17 Reflex check saving throw. A creature dazzled by the pollen can use an Interact action to attempt a DC 5 Flat check to remove the condition.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is dazzled for 1 round.  **Failure** The creature is dazzled for 10 minutes.  **Critical Failure** The creature is blinded for 1 round and dazzled for 10 minutes after."
+description: "You hide fragile pods of pollen or other clinging powder that get in the eyes of the first creature that enters the snare's square. The creature must attempt a DC 17 Reflex check saving throw. A creature dazzled by the pollen can use an Interact action to attempt a DC 5 Flat check to remove the condition.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[dazzled]] for 1 round.\n**Failure** The creature is [[dazzled]] for 10 minutes.\n**Critical Failure** The creature is [[blinded]] for 1 round and [[dazzled]] for 10 minutes after."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

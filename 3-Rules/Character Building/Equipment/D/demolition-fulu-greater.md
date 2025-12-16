@@ -28,9 +28,6 @@ license: "ORC"
 identify:
 <<<<<<< Updated upstream
 description: "A demolition fulu allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals `dice: 10d6` bludgeoning to the object. A demolition fulu serves as a hazard with a DC 37 [[Skills#Perception|Perception]] check check to detect it and DC 37 [[Skills#Thievery|Thievery]] check check to disable it according to its type."
-=======
-description: "A demolition fulu allows a saboteur or excavator to be far away from the scene when demolition happens. The fulu crumbles to ash over 5 minutes to 8 hours, as you determine when you place the fulu. Once the duration ends, the fulu lowers the Hardness of the object it's affixed to by an amount equal to the fulu's level and then deals `dice: 10d6` bludgeoning to the object. A demolition fulu serves as a hazard with a DC 37 Perception check check to detect it and DC 37 [[Skills#Thievery|Thievery]] check check to disable it according to its type."
->>>>>>> Stashed changes
 powerTitle1:
 actionEconomy1:
 type1:

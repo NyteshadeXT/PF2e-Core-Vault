@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "dreadsmoke-thurible"
 aliases: "Dreadsmoke Thurible"
 source: "Pathfinder Lost Omens Gods & Magic"
-pg: ""
-rarity: ""
+pg: "122"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This black-and-gray thurible is decorated with a skeleton motif; the jaw of one of the decorative skulls unhinges, allowing you to load it with incense as an action. A long, thin chain is connected to the top of the thurible.  **Activate** `pf2:2` Interact; **Cost** incense worth at least 5 gp  * * *  **Effect** You swing the thurible around you, spreading inky black smoke in a 20-foot emanation that has the effect of [[Spells/Mist|Mist]]. Undead creatures can see through the smoke as if it didn't exist. Void energy also disrupts the magic of the smoke; anyone who uses a void effect, along with creatures affected by a void effect, can see through the smoke for 1 round."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This black-and-gray thurible is decorated with a skeleton motif; the jaw of one of the decorative skulls unhinges, allowing you to load it with incense as an action. A long, thin chain is connected to the top of the thurible."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You swing the thurible around you, spreading inky black smoke in a 20-foot emanation that has the effect of [[Mist]]. Undead creatures can see through the smoke as if it didn't exist. Void energy also disrupts the magic of the smoke; anyone who uses a void effect, along with creatures affected by a void effect, can see through the smoke for 1 round.  Each usage requires incense worth at least 5 gp."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

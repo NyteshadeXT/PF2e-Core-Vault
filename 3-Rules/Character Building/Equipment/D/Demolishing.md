@@ -11,15 +11,6 @@ pg: "0"
 rarity: "rare"
 trait01: "magical"
 trait02: ""
-=======
-name: "Demolishing"
-aliases: "demolishing"
-source: "Pathfinder Special: Fumbus"
-pg: "0"
-rarity: "Rare"
-trait01: "Evocation"
-trait02: "Magical"
->>>>>>> Stashed changes
 trait03: ""
 trait04:
 trait05:

@@ -26,13 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-<<<<<<< Updated upstream
 activate: "`pf2:1` [[Interact]]"
-description: "If fried, a bulette's thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales' properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[High Jump]] or [[Long Jump]]."
-=======
-activate: "`pf2:1` Interact"
-description: " If fried, a bulette's thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales' properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[High Jump]] or [[Long Jump]]."
->>>>>>> Stashed changes
+description: "If fried, a benthic worm thick forefoot scales render into crunchy snacks. Alchemists add reagents to the frying oil to enhance the scales' properties and flavor. For 1 minute after eating a delve scale, you gain a burrow Speed of 15 feet and a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[High Jump]] or [[Long Jump]]."
 powerTitle1:
 actionEconomy1:
 type1:

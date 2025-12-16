@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "drowsy-sun-eye-drops"
 aliases: "Drowsy Sun Eye Drops"
 source: "Pathfinder Lost Omens Travel Guide"
-pg: ""
+pg: "101"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** [[Actions/Seek|Seek]]  * * *  These drops are made from luminescent mushrooms and refined into eye drops, which simulates a creature's natural night vision. When you attempt a Perception check to Seek, you can draw and apply a dose of drowsy sun to your eyes as part of the same action, which grants you darkvision to a range of 30 feet for 1 round. If you do, your Seek action gains the manipulate trait, due to drawing and applying the eye drops.  [[Equipment Effects/Effect_ Drowsy Sun Eye Drops|Effect: Drowsy Sun Eye Drops]]"
+activate: "[[Seek]]"
+description: "These drops are made from luminescent mushrooms and refined into eye drops, which simulates a creature's natural night vision. When you attempt a [[Skills#Perception|Perception]] check to [[Seek]], you can draw and apply a dose of drowsy sun to your eyes as part of the same action, which grants you darkvision to a range of 30 feet for 1 round. If you do, your Seek action gains the manipulate trait, due to drawing and applying the eye drops."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

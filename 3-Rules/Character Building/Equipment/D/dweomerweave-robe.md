@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "dweomerweave-robe"
 aliases: "Dweomerweave Robe"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "50"
+rarity: "uncommon"
 trait01: "illusion"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent. It can take on the illusory appearances of other fabrics and garments, and dweomerweave robes are coveted by adventurers who want to travel light without compromising on fashion.  * * *  **Activate** 1 minute (Interact)  **Frequency** once per day  * * *  **Effect** You gain the effects of a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]] except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can Dismiss the activation."
-powerTitle1:
+description: "This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent. It can take on the illusory appearances of other fabrics and garments, and dweomerweave robes are coveted by adventurers who want to travel light without compromising on fashion."
+powerTitle1: "Effect"
 actionEconomy1:
-type1:
-frequency1:
+type1: "([[interact]])"
+activate1: "1 minute"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You gain the effects of a 1st-rank [[Illusory Disguise]] except that the illusion only alters the appearance of the dweomerweave robe, changing it into another garment with an appearance of your choice. The spell persists until the next activation. You can [[Dismiss]] the activation."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

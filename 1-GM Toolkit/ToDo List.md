@@ -18,6 +18,7 @@ tags:
 	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
+	- [ ] Add Duskwood Branch and Lumber
 - [ ] Update item templates with Identification criteria
 - [ ] Create trait template
 - [ ] Update traits to new template
@@ -45,7 +46,8 @@ tags:
 - [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
 - [ ] Potential New Shop Types: Antiques and Relics, Apothecary, Bakery, Bookstore, Butcher, Cartographer, Carpenter, Fishmonger, Glassblower, Herbalist, Mail Service, Tavern, Tinkerer, Winery.
 - [ ] Remove Disrupting Oil and Greater Disrupting Oil
-- [ ] Dragonclaw Scutcheon drops with a dragon type
+- [ ] Dragonclaw Scutcheon, Dragonscale Staff, Dragonslayer's Shield, Dragontooth Leiomano and Dragontooth Trophy drop with a dragon type
+- [ ] Drake Rifle drops with a dragon type and can be any kind of firearm
 
 
 # World Things

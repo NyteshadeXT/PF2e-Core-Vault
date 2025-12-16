@@ -32,11 +32,7 @@ actionEconomy1: 1
 type1: "([[interact]])"
 frequency1: "twice per day"
 trigger1:
-<<<<<<< Updated upstream
 mechanics1: "You touch the scepter to a body of water containing 20 gallons or less, which is instantly reduced to dust; larger bodies of water are unaffected. Alternatively, you can touch a creature whose body contains water with the scepter; the target takes 4d6 fire damage and must attempt a DC 19 Fortitude check save.\n\n**Critical Success** The target is unaffected.\n**Success** The target takes half damage.\n**Failure** The target takes full damage and is [[Slowed|Slowed 1]].\n**Critical Failure** As failure, but the target is [[Slowed|Slowed 2]]."
-=======
-mechanics1: "You touch the scepter to a body of water containing 20 gallons or less, which is instantly reduced to dust; larger bodies of water are unaffected. Alternatively, you can touch a creature whose body contains water with the scepter; the target takes `dice: 4d6` fire damage and must attempt a DC 19 Fortitude check save.<br><br>**Critical Success** The target is unaffected.<br>**Success** The target takes half damage.<br>**Failure** The target takes full damage and is [[Slowed|Slowed 1]].<br>**Critical Failure** As failure, but the target is [[Slowed|Slowed 2]]."
->>>>>>> Stashed changes
 powerTitle2:
 actionEconomy2:
 type2:

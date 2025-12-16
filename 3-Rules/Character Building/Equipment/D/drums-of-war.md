@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "drums-of-war"
 aliases: "Drums of War"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "136"
 rarity: ""
 trait01: "coda"
 trait02: "occult"
 trait03: "staff"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,20 +26,21 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to Performance checks and a +5-foot status bonus to your Speed.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Shield|Shield]] *   **1st** [[Spells/Mystic Armor|Mystic Armor]], [[Spells/Force Barrage|Force Barrage]], [[Spells/Sure Strike|Sure Strike]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
-powerTitle1:
+description: "This handheld snare drum is adorned with garish scenes of battle and triumph. When played, no matter what rhythm, it always gives the impression of a marching beat, invoking armies on the move. While playing the drums, you gain a +1 item bonus to [[Skills#Performance|Performance]] checks and a +5-foot status bonus to your Speed."
+powerTitle1: "Effect"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+activate1: "Cast a Spell"
+mechanics1: "You expend a number of charges from this instrument to cast a spell from its list.\n\n**Cantrip** [[Shield]]\n**1st** [[Mystic Armor]], [[Force Barrage]], [[Sure Strike]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed ranks of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

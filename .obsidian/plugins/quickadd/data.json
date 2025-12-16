@@ -144,8 +144,8 @@
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
-  "announceUpdates": true,
-  "version": "2.7.0",
+  "announceUpdates": "all",
+  "version": "2.9.3",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
@@ -204,7 +204,8 @@
             "name": "gpt-4o-mini",
             "maxTokens": 128000
           }
-        ]
+        ],
+        "modelSource": "auto"
       }
     ]
   },
@@ -216,6 +217,7 @@
     "setVersionAfterUpdateModalRelease": true,
     "addDefaultAIProviders": true,
     "removeMacroIndirection": true,
-    "migrateFileOpeningSettings": true
+    "migrateFileOpeningSettings": true,
+    "setProviderModelDiscoveryMode": true
   }
 }

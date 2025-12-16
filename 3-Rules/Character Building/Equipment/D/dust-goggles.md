@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "dust-goggles"
 aliases: "Dust Goggles"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worneyeglasses"
 license: "ORC"
 identify:
-description: "These sand-colored goggles keep the harsh weather of the Cinderlands at bay. While wearing the goggles, you ignore penalties to Perception from desert weather effects and gain a +1 bonus to Perception checks involving sight."
+description: "These sand-colored goggles keep the harsh weather of the Cinderlands at bay. While wearing the goggles, you ignore penalties to [[Skills#Perception|Perception]] from desert weather effects and gain a +1 bonus to [[Skills#Perception|Perception]] checks involving sight."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

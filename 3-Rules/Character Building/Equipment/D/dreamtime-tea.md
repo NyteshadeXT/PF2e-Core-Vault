@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "dreamtime-tea"
 aliases: "Dreamtime Tea"
 source: "Pathfinder Gamemastery Guide"
-pg: ""
+pg: "121"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "drug"
 trait04: "ingested"
 trait05: "poison"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This lemony tea blended from rare Vudrani herbs and flowers is widely circulated by occult circles looking to transcend the boundaries of reality. The saving throw for addiction to dreamtime tea is DC 19.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 minute)  **Stage 2** [[Conditions/Unconscious|Unconscious]] and can ask a question with the effects of [[Spells/Augury|Augury]] except the flat check DC is 10 (10 minutes)"
+activate: "`pf2:1` [[Interact]] ([[Ingested]])"
+description: "This lemony tea blended from rare Vudrani herbs and flowers is widely circulated by occult circles looking to transcend the boundaries of reality. The saving throw for addiction to dreamtime tea is DC 19.\n\n**Activate**   **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 30 minutes  **Stage 1** [[Stupefied|Stupefied 2]] (1 minute)  **Stage 2** [[Unconscious]] and can ask a question with the effects of [[Augury]] except the flat check DC is 10 (10 minutes)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

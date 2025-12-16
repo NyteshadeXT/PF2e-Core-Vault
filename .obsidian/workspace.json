@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "147cdb0ad406fd9f",
+            "id": "64122f5a8acbc756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/dragons-breath-(4th-level-spell).md",
+                "file": "3-Rules/Character Building/Equipment/E/eagle-eye-elixir-(greater).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "dragons-breath-(4th-level-spell)"
+              "title": "eagle-eye-elixir-(greater)"
             }
           },
           {
-            "id": "a27dee9b3aead9ec",
+            "id": "3f9dfcb6e218ec63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "64122f5a8acbc756",
+            "id": "125ba500f8786646",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,38 +248,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "147cdb0ad406fd9f",
+  "active": "64122f5a8acbc756",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/D/dragons-breath-3rd-level-spell.md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-2nd-level-spell.md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-1st-level-spell.md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(9th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(8th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(7th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(6th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(5th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-breath-(4th-level-spell).md",
-    "3-Rules/Character Building/Equipment/D/dragons-blood-pudding-moderate.md",
-    "3-Rules/Character Building/Equipment/D/dragons-blood-pudding-major.md",
-    "3-Rules/Character Building/Equipment/D/dragons-blood-pudding-greater.md",
-    "3-Rules/Character Building/Equipment/D/dragons-blood-pudding.md",
-    "3-Rules/Character Building/Equipment/D/dragonprism-staff-(greater).md",
-    "3-Rules/Character Building/Equipment/D/dragonprism-staff.md",
-    "3-Rules/Character Building/Equipment/D/dragonplate.md",
-    "3-Rules/Character Building/Equipment/D/dragonhide-armor.md",
+    "3-Rules/Character Building/Equipment/E/Extending.md",
     "1-GM Toolkit/ToDo List.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/D/dragonhide.md",
-    "3-Rules/Character Building/Equipment/D/dragonclaw-scutcheon.md",
-    "3-Rules/Character Building/Equipment/D/dragonbone-arrowhead.md",
-    "3-Rules/Character Building/Equipment/D/dragonfly-potion.md",
-    "3-Rules/Character Building/Equipment/D/dragonfly-fulu.md",
-    "3-Rules/Character Building/Equipment/D/dragonfire-halfbow.md",
-    "3-Rules/Character Building/Equipment/D/dragon-turtle-scale-(greater).md",
+    "3-Rules/Character Building/Equipment/E/Eye of Apprehension.md",
+    "3-Rules/Character Building/Equipment/E/Extending (Greater).md",
+    "3-Rules/Character Building/Equipment/E/Extended Deteriorating Dust.md",
+    "3-Rules/Character Building/Equipment/E/Exsanguinating Ammunition.md",
+    "3-Rules/Character Building/Equipment/E/Exquisite Sword Cane.md",
+    "3-Rules/Character Building/Equipment/E/Expulsion Snare.md",
+    "3-Rules/Character Building/Equipment/E/Explosive Ammunition.md",
+    "3-Rules/Character Building/Equipment/E/Explorer's Yurt.md",
+    "3-Rules/Character Building/Equipment/E/Explorer's Clothing.md",
+    "3-Rules/Character Building/Equipment/E/Exploration Lens (Detecting).md",
+    "3-Rules/Character Building/Equipment/E/Exploding Shield.md",
+    "3-Rules/Character Building/Equipment/E/Everyneed Pack.md",
+    "3-Rules/Character Building/Equipment/E/Everair Mask (Greater).md",
+    "3-Rules/Character Building/Equipment/E/Euphorium.md",
+    "3-Rules/Character Building/Equipment/E/Euphoric Loop.md",
+    "3-Rules/Character Building/Equipment/E/Etheric Essence Disruptor (Greater).md",
+    "3-Rules/Character Building/Equipment/E/Ethereal.md",
+    "3-Rules/Character Building/Equipment/E/Etched copper ewer.md",
+    "3-Rules/Character Building/Equipment/E/Essence Charm.md",
+    "3-Rules/Character Building/Equipment/E/Escape Fulu.md",
+    "3-Rules/Character Building/Equipment/E/Erraticannon.md",
+    "3-Rules/Character Building/Equipment/E/Enveloping Light.md",
+    "3-Rules/Character Building/Equipment/E/Entertainer's Cincture.md",
+    "zz-Attachments/dwarven-dorn-dergar.png",
+    "zz-Attachments/dust-of-corpse-animation.png",
+    "zz-Attachments/dueling-pistol.png",
+    "zz-Attachments/drought-powder.png",
+    "zz-Attachments/dream-lens.png",
+    "zz-Attachments/drakeheart-mutagen.png",
+    "zz-Attachments/dragontooth-trophy.png",
+    "zz-Attachments/dragontooth-leiomano.png",
     "zz-Attachments/dragon-turtle-plate.png",
-    "zz-Attachments/dragon-breath-scale.png",
-    "zz-Attachments/dragon-lotus-drum.png",
-    "zz-Attachments/dragon-mouth-pistol.png",
-    "zz-Attachments/doubling-rings.png"
+    "zz-Attachments/dragon-breath-scale.png"
   ]
 }
