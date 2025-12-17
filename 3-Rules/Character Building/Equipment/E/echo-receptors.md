@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "echo-receptors"
 aliases: "Echo Receptors"
 source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
+pg: "98"
+rarity: "uncommon"
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

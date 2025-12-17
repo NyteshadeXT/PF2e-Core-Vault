@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "earthsight-box"
 aliases: "Earthsight Box"
 source: "Pathfinder Player Core 2"
-pg: ""
-rarity: ""
+pg: "307"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "scrying"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron. The box contains a few handfuls of fine sand.  **Activate—Replicate Earth** 1 minute (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You hold the box closed and, while envisioning the terrain, turn the box clockwise three times. When you open the box, the sand reveals, in miniature, the stone terrain surrounding you, to a range of 60 feet. This shows details of paths, hills, embankments, boulders, and even artificial structures like walls and ditches, as long as they're made of stone and earth. If you're underground, it reveals tunnels and voids in the earth within 60 feet at your current depth. The sand maintains its shape until you close the box."
-powerTitle1:
+description: "This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron. The box contains a few handfuls of fine sand."
+powerTitle1: Replicate Earth
 actionEconomy1:
-type1:
-frequency1:
+activate1: "1 minute"
+type1: "([[concentrate]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You hold the box closed and, while envisioning the terrain, turn the box clockwise three times. When you open the box, the sand reveals, in miniature, the stone terrain surrounding you, to a range of 60 feet. This shows details of paths, hills, embankments, boulders, and even artificial structures like walls and ditches, as long as they're made of stone and earth. If you're underground, it reveals tunnels and voids in the earth within 60 feet at your current depth. The sand maintains its shape until you close the box."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

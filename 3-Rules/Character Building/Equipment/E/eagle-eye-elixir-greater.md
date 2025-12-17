@@ -4,36 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
+name: "eagle-eye-elixir-greater"
+aliases: "Eagle Eye Elixir (Greater)"
 source: "Pathfinder GM Core"
-pg: "264"
+pg: "287"
 rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "talisman"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
-weight: 
-value: "7"
+level: 10
+weight: L
+value: "200"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
-powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
+activate: "`pf2:1` ([[manipulate]])"
+description: "After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +3 item bonus to [[Skills#Perception|Perception]] checks, or +4 when attempting to find secret doors and traps."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

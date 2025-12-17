@@ -4,36 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
-source: "Pathfinder GM Core"
-pg: "264"
-rarity: ""
-trait01: "consumable"
+name: "elemental-wayfinder-earth"
+aliases: "Elemental Wayfinder (Earth)"
+source: "Pathfinder Lost Omens Pathfinder Society Guide"
+pg: "122"
+rarity: "uncommon"
+trait01: "invested"
 trait02: "magical"
-trait03: "talisman"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
+level: 9
 weight: 
-value: "7"
+value: "600"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "worn"
 license: "ORC"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
+description: "This compact compass repurposes ancient technology to draw fantastic powers from the mysterious magical items called [[aeon stones]]. It serves as a badge of office for agents of the Pathfinder Society and as a status symbol among adventurers of any stripe.\n\nPathfinder Society researchers recently created elemental wayfinders with the assistance of the Society's elemental allies. In addition to the effects of a [[Equipment/Wayfinder|Wayfinder]], these wayfinders each grant the ability to cast a particular elemental spell once per day, and can assist Pathfinders in exploring areas associated with their element. Each has the trait associated with its element. Additionally, you can dig twice as quickly as normal."
 powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
-frequency1:
+actionEconomy1: 2
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1: "The wayfinder can cast 4th-rank [[Mountain Resilience]]."
 powerTitle2:
 actionEconomy2:
 type2:

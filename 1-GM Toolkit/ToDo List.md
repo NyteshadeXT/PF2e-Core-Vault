@@ -48,6 +48,9 @@ tags:
 - [ ] Remove Disrupting Oil and Greater Disrupting Oil
 - [ ] Dragonclaw Scutcheon, Dragonscale Staff, Dragonslayer's Shield, Dragontooth Leiomano and Dragontooth Trophy drop with a dragon type
 - [ ] Drake Rifle drops with a dragon type and can be any kind of firearm
+- [ ] Elemental Ammunition needs to drop with a damage type (acid, cold, electricity, fire or poison)
+- [ ] Elemental Fragment needs to drop with planar energy (air, earth, fire, water, metal or wood)
+- [ ] Elemental Gem needs to drop with planar energy (air, earth, fire, water)
 
 
 # World Things

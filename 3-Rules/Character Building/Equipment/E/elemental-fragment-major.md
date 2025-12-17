@@ -4,36 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
-source: "Pathfinder GM Core"
-pg: "264"
-rarity: ""
+name: "elemental-fragment-major"
+aliases: "Elemental Fragment (Major)"
+source: "Pathfinder Rage of Elements"
+pg: "224"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "talisman"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
+level: 14
 weight: 
-value: "7"
+value: "500"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
-powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
+activate: "`pf2:2` ([[concentrate]], [[manipulate]])"
+description: "This chunk of solidified planar energy is as large as a walnut and comes in six different varieties: a clear piece of crystal for the Plane of Air, a rough piece of rock for the Plane of Earth, a solidified piece of cooled lava for the Plane of Fire, a compact piece of iron for the Plane of Metal, a solid piece of ice for the Plane of Water, or a compact mass of plant matter for the Plane of Wood. You crack the fragment as you activate it, unleashing the planar energy within. This energy casts a spell of your choice: a 7th-rank [[Elemental Form]] spell affecting you or a 7th-rank [[Summon Elemental]] spell; if you summon an elemental, you can [[Sustain]] the activation to keep control of the elemental. The spell's element matches that of the fragment."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

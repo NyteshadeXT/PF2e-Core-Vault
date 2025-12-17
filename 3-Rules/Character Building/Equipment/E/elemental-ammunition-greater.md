@@ -4,36 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
-source: "Pathfinder GM Core"
-pg: "264"
+name: "elemental-ammunition-greater"
+aliases: "Elemental Ammunition (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "42"
 rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "talisman"
-trait04: ""
+trait01: "damage type"
+trait02: "alchemical"
+trait03: "consumable"
+trait04: "splash"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
+level: 11
 weight: 
-value: "7"
+value: "210"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
-powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
+activate: "`pf2:1` [[Interact]]"
+description: "When activated, the reservoir of alchemical reagents in elemental ammunition atomizes on impact, dealing `dice: 3d4` persistent acid, cold, electricity, fire or poison damage to the target and 3 splash damage in addition to the damage the attack normally deals. Each damage type requires a different formula, and the ammunition gains a trait matching the damage type."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Any"
 damage: 
 dmg1:
 dmg1Type:

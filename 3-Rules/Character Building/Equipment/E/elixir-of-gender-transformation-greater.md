@@ -4,36 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
-source: "Pathfinder GM Core"
-pg: "264"
+name: "elixir-of-gender-transformation-greater"
+aliases: "Elixir of Gender Transformation (Greater)"
+source: "Pathfinder Player Core 2"
+pg: "287"
 rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "talisman"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 2
-weight: 
-value: "7"
+level: 6
+weight: L
+value: "35"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
-powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
+activate: "`pf2:1` ([[manipulate]])"
+description: "This clear, bitter liquid can be ingested to change certain secondary sex characteristics. Different formulations create different changes—for example, one variety might cause the voice to deepen and promote body and facial hair growth, while another might cause fat redistribution around the hips and the growth of breasts. These changes tend to be accompanied by shifting of the fat in the face, sometimes dramatically or sometimes more subtly changing the user's appearance.  The elixir must be taken once, and changes occur over the course of 6 months."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:

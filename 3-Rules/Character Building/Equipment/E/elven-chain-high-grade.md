@@ -4,43 +4,43 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "effervescent-ampoule"
-aliases: "Effervescent Ampoule"
+name: "elven-chain-high-grade"
+aliases: "Elven Chain (High-Grade)"
 source: "Pathfinder GM Core"
-pg: "264"
-rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "talisman"
+pg: "228"
+rarity: "uncommon"
+trait01: "flexible"
+trait02: ""
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 2
-weight: 
-value: "7"
+image: zz-Attachments/elven-chain.png
+level: 20
+weight: L
+value: "35200"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "wornarmor"
 license: "ORC"
+group: "Chain"
 identify:
-description: "Light spring water fizzes and bubbles within this small glass globe, spilling onto the affixed armor when activated.  "
-powerTitle1: "Effect"
-actionEconomy1: 1
-type1: "([[manipulate]])"
+description: "Elven chain is a [[Chain Shirt]] made of dawnsilver that glitters in even the faintest light. Because it's constructed with small, supple rings, it has no check penalty.  Created by elven artisans employing ancient crafting techniques, elven chain is exceptionally quiet. Unlike other chain shirts-even other dawnsilver chain shirts-elven chain does not have the noisy trait. This suit of armor can be etched with runes like any other dawnsilver chain shirt."
+powerTitle1:
+actionEconomy1:
+type1:
 frequency1:
 trigger1:
-requirement1: "You're trained in Acrobatics"
-mechanics1: "Until the end of your turn, you can move across water and other liquids as if they were solid ground. Your movement does not trigger any device or hazard that relies on a weight-sensitive pressure plate or similar device.  When the ampoule's effect ends, you sink, fall, break through flimsy ground, or land on pressure plates as normal for your current location."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include dawnsilver worth at least 26,000 gp"
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -58,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 2
 modAC:
-dexCap:
-strRequirement:
+dexCap: 3
+strRequirement: +1
 checkPenalty:
-speedPenalty:
-armorCategory:
+speedPenalty: 
+armorCategory: Light
 resist:
 immunity:
 conditionImmunity:
@@ -73,10 +73,11 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Chain Shirt"
 
 ---
 
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+

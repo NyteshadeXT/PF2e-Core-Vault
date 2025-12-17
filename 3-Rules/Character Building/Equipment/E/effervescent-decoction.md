@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "effervescent-decoction"
 aliases: "Effervescent Decoction"
 source: "Pathfinder #180: The Smoking Gun"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "air"
 trait02: "consumable"
 trait03: "magical"
 trait04: "potion"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This bubbly potion is purportedly made from winds gathered from the Mana Wastes and distilled into a liquor. For 1 hour after you imbibe the decoction, you can belch fizzy foam around willing creatures or unattended objects, surrounding them with a pink bubble. Once per minute, you can belch a bubble by using two Interact actions. This has effects similar to a [[Spells/Levitate|Levitate]] spell, except you can't control the bubbles; they rise 10 feet per round on their own. The bubble is sturdy enough to resist minor bumps or heavy winds, but if the item or creature takes any damage, the bubble pops, causing the levitation effect to end. If the creature surrounded by the bubble uses a move action rather than just ride within the bubble, the bubble also pops."
+activate: "`pf2:1` [[Interact]]"
+description: "This bubbly potion is purportedly made from winds gathered from the Mana Wastes and distilled into a liquor. For 1 hour after you imbibe the decoction, you can belch fizzy foam around willing creatures or unattended objects, surrounding them with a pink bubble. Once per minute, you can belch a bubble by using two Interact actions. This has effects similar to a [[Levitate]] spell, except you can't control the bubbles; they rise 10 feet per round on their own. The bubble is sturdy enough to resist minor bumps or heavy winds, but if the item or creature takes any damage, the bubble pops, causing the levitation effect to end. If the creature surrounded by the bubble uses a move action rather than just ride within the bubble, the bubble also pops."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "elemental-gem"
 aliases: "Elemental Gem"
 source: "Pathfinder Core Rulebook"
-pg: ""
+pg: "570"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Command, Interact  You shout the name of an elemental lord and dash this glassy gem against a hard surface to activate it. It cracks open, casting a 5th-rank [[Spells/Summon Elemental|Summon Elemental]] spell to summon forth an elemental you control as long as you spend an action each round to Sustain the Activation.  This gem comes in four varieties: transparent for a living whirlwind, light brown for a living landslide, reddish orange for a living wildfire, and blue-green for a living waterfall."
+activate: "`pf2:2` [[Command]], [[Interact]]"
+description: "You shout the name of an elemental lord and dash this glassy gem against a hard surface to activate it. It cracks open, casting a 5th-rank [[Summon Elemental]] spell to summon forth an elemental you control as long as you spend an action each round to Sustain the Activation.  This gem comes in four varieties: transparent for a living whirlwind, light brown for a living landslide, reddish orange for a living wildfire, and blue-green for a living waterfall."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

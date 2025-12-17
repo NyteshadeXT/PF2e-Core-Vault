@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "electric-eelskin"
 aliases: "Electric Eelskin"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "230"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,20 +26,21 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Shining, slippery eelskin covers the plates of this +1 _resilient greater slick leather armor_. The armor gives you the ability to breathe water and grants you a +2 item bonus to Athletics checks to Swim and Stealth checks you attempt in the water.  * * *  **Activate—Unleash Charge** `pf2:2` (manipulate)  **Frequency** once per hour  * * *  **Effect** You cast a 2nd-rank [[Spells/Thunderstrike|Thunderstrike]] with a DC 29 Reflex check.  * * *  **Craft Requirements** Supply one casting of _thunderstrike_."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+group: "Leather"
+description: "Shining, slippery eelskin covers the plates of this [[armor-potency-1|+1]] _[[resilient-(greater)|resilient greater]] [[slick]] [[leather armor]]_. The armor gives you the ability to breathe water and grants you a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[Swim]] and [[Skills#Stealth|Stealth]] checks you attempt in the water."
+powerTitle1: "Unleash Charge"
+actionEconomy1: 2
+type1: "([[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You cast a 2nd-rank [[Thunderstrike]] with a DC 29 Reflex check."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of _thunderstrike_."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+baseAC: 2
+modAC: 
+dexCap: 4
+strRequirement: "+0"
+checkPenalty: -1
+speedPenalty: 
+armorCategory: Light
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +73,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Leather Armor"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

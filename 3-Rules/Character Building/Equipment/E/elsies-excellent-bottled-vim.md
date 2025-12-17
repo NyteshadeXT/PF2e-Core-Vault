@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "elsies-excellent-bottled-vim"
 aliases: "Elsie's Excellent Bottled Vim"
 source: "Pathfinder Adventure: Rusthenge"
-pg: ""
-rarity: ""
+pg: "59"
+rarity: "rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  A dose of this slightly fizzy, pale-pink tonic vitalizes the body and bolsters the spirit, bringing those suffering from aches and pains brought on by illness some temporary respite. For 8 hours after drinking this elixir, reduce the value of one of the following conditions you're suffering by 1: [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], or [[Conditions/Sickened|Sickened]]. A condition whose value is reduced to 0 is not removed; after 8 hours, the condition returns to its original value, unless its duration expired or it was removed by another means."
+activate: "`pf2:1` [[Interact]]"
+description: "A dose of this slightly fizzy, pale-pink tonic vitalizes the body and bolsters the spirit, bringing those suffering from aches and pains brought on by illness some temporary respite. For 8 hours after drinking this elixir, reduce the value of one of the following conditions you're suffering by 1: [[Clumsy]], [[Drained]], [[Enfeebled]], or [[Sickened]]. A condition whose value is reduced to 0 is not removed; after 8 hours, the condition returns to its original value, unless its duration expired or it was removed by another means."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

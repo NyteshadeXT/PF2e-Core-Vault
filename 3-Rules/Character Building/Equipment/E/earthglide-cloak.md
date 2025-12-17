@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "earthglide-cloak"
 aliases: "Earthglide Cloak"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "289"
 rarity: ""
 trait01: "earth"
 trait02: "invested"
 trait03: "occult"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone.  **Activate—Glide through Earth** `pf2:1` (manipulate)  **Frequency** once per hour  * * *  **Effect** You Burrow through dirt and stone up to your land Speed, leaving no tunnels or signs of your passing. If you end your movement inside solid stone, you are forcibly expelled into the nearest open area, taking 1d6 bludgeoning damage for every 5 feet between the end of your movement and the open area."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone."
+powerTitle1: "Glide through Earth"
+actionEconomy1: 1
+type1: "([[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You Burrow through dirt and stone up to your land Speed, leaving no tunnels or signs of your passing. If you end your movement inside solid stone, you are forcibly expelled into the nearest open area, taking `dice: 1d6` bludgeoning damage for every 5 feet between the end of your movement and the open area."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
