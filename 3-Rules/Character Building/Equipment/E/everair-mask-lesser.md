@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "euphoric-loop-(greater)"
-aliases: "Euphoric Loop (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "everair-mask-lesser"
+aliases: "Everair Mask (Lesser)"
+source: "Pathfinder Lost Omens Highhelm"
+pg: "112"
 rarity: ""
-trait01: "catalyst"
-trait02: "consumable"
+trait01: "air"
+trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 13
+level: 2
 weight: L
-value: "450"
+value: "5"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "wornmask"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [[Spells/Charm|Charm]] spell, the enchantment creates a blissful experience for all targets of the charm spell, up to 10. When the spell ends, even if you Dismiss it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will check save against your spell DC.  * * *  **Critical Success** The target is unaffected.  **Success** The target is [[Conditions/Stunned|Stunned 1]] or, if the spell ended because of a hostile action, [[Conditions/Confused|Confused]] for 1 round.  **Failure** The target is [[Conditions/Stunned|Stunned 2]] or, if the spell ended because of a hostile action, confused for 1 round.  **Critical Failure** The target is [[Conditions/Stunned|Stunned 3]] or, if the spell ended because of a hostile action, confused for 2 rounds."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This simple, mass-produced gaiter mask is standard issue for miners working in deep, dangerous mines. While wearing the mask, you gain a +1 item bonus to Fortitude saving throws against inhaled poisons. An _everair mask_ makes use of magical runes related to the Plane of Air to create breathable air."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You activate the mask's rune, and the air surrounding air, as well as the air you exhale, becomes enriched with oxygen. This allows the _everair mask_ to recycle air into breathable air for 1 hour. The rune's magic is unable to provide breathable air while underwater, in a vacuum, or in any other situation where air is normally unavailable."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

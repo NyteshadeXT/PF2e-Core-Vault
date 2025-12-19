@@ -216,7 +216,7 @@ awakenLevel: -9
 >>>| [[Undead]], [[Shade]], [[Fiend]], [[Celestial]] | Religion |
 >>>| [[Spirit]], [[Dream]], [[Time]], [[Astral]] | Occultism |
 >>>| [[Plant]], [[Fungus]], [[Fey]] | Nature |
->>>| [[Aberration]], [[Ethereal]], [[Ooze]] | Occultism |
+>>>| [[Aberration]], [[3-Rules/Trait Reference/E/ethereal]], [[Ooze]] | Occultism |
 >>>| [[Humanoid]] | Society or relevant Lore |
 >
 >>[!column | 2 no-t]

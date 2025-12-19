@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "essence-charm"
 aliases: "Essence Charm"
 source: "Pathfinder #214: The Broken Palace"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Anyone can use an essence forge to craft an essence charm without needing to know the formula for an essence charm. No larger than a coin, an essence charm is normally worn around the neck or hung from a belt—its exact appearance is up to the crafter. When an essence charm is created, its crafter selects a skill in which they are at least trained. The essence charm grants a +1 item bonus to that skill when worn.  **Activate—Lucky Charm** `pf2:r` (concentrate)  **Frequency** once per day  **Trigger** You fail or critically fail a check using the essence charm's chosen skill  * * *  **Effect** A failed check becomes a success, and a critical failure becomes a failure."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Anyone can use an essence forge to craft an essence charm without needing to know the formula for an essence charm. No larger than a coin, an essence charm is normally worn around the neck or hung from a belt—its exact appearance is up to the crafter. When an essence charm is created, its crafter selects a skill in which they are at least trained. The essence charm grants a +1 item bonus to that skill when worn."
+powerTitle1: "Lucky Charm"
+actionEconomy1: r
+type1: "([[concentrate]])"
+frequency1: "once per day"
+trigger1: "You fail or critically fail a check using the essence charm's chosen skill"
+mechanics1: "A failed check becomes a success, and a critical failure becomes a failure."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

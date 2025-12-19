@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "ethersight-ring"
 aliases: "Ethersight Ring"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "153"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "revelation"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "etheric-essence-disruptor-(major)"
-aliases: "Etheric Essence Disruptor (Major)"
-source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "gadget"
-trait03: "uncommon"
+name: "everyneed-pack-greater"
+aliases: "Everyneed Pack (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "145"
+rarity: "uncommon"
+trait01: "invested"
+trait02: "magical"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 15
-weight: 1
-value: "1300"
+level: 7
+weight: 
+value: "100"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "worn"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active divine or occult spell within 90 feet, with a +24 counteract modifier and a counteract rank of 8."
-powerTitle1:
+description: "Constructed of green material and decorated with a white Glyph of the Open Road, has a dozen or more small pockets lining the inside. The pack is enchanted so that each pocket contains common, mundane gear, each item worth no more than 5 gp, such as [[chalk]], [[flint and steel]], and [[string]]. It doesn't contain any armor, shields, weapons, or items made of any kind of precious material. Keep track of the exact value of the gear you retrieve from the pack. The pack becomes a mundane backpack after items of your choice with a combined value of 45 gp have been removed from it."
+powerTitle1: "Effect - 1 minute"
 actionEconomy1:
-type1:
-frequency1:
+type1: "([[interact]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You draw any number of pieces of mundane gear from the pack with a combined value of 5 gp or less."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

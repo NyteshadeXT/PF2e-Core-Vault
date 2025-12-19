@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "everair-mask-(major)"
-aliases: "Everair Mask (Major)"
-source: "Pathfinder Lost Omens Highhelm"
-pg: ""
-rarity: ""
-trait01: "air"
-trait02: "invested"
-trait03: "magical"
-trait04: "common"
+name: "etheric-essence-disruptor-major"
+aliases: "Etheric Essence Disruptor (Major)"
+source: "Pathfinder Guns & Gears"
+pg: "68"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
-weight: L
-value: "625"
+level: 15
+weight: 1
+value: "1300"
 subvalue: "gp"
 invest:
-usage: "wornmask"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This simple, mass-produced gaiter mask is standard issue for miners working in deep, dangerous mines. While wearing the mask, you gain a +1 item bonus to Fortitude saving throws against inhaled poisons. An _everair mask_ makes use of magical runes related to the Plane of Air to create breathable air.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You activate the mask's rune, and the air surrounding air, as well as the air you exhale, becomes enriched with oxygen. This allows the _everair mask_ to recycle air into breathable air for 24 hours. The rune's magic is unable to provide breathable air while underwater, in a vacuum, or in any other situation where air is normally unavailable."
+activate: "`pf2:2` ([[manipulate]])"
+description: "An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to [[counteract]] an active divine or occult spell within 90 feet, with a +24 counteract modifier and a counteract rank of 8."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

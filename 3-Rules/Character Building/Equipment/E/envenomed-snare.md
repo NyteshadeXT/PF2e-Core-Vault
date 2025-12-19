@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "envenomed-snare"
 aliases: "Envenomed Snare"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "15"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "poison"
 trait04: "snare"
 trait05: "trap"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare is coated with giant wasp venom and tipped with needles, which deliver the venom to the first creature to enter the square. That creature takes 4d6 piercing damage (DC 23 Reflex check) and, on a failure, the creature is exposed to the [[Equipment/Giant Wasp Venom|Giant Wasp Venom]].  * * *  **Craft Requirements** Supply 2 doses of giant wasp venom."
+description: "This snare is coated with giant wasp venom and tipped with needles, which deliver the venom to the first creature to enter the square. That creature takes `dice: 4d6` piercing damage (DC 23 Reflex check) and, on a failure, the creature is exposed to the [[Giant Wasp Venom]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply 2 doses of giant wasp venom."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

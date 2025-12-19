@@ -4,36 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "eroding-bullet"
-aliases: "Eroding Bullet"
-source: "Pathfinder Guns & Gears"
-pg: "169"
-rarity: "uncommon"
-trait01: "acid"
-trait02: "alchemical"
-trait03: "consumable"
+name: "everair-mask-major"
+aliases: "Everair Mask (Major)"
+source: "Pathfinder Lost Omens Highhelm"
+pg: "112"
+rarity: ""
+trait01: "air"
+trait02: "invested"
+trait03: "magical"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 5
-weight: 
-value: "22"
+level: 14
+weight: L
+value: "625"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "wornmask"
 license: "ORC"
 identify:
-activate: "`pf2:1` ([[manipulate]])"
-description: "Eroding bullets cast a faint green glow, and smell like the sickly- sweet organic gases that rise from corpses. Handling an eroding bullet without gloves deals 1 acid damage and leaves the putrid scent coated on your fingers. Upon Striking an enemy, the glass casing inside the bullet bursts, releasing a splattering of bubbling green acid that coats the target. The target takes `dice: 2d6` persistent acid damage in addition to the damage normally dealt by the attack."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This simple, mass-produced gaiter mask is standard issue for miners working in deep, dangerous mines. While wearing the mask, you gain a +1 item bonus to Fortitude saving throws against inhaled poisons. An _everair mask_ makes use of magical runes related to the Plane of Air to create breathable air."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You activate the mask's rune, and the air surrounding air, as well as the air you exhale, becomes enriched with oxygen. This allows the _everair mask_ to recycle air into breathable air for 24 hours. The rune's magic is unable to provide breathable air while underwater, in a vacuum, or in any other situation where air is normally unavailable."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,7 +45,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType: "Firearm Round"
+ammoType:
 damage: 
 dmg1:
 dmg1Type:

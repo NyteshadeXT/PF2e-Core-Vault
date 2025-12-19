@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "etheric-essence-disruptor-(lesser)"
-aliases: "Etheric Essence Disruptor (Lesser)"
-source: "Pathfinder Guns & Gears"
-pg: ""
+name: "euphoric-loop-greater"
+aliases: "Euphoric Loop (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "74"
 rarity: ""
-trait01: "consumable"
-trait02: "gadget"
-trait03: "uncommon"
+trait01: "catalyst"
+trait02: "consumable"
+trait03: "magical"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 1
-value: "12"
+level: 13
+weight: L
+value: "450"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to counteract an active divine or occult spell within 30 feet, with a +7 counteract modifier and a counteract rank of 2."
+activate: "Cast a Spell"
+description: "This catalyst is made from twisted sapling bark harvested under a full moon. When used to cast a [[Charm]] spell, the enchantment creates a blissful experience for all targets of the charm spell, up to 10. When the spell ends, even if you Dismiss it, the sudden mental dissonance between the charmed state and reality forces the target to attempt a Will check save against your spell DC.\n\n**Critical Success** The target is unaffected.\n**Success** The target is [[Stunned|Stunned 1]] or, if the spell ended because of a hostile action, [[Confused]] for 1 round.\n**Failure** The target is [[Stunned|Stunned 2]] or, if the spell ended because of a hostile action, confused for 1 round.\n**Critical Failure** The target is [[Stunned|Stunned 3]] or, if the spell ended because of a hostile action, confused for 2 rounds."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

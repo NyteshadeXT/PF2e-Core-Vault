@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "everyneed-pack-(greater)"
-aliases: "Everyneed Pack (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "everair-mask-moderate"
+aliases: "Everair Mask (Moderate)"
+source: "Pathfinder Lost Omens Highhelm"
+pg: "112"
 rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "uncommon"
+trait01: "air"
+trait02: "invested"
+trait03: "magical"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: 
-value: "100"
+level: 6
+weight: L
+value: "35"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "wornmask"
 license: "ORC"
 identify:
-description: "Constructed of green material and decorated with a white Glyph of the Open Road, has a dozen or more small pockets lining the inside. The pack is enchanted so that each pocket contains common, mundane gear, each item worth no more than 5 gp, such as chalk, flint and steel, and string. It doesn't contain any armor, shields, weapons, or items made of any kind of precious material. Keep track of the exact value of the gear you retrieve from the pack. The pack becomes a mundane backpack after items of your choice with a combined value of 45 gp have been removed from it.  * * *  **Activate** 1 minute (Interact)  **Frequency** once per hour  * * *  **Effect** You draw any number of pieces of mundane gear from the pack with a combined value of 5 gp or less."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This simple, mass-produced gaiter mask is standard issue for miners working in deep, dangerous mines. While wearing the mask, you gain a +1 item bonus to Fortitude saving throws against inhaled poisons. An _everair mask_ makes use of magical runes related to the Plane of Air to create breathable air."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You activate the mask's rune, and the air surrounding air, as well as the air you exhale, becomes enriched with oxygen. This allows the _everair mask_ to recycle air into breathable air for 4 hours. The rune's magic is unable to provide breathable air while underwater, in a vacuum, or in any other situation where air is normally unavailable."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

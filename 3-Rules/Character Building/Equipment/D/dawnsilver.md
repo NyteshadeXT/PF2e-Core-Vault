@@ -3,31 +3,44 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "euphorium"
-aliases: "Euphorium"
-source: "Pathfinder #205: Singer, Stalker, Skinsaw Man"
-pg: "81"
+name: "dawnsilver"
+aliases: "Dawnsilver"
+source: "Pathfinder GM Core"
+pg: "253"
 rarity: "uncommon"
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "processed"
+trait01: "precious"
+trait02: ""
+trait03: ""
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-group: 
-bulk: L
-value: "60"
-subvalue: "gp"
+level: 8+
+group: "Metal"
+bulk: 
+value: ""
+subvalue: "see table"
 invest: 
-usage: "held in two hands"
-license: "OGL"
+usage: ""
+license: ""
 identify: ""
-activate: "10 minutes [[manipulate]]"
-description: "An alternative to the magical [[_serum of sex shift_]], euphorium offers similar benefits with a gustatory twist. Euphorium generally takes the form of a light, fluffy cake decorated with overpoweringly sweet frosting and served with alchemically chilled ice cream.\n\n_Euphorium’s_ effects begin to manifest as you consume it. With every bite of _euphorium_, you become a little more yourself. You can pause at any time, halting the transformation midway at a point you choose. In this case, the results persist for 24 hours before reverting slowly over the course of an additional hour, allowing you to approach the experience at your own pace.\n\nThe remaining dose of _euphorium_ doesn’t spoil (unless it’s temporary due to another effect, such as the limitation of [[Quick Alchemy]]) but has no effect on anyone other than the person who initially began eating it. This allows you to restart your transformation when you feel comfortable in doing so. Restarting this way quickly restores reverted changes, letting you 'pick up where you left off.' Once you consume the final bite, the effect functions as if you’d activated a _serum of sex shift_."
+description: |
+  Dawnsilver is renowned for its lightness, durability, and effectiveness against a range of creatures including devils and werecreatures. It has the same sheen as silver but a slightly lighter hue. Dawnsilver weapons and armor are treated as if they were silver for the purpose of damaging creatures with weakness to silver. A metal item made of dawnsilver is lighter than one made of iron or steel: the item's Bulk is reduced by 1 (reduced to light Bulk if its normal Bulk is 1, with no effect on an item that normally has light Bulk). The Price of an item made of this material is based on the item's normal Bulk, not its reduced Bulk for being made of dawnsilver, but reduce the Bulk before making any further Bulk adjustments for the size of the item.
+
+  | **Dawnsilver Items** | **Hardness** | **HP** | **BT** |
+  | -------------------- | ------------ | ------ | ------ |
+  | **Thin Items**       |              |        |        |
+  | Standard-grade       | 5            | 20     | 10     |
+  | High-grade           | 8            | 32     | 16     |
+  | **Items**            |              |        |        |
+  | Standard-grade       | 9            | 36     | 18     |
+  | High-grade           | 12           | 48     | 24     |
+  | **Structure**        |              |        |        |
+  | Standard-grade       | 18           | 72     | 36     |
+  | High-grade           | 24           | 96     | 48     |
+activate: ""
 craft: 
 destruction: 
 
@@ -142,3 +155,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftBase, "Dawnsilver")
+SORT level ASC
+
+```
+
+

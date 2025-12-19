@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "enveloping-light"
 aliases: "Enveloping Light"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "38"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
 trait04: "vitality"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. The first time each day that someone attempts to Treat your Wounds and rolls a critical failure, they get a failure instead.  * * *  **Activate** `pf2:2` command  **Frequency** once per day  * * *  **Effect** For 5 rounds, your entire body begins to glow, with the effects of a 1st-rank [[Spells/Light|Light]] spell. At the end of each of your turns during this time, you regain 1d4 Hit Points."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. The first time each day that someone attempts to Treat your Wounds and rolls a critical failure, they get a failure instead."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "For 5 rounds, your entire body begins to glow, with the effects of a 1st-rank [[3-Rules/Character Building/Spells/L/Light|Light]] spell. At the end of each of your turns during this time, you regain `dice: 1d4` Hit Points."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -3,32 +3,32 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "euphorium"
-aliases: "Euphorium"
-source: "Pathfinder #205: Singer, Stalker, Skinsaw Man"
-pg: "81"
+name: "dawnsilver-armor-standard-grade"
+aliases: "Dawnsilver Armor (Standard Grade)"
+source: "Pathfinder GM Core"
+pg: "228"
 rarity: "uncommon"
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "processed"
+trait01: ""
+trait02: ""
+trait03: ""
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 12
 group: 
-bulk: L
-value: "60"
-subvalue: "gp"
+bulk: 
+value: "1600"
+subvalue: "gp (+160 per bulk)"
 invest: 
-usage: "held in two hands"
-license: "OGL"
+usage: ""
+license: "ORC"
 identify: ""
-activate: "10 minutes [[manipulate]]"
-description: "An alternative to the magical [[_serum of sex shift_]], euphorium offers similar benefits with a gustatory twist. Euphorium generally takes the form of a light, fluffy cake decorated with overpoweringly sweet frosting and served with alchemically chilled ice cream.\n\n_Euphorium’s_ effects begin to manifest as you consume it. With every bite of _euphorium_, you become a little more yourself. You can pause at any time, halting the transformation midway at a point you choose. In this case, the results persist for 24 hours before reverting slowly over the course of an additional hour, allowing you to approach the experience at your own pace.\n\nThe remaining dose of _euphorium_ doesn’t spoil (unless it’s temporary due to another effect, such as the limitation of [[Quick Alchemy]]) but has no effect on anyone other than the person who initially began eating it. This allows you to restart your transformation when you feel comfortable in doing so. Restarting this way quickly restores reverted changes, letting you 'pick up where you left off.' Once you consume the final bite, the effect functions as if you’d activated a _serum of sex shift_."
-craft: 
+description: "[[Dawnsilver]] armor is 1 Bulk lighter than normal (or light Bulk if its normal Bulk is 1, with no effect on armor that normally has light Bulk). It’s easier to wear than normal metal armor, reducing the Strength modifier necessary to ignore its check penalty by 1 and reducing its Speed penalty by 5 feet."
+activate: ""
+craft: "The initial raw materials must include [[dawnsilver]] worth at least 200 gp + 20 gp per Bulk."
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: 
+craftBase: "Dawnsilver"
 
 ---
 

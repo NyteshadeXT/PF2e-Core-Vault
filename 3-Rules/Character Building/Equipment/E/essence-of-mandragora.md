@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "essence-of-mandragora"
 aliases: "Essence of Mandragora"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "111"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  This poison is extracted carefully from a mandragora's thorny vines in a process that, due to the mandragora's humanoid form, eerily mirrors drawing blood.  **Saving Throw** DC 21 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage and [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 2** 1d6 poison damage, [[Conditions/Confused|Confused]], and stupefied 1 (1 round)  **Stage 3** 2d6 poison damage, confused, and stupefied 1 (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "This poison is extracted carefully from a mandragora's thorny vines in a process that, due to the mandragora's humanoid form, eerily mirrors drawing blood.\n\n**Saving Throw** DC 21 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 1d6` poison damage and [[Stupefied|Stupefied 1]] (1 round)  **Stage 2** `dice: 1d6` poison damage, [[Confused]], and [[Stupefied|Stupefied 1]] (1 round)  **Stage 3** `dice: 2d6` poison damage, [[confused]], and [[Stupefied|Stupefied 1]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

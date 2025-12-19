@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "ensnaring-disk"
 aliases: "Ensnaring Disk"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "93"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You use the affixed shield to Shield Block a melee weapon attack  **Requirements** You are an expert in Athletics.  * * *  This coin-sized metal disk is inscribed with arcane symbols and mounted on the inner surface of a shield. When you Activate the disk, the triggering weapon momentarily sticks to your shield, allowing you to attempt to [[Actions/Disarm|Disarm]] it from its wielder with a +2 item bonus. If you roll a critical failure on this check, you get a failure instead."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This coin-sized metal disk is inscribed with arcane symbols and mounted on the inner surface of a shield. "
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You use the affixed shield to Shield Block a melee weapon attack"
+requirement1: "You are an expert in [[Skills#Athletics|Athletics]]."
+mechanics1: "When you Activate the disk, the triggering weapon momentarily sticks to your shield, allowing you to attempt to [[ADisarm]] it from its wielder with a +2 item bonus. If you roll a critical failure on this check, you get a failure instead."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

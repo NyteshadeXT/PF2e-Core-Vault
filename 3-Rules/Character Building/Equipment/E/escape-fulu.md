@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "escape-fulu"
 aliases: "Escape Fulu"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "77"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You attempt to [[Actions/Escape|Escape]].  * * *  The _escape fulu_ is a charm common among wealthy people, who wear the talisman in case of kidnapping. When you Activate this fulu, for 1 minute, you gain a +2 status bonus to your attempts to Escape as well as to Stealth checks to [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]].  [[Equipment Effects/Effect_ Escape Fulu|Effect: Escape Fulu]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The _escape fulu_ is a charm common among wealthy people, who wear the talisman in case of kidnapping. "
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You attempt to [[Escape]]."
+mechanics1: "When you Activate this fulu, for 1 minute, you gain a +2 status bonus to your attempts to [[Escape]] as well as to Stealth checks to [[Hide]] and [[Sneak]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

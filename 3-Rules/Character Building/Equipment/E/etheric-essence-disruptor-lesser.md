@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "enveloping-light-(greater)"
-aliases: "Enveloping Light (Greater)"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "tattoo"
-trait04: "vitality"
-trait05: "uncommon"
+name: "etheric-essence-disruptor-lesser"
+aliases: "Etheric Essence Disruptor (Lesser)"
+source: "Pathfinder Guns & Gears"
+pg: "68"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: 
-value: "650"
+level: 3
+weight: 1
+value: "12"
 subvalue: "gp"
 invest:
-usage: "tattooed on the body"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. Any time someone rolls a critical failure to Treat your Wounds, they get a failure instead.  * * *  **Activate** `pf2:2` command  **Frequency** once per day  * * *  **Effect** For 5 rounds, your entire body begins to glow, with the effects of a 4th-rank [[Spells/Light|Light]] spell. At the end of each of your turns during this time, you regain 2d8 Hit Points."
+activate: "`pf2:2` ([[manipulate]])"
+description: "An etheric essence disruptor emits bursts of discordant ethereal energy through a process based upon Stasian etheric-spirit singers, though without the need for a Stasian coil. Etheric essence disruptors attempt to break down the workings of a spell that manipulates spiritual essence. Upon activation, attempt to [[counteract]] an active divine or occult spell within 30 feet, with a +7 counteract modifier and a counteract rank of 2."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

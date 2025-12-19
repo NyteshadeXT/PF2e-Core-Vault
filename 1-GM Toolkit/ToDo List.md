@@ -14,7 +14,6 @@ tags:
 	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
 	- [ ] Add Cold Iron Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Cold Iron Chunk and Ingot
-	- [ ] Add Dawnsilver Chunk and Ingot
 	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
@@ -53,6 +52,8 @@ tags:
 - [ ] Elemental Gem needs to drop with planar energy (air, earth, fire, water)
 - [ ] Energy Mutagen (All variants) need to drop with an energy type
 - [ ] Energy Resistant runes need to drop with an energy type
+- [ ] Essence Charm should have a skill that it drops with
+- [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?
