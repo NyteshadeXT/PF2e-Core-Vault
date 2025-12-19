@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "empty-hand-marking"
 aliases: "Empty Hand Marking"
 source: "Pathfinder #207: The Resurrection Flood"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Members of the Empty Hand consider themselves leaders of Belkzen, and their fearsome reputation has helped control Urgir for generations. As a proud member or honored guest of the hold, you've been allowed to bear their mark. The tattoo depicts a partially closed hand that grasps nothing. Many people wear this tattoo on their faces, but others have it on an exposed shoulder or arm.  **Activate—Reproach** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** You successfully [[Actions/Coerce|Coerce]] a creature  * * *  **Effect** The maximum duration of the target's compliance increases to 1d4 days, rather than 1 day."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Members of the Empty Hand consider themselves leaders of Belkzen, and their fearsome reputation has helped control Urgir for generations. As a proud member or honored guest of the hold, you've been allowed to bear their mark. The tattoo depicts a partially closed hand that grasps nothing. Many people wear this tattoo on their faces, but others have it on an exposed shoulder or arm."
+powerTitle1: "Reproach"
+actionEconomy1: 0
+type1: "([[concentrate]])"
+frequency1: "once per day"
+trigger1: "You successfully [[Coerce]] a creature"
+mechanics1: "The maximum duration of the target's compliance increases to `dice: 1d4` days, rather than 1 day."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "endless-grimoire-(greater)"
-aliases: "Endless Grimoire (Greater)"
-source: "Pathfinder Secrets of Magic"
-pg: ""
+name: "emetic-paste-lesser"
+aliases: "Emetic Paste (Lesser)"
+source: "Pathfinder Treasure Vault"
+pg: "53"
 rarity: ""
-trait01: "grimoire"
-trait02: "magical"
-trait03: "common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "healing"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 2
 weight: L
-value: "900"
+value: "5"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +2 item bonus to checks to [[Actions/Learn a Spell|Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 3rd-rank spell."
+activate: "`pf2:1` [[Interact]]"
+description: "[[Sickened]] creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a sickened creature within reach, typically on the throat. The paste makes it easy for the sickened creature to purge, granting it an immediate Fortitude save to reduce its sickened condition. The paste grants the target a +2 item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

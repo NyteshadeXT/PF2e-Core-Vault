@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "emerald-grasshopper"
 aliases: "Emerald Grasshopper"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Athletics  * * *  This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor.  When you activate it, make a [[Actions/Leap|Leap]], traveling up to 40 feet horizontally and up to 10 feet vertically.  If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[concentrate]])"
+requirement1: "You're trained in [[Skills#Athletics|Athletics]]"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you activate it, make a [[Leap]], traveling up to 40 feet horizontally and up to 10 feet vertically.  If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

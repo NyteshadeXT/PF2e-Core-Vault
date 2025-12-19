@@ -4,35 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-breath-potion-(sonic-lesser)"
-aliases: "Energy Breath Potion (Sonic, Lesser)"
+name: "emerald-grasshopper-greater"
+aliases: "Emerald Grasshopper (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "potion"
-trait04: "sonic"
-trait05: "common"
+trait03: "talisman"
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: L
-value: "70"
+level: 9
+weight: 
+value: "150"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.  **Energy Breath** `pf2:1` You create a 15-foot cone of sound which deals 4d6 sonic damage. All creatures in the area must attempt a DC 23 Fortitude check save.  After you use Energy Breath, you can't do so again for 1d4 rounds."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[concentrate]])"
+requirement1: "You're trained in [[Skills#Athletics|Athletics]]"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you activate it, make a [[Leap]], traveling up to 100 feet horizontally and up to 30 feet vertically.  This benefit applies to any other Leaps you make before the end of your turn.  If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

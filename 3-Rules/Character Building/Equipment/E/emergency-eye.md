@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "emergency-eye"
 aliases: "Emergency Eye"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "93"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` command  **Trigger** You become [[Conditions/Blinded|Blinded]], or an effect otherwise impedes your vision  **Requirements** You are an expert in Perception.  * * *  This eye, harvested from a monster, looks like it's peacefully sleeping but gives you a backup when you can't use your eyes. When the eye is activated, the eyelid pops open, and the eye stares frantically about. You see through the eye with normal vision until the end of your next turn, when the eye withers and flakes away."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This eye, harvested from a monster, looks like it's peacefully sleeping but gives you a backup when you can't use your eyes."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[command]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You become [[Blinded]], or an effect otherwise impedes your vision"
+requirement1: "You are an expert in [[Skills#Perception|Perception]]."
+mechanics1: "When the eye is activated, the eyelid pops open, and the eye stares frantically about. You see through the eye with normal vision until the end of your next turn, when the eye withers and flakes away."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

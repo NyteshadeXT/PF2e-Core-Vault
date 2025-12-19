@@ -31,7 +31,6 @@ powerTitle1: "Effect"
 actionEconomy1: 0
 type1: "([[concentrate]])"
 frequency1:
-<<<<<<< Updated upstream
 trigger1: "You Stride"
 mechanics1: "When activated, the band's holy patterns surround you as you move, preventing your movement from triggering reactions from demons. The holy patterns scour nearby demons; any demons you pass adjacent to during the triggering movement take damage equal to their weakness to holy effects. You can activate the bands when you Burrow, Climb, Fly, or Swim (instead of Stride) if you have the corresponding movement type."
 powerTitle2:

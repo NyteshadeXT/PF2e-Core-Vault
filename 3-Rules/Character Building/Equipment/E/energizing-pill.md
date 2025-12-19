@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "energizing-pill"
 aliases: "Energizing Pill"
 source: "Pathfinder #199: To Bloom Below the Web"
-pg: ""
-rarity: ""
+pg: "73"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "lozenge"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This special blend of potent herbs comes in the form of a compact ball that allows it to be held in the mouth, where it remains for 1 hour. An energizing pill has a bitter taste at first, but the longer one lets it soak, the more complex and sweet its flavor grows. It heightens your reactions, granting you a +2 item bonus to initiative rolls with Perception.  [[Equipment Effects/Effect_ Energizing Pill|Effect: Energizing Pill]]  **Secondary Effect** `pf2:r`  **Trigger** You would become [[Conditions/Clumsy|Clumsy]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Sickened|Sickened]], [[Conditions/Slowed|Slowed]], or [[Conditions/Stupefied|Stupefied]]  * * *  **Effect** Reduce the value of the condition you just gained by 1; if this reduces the value to 0, you don't gain the triggering condition."
-powerTitle1:
-actionEconomy1:
+description: "This special blend of potent herbs comes in the form of a compact ball that allows it to be held in the mouth, where it remains for 1 hour. An energizing pill has a bitter taste at first, but the longer one lets it soak, the more complex and sweet its flavor grows. It heightens your reactions, granting you a +2 item bonus to initiative rolls with [[Skills#Perception|Perception]]."
+powerTitle1: "Effect"
+actionEconomy1: r
 type1:
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You would become [[Clumsy]], [[Drained]], [[Enfeebled]], [[Frightened]], [[Sickened]], [[Slowed]], or [[Stupefied]]"
+mechanics1: "Reduce the value of the condition you just gained by 1; if this reduces the value to 0, you don't gain the triggering condition."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

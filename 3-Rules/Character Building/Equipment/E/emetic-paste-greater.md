@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-breath-potion-(electricity-lesser)"
-aliases: "Energy Breath Potion (Electricity, Lesser)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "emetic-paste-greater"
+aliases: "Emetic Paste (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "53"
 rarity: ""
-trait01: "consumable"
-trait02: "electricity"
-trait03: "magical"
-trait04: "potion"
-trait05: "common"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "healing"
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 14
 weight: L
-value: "70"
+value: "700"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.  **Energy Breath** `pf2:1` You create a 30-foot line of electricity which deals 4d6 electricity damage. All creatures in the area must attempt a DC 23 Reflex check save.  After you use Energy Breath, you can't do so again for 1d4 rounds."
+activate: "`pf2:1` [[Interact]]"
+description: "[[Sickened]] creatures have difficulty swallowing, so you can Activate emetic paste by applying it to your skin or that of a sickened creature within reach, typically on the throat. The paste makes it easy for the sickened creature to purge, granting it an immediate Fortitude save to reduce its sickened condition. The paste grants the target a +4 item bonus to that save and to all saving throws to reduce the sickened condition for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

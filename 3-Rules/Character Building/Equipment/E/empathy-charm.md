@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "empathy-charm"
 aliases: "Empathy Charm"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "105"
+rarity: "uncommon"
 trait01: "companion"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to harness"
 license: "ORC"
 identify:
-description: "This charm, usually placed on an animal companion's collar, contains a single strand of your hair, as well as one of your animal companion's, creating a link that better transmits emotional cues to a trained psychological assistance animal.  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You attempt a saving throw against an emotion effect  **Requirements** Your animal companion wearing the empathy charm is within 10 feet  * * *  **Effect** Your animal companion senses the effect and attempts to calm you. You gain a +1 circumstance bonus against the triggering save."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This charm, usually placed on an animal companion's collar, contains a single strand of your hair, as well as one of your animal companion's, creating a link that better transmits emotional cues to a trained psychological assistance animal."
+powerTitle1: "effect"
+actionEconomy1: r
+type1: "([[envision]])"
+frequency1: "once per day"
+trigger1: "You attempt a saving throw against an emotion effect"
+requirement1: "Your animal companion wearing the empathy charm is within 10 feet"
+mechanics1: "Your animal companion senses the effect and attempts to calm you. You gain a +1 circumstance bonus against the triggering save."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "empathic-cords"
 aliases: "Empathic Cords"
 source: "Pathfinder Special: Fumbus!"
-pg: ""
-rarity: ""
+pg: "0"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "mental"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "These intricately braided lengths of leather, twine, and ribbon can be worn around the neck. Empathic cords function only with the other cord in their pair and must be crafted together. If one cord becomes broken, the other dissolves in to non-magical dust. The price listed above is for a pair of cords. The creatures wearing a pair of empathic cords can sense each other's feelings and communicate empathically, no matter how far away they are, as long as the creatures are on the same planet.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Message|Message]], targeting the creature wearing the matching cord. The range of this message is planetary."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These intricately braided lengths of leather, twine, and ribbon can be worn around the neck. Empathic cords function only with the other cord in their pair and must be crafted together. If one cord becomes broken, the other dissolves in to non-magical dust. The price listed above is for a pair of cords. The creatures wearing a pair of empathic cords can sense each other's feelings and communicate empathically, no matter how far away they are, as long as the creatures are on the same planet."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]], [[interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You cast [[Message]], targeting the creature wearing the matching cord. The range of this message is planetary."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

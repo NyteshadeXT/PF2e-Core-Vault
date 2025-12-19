@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-breath-potion-(fire-lesser)"
-aliases: "Energy Breath Potion (Fire, Lesser)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "endless-grimoire-greater"
+aliases: "Endless Grimoire (Greater)"
+source: "Pathfinder Secrets of Magic"
+pg: "162"
 rarity: ""
-trait01: "consumable"
-trait02: "fire"
-trait03: "magical"
-trait04: "potion"
-trait05: "common"
+trait01: "grimoire"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
+level: 10
 weight: L
-value: "70"
+value: "900"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Distilled from the energy of dangerous spells, an energy breath potion grants you the Energy Breath action for 1 hour after you imbibe the concoction.  **Energy Breath** `pf2:1` You create a 15-foot cone of fire which deals 4d6 fire damage. All creatures in the area must attempt a DC 23 Reflex check save.  After you use Energy Breath, you can't do so again for 1d4 rounds."
+description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +2 item bonus to checks to [[Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 3rd-rank spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

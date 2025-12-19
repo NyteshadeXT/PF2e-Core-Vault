@@ -3,7 +3,6 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-<<<<<<< Updated upstream
 name: "demolishing"
 aliases: "Demolishing"
 source: "Pathfinder Special: Fumbus"
@@ -27,11 +26,7 @@ invest:
 usage: "etched onto a weapon"
 license: "OGL"
 identify: ""
-<<<<<<< Updated upstream
 description: "A _demolishing_ weapon is made to destroy constructs. Damage inflicted on a construct with a demolishing weapon continues to spread throughout the creature-cracks form, linkages fail, surfaces erode-and otherwise dismantle its body. When you damage a construct using a _demolishing_ weapon, you deal an extra `dice: 1d6` persistent force damage. On a critical hit, you deal an extra `dice: 1d12` persistent force damage instead."
-=======
-description: "A _demolishing_ weapon is made to destroy constructs. Damage inflicted on a construct with a _demolishing_ weapon continues to spread throughout the creature—cracks form, linkages fail, surfaces erode—and otherwise dismantle its body. When you damage a construct using a _demolishing_ weapon, you deal an extra `dice: 1d6` persistent force damage. On a critical hit, you deal an extra `dice: 1d12` persistent force damage instead."
->>>>>>> Stashed changes
 activate: ""
 craft: 
 destruction: 
@@ -147,8 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-<<<<<<< Updated upstream
-=======
-
-
->>>>>>> Stashed changes

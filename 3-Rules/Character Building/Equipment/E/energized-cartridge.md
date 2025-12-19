@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "energized-cartridge"
 aliases: "Energized Cartridge"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "184"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,12 +26,13 @@ invest:
 usage: "affixed to crossbow or firearm"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a firearm or crossbow  **Activate** `pf2:0` (concentrate)  **Trigger** You attempt an attack roll with the affixed firearm or crossbow  **Requirements** You're trained in use of the affixed firearm or crossbow.  * * *  This simple brass shell casing contains trace amounts of alchemical ingredients and is usually attached to the underside of the affixed weapon's barrel. When activated, it causes the ammunition fired from the affixed weapon to transform into your choice of acid, cold, electricity, or fire, dealing damage of the appropriate energy type instead of its usual damage as well as 1d6 persistent damage of the same type on a critical hit.  [[Equipment Effects/Effect_ Energized Cartridge|Effect: Energized Cartridge]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This simple brass shell casing contains trace amounts of alchemical ingredients and is usually attached to the underside of the affixed weapon's barrel. When activated, it causes the ammunition fired from the affixed weapon to transform into your choice of acid, cold, electricity, or fire, dealing damage of the appropriate energy type instead of its usual damage as well as `dice: 1d6` persistent damage of the same type on a critical hit."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
+trigger1: "You attempt an attack roll with the affixed firearm or crossbow"
+requirement1: "You're trained in use of the affixed firearm or crossbow."
 mechanics1:
 powerTitle2:
 actionEconomy2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

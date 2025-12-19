@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "endless-grimoire"
 aliases: "Endless Grimoire"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "162"
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +1 item bonus to checks to [[Actions/Learn a Spell|Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 1st-rank spell."
+description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +1 item bonus to checks to [[Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 1st-rank spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

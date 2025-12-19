@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "energy-adaptive"
 aliases: "Energy Adaptive"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "12"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.  * * *  **Activate** `pf2:r` envision  **Frequency** once per hour  **Trigger** You take acid, cold, electricity, or fire damage  **Effect** You gain resistance 5 to the triggering damage type. This doesn't apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you.  [[Equipment Effects/Effect_ Energy Adaptive|Effect: Energy Adaptive]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time."
+powerTitle1: "Effect"
+actionEconomy1: r
+type1: "([[envision]])"
+frequency1: "once per hour"
+trigger1: "You take acid, cold, electricity, or fire damage"
+mechanics1: "You gain resistance 5 to the triggering damage type. This doesn't apply to the triggering damage. This resistance lasts until you Activate this rune again or the armor is no longer invested by you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

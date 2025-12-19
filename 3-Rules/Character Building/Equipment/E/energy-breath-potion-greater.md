@@ -4,35 +4,45 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "endless-grimoire-(true)"
-aliases: "Endless Grimoire (True)"
-source: "Pathfinder Secrets of Magic"
-pg: ""
+name: "energy-breath-potion-greater"
+aliases: "Energy Breath Potion (Greater)"
+source: "Pathfinder GM Core"
+pg: "259"
 rarity: ""
-trait01: "grimoire"
+trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: "potion"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 18
+level: 17
 weight: L
-value: "23000"
+value: "3000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +3 item bonus to checks to [[Actions/Learn a Spell|Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 7th-rank spell."
-powerTitle1:
-actionEconomy1:
-type1:
+description: |
+  Distilled from the energy of dangerous spells, an _energy breath potion_ grants you the Energy Breath action for 1 hour after you imbibe the concoction. The potency of the breath depends on the potion's type, based on how long the distilled ingredients were aged. This potion has the trait matching the damage type.
+  
+  | Energy Type     | Area (Save)              |
+  | --------------- | ------------------------ |
+  | **Acid**        | 30-foot line (Reflex)    |
+  | **Cold**        | 15-foot cone (Reflex)    |
+  | **Electricity** | 30-foot line (Reflex)    |
+  | **Fire**        | 15-foot cone (Reflex)    |
+  | **Sonic**       | 15-foot cone (Fortitude) |
+
+powerTitle1: "Energy Breath"
+actionEconomy1: 1
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Each creature in an area takes `dice: 10d6` damage depending on its DC 37 basic saving throw. The damage type is the same as the potion's energy type. The area and save depend on the energy type, as seen in the table. After you use Energy Breath, you can't do so again for `dice: 1d4` rounds."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +85,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

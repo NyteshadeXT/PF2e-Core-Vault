@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "emerald-grasshopper-(greater)"
-aliases: "Emerald Grasshopper (Greater)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "endless-grimoire-true"
+aliases: "Endless Grimoire (True)"
+source: "Pathfinder Secrets of Magic"
+pg: "162"
 rarity: ""
-trait01: "consumable"
+trait01: "grimoire"
 trait02: "magical"
-trait03: "talisman"
-trait04: "common"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: 
-value: "150"
+level: 18
+weight: L
+value: "23000"
 subvalue: "gp"
 invest:
-usage: "affixed to armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  **Requirements** You're trained in Athletics  * * *  This metal grasshopper studded with emeralds is usually clasped to the legs of a suit of armor.  When you activate it, make a [[Actions/Leap|Leap]], traveling up to 100 feet horizontally and up to 30 feet vertically.  This benefit applies to any other Leaps you make before the end of your turn.  If you don't end your jump on solid ground, you flutter in the air until the end of your turn, then fall harmlessly at a rate of 60 feet per round until you reach the ground."
+description: "When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +3 item bonus to checks to [[Learn a Spell]] if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, the grimoire's nature leaks into your mind, allowing you to prepare an additional 7th-rank spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
