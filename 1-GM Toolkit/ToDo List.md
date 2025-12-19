@@ -51,7 +51,8 @@ tags:
 - [ ] Elemental Ammunition needs to drop with a damage type (acid, cold, electricity, fire or poison)
 - [ ] Elemental Fragment needs to drop with planar energy (air, earth, fire, water, metal or wood)
 - [ ] Elemental Gem needs to drop with planar energy (air, earth, fire, water)
-
+- [ ] Energy Mutagen (All variants) need to drop with an energy type
+- [ ] Energy Resistant runes need to drop with an energy type
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-mutagen-(greater)"
-aliases: "Energy Mutagen (Greater)"
+name: "energy-mutagen-moderate"
+aliases: "Energy Mutagen (Moderate)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "60"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 3
 weight: L
-value: "300"
+value: "12"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.  **Benefit** You gain resistance 15 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1d6 damage of the attuned energy type. In addition, you can end the benefits of this mutagen to unleash a 30-foot cone of energy as a 2-action activity. This deals 2d6 damage of the attuned type for every full 10 minutes of duration remaining (maximum 8d6) to each creature in the area, with a DC 25 Reflex check save.  **Drawback** You gain weakness 5 to the other three energy types.  **Duration** 1 hour.  [[Equipment Effects/Effect_ Energy Mutagen (Greater)|Effect: Energy Mutagen (Greater)]]"
+activate: "`pf2:1` [[Interact]]"
+description: "When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.\n\n**Benefit** You gain resistance 10 to the attuned energy type. Whenever you score a hit with a melee weapon, add `dice: 1d4` damage of the attuned energy type.\n\n**Drawback** You gain weakness 5 to the other three energy types.\n\n**Duration** 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

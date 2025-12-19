@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-mutagen-(lesser)"
-aliases: "Energy Mutagen (Lesser)"
-source: "Pathfinder Treasure Vault"
-pg: ""
+name: "energy-resistant-greater"
+aliases: "Energy-Resistant (Greater)"
+source: "Pathfinder GM Core"
+pg: "226"
 rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "elixir"
-trait04: "mutagen"
-trait05: "polymorph"
-trait06: "common"
+trait01: "magical"
+trait02: ""
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: L
-value: "4"
+level: 12
+weight: 
+value: "1650"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.  **Benefit** You gain resistance 5 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1 damage of the attuned energy type.  **Drawback** You gain weakness 5 to the other three energy types.  **Duration** 1 minute.  [[Equipment Effects/Effect_ Energy Mutagen (Lesser)|Effect: Energy Mutagen (Lesser)]]"
+description: "These symbols convey protective forces from the Elemental Planes. You gain resistance 10 to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple _energy-resistant_ runes can be etched onto a suit of armor; rather than using only the strongest effect, each must provide resistance to a different damage type. For instance, a _+2 acid-resistant greater fire-resistant breastplate_ would give you acid resistance 5 and fire resistance 10."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

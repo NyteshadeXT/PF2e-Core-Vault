@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "enhanced-hearing-aids"
 aliases: "Enhanced Hearing Aids"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "68"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,14 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "These hearing aids work like _magical hearing aids_, but they're designed with a more potent and focused magic.  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  **Requirements** Your hearing aids are currently on  * * *  **Effect** You mentally increase the input of your hearing aids. You gain a +1 item bonus to all hearing-based Perception checks for 10 minutes.  [[Equipment Effects/Effect_ Enhanced Hearing Aids|Effect: Enhanced Hearing Aids]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These hearing aids work like _magical hearing aids_, but they're designed with a more potent and focused magic."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+requirement1: "Your hearing aids are currently on"
+mechanics1: "You mentally increase the input of your hearing aids. You gain a +1 item bonus to all hearing-based [[Skills#Perception|Perception]] checks for 10 minutes."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

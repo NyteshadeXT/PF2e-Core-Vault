@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "energy-robe-of-cold"
 aliases: "Energy Robe of Cold"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "50"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to cold.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain the effects of [[Spells/Water Walk|Water Walk]] for 1 minute, as you momentarily flash freeze the surface of water as you walk across it."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to cold."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]], [[interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You speak a command word, and the embroidered threads in the robe glow vividly. You gain the effects of [[Water Walk]] for 1 minute, as you momentarily flash freeze the surface of water as you walk across it."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

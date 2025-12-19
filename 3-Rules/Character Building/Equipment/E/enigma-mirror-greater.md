@@ -4,41 +4,41 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-resistant-(greater)"
-aliases: "Energy-Resistant (Greater)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "enigma-mirror-greater"
+aliases: "Enigma Mirror (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "125"
 rarity: ""
-trait01: "magical"
-trait02: "common"
-trait03: ""
+trait01: "illusion"
+trait02: "magical"
+trait03: "spellheart"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 12
+level: 10
 weight: 
-value: "1650"
+value: "950"
 subvalue: "gp"
 invest:
-usage: "etched onto armor"
+usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "These symbols convey protective forces from the Elemental Planes. You gain resistance 10 to acid, cold, electricity, or fire. The crafter chooses the damage type when creating the rune. Multiple _energy-resistant_ runes can be etched onto a suit of armor; rather than using only the strongest effect, each must provide resistance to a different damage type. For instance, a _+2 acid-resistant greater fire-resistant breastplate_ would give you acid resistance 5 and fire resistance 10."
-powerTitle1:
+description: "Mist fills the glass of this small circular hand mirror, creating strange patterns in the shifting gray wisps. The back of the mirror bears a flowing script engraving in an unknown language. The spell DC of any spell cast by activating this item is 27.\n\n**Armor** After you cast an illusion spell by activating the mirror, choose one ally within 30 feet. That ally gains a single illusory image, per mirror image. The image lasts until the end of your next turn if not destroyed before then.\n\n*Weapon** After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You're affected by the [[Thicket of Knives]] spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
-powerTitle2:
+mechanics1: "You cast [[Forbidding Ward]]."
+powerTitle2: "Cast a Spell"
 actionEconomy2:
 type2:
-frequency2:
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You cast [[Mirror's Misfortune]]"
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

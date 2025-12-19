@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "energy-mutagen-(moderate)"
-aliases: "Energy Mutagen (Moderate)"
+name: "energy-mutagen-major"
+aliases: "Energy Mutagen (Major)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "60"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
+level: 17
 weight: L
-value: "12"
+value: "3000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.  **Benefit** You gain resistance 10 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1d4 damage of the attuned energy type.  **Drawback** You gain weakness 5 to the other three energy types.  **Duration** 10 minutes.  [[Equipment Effects/Effect_ Energy Mutagen (Moderate)|Effect: Energy Mutagen (Moderate)]]"
+activate: "`pf2:1` [[Interact]]"
+description: "When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.\n\n**Benefit** You gain resistance 20 to the attuned energy type. Whenever you score a hit with a melee weapon, add `dice: 2d6` damage of the attuned energy type. In addition, you can end the benefits of this mutagen to unleash a 30-foot cone of energy as a 2-action activity. This deals `dice: 3d6` damage of the attuned type for every full 10 minutes of duration remaining (maximum `dice: 12d6`) to each creature in the area, with a DC 32 Reflex check save.\n\n**Drawback** You gain weakness 5 to the other three energy types.\n\n**Duration** 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

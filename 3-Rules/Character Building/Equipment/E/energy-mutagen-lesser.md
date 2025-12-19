@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "enigma-mirror-(greater)"
-aliases: "Enigma Mirror (Greater)"
+name: "energy-mutagen-lesser"
+aliases: "Energy Mutagen (Lesser)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "60"
 rarity: ""
-trait01: "illusion"
-trait02: "magical"
-trait03: "spellheart"
-trait04: "common"
-trait05: ""
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
+trait04: "mutagen"
+trait05: "polymorph"
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
-weight: 
-value: "950"
+level: 1
+weight: L
+value: "4"
 subvalue: "gp"
 invest:
-usage: "affixed to armor or a weapon"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Mist fills the glass of this small circular hand mirror, creating strange patterns in the shifting gray wisps. The back of the mirror bears a flowing script engraving in an unknown language. The spell DC of any spell cast by activating this item is 27.  *   **Armor** After you cast an illusion spell by activating the mirror, choose one ally within 30 feet. That ally gains a single illusory image, per mirror image. The image lasts until the end of your next turn if not destroyed before then. *   **Weapon** After you cast an illusion spell by activating the mirror, illusory copies of the weapon swirl in the air around it. You're affected by the [[Spells/Thicket of Knives|Thicket of Knives]] spell until the end of your next turn. The spell ends if you stop wielding the affixed weapon.  **Activate** Cast a Spell  * * *  **Effect** You cast [[Spells/Forbidding Ward|Forbidding Ward]].  **Activate** Cast a Spell  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Mirror's Misfortune|Mirror's Misfortune]]."
+activate: "`pf2:1` [[Interact]]"
+description: "When created, this mutagen is attuned to one of four energy types: acid, cold, electricity, or fire. When consumed, the mutagen suffuses your body with energy that spills out whenever you attack. At higher levels, it can even grant you the ability to unleash the energy in controlled bursts.\n\n**Benefit** You gain resistance 5 to the attuned energy type. Whenever you score a hit with a melee weapon, add 1 damage of the attuned energy type.\n\n**Drawback** You gain weakness 5 to the other three energy types.\n\n**Duration** 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

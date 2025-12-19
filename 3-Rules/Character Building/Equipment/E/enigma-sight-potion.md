@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "enigma-sight-potion"
 aliases: "Enigma-Sight Potion"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "89"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A vial of this enigma-sight potion seems to contain fragments of kaleidoscopic crystal that reflect mind-bending scenes. However, these "crystals" act like liquid when poured or consumed. Drinking the potion grants you the effects of a [[Spells/Truesight|Truesight]] spell, except that you use your Perception modifier and your level for the secret counteract check instead of the normal counteract modifier and spell rank. However, if you critically fail the secret counteract check the effect grants, your mind fills in false, nightmarish information. You become [[Conditions/Stupefied|Stupefied 1]] for 1d4 rounds and [[Conditions/Stunned|Stunned 1]] as your brain struggles to process what you see."
+activate: "`pf2:1` [[Interact]]"
+description: "A vial of this enigma-sight potion seems to contain fragments of kaleidoscopic crystal that reflect mind-bending scenes. However, these "crystals" act like liquid when poured or consumed. Drinking the potion grants you the effects of a [[Truesight]] spell, except that you use your [[Skills#Perception|Perception]] modifier and your level for the secret counteract check instead of the normal counteract modifier and spell rank. However, if you critically fail the secret counteract check the effect grants, your mind fills in false, nightmarish information. You become [[Stupefied|Stupefied 1]] for `dice: 1d4` rounds and [[Stunned|Stunned 1]] as your brain struggles to process what you see."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
