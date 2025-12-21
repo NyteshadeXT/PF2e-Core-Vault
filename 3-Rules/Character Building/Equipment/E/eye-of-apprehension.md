@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "eye-of-apprehension"
 aliases: "Eye of Apprehension"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "fortune"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You are about to roll Perception for initiative but haven't rolled yet  **Requirements** You are a master in Perception  * * *  This round piece of cymophane's silky inclusion makes it look like a cat's eye. While affixed, it makes you jittery.  When you activate it, roll Perception twice and use the higher result."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This round piece of cymophane's silky inclusion makes it look like a cat's eye. "
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+requirement1: "You are a master in [[Skills#Perception|Perception]]"
+trigger1: "You are about to roll [[Skills#Perception|Perception]] for initiative but haven't rolled yet"
+mechanics1: "While affixed, it makes you jittery.  When you activate it, roll [[Skills#Perception|Perception]] twice and use the higher result."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

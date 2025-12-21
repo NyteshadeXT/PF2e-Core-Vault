@@ -6,7 +6,6 @@ tags:
 # General ToDos
 - [ ] Update items to new template
 	- Currently on letter 'D'
-	- [ ] Add Abysium Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Adamantine Armors, Bucklers, Object, Shield and Weapon
 	- [ ] Add Abysium Chunk and Ingot
 	- [ ] Add Adamantine Chunk and Ingot

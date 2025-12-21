@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "explosive-mine-(lesser)"
-aliases: "Explosive Mine (Lesser)"
-source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "gadget"
-trait03: "uncommon"
+name: "eyes-of-the-moonwarden"
+aliases: "Eyes of the Moonwarden"
+source: "Pathfinder #208: Hoof, Cinder, and Storm"
+pg: "80"
+rarity: "uncommon"
+trait01: "invested"
+trait02: "magical"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 9
 weight: L
-value: "4"
+value: "620"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "wornnecklace"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  When you Activate an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use Stealth to [[Actions/Conceal an Object|Conceal an Object]] before you Activate the mine. If you don't Conceal the mine, its position is obvious at a glance.  Once activated, the mine is primed to explode when enough pressure is placed on the square where it's located. Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. Once triggered, the mine explodes, dealing the 2d6 fire damage to any creatures in a 5-foot emanation with a DC 15 Reflex check save."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This beaded pendant crafted by Lyrune-Quah shamans features an uncut moonstone that warns the wearer of danger. When a hostile creature comes within 30 feet of you, the stone glows with moonlight only you can see."
+powerTitle1: "Lunar Illumination"
+actionEconomy1: 1
+type1: "([[concentrate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "Bright moonlight shines out of the gem in a 30-foot emanation, forcing hostile creatures in the area to make a DC 26 Fortitude check save or be [[Blinded]] for 1 round."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

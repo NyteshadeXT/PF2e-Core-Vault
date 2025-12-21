@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
+name: "extendable-pincer"
+aliases: "Extendable Pincer"
+source: "Pathfinder Guns and Gears"
+pg: "87"
 rarity: "uncommon"
-trait01: "adjustment"
+trait01: "clockwork"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 0
 group: 
-bulk: 
+bulk: "L"
 value: "2"
 subvalue: "gp"
 invest: 
-usage: "applied to weapon"
-license: "OGL"
+usage: "held in two hands"
+license: "ORC"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "This extendable rod features a pincer on one end and clamped handle on the other. By squeezing the handle, the pincer opens or closes. As an [[Interact]] action, you can extend or retract the rod by 5 feet to one of three settings, allowing you to [[Interact]] to pick up an object with the pincer either within your own space, in an adjacent space, or exactly 10 feet away."
 activate: ""
 craft: 
 destruction: 

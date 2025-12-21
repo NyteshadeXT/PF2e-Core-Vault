@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
-rarity: "uncommon"
-trait01: "adjustment"
+name: "abysium-armor-standard-grade"
+aliases: "Abysium Armor (Standard Grade)"
+source: "Pathfinder Lost Omens Grand Bazaar"
+pg: "96"
+rarity: "rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 8
 group: 
 bulk: 
-value: "2"
-subvalue: "gp"
+value: "2000"
+subvalue: "gp (+200 gp per Bulk)"
 invest: 
-usage: "applied to weapon"
+usage: ""
 license: "OGL"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "Typically only creatures immune to abysium's effects would don abysium armor. You're [[sickened|sickened 2]] while wearing standard-grade armor made from abysium, or [[sickened|sickened 3]] while wearing high-grade armor made from abysium. You can't reduce your sickened condition while wearing abysium armor, or for 1 hour after removing it. Abysium armor is dangerous to nearby creatures, too. Creatures within 10 feet of abysium armor must succeed at a Fortitude save (DC 30 for standard grade or DC 40 for high grade) or become [[sickened|sickened 1]] ([[sickened|sickened 2]] on a critical failure). Afterwards, the creature is temporarily immune for 1 minute, but if they remain within the area for longer than 1 minute, they automatically critically fail the next save."
 activate: ""
-craft: 
+craft: "The initial raw materials must include at least 250 gp of abysium + 25 gp per Bulk."
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: 
+craftBase: "Abysium"
 
 ---
 

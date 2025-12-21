@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "eyes-of-the-cat"
 aliases: "Eyes of the Cat"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "290"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These lenses of amber crystal fit over your eyes. They grant you low-light vision and a +2 item bonus to Perception checks that involve sight."
+description: "These lenses of amber crystal fit over your eyes. They grant you low-light vision and a +2 item bonus to [[Skills#Perception|Perception]] checks that involve sight."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

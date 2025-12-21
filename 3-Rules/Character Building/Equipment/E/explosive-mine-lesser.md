@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "exsanguinating-ammunition-(major)"
-aliases: "Exsanguinating Ammunition (Major)"
+name: "explosive-mine-lesser"
+aliases: "Explosive Mine (Lesser)"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "common"
+pg: "69"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 12
-weight: 
-value: "360"
+level: 1
+weight: L
+value: "4"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` (manipulate)  * * *  This ammunition includes a small reservoir of a tacky red substance that coats the ammunition when you activate it. The substance makes a creature bleed more freely. For 1 minute after you deal damage to a creature with an activated exsanguinating ammunition that creature gains weakness 5 to persistent bleed damage. In addition, the DC of any flat checks to end persistent bleed damage increases from 15 to 17 (from 10 to 12 when receiving particularly effective assistance) for the duration.  [[Equipment Effects/Effect_ Exsanguinating Ammunition|Effect: Exsanguinating Ammunition]]"
+activate: "`pf2:2` ([[manipulate]])"
+description: "When you Activate an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use Stealth to [[Conceal an Object]] before you Activate the mine. If you don't Conceal the mine, its position is obvious at a glance.  Once activated, the mine is primed to explode when enough pressure is placed on the square where it's located. Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. Once triggered, the mine explodes, dealing the `dice: 2d6` fire damage to any creatures in a 5-foot emanation with a DC 15 Reflex check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

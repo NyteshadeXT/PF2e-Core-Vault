@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
+name: "adamantine"
+aliases: "Adamantine"
+source: "Pathfinder GM Core"
+pg: "253"
 rarity: "uncommon"
-trait01: "adjustment"
+trait01: "precious"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,29 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 0
 group: 
 bulk: 
-value: "2"
-subvalue: "gp"
+value: ""
+subvalue: ""
 invest: 
-usage: "applied to weapon"
-license: "OGL"
+usage: ""
+license: ""
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: |
+  Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge.
+
+  | **Adamantine Items** | **Hardness** | **HP** | **BT** |
+  | -------------------- | ------------ | ------ | ------ |
+  | **Thin Items**       |              |        |        |
+  | Standard-grade       | 10           | 40     | 20     |
+  | High-grade           | 13           | 52     | 26     |
+  | **Items**            |              |        |        |
+  | Standard-grade       | 14           | 56     | 28     |
+  | High-grade           | 17           | 68     | 34     |
+  | **Structure**        |              |        |        |
+  | Standard-grade       | 28           | 112    | 56     |
+  | High-grade           | 34           | 136    | 68     |
 activate: ""
 craft: 
 destruction: 
@@ -142,3 +155,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftBase, "Adamantine")
+SORT level ASC
+
+```
+
+

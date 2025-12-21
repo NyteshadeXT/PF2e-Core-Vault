@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "exploding-shield"
 aliases: "Exploding Shield"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "279"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.  **Activate—Splintering Boom** `pf2:0` (manipulate)  **Trigger** The exploding shield is destroyed  * * *  **Effect** The shield explodes outward, dealing 4d6 piercing damage to each creature in a 15-foot cone (DC 19 Reflex check save).      | Hardness | HP | BT | | --- | --- | --- | | 3 | 12 | 6 |"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The magic within this [[wooden shield]] lashes out at your foes as the shield is destroyed."
+powerTitle1: "Splintering Boom"
+actionEconomy1: 0
+type1: "([[manipulate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "The exploding shield is destroyed"
+mechanics1: "The shield explodes outward, dealing `dice: 4d6` piercing damage to each creature in a 15-foot cone (DC 19 Reflex check save)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,7 +57,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 2
 modAC:
 dexCap:
 strRequirement:
@@ -67,6 +67,9 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+Hardness: 3
+HP: 12
+BT: 6
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
@@ -75,3 +78,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

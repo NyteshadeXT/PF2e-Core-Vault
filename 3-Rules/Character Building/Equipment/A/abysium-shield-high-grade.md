@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
-rarity: "uncommon"
-trait01: "adjustment"
+name: "abysium-shield-high-grade"
+aliases: "Abysium Shield (High Grade)"
+source: "Pathfinder Lost Omens Grand Bazaar"
+pg: "96"
+rarity: "rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 16
 group: 
-bulk: 
-value: "2"
+bulk: "1"
+value: "8800"
 subvalue: "gp"
 invest: 
-usage: "applied to weapon"
+usage: ""
 license: "OGL"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "These glowing shields are crafted to ensure that the abysium used is safely contained within a durable outer shell. If the shield breaks, however, the toxic metal becomes exposed. When you use the [[Shield Block]] reaction against an adjacent creature's melee Strike, if the shield breaks, the creature is exposed to the abysium and is [[sickened|sickened 1]] for a standard-grade shield or [[sickened|sickened 1]] for a high-grade shield."
 activate: ""
-craft: 
+craft: "abysium worth at least 4,400 gp"
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: 
+craftBase: "Abysium"
 
 ---
 

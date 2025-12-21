@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "exsanguinating-ammunition-(greater)"
-aliases: "Exsanguinating Ammunition (Greater)"
-source: "Pathfinder Guns & Gears"
-pg: ""
+name: "eye-of-the-unseen-greater"
+aliases: "Eye of the Unseen (Greater)"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "73"
 rarity: ""
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "common"
+trait01: "invested"
+trait02: "magical"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
-weight: 
-value: "80"
+level: 14
+weight: L
+value: "4000"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "worn"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` (manipulate)  * * *  This ammunition includes a small reservoir of a tacky red substance that coats the ammunition when you activate it. The substance makes a creature bleed more freely. For 1 minute after you deal damage to a creature with an activated exsanguinating ammunition that creature gains weakness 3 to persistent bleed damage. In addition, the DC of any flat checks to end persistent bleed damage increases from 15 to 17 (from 10 to 12 when receiving particularly effective assistance) for the duration.  [[Equipment Effects/Effect_ Exsanguinating Ammunition|Effect: Exsanguinating Ammunition]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +2 item bonus to visual [[Skills#Perception|Perception]]."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]], [[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You focus on the eye to see the unseen. The eye casts 5th-rank [[See the Unseen]] on you."
 powerTitle2:
 actionEconomy2:
 type2:

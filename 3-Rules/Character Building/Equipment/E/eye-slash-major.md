@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "eye-of-the-unseen-(greater)"
-aliases: "Eye of the Unseen (Greater)"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+name: "eye-slash-major"
+aliases: "Eye Slash (Major)"
+source: "Pathfinder Treasure Vault"
+pg: "120"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: "tattoo"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 14
-weight: L
-value: "4000"
+level: 9
+weight: 
+value: "700"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +2 item bonus to visual Perception checks.  * * *  **Activate** `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** You focus on the eye to see the unseen. The eye casts 5th-rank [[Spells/See the Unseen|See the Unseen]] on you."
+description: "Small scars or marks around your eye improve your distant vision. These scars are especially common among orc scouts, who favor scars shaped like eagle talons. You can see four times farther than normal. If you have darkvision, you can see blood in color. Higher-level versions of an eye slash are larger and more elaborate scars or marks, radiating out around the eye.  The tattoo also grants you a +2 item bonus to [[Skills#Perception|Perception]] checks that involve sight."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

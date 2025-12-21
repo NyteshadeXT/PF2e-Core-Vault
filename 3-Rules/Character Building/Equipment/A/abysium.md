@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
-rarity: "uncommon"
-trait01: "adjustment"
+name: "abysium-chunk"
+aliases: "Abysium Chunk"
+source: "Pathfinder Lost Omens Grand Bazaar"
+pg: "96"
+rarity: "rare"
+trait01: "precious"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,30 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 0
 group: 
-bulk: 
-value: "2"
-subvalue: "gp"
+bulk: ""
+value: ""
+subvalue: ""
 invest: 
-usage: "applied to weapon"
+usage: ""
 license: "OGL"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: |
+  A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is [[Sickened|sickened 1]] for a standard-grade object of light Bulk, [[Sickened|sickened 2]] for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or [[Sickened|sickened 3]] for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are [[poison]] effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous [[abysium powder]]. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
+  
+| Abysium Items  | Hardness | HP  | BT  |
+| -------------- | -------- | --- | --- |
+| Thin Items     |          |     |     |
+| Standard-grade | 6        | 24  | 12  |
+| High-grade     | 10       | 40  | 20  |
+| Items          |          |     |     |
+| Standard-grade | 10       | 40  | 20  |
+| High-grade     | 13       | 52  | 26  |
+| Structures     |          |     |     |
+| Standard-grade | 20       | 80  | 40  |
+| High-grade     | 26       | 104 | 52  |
+
 activate: ""
 craft: 
 destruction: 
@@ -142,3 +156,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftBase, "Abysium")
+SORT level ASC
+
+```
+
+

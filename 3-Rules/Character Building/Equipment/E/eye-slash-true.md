@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "explosive-ammunition-(greater)"
-aliases: "Explosive Ammunition (Greater)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "eye-slash-true"
+aliases: "Eye Slash (True)"
+source: "Pathfinder Treasure Vault"
+pg: "120"
 rarity: ""
-trait01: "consumable"
-trait02: "fire"
-trait03: "magical"
-trait04: "common"
+trait01: "invested"
+trait02: "magical"
+trait03: "tattoo"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 13
+level: 17
 weight: 
-value: "520"
+value: "15000"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` (manipulate)  * * *  This piece of ammunition is coated in gritty black soot. When activated _greater explosive ammunition_ hits a target, the missile explodes in a 10-foot burst, dealing 10d6 fire damage to each creature in the area (including the target). Each creature must attempt a DC 30 Reflex check save."
+description: "Small scars or marks around your eye improve your distant vision. These scars are especially common among orc scouts, who favor scars shaped like eagle talons. You can see four times farther than normal. If you have darkvision, you can see blood in color. Higher-level versions of an eye slash are larger and more elaborate scars or marks, radiating out around the eye.  The tattoo also grants you a +3 item bonus to [[Skills#Perception|Perception]] checks that involve sight."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

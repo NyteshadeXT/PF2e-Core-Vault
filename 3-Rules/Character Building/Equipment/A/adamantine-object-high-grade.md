@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
+name: "adamantine-object-high-grade"
+aliases: "Adamantine High (Standard Grade)"
+source: "Pathfinder GM Core"
+pg: "253"
 rarity: "uncommon"
-trait01: "adjustment"
+trait01: "precious"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 16
 group: 
-bulk: 
-value: "2"
-subvalue: "gp"
+bulk: "L"
+value: "6000"
+subvalue: "gp (per Bulk)"
 invest: 
-usage: "applied to weapon"
-license: "OGL"
+usage: ""
+license: ""
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
 activate: ""
 craft: 
 destruction: 
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: 
+craftBase: "Adamantine"
 
 ---
 

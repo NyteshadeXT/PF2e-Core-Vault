@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "eye-of-the-unseen"
 aliases: "Eye of the Unseen"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "73"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +1 item bonus to visual Perception checks.  * * *  **Activate** `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** You focus on the eye to see the unseen. The eye casts [[Spells/See the Unseen|See the Unseen]] on you."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries. While wearing the eye, you gain a +1 item bonus to visual [[Skills#Perception|Perception]] checks."
+powerTitle1: "Effect"
+actionEconomy1: 2
+type1: "([[command]], [[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You focus on the eye to see the unseen. The eye casts [[See the Unseen]] on you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
-rarity: "uncommon"
-trait01: "adjustment"
+name: "abysium-weapon-standard-grade"
+aliases: "Abysium Weapon (Standard Grade)"
+source: "Pathfinder Lost Omens Grand Bazaar"
+pg: "97"
+rarity: "rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
+level: 12
 group: 
 bulk: 
-value: "2"
-subvalue: "gp"
+value: "2000"
+subvalue: "gp (+200 gp per Bulk)"
 invest: 
-usage: "applied to weapon"
+usage: ""
 license: "OGL"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "Abysium weapons are safe to carry, as the toxic metal is contained within an outer shell. However, the inherent toxicity in these blue-green weapons can irradiate open wounds and poison foes. Abysium weapons have one fewer property rune slot, but they deal `dice: 1d4` poison damage on a successful Strike, and on a critical hit, the target is [[sickened|sickened 1]], or [[sickened|sickened 1]] with high-grade abysium."
 activate: ""
-craft: 
+craft: "At least 250 gp of abysium + 25 gp per Bulk"
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: 
+craftBase: "Abysium"
 
 ---
 

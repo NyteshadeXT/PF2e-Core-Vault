@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "eye-of-the-moonwarden"
-aliases: "Eye of the Moonwarden"
-source: "Pathfinder #208: Hoof, Cinder, and Storm"
-pg: ""
+name: "exsanguinating-ammunition-greater"
+aliases: "Exsanguinating Ammunition (Greater)"
+source: "Pathfinder Guns & Gears"
+pg: "170"
 rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
-weight: L
-value: "620"
+level: 8
+weight: 
+value: "80"
 subvalue: "gp"
 invest:
-usage: "wornnecklace"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This beaded pendant crafted by Lyrune-Quah shamans features an uncut moonstone that warns the wearer of danger. When a hostile creature comes within 30 feet of you, the stone glows with moonlight only you can see.  **Activate—Lunar Illumination** `pf2:1` (concentrate)  **Frequency** once per hour  * * *  **Effect** Bright moonlight shines out of the gem in a 30-foot emanation, forcing hostile creatures in the area to make a DC 26 Fortitude check save or be [[Conditions/Blinded|Blinded]] for 1 round."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This ammunition includes a small reservoir of a tacky red substance that coats the ammunition when you activate it. The substance makes a creature bleed more freely. For 1 minute after you deal damage to a creature with an activated exsanguinating ammunition that creature gains weakness 3 to persistent bleed damage. In addition, the DC of any flat checks to end persistent bleed damage increases from 15 to 17 (from 10 to 12 when receiving particularly effective assistance) for the duration."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -4,14 +4,14 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "exploration-lens-(searching)"
+name: "exploration-lens-searching"
 aliases: "Exploration Lens (Searching)"
 source: "Pathfinder #171: Hurricane's Howl"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  An _exploration lens_ is a magical glass lens designed for a [[Equipment/Lantern (Bull's Eye)|Bull's Eye Lantern]]. When light from the lantern passes through the lens, it alters the light to make it easier to perform a common exploration activity with the lantern.  Alternatively, an _exploration lens_ can be installed in a [[Equipment/Wayfinder|Wayfinder]] like an aeon stone. In this case, light (such as that from a [[Equipment/Lantern (Hooded)|Lantern (Hooded)]], [[Equipment/Torch|Torch]], or [[Spells/Light|Light]] spell) must still pass through the lens and you must hold the wayfinder in your hand for it to function.  There are several different types of _exploration lens_, each granting benefits with a different type of exploration activity. Each type of lens is distinguishable from all the other types by holding it up to a bright light.  * * *  **Type: Searching**  This lens has an opalescent sheen when held up to light.  The lens subtly outlines hidden doors and concealed hazards, granting you a +2 item bonus to Perception checks to spot such features while [[Actions/Search|Searching]].  Even if you aren't Searching, you get a check to find traps that normally require you to Search."
+activate: "`pf2:1` [[Interact]]"
+description: "An _exploration lens_ is a magical glass lens designed for a [[Lantern (Bull's Eye)]]. When light from the lantern passes through the lens, it alters the light to make it easier to perform a common exploration activity with the lantern.  Alternatively, an _exploration lens_ can be installed in a [[Wayfinder]] like an aeon stone. In this case, light (such as that from a [[Lantern (Hooded)]], [[Torch]], or [[3-Rules/Character Building/Spells/L/Light|Light]] spell) must still pass through the lens and you must hold the wayfinder in your hand for it to function.\n\nThere are several different types of _exploration lens_, each granting benefits with a different type of exploration activity. Each type of lens is distinguishable from all the other types by holding it up to a bright light.\n\n**Type: Searching**  This lens has an opalescent sheen when held up to light.  The lens subtly outlines hidden doors and concealed hazards, granting you a +2 item bonus to [[Skills#Perception|Perception]] checks to spot such features while [[Search|Searching]].  Even if you aren't Searching, you get a check to find traps that normally require you to Search."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

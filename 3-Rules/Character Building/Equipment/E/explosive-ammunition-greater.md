@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "eye-slash-(major)"
-aliases: "Eye Slash (Major)"
-source: "Pathfinder Treasure Vault"
+name: "explosive-ammunition-greater"
+aliases: "Explosive Ammunition (Greater)"
+source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "tattoo"
+trait01: "consumable"
+trait02: "fire"
+trait03: "magical"
 trait04: "common"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 13
 weight: 
-value: "700"
+value: "520"
 subvalue: "gp"
 invest:
-usage: "tattooed on the body"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Small scars or marks around your eye improve your distant vision. These scars are especially common among orc scouts, who favor scars shaped like eagle talons. You can see four times farther than normal. If you have darkvision, you can see blood in color. Higher-level versions of an eye slash are larger and more elaborate scars or marks, radiating out around the eye.  The tattoo also grants you a +2 item bonus to Perception checks that involve sight."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This piece of ammunition is coated in gritty black soot. When activated _greater explosive ammunition_ hits a target, the missile explodes in a 10-foot burst, dealing `dice: 10d6` fire damage to each creature in the area (including the target). Each creature must attempt a DC 30 Reflex check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Any"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

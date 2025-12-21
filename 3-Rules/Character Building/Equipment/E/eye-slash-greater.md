@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "extradimensional-stash"
-aliases: "Extradimensional Stash"
-source: "Pathfinder #168: King of the Mountain"
-pg: ""
+name: "eye-slash-greater"
+aliases: "Eye Slash (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "120"
 rarity: ""
-trait01: "extradimensional"
-trait02: "uncommon"
-trait03: ""
+trait01: "invested"
+trait02: "magical"
+trait03: "tattoo"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 20
+level: 4
 weight: 
-value: "0"
+value: "100"
 subvalue: "gp"
 invest:
-usage: "worn"
+usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Granted by [[Feats/Extradimensional Stash|Extradimensional Stash]]  When you perform sleight of hand, you fold space so that objects really do disappear. You create a small extradimensional space somewhere within in your clothing that can hold up to 5 Bulk worth of objects. The space functions as a bag of holding, but can hold only up to 5 Bulk, has no Bulk of its own, and can be Interacted with using only one hand.  In addition, when you Palm an Object, you can place it directly into this extradimensional space as long as the space has sufficient free space to hold the object."
+description: "Small scars or marks around your eye improve your distant vision. These scars are especially common among orc scouts, who favor scars shaped like eagle talons. You can see four times farther than normal. If you have darkvision, you can see blood in color. Higher-level versions of an eye slash are larger and more elaborate scars or marks, radiating out around the eye.  The tattoo also grants you a +1 item bonus to [[Skills#Perception|Perception]] checks that involve sight."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

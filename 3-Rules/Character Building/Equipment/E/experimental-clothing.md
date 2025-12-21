@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "experimental-clothing"
 aliases: "Experimental Clothing"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "50"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns.  At the GM's discretion, wearing experimental clothing may impart a +1 item bonus or -1 item penalty on checks to Make An Impression, depending on the target's fashion sense."
+description: "Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns.  At the GM's discretion, wearing experimental clothing may impart a +1 item bonus or -1 item penalty on checks to [[Make An Impression]], depending on the target's fashion sense."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

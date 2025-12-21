@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "eyecatcher"
-aliases: "Eyecatcher"
-source: "Pathfinder Lost Omens Firebrands"
-pg: "82"
-rarity: "uncommon"
-trait01: "adjustment"
+name: "explorers-clothing"
+aliases: "Explorer's Clothing"
+source: "Pathfinder Player Core"
+pg: "273"
+rarity: ""
+trait01: "comfort"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-group: 
-bulk: 
-value: "2"
-subvalue: "gp"
+level: 0
+group: "Cloth"
+bulk: "L"
+value: "1"
+subvalue: "sp"
 invest: 
-usage: "applied to weapon"
-license: "OGL"
+usage: "worn"
+license: "ORC"
 identify: ""
-description: "An eyecatcher is a simple tassel, reflective basket hilt, or other accessory attached to a weapon to serve as a distraction. You gain a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]] while using a weapon with an eyecatcher attached. An eyecatcher affects the balancing of a weapon, making it slightly more unwieldy. This increases the weapon's Bulk by 1 and grants a –1 penalty to damage rolls with the weapon."
+description: "Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with _armor potency_ runes."
 activate: ""
 craft: 
 destruction: 
@@ -100,12 +100,12 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
+baseAC: 0
+dexCap: 5
 strRequirement: 
 checkPenalty: 
 speedPenalty: 
-armorCategory: 
+armorCategory: "Unarmored" 
 resist: 
 immunity: 
 conditionImmunity: 
@@ -142,3 +142,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(armorBase, "Explorer's Clothing")
+SORT level ASC
+
+```
+
+

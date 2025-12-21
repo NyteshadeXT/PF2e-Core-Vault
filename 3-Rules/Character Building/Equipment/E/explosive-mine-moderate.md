@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "eye-slash-(true)"
-aliases: "Eye Slash (True)"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "invested"
-trait02: "magical"
-trait03: "tattoo"
-trait04: "common"
+name: "explosive-mine-moderate"
+aliases: "Explosive Mine (Moderate)"
+source: "Pathfinder Guns & Gears"
+pg: "69"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
-weight: 
-value: "15000"
+level: 6
+weight: L
+value: "40"
 subvalue: "gp"
 invest:
-usage: "tattooed on the body"
+usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Small scars or marks around your eye improve your distant vision. These scars are especially common among orc scouts, who favor scars shaped like eagle talons. You can see four times farther than normal. If you have darkvision, you can see blood in color. Higher-level versions of an eye slash are larger and more elaborate scars or marks, radiating out around the eye.  The tattoo also grants you a +3 item bonus to Perception checks that involve sight."
+activate: "`pf2:2` ([[manipulate]])"
+description: "When you Activate an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use Stealth to [[Conceal an Object]] before you Activate the mine. If you don't Conceal the mine, its position is obvious at a glance.  Once activated, the mine is primed to explode when enough pressure is placed on the square where it's located. Typically, this occurs when a Small or larger creature moves onto the square, though it could happen if a creature intentionally places pressure on the square from a distance to safely trigger the mine. Once triggered, the mine explodes, dealing the `dice: 6d6` fire damage to any creatures in a 5-foot emanation with a DC 20 Reflex check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

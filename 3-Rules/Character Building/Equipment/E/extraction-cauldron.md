@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "extraction-cauldron"
 aliases: "Extraction Cauldron"
 source: "Pathfinder #182: Graveclaw"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This large magical stew pot can boil objects down to their valuable components, greatly assisting anyone who wants to harvest raw materials without visiting a settlement. The cauldron is roughly 3 feet in diameter.  * * *  **Activate** `pf2:3` Interact  **Requirements** The cauldron must be filled with boiling water for at least 1 hour  * * *  **Effect** As you stir the cauldron, one object that has been in it for at least an hour transforms into raw materials with a value of one half the object's Price; art objects are instead transformed into raw materials with a value equal to their Price. The cauldron produces raw materials associated with the object but unaffected by immersion in boiling water. For example, a magical broom might be rendered into a block of dense, valuable wood, while a gilt-edged portrait might be transformed into a lump of gold. Objects removed from the cauldron before an hour passes can't be transformed and they might be damaged or ruined by water and heat."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This large magical stew pot can boil objects down to their valuable components, greatly assisting anyone who wants to harvest raw materials without visiting a settlement. The cauldron is roughly 3 feet in diameter."
+powerTitle1: "Effect"
+actionEconomy1: 3
+type1: "([[interact]])"
+requirement1: "The cauldron must be filled with boiling water for at least 1 hour"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "As you stir the cauldron, one object that has been in it for at least an hour transforms into raw materials with a value of one half the object's Price; art objects are instead transformed into raw materials with a value equal to their Price. The cauldron produces raw materials associated with the object but unaffected by immersion in boiling water. For example, a magical broom might be rendered into a block of dense, valuable wood, while a gilt-edged portrait might be transformed into a lump of gold. Objects removed from the cauldron before an hour passes can't be transformed and they might be damaged or ruined by water and heat."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

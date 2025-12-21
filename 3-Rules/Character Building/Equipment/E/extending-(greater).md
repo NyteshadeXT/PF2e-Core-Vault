@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "extending-(greater)"
 aliases: "Extending (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "237"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "etched onto melee weapon"
 license: "ORC"
 identify:
-description: "An _extending_ rune allows you to extend your weapon to impossible lengths.  * * *  **Activate—Extend** `pf2:2` (manipulate)  * * *  **Effect** You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 120 feet for the Strike."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "An _extending_ rune allows you to extend your weapon to impossible lengths.
+powerTitle1: "Extend"
+actionEconomy1: 2
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You extend your weapon, giving you an impossible reach. You Strike with the weapon, and you have reach 120 feet for the Strike."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
