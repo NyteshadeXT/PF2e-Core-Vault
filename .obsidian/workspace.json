@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/ToDo List.md",
+                "file": "3-Rules/Character Building/Equipment/F/fade-band.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
-            }
-          },
-          {
-            "id": "a071a598e53b9fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/A/adamantine-object-high-grade.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "adamantine-object-high-grade"
+              "title": "fade-band"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 299.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -263,34 +249,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a071a598e53b9fff",
+  "active": "125ba500f8786646",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/A/adamantine.md",
-    "3-Rules/Character Building/Equipment/A/abysium-armor-high-grade.md",
-    "3-Rules/Character Building/Equipment/A/adamantine-object-high-grade.md",
-    "3-Rules/Character Building/Equipment/A/adamantine-object-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/adamantine-ingot.md",
-    "3-Rules/Character Building/Equipment/A/adamantine-chunk.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/D/dawnsilver.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Character Building/Equipment/A/abysium.md",
-    "3-Rules/Character Building/Equipment/A/abysium-chunk.md",
-    "3-Rules/Character Building/Equipment/A/abysium-ingot.md",
-    "3-Rules/Character Building/Equipment/A/abysium-object-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-object-high-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-armor-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-buckler-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-shield-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-buckler-high-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-shield-high-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-weapon-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-weapon-high-grade.md",
-    "3-Rules/Character Building/Equipment/E/eyes-of-the-cat.md",
-    "3-Rules/Character Building/Equipment/E/eyecatcher.md",
-    "3-Rules/Character Building/Equipment/E/eye-slash-true.md",
-    "3-Rules/Character Building/Equipment/E/eye-slash-major.md",
-    "3-Rules/Character Building/Equipment/E/eye-slash-greater.md",
+    "3-Rules/Character Building/Equipment/F/Fury Cocktail (Greater).md",
+    "3-Rules/Character Building/Equipment/F/Furnace of Endings.md",
+    "3-Rules/Character Building/Equipment/F/Fungal Armor.md",
+    "3-Rules/Character Building/Equipment/F/Fulu Compendium.md",
+    "3-Rules/Character Building/Equipment/F/Frozen Lava.md",
+    "3-Rules/Character Building/Equipment/F/Frostwalker Pattern.md",
+    "3-Rules/Character Building/Equipment/F/Frost (Greater).md",
+    "3-Rules/Character Building/Equipment/F/Frost.md",
+    "3-Rules/Character Building/Equipment/F/frog-chair.md",
+    "3-Rules/Character Building/Equipment/F/Foxglove Token.md",
+    "3-Rules/Character Building/Equipment/F/Fox Marble.md",
+    "3-Rules/Character Building/Equipment/F/Four-Ways Dogslicer.md",
+    "3-Rules/Character Building/Equipment/F/Fossil Fragment (Amber Mosquito).md",
+    "3-Rules/Character Building/Equipment/F/Fortune's Coin.md",
+    "3-Rules/Character Building/Equipment/F/Fortune Cord.md",
+    "3-Rules/Character Building/Equipment/F/Fortress Plate.md",
+    "3-Rules/Character Building/Equipment/F/Fortification (Greater).md",
+    "3-Rules/Character Building/Equipment/F/fortification-(greater).md",
+    "3-Rules/Character Building/Equipment/F/Formulated Sunlight.md",
+    "3-Rules/Character Building/Equipment/F/Formula Book (Blank).md",
+    "3-Rules/Character Building/Equipment/F/Forked Bipod.md",
+    "3-Rules/Character Building/Equipment/F/Forgotten Shell.md",
+    "3-Rules/Character Building/Equipment/F/Forgetful Drops.md",
+    "3-Rules/Character Building/Equipment/F/Force Shield.md",
+    "3-Rules/Character Building/Equipment/F/Follypops.md",
+    "3-Rules/Character Building/Equipment/F/Folding Boat.md",
     "zz-Attachments/exuviae-powder.png",
     "zz-Attachments/extra-lung.png",
     "zz-Attachments/everburning-coal.png",

@@ -911,7 +911,7 @@ The two chokers fight to the death. They attempt to hide at the top of the pile,
 > The chokers hide the remains of their past victims within the debris pile, Here, а DC 15 Search check uncovers the gnawed bones of two morlocks along with a broken morningstar, а leather necklace set with four rubies worth 10 gp, and a Low-Grade Cold Iron Longsword.
 > 
 > - [<] gp::10
-> - [<] permanent::[[Cold Iron Chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
+> - [<] permanent::[[cold-iron-chunk|Low-Grade Cold Iron Longsword]] [ilvl::2] [gp::44]
 
 # Encounter 17: The Bridge
 **Encounter Difficulty:**   

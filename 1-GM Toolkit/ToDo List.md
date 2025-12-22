@@ -5,14 +5,9 @@ tags:
 
 # General ToDos
 - [ ] Update items to new template
-	- Currently on letter 'D'
-	- [ ] Add Adamantine Armors, Bucklers, Object, Shield and Weapon
-	- [ ] Add Abysium Chunk and Ingot
-	- [ ] Add Adamantine Chunk and Ingot
+	- Currently on letter 'F'
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
 	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
-	- [ ] Add Cold Iron Armors, Bucklers, Object, Shield and Weapon
-	- [ ] Add Cold Iron Chunk and Ingot
 	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor

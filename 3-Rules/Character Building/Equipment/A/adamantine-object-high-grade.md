@@ -4,7 +4,7 @@
 #========================================================#
 cssclass: pf2e-items, h-line
 name: "adamantine-object-high-grade"
-aliases: "Adamantine High (Standard Grade)"
+aliases: "Adamantine Object High (Standard Grade)"
 source: "Pathfinder GM Core"
 pg: "253"
 rarity: "uncommon"
@@ -24,7 +24,7 @@ value: "6000"
 subvalue: "gp (per Bulk)"
 invest: 
 usage: ""
-license: ""
+license: "ORC"
 identify: ""
 description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
 activate: ""

@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "cold-iron-armor-high-grade"
+aliases: "Cold Iron Armor (High Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
-rarity: "uncommon"
-trait01: "precious"
+pg: "228"
+rarity: ""
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 18
 group: 
-bulk: "L"
-value: "5000"
-subvalue: "gp"
+bulk: 
+value: "20000"
+subvalue: "gp +2000 gp per Bulk"
 invest: 
 usage: ""
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Cold iron armor sickens certain creatures that touch it. A creature with weakness to cold iron (such as most demons and fey) that critically fails an unarmed attack against a creature in cold iron armor becomes [[sickened|sickened 1]]. A creature with weakness to cold iron is [[sickened|sickened 1]] as long as it wears cold iron armor."
 activate: ""
-craft: 
+craft: "The initial raw materials must include cold iron worth at least 10000 sp + 1000 sp per Bulk."
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: "Adamantine"
+craftBase: "Cold Iron"
 
 ---
 

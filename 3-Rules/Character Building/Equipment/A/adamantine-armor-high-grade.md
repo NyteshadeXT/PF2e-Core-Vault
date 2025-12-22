@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "adamantine-armor-high-grade"
+aliases: "Adamantine Armor High (Standard Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
+pg: "228"
 rarity: "uncommon"
-trait01: "precious"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 19
 group: 
-bulk: "L"
-value: "5000"
-subvalue: "gp"
+bulk: 
+value: "32000"
+subvalue: "gp (+3200 gp per Bulk)"
 invest: 
 usage: ""
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Adamantine armor has a shiny, black appearance and is amazingly durable."
 activate: ""
-craft: 
+craft: "The initial raw materials must include adamantine worth at least 16,000 gp + 1,600 gp per Bulk."
 destruction: 
 
 #========================================================#

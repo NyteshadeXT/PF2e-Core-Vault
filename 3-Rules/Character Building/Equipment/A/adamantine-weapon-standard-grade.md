@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "adamantine-weapon-standard-grade"
+aliases: "Adamantine Weapon (Standard Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
+pg: "240"
 rarity: "uncommon"
-trait01: "precious"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 11
 group: 
-bulk: "L"
-value: "5000"
-subvalue: "gp"
+bulk: 
+value: "1400"
+subvalue: "gp (+140 gp per Bulk)"
 invest: 
 usage: ""
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Adamantine weapons have a shiny black appearance and cut through lesser items with ease. They treat any object they hit as if it had half as much Hardness as usual, unless the object's Hardness is greater than that of the adamantine weapon."
 activate: ""
-craft: 
+craft: "At least 175 gp of adamantine + 17.5 gp per Bulk"
 destruction: 
 
 #========================================================#

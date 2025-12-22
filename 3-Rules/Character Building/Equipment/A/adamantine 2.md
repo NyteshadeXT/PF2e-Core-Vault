@@ -3,8 +3,8 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "adamantine"
+aliases: "Adamantine"
 source: "Pathfinder GM Core"
 pg: "253"
 rarity: "uncommon"
@@ -17,16 +17,29 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 0
 group: 
-bulk: "L"
-value: "5000"
-subvalue: "gp"
+bulk: 
+value: ""
+subvalue: ""
 invest: 
 usage: ""
-license: "ORC"
+license: ""
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: |
+  Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge.
+
+  | **Adamantine Items** | **Hardness** | **HP** | **BT** |
+  | -------------------- | ------------ | ------ | ------ |
+  | **Thin Items**       |              |        |        |
+  | Standard-grade       | 10           | 40     | 20     |
+  | High-grade           | 13           | 52     | 26     |
+  | **Items**            |              |        |        |
+  | Standard-grade       | 14           | 56     | 28     |
+  | High-grade           | 17           | 68     | 34     |
+  | **Structure**        |              |        |        |
+  | Standard-grade       | 28           | 112    | 56     |
+  | High-grade           | 34           | 136    | 68     |
 activate: ""
 craft: 
 destruction: 
@@ -134,7 +147,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: "Adamantine"
+craftBase: 
 
 ---
 
@@ -142,3 +155,19 @@ craftBase: "Adamantine"
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(craftBase, "Adamantine")
+SORT level ASC
+
+```
+
+

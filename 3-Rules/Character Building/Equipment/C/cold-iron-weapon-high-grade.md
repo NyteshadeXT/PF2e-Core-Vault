@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "cold-iron-weapon-high-grade"
+aliases: "Cold Iron Weapon (High Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
-rarity: "uncommon"
-trait01: "precious"
+pg: "240"
+rarity: ""
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 16
 group: 
-bulk: "L"
-value: "5000"
-subvalue: "gp"
+bulk: 
+value: "9000"
+subvalue: "gp +900 gp per Bulk"
 invest: 
 usage: ""
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Cold iron weapons deal additional damage to creatures with weakness to cold iron, like demons and fey."
 activate: ""
-craft: 
+craft: "At least 4500 gp of cold iron +450 gp per Bulk"
 destruction: 
 
 #========================================================#
@@ -134,7 +134,7 @@ will:
 weaponBase:
 armorBase:
 shieldBase:
-craftBase: "Adamantine"
+craftBase: "Cold Iron"
 
 ---
 

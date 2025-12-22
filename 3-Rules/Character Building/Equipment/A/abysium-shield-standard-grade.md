@@ -100,7 +100,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 2
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -131,7 +131,7 @@ will:
 #========================================================#
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Steel Shield"
 armorBase:
 shieldBase:
 craftBase: "Abysium"

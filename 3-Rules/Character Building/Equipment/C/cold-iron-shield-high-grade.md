@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "cold-iron-shield-high-grade"
+aliases: "Cold Iron Shield (high Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
-rarity: "uncommon"
-trait01: "precious"
+pg: "233"
+rarity: ""
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 15
 group: 
-bulk: "L"
+bulk: "1"
 value: "5000"
 subvalue: "gp"
 invest: 
-usage: ""
+usage: "varies by shield"
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Cold iron shields don't typically have an additional effect, though when used for a shield bash, they're cold iron weapons."
 activate: ""
-craft: 
+craft: "Cold iron worth at least 2750 gp"
 destruction: 
 
 #========================================================#
@@ -100,7 +100,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 1
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -109,9 +109,9 @@ armorCategory:
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+hardness: 10
+hp: 40
+bt: 20
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -133,8 +133,8 @@ will:
 #========================================================#
 weaponBase:
 armorBase:
-shieldBase:
-craftBase: "Adamantine"
+shieldBase: "Steel Shield"
+craftBase: "Cold Iron"
 
 ---
 

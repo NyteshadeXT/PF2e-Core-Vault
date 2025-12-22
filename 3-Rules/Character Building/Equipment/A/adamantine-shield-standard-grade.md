@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "adamantine-ingot"
-aliases: "Adamantine Ingot"
+name: "adamantine-shield-standard-grade"
+aliases: "Adamantine Shield (Standard Grade)"
 source: "Pathfinder GM Core"
-pg: "253"
+pg: "233"
 rarity: "uncommon"
-trait01: "precious"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,18 +17,18 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+level: 18
 group: 
-bulk: "L"
-value: "5000"
+bulk: "1"
+value: "440"
 subvalue: "gp"
 invest: 
-usage: ""
+usage: "varies by shield"
 license: "ORC"
 identify: ""
-description: "Mined from rocks that fell from the heavens, adamantine is one of the hardest metals known. It has a shiny, black appearance, and it is prized for its amazing resiliency and ability to hold an incredibly sharp edge."
+description: "Adamantine shields are particularly sturdy, and when used for a shield bash, they're adamantine weapons."
 activate: ""
-craft: 
+craft: "Adamantine worth at least 55 gp"
 destruction: 
 
 #========================================================#
@@ -100,7 +100,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 2
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -109,9 +109,9 @@ armorCategory:
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+hardness: 10
+hp: 40
+bt: 20
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -133,7 +133,7 @@ will:
 #========================================================#
 weaponBase:
 armorBase:
-shieldBase:
+shieldBase: "Steel Shield"
 craftBase: "Adamantine"
 
 ---

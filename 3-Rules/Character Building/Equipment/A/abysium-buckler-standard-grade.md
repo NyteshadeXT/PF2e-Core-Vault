@@ -100,7 +100,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 1
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -133,7 +133,7 @@ will:
 #========================================================#
 weaponBase:
 armorBase:
-shieldBase:
+shieldBase: "Buckler"
 craftBase: "Abysium"
 
 ---
