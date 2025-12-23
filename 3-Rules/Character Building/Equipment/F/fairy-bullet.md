@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "fairy-bullet"
 aliases: "Fairy Bullet"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "170"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "fey"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** round  **Activate** `pf2:2` (concentrate)  * * *  These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[Spells/Revealing Light|Revealing Light]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_ if the target is [[Conditions/Hidden|Hidden]] from you."
+activate: "`pf2:2` ([[concentrate]])"
+description: "These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful Strike, a _fairy bullet_ casts [[Revealing Light]] (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated Strike. Since the _fairy bullet_ is fired before _revealing light_ can reveal the target, the effects don't affect the flat check for the attack roll with the _fairy bullet_ if the target is [[Hidden]] from you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Firearm Round"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

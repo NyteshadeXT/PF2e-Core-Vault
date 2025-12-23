@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "fade-band"
 aliases: "Fade Band"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:r` (concentrate)  **Trigger** An attack misses you  **Requirements** You are trained in Stealth  * * *  This thin, silvery wire wraps around your armor. When you activate the band, it casts a 2nd-rank [[Spells/Invisibility|Invisibility]] spell on you."
+description: "This thin, silvery wire wraps around your armor."
 powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+actionEconomy1: r
+type1: "([[concentrate]])"
+frequency1: "An attack misses you"
+requirement1: "You are trained in [[Skills#Stealth|Stealth]]"
 trigger1:
-mechanics1:
+mechanics1: "When you activate the band, it casts a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell on you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

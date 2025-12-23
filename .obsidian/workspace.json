@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/A/abysium-chunk.md",
-                "mode": "source",
+                "file": "3-Rules/Character Building/Equipment/F/Fake Blood Pack.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "abysium-chunk"
+              "title": "Fake Blood Pack"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/F/fade-band.md",
+                "file": "1-GM Toolkit/ToDo List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "fade-band"
+              "title": "ToDo List"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +248,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "125ba500f8786646",
+  "active": "64122f5a8acbc756",
   "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/F/faith-tattoo-true.md",
+    "3-Rules/Character Building/Equipment/F/faith-tattoo-major.md",
+    "3-Rules/Character Building/Equipment/F/faith-tattoo-greater.md",
+    "3-Rules/Character Building/Equipment/F/faith-tattoo.md",
+    "3-Rules/Character Building/Equipment/F/fairy-bullet.md",
+    "3-Rules/Character Building/Equipment/F/faerie-queens-bower.md",
+    "3-Rules/Character Building/Equipment/F/faerie-dragonet-liqueur-lesser.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Attachments/faerie-queens-bower.png",
+    "3-Rules/Character Building/Equipment/F/faerie-dragonet-liqueur-greater.md",
+    "3-Rules/Character Building/Equipment/F/faerie-dragonet-liqueur.md",
+    "3-Rules/Character Building/Equipment/F/fade-band.md",
+    "3-Rules/Character Building/Equipment/A/abysium-chunk.md",
+    "1-GM Toolkit/ToDo List.md",
     "3-Rules/Character Building/Equipment/F/Fury Cocktail (Greater).md",
     "3-Rules/Character Building/Equipment/F/Furnace of Endings.md",
     "3-Rules/Character Building/Equipment/F/Fungal Armor.md",
@@ -264,19 +277,6 @@
     "3-Rules/Character Building/Equipment/F/Fox Marble.md",
     "3-Rules/Character Building/Equipment/F/Four-Ways Dogslicer.md",
     "3-Rules/Character Building/Equipment/F/Fossil Fragment (Amber Mosquito).md",
-    "3-Rules/Character Building/Equipment/F/Fortune's Coin.md",
-    "3-Rules/Character Building/Equipment/F/Fortune Cord.md",
-    "3-Rules/Character Building/Equipment/F/Fortress Plate.md",
-    "3-Rules/Character Building/Equipment/F/Fortification (Greater).md",
-    "3-Rules/Character Building/Equipment/F/fortification-(greater).md",
-    "3-Rules/Character Building/Equipment/F/Formulated Sunlight.md",
-    "3-Rules/Character Building/Equipment/F/Formula Book (Blank).md",
-    "3-Rules/Character Building/Equipment/F/Forked Bipod.md",
-    "3-Rules/Character Building/Equipment/F/Forgotten Shell.md",
-    "3-Rules/Character Building/Equipment/F/Forgetful Drops.md",
-    "3-Rules/Character Building/Equipment/F/Force Shield.md",
-    "3-Rules/Character Building/Equipment/F/Follypops.md",
-    "3-Rules/Character Building/Equipment/F/Folding Boat.md",
     "zz-Attachments/exuviae-powder.png",
     "zz-Attachments/extra-lung.png",
     "zz-Attachments/everburning-coal.png",
@@ -285,7 +285,6 @@
     "zz-Attachments/energizing-lattice.png",
     "zz-Attachments/elven-chain.png",
     "zz-Attachments/elixir-of-rejuvenation.png",
-    "zz-Attachments/elixir-of-life.png",
-    "zz-Attachments/earthbreaker.png"
+    "zz-Attachments/elixir-of-life.png"
   ]
 }

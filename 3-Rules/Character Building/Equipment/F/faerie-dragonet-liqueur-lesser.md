@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "faerie-dragon-liqueur-(adult)"
-aliases: "Faerie Dragon Liqueur (Adult)"
+name: "faerie-dragonet-liqueur-lesser"
+aliases: "Faerie Dragonet Liqueur (Lesser)"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "89"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "potion"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 12
+level: 7
 weight: L
-value: "400"
+value: "70"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Each draft of faerie dragon liqueur has a different flavor. For 1 hour after you drink it, you can use a single action to breathe out a 15-foot cone of euphoric gas. Each creature in the cone must attempt a DC 29 Will check save. After you use this breath weapon, you can't do so again for 1d4 rounds.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is [[Conditions/Stupefied|Stupefied 1]] for 1 round.  **Failure** The creature is stupefied 1 for 1 minute and [[Conditions/Slowed|Slowed 1]] for 1d4 rounds.  **Critical Failure** The creature is [[Conditions/Stupefied|Stupefied 2]] and slowed 1 for 1 minute."
+activate: "`pf2:1` [[Interact]]"
+description: "Interact  Each draft of faerie dragon liqueur has a different flavor. For 1 hour after you drink it, you can use a single action to breathe out a 15-foot cone of euphoric gas. Each creature in the cone must attempt a DC 23 Will check save. After you use this breath weapon, you can't do so again for `dice: 1d4` rounds.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Stupefied|Stupefied 1]] for 1 round.\n**Failure** The creature is stupefied 1 for 1 minute and [[Slowed|Slowed 1]] for `dice: 1d4` rounds.\n**Critical Failure** The creature is [[Stupefied|Stupefied 2]] and slowed 1 for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
