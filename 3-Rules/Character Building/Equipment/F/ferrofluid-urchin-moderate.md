@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "feather-token-(ladder)-(ammunition)"
-aliases: "Feather Token (Ladder) (Ammunition)"
-source: "Pathfinder Core Rulebook"
-pg: ""
+name: "ferrofluid-urchin-moderate"
+aliases: "Ferrofluid Urchin (Moderate)"
+source: "Pathfinder Rage of Elements"
+pg: "146"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
-trait04: ""
+trait03: "metal"
+trait04: "talisman"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: 
-value: "6"
+image: zz-Attachments/ferrofluid-urchin.png
+level: 11
+weight: L
+value: "225"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "affixed to medium heavy metal armor"
 license: "ORC"
 identify:
-description: "Each feather token appears to be a simple feather from some exotic bird. The feather's shaft, dipped in gold, bears a single arcane rune. Activating a feather token causes it to transform into another object, which then can be used as normal for that object. Each feather can be activated only once, with most of them permanently becoming the item in their description.  **Activate** `pf2:1` Strike from a ranged weapon  When activated, this feather transforms permanently into a 20-foot-long wooden ladder."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This spiky glob of magnetic liquid attaches directly onto the metal of your armor. "
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You take physical damage."
+mechanics1: "When you activate the globule, it reshapes to deflect the incoming harm. You gain resistance 6 to the triggering damage. This talisman only functions when you have the armor specialization effect of the affixed armor."
 powerTitle2:
 actionEconomy2:
 type2:

@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "ferrofluid-urchin-(greater)"
-aliases: "Ferrofluid Urchin (Greater)"
-source: "Pathfinder Rage of Elements"
-pg: ""
-rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "metal"
-trait04: "talisman"
-trait05: "common"
+name: "feral-linguist-greater"
+aliases: "Feral Linguist (Greater)"
+source: "Pathfinder #202: Severed at the Root"
+pg: "78"
+rarity: "uncommon"
+trait01: "catalyst"
+trait02: "consumable"
+trait03: "magical"
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 15
+image: zz-Attachments/feral-linguist.png
+level: 8
 weight: L
-value: "925"
+value: "85"
 subvalue: "gp"
 invest:
-usage: "affixed to medium heavy metal armor"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Prerequisites** You have the armor specialization effect of the affixed armor  **Trigger** You take physical damage.  * * *  This spiky glob of magnetic liquid attaches directly onto the metal of your armor. When you activate the globule, it reshapes to deflect the incoming harm. You gain resistance 10 to the triggering damage."
+activate: "Cast a Spell (add 1 action)"
+description: "This wooden whistle is stuffed with cotton and carved with images of bellowing stags, howling wolves, and chirping birds. You can blow on this whistle to use it as a catalyst when casting an [[Animal Form]] spell. When you do, you retain the ability to speak.  Once during the spell's duration, you can cast either a spell of 4th-rank or lower or a cantrip of any level, ignoring the inability to cast spells while in your battle form."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

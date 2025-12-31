@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "fearsome-(greater)"
 aliases: "Fearsome (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "237"
 rarity: ""
 trait01: "emotion"
 trait02: "fear"
 trait03: "magical"
 trait04: "mental"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "When you critically hit with this weapon, the target becomes [[Conditions/Frightened|Frightened 2]]."
+description: "When you critically hit with this weapon, the target becomes [[Frightened|Frightened 2]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

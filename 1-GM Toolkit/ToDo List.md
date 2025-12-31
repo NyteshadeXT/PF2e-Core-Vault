@@ -48,6 +48,7 @@ tags:
 - [ ] Energy Resistant runes need to drop with an energy type
 - [ ] Essence Charm should have a skill that it drops with
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
+- [ ] Remove Feather Tokens.  They've been replaced by Marvelous Miniatures
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

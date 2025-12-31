@@ -3,32 +3,32 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "fearweed"
-aliases: "Fearweed"
-source: "Pathfinder #160: Assault on Hunting Lodge Seven"
-pg: "66"
+name: "false-manacles"
+aliases: "False Manacles"
+source: "Pathfinder PFS Guide"
+pg: "114"
 rarity: "uncommon"
-trait01: "consumable"
-trait02: "contact"
-trait03: "divine"
-trait04: "poison"
+trait01: ""
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 0
 group: 
-bulk: "L"
-value: "160"
+bulk: 
+value: "10"
 subvalue: "gp"
 invest: 
-usage: "held in two hands"
-license: ""
+usage: "two hand"
+license: "OGL"
 identify: ""
-description: "Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, _fearweed_ is a greenish paste magically infused with psychic horror. The [[frightened]] condition from _fearweed_ can't be removed while the poison lasts.\n\n**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** `dice: 7d6` poison damage and [[frightened|frightened 1]] (1 minute); **Stage 2** `dice: 8d6` poison damage and [[frightened|frightened 2]] (1 minute); **Stage 3** `dice: 9d6` poison damage and [[Frightened|frightened 3]] (1 minute)"
+description: "These manacles are nearly indistinguishable from real manacles upon inspection, but contain a hidden release that enables a wearer who knows the location of the release to free themselves with a single Interact action. An observer who examines the manacles and succeeds at a DC 20 [[Skills#Perception|Perception]] check notices their false nature. On a critical success, the observer finds the location of the hidden catch as well."
 activate: ""
-craft: "Supply one casting of 4th-level [[3-Rules/Character Building/Spells/F/Fear|Fear]]."
+craft: 
 destruction: 
 
 #========================================================#

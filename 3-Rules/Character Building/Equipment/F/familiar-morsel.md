@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "familiar-morsel"
 aliases: "Familiar Morsel"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "96"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/familiar-morsel.png
 level: 5
 weight: 
 value: "30"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Familiar morsels are little treats that come in a wide variety of flavors that appeal to numerous creatures. Each morsel is keyed to one familiar ability at its creation. When you feed the morsel to your familiar, it gains that familiar ability for 1 hour. If your familiar doesn't meet the requirements, or if it already has an ability from a familiar morsel, the morsel is nothing more than a pleasing snack, its magic wasted."
+activate: "`pf2:1` [[Interact]]"
+description: "Familiar morsels are little treats that come in a wide variety of flavors that appeal to numerous creatures. Each morsel is keyed to one familiar ability at its creation. When you feed the morsel to your familiar, it gains that familiar ability for 1 hour. If your familiar doesn't meet the requirements, or if it already has an ability from a familiar morsel, the morsel is nothing more than a pleasing snack, its magic wasted."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "feather-step-stone"
 aliases: "Feather Step Stone"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "264"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You Stride or Step  **Requirements** You are trained in Acrobatics  * * *  This stone, usually shaped as a cabochon, is a small chunk of amber with a bit of feather or a flying insect caught within it. When you activate the stone, you ignore the effects of any difficult terrain and greater difficult terrain you move through until the end of your turn."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This stone, usually shaped as a cabochon, is a small chunk of amber with a bit of feather or a flying insect caught within it. "
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "([[concentrate]])"
+frequency1: 
+trigger1: "You Stride or Step"
+requirement1: "You are trained in [[Skills#Acrobatics|Acrobatics]]"
+mechanics1: "When you activate the stone, you ignore the effects of any difficult terrain and greater difficult terrain you move through until the end of your turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

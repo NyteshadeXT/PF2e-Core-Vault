@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "feral-linguist"
 aliases: "Feral Linguist"
 source: "Pathfinder #202: Severed at the Root"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "uncommon"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/feral-linguist.png
 level: 1
 weight: L
 value: "3"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  * * *  This wooden whistle is stuffed with cotton and carved with images of bellowing stags, howling wolves, and chirping birds. You can blow on this whistle to use it as a catalyst when casting an [[Spells/Animal Form|Animal Form]] spell. When you do, you retain the ability to speak, though this doesn't allow you to cast spells."
+activate: "Cast a Spell (add 1 action)"
+description: "This wooden whistle is stuffed with cotton and carved with images of bellowing stags, howling wolves, and chirping birds. You can blow on this whistle to use it as a catalyst when casting an [[Animal Form]] spell. When you do, you retain the ability to speak, though this doesn't allow you to cast spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

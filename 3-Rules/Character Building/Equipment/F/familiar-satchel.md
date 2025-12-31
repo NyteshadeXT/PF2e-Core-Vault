@@ -3,32 +3,32 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "fearweed"
-aliases: "Fearweed"
-source: "Pathfinder #160: Assault on Hunting Lodge Seven"
-pg: "66"
+name: "familiar-satchel"
+aliases: "Familiar Satchel"
+source: "Pathfinder PFS Guide"
+pg: "114"
 rarity: "uncommon"
-trait01: "consumable"
-trait02: "contact"
-trait03: "divine"
-trait04: "poison"
+trait01: ""
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 0
 group: 
-bulk: "L"
-value: "160"
+bulk: 1
+value: "5"
 subvalue: "gp"
 invest: 
-usage: "held in two hands"
+usage: ""
 license: ""
 identify: ""
-description: "Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, _fearweed_ is a greenish paste magically infused with psychic horror. The [[frightened]] condition from _fearweed_ can't be removed while the poison lasts.\n\n**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** `dice: 7d6` poison damage and [[frightened|frightened 1]] (1 minute); **Stage 2** `dice: 8d6` poison damage and [[frightened|frightened 2]] (1 minute); **Stage 3** `dice: 9d6` poison damage and [[Frightened|frightened 3]] (1 minute)"
+description: "This armored case is made to protect any Tiny or smaller creature contained within. It includes air holes (which can be plugged with cork stoppers for underwater travel) and two receptacles for food and water. Any creature inside has neither line of sight nor line of effect to the outside world but also cannot be targeted by attacks that require a line of effect while in the satchel. However, an area effect that deals enough damage to break the case also damages the creature inside. The satchel is made of leather (Hardness 4, HP 16, BT 8). A creature can enter or exit the satchel by using a total of 2 actions: an Interact action to open the satchel and a single action with the move trait to enter or exit."
 activate: ""
-craft: "Supply one casting of 4th-level [[3-Rules/Character Building/Spells/F/Fear|Fear]]."
+craft: 
 destruction: 
 
 #========================================================#

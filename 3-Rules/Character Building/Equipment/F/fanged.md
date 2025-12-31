@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "festrem-mortu"
-aliases: "Festrem Mortu"
-source: "Pathfinder #194: Cult of the Cave Worm"
-pg: "79"
+name: "fanged"
+aliases: "Fanged"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "106"
 rarity: "uncommon"
-trait01: "cursed"
-trait02: "grimoire"
-trait03: "magical"
+trait01: "magical"
+trait02: ""
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
-weight: L
-value: "230"
+level: 2
+weight: 
+value: "30"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "etched onto melee weapon"
 license: "ORC"
 identify:
-description: "The book's cover is a patchwork of tanned humanoid skin that reeks of rotting meat. The longer a living creature studies this book, the more the scent of decay appeals to them. If this grimoire is used to prepare spells five days in succession by the same caster, that caster is subjected to the curse of the ravenous.  \n\n**Curse of the Ravenous**  This hideous curse kills through constant hunger. You become gaunt and repeatedly gnash your teeth.  **Saving Throw** DC 20 Fortitude check  * * *  **Effect** No matter how much you eat, you aren't satiated. After 1 day, you begin starving. Each week, you receive a new saving throw against the curse."
+description: "When etched with this rune, a weapon's hilt or haft becomes engraved with grooves that match the imprints of a wolf's teeth. By putting a _fanged_ weapon in your mouth, you can transform into an animal."
 powerTitle1: "Effect"
-actionEconomy1: r
-type1: "([[concentrate]], [[necromancy]])"
-frequency1: "once per day"
-trigger1: "Your last action was to cast a necromancy spell prepared from this grimoire"
-mechanics1: "You draw void energy from the triggering spell. You gain 10 temporary hit points that last for 1 hour."
+actionEconomy1: 1
+type1: "[[Interact]] ([[magical]], [[polymorph]], [[transmutation]])"
+frequency1:
+trigger1:
+mechanics1: "You transform into a Small or Medium animal that wields the _fanged_ weapon in its jaws; the animal matches the animal you are most closely associated with (a lizardfolk would turn into a lizard, a kitsune into a fox, a deer instinct barbarian into a deer, etc.) or a wolf if no specific animal is applicable. While in this form, you can attack with the _fanged_ weapon even though you don't have any hands. However, you can attack only with the _fanged_ weapon and you don't have hands or the ability to hold items. For effects dependent on how many hands you are using to hold the item, such as the two-hand trait, you are holding the weapon in two hands. You can [[Dismiss]] this effect, and it ends automatically if you drop the _fanged_ weapon (whether or not of your own volition)."
 powerTitle2:
 actionEconomy2:
 type2:

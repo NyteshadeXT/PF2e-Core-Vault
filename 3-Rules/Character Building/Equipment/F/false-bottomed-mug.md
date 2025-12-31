@@ -3,32 +3,32 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "fearweed"
-aliases: "Fearweed"
-source: "Pathfinder #160: Assault on Hunting Lodge Seven"
-pg: "66"
+name: "false-bottomed-mug"
+aliases: "False-Bottomed Mug"
+source: "Pathfinder Dark Archive"
+pg: "82"
 rarity: "uncommon"
-trait01: "consumable"
-trait02: "contact"
-trait03: "divine"
-trait04: "poison"
+trait01: ""
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 0
 group: 
 bulk: "L"
-value: "160"
-subvalue: "gp"
+value: "5"
+subvalue: "sp"
 invest: 
-usage: "held in two hands"
-license: ""
+usage: "held in one hand"
+license: "OGL"
 identify: ""
-description: "Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, _fearweed_ is a greenish paste magically infused with psychic horror. The [[frightened]] condition from _fearweed_ can't be removed while the poison lasts.\n\n**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** `dice: 7d6` poison damage and [[frightened|frightened 1]] (1 minute); **Stage 2** `dice: 8d6` poison damage and [[frightened|frightened 2]] (1 minute); **Stage 3** `dice: 9d6` poison damage and [[Frightened|frightened 3]] (1 minute)"
+description: "This mug looks like any other; however, the bottom part unscrews to reveal a velvet-lined chamber. These are primarily used by members of the Bellflower Network to sneak messages and small objects to other possible members. The [[Skills#Perception|Perception]] DC to discover the false bottom is 15 if someone specifically examines the mug."
 activate: ""
-craft: "Supply one casting of 4th-level [[3-Rules/Character Building/Spells/F/Fear|Fear]]."
+craft: 
 destruction: 
 
 #========================================================#

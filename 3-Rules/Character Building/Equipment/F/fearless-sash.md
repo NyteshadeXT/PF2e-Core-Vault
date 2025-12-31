@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "fearless-sash"
 aliases: "Fearless Sash"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "146"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/fearless-sash.png
 level: 7
 weight: 
 value: "325"
@@ -26,13 +26,13 @@ invest:
 usage: "wornbelt"
 license: "ORC"
 identify:
-description: "A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against fear.  **Activate** `pf2:1` command  **Frequency** once per day  * * *  **Effect** You and each ally in a 5-foot emanation reduce your [[Conditions/Frightened|Frightened]] values by 1."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "A feeling of security radiates out from this sash made of fine yellow fabric. You gain a +1 status bonus to saves against fear."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You and each ally in a 5-foot emanation reduce your [[Frightened]] values by 1."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

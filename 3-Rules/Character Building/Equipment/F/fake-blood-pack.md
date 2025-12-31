@@ -3,32 +3,32 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "fearweed"
-aliases: "Fearweed"
-source: "Pathfinder #160: Assault on Hunting Lodge Seven"
-pg: "66"
-rarity: "uncommon"
+name: "fake-blood-pack"
+aliases: "Fake Blood Pack"
+source: "Pathfinder Lost Omens Rival Academies"
+pg: "56"
+rarity: ""
 trait01: "consumable"
-trait02: "contact"
-trait03: "divine"
-trait04: "poison"
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 0
 group: 
 bulk: "L"
-value: "160"
+value: "1"
 subvalue: "gp"
 invest: 
-usage: "held in two hands"
-license: ""
+usage: "worn under light armor or clothes"
+license: "ORC"
 identify: ""
-description: "Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, _fearweed_ is a greenish paste magically infused with psychic horror. The [[frightened]] condition from _fearweed_ can't be removed while the poison lasts.\n\n**Saving Throw** DC 30 Fortitude; **Onset** 1 minute; **Maximum Duration** 6 minutes; **Stage 1** `dice: 7d6` poison damage and [[frightened|frightened 1]] (1 minute); **Stage 2** `dice: 8d6` poison damage and [[frightened|frightened 2]] (1 minute); **Stage 3** `dice: 9d6` poison damage and [[Frightened|frightened 3]] (1 minute)"
+description: "Adventurers have found a number of uses for these animal blood–filled bladders, which were originally used in theatrical productions. Whenever you take slashing or piercing damage with the fake blood pack under your clothes or armor, roll a DC 11 flat check. On a success, the blood pack is punctured. You or an ally can puncture the hidden pack intentionally with an Interact action. When faking an injury, a punctured blood pack grants a +2 item bonus to relevant [[Skills#Deception|Deception]] checks, such as to [[Lie]] about being injured, for 4 hours after the pack has been punctured or until the blood is washed off, whichever comes first. Abilities that trigger when a creature deals bleed damage, that determine if a creature is bleeding, or are otherwise based on bleed damage don’t trigger or apply for blood from a fake blood pack, which might mean creatures with such abilities automatically realize the ruse."
 activate: ""
-craft: "Supply one casting of 4th-level [[3-Rules/Character Building/Spells/F/Fear|Fear]]."
+craft: 
 destruction: 
 
 #========================================================#

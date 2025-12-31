@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "falconsight-eye"
 aliases: "Falconsight Eye"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "108"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This prosthetic eye resembles that of a bird of prey. Along with the abilities of the _magical prosthetic eye_, it allows you to strike foes at greater range and with impressive accuracy.  **Activate** `pf2:1` envision  **Frequency** once per hour  * * *  **Effect** You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the [[Conditions/Blinded|Blinded]] condition."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This prosthetic eye resembles that of a bird of prey. Along with the abilities of the _magical prosthetic eye_, it allows you to strike foes at greater range and with impressive accuracy."
+powerTitle1: "Effect"
+actionEconomy1: 1
+type1: "([[envision]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You become keenly aware of your foes, even those seemingly out of reach. For 1 minute, you can close your eyes as a free action to see through a ranged weapon you're wielding, which reduces the penalty for firing into your weapon's second range increment from –2 to 0. This effect doesn't negate the [[Blinded]] condition."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

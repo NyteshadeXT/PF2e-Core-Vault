@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "familiar-tattoo"
 aliases: "Familiar Tattoo"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "164"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

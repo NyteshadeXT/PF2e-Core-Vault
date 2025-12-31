@@ -1,27 +1,81 @@
 ---
-obsidianUIMode: preview
-title: "Fearsome"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/emotion
-  - trait/fear
-  - trait/magical
-  - trait/mental
-  - trait/common
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.P6v2AtJw7AUwaDzf"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "fearsome"
+aliases: "Fearsome"
+source: "Pathfinder GM Core"
+pg: "237"
+rarity: ""
+trait01: "emotion"
+trait02: "fear"
+trait03: "magical"
+trait04: "mental"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 5
+weight: 
+value: "160"
+subvalue: "gp"
+invest:
+usage: "etched onto a weapon"
+license: "ORC"
+identify:
+description: "When you critically hit with this weapon, the target becomes [[Frightened|Frightened 1]]."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Fearsome
-## Item 5
-### [[emotion]][[fear]][[magical]][[3-Rules/Trait Reference/M/mental]]
 
-
-**Price** 160 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-a-weapon
-
-When you critically hit with this weapon, the target becomes [[Frightened|Frightened 1]].
-
-*Source: Pathfinder GM Core*
-*ORC*
+```meta-bind-embed
+[[Item Card Template]]
+```
