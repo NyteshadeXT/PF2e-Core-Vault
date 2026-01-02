@@ -390,7 +390,7 @@ Navigating this chamber is quite dangerous. Moving at half speed across the wood
 The far wall of this chamber used to contain doors for accepting river cargo, but these have been boarded over. The only exit out of this chamber is a door out of sight when the PCs first enter. This door is locked, requiring a DC 25 [[Skills#Thievery|Thievery]] check to open.
 
 ```encounter
-name: D7 Ccollapsed Chamber
+name: D7 Collapsed Chamber
 party: Age of Worms
 creatures:
   - 2: Phade
@@ -452,14 +452,13 @@ All four doors on the southern wall are locked, requiring a DC 23 [[Skills#Thiev
 > [[devious-spiked-pit-hb|Devious Spiked Pit]]
 
 #### D11. Sleeping Quarters
-
-торе packed with different styles of cloth- ing All of the outfits in the Players Hand- book can be found in one of the rooms.
+These rooms are practically identical.  Each contains two comfortable beds, a washbasin, two full-length mirrors, and a large wardrobe packed with different styles of clothing. All of the outfits in the Players Handbook can be found in one of the rooms.
 
 ```encounter
 name: D11 Sleeping Quarters
 party: Age of Worms
 creatures:
-  - 2: Doppleganger Fighter
+  - 2: Doppelganger Fighter
 ```
 
 Two doppelgangers are in each of these rooms at any given time, home from covert operations around the [[Ardentia City]]. If not asleep, they are busy practicing one guise or another, trying on various outfits and altering their form.
@@ -590,7 +589,7 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 
 #### D18. Telakín's Sanctum
 > [!note]+ Read Aloud
-> Behind the throne is a small chamber filled with ostentatious accoutrements. There is а bed, wardrobe, desk, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
+> Behind the throne is a small chamber filled with ostentatious accoutrements. There is а bed, wardrobe, desk, chest, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
 
 > [!tip]+ Treasure
 > The rug is a minor magic item that is worth 50 gp but does nothing more than change patterns.

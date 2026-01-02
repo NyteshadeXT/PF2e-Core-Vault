@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3-Rules/Character Building/Equipment/F/Field Guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -48,8 +48,51 @@
               "icon": "lucide-file",
               "title": "Insert Item"
             }
+          },
+          {
+            "id": "f5590ead26f763b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Hall of Harsh Reflections"
+            }
+          },
+          {
+            "id": "cdd814c0b0e2046a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/D/doppelganger-fighter.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "doppelganger-fighter"
+            }
+          },
+          {
+            "id": "5c8cf4d4a21dd21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Party/Age of Worms/Akiowen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Akiowen"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/distracting-carapace.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for distracting-carapace"
+              "title": "Backlinks for The Hall of Harsh Reflections"
             }
           },
           {
@@ -219,11 +262,28 @@
               "title": "Dice Tray"
             }
           }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "08e1ec96293864fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "447d4703c25d05a1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 540.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -248,8 +308,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f9dfcb6e218ec63",
+  "active": "f5590ead26f763b3",
   "lastOpenFiles": [
+    "3-Rules/Bestiaries/Homebrew/D/doppelganger-fighter.md",
+    "3-Rules/Bestiaries/Homebrew/D/dolgrim.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "3-Rules/Hazards/Homebrew/devious-spiked-pit-hb.md",
+    "3-Rules/Hazards/Homebrew/hidden-pit-upgrade-hb.md",
+    "3-Rules/Character Building/Equipment/F/Field Guide.md",
     "3-Rules/Character Building/Equipment/F/fiddle-of-the-maestro.md",
     "3-Rules/Character Building/Equipment/F/feyfoul-moderate.md",
     "3-Rules/Character Building/Equipment/F/feyfoul-lesser.md",
@@ -272,14 +339,7 @@
     "3-Rules/Character Building/Equipment/F/feather-step-stone.md",
     "3-Rules/Character Building/Equipment/F/feather-token-(holly-bush)-(ammunition).md",
     "3-Rules/Character Building/Equipment/F/feather-token-(anchor).md",
-    "3-Rules/Character Building/Equipment/F/feast-of-hungry-ghosts.md",
-    "3-Rules/Character Building/Equipment/F/fearweed.md",
-    "3-Rules/Character Building/Equipment/F/fearsome-(greater).md",
-    "3-Rules/Character Building/Equipment/F/Fearsome.md",
-    "3-Rules/Character Building/Equipment/F/fearless-sash.md",
     "zz-Attachments/fearless-sash.png",
-    "3-Rules/Character Building/Equipment/F/fearflower-nectar.md",
-    "3-Rules/Character Building/Equipment/F/fear-gem.md",
     "zz-Attachments/fearcracker.png",
     "zz-Attachments/faydhaans-dallah.png",
     "zz-Attachments/fangwire.png",

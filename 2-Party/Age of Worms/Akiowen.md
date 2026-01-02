@@ -8,7 +8,9 @@ Status: Active
 Player: Cali
 pronounced: a-ki-o-wen
 Class: Rogue
-level: 4
+level: 7
+hp: 70
+ac: 21
 Ancestry: tengu
 gender: Female
 age: Young Adult

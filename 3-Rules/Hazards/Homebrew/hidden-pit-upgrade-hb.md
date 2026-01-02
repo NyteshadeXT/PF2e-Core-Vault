@@ -20,7 +20,7 @@ aliases: ["Hidden Pit (Upgraded)"]
 
 **Disable** DC 25 [[Skills#Thievery|Thievery]] to brace the false floor or jam the release mechanism from a safe edge.
 
-**Collapsing Cover** `pf2:r` **Trigger**: A creature steps onto the concealed panel. **Effect** The floor gives way. The triggering creature falls 30 feet, taking `dice: 3d6` bludgeoning damage. The creature can attempt a DC 25 basic Reflex save to [[Rules/Skills#Grab an Edge|Grab an Edge]] before falling; on a success, it stops at the edge and doesn’t fall. If it falls to the bottom, it lands on spikes for `dice: 4d10` piercing damage. On a critical failure on the Reflex save, the creature falls prone and takes double spike damage.
+**Collapsing Cover** `pf2:r` **Trigger**: A creature steps onto the concealed panel. **Effect** The floor gives way. The triggering creature falls 30 feet, taking `dice: 3d6` bludgeoning damage. The creature can attempt a DC 25 basic Reflex save to [[Rules/Skills#Grab an Edge|Grab an Edge]] before falling; on a success, it stops at the edge and doesn’t fall. If it falls to the bottom, it lands on spikes for `dice: 4d10` piercing damage.
 
 **Getting Out** Creatures in the pit can climb out with a DC 23 [[Skills#Athletics|Athletics]] (Climb) check. The pit’s smooth walls don’t allow Take 10/Assurance to bypass this challenge.
 

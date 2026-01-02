@@ -3,17 +3,17 @@ noteType: pf2eMonster
 aliases: "Doppelganger Fighter"
 tags: 
   - pf2e/creature/type/humanoid
-  - pf2e/creature/level/3
+  - pf2e/creature/level/7
 statblock: inline
 name: "doppelganger-fighter"
-level: 3
+level: 7
 ---
 
 ```statblock
 columns: 2
 layout: Basic Pathfinder 2e Layout
 source: "Custom"
-name: "doppelganger-fighter"
+name: "Doppelganger Fighter"
 level: "Creature 7"
 alignment: "NE"
 size: "Medium"
