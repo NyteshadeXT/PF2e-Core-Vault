@@ -4,7 +4,7 @@ tags:
   - "#Character"
   - "#Player"
 art: zz-Attachments/Jayden.png
-Status: Active
+Status: Inactive
 Player: Derek
 pronounced: jay-den
 Class: Rogue

@@ -9,8 +9,9 @@ Player: Cali
 pronounced: a-ki-o-wen
 Class: Rogue
 level: 7
-hp: 70
-ac: 21
+hp: 76
+ac: 26
+modifier: 15
 Ancestry: tengu
 gender: Female
 age: Young Adult

@@ -61,12 +61,12 @@ health:
     desc: "115"
 
 attacks:
-  - name: "Melee • Longsword"
-    desc: "⬻ +18 (versatile P); __Damage__ `dice: 2d8+6` 2d8+6 slashing"
-  - name: "Melee • Slam"
-    desc: "⬻ +16; __Damage__ 2d6+6 `dice: 2d6+6` bludgeoning"
-  - name: "Ranged • Thrown Weapon (dagger, bottle, or similar)"
-    desc: "⬻ +15; __Damage__ 1d6+4 `dice: 1d6+4` piercing or bludgeoning"
+  - name: "Melee"
+    desc: "⬻ Longsword +18 (versatile P); __Damage__ `dice: 2d8+6` 2d8+6 slashing"
+  - name: "Melee •"
+    desc: "⬻ Claw +18; __Damage__ 2d6+6 `dice: 2d6+6` slashing"
+  - name: "Ranged •"
+    desc: "⬻ Thrown Weapon (dagger, bottle, or similar) +15; __Damage__ 1d6+4 `dice: 1d6+4` piercing or bludgeoning"
 
 sourcebook: "Custom"
 

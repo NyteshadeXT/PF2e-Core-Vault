@@ -6,7 +6,7 @@ aliases:
   - Dungeon 127
 quicknote: "Ardentia City: a shining gem in the crown of cultured civilization. Beneath the surface of this bustling metropolis is a rot, festering in the darkness, manipulating the lives of those unaware of its presence. Now a small adventuring band from out of town may be in over their heads. Their actions in Diamond Lake have attracted the wrath of one of the city’s hidden masters. A gang of infiltrators and an enigmatic mastermind plot their destruction, and only tracing the rot to the root can stop the onslaught."
 whichparty: "[[Age of Worms Party Dashboard]]"
-adventure_status: Not Started
+adventure_status: In Progress
 adventure_level: 7th to 9th
 ---
 
@@ -560,7 +560,8 @@ Telakin is the thrall of Zyrxog, а powerful mind flayer. He wears the illithid'
 name: D17 Telakins Hall
 party: Age of Worms
 creatures:
-  - 3: Greater Doppelganger, Telakin
+  - 2: Greater Doppelganger
+  - 1: Telakin
 ```
 
 **Tactics** If warned of the party’s approach, Telakin assumes his wizard form and immediately casts a number of protective spells, including _false life_ and _resist energy_ (choosing an energy type frequently used by the party, assuming the doppelganger has advanced information on them). He keeps _mage armor (heightened 2nd)_ active at all times, casting it every morning after preparing his spells. Once protected, Telakin uses _clairvoyance_ to watch the party’s approach and gauge their abilities.  Telakin prefers to remain on or near his throne, hoping to draw intruders into traps while devastating them with his magic. In this form, he relies on _fireball_ and _wall of fire_ to punish clustered enemies, while _slow_ and _confusion_ disrupt coordinated tactics. Against magically prepared foes, he employs _dispel magic_ to remove protections. If forced into prolonged melee while still in wizard form, he falls back on _scorching ray_ and _ray of enfeeblement_ to soften his attackers before considering transformation. 
@@ -580,10 +581,10 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 **Development** Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 23 [[skills#Perception|Perception]] check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
 
 > [!tip]+ Treasure
-> Telakin has a number of magic items on his person including a key ring with keys to every room in Sodden Hold, a +1 frost greataxe, scroll of fireball and a wand of heal.  Two sapphires each worth 200 gp sit in locked (DC 25 [[skills#Thievery|Thievery]]) containers near the device to the west.
+> Telakin has a number of magic items on his person including a key ring with keys to every room in Sodden Hold, a +1 striking frost greataxe, scroll of fireball and a wand of heal.  Two sapphires each worth 200 gp sit in locked (DC 25 [[skills#Thievery|Thievery]]) containers near the device to the west.
 > 
 > - [ ] gp::400
-> - [ ] permanent::[[Frost|+1 Frost Greataxe]] [ilvl::8] [gp::535]
+> - [ ] permanent::[[Frost|+1 Striking Frost Greataxe]] [ilvl::8] [gp::535]
 > - [ ] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
 > - [ ] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
 

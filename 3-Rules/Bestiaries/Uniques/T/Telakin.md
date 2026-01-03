@@ -1,11 +1,11 @@
 ---
 noteType: pf2eMonster
-aliases: "Greater Doppelganger"
+aliases: "telakin"
 tags: 
   - pf2e/creature/type/humanoid
   - pf2e/creature/level/9
 statblock: inline
-name: "Greater Doppelganger"
+name: "Telakin"
 level: 1
 ---
 
@@ -13,7 +13,7 @@ level: 1
 columns: 2
 layout: Basic Pathfinder 2e Layout
 source: "Custom"
-name: "Greater Doppelganger"
+name: "Telakin"
 level: "Creature 9"
 rare_01: "Uncommon"
 alignment: "NE"
@@ -43,7 +43,7 @@ abilities_mid:
 
 abilities_bot:
   - name: "Polymorph Rend"
-    desc: "⬺ ([[attack]], [[occult]], [[transmutation]]); __Frequency__ once per round. __Requirements__ The target is affected by a polymorph or shapechanging effect. The doppelganger makes a melee Strike. On a hit, the target takes an additional `dice: 6d6` 6d6 damage."
+    desc: "⬺ ([[attack]], [[occult]], [[transmutation]]); __Frequency__ once per round. __Requirements__ The target is affected by a polymorph or shapechanging effect. The doppelganger makes a melee Strike. On a hit, the target takes an additional `dice: 6d6` 6d6 damage (DC 28 Fortitude basic save)."
   - name: "Consume Mind"
     desc: "⬺ ([[occult]], [[mental]]); __Requirements__ The doppelganger has a creature grabbed. Effect: The target must succeed at a DC 28 Will save or become [[stupefied|stupefied 2]] for 1 minute. A critical failure also causes the target to be [[confused]] until the end of its next turn."
 
@@ -52,7 +52,7 @@ speed: 25 feet
 ac: 28
 armorclass:
   - name: "AC"
-    desc: "28; __Fort__ +21, __Ref__ +19, __Will__ +22; immune [[sleep]], [[Controlled]]"
+    desc: "28; __Fort__ +21, __Ref__ +19, __Will__ +22; immune [[sleep]], [[charmed]]"
 
 hp: 165
 health:
@@ -60,8 +60,10 @@ health:
     desc: "165"
 
 attacks:
-  - name: "Melee"
-    desc: "⬻ Slam +21; __Damage__ `dice: 2d8+9` 2d8+9 bludgeoning"
+  - name: "Melee • Slam"
+    desc: "⬻ +21; __Damage__ `dice: 2d8+9` 2d8+9 bludgeoning"
+  - name: "Melee • Polymorph Rend"
+    desc: "⬻ +21; __Damage__ `dice: 2d8+9` 2d8+9 bludgeoning plus `dice: 6d6` 6d6 polymorph rend (DC 28 Fortitude basic save)"
 
 sourcebook: "Custom"
 
