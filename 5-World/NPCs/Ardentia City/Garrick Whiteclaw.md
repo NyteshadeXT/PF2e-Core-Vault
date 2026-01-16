@@ -1,0 +1,1 @@
+Orc.  Former winner of the Champions Belt in Bloodstone Arena.

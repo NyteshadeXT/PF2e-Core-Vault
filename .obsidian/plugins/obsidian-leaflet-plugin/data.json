@@ -336,140 +336,9 @@
       "files": []
     },
     {
-      "id": "Ardentia_City",
-      "locked": true,
-      "lastAccessed": 1761075834707,
-      "markers": [
-        {
-          "id": "ID_695b1b18eaa8",
-          "type": "default",
-          "loc": [
-            -460.17895234080834,
-            529.1481743226452
-          ],
-          "link": "Bloodstone Arena",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2,
-          "maxZoom": 0,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_285bdb49bba8",
-          "type": "default",
-          "loc": [
-            -459.08595275303384,
-            529.395711377356
-          ],
-          "link": "Bloodstone Arena",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_399959eaa9da",
-          "type": "default",
-          "loc": [
-            -513.8773895169579,
-            555.0199294206747
-          ],
-          "link": "Arcane Exchange Consortium Headquarters",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_ba5beae9486b",
-          "type": "default",
-          "loc": [
-            -520.5010277492293,
-            555.3948438768899
-          ],
-          "link": "Aetherial Observatory",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_485a0a79a97a",
-          "type": "default",
-          "loc": [
-            -661.3234702622643,
-            320.19618484713175
-          ],
-          "link": "Eligos' House",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b3a3b6a2b7a",
-          "type": "default",
-          "loc": [
-            -163.8938347298844,
-            513.5625486588498
-          ],
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_4b78a85b4a3a",
-          "type": "default",
-          "loc": [
-            -199.76629558553532,
-            500.38024598554694
-          ],
-          "link": "The Crooked House",
-          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 2.5,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "5-World/Districts/Ardentia City/Isle of Learning.md",
-        "5-World/Maps/Ardentia City Map.md"
-      ]
-    },
-    {
       "id": "TBD",
       "locked": false,
-      "lastAccessed": 1763749241948,
+      "lastAccessed": 1768588079362,
       "markers": [
         {
           "id": "ID_6b884b4a6a49",
@@ -643,7 +512,209 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5-World/Districts/Ardentia City/Seekers Quarter.md"
+        "5-World/Settlements/Firstwatch.md"
+      ]
+    },
+    {
+      "id": "Ardentia_City",
+      "locked": true,
+      "lastAccessed": 1768590377982,
+      "markers": [
+        {
+          "id": "ID_695b1b18eaa8",
+          "type": "default",
+          "loc": [
+            -460.17895234080834,
+            529.1481743226452
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285bdb49bba8",
+          "type": "default",
+          "loc": [
+            -459.08595275303384,
+            529.395711377356
+          ],
+          "link": "Bloodstone Arena",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_399959eaa9da",
+          "type": "default",
+          "loc": [
+            -513.8773895169579,
+            555.0199294206747
+          ],
+          "link": "Arcane Exchange Consortium Headquarters",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba5beae9486b",
+          "type": "default",
+          "loc": [
+            -520.5010277492293,
+            555.3948438768899
+          ],
+          "link": "Aetherial Observatory",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_485a0a79a97a",
+          "type": "default",
+          "loc": [
+            -661.3234702622643,
+            320.19618484713175
+          ],
+          "link": "Eligos' House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b78a85b4a3a",
+          "type": "default",
+          "loc": [
+            -199.76629558553532,
+            500.38024598554694
+          ],
+          "link": "The Crooked House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a969a9aa4b48",
+          "type": "default",
+          "loc": [
+            -367.44842037602524,
+            516.8297547398448
+          ],
+          "link": "The Crooked House",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0968cb68da",
+          "type": "default",
+          "loc": [
+            -121.37284415101279,
+            306.713740756562
+          ],
+          "link": "Resnik VonVassen's Home",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a9ad85879d9",
+          "type": "default",
+          "loc": [
+            -42.74951181911614,
+            160.62502959981055
+          ],
+          "link": "Ivywall Scriptorium",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.22183407745764835,
+            0.05903997988224899
+          ],
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a88eb4979ea",
+          "type": "default",
+          "loc": [
+            -145.02877697841728,
+            180.29339332228272
+          ],
+          "link": "Terramore Academy",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d96b9b4b1b0b",
+          "type": "default",
+          "loc": [
+            -107.58008322929155,
+            540.621436532104
+          ],
+          "link": "Stumbling Giant",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "5-World/Maps/Ardentia City Map.md"
       ]
     }
   ],

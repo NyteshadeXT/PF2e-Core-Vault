@@ -223,7 +223,7 @@ Inside the inn, the taproom is decorated with numerous trophies, primarily owlbe
 
 When the party arrives, Tarquin is busy serving up a meal and asks if the PCs are interested in joining. He has a number of rooms available, all singles. His double rooms and party rooms are currently rented out to a merchant caravan. that just arrived in the Free City. However, should the PCs mention that [[Eligos]]. sent them, Tarquin cuts them a deal (4 sp per night) and throws in free drinks. [[Eligos]] and Tarquin are old friends and frequently meet at a local dragonchess parlor for a friendly game.
 
-It is about this time that [[5-World/NPCs/Ardentia City/Loris Raknian]], director of the [[Bloodstone Arena]], learns of the party's arrival in town. He contacts [[Zyrxog]] and arranges for their destruction the same day, Although events are starting to move against them, the PCs have a few days to explore [[Ardentia City]], make purchases, and relax before the action begins.
+It is about this time that [[5-World/NPCs/Ardentia City/Loris Raknian|Loris Raknian]], director of the [[Bloodstone Arena]], learns of the party's arrival in town. He contacts [[Zyrxog]] and arranges for their destruction the same day, Although events are starting to move against them, the PCs have a few days to explore [[Ardentia City]], make purchases, and relax before the action begins.
 
 ### Body Thief
 While the PCs take time off, [[Tarquin]] encourages them to have a good time while staying at the Crooked House. The doppelganger agents who work for [[Zyrxog]] have already begun to observe the PCs, however, learning their habits and abilities while in the guise of common folk. One of them, a rogue named [[Ixiaxian]], has been charged with infiltrating the party. The switch occurs at some point after the PCs speak to [[Eligos]] but before event 3 begins. [[Ixiaxian]] remains hidden in the party until the real PC is rescued later in the adventure (see area D15).
@@ -254,9 +254,9 @@ creatures:
   - 14: Tavern Patron
 ```
 
-**Tactics:** As this fight occurs in the taproom of the inn, you should determine if any of the PCs are wearing armor and what weapons they carry before the fight begins. [[Tarquin]] finds it rude to be fully armed and armored in his establishment, but lets it pass if the PCs are insistent or sweet talk him with a DC 23 [[Skills#Diplomacy|Diplomacy]] check. Unarmed PCs can fight using the same weapons as the patrons, knives (treat as daggers that deal 1d3), bottles (improvised weapons that deal 1d4) and chairs (improvised clubs). Throughout the fight, [[Elaxan]] uses Spring Attack to move up into a flanking position, take an attack, and back away before the PCs can retaliate, If dropped to below 10 hp, he attempts to flee, changing shape to that of a peasant woman the moment he is out of sight.
+**Tactics:** As this fight occurs in the taproom of the inn, you should determine if any of the PCs are wearing armor and what weapons they carry before the fight begins. [[Tarquin]] finds it rude to be fully armed and armored in his establishment, but lets it pass if the PCs are insistent or sweet talk him with a DC 23 [[Skills#Diplomacy|Diplomacy]] check. Unarmed PCs can fight using the same weapons as the patrons, knives (treat as daggers that deal 1d3), bottles (improvised weapons that deal 1d4) and chairs (improvised clubs). Throughout the fight, [[Elaxan]] uses Sneak Attack whenever possible. If dropped to below 10 hp, he attempts to flee, changing shape to that of a peasant woman the moment he is out of sight.
 
-**Developments:** Four minutes after [[Tarquin]] is attacked, the city watch arrives on the scene and arrests the party unless they can prove their innocence (see the cast article in DUNCFON 118 for some sample city watchmen). If the PCs have killed any of the tavern patrons, they are arrested whether or not they prove that they did not hurt [[Tarquin]]. Should the PCs kill [[Elaxan]], he reverts to his true form, much to the shock of all present. This evidence alone is enough to clear the PCs of any charges by the crowd and guard. Should [[Elaxan]] be searched, he has daggers that match the one used to attack [[Tarquin]]. Without this proof, convincing the city constables requires а DC 28 [[Skills#Diplomacy|Diplomacy]] check and a rather good explanation. Elaxan's pouch contains a strangely crooked key attached to a small keychain. The key's head bears a unique design of a ship being pulled underwater by a huge octopus. This key can unlock the front door to the doppelganger's hideout, a warehouse down by the river called "Sodden Hold." A DC 20 [[Skills#Society|Society]] check allows a character to recognize the design on the key as the same as a design over several old warehouses in the [[Shattered Ward]], although most of these warehouses have been torn down and replaced with newer buildings. If none of the PCs figure this out, а DC 21 [[Gather Information]] check uncovers the same clue. In addition, the informant can tell the PCs that the octopus standard was the mark of a now-dead merchant who once owned several warehouses along the waterfront. Most of these buildings have been sold off and rebuilt, but one still stands—Sodden Hold.
+**Developments:** Four minutes after [[Tarquin]] is attacked, the city watch arrives on the scene and arrests the party unless they can prove their innocence. If the PCs have killed any of the tavern patrons, they are arrested whether or not they prove that they did not hurt [[Tarquin]]. Should the PCs kill [[Elaxan]], he reverts to his true form, much to the shock of all present. This evidence alone is enough to clear the PCs of any charges by the crowd and guard. Should [[Elaxan]] be searched, he has daggers that match the one used to attack [[Tarquin]]. Without this proof, convincing the city constables requires а DC 28 [[Skills#Diplomacy|Diplomacy]] check and a rather good explanation. Elaxan's pouch contains a strangely crooked key attached to a small keychain. The key's head bears a unique design of a ship being pulled underwater by a huge octopus. This key can unlock the front door to the doppelganger's hideout, a warehouse down by the river called "Sodden Hold." A DC 20 [[Skills#Society|Society]] check allows a character to recognize the design on the key as the same as a design over several old warehouses in the [[Shattered Ward]], although most of these warehouses have been torn down and replaced with newer buildings. If none of the PCs figure this out, а DC 21 [[Gather Information]] check uncovers the same clue. In addition, the informant can tell the PCs that the octopus standard was the mark of a now-dead merchant who once owned several warehouses along the waterfront. Most of these buildings have been sold off and rebuilt, but one still stands—Sodden Hold.
 
 If the PCs are arrested, they spend the night in jail, stripped of all their gear and spell components. In the morning, using their agents within the city watch, the doppelgangers have the PCs delivered to their hideout as noted in the sidebar "Delivered into Danger."
 
@@ -588,18 +588,18 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > - [ ] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
 > - [ ] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
 
-#### D18. Telakín's Sanctum
+#### D18. Telakin's Sanctum
 > [!note]+ Read Aloud
 > Behind the throne is a small chamber filled with ostentatious accoutrements. There is а bed, wardrobe, desk, chest, and а small table in this room. The walls are covered in rich red velvet curtains and a strange rug of shifting, writhing geometric patterns on the floor. A large, full-body mirror stands in one corner of the room.
 
 > [!tip]+ Treasure
 > The rug is a minor magic item that is worth 50 gp but does nothing more than change patterns.
 > 
-> The chest is locked, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open (although Telakin's key ring has the key). Inside the chest is а host of forged and original documents detailing Ardentia City treaties, merchant dealings, and religious papers. Although not pertinent to the party, they clearly illustrate the level of infiltration the gang possessed. In addition to these there is à sack containing 150 gp, a scroll of dominate person, and a missive written with a strange alien hand. The message reads: "I have a task for you, thrall. Meet me at the sewer junction beneath the cold forge and I will give you the details. There are some troublesome small minds that must be removed." The document is signed with some sort of symbol made to look like a spiraling tentacle (identical to that on Telakin's forehead).
+> The chest is locked, requiring a DC 23 [[Skills#Thievery|Thievery]] check to open (although Telakin's key ring has the key). Inside the chest is а host of forged and original documents detailing Ardentia City treaties, merchant dealings, and religious papers. Although not pertinent to the party, they clearly illustrate the level of infiltration the gang possessed. In addition to these there is à sack containing 150 gp, a scroll of dominate, and a missive written with a strange alien hand. The message reads: "I have a task for you, thrall. Meet me at the sewer junction beneath the cold forge and I will give you the details. There are some troublesome small minds that must be removed." The document is signed with some sort of symbol made to look like a spiraling tentacle (identical to that on Telakin's forehead).
 > 
 > Aside from the contents of the chest, the wardrobe contains every outfit in Player Core as well as 50 gp in jewelry.
 > 
-> - [ ] gp::250
+> - [ ] gp::200
 > - [ ] consumable::[[Dominate|Scroll of Dominate]] [ilvl::11] [gp::300]
 
 #### D19. Zyrxog's Entrance
@@ -618,7 +618,7 @@ After Zyrxog uses his mind blast, the drow move in to attack, cloaking the area 
 
 Zyrxog remains in the darkness throughout the fight, but anyone with darkvision can make out the mind flayer and can see that he wears the same symbol found on the papers in Telakin's room and on Telakin's forehead.
 
-**Development** Once combat is over, the party is free to explore the tunnel leading out of this area. After only 50 feet it joins the [[Ardentia City]] sewer system, and tracking the group becomes difficult. Тһе only clue the PCs have to the mind flayer's location is the note from Telakin's room and the residue on the drow's boots. This fungus can be identified with a DC 21 [[Skills#Nature|Nathre]] check as a relatively rare harmless fungus called Beggar's Gold that grows in underground urban environments. It is not present in any of the nearby tunnels or sewers.
+**Development** Once combat is over, the party is free to explore the tunnel leading out of this area. After only 50 feet it joins the [[Ardentia City]] sewer system, and tracking the group becomes difficult. Тһе only clue the PCs have to the mind flayer's location is the note from Telakin's room and the residue on the drow's boots. This fungus can be identified with a DC 21 [[Skills#Nature|Nature]] check as a relatively rare harmless fungus called Beggar's Gold that grows in underground urban environments. It is not present in any of the nearby tunnels or sewers.
 
 ### Part 4: Zyrxog's Domain
 Although the party has defeated Telakin and his doppelganger clan, they have only just begun to discover the conspiracy arrayed against them. Tracking down the mind flayer requires investigation below the streets of [[Ardentia City]] in the sewers beneath a business called Cold Forge, an armor and weapon smith located in the Seekers Quarter.
@@ -692,9 +692,10 @@ creatures:
 If combat does break out, Fassash uses _invisibility_ to flee the area and prepare himself with [[3-Rules/Character Building/Spells/F/Fly|Fly]], [[Mirror Image]] and [[Blur]] before returning to deal with the party, tracking them down if necessary. He prefers to use [[Black Tentacles]] followed by [[Confusion]] before engaging in melee.
 
 > [!tip]+ Treasure
-> The naga's pool glows due to a phosphorescent fungus that grows at its bottom, but this is also where his treasure is kept. Scattered around the bottom of the pool are 8 pp, an emerald worth 20 gp, and an ordinary corked glass bottle that. is actually [[bottled-air|Bottled Air]].
+> The naga's pool glows due to a phosphorescent fungus that grows at its bottom, but this is also where his treasure is kept. Scattered around the bottom of the pool are 8 pp, an four jade worth 5 gp each, and an ordinary corked glass bottle that. is actually [[bottled-air|Bottled Air]].
 > 
-> - [ ] gp::28
+> - [ ] pp::8
+> - [ ] gp::20
 > - [ ] permanent::[[bottled-air|Bottled Air]] [ilvl::7] [gp::320]
 
 #### M4. Drow Enclave
@@ -710,7 +711,7 @@ name: M4 The Enclave
 party: Age of Worms
 creatures:
   - 1: Myrianaas
-    2: Drow Blademaster, Elf Thrall
+  - 2: Drow Blademaster, Elf Thrall
 ```
 
 А total of six drow rest in this room at any given time: two up in the sleeping area and four on the floor. Myrianaas, cleric of [[Sharathis]], leads this group.  All are completely loyal to their mind flayer overlord and fight to the death to prevent intruders from gaining access to his sanctum.
