@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "fighters-fork"
 aliases: "Fighter's Fork"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "242"
 rarity: ""
 trait01: "magical"
 trait02: "thrown-20"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -24,15 +24,16 @@ value: "50"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
+group: "Spear"
 license: "ORC"
 identify:
-description: "This _+1 trident_, usually engraved with a decorative pattern resembling fish scales, is a common weapon among warriors of aquatic ancestries.  * * *  **Activate—Fluid Length** `pf2:1` manipulate  **Effect** You extend or shorten the trident's haft. When extended, the trident requires two hands to wield and gains the reach trait, but loses the trident's normal thrown trait."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This _[[Weapon Potency (+1)|+1]] [[trident]]_, usually engraved with a decorative pattern resembling fish scales, is a common weapon among warriors of aquatic ancestries."
+powerTitle1: "Fluid Length"
+actionEconomy1: 1
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You extend or shorten the trident's haft. When extended, the trident requires two hands to wield and gains the reach trait, but loses the trident's normal thrown trait."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d8 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d8
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Trident"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

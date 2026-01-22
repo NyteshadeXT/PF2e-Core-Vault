@@ -3,13 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "fiendbreaker"
-aliases: "Fiendbreaker"
-source: " Pathfinder #211: The Secret of Deathstalk Tower"
-pg: "81"
-rarity: "unique"
-trait01: "divine"
-trait02: "staff"
+name: "field-guide"
+aliases: "Field Guide"
+source: "Pathfinder Howl of the Wild"
+pg: "112"
+rarity: "uncommon"
+trait01: ""
+trait02: ""
 trait03: ""
 trait04:
 trait05:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 15
-group: "Club"
-bulk: 1
-value: "6500"
+level: 0
+group: 
+bulk: "L"
+value: "10"
 subvalue: "gp"
 invest: 
-usage: "held in one hand"
+usage: "one hand"
 license: "ORC"
 identify: ""
-description: "After she led her people through the Darklands to the far side of the world, the elven oracle Jininsiel established the nation of Jinin in the heart of the continent of Tian Xia. As she sought to forge alliances with other lands surrounding her own, Jininsiel crafted potent magic items as gifts. For the people of Tianjing, she created this staff, which served the people of that nation well for many years. They returned it to Jinin as a token of condolence when that nation’s leader passed into the Great Beyond. Many centuries later, when the people of Jinin learned that their kin had returned to Kyonin from Castrovel only to face fiendish threats in their homeland, a group of priests from Jinin traveled across the world to help. They brought with them _Fiendbreaker_ and chose to leave it in Kyonin to help protect them in the future from demonic foes.\n\n_Fiendbreaker_ functions as a _[[Weapon Potency (+2)|+2]] [[striking-(greater)|greater striking]] [[holy]] [[cold-iron-weapon-standard-grade|standard-grade cold iron]] [[staff]]_. While wielding the staff, you gain a +2 circumstance bonus to checks made to [[Recall Knowledge]] about fiends."
+description: "This book contains illustrations and information on edible and dangerous plants. Most field guides tend to be region specific, such as the Mindspin Mountains or Osirian desert. If you are attempting to [[Subsist]] in the field guide’s region with a skill you’re untrained in, consulting the book gives you a +2 circumstance bonus to the skill check."
 activate: ""
 craft: 
 destruction: 
@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Cast a Spell"
+powerTitle1: ""
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -42,7 +42,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: "You expend a number of charges from the staff to cast a spell from its list.\n\n**Cantrip** [[Divine Lance]]\n**1st** [[Sanctuary]]\n**2nd** [[3-Rules/Character Building/Spells/S/See the Unseen|See the Unseen]]\n**3rd** [[Anointed Ground]], [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]]\n**4th** [[Clear Mind]], [[Planar Tether]]\n**5th** [[Banishment]], [[Divine Wrath]]\n**6th** [[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]], [[Spirit Blast]]"
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -90,12 +90,12 @@ range:
 ammoType:
 reload:
 damage: 
-dmg1: 3d4
-dmg1Type: Bludgeoning 
+dmg1: 
+dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: Melee
-weaponCategory: Simple
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -131,7 +131,7 @@ will:
 #========================================================#
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase: "Staff"
+weaponBase:
 armorBase:
 shieldBase:
 craftBase: 
@@ -141,18 +141,4 @@ craftBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Bo Staff")
-SORT level ASC
-
 ```

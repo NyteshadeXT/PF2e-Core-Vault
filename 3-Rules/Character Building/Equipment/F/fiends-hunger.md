@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "fiends-hunger"
 aliases: "Fiend's Hunger"
 source: "Pathfinder #196: The Summer That Never Was"
-pg: ""
-rarity: ""
+pg: "81"
+rarity: "unique"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "unique"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -22,17 +22,18 @@ level: 4
 weight: L
 value: "100"
 subvalue: "gp"
+group: "Knife"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The blade of this _+1 low-grade silver dagger_ has a sickly red tinge. Though once used to send souls to empower Kugaptee, the fury of those slain by the blade now allow its wielder to periodically strike back against fiends.  **Activate** `pf2:0` command (divine, enchantment, mental)  **Frequency** once per day  **Trigger** You score a critical hit against a fiend  * * *  **Effect** Vengeful echoes of the fallen lance out into the psyche of the fiend struck. After the normal effects of the critical hit, the target must roll a DC 18 Fortitude check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature becomes distracted by vengeful spirits and becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.  **Failure** As success, but the creature is also [[Conditions/Slowed|Slowed 1]] for 1 round.  **Critical Failure** As failure, but the creature is slowed 1 for 1 minute."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "The blade of this _[[Weapon Potency (+1)|+1]] [[Silver Chunk|low-grade silver]] [[dagger]]_ has a sickly red tinge. Though once used to send souls to empower Kugaptee, the fury of those slain by the blade now allow its wielder to periodically strike back against fiends."
+powerTitle1: "Effect"
+actionEconomy1: 0
+type1: "[[command]] ([[divine]], [[enchantment]], [[mental]])"
+frequency1: "once per day"
+trigger1: "You score a critical hit against a fiend"
+mechanics1: "Vengeful echoes of the fallen lance out into the psyche of the fiend struck. After the normal effects of the critical hit, the target must roll a DC 18 Fortitude check save.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature becomes distracted by vengeful spirits and becomes [[Off-Guard]] until the start of your next turn.\n**Failure** As success, but the creature is also [[Slowed|Slowed 1]] for 1 round.\n**Critical Failure** As failure, but the creature is [[Slowed|Slowed 1]] for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,12 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Dagger"
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
