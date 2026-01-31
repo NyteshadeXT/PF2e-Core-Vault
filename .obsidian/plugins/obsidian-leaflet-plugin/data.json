@@ -518,7 +518,7 @@
     {
       "id": "Ardentia_City",
       "locked": true,
-      "lastAccessed": 1768590377982,
+      "lastAccessed": 1769131105393,
       "markers": [
         {
           "id": "ID_695b1b18eaa8",
@@ -707,6 +707,23 @@
           "percent": null,
           "description": null,
           "minZoom": 2.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88884be88a08",
+          "type": "default",
+          "loc": [
+            -398.859606106459,
+            395.8870730703662
+          ],
+          "link": "Eligos' Estate",
+          "layer": "%5B%5BArdentia%20City%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         }

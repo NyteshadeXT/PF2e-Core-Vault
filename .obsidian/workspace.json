@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
-                "mode": "source",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "The Hall of Harsh Reflections"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/F/final-scalecloak.md",
-                "mode": "preview",
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "final-scalecloak"
+              "title": "Insert Item"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,38 +276,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "calendarium:Open Calendarium": false
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "f5590ead26f763b3",
+  "active": "3700285832b9c44f",
   "lastOpenFiles": [
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Bestiaries/Monster Core/A/Aapoph Granitescale.md",
+    "5-World/NPCs/Ardentia City/Alura Stoneshadow.md",
+    "5-World/NPCs/Ardentia City/Bril Jabberwicky.md",
+    "5-World/NPCs/Ardentia City/Brielle Greystone.md",
+    "zz-Attachments/alura-stoneshadow.png",
+    "5-World/NPCs/Ardentia City/Astra the Crystal Witch.md",
+    "5-World/NPCs/Ardentia City/Garrick Whiteclaw.md",
+    "5-World/NPCs/Ardentia City/Jorvan Kale.md",
+    "5-World/NPCs/Ardentia City/Manzorian.md",
+    "zz-Templates/GM Templates/Characters/Template - NPC.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/F/fire-and-iceberg.md",
+    "3-Rules/Character Building/Equipment/F/fingerprint-kit.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "3-Rules/Character Building/Equipment/F/final-scalecloak.md",
+    "zz-Attachments/final-scalecloak.png",
     "3-Rules/Character Building/Equipment/F/final-rest.md",
     "3-Rules/Character Building/Equipment/F/final-blade.md",
+    "3-Rules/Character Building/Equipment/F/fearless-sash.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "5-World/NPCs/Ardentia City/Eligos.md",
+    "5-World/Maps/Ardentia City Map.md",
+    "5-World/Maps/Aetherial Highlands Map.md",
     "3-Rules/Character Building/Equipment/F/filchers-fork.md",
     "3-Rules/Character Building/Equipment/F/fighting-stick.md",
     "3-Rules/Character Building/Equipment/F/fighting-oar.md",
-    "3-Rules/Character Building/Equipment/F/fighting-fan.md",
-    "3-Rules/Character Building/Equipment/F/fighters-fork.md",
-    "3-Rules/Character Building/Equipment/F/fiends-hunger.md",
-    "3-Rules/Character Building/Equipment/F/fiendish-teleportation.md",
-    "3-Rules/Character Building/Equipment/F/fiendbreaker-artifact.md",
-    "3-Rules/Character Building/Equipment/F/fiendbreaker.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/F/field-guide.md",
-    "3-Rules/Character Building/Equipment/F/Fiend's Hunger.md",
-    "3-Rules/Character Building/Equipment/F/fiddle-of-the-maestro.md",
-    "3-Rules/Character Building/Equipment/F/feyfoul-lesser.md",
-    "3-Rules/Character Building/Equipment/F/feyfoul-greater.md",
-    "3-Rules/Character Building/Equipment/F/festrem-mortu.md",
-    "3-Rules/Character Building/Equipment/F/ferrofluid-urchin-moderate.md",
-    "3-Rules/Character Building/Equipment/F/ferrofluid-urchin-lesser.md",
-    "3-Rules/Character Building/Equipment/F/ferrofluid-urchin-greater.md",
-    "3-Rules/Character Building/Equipment/F/feral-linguist-greater.md",
-    "3-Rules/Character Building/Equipment/F/feed-standard.md",
-    "3-Rules/Character Building/Equipment/F/Fearweed.md",
-    "3-Rules/Character Building/Equipment/F/familiar-satchel.md",
-    "3-Rules/Character Building/Equipment/F/five-feather-wreath-(major).md",
     "zz-Attachments/brielle-greystone.png",
     "zz-Attachments/resnik-vonvassen.png",
     "zz-Attachments/charisma-blaze.png",
@@ -316,8 +317,6 @@
     "zz-Attachments/ferrofluid-urchin.png",
     "zz-Attachments/feral-linguist.png",
     "zz-Attachments/feng-huo-lun.png",
-    "zz-Attachments/fearless-sash.png",
-    "zz-Attachments/fearcracker.png",
-    "zz-Attachments/faydhaans-dallah.png"
+    "zz-Attachments/fearless-sash.png"
   ]
 }

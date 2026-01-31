@@ -20,12 +20,12 @@ license: ORC
 ```statblock
 columns: 2
 forcecolumns: true
-layout: Basic Pathfinder 2e Layout
+
 token: [[modules/pf2e-tokens-bestiaries/portraits/humanoid/darklands/aapoph-serpentfolk.webp| ]]
 source: "Pathfinder Monster Core"
 name: "Aapoph Granitescale"
 level: "Creature 6"
-
+layout: Basic Pathfinder 2e Layout
 alignment: ""
 size: "Medium"
 trait_01: [[humanoid]]

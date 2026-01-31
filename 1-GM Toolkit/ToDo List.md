@@ -53,3 +53,4 @@ tags:
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?
 - [ ] Elaborate role of a "Dungeon Cartographer" for the [[Dungeon Seekers Guild]].
+- [ ] What is a Dimensionalist?  How do we leverage that?  Proposed as a teacher at [[Terramore Academy]] along with a necromancy class.

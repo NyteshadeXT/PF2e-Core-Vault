@@ -2,7 +2,25 @@
 tags:
   - "#Character"
   - "#NPC"
-art: zz-Attachments/Assets/PlaceholderImage.png
+art: zz-Attachments/alura-stoneshadow.png
+pronounced: a-lur-a stone-shadow
+ancestry: Elf
+gender: Female
+age: Adult
+sexuality: Straight
+alignment: Lawful Good
+language:
+  - Elven
+  - Common
+flaws: Rigidly lawful
+occupation:
+  - Guard
+religion:
+  - "[[Aegis]]"
+condition: Healthy
+party1relation: Acquaintance
+location:
+  - "[[Ardentia City]]"
 ---
 
 > [!metadata|metadata]- Metadata 
