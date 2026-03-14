@@ -583,10 +583,10 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > [!tip]+ Treasure
 > Telakin has a number of magic items on his person including a key ring with keys to every room in Sodden Hold, a +1 striking frost greataxe, scroll of fireball and a wand of heal.  Two sapphires each worth 200 gp sit in locked (DC 25 [[skills#Thievery|Thievery]]) containers near the device to the west.
 > 
-> - [ ] gp::400
-> - [ ] permanent::[[Frost|+1 Striking Frost Greataxe]] [ilvl::8] [gp::535]
-> - [ ] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
-> - [ ] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
+> - [x] gp::400
+> - [x] permanent::[[Frost|+1 Striking Frost Greataxe]] [ilvl::8] [gp::535]
+> - [x] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
+> - [x] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
 
 #### D18. Telakin's Sanctum
 > [!note]+ Read Aloud
@@ -599,8 +599,8 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > 
 > Aside from the contents of the chest, the wardrobe contains every outfit in Player Core as well as 50 gp in jewelry.
 > 
-> - [ ] gp::200
-> - [ ] consumable::[[Dominate|Scroll of Dominate]] [ilvl::11] [gp::300]
+> - [x] gp::200
+> - [x] consumable::[[Dominate|Scroll of Dominate]] [ilvl::11] [gp::300]
 
 #### D19. Zyrxog's Entrance
 Zyrxog, Telakin's mind flayer master has been watching events unfold through the use of his scrying pool. When he sees Telakin defeated, the mind flayer comes to investigate with a few of his drow thralls. When the PCs return to area D9, the secret door is open and Zyrxog and his minions are here waiting for the party to return.

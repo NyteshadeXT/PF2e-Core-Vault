@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "flaying-knife"
 aliases: "Flaying Knife"
 source: "Pathfinder Adventure: The Slithering"
-pg: ""
-rarity: ""
+pg: "60"
+rarity: "uncommon"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -22,11 +22,12 @@ level: 8
 weight: 1
 value: "480"
 subvalue: "gp"
+group: "Knife"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This long, thin +1 striking [[Equipment/Wounding|Wounding]] dagger has a smooth edge on one side and a serrated edge on the other.  Its persistent bleed damage comes from slicing away long strips of the target's flesh, and it deals 1d8 bleed on a hit instead of 1d6. A creature takes a -2 status penalty to saving throws against diseases for as long as it has persistent bleed damage from this knife."
+description: "This long, thin [[Weapon Potency (+1)|+1]] [[striking]] [[Wounding]] [[dagger]] has a smooth edge on one side and a serrated edge on the other.  Its persistent bleed damage comes from slicing away long strips of the target's flesh, and it deals `dice: 1d8` 1d8 bleed on a hit instead of 1d6. A creature takes a -2 status penalty to saving throws against diseases for as long as it has persistent bleed damage from this knife."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Dagger"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

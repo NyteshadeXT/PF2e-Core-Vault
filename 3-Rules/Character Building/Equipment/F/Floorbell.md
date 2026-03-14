@@ -1,29 +1,145 @@
 ---
-obsidianUIMode: preview
-title: "Floorbell"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/uncommon
-aliases: "Compendium.pf2e.equipment-srd.Item.98JIeYGEuE6pPV05"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "floorbell"
+aliases: "Floorbell"
+source: "Pathfinder Adventure Path #158: Sixty Feet Under"
+pg: "75"
+rarity: "uncommon"
+trait01: "abjuration"
+trait02: "matical"
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 5
+group: 
+bulk: 1
+value: "120"
+subvalue: "gp"
+invest: 
+usage: "held in one hand"
+license: "OGL"
+identify: ""
+description: "This surprisingly sturdy 3-foot-by-3-foot clay tile resembles a thick pressure plate. It can support up to 500 pounds of weight atop it before it is destroyed. The floorbell's nature is obvious at a glance, but mundane or magical means can obscure or camouflage the tile (such as by covering it in scattered leaves or by casting an [[Illusory Object]] spell) to make it harder to detect"
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "([[Command]], [[Interact]])"
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "The floorbell must be activated on level ground. When you do, specify the amount of weight that triggers the floorbell's alarm system. When the amount of weight you specify (or more) is placed on the floorbell, it emits an ear-piercing wail clearly audible to a range of 150 feet. A floorbell can also ring an alarm if a weight you specify is removed from the floorbell, such as if you activated it while a heavy sack was on it."
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Floorbell
-## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
 
 
-**Price** 120 gp; 
-**Bulk** 1; **Size** med
-**Usage** held-in-one-hand
+```meta-bind-embed
+[[Item Card Template]]
+```
 
-This surprisingly sturdy 3-foot-by-3-foot clay tile resembles a thick pressure plate. It can support up to 500 pounds of weight atop it before it is destroyed. The _floorbell_'s nature is obvious at a glance, but mundane or magical means can obscure or camouflage the tile (such as by covering it in scattered leaves or by casting an [[Spells/Illusory Object|Illusory Object]] spell) to make it harder to detect.
-
-* * *
-
-**Activate** `pf2:2` command, Interact
-
-**Effect** The _floorbell_ must be activated on level ground. When you do, specify the amount of weight that triggers the _floorbell_'s alarm system. When the amount of weight you specify (or more) is placed on the _floorbell_, it emits an ear-piercing wail clearly audible to a range of 150 feet. A _floorbell_ can also ring an alarm if a weight you specify is removed from the _floorbell_, such as if you activated it while a heavy sack was on it.
-
-*Source: Pathfinder #158: Sixty Feet Under*
-*OGL*

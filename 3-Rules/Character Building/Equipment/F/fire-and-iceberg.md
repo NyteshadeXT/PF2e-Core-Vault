@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "fire-and-iceberg"
 aliases: "Fire and Iceberg"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "46"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Fiery Anulite paprika, sunrise cinnamon, and winterbite are hidden inside this salad's translucent leaves, bringing the cool of snow and the heat of steam to every bite. The dueling sensations make some diners sweat and others shiver, but all leave with a lasting sense of heat and cold that make other sources pale in comparison. When you consume the salad, you gain resistance 5 to fire and cold for 1 minute.  [[Equipment Effects/Effect_ Fire and Iceberg|Effect: Fire and Iceberg]]"
+activate: "`pf2:1` [[Interact]]"
+description: "Fiery Anulite paprika, sunrise cinnamon, and winterbite are hidden inside this salad's translucent leaves, bringing the cool of snow and the heat of steam to every bite. The dueling sensations make some diners sweat and others shiver, but all leave with a lasting sense of heat and cold that make other sources pale in comparison. When you consume the salad, you gain resistance 5 to fire and cold for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

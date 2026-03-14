@@ -7,15 +7,15 @@ notetype: pf2e-item
 name: "fire-box"
 aliases: "Fire Box"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "fire"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Anyone who opens the box triggers a clockwork mechanism that unleashes a 15-foot cone of fire. The cone issues forth in a random direction determined by the GM but always including the creature who opened the box. Those within the cone take 4d6 fire damage with a DC 17 Reflex check save."
+description: "Anyone who opens the box triggers a clockwork mechanism that unleashes a 15-foot cone of fire. The cone issues forth in a random direction determined by the GM but always including the creature who opened the box. Those within the cone take `dice: 4d6` 4d6 fire damage with a DC 17 Reflex check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

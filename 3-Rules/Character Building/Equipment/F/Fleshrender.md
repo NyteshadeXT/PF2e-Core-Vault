@@ -1,35 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Fleshrender"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/agile
-  - trait/finesse
-  - trait/magical
-  - trait/twin
-  - trait/unique
-  - category/advanced
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.PTTB9orSB4RelXF3"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "fleshrender"
+aliases: "Fleshrender"
+source: "Pathfinder Prey for Death"
+pg: "102"
+rarity: "Unique"
+trait01: "magical"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 16
+group: "Sword"
+bulk: "L"
+value: "24000"
+subvalue: "gp"
+invest: 
+usage: "held in 1 hand"
+license: "ORC"
+identify: ""
+description: "This _[[Weapon Potency (+3)|+3]] [[striking-(greater)|Striking (Greater)]] [[Animated]] [[dawnsilver|Dawnsilver]] [[sawtooth-saber|Sawtooth Saber]]_ has many serrated edges and gleams blinding white in bright light.\n\nIf you're wielding [[Blood-Drinker]] in your other hand, increase Fleshrender's attack modifier to +32 instead of +24, and increase its fly Speed to 50 feet when you Set Free Fleshrender."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: ""
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 3d6
+dmg1Type: Slashing 
+dmg2: 
+dmg2Type: 
+weaponType: Melee
+weaponCategory: Advanced
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase: "Sawtooth Saber"
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Fleshrender
-## Item 18
-### [unique](unique "Unique Rarity Trait")[[agile]][[finesse]][[magical]][[twin]]
-
-|  |  |
-| -- | -- |
-| **Category** advanced melee weapon | **Group** sword |
-| **Price** 24000 gp |  |
-| **Bulk** L | **Size** med |
-| **Damage** 3d6 slashing  | **Usage** held-in-one-hand |
 
 
-
-This _+3 greater striking animated dawnsilver sawtooth saber_ has many serrated edges and gleams blinding white in bright light.
-
-If you're wielding Blood-Drinker in your other hand, increase _Fleshrender's_ attack modifier to +32 instead of +24, and increase its fly Speed to 50 feet when you Set Free _Fleshrender_.
-
-*Source: Pathfinder Adventure: Prey for Death*
-*ORC*
+```meta-bind-embed
+[[Item Card Template]]
+```

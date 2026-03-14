@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "firecracker-fulu"
 aliases: "Firecracker Fulu"
 source: "Pathfinder #196: The Summer That Never Was"
-pg: ""
-rarity: ""
+pg: "301"
+rarity: "rare"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You critically succeed at an attack roll with the affixed weapon.  * * *  The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure)."
-powerTitle1:
-actionEconomy1:
-type1:
+description: ""
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You critically succeed at an attack roll with the affixed weapon."
+mechanics1: "The fulu explodes and showers the area with bright sparks. The creature struck takes an additional `dice: 1d4` 1d4 sonic damage and must succeed at a DC 15 Fortitude check save or be [[Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

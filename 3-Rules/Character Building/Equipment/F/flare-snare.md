@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "flare-snare"
 aliases: "Flare Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "298"
 rarity: ""
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
 trait05: "visual"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

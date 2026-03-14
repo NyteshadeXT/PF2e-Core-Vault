@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/F/Field Guide.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/F/flower-press.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Field Guide"
+              "title": "flower-press"
             }
           },
           {
@@ -62,9 +62,64 @@
               "icon": "lucide-file",
               "title": "Insert Item"
             }
+          },
+          {
+            "id": "e259082e58265936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/DC Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DC Calculator"
+            }
+          },
+          {
+            "id": "f2fcdc8b7bb2af52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Champions Belt"
+            }
+          },
+          {
+            "id": "7f37a08c2f4a8243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/D/dwarven-arena-berserker.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "dwarven-arena-berserker"
+            }
+          },
+          {
+            "id": "62da6b886609a021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/ToDo List.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ToDo List"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,47 +331,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "3700285832b9c44f",
+  "active": "3f9dfcb6e218ec63",
   "lastOpenFiles": [
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Bestiaries/Monster Core/A/Aapoph Granitescale.md",
-    "5-World/NPCs/Ardentia City/Alura Stoneshadow.md",
-    "5-World/NPCs/Ardentia City/Bril Jabberwicky.md",
-    "5-World/NPCs/Ardentia City/Brielle Greystone.md",
-    "zz-Attachments/alura-stoneshadow.png",
-    "5-World/NPCs/Ardentia City/Astra the Crystal Witch.md",
-    "5-World/NPCs/Ardentia City/Garrick Whiteclaw.md",
-    "5-World/NPCs/Ardentia City/Jorvan Kale.md",
-    "5-World/NPCs/Ardentia City/Manzorian.md",
-    "zz-Templates/GM Templates/Characters/Template - NPC.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Character Building/Equipment/F/fire-and-iceberg.md",
-    "3-Rules/Character Building/Equipment/F/fingerprint-kit.md",
+    "3-Rules/Character Building/Equipment/F/flower-press.md",
+    "3-Rules/Character Building/Equipment/F/floorbell.md",
+    "3-Rules/Character Building/Equipment/F/floating-tent-pup.md",
+    "3-Rules/Character Building/Equipment/F/floating-tent-four-person.md",
+    "zz-Attachments/floating-tent.png",
+    "3-Rules/Character Building/Equipment/F/floating-shield-greater.md",
+    "3-Rules/Character Building/Equipment/F/floating-shield.md",
+    "3-Rules/Character Building/Equipment/F/flintlock-pistol.md",
+    "zz-Attachments/flintlock-pistol.png",
+    "3-Rules/Character Building/Equipment/F/flintlock-musket.md",
+    "zz-Attachments/flintlock-musket.png",
+    "3-Rules/Character Building/Equipment/F/flint-and-steel.md",
     "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "3-Rules/Character Building/Equipment/F/final-scalecloak.md",
-    "zz-Attachments/final-scalecloak.png",
-    "3-Rules/Character Building/Equipment/F/final-rest.md",
-    "3-Rules/Character Building/Equipment/F/final-blade.md",
-    "3-Rules/Character Building/Equipment/F/fearless-sash.md",
-    "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "5-World/NPCs/Ardentia City/Eligos.md",
-    "5-World/Maps/Ardentia City Map.md",
-    "5-World/Maps/Aetherial Highlands Map.md",
-    "3-Rules/Character Building/Equipment/F/filchers-fork.md",
-    "3-Rules/Character Building/Equipment/F/fighting-stick.md",
-    "3-Rules/Character Building/Equipment/F/fighting-oar.md",
-    "zz-Attachments/brielle-greystone.png",
-    "zz-Attachments/resnik-vonvassen.png",
-    "zz-Attachments/charisma-blaze.png",
-    "zz-Attachments/zeta-windsnap.png",
-    "5-World/Settlements/Untitled",
-    "zz-Attachments/ferrofluid-urchin.png",
-    "zz-Attachments/feral-linguist.png",
-    "zz-Attachments/feng-huo-lun.png",
-    "zz-Attachments/fearless-sash.png"
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/F/Flingflenser.md",
+    "3-Rules/Character Building/Equipment/F/flickering.md",
+    "3-Rules/Character Building/Equipment/F/fleshrender.md",
+    "3-Rules/Character Building/Equipment/F/fleshgem-earthspeaker.md",
+    "3-Rules/Character Building/Equipment/F/fleshgem-combat.md",
+    "3-Rules/Character Building/Equipment/F/flayleaf.md",
+    "3-Rules/Character Building/Equipment/F/flaying-knife.md",
+    "3-Rules/Character Building/Equipment/F/flawed-orb-of-gold-dragonkind.md",
+    "3-Rules/Character Building/Equipment/F/flask-of-fellowship.md",
+    "3-Rules/Character Building/Equipment/F/flashblade-major.md",
+    "3-Rules/Character Building/Equipment/F/flashblade-greater.md",
+    "3-Rules/Character Building/Equipment/F/flashblade.md",
+    "3-Rules/Character Building/Equipment/F/fishing-tackle.md",
+    "3-Rules/Character Building/Equipment/F/fishing-tackle-professional.md",
+    "zz-Attachments/flash-beetle-lantern.png",
+    "zz-Attachments/flame-navette.png",
+    "zz-Attachments/fire-jump-ring.png",
+    "3-Rules/Bestiaries/Uniques/D",
+    "3-Rules/Bestiaries/Uniques/J",
+    "zz-Attachments/Captain Okoral.png",
+    "3-Rules/Bestiaries/Uniques/C",
+    "zz-Attachments/Ekaym Smallcask.png",
+    "zz-Attachments/Loris Raknian.png",
+    "zz-Attachments/Bloodstone-Arena-Map.png",
+    "5-World/Settlements/Untitled"
   ]
 }

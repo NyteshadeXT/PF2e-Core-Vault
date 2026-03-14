@@ -1,25 +1,81 @@
 ---
-obsidianUIMode: preview
-title: "Flaming"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/fire
-  - trait/magical
-  - trait/common
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.XszNvxnymWYRaoTp"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "flaming"
+aliases: "Flaming"
+source: "Pathfinder GM Core"
+pg: "237"
+rarity: ""
+trait01: "fire"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 8
+weight: 
+value: "500"
+subvalue: "gp"
+invest:
+usage: "etched onto a weapon"
+license: "ORC"
+identify:
+description: "A weapon with this rune is empowered by flickering flame. The weapon deals an additional `dice: 1d6` 1d6 fire damage on a successful Strike, plus `dice: 1d10` 1d10 persistent fire damage on a critical hit."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
 ---
-# Flaming
-## Item 8
-### [[3-Rules/Trait Reference/F/fire]][[magical]]
 
-
-**Price** 500 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-a-weapon
-
-A weapon with this rune is empowered by flickering flame. The weapon deals an additional 1d6 fire damage on a successful Strike, plus 1d10 persistent fire damage on a critical hit.
-
-*Source: Pathfinder GM Core*
-*ORC*
+```meta-bind-embed
+[[Item Card Template]]
+```

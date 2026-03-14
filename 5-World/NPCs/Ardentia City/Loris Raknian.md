@@ -117,9 +117,7 @@ party1relation: Unmet
 > ```
 
 ## Overview
-
-> [!kirk|info] Prompt (Remove me)
-> Craft an encompassing overview of this NPC's essence. Explore their background, motivations, quirks, and role within the world. Highlight the unique traits that define this character, delving into their personality, history, and connections to the setting. What makes this NPC stand out, and how might they influence or interact with the players and the unfolding story?
+Loris Raknian is a tall, heavily muscled man in his early 50s. Famous for his great strength, Raknian remains an exceptionally hardy man today. He has short grizzled hair, a strong jaw, and small gray eyes.
 
 > [!column|2 no-title]
 >

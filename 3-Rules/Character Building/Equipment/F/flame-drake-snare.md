@@ -7,15 +7,15 @@ notetype: pf2e-item
 name: "flame-drake-snare"
 aliases: "Flame Drake Snare"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "fire"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The snare takes the form of a Tiny, drake-like clockwork toy. When a creature enters its square the snare activates, causing the drake to spit a gout of fire in a 15-foot cone in the direction from which the creature entered. For instance, if a creature entered the square coming from the east, the cone would point east, to hit any allies behind the triggering creature. Those within the cone take 6d6 fire damage with a DC 19 Reflex check save. After spitting its fire, the snare falls apart"
+description: "The snare takes the form of a Tiny, drake-like clockwork toy. When a creature enters its square the snare activates, causing the drake to spit a gout of fire in a 15-foot cone in the direction from which the creature entered. For instance, if a creature entered the square coming from the east, the cone would point east, to hit any allies behind the triggering creature. Those within the cone take `dice: 6d6` 6d6 fire damage with a DC 19 Reflex check save. After spitting its fire, the snare falls apart"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
