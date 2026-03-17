@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "forensic-dye"
 aliases: "Forensic Dye"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "295"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.  Once activated, the dye remains potent for up to 10 minutes, during which time you can spend 1 minute to brush it onto a single object of up to 1 Bulk or across the ground in a single 5-foot square. Where the dye comes in contact with an exact match for the activating chemical, it takes on a bright blue hue, while staying transparent in areas where there is no activating component present."
+activate: "`pf2:1` ([[manipulate]])"
+description: "Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.  Once activated, the dye remains potent for up to 10 minutes, during which time you can spend 1 minute to brush it onto a single object of up to 1 Bulk or across the ground in a single 5-foot square. Where the dye comes in contact with an exact match for the activating chemical, it takes on a bright blue hue, while staying transparent in areas where there is no activating component present."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -150,11 +150,52 @@ craftBase:
 ```dataviewjs
 const name = dv.current().aliases;
 const level = dv.current().level;
-const identify = dv.current().identify;
+const rarity = dv.current().rarity;
+
+const traitFields = [
+  dv.current().trait01,
+  dv.current().trait02,
+  dv.current().trait03,
+  dv.current().trait04,
+  dv.current().trait05,
+  dv.current().trait06,
+  dv.current().trait07,
+  dv.current().trait08
+].filter(Boolean);
+
+const identifySkills = [];
+
+if (traitFields.includes("arcane") || traitFields.includes("Arcane")) {
+  identifySkills.push("Arcana");
+}
+if (traitFields.includes("nature") || traitFields.includes("Nature")) {
+  identifySkills.push("Primal");
+}
+if (traitFields.includes("occult") || traitFields.includes("Occult")) {
+  identifySkills.push("Occultism");
+}
+if (traitFields.includes("divine") || traitFields.includes("Divine")) {
+  identifySkills.push("Religion");
+}
+
+const rarityMap = {
+  "Common": 0,
+  "Uncommon": 2,
+  "Rare": 5,
+  "Unique": 10
+};
+
+const rarityModifier = rarityMap[rarity] ?? 0;
+const identifyDC = Math.round(
+  (level < 20 ? (level + 14 + (level / 3)) : (level * 2)) + rarityModifier
+);
 
 let identifySection = "";
-if (identify) {
-  identifySection = `<div class="pf2e-item-identify"><h4>${identify}</h4></div>`;
+
+if (identifySkills.length > 0) {
+  identifySection = `<div class="pf2e-item-identify"><h4>Identify Magic: ${identifySkills.join(", ")}; DC ${identifyDC}</h4></div>`;
+} else {
+  identifySection = `<div class="pf2e-item-identify"><h4>Identify Magic: Any; DC ${identifyDC}</h4></div>`;
 }
 
 dv.span(`

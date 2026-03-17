@@ -1,9 +1,9 @@
 ---
-metric: false
+metric: true
 gemType: 2
-gemValue: 10
-gemMass: 8
-gemDensity: 170
+gemValue: 100
+gemMass: 36.28
+gemDensity: 2.723400000000006
 ---
 # Gem Table
 

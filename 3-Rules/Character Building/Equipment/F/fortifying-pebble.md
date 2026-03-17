@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "fortifying-pebble"
 aliases: "Fortifying Pebble"
 source: "Pathfinder Lost Omens Character Guide"
-pg: ""
-rarity: ""
+pg: "110"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "affixed to armor shield or weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor, shield, or weapon  **Activate** `pf2:0` envision  **Trigger** The affixed object would take damage  This small pebble is strangely dense and surprisingly durable, affixed to an object by a sturdy steel chain. When you activate the pebble, the affixed object takes 10 less damage."
+activate: "`pf2:0` [[envision]]"
+description: "This small pebble is strangely dense and surprisingly durable, affixed to an object by a sturdy steel chain. When the affixed object would take damage you may activate the pebble, the affixed object takes 10 less damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

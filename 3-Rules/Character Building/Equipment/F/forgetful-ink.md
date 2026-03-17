@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "forgetful-ink"
 aliases: "Forgetful Ink"
 source: "Pathfinder #169: Kindled Magic"
-pg: ""
-rarity: ""
+pg: "75"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Used to write secret messages, a single dose of forgetful ink is enough to pen a page of text, often with flourishes extending to the page's edges. Anyone handling the page is exposed to the poison. This includes casual reading, unless the reader specifically takes precautions not to physically touch it. Unlike other poisons, forgetful ink retains its potency for one year, regardless of the number of victims exposed.  * * *  **Saving Throw** DC 20 Fortitude check (secret)  **Onset** 1 minute  **Stage 1** The reader forgets the contents of the writing, recalling it as blank or as inconsequential text."
+activate: "`pf2:1` [[Interact]]"
+description: "Used to write secret messages, a single dose of forgetful ink is enough to pen a page of text, often with flourishes extending to the page's edges. Anyone handling the page is exposed to the poison. This includes casual reading, unless the reader specifically takes precautions not to physically touch it. Unlike other poisons, forgetful ink retains its potency for one year, regardless of the number of victims exposed.\n\n**Saving Throw** DC 20 Fortitude check (secret)  **Onset** 1 minute  **Stage 1** The reader forgets the contents of the writing, recalling it as blank or as inconsequential text."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

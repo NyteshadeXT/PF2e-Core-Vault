@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "forgetful-drops"
 aliases: "Forgetful Drops"
 source: "Pathfinder Dark Archive"
-pg: ""
-rarity: ""
+pg: "82"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  **Access** Member of a secret society  * * *  These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [[Conditions/Confused|Confused]] state. Secret societies use these drops to befuddle a target or to frame them for violence.  * * *  **Saving Throw** DC 18 Fortitude check  **Onset** 5 minutes;  **Maximum Duration** 1 hour  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** stupefied 1 and [[Conditions/Clumsy|Clumsy 1]] (20 minutes)  **Stage 3** stupefied 1, clumsy 1, and [[Conditions/Confused|Confused]] (30 minutes)"
+activate: "`pf2:1` [[Interact]]"
+description: "These innocuous, colorless drops can be poured directly into a victim's mouth, or slipped into their food or drink. They initially haze a victim's mind slightly, making them easier to fool; in later stages, they can lead to the victim entering a murderous [[Confused]] state. Secret societies use these drops to befuddle a target or to frame them for violence.\n\n**Saving Throw** DC 18 Fortitude check  **Onset** 5 minutes;  **Maximum Duration** 1 hour  **Stage 1** [[Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** [[Stupefied|Stupefied 1]] and [[Clumsy|Clumsy 1]] (20 minutes)  **Stage 3** [[Stupefied|Stupefied 1]], [[Clumsy|Clumsy 1]], and [[Confused]] (30 minutes)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "fortress-plate"
 aliases: "Fortress Plate"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "10"
 rarity: ""
 trait01: "bulwark"
 trait02: "entrench-ranged"
 trait03: "ponderous"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -22,6 +22,7 @@ level: 2
 weight: 5
 value: "32"
 subvalue: "gp"
+group: "Plate"
 invest:
 usage: "wornarmor"
 license: "ORC"
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 6
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+dexCap: 0
+strRequirement: "+4"
+checkPenalty: "-3"
+speedPenalty: "-10ft"
+armorCategory: Heavy
 resist:
 immunity:
 conditionImmunity:
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE armorBase = "Fortress Plate"
+SORT level ASC
+
+```

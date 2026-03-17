@@ -1,8 +1,3 @@
----
-tags:
-  - "#todos"
----
-
 # General ToDos
 - [ ] Update items to new template
 	- Currently on letter 'F'
@@ -12,7 +7,6 @@ tags:
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
 	- [ ] Add Duskwood Branch and Lumber
-- [ ] Update item templates with Identification criteria
 - [ ] Create trait template
 - [ ] Update traits to new template
 - [ ] Create an afflictions template
@@ -27,6 +21,7 @@ tags:
 - [ ] Do I want to add gems to the items?
 - [ ] Update Chimeracrafting with Imbuements from the Elemental Storm book after it is added to Foundry
 
+---
 
 # Item Generator ToDos
 - [ ] Bane ammo needs a creature type
@@ -49,9 +44,13 @@ tags:
 - [ ] Essence Charm should have a skill that it drops with
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
 - [ ] Remove Feather Tokens.  They've been replaced by Marvelous Miniatures
+- [ ] Create formula books with various formulas in them instead of just having blank formula books.
+
+---
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?
 - [ ] Elaborate role of a "Dungeon Cartographer" for the [[Dungeon Seekers Guild]].
+- [ ] Create a Dungeon Sherpa NPC type for Dungeon exploration.  Available from the [[Dungeon Seekers Guild]].
 - [ ] What is a Dimensionalist?  How do we leverage that?  Proposed as a teacher at [[Terramore Academy]] along with a necromancy class.
 - [ ] Ardentia City has a thieves guild.  How would they stay under the radar of the Arcane Conclave AND the Seekers guild?  They need a name.

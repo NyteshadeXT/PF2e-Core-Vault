@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "force-shield"
 aliases: "Force Shield"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "234"
+rarity: "uncommon"
 trait01: "force"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.  * * *  **Activate—Force Bubble** `pf2:1` (concentrate, force)  **Frequency** once per day  **Effect** The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield.  [[Equipment Effects/Effect_ Force Shield|Effect: Force Shield]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The edges of this elaborately engraved [[Steel Shield]] bear tiny glass tiles set in mosaic patterns."
+powerTitle1: "Force Bubble"
+actionEconomy1: "`pf2:1`"
+type1: "([[concentrate]], [[force]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -67,11 +67,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 8
+hp: 32
+bt: 16
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
