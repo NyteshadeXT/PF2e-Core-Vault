@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "freezing-ammunition"
 aliases: "Freezing Ammunition"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "301"
 rarity: ""
 trait01: "cold"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This chilly ammunition is dark blue and cold to the touch. When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure)."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This chilly ammunition is dark blue and cold to the touch. When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude check save or be [[Slowed|Slowed 1]] for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Any"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

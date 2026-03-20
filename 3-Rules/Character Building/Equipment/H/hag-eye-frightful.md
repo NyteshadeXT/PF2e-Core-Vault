@@ -4,8 +4,8 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "frightful-hag-eye"
-aliases: "Frightful Hag Eye"
+name: "hag-eye-frightful"
+aliases: "Hag Eye (Frightful)"
 source: "Pathfinder #182: Graveclaw"
 pg: ""
 rarity: ""

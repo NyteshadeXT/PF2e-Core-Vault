@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "frog-chair"
 aliases: "Frog Chair"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "91"
+rarity: "uncommon"
 trait01: "clockwork"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,19 +26,19 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This clockwork traveler's chair is shaped like a wheeled frog, with springs attached to the bottom and an extensible tongue on the front.  * * *  **Activate—Frog Hop** `pf2:1` (manipulate)  **Frequency** once per hour  **Effect** You activate the wheelchair's springs to make hopping leaps. For 1 minute, whenever you [[Actions/Leap|Leap]] with the wheelchair, you can jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.  * * *  **Activate—Grrrabbit!** `pf2:1` (manipulate)  **Frequency** once per minute  **Effect** You activate the wheelchair's tongue to grab a nearby object and bring it to you. [[Actions/Interact|Interact]] to pick up an unattended object within 15 feet and bring it to your empty hand. If you don't have a hand to take the object, it falls in your space instead."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This clockwork traveler's chair is shaped like a wheeled frog, with springs attached to the bottom and an extensible tongue on the front."
+powerTitle1: "Frog Hop"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You activate the wheelchair's springs to make hopping leaps. For 1 minute, whenever you [[Leap]] with the wheelchair, you can jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action."
+powerTitle2: "Grrrabbit!"
+actionEconomy2: "`pf2:1`"
+type2: "([[manipulate]])"
+frequency2: "once per minute"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You activate the wheelchair's tongue to grab a nearby object and bring it to you. [[Interact]] to pick up an unattended object within 15 feet and bring it to your empty hand. If you don't have a hand to take the object, it falls in your space instead."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

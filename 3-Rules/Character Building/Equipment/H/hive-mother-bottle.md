@@ -17,7 +17,7 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/hive-mother-bottle.png
 level: 8
 weight: L
 value: "100"

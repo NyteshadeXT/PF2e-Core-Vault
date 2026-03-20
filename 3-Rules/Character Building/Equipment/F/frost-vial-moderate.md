@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "foxglove-token-(greater)"
-aliases: "Foxglove Token (Greater)"
-source: "Pathfinder #202: Severed at the Root"
-pg: ""
+name: "frost-vial-moderate"
+aliases: "Frost Vial (Moderate)"
+source: "Pathfinder Player Core 2"
+pg: "285"
 rarity: ""
-trait01: "magical"
-trait02: "poison"
-trait03: "spellheart"
-trait04: "uncommon"
-trait05: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "cold"
+trait04: "consumable"
+trait05: "splash"
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 8
+image: zz-Attachments/frost-vial.png
+level: 3
 weight: L
-value: "425"
+value: "10"
 subvalue: "gp"
 invest:
-usage: "affixed to armor or a weapon"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This small piece of wood is finely carved to depict a foxglove. The spell DC of any spell cast by Activating this item is 24.  *   **Armor** You gain resistance 5 to poison damage. *   **Weapon** After you cast a plant spell by activating the foxglove token, your Strikes with the weapon it's attached to deal an additional 1d6 poison damage until the end of your next turn.  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Puff of Poison|Puff of Poison]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 3rd-rank [[Spells/Noxious Vapors|Noxious Vapors]]."
+activate: "`pf2:1` [[Strike]]"
+description: "The bright blue liquid reagents in this vial rapidly absorb heat when exposed to air. A frost vial deals `dice: 2d6` cold damage and 2 cold splash damage. On a hit, the target takes a -10-foot status penalty to its Speeds until the end of its next turn. You gain a +1 item bonus to attack rolls."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 2d6 cold
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

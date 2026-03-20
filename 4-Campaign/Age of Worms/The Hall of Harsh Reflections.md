@@ -584,7 +584,7 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > Telakin has a number of magic items on his person including a key ring with keys to every room in Sodden Hold, a +1 striking frost greataxe, scroll of fireball and a wand of heal.  Two sapphires each worth 200 gp sit in locked (DC 25 [[skills#Thievery|Thievery]]) containers near the device to the west.
 > 
 > - [x] gp::400
-> - [x] permanent::[[Frost|+1 Striking Frost Greataxe]] [ilvl::8] [gp::535]
+> - [x] permanent::[[frost|+1 Striking Frost Greataxe]] [ilvl::8] [gp::535]
 > - [x] permanent::[[Heal|Wand of Heal]] [ilvl::3] [gp::60]
 > - [x] consumable::[[Fireball|Scroll of Fireball]] [ilvl::5] [gp::30]
 

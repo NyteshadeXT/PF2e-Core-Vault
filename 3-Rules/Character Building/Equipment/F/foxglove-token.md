@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "foxglove-token"
 aliases: "Foxglove Token"
 source: "Pathfinder #202: Severed at the Root"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "poison"
 trait03: "spellheart"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "This small piece of wood is finely carved to depict a foxglove. The spell DC of any spell cast by Activating this item is 17.  *   **Armor** You gain resistance 2 to poison damage. *   **Weapon** After you cast a plant spell by activating the foxglove token, your Strikes with the weapon it's attached to deal an additional 1d4 poison damage until the end of your next turn.  **Activate** Cast a Spell  * * *  **Effect** You cast [[Spells/Puff of Poison|Puff of Poison]]."
-powerTitle1:
+description: "This small piece of wood is finely carved to depict a foxglove. The spell DC of any spell cast by Activating this item is 17.\n\n*   **Armor** You gain resistance 2 to poison damage.\n*   **Weapon** After you cast a plant spell by activating the foxglove token, your Strikes with the weapon it's attached to deal an additional `dice: 1d4` poison damage until the end of your next turn."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You cast [[Puff of Poison]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

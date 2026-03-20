@@ -7,15 +7,15 @@ notetype: pf2e-item
 name: "frost-worm-snare"
 aliases: "Frost Worm Snare"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "80"
+rarity: "uncommon"
 trait01: "clockwork"
 trait02: "cold"
 trait03: "consumable"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The snare takes the form of a Tiny frost worm clockwork toy. When a creature enters its square, the snare activates, causing the worm to let loose a 30-foot line of frost in the direction from which the creature entered the square. For instance, if a creature entered the square coming from the south, the worm would shoot the line south, to hit any allies of the triggering creature. Those within the line take 10d6 cold damage with a DC 25 Reflex check save. After spitting its frost, the snare falls apart."
+description: "The snare takes the form of a Tiny frost worm clockwork toy. When a creature enters its square, the snare activates, causing the worm to let loose a 30-foot line of frost in the direction from which the creature entered the square. For instance, if a creature entered the square coming from the south, the worm would shoot the line south, to hit any allies of the triggering creature. Those within the line take `dice: 10d6` cold damage with a DC 25 Reflex check save. After spitting its frost, the snare falls apart."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

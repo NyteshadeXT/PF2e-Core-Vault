@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "frostwalker-pattern"
 aliases: "Frostwalker Pattern"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "120"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Northern peoples design magical tattoos to protect against wintry weather, typically in geometric patterns with a combination of straight lines and whorls. This tattoo negates any damage you take from severe environmental cold and reduces damage you take from extreme cold to equal that of severe cold.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** Until the end of your next turn, you ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Northern peoples design magical tattoos to protect against wintry weather, typically in geometric patterns with a combination of straight lines and whorls. This tattoo negates any damage you take from severe environmental cold and reduces damage you take from extreme cold to equal that of severe cold."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
+frequency1: "once per day"
+trigger1: 
+mechanics1: "Until the end of your next turn, you ignore difficult terrain and greater difficult terrain from ice and snow and don't risk falling when crossing ice."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
