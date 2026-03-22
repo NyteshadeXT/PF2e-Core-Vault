@@ -302,13 +302,6 @@ if (arm.length)           stats.push(arm.join("; "));
   if (parts.length) stats.push(parts.join("; "));
 }
 
-// Durability (Hardness / HP / BT)
-let dur = [];
-if (d.hardness  != null) dur.push(`**Hardness** ${d.hardness}`);
-if (d.hitpoints != null) dur.push(`**HP** ${d.hitpoints}`);
-if (d.break     != null) dur.push(`**BT** ${d.break}`);
-if (dur.length)          stats.push(dur.join("; "));
-
 // ─── Usage / Shield / Activate / Craft / License / Invest ─────────────
 if (d.usage) stats.push(`**Usage** ${d.usage}`);
 

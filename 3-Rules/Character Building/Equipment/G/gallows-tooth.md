@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "gallows-tooth"
 aliases: "Gallows Tooth"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "265"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/gallows-tooth.png
 level: 8
 weight: 
 value: "100"
@@ -26,7 +26,8 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[Conditions/Off-Guard|Off-Guard]] against the Strike and until the end of your turn."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[Off-Guard]] against the Strike and until the end of your turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

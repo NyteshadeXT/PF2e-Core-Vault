@@ -1,30 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Galvasphere"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/consumable
-  - trait/gadget
-  - trait/rare
-  - category/gadget
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.RtTzHaHMrXiml7ut"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "galvasphere"
+aliases: "Galvasphere"
+source: "Pathfinder Guns & Gears"
+pg: "82"
+rarity: "rare"
+trait01: "consumable"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 4
+group: 
+bulk: "L"
+value: "20"
+subvalue: "gp"
+invest: 
+usage: "held in one hand"
+license: "ORC"
+identify: ""
+description: "A galvasphere animates a corpse to motion via electricity, rather than dark magic. When you Activate the galvasphere by inserting it into an adjacent intact Medium or Small humanoid corpse, the corpse animates as a galvaheart zombie for 1 minute. The galvaheart zombie has the statistics of a zombie shambler except that it's a construct instead of an undead, isn't unholy, can't be harmed by vitality energy, and is the same size as the corpse (Medium or Small). The zombie is your minion and performs the actions you choose when you Command it. If you don't Command it, it takes no action, twitching in place as the electricity that animates it slowly expends itself."
+activate: "`pf2:2` ([[manipulate]])"
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: ""
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Galvasphere
-## Item 4
-### [rare](rare "Rare Rarity Trait")[[consumable]][[gadget]]
 
-**Category** gadget; 
-**Price** 20 gp; 
-**Bulk** L; **Size** med
-**Usage** held-in-one-hand
 
-**Activate** `pf2:2` (manipulate)
-
-* * *
-
-A galvasphere animates a corpse to motion via electricity, rather than dark magic. When you Activate the galvasphere by inserting it into an adjacent intact Medium or Small humanoid corpse, the corpse animates as a galvaheart zombie for 1 minute. The galvaheart zombie has the statistics of a zombie shambler except that it's a construct instead of an undead, isn't unholy, can't be harmed by vitality energy, and is the same size as the corpse (Medium or Small). The zombie is your minion and performs the actions you choose when you Command it. If you don't Command it, it takes no action, twitching in place as the electricity that animates it slowly expends itself.
-
-*Source: Pathfinder Guns & Gears*
-*ORC*
+```meta-bind-embed
+[[Item Card Template]]
+```

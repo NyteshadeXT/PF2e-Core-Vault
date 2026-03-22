@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "fulminating-spear"
 aliases: "Fulminating Spear"
 source: "Pathfinder #170: Spoken on the Song Wind"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "fire"
 trait02: "magical"
 trait03: "monk"
 trait04: "thrown-20"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -22,17 +22,18 @@ level: 7
 weight: 1
 value: "360"
 subvalue: "gp"
+group: "Spear"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+1 striking returning spear_ is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the concentrate trait.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  **Effect** You touch the ruby and hurl the spear at a square within 40 feet. When the spear lands, it detonates, dealing 6d6 fire damage (DC 23 Reflex check) to all creatures in a 10-foot emanation. It then flies back to your hand."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This _[[Weapon Potency (+1)|+1]] [[striking]] [[returning]] [[spear]]_ is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the concentrate trait."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You touch the ruby and hurl the spear at a square within 40 feet. When the spear lands, it detonates, dealing `dice: 6d6` fire damage (DC 23 Reflex check) to all creatures in a 10-foot emanation. It then flies back to your hand."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Spear"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

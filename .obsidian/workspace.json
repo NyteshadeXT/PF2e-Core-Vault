@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f9dfcb6e218ec63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/F/fulcrum-lattice.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "fulcrum-lattice"
-            }
-          },
-          {
-            "id": "125ba500f8786646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/ToDo List.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ToDo List"
-            }
-          },
-          {
-            "id": "3700285832b9c44f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Hall of Harsh Reflections"
-            }
-          },
-          {
             "id": "f5590ead26f763b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
-                "mode": "source",
+                "file": "3-Rules/Character Building/Equipment/G/Gauntlight.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "Gauntlight"
             }
           },
           {
@@ -103,6 +61,34 @@
               },
               "icon": "lucide-file",
               "title": "dwarven-arena-berserker"
+            }
+          },
+          {
+            "id": "eed88783bc690480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
+          },
+          {
+            "id": "0503416d9d28acf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/ToDo List.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ToDo List"
             }
           }
         ]
@@ -162,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 309.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -178,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "file": "3-Rules/Character Building/Equipment/G/Gauntlight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Hall of Harsh Reflections"
+              "title": "Backlinks for Gauntlight"
             }
           },
           {
@@ -275,8 +261,7 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "08e1ec96293864fd",
@@ -321,44 +306,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3f9dfcb6e218ec63",
+  "active": "f5590ead26f763b3",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/F/fu-water.md",
-    "3-Rules/Character Building/Equipment/F/fulcrum-lattice.md",
-    "3-Rules/Character Building/Equipment/F/frying-pan.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-sakalayo.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-pale-mountain.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-mhar-massif.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-ka.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-droskars-crag.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-blackpeak.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava-of-barrowsiege.md",
-    "3-Rules/Character Building/Equipment/F/frozen-lava.md",
-    "3-Rules/Character Building/Equipment/F/frostwalker-pattern.md",
-    "3-Rules/Character Building/Equipment/F/frost-worm-snare.md",
-    "3-Rules/Character Building/Equipment/F/frost-vial-moderate.md",
-    "3-Rules/Character Building/Equipment/F/frost-vial-major.md",
-    "3-Rules/Character Building/Equipment/F/frost-vial-lesser.md",
-    "3-Rules/Character Building/Equipment/F/frost-vial-greater.md",
+    "3-Rules/Character Building/Equipment/G/gauntlet-buckler.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/G/Gauntlight.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Character Building/Equipment/G/gauntlet-bow.md",
+    "3-Rules/Character Building/Equipment/G/gearbinder-oil-(greater).md",
+    "3-Rules/Character Building/Equipment/G/Gada.md",
+    "3-Rules/Character Building/Equipment/G/Gaff.md",
+    "3-Rules/Character Building/Equipment/G/Gauntlet.md",
+    "zz-Attachments/gauntlet-buckler.png",
+    "3-Rules/Character Building/Equipment/G/gate-attenuator-major.md",
+    "3-Rules/Character Building/Equipment/G/gate-attenuator-greater.md",
+    "3-Rules/Character Building/Equipment/G/gate-attenuator.md",
+    "3-Rules/Character Building/Equipment/G/gasping-lament-greater.md",
+    "3-Rules/Character Building/Equipment/G/gasping-lament.md",
+    "3-Rules/Character Building/Equipment/G/garrote-shot.md",
+    "3-Rules/Character Building/Equipment/G/garrote-bolt.md",
+    "zz-Attachments/garrote-bolt.png",
+    "3-Rules/Character Building/Equipment/G/ganjay-book-(light-bulk-book).md",
+    "3-Rules/Character Building/Equipment/G/ganjay-book-(1-bulk-book).md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "3-Rules/Character Building/Equipment/G/gamtu-hat.md",
+    "3-Rules/Character Building/Equipment/L/loaded-dice.md",
+    "3-Rules/Character Building/Equipment/G/gamepiece-chariot.md",
+    "3-Rules/Character Building/Equipment/G/gamblers-staff.md",
+    "3-Rules/Character Building/Equipment/G/Galvasphere.md",
+    "3-Rules/Character Building/Equipment/G/galvanic-mortal-coil.md",
+    "zz-Attachments/gallows-tooth.png",
+    "zz-Attachments/gakgung.png",
     "zz-Attachments/frost-vial.png",
-    "3-Rules/Character Building/Equipment/F/frost-greater.md",
-    "3-Rules/Character Building/Equipment/F/frost.md",
-    "3-Rules/Character Building/Equipment/F/frogskin-tincture.md",
     "zz-Attachments/frogskin-tincture.png",
-    "3-Rules/Character Building/Equipment/H/hive-mother-bottle.md",
     "zz-Attachments/hive-mother-bottle.png",
-    "3-Rules/Character Building/Equipment/H/Hive Mother Bottle.md",
-    "3-Rules/Character Building/Equipment/F/frog-chair.md",
-    "3-Rules/Character Building/Equipment/F/frenzy-oil.md",
-    "3-Rules/Character Building/Equipment/H/hag-eye-frightful.md",
-    "3-Rules/Character Building/Equipment/H/hag-eye.md",
     "zz-Attachments/freedoms-flame.png",
     "zz-Attachments/four-tiger-blade.png",
     "zz-Attachments/fossil-fragment.png",
-    "zz-Attachments/fortress-shield.png",
-    "zz-Attachments/formula-book-blank.png",
-    "zz-Attachments/forgotten-signet.png",
-    "zz-Attachments/forge-warden.png",
     "3-Rules/Bestiaries/Uniques/D",
     "3-Rules/Bestiaries/Uniques/J",
     "3-Rules/Bestiaries/Uniques/C",

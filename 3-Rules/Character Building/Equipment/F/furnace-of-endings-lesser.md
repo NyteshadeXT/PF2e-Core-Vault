@@ -4,36 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "gauntlet-bow"
-aliases: "Gauntlet Bow"
-source: "Pathfinder Treasure Vault"
-pg: "31"
-rarity: ""
-trait01: "capacity-4"
-trait02: "free-hand"
-trait03: "parry"
+name: "furnace-of-endings-lesser"
+aliases: "Furnace of Endings (Lesser)"
+source: "Pathfinder Lost Omens Highhelm"
+pg: "58"
+rarity: "uncommon"
+trait01: "fire"
+trait02: "invested"
+trait03: "magical"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 0
-weight: 1
-value: "9"
+level: 2
+weight: L
+value: "35"
 subvalue: "gp"
-group: "Crossbow"
 invest:
-usage: "held in one hand "
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The gauntlet bow is a heavy metal glove with a built-in crossbow and rotating chamber mechanism for easy reloading. A gauntlet bow can be used to make melee attacks like a standard gauntlet. You can't reload a gauntlet bow with the hand wielding it."
-powerTitle1: "Critical Specialization"
+description: "Ash Cultists make use of these metal scroll cases to deliver secret messages or as ways to "smuggle" stolen documents since initial inspections find an elegant yet empty case. The cases are enchanted to instantly immolate any parchment or document placed inside of it. While invested, you can Interact with the scroll case to recreate the last message that was destroyed this way. For as long as the case is open, ashes will rise into the air, recreating the text of the message exactly as it was written. When you close the case or leave it unattended for 1 minute, the message scatters until the next time you Interact with it."
+powerTitle1:
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1: "The target takes `dice: 1d8` persistent bleed damage. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls."
+mechanics1:
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,15 +44,15 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "60 ft"
+range: 
 ammoType:
-damage:  
-dmg1: 1d4
-dmg1Type: piercing
+damage: 
+dmg1:
+dmg1Type:
 dmg2:
 dmg2Type:
-weaponType: Ranged
-weaponCategory: Martial
+weaponType:
+weaponCategory:
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -79,17 +78,4 @@ armorBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Gauntlet Bow"
-SORT level ASC
-
 ```

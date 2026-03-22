@@ -1,12 +1,13 @@
 # General ToDos
 - [ ] Update items to new template
-	- Currently on letter 'F'
+	- Currently on letter 'G'
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
 	- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline. 
 	- [ ] [[Devoted Vestments]] need to have a deity tied to them.
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
 	- [ ] Add Duskwood Branch and Lumber
+	- [ ] Ganjay books are formula books, religious texts or spellbooks.  Need to determine how to handle this.
 - [ ] Create trait template
 - [ ] Update traits to new template
 - [ ] Create an afflictions template
@@ -45,6 +46,7 @@
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
 - [ ] Remove Feather Tokens.  They've been replaced by Marvelous Miniatures
 - [ ] Create formula books with various formulas in them instead of just having blank formula books.
+- [ ] Garrote Shot can be any ammo type.
 
 ---
 

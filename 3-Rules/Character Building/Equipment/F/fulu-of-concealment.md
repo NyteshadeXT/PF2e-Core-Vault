@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "fulu-of-concealment"
 aliases: "Fulu of Concealment"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "159"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "illusion"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "affixed to ground in 10 foot radius"
 license: "ORC"
 identify:
-description: "**Usage** affixed to the ground in four spaces along a 10-foot radius circle  **Duration** 1 hour  * * *  This fulu comes in four pieces, one placed in each cardinal direction. Choose one of the following traits when Activating the fulus: animal, beast, celestial, fey, fiend, humanoid, monitor, plant, or undead. Those within the fulus' circle upon activation (including the fulus themselves) gain the effect of [[Spells/Shared Invisibility|Invisibility Sphere]], but only against creatures with the chosen trait. If any of the fulus are moved or destroyed after activation, the effect ends."
+description: "This fulu comes in four pieces, one placed in each cardinal direction. Choose one of the following traits when Activating the fulus: animal, beast, celestial, fey, fiend, humanoid, monitor, plant, or undead. Those within the fulus' circle upon activation (including the fulus themselves) gain the effect of [[Invisibility Sphere]] for one hour, but only against creatures with the chosen trait. If any of the fulus are moved or destroyed after activation, the effect ends."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

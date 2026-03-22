@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "gamblers-staff"
 aliases: "Gambler's Staff"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "132"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -22,11 +22,13 @@ level: 12
 weight: 1
 value: "2000"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A small glass orb on the head of a _gambler's staff_ holds a pair of six-sided dice that shift and roll within. Spellcasters who make their living via games of chance use _gamblers' staves_ to encourage the odds in their favor. Most gambling dens ban players they discover using such magic items. A _gambler's staff_ grants you a +2 circumstance bonus to checks to [[Actions/Earn Income|Earn Income]] from gambling (typically using Games Lore). To get this benefit, the staff must be on your person during all the downtime you spend gambling.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Wash Your Luck|Wash Your Luck]] *   **1st** [[Spells/Nudge the Odds|Nudge the Odds]] *   **2nd** [[Spells/Lucky Number|Lucky Number]] *   **3rd** [[Spells/Shift Blame|Shift Blame]] *   **4th** [[Spells/Read Omens|Read Omens]], [[Spells/Winning Streak|Winning Streak]] *   **5th** [[Spells/Nudge the Odds|Nudge the Odds]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+activate: "Cast a Spell"
+description: "A small glass orb on the head of a _gambler's staff_ holds a pair of six-sided dice that shift and roll within. Spellcasters who make their living via games of chance use _gamblers' staves_ to encourage the odds in their favor. Most gambling dens ban players they discover using such magic items. A _gambler's staff_ grants you a +2 circumstance bonus to checks to [[Actions/Earn Income|Earn Income]] from gambling (typically using Games Lore). To get this benefit, the staff must be on your person during all the downtime you spend gambling.\n\nYou expend a number of charges from the staff to cast a spell from its list.\n*   **Cantrip** [[Wash Your Luck]]\n*   **1st** [[Nudge the Odds]]\n*   **2nd** [[Lucky Number]]\n*   **3rd** [[Shift Blame]]\n*   **4th** [[Read Omens]], [[Winning Streak]]\n*   **5th** [[Nudge the Odds]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,20 +41,20 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +73,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

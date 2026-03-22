@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "garrote-shot"
 aliases: "Garrote Shot"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "81"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` command  Wiry designs mark the silvery coating on a garrote shot. When the activated ammunition hits a target, it transforms into a silvery garrote that wraps around one of the target's appendages, dealing 2d12 persistent slashing. On a critical hit, it wraps around the target's throat if it has one, and the target can't breathe until the persistent damage ends. If the persistent damage kills the target, the garrote severs the appendage it's wrapped around."
+activate: "`pf2:1` [[command]]"
+description: "Wiry designs mark the silvery coating on a garrote shot. When the activated ammunition hits a target, it transforms into a silvery garrote that wraps around one of the target's appendages, dealing `dice: 2d12` persistent slashing. On a critical hit, it wraps around the target's throat if it has one, and the target can't breathe until the persistent damage ends. If the persistent damage kills the target, the garrote severs the appendage it's wrapped around."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Any"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

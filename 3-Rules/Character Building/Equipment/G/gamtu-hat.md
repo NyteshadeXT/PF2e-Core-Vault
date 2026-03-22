@@ -10,7 +10,7 @@ source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "You conjure a magical gamtu hat, which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear.  **Activate—Hat Trick** `pf2:2` (manipulate)  * * *  **Effect** You tap the hat and gain the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell, which lasts for the spell's normal duration, until the hat is removed, or until the hat's normal duration runs out, whichever comes first. After the spell ends, the gamtu disappears."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "You conjure a magical gamtu hat, which is a magic item of light Bulk. The gamtu persists for 1 hour, and you can give the gamtu to another creature to wear."
+powerTitle1: "Hat Trick"
+actionEconomy1: "`pf2:2`"
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You tap the hat and gain the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell, which lasts for the spell's normal duration, until the hat is removed, or until the hat's normal duration runs out, whichever comes first. After the spell ends, the gamtu disappears."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

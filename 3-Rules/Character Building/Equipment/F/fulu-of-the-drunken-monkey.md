@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "fulu-of-the-drunken-monkey"
 aliases: "Fulu of the Drunken Monkey"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "159"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You attempt a Fortitude save against an ingested poison.  * * *  The monkey on this fulu sits on the point of the armor just over the bearer's stomach, happily drinking any intoxicants that come flowing down. When you activate the fulu, you gain a +2 status bonus on the triggering Fortitude save and on Fortitude saves against the same poison for the next minute. If the triggering poison was normal [[Equipment/Alcohol|Alcohol]], you instead automatically succeed at the triggering save and gain a +4 status bonus on saves against alcohol for 1 minute."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The monkey on this fulu sits on the point of the armor just over the bearer's stomach, happily drinking any intoxicants that come flowing down. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You attempt a Fortitude save against an ingested poison."
+mechanics1: "When you activate the fulu, you gain a +2 status bonus on the triggering Fortitude save and on Fortitude saves against the same poison for the next minute. If the triggering poison was normal [[alcohol|Alcohol]], you instead automatically succeed at the triggering save and gain a +4 status bonus on saves against alcohol for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

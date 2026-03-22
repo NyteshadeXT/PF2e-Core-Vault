@@ -4,12 +4,12 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "fulcrum-lattice"
-aliases: "Fulcrum Lattice"
-source: "Pathfinder #165: Eyes of Empty Death"
-pg: "76"
-rarity: "unique"
-trait01: "occult"
+name: "loaded-dice"
+aliases: "Loaded Dice"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: ""
+rarity: ""
+trait01: "common"
 trait02: ""
 trait03: ""
 trait04: ""
@@ -18,15 +18,15 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
-weight: 2
-value: "1200"
+level: 1
+weight: L
+value: "5"
 subvalue: "gp"
 invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This silver and copper framework is shaped to hold four focusing lenses, one behind the other, from smallest to largest. It has a socketed base to be mounted into a stand, such as that found in a lighthouse lantern. The Fulcrum Lattice was specifically designed to hold the four fulcrum lenses from smallest to largest (ebon, crimson, ochre, emerald), and it hums slightly while within 10 feet of any fulcrum lens. A fulcrum lens slotted into the Fulcrum Lattice has no Bulk; the lattice remains at 1 Bulk and can be carried easily. Inserting or removing a lens from the Fulcrum Lattice requires a single Interact action.\n\nThe Fulcrum Lattice channels the power of fulcrum lenses joined with it. While you hold the Fulcrum Lattice, lenses socketed into it are considered to be in your hand for the purpose of activating their abilities. When you make a melee spell attack with a lens in the Fulcrum Lattice, you use the highest melee spell attack modifier of any lens in the lattice, or you can use your melee attack modifier with simple weapons if it's greater."
+description: "A nigh-infinite assortment of games exist in Golarion. Simple games, including dice, a deck of cards, or dominoes, cost 5 sp. Board games vary in cost from 1 gp for dexterity games like Bungle, 3 gp for colorful children's games like Cauldron Quest, and 5 gp for complex strategy games like Kingmaker and Abendego Raiders. Lavish game sets can cost much more than these prices, as they are made of expensive components and are intricately crafted works of art unto themselves.  * * *  These dice are weighted on one side to ensure they always land with the desired number facing up. Loaded dice grant you a +1 item bonus to Games Lore checks to gamble with the dice. You can determine a die is loaded while handling it with a successful secret DC 20 Perception check check. Determining dice are loaded without handling the dice is more difficult, especially since smart cheaters switch loaded dice in and out so they don't suspiciously roll the same number over and over. In this case, an observer must succeed at a secret Perception check against the roller's Games Lore or Thievery DC to notice the switches or the patterns."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,7 +75,3 @@ weaponBase:
 armorBase:
 
 ---
-
-```meta-bind-embed
-[[Item Card Template]]
-```

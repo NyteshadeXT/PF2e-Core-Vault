@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "gada"
-aliases: "Gada"
-source: "Pathfinder Lost Omens Impossible Lands"
-pg: "220"
+name: "gauntlet-buckler"
+aliases: "Gauntlet Buckler"
+source: "Pathfinder Treasure Vault*"
+pg: "20"
 rarity: ""
-trait01: "backswing"
-trait02: "two-hand d12"
-trait03: "vanara"
+trait01: "foldaway"
+trait02: ""
+trait03: ""
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 0 
-group: "Club"
+image: zz-Attachments/gauntlet-buckler.png
+level: 0
+group: 
 bulk: "1"
-value: "1"
+value: "5"
 subvalue: "gp"
 invest: 
-usage: "held in one hand"
-license: "OGL"
+usage: ""
+license: "ORC"
 identify: ""
-description: "A large spherical head with a spike on top sits mounted to a long shaft."
+description: "This [[buckler|buckler-sized]] shield is segmented, allowing it to collapse into a housing bound to a [[Gauntlet]] for easy storage. A small catch enables you to expand the shield quickly in battle when you're in need of defense."
 activate: ""
 craft: 
 destruction: 
@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization"
+powerTitle1: ""
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -42,7 +42,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: "You knock the target away from you up to 10 feet (you choose the distance). This is forced movement."
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -90,17 +90,17 @@ range:
 ammoType:
 reload:
 damage: 
-dmg1: 1d8
-dmg1Type: Bludgeoning 
+dmg1: 
+dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: Advanced
-weaponCategory: Melee
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
+baseAC: 1
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -109,9 +109,9 @@ armorCategory:
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+hardness: 3
+hp: 6
+bt: 3
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -152,7 +152,7 @@ TABLE
   level     AS "Level",
   license   AS "License"
 FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Gada")
+WHERE contains(weaponbase, "Gauntlet Buckler")
 SORT level ASC
 
 ```
