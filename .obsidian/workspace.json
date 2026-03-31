@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/G/Gauntlight.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/G/ghost-ammunition.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gauntlight"
+              "title": "ghost-ammunition"
             }
           },
           {
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/G/Gauntlight.md",
+                "file": "3-Rules/Character Building/Equipment/G/ghost-ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gauntlight"
+              "title": "Backlinks for ghost-ammunition"
             }
           },
           {
@@ -308,13 +308,24 @@
   },
   "active": "f5590ead26f763b3",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/G/gauntlet-buckler.md",
+    "3-Rules/Character Building/Equipment/G/ghastly-cauldron.md",
+    "3-Rules/Character Building/Equipment/G/ghast-stiletto.md",
+    "3-Rules/Character Building/Equipment/G/genius-diadem.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/G/genealogy-mask.md",
+    "3-Rules/Character Building/Equipment/G/gelid-shard.md",
+    "3-Rules/Character Building/Equipment/G/gecko-potion.md",
+    "3-Rules/Character Building/Equipment/G/gecko-pads-greater.md",
+    "3-Rules/Character Building/Equipment/G/gecko-pads.md",
+    "3-Rules/Character Building/Equipment/G/gearblade.md",
+    "3-Rules/Character Building/Equipment/G/gearbinder-oil-lesser.md",
+    "3-Rules/Character Building/Equipment/G/gearbinder-oil-moderate.md",
+    "3-Rules/Character Building/Equipment/G/gearbinder-oil-greater.md",
     "3-Rules/Character Building/Equipment/G/Gauntlight.md",
+    "3-Rules/Character Building/Equipment/G/gauntlet-buckler.md",
+    "zz-Templates/Markdown/Item Card Template.md",
     "1-GM Toolkit/ToDo List.md",
     "3-Rules/Character Building/Equipment/G/gauntlet-bow.md",
-    "3-Rules/Character Building/Equipment/G/gearbinder-oil-(greater).md",
     "3-Rules/Character Building/Equipment/G/Gada.md",
     "3-Rules/Character Building/Equipment/G/Gaff.md",
     "3-Rules/Character Building/Equipment/G/Gauntlet.md",
@@ -324,18 +335,7 @@
     "3-Rules/Character Building/Equipment/G/gate-attenuator.md",
     "3-Rules/Character Building/Equipment/G/gasping-lament-greater.md",
     "3-Rules/Character Building/Equipment/G/gasping-lament.md",
-    "3-Rules/Character Building/Equipment/G/garrote-shot.md",
-    "3-Rules/Character Building/Equipment/G/garrote-bolt.md",
     "zz-Attachments/garrote-bolt.png",
-    "3-Rules/Character Building/Equipment/G/ganjay-book-(light-bulk-book).md",
-    "3-Rules/Character Building/Equipment/G/ganjay-book-(1-bulk-book).md",
-    "1-GM Toolkit/Travel Calculator.md",
-    "3-Rules/Character Building/Equipment/G/gamtu-hat.md",
-    "3-Rules/Character Building/Equipment/L/loaded-dice.md",
-    "3-Rules/Character Building/Equipment/G/gamepiece-chariot.md",
-    "3-Rules/Character Building/Equipment/G/gamblers-staff.md",
-    "3-Rules/Character Building/Equipment/G/Galvasphere.md",
-    "3-Rules/Character Building/Equipment/G/galvanic-mortal-coil.md",
     "zz-Attachments/gallows-tooth.png",
     "zz-Attachments/gakgung.png",
     "zz-Attachments/frost-vial.png",

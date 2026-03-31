@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "gecko-pads"
 aliases: "Gecko Pads"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "70"
+rarity: "uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "gadget"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  Gecko pads are thin, clockwork devices shaped like palms, which can be strapped onto existing handwear or a creature's hands. When activated, they whir to life and improve your grip on surfaces, while slowly releasing a sticky substance stored within the device's surface to help you climb. The pads give you a climb Speed equal to your Speed as long as your hands are free.  The climb Speed lasts for 10 minutes."
+activate: "`pf2:2` ([[manipulate]])"
+description: "Gecko pads are thin, clockwork devices shaped like palms, which can be strapped onto existing handwear or a creature's hands. When activated, they whir to life and improve your grip on surfaces, while slowly releasing a sticky substance stored within the device's surface to help you climb. The pads give you a climb Speed equal to your Speed as long as your hands are free.  The climb Speed lasts for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

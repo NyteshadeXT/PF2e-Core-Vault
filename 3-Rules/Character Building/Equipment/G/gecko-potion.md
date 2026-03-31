@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "gecko-potion"
 aliases: "Gecko Potion"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "259"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A _gecko potion_ is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you gain a +1 item bonus to [[Actions/Climb|Climb]] and [[Actions/Palm an Object|Palm an Object]] checks and to your Reflex DC against [[Actions/Disarm|Disarm]] attempts.  [[Equipment Effects/Effect_ Gecko Potion|Effect: Gecko Potion]]"
+activate: "`pf2:1` ([[manipulate]])"
+description: "A _gecko potion_ is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you gain a +1 item bonus to [[Climb]] and [[Palm an Object]] checks and to your Reflex DC against [[Disarm]] attempts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
