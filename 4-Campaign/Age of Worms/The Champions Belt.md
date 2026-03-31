@@ -162,7 +162,33 @@ During the day, the main gates of the arena are open to the public, and everyone
 
 The following brief descriptions apply of the map of the Bloodstone Arena.
 
-![[Bloodstone-Arena-Map.png|left htall]]
+```zoommap
+image: zz-Attachments/Bloodstone-Arena-Map.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
+
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
+
+# Size & interactivity
+height: 760px
+width: 30%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
+
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
+
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
+
+# Alignment / wrapping (optional)
+align: left             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+```
 
 **A.** These watchtowers are all manned by four Arena Wardens (human warrior 2) during games. Their primary purpose is to add ambience to the games, but in the case a fight gets out of control and spills into the crowd are expected to do what they can to contain panic.
 
@@ -211,7 +237,7 @@ creatures:
   - 1: Hagegraf Royal Guard, Bodyguard
 ```
 
-## Event 1: The Free Dinner
+### Event 1: The Free Dinner
 The Free Dinner that precedes the Champion's Games is a spectacular event, with more than 200 guests and half again as many servants, cooks, musicians, and other entertainers. The event itself takes place under the open sky on the arena battleground. Numerous long banquet tables are arrayed in a circle central wooden stage that gives entertainers a place to perform. The entire area is festooned with flowers, ribbons, and multicolored pennants. The arena gates open for the event at 5:00 PM, and a patrol of Raknian’s wardens takes position before each one, checking invitations and keeping an eye on the situation. Two great bonfires burn north of the seating area, and scores of cooks, scullions, and waiters are busy there with spits, grills, and platters.
 
 When the PCs and Ekaym arrive, Ekaym presents his license and a clerk records the PCs’ names, the name of their group, and takes a note on the groups leader, After being admitted, the PCs are shown their table and servants soon provide plenty of fills quickly with guests and attendants, and shortly before 6:00, Raknian enters the arena with his retinue (Captain Okoral, Talabir, and six bodyguards) and the crowd greets him with thunderous applause. Raknian is quick on the pleasantries, and sits at a prominent table between the central bonfire and the stage. The current holder of the Champion's Belt, the gladiator Auric, and his teammate Khellek also sit at Raknian's table. When Raknian preents Auric to the crowd, he is greeted with even more applause.
@@ -487,107 +513,250 @@ creatures:
 ```
 
 **Tactics**
-As soon as the froghemoth is unleashed, the guards run. The massive aberration roars and blinks its three eyes against the sudden sunlight, and suffers a —4 penalty on its Initiative check as a result, Once it realizes what's going on, it mindlessly charges at the nearest morsel and attacks. Raknian paid for a heroes feast spell for the froghemoth to consume early in the morning. The monster's cavernous gullet handled the spell with ease, and it has gained the following benefits as a result
-- + 10 temporary hit points (included above) 
-- + Immunity to fear and poison 
-- +1 morale bonus on attack rolls and Will saves
+As soon as the froghemoth is unleashed, the guards flee. The creature thrashes and blinks in the sudden light, momentarily disoriented, and suffers a —4 penalty on its Initiative check as a result. It then surges forward into the nearest cluster of creatures, lashing out with its tentacles to seize prey.
 
-The froghemoth itself is straightfor- ward in its tactics, focusing on the largest target in sight and fighting to the death.
+The froghemoth attempts to grab multiple targets, using its tentacles to hold them in place while it batters others within reach. Once it has a creature grabbed, it constricts relentlessly and attempts to swallow it whole when the opportunity presents itself. It favors creatures that struggle or remain close, but otherwise attacks whatever is within reach.
 
-Development: The spectacle of this battle leaves the crowd in a frenzy. As the froghe- mothis slain, they begin chanting the party's ind Raknian's shock and dis- comfort is plainly visible for several seconds
+The froghemoth fights without fear or hesitation and continues attacking until slain.
 
-ar and poison
+**Development:** The spectacle of this battle leaves the crowd in a frenzy. As the froghemoth is slain, they begin chanting the party's group name, and Raknian's shock and discomfort is plainly visible for several seconds to anyone watching. Eventually, Talabir gets the crowd under control and Raknian, his composure regained, gives Ekaym the trophy and prize money and congratulates the PCs on their tremendous skill.
 
-group name,
+That night, with only Auric’s Warband remaining in the Coenoby, things are quiet.
 
-NOVEMBER 2005 DUNGEON
+### Event 7: Final Battle
+The final battle is scheduled to take place at noon on the fifth day. The PCs are brought to the field of battle second, and when they arrive they find Auric, Khellek, and a pair of flesh golems known as the Leatherworks that the band uses as thugs waiting for them. The crowd goes wild as the PCs take their position; a scan of the surrounding seats reveals that they are packed nearly to capacity today. It seems almost that the entirety of Ardentia City has turned out to watch.
 
-47
+```encounter
+name: Bloodstone Arena Final Battle
+party: Age of Worms
+creatures:
+  - 2: Charnel Creation
+  - 1: Auric
+  - 1: Khellek
+```
 
-_ 48 DUNGEON
+Although Auric and Khellek are tough customers on their own, they are augmented well by two flesh golems Khellek created using flesh golem manuals supplied to him by Raknian for this exact purpose. The golems themselves are kept in storage in Raknian’s palace until they are needed for battle; Auric and Khellek do not bring them into the Coenoby.
 
-toanyone watching, Eventually, Talabir gets the crowd under control and Raknian, his composure regained, gives Ekaym the tro- phyand prize money and congratulates the PCs on their tremendous skill.
+In the time since they tried to explore the Stingenest Cairn near Diamond Lake, Auric and his allies Khellek and Tirra have not spent their days idly. They defeated a band of trolls that had been harassing caravans in the Cairn Hills and took down a smuggling operation that had been stepping on the toes of the Thieves’ Guild. As a result, all three have gained several experience levels since the PCs have met them last, and although Tirra does not fight with the two in this battle, the rival adventurers should still pose quite a threat to the PCs.
 
-‘That night, with only Auric’s Warband remaining in the Coenoby, things are quiet.
+**Tactics**
+Auric's Warband fights in the most straightforward and deadly way. After the group sets up their magical defenses, Auric and the Leatherworks charge the PCs and engage them in melee while Khellek supports them with offensive spells from a point 40 feet above the ground (and just below the limit for flight).
 
-Event 7: Final Battle (EL 13) ‘The final battle is scheduled to take place at noon on the fifth day. The PCs are brought to the field of battle second, and when they arrive they find Auric, Khellek, and the three flesh golems known as the Leather- works that the band uses as thugs waiting for them. The crowd goes wild as the PCs take their position; a scan of the surround- ing seats reveals that they are packed nearly to capacity today. It seems almost that the entire Free City has turned out to watch.
+**Development**
+If the PCs have not dealt with the ulgurstasta in area 32, this event transforms into something altogether horrible as detailed in Part Four.
 
-Creatures: Although Auric and Khellek are tough customers on their own, they are augmented well by three flesh golems Khellek created using flesh golem manuals supplied to him by Raknian for this exact purpose. The golems themselves are kept in storage in Raknian’s palace until they are needed for battle; Auric and Khellek do not bring them into the Coenoby.
+Otherwise, as the PCs defeat the current champion, the crowd explodes into chaos. The entire arena becomes a deafening roar as nearly 18,000 souls rise to their feet to cheer the party's victory, chanting their names over and over. If the ulgurstasta did not appear, Raknian realizes something horrible has gone wrong with his plans and he retreats into the temple of Kyuss to investigate. Continue with Part Four.
 
-In the time since they tried to explore the Stingenest Cairn near Diamond Lake, Auric and his allies Khellek and Tirra have not spent their days idly. They defeated a band of trolls that had been harassing caravans in the Cairn Hills and took down a smug- gling operation that had been stepping on the toes of the Thieves’ Guild. As a result, all three have gained several experience lev- els since the PCs have met them last, and although Tirra does not fight with the two in this battle, the rival adventurers should still pose quite a threat to the PCs.
+```zoommap
+image: zz-Attachments/arena-understructure.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
 
-Auric
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
 
-Auric's Warband
+# Size & interactivity
+height: 1000px
+width: 70%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
 
-Male human fighter 10
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
 
-N Medium humanoid
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
 
-Init +6; Senses Listen -1, Spot -1
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 0.7290
+  centerX: 0.500029
+  centerY: 0.500000
+```
 
-Languages Common
+## Part III: The Hidden Shrine of Kyuss
+On the first night the PCs stay in the Coenoby, security is fairly tight. There are a lot of gladiators in the Coenoby, and as a result a lot of guards. Sneaking off to explore the understructure is a plan best put off until after the first battles on day 1.
 
-AC 26, touch 14, flat-footed 24; Dodge, Mobility
+After the first night, the surveillance in the Coenoby is much less intense. As longas the PCs are at least passably subtle about their intentions, no one really notices if they slink off to explore. During the day, the majority of the guards are posted up topside to provide security for other fights and events taking place in the arena, and at night the majority of the guards are so exhausted that they're asleep. There are no regular patrols in the understructure as a result.
 
-hp 99 (10 HD)
+If the PCs are caught outside of the Coenoby by guards, a DC 25 [[Skills#Diplomacy|Diplomacy]] check to make the unfriendly guards friendly convinces them to not report the incident if the PCs agree to return to the Coenoby immediately. A [[Skills#Diplomacy|Diplomacy]] check convinces the guards that the PCs have permission to be where they are, but the guards have a +10 on their [[Sense Motive]] check to see through this bluff since it's hard to believe. Finally, a bribe of 25 gp (per guard encountered) is enough to buy that particular patrol’s silence.
 
-Fort +12, Ref +6,
+### Service Level
+The original Free City Arena was a much smaller, circular structure. The arena itself was rebuilt and expanded many decades ago, but one can still see the original arena's
 
-Spd 20 ft., fly 40 ft
+legacy in the shape of the ring that sur- rounds the service level. This level is used primarily to store supplies and to confine unruly gladiators and beasts. Ceiling height
 
-Melee +1 greatsword +15/+10 (2d6+13/17-20)t
+are of reinforced
 
-R10
+averages at 10 feet and wal masonry. Illumination is provided by iron lanterns hanging from short chains. During the day, this level is crowded with busy servants, and it would be very difficult to explore it without being noticed and reported to the arena wardens. At night things are much quieter, with only a sin- gle patrol of four of Raknian’s bodyguards
 
-ill +3
+watching the area. These guards spend
 
-Ranged mwk light crossbow +13/+8 (1d8/19-20)
+most of their time in area 11, making a lazy
 
-Base Atk +10; Grp +14
+patrol of the level once an hour.
 
-Atk Options Cleave, Power Attack, Spring Attack
+1. Western Hall
 
-Combat Gear potion of barkskin +3*, potion of bear's endurance*, 2 potions of cure light wounds, potion of fly*, potion of shield of faith +2*
+decorated with the realistic carvings of fruit
 
-Abilities , Dex 1 Wis 8, Cha 12
+The hall is used as a storage area for re- usable materials used to build more elaborate battle arenas above. The large southern alcove
 
-Feats Cleave®, Dodge, Greater Weapon Focus (greatsword)?, Improved Critical (greatsword), Improved Initiative”, Mobility, Power Attack", Rapid Reload, Spring Attack®, Weapon Focus (greatsword), Weapon Specialization (greatsword)"
+houses the main hoist of the are:
 
-Skills Climb +16, intimidate +14, Jump +16
+a complex and efficient machine that can lift up to 4,00¢ pounds to the surface above with the effort of four laborers at the capstan. The lift is left in its raised position, effectively blocking intru- sion from area H above.
 
-Possessions combat gear, +] breastplate, +1 ‘animated heavy steel shield, +1 greatsword, masterwork light crossbow with 20 bolts, cloak of resistance +1, gauntlets of ogre power, champion's belt, 90 gp
+The stairway to the west connects the hall
 
-includes bonus for 2-point Power Attack.
+via a long passageway to the Wardens’ Bar-
 
-, Con 18, Int 10,
+racks (area B) The circular stairway in the middle of the room leads down to the Arena Caverns (area 23). The stairs also lead up for about 10 feet before ending abruptly in a
 
-KHELLeK cR10 Auric's Warband Male human wizard 10 NE Medium humanoid Init +8; Senses Listen +2, Spot +2 Languages Common, Draconic, Elven AC 22, touch 15, flat-footed 18 hp 51 (10 HD); DR 10/adamantine Fort +7, Ref +8, Will +8 Spd 30 ft. Melee mwk dagger +5 (1d4~1/19-20) Base Atk +5; Grp +4 ‘Combat Gear potion of barkskin +3*, 2 potions of cure moderate wounds, scroll of dispel magic, scroll of shatter, wand of glitterdust (4 charges), wand of mage armor* (CL 5, 15 charges), wand of scorching ray (CL 8, 43 charges) Spells Prepared (CL 10th, ranged touch +9): sth—feeblemind (DC 21), quickened shield 4th—toneskin*, confusion (DC 20), dimension door, fear (DC 18)
+This hall shows signs
 
-3rd—deep slumber (DC 19), fly*, displacement*, fireball (DC 17)
+pillar and
 
-and—cat's grace”, false life", mirror image*, Tasha's hideous laughter (OC 18), touch of idiocy
+leads to the space
 
-ast—charm person (DC 17), grease (DC 15), magic missile, ray of enfeeblement (2)
+metal bars, hinges,
 
-o—acid splash (2), touch of fatigue (OC 14), mage hand
+north wall, near a t
 
-<_<
+ll segment of The frieze is
 
-Abilities Str 8, Dex 18, Con 13, Int 19, Wis 10, Cha 12
+stone plug—they once led up to the arena above but were blocked off when the entire
 
-SQ summon familiar (rat named Zulamakian)
+surface structure was rebuilt and expanded. 2. Workshop
 
-Feats Alertness (as long as familiar is in arm's reach), Craft Wand’, Craft Wondrous Item, Greater Spell Focus (enchantment), Improved Initiative, Quicken Spell, Scribe Scroll, Skill Focus (concentration), Spell Focus (enchantment)
+his large room houses a workshop. Τ
 
-Skills Concentration +17, Knowledge (arcana) +15, Knowledge (history) +8, Knowledge (local) +9, Knowledge (the planes) +8, Knowledge (religion) +8, Listen +2, Profession (gambler) +12, Spellcraft +19, Spot +2
+imple machines m
 
-Possessions combat gear, masterwork dagger, headband of intellect +2, ring of protection +1, cloak of resistance +1, silver Seeker ring worth 200 gp, 500 gp worth of diamond dust, 123 gp
+materials, rags, and litter left by b during the previous day. The odor of sawdust,
 
-The Leatherworks, flesh golems (3): hp 79 each; Monster Manual 135.
+leather
 
-Tactics: Auric's Warband fights in the moststraightforward and deadly way. After the group sets up their magical defenses, Auricand the Leatherworks charge the PCs and engage them in melee while Khellek supports them with offensive spells from a point 4ο feet above the ground (and just below the limit for flight).
+n the ai
 
-Development: If the PCs have not dealt with the ulgurstasta in area 32, this event transforms into something altogether horrible as detailed in Part Four.
+NOVEMBER 2005 DUNGEON 49
 
-Otherwise, as the PCs defeat the current champion, the crowd explodes into chaos, ‘The entire arena becomes a deafening roar as nearly 18,000 souls rise to their feet to cheer the party's victory, chanting their names over and over. Ifthe ulgurstasta did not appear, Raknian realizes something horrible has gone wrong with his plans and he retreats into the temple of Kyuss to investigate. Continue with Part Four.
+ΤΗΕ CHAMPION’S ΒΕ
+
+x 50 DUNGEON
+
+‘The workshop is well equipped for wood, leather, and textile working, although not for blacksmithing.
+
+3. ARMory
+
+Two wooden racks line the west and east walls of this room, holding dozens of the odd and picturesque weapons traditionally used by gladiators,
+
+‘This room contains several racks of gladiatorial and wooden weapons used for fighting and training in the arena. Nets, tridents, polearms, clubs, and spiked chains are the most common weapons found here. None of the weapons are remarkable.
+
+4. Secondary Lift
+
+A lift with two small capstans occupies almost all the space of this room. The machine appears to be locked in the raised position with chains and nails.
+
+‘This lift can raise up to 3,000 pounds near the center of the arena. In prepara- tion for the Champion's Games, it has been blocked to a raised position and covered with a layer of tiles and sand,
+
+5. Northern Hall
+
+This large, irregular hall seems to be a major junction—many stairways and pas- sages lead in and out.
+
+‘This hall allows direct access to the Coenoby (area 16), to Raknian’s Palace via a stairway to the north (area E) and to the main tribune of the arena above via a stair- well in the northwestern corner (area C).
+
+6. Beast Cages (EL 7)
+
+Six identical cells open along this corridor, each one closed by a metal gate. The grow! of a large feline breaks the silence, followed by several porcine grunts.
+
+Creatures: These six cages contain ani- mals used alternately as guard beasts and creatures for gladiator fights. The steel gates that close the cages are padlocked (Open Locks DC 20).
+
+‘The domesticated leopards in the cage are hostile toward intruders and are likely to raise the alarm with loud roars if not silenced or beguiled. The lion and the boars, on the other hand, are unwilling prisoners, and are just plain unfriendly.
+
+Leopard (2): hp 19; Monster Manual 274.
+
+Lion: hp 32; Monster Manual 274.
+
+Boar (3): hp 25; Monster Manual 270.
+
+7. Death Row
+
+‘These cells hold prisoners who have been condemned to death and are scheduled for execution in the arena. The bodies of exe- cuted prisoners are supposedly burned, but in fact Bozal Zahol has been claiming them for his uses in the Shrine of Kyuss below.
+
+‘Two of these cells are empty, but one (area 7b) holds a prisoner. The prisoner is a nameless, deaf-mute, insane tramp (CN human commoner 2), captured by Raknian’s bodyguards and scheduled to be sent down to Bozal Zahol soon. The vaga- bond is insane, and cannot answer ques- tions coherently as a result. Still, the poor soul can be communicated with if the PCs can make a DC 20 Bluff check. The vaga- bond is terrified—just two days ago he saw Bozal Zahol enter the cell opposite and place a Kyuss worm on the face of the pris- oner kept there. That prisoner's transfor- mation into a spawn of Kyuss (that Bozal then promptly controlled) shattered the vagabond's already shaky mind. Ifthe PCs communicate with him, he simply draws crude illustrations of worms in the dirt and dust of his cell floor and points at the cell opposite. He saw Bozal enter and leave death row from area 8, and not knowing of the secret door there, he’s convinced the tiefling priest and his new undead minion are still in that room.
+
+Remove blindness/deafness restores the vag- abond’s hearing and thus removes the need to make a Bluff check to communicate with him. It takes a heal or a greater restoration to completely cure the vagabond, in which case he tearfully thanks the PCs and tells them everything he knows about the activ- ites going on in the arena before fleeing.
+
+Development: In the early morning hours of Day 4, Bozal Zahol visits this cell with a preserved Kyuss worm, transforms the tramp into a spawn, and returns with his new minion to the shrine below.
+
+8. Wine Cellar (EL 7)
+
+This small cellar contains several barrels and hun- dreds of glass bottles on shelving on the south wall. The air is thick with the smell of vinegar
+
+This room stores wine and other, stronger spirits. An open barrel near the east wall contains vinegar, and its smell fills the room (handy in covering up the unpleasant odors coming from the Shrine of Kyuss),
+
+A carefully-hidden swiveling wall sec- tion in the northwest corner can be dis- covered with a DC 30 Search check. This secret door opens onto a landing at the top ofa narrow flight of stairs that leads to area 25. The foul rotten smell of the shrine of Kyuss is immediatley apparent once anyone steps into this stairway.
+
+‘Trap: A greater glyph of warding guards the upper landing of this secret staircase.
+
+Greater Glyph of Warding Trap (slay liv- ing} CR 7; spell; spell trigger; no reset; spell effect (glyph of warding [slay living, uth-level cleric, DC 19 partial); Search DC 31; Disable Device DC 31.
+
+9. Combustibles Storage
+
+This storage room contains a half-dozen stirrup- vases and scores of stoppered clay flasks. The distinct odor of tar hangs heavily in the air.
+
+‘The stirrup-vases are full of tar and clay flasks contain alchemist's fire. There are 60 flasks in all.
+
+10. Mess Hall
+
+Four columns support the vaulted ceiling of this large hall. Three long tables with stools provide dining space for about forty people.
+
+During the day, this hall is used as a canteen by the arena attendants to take their meals,
+
+11. Guardroom (EL 9)
+
+This elongated, irregular room features a central square pillar, a living area with two round tables and a narrow passage in the northwest corner. Three copper braziers in the corners light the room.
+
+One aqurms® faut
+
+5 DUNGEON 51
+
+THE CHAMPION’S
+
+‘The passage in the northwest corner is barely 4 feet wide and leads to a small door painted in blue. Behind the dooris an unre- markable and reasonably clean lavatory.
+
+Creatures: During the day, arena atten- dants use this room for breaks. During the night, a patrol of four of Raknian's bodyguards are stationed here. Once every hour, two of them patrol the surrounding chambers (this takes 10 minutes).
+
+Bodyguards (4): hp 42 each; see page 38.
+
+12. Pantry
+
+This small room contains craters and jars of all sizes and shapes. Several dozen sausages hanging from the ceiling emanate an intense and pleasant smell of smoked meat.
+
+Preserved foods of all kinds (cheese, sau- sages, honey, and hardtack) are stored here.
+
+13. Dormitory
+
+This spartan dormitory contains four beds and four wooden cupboards with three shelves each. Four rucksacks sit on the shelves.
+
+During the day, the four bodyguards stationed in area 11 sleep here. The ruck- sacks contain unremarkable personal effects and belongings.
+
+14. Kitchen
+
+A large angular fireplace dominates this well- equipped, clean kitchen, where several metal grills and spits are neatly arranged. A circular well sits in the southeast comer. A passage to the east leads to a small door, where a few, half- empty sacks of flour are stacked on the floor.
+
+‘The arena attendants prepare meals here for themselves, the prisoners, and the animals in area 6.
+
+15. Circular Hallway
+
+A series of identical stairwells, accessible through archways closed by steel gates, are spaced evenly along the inner wall of this hallway; each of these stairwells leads down to area 23 and once led up to the arena above (although they've all been blocked with stone). Other, lesser archways lead out from the central ring to narrow, dusty and
+
+x 52 DUNGEON
+
+neglected tunnels used for storage. At your option, a secret passage in one of these tun- nels can lead to a basement within the walls
+
+of the Free City.

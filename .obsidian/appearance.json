@@ -6,14 +6,15 @@
     "Internal-Links",
     "image-float",
     "supercharged-links-gen",
-    "S - Encoded Fonts",
     "pf2e-statblock",
     "pf2e-items",
     "pf2e-battlezoo",
     "pf2-compendium",
     "HoverProperties_-_Columns",
     "pf2e-traits",
-    "pf2e-spell"
+    "pf2e-spell",
+    "S - Encoded Fonts",
+    "statblock-side-by-side"
   ],
   "baseFontSize": 16
 }

@@ -1,16 +1,4 @@
 {
-  "ITS@@accent-color": false,
-  "ITS@@slrvb-b": false,
-  "ITS@@slrvb-g": false,
-  "ITS@@s-d": false,
-  "ITS@@t-d": false,
-  "ITS@@drwn": false,
-  "ITS@@nord": false,
-  "ITS@@mini": false,
-  "ITS@@notion": false,
-  "ITS@@its-d": false,
-  "ITS@@ITS-Sizes": "none",
-  "ITS@@file-line-width": 700,
   "supercharged-links@@f1f3-9da5-before": "🧝",
   "supercharged-links@@e039-d006-before": "🧙‍♂️",
   "supercharged-links@@e039-d006-color": "#6F8ED2",
@@ -90,12 +78,8 @@
   "supercharged-links@@6eeb-1ccc-color": "#C1C80B",
   "supercharged-links@@6eeb-1ccc-weight": "bold",
   "supercharged-links@@6eeb-1ccc-before": "🎉",
-  "ITS@@select": "pathfinder",
+  "ITS@@select": "pathfinder-remaster",
   "ITS@@default-statblock": true,
   "ITS@@breadcrumbs-block": false,
-  "ITS@@link-weight": 800,
-  "ITS@@accent2-lite@@dark": "#000000",
-  "ITS@@inactive@@dark": "#000000",
-  "ITS@@inactive@@light": "#000000",
-  "ITS@@hvr@@light": "#B33C2E"
+  "ITS@@embed-bg@@dark": "#000000"
 }

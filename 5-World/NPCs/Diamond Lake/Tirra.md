@@ -149,7 +149,7 @@ Map out the intricate web of relationships surrounding this NPC. Who comprises t
 ## Notes
 A sleek, self-assured elf who flirts confidently with handsome patrons and who dominates all takers in the Feral Dog's dagger tossing contest.  Tirra makes pleasant conversation with anyone who approaches her, but she takes a real interest only in men who ask to join n one of her games.
 
-Tirra befriends any character who at least shows promise in the dagger game, and confesses that she is among the adventurers from the [[Dungeon Seekers Guild]] currently exploring the Stirgenest Cairn across DIamond Lake.  If a PC so much as metnions exploration oft he Whispering Cairn, Tirra subtly invitges the character next door to [[Lazare's House]], where she introduces her associate, [[Khellek]]. 
+Tirra befriends any character who at least shows promise in the dagger game, and confesses that she is among the adventurers from the [[Dungeon Seekers Guild]] currently exploring the Stirgenest Cairn across DIamond Lake.  If a PC so much as metnions exploration oft he Whispering Cairn, Tirra subtly invitges the character next door to [[Lazare's House]], where she introduces her associate, [[5-World/NPCs/Diamond Lake/Khellek]]. 
 
 
 

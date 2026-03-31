@@ -21,6 +21,7 @@
 - [ ] Complete implementation of Calendar system
 - [ ] Do I want to add gems to the items?
 - [ ] Update Chimeracrafting with Imbuements from the Elemental Storm book after it is added to Foundry
+- [ ] Finish Tetranadon entry
 
 ---
 

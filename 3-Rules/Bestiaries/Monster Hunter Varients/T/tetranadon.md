@@ -1,5 +1,6 @@
 ---
 obsidianUIMode: preview
+cssclass: statblock-side-by-side
 noteType: pf2eMonster
 tags:
   - pf2e/creature/type/beast
@@ -9,11 +10,12 @@ name: Tetranadon
 level: 7
 ---
 
+![[tetranadon.png]]
+
 ```statblock
 columns: 2
 forcecolumns: true
 layout: Pathfinder 2e Creature Layout
-token: "[[tetranadon.png|Show to Players]]"
 source: Monster Hunter Conversion
 name: "Tetranadon"
 level: "Creature 7"
@@ -89,6 +91,8 @@ attacks:
     desc: "(magical, reach 15 feet, trip) +16 __Damage__ 2d8+6 bludgeoning<br><br><blockquote>__Breakable__ **AC** 22; **HP** 15; **Effect** The tail sweep loses the [[trip]] trait and suffers a –2 penalty to attack rolls using the tail.</blockquote>"
 ```
 
+## Encounter Table: Tetranadon
+
 ```encounter-table
 name: Tetranadon Solo Challenge
 creatures:
@@ -98,65 +102,49 @@ creatures:
   - 1: Tail 15, 22, 0, hidden
 ```
 
----
-noteType: battlezoo/monster-parts
-tags:
-  - pf2e/monster-parts
-  - pf2e/crafting
-  - monster/tetranadon
-source: Monster Hunter Conversion
-name: Tetranadon
-level: 7
-rarity: uncommon
----
 
-### 🦴 Harvest Table: Tetranadon (Creature 7)
+## Harvest Table: Tetranadon
 
 | Part Name         | Trait Tags                         | Harvest DC | Yield (Units) | Use Type         | Notes                                                  |
 |-------------------|-------------------------------------|------------|----------------|------------------|---------------------------------------------------------|
-| Tetranadon Hide   | [[3-Rules/Trait Reference/E/earth]], [[resilient]], [[hide]]  | DC 21      | 2d4            | Armor            | Dense, waterproof scales; ideal for layered defense     |
-| Water-Gorged Gut  | [[3-Rules/Trait Reference/W/water]], [[volatile]], [[core]]   | DC 23      | 1d3            | Consumable Core  | Stores immense pressure and moisture                    |
-| Tail Musculature  | [[3-Rules/Trait Reference/E/earth]], [[forceful]], [[limb]]   | DC 20      | 1d4            | Weapon Additive  | Used in blunt-force kinetic strikes                     |
-| Sumo Shell        | [[3-Rules/Trait Reference/E/earth]], [[deflecting]], [[plate]]| DC 22      | 1d3            | Armor Core       | Shard-lined bones resist impact and deflect blows       |
-| Tetranadon Saliva | [[3-Rules/Trait Reference/W/water]], [[3-Rules/Character Building/Equipment/S/slick]], [[coating]]   | DC 20      | 1d2            | Alchemical Coating| Slick, oily secretion used to lower friction or grip    |
+| Tetranadon Hide   | [[3-Rules/Trait Reference/E/earth\|earth]], [[resilient]], [[hide]]  | DC 21      | 2d4            | Armor            | Dense, waterproof scales; ideal for layered defense     |
+| Water-Gorged Gut  | [[3-Rules/Trait Reference/W/water\|water]], [[volatile-hb\|volatile]], [[core]]   | DC 23      | 1d3            | Consumable Core  | Stores immense pressure and moisture                    |
+| Tail Musculature  | [[3-Rules/Trait Reference/E/earth\|earth]], [[forceful]], [[limb]]   | DC 20      | 1d4            | Weapon Additive  | Used in blunt-force kinetic strikes                     |
+| Sumo Shell        | [[3-Rules/Trait Reference/E/earth\|earth]], [[deflecting]], [[plate]]| DC 22      | 1d3            | Armor Core       | Shard-lined bones resist impact and deflect blows       |
+| Tetranadon Saliva | [[3-Rules/Trait Reference/W/water\|water]], [[slick]], [[coating]]   | DC 20      | 1d2            | Alchemical Coating| Slick, oily secretion used to lower friction or grip    |
 
-**On a Critical Success**, double the number of units gained from that part. On a failure, gain no usable part of that type.
+## Harvest Table: Tetranadon
+|Part Name|Trait Tags|Part gp Value|Use & Crafting Notes|
+|---|---|---|---|
+|**Wroggi Hide**|[[3-Rules/Trait Reference/P/poison\|Poison]]|90 gp| [[wroggi-hide-mantle\|Wroggi Hide Mantle]] |
+|**Alpha Venom Sac**|[[3-Rules/Trait Reference/P/poison\|Poison]], [[volatile-hb\|Volatile]], [[magical]]|125 gp|[[venomlash-talisman\|Venomlash Talisman]], [[alpha-venom-sac-catalyst\|Alpha Venom Sac Catalyst]] |
+|**Fanged Maw**|[[3-Rules/Trait Reference/P/poison\|Poison]], [[death]], [[piercing]], [[slashing]], [[magical]]|100 gp|[[fanged-maw-catalyst\|Fanged Maw Catalyst]], [[venomlash-blade\|Venomlash Blade]]  |
+|**Hood Frill**|[[fear]], [[emotion]], [[illusion]]|80 gp| [[wroggi-frill-catalyst\|Wroggi Frill Catalyst]] |
 
----
 
-## 🔨 Crafting Suggestions
-
-### 🛡️ Armor
+## 🛡️ Armor
 **Tetranadon Shellplate (Level 8, Uncommon)**  
 - *Base Armor:* Heavy armor (e.g., Scale or Splint)  
 - *Effect:* Grants resistance 2 to bludgeoning damage while standing on natural ground  
 - *Bonus Effect (if infused with Water-Gorged Gut):* You cannot be forcibly moved more than 5 feet unless you are [[willing]]
 
----
-
-### ⚔️ Weapon Additive
+## ⚔️ Weapon Additive
 **Forceful Tail Grip (Additive, Level 7)**  
 - *Add To:* Bludgeoning melee weapons  
 - *Effect:* Gains [[forceful]] and [[shove]] traits  
 - *Bonus:* On a critical hit, the target must succeed at a DC 22 Reflex save or fall [[Prone]]
 
----
-
-### 🧪 Alchemical Coating
+## 🧪 Alchemical Coating
 **Slick Shell Oil (Consumable, Level 6)**  
 - *Use:* Apply to self or armor  
 - *Effect:* For 1 minute, gain +2 circumstance bonus to checks to Escape or avoid being [[grappled]]  
 - *Bonus:* Once during the duration, ignore an effect that would [[restrain]] you
 
----
-
-### 💧 Consumable Core
+## 💧 Consumable Core
 **Hydroburst Bomb (Consumable, Level 7)**  
 - *Use:* Thrown (range 30 feet), splash  
 - *Effect:* 4d6 bludgeoning + 2d6 water damage in 10-ft burst (DC 23 basic Reflex); creatures that fail are [[knocked prone]]  
 - *Special:* If used in rain, the burst increases to 15 feet and gains +2 damage to both components
-
----
 
 ## 🎁 Optional: Monster Part Traits Summary
 - `[[earth]]`: Related to durability, structure, or impact
@@ -165,7 +153,3 @@ rarity: uncommon
 - `[[resilient]]`: Boosts Fortitude-based interactions
 - `[[deflecting]]`: Used in items that help avoid being hit
 - `[[slick]]`: Used in anti-control or escape-based mechanics
-
----
-
-Would you like this formatted as a printable crafting handout for your players, or should I proceed to generate a matching loot/crafting table for the **Great Wroggi** and **Wroggi** next?

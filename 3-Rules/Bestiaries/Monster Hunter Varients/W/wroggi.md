@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
+cssclass: statblock-side-by-side
 tags:
   - pf2e/creature/type/beast
   - pf2e/creature/level/2
@@ -9,11 +10,12 @@ name: Wroggi
 level: 2
 ---
 
+![[great-wroggi.png]]
+
 ```statblock
 columns: 2
 forcecolumns: true
 layout: Pathfinder 2e Creature Layout
-token: "[[great-wroggi.png|Show to Players]]"
 source: Monster Hunter Conversion
 name: "Wroggi"
 level: "Creature 2"
@@ -41,7 +43,6 @@ attributes:
   - wis: 2
   - cha: 0
 speed: 35 feet
-source: "_Monster Hunter Conversion_"
 ac: 17
 saves:
   - fort: 6
@@ -63,10 +64,11 @@ abilities_bot:
     desc: "`pf2:1` (arcane, poison) **Effect** The Wroggi spits a glob of poison at a creature within 20 feet. That creature must attempt a DC 18 Reflex save.<br>- **Success**: Clumsy 1 for 1 round.<br>- **Failure**: 1d6 poison damage and Clumsy 1 for 1 round.<br>- **Critical Failure**: 1d6 poison damage and Clumsy 1 for 1 minute."
 
 attacks:
-  - name: "___Melee___ `pf2:1` jaws"
-    desc: "(magical, poison) +10 __Damage__ 1d8+2 piercing plus 1d4 persistent poison"
+  - name: "Melee Jaws"
+    desc: "`pf2:1` Jaws +10 ([[magical]], [[poison]]) __Damage__ 1d8+2 piercing plus 1d4 persistent poison"
 
-  - name: "___Melee___ `pf2:1` claw"
-    desc: "(magical, agile) +8 __Damage__ 1d6+2 slashing"
+  - name: "Melee Claw"
+    desc: "`pf2:1` Claw +8 ([[magical]], [[agile]]) __Damage__ 1d6+2 slashing"
 
+sourcebook: "Monster Hunter Conversion"
 ```

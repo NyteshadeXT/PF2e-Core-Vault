@@ -28,10 +28,8 @@ license: "ORC"
 identify: ""
 description: "This hypnotic frill is fashioned from the hood of a Great Wroggi and shimmers with unsettling, shifting hues. It resonates with spells that manipulate fear and perception, amplifying their effects.\n\nThis item functions as a spell catalyst."
 destruction:
-activate: ""
+activate: 
 craft: "The initial raw materials must include a Hood Frill from a Great Wroggi."
-destruction: 
-
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #

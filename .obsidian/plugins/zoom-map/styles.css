@@ -4,6 +4,23 @@
   grid-template-columns: 28px 12ch 36px minmax(220px, 1fr) 7ch 7ch 7ch 7ch 36px;
 }
 
+.zoommap-dice-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.zoommap-dice-row {
+  display: grid;
+  grid-template-columns: 8ch 10ch auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.zoommap-dice-row input[type="number"] {
+  width: 8ch;
+}
+
 .zoommap-settings.zoommap-settings--imgpreview .zoommap-settings__icon-preview--img {
   width: 24px;
   height: 24px;
@@ -405,6 +422,71 @@ button.zm-btn-sm {
   display: none !important;
 }
 
+body.zm-global-hover-popover-size {
+  --popover-width: var(--zm-hover-popover-max-width, 360px);
+  --popover-height: var(--zm-hover-popover-max-height, 260px);
+  --popover-max-height: var(--zm-hover-popover-max-height, 260px);
+}
+
+body.zm-global-hover-popover-size .popover.hover-popover,
+body.zm-global-hover-popover-size .hover-popover {
+  --popover-width: min(var(--zm-hover-popover-max-width, 360px), 92vw);
+  width: var(--popover-width) !important;
+  max-width: var(--popover-width) !important;
+  --popover-height: min(var(--zm-hover-popover-max-height, 260px), 92vh);
+  --popover-max-height: min(var(--zm-hover-popover-max-height, 260px), 92vh);
+  height: var(--popover-height) !important;
+  max-height: var(--popover-max-height) !important;
+  height: auto !important;
+  overflow: hidden !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+
+body.zm-global-hover-popover-size .popover.hover-popover .hover-popover-content,
+body.zm-global-hover-popover-size .hover-popover .hover-popover-content,
+body.zm-global-hover-popover-size .popover.hover-popover .popover-content,
+body.zm-global-hover-popover-size .hover-popover .popover-content {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 0 !important;
+  max-width: 100% !important;
+  max-height: 100% !important;
+  min-height: 0 !important;
+  overflow: auto !important;
+  flex: 1 1 auto !important;
+}
+
+body.zm-global-hover-popover-size .popover.hover-popover .markdown-preview-view,
+body.zm-global-hover-popover-size .hover-popover .markdown-preview-view,
+body.zm-global-hover-popover-size .popover.hover-popover .markdown-preview-section,
+body.zm-global-hover-popover-size .hover-popover .markdown-preview-section {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  min-height: 0 !important;
+}
+
+/* Map grid overlay */
+.zm-mapgrid {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+
+.zm-mapgrid__svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.zm-mapgrid__path {
+  fill: none;
+  vector-effect: non-scaling-stroke;
+}
+
 /* Tooltip */
 .zm-tooltip {
   position: absolute;
@@ -487,6 +569,46 @@ button.zm-btn-sm {
   display: none;
 }
 
+.zm-draw-edit {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 70;
+}
+
+.zm-draw-handle {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  transform: translate(-50%, -50%);
+  border-radius: 999px;
+  background: var(--interactive-accent, var(--text-accent));
+  border: 2px solid var(--background-primary);
+  box-shadow: var(--shadow-s);
+  pointer-events: auto;
+  cursor: grab;
+}
+
+.zm-draw-handle.zm-draw-handle--active {
+  cursor: grabbing;
+  background: var(--text-error, #d23c3c);
+}
+
+.zm-draw-handle--add {
+  width: 10px;
+  height: 10px;
+  border-radius: 4px;
+  background: var(--color-green, #2ea043);
+}
+
+.zm-draw-handle--radius {
+  background: var(--text-accent, #6aa9ff);
+}
+
+.zm-draw-handle--center {
+  background: var(--interactive-accent, var(--text-accent));
+}
+
 /* Zoom HUD */
 .zm-zoom-hud {
   position: absolute;
@@ -546,6 +668,10 @@ button.zm-btn-sm {
   box-shadow: var(--shadow-l);
   padding: 4px;
   user-select: none;
+  max-height: calc(100vh - 24px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
 }
 
 .zm-submenu {
@@ -941,6 +1067,40 @@ body.zm-cursor-resize-nesw {
   cursor: nesw-resize;
 }
 
+/* Text layer move mode */
+.zm-text-hitbox.zm-text-hitbox--move {
+  cursor: grab;
+}
+.zm-text-hitbox.zm-text-hitbox--move.zm-text-hitbox--dragging {
+  cursor: grabbing;
+}
+body.zm-cursor-move-grabbing {
+  cursor: grabbing;
+}
+
+/* Always-visible marker label (tooltip caption) */
+.zm-marker-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform-origin: 0 0;
+  pointer-events: none;
+  z-index: 25;
+
+  max-width: 220px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  font-size: 12px;
+  line-height: 1.2;
+  padding: 2px 6px;
+  border-radius: 6px;
+  background: var(--background-primary);
+  border: 1px solid var(--background-modifier-border);
+  box-shadow: var(--shadow-s);
+}
+
 /* Font Awesome picker (settings) */
 .zoommap-fa-picker {
   display: flex;
@@ -1292,17 +1452,35 @@ body.zm-cursor-resize-nesw {
 }
 
 .zm-text-guide-line {
-  stroke: var(--text-accent);
-  stroke-width: 1px;
+  stroke: var(--text-muted);
+  stroke-width: 1.5px;
   vector-effect: non-scaling-stroke;
-  opacity: 0.35;
+  opacity: 0.7;
 }
 
 .zm-text-guide-draft {
-  stroke: var(--text-accent);
-  stroke-width: 2px;
+  stroke: var(--text-muted);
+  stroke-width: 2.5px;
   vector-effect: non-scaling-stroke;
+  opacity: 0.95;
+}
+
+.zm-text-guide--active.zm-text-guide-rect {
+  stroke: var(--text-error, #d23c3c);
+  stroke-width: 2px;
   opacity: 0.9;
+}
+
+.zm-text-guide--active.zm-text-guide-line {
+  stroke: var(--text-error, #d23c3c);
+  stroke-width: 1.8px;
+  opacity: 0.95;
+}
+
+.zm-text-guide--active.zm-text-guide-draft {
+  stroke: var(--text-error, #d23c3c);
+  stroke-width: 1.8px;
+  opacity: 1;
 }
 
 /* Inline editor (inputs positioned on baselines) */

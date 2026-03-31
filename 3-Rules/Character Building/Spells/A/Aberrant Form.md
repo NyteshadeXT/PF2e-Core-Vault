@@ -15,6 +15,7 @@ tags:
 aliases: "Compendium.pf2e.spells-srd.Item.Fu8Ml47ZfXpSYe7E" 
 license: OGL
 ---
+
 ```statblock
 name: "Aberrant Form  `pf2:2`"
 level: "Spell 5"

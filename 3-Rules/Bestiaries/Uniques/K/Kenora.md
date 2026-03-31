@@ -1,6 +1,7 @@
 ---
 obsidianUIMode: preview
 noteType: pf2eMonster
+cssclass: statblock-side-by-side
 aliases: "Kenora"
 tags: 
   - pf2e/creature/type/humanoid

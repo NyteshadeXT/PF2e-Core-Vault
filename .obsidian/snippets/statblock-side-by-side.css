@@ -1,0 +1,99 @@
+/* Reading view: image + Javalent statblock side by side */
+:root {
+	--monster-art-width: 516px;
+	--monster-image-width: 508px;
+	--monster-art-offset-y: 12px;
+	--statblock-min-width: 420px;
+	--statblock-layout-max-width: 1400px;
+}
+
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) {
+	display: grid !important;
+	grid-template-columns: var(--monster-art-width) minmax(var(--statblock-min-width), 1fr) !important;
+	column-gap: 0.25rem !important;
+	align-items: start !important;
+	max-width: var(--statblock-layout-max-width) !important;
+	margin: 0 auto !important;
+}
+
+/* Keep Obsidian chrome full width */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .mod-header,
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.mod-frontmatter,
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .mod-footer {
+	grid-column: 1 / -1 !important;
+}
+
+/* Image block in left column, pushed toward the statblock */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p {
+	grid-column: 1 !important;
+	margin: 0 !important;
+	align-self: start !important;
+	justify-self: end !important;
+	width: auto !important;
+	position: relative;
+	top: var(--monster-art-offset-y);
+}
+
+/* Keep the embed wrapper tight to the image */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p .image-embed {
+	display: block !important;
+	width: fit-content !important;
+	max-width: 100% !important;
+	margin: 0 !important;
+	padding: 10px !important;
+	background: rgba(255, 248, 235, 0.65) !important;
+	border: 1px solid rgba(120, 90, 50, 0.25) !important;
+	box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18) !important;
+	border-radius: 8px !important;
+}
+
+/* Size the image itself */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p img {
+	display: block !important;
+	width: var(--monster-image-width) !important;
+	max-width: 100% !important;
+	height: auto !important;
+	margin: 0 !important;
+	border-radius: 4px !important;
+}
+
+/* Statblock wrapper in right column */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.statblock-plugin-parent {
+	grid-column: 2 !important;
+	margin: 0 !important;
+	min-width: 0 !important;
+	width: 100% !important;
+	max-width: 100% !important;
+	align-self: start !important;
+}
+
+/* Let the statblock shrink inside the grid column */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.statblock-plugin-parent .statblock-content-container,
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.statblock-plugin-parent .statblock-content {
+	width: 100% !important;
+	max-width: 100% !important;
+	min-width: 0 !important;
+}
+
+/* Stack on smaller panes */
+@media (max-width: 1100px) {
+	.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) {
+		grid-template-columns: 1fr !important;
+	}
+
+	.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p,
+	.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.statblock-plugin-parent {
+		grid-column: 1 !important;
+	}
+
+	.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p .image-embed,
+	.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-p img {
+		width: 100% !important;
+		max-width: 500px !important;
+	}
+}
+
+/* Anything after the statblock should drop below both columns */
+.markdown-reading-view .markdown-preview-sizer:has(> .el-pre.statblock-plugin-parent):has(> .el-p .image-embed) > .el-pre.statblock-plugin-parent ~ * {
+	grid-column: 1 / -1 !important;
+}
