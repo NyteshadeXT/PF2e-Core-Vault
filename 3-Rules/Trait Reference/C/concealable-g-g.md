@@ -9,6 +9,6 @@ aliases: ["Concealable"]
 # Concealable  
 *Source: Guns & Gears p. 231*  
 
-This weapon is designed to be inconspicuous or easily [concealed](rules/conditions.md#Concealed). You gain a +2 circumstance bonus to [Stealth](compendium/skills.md#Stealth) checks and DCs to hide or conceal a weapon with this trait.
+This weapon is designed to be inconspicuous or easily [[3-Rules/Conditions/Concealed|Concealed]]. You gain a +2 circumstance bonus to [[Skills#Stealth|Stealth]] checks and DCs to hide or conceal a weapon with this trait.
 
 - **Categories**: Weapon

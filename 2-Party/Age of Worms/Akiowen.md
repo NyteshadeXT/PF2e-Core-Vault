@@ -8,7 +8,7 @@ Status: Active
 Player: Cali
 pronounced: a-ki-o-wen
 Class: Rogue
-level: 7
+level: 8
 hp: 76
 ac: 26
 modifier: 15

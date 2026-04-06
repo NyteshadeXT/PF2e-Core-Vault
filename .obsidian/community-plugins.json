@@ -17,7 +17,6 @@
   "obsidian-view-mode-by-frontmatter",
   "helpmate",
   "obsidian-icon-folder",
-  "image-converter",
   "initiative-tracker",
   "obsidian-kanban",
   "obsidian-leaflet-plugin",
@@ -33,5 +32,6 @@
   "obsidian-text-format",
   "zoom-map",
   "ttrpg-tools-screen",
-  "various-complements"
+  "various-complements",
+  "image-converter"
 ]

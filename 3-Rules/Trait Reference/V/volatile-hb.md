@@ -13,6 +13,6 @@ Volatile items, creature parts, or materials are inherently unstable—alchemica
 
 ## **Rules Interactions:**
 
-- **Harvesting:** When harvesting a rare part with the volatile trait, you must use [[superior-monster-harvesting-tools]] or risk destruction of the part. On a Critical Failure during a [[Targeted Harvest]], the part is destroyed and may trigger a volatile backlash (GM’s discretion).
+- **Harvesting:** When harvesting a rare part with the volatile trait, you must use [[superior-monster-harvesting-tools|superior monster harvesting tools]] or risk destruction of the part. On a Critical Failure during a [[Targeted Harvest]], the part is destroyed and may trigger a volatile backlash (GM’s discretion).
 - **Formula Discovery:** Experimenting with volatile parts carries additional risk. On a Critical Failure, roll on the [[Volatile Backlash Table]] to determine a mishap such as damage, contamination, or ruined materials.
 - **Spell Components:** When used as a spell catalyst, volatile components may increase a spell’s risk or potency—these interactions are defined in the catalyst’s specific item entry.

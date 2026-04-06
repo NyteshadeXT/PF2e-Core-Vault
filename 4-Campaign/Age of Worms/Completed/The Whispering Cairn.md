@@ -560,7 +560,7 @@ The nest in the southwest corner has the consistency of papier-mâché, and can 
 - [<] Moderate (100 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
- - 1: [[Giant Bombardier Beetle]] W
+ - 1: [[giant-bombardier-beetle]] W
  - 1: [[Amoeba Swarm|Acid Beetle Swarm]] H
 
 ```encounter
@@ -597,7 +597,7 @@ Each round characters within this room must make a DC 15 Will save to resist bec
 - [<] Moderate (120 XP) Level 1
 
 At the start of the encounter, place the following foes on the map: 
- - 2: [[Giant Bombardier Beetle]] W
+ - 2: [[giant-bombardier-beetle]] W
  
 ```encounter
 name: The Whispering Cairn - Sleeping Quarters

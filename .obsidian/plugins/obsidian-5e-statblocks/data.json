@@ -906,6 +906,265 @@
         ],
         "sourcebook": "Custom"
       }
+    ],
+    [
+      "Bodyguard",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Pathfinder NPC Core",
+        "name": "Bodyguard",
+        "level": "Creature 1",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>human<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+        "modifier": 8,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+8; "
+          }
+        ],
+        "languages": "Common",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics: +7, Intimidation: +6, Society: +2"
+          }
+        ],
+        "abilityMods": [
+          4,
+          2,
+          3,
+          -1,
+          1,
+          0
+        ],
+        "speed": "25 feet",
+        "sourcebook": "_Pathfinder NPC Core_",
+        "ac": 16,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "16; __Fort__ +8, __Ref__ +7, __Will__ +4"
+          }
+        ],
+        "hp": 25,
+        "health": [
+          {
+            "name": ""
+          },
+          {
+            "name": "HP",
+            "desc": "25"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Items",
+            "desc": "<STATBLOCK-WIKI-LINK>Equipment/Greatclub|Greatclub<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Sap|Sap<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Sling|Sling<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Bodyguard's Reprisal",
+            "desc": "`pf2:r`  **Trigger** A creature attacks the subject of bodyguard's defense\n* * *\n\n**Effect** The bodyguard makes a Strike against the triggering creature."
+          }
+        ],
+        "attacks": [
+          {
+            "name": ""
+          },
+          {
+            "name": "**Melee** `pf2:1` Fist",
+            "desc": "+7 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 4 bludgeoning"
+          },
+          {
+            "name": "**Melee** `pf2:1` Greatclub",
+            "desc": "+7 (backswing, shove)\n__Damage__  1d10 + 4 bludgeoning"
+          },
+          {
+            "name": "**Melee** `pf2:1` Sap",
+            "desc": "+7 (agile, nonlethal)\n__Damage__  1d6 + 4 bludgeoning"
+          },
+          {
+            "name": "**Ranged** `pf2:1` Sling",
+            "desc": "+5 (propulsive, range increment 50 feet, reload 1)\n__Damage__  1d6 + 2 bludgeoning"
+          },
+          {
+            "name": "Bodyguard's Defense",
+            "desc": "`pf2:1`  The bodyguard grants an adjacent ally a +2 circumstance bonus to AC. This lasts until the start of the bodyguard's next turn or until the ally is no longer adjacent, whichever comes first.\n\n<STATBLOCK-WIKI-LINK>Bestiary Effects/Effect_ Bodyguard's Defense|Effect: Bodyguard's Defense<STATBLOCK-WIKI-LINK>"
+          }
+        ]
+      }
+    ],
+    [
+      "Bodyguard lvl8",
+      {
+        "columns": 1,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "NPC Core",
+        "name": "Bodyguard lvl8",
+        "level": "Creature 8",
+        "rare_03": "",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>Human<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>Humanoid<STATBLOCK-WIKI-LINK>",
+        "modifier": 15,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +15;"
+          }
+        ],
+        "languages": "Common",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Athletics__: +17 (1d20+17); __Intimidation__: +14 (1d20+14); __Society__: +10 (1d20+10);"
+          }
+        ],
+        "abilityMods": [
+          5,
+          2,
+          4,
+          -1,
+          1,
+          0
+        ],
+        "abilities_mid": [
+          {
+            "name": "Bodyguard's Reprisal",
+            "desc": "⬲ **Trigger** A creature attacks the subject of bodyguard's defense; **Effect** The bodyguard makes a <STATBLOCK-WIKI-LINK>Strike<STATBLOCK-WIKI-LINK> against the triggering creature."
+          },
+          {
+            "name": "Bodyguard's Defense",
+            "desc": "⬻ The bodyguard grants an adjacent ally a +2 circumstance bonus to AC. This lasts until the start of the bodyguard's next turn or until the ally is no longer adjacent, whichever comes first."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "",
+            "desc": ""
+          }
+        ],
+        "speed": "25 feet",
+        "ac": 26,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "26; __Fort__ +17, __Ref__ +14, __Will__ +11"
+          }
+        ],
+        "hp": 125,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "125"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ fist +17 (<STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>nonlethal<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>unarmed<STATBLOCK-WIKI-LINK>); __Damage__ 1d4+9 (1d4+9) bludgeoning"
+          }
+        ],
+        "sourcebook": "Altered from Bodyguard, _NPC Core_ pg. 82."
+      }
+    ],
+    [
+      "Ghast lvl5",
+      {
+        "columns": 1,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Bestiary",
+        "name": "Ghast lvl5",
+        "level": "Creature 5",
+        "rare_03": "",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "Undead",
+        "trait_02": "Ghoul",
+        "modifier": 13,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "Perception +13; __darkvision__"
+          }
+        ],
+        "languages": "Common",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Acrobatics__: +12 (1d20+12); __Athletics__: +13 (1d20+13); __Stealth__: +12 (1d20+12)"
+          }
+        ],
+        "abilityMods": [
+          4,
+          3,
+          3,
+          -1,
+          2,
+          2
+        ],
+        "abilities_mid": [
+          {
+            "name": "Stench",
+            "desc": "(<STATBLOCK-WIKI-LINK>aura<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>olfactory<STATBLOCK-WIKI-LINK>); 10 feet. A creature entering the aura must succeed at a DC 21 Fortitude save or become <STATBLOCK-WIKI-LINK>sickened|sickened 1<STATBLOCK-WIKI-LINK> (plus <STATBLOCK-WIKI-LINK>slowed|slowed 1<STATBLOCK-WIKI-LINK> for 1 round on a critical failure). While within the aura, affected creatures take a –2 circumstance penalty to saves to recover from being sickened."
+          },
+          {
+            "name": "Paralysis",
+            "desc": "(<STATBLOCK-WIKI-LINK>incapacitation<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>necromancy<STATBLOCK-WIKI-LINK>); A living creature hit by the ghast’s jaws must succeed at a DC 21 Fortitude save or be <STATBLOCK-WIKI-LINK>paralyzed<STATBLOCK-WIKI-LINK> for 1 round (1 minute on a critical failure). The creature is then temporarily immune for 1 minute."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Consume Flesh",
+            "desc": "⬻ The ghast gnaws on a corpse, regaining 3d6 (3d6) Hit Points. If the corpse is fresh (killed within the last hour), the ghast regains 6d6 (6d6) Hit Points instead."
+          },
+          {
+            "name": "",
+            "desc": ""
+          }
+        ],
+        "speed": "30 feet",
+        "ac": 22,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "22; __Fort__ +14, __Ref__ +12, __Will__ +11"
+          }
+        ],
+        "hp": 95,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "95; __Immunities__ <STATBLOCK-WIKI-LINK>death effects<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>disease<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>paralyzed<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>poison<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>sleep<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee",
+            "desc": "⬻ claw +15 (<STATBLOCK-WIKI-LINK>agile<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>finesse<STATBLOCK-WIKI-LINK>); __Damage__ 2d6+6 (2d6+6) slashing"
+          },
+          {
+            "name": "",
+            "desc": ""
+          }
+        ],
+        "sourcebook": "Altered from Ghast, _Bestiary_."
+      }
     ]
   ],
   "defaultLayouts": {

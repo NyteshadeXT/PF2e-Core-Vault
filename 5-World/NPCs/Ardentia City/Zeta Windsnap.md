@@ -21,6 +21,10 @@ location:
 organization:
   - "[[Dungeon Seekers Guild]]"
 party1relation: Acquaintance
+language:
+  - Common
+  - Elven
+  - Draconic
 ---
 
 > [!metadata|metadata]- Metadata 

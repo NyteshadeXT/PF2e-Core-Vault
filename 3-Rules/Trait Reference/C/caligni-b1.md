@@ -9,6 +9,6 @@ aliases: ["Caligni"]
 # Caligni  
 *Source: Bestiary p. 345*  
 
-These subterranean people have [darkvision](rules/abilities/darkvision.md), and some have powers to create darkness.
+These subterranean people have [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]], and some have powers to create darkness.
 
 - **Categories**: Creature

@@ -188,6 +188,10 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 # Alignment / wrapping (optional)
 align: left             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 0.7513
+  centerX: 0.486849
+  centerY: 0.510427
 ```
 
 **A.** These watchtowers are all manned by four Arena Wardens (human warrior 2) during games. Their primary purpose is to add ambience to the games, but in the case a fight gets out of control and spills into the crowd are expected to do what they can to contain panic.
@@ -587,176 +591,775 @@ After the first night, the surveillance in the Coenoby is much less intense. As 
 If the PCs are caught outside of the Coenoby by guards, a DC 25 [[Skills#Diplomacy|Diplomacy]] check to make the unfriendly guards friendly convinces them to not report the incident if the PCs agree to return to the Coenoby immediately. A [[Skills#Diplomacy|Diplomacy]] check convinces the guards that the PCs have permission to be where they are, but the guards have a +10 on their [[Sense Motive]] check to see through this bluff since it's hard to believe. Finally, a bribe of 25 gp (per guard encountered) is enough to buy that particular patrol’s silence.
 
 ### Service Level
-The original Free City Arena was a much smaller, circular structure. The arena itself was rebuilt and expanded many decades ago, but one can still see the original arena's
+The original Bloodstone Arena was a much smaller, circular structure. The arena itself was rebuilt and expanded many decades ago, but one can still see the original arena's legacy in the shape of the ring that surrounds the service level. This level is used primarily to store supplies and to confine unruly gladiators and beasts. Ceiling height averages at 10 feet and walls are of reinforced masonry. Illumination is provided by iron lanterns hanging from short chains. 
 
-legacy in the shape of the ring that sur- rounds the service level. This level is used primarily to store supplies and to confine unruly gladiators and beasts. Ceiling height
+During the day, this level is crowded with busy servants, and it would be very difficult to explore it without being noticed and reported to the arena wardens. At night things are much quieter, with only a single patrol of four of Raknian’s bodyguards watching the area. These guards spend most of their time in area 11, making a lazy patrol of the level once an hour.
 
-are of reinforced
+#### 1. Western Hall
+> [!note]+ Read Aloud
+> This hall shows signs of intense recent traffic. The ceiling is supported by a rectangular pillar, and by the shell of a circular stairwell. A wooden, life-sized statue of a muscular, half-naked man holding a spear and a horn lies in the southwest corner, where an arcade leads to the space of a large hoist. A heap of metal bars, hinges and locks sits along the north wall, near a ten-foot wide, three-foot tall segment of a wooden frieze. The frieze is decorated with the realistic carvings of fruits and a bulls skull.
 
-averages at 10 feet and wal masonry. Illumination is provided by iron lanterns hanging from short chains. During the day, this level is crowded with busy servants, and it would be very difficult to explore it without being noticed and reported to the arena wardens. At night things are much quieter, with only a sin- gle patrol of four of Raknian’s bodyguards
+The hall is used as a storage area for reusable materials used to build more elaborate battle arenas above. The large southern alcove houses the main hoist of the arena, a complex and efficient machine that can lift up to 4,000 pounds to the surface above with the effort of four laborers at the capstan. The lift is left in its raised position, effectively blocking intrusion from area H above.
 
-watching the area. These guards spend
+The stairway to the west connects the hall via a long passageway to the Wardens’ Barracks (area B) The circular stairway in the middle of the room leads down to the Arena Caverns (area 23). The stairs also lead up for about 10 feet before ending abruptly in a stone plug—they once led up to the arena above but were blocked off when the entire surface structure was rebuilt and expanded. 
 
-most of their time in area 11, making a lazy
+#### 2. Workshop
+> [!note]+ Read Aloud
+> This large room houses a workshop. Τools and simple machines mix with scraps of raw materials, rags, and litter left by busy workers during the previous day. The odor of sawdust, leather, wax and glue lingers in the air.
 
-patrol of the level once an hour.
+The workshop is well equipped for wood, leather, and textile working, although not for blacksmithing.
 
-1. Western Hall
+#### 3. Armory
+> [!note]+ Read Aloud
+> Two wooden racks line the west and east walls of this room, holding dozens of the odd and picturesque weapons traditionally used by gladiators.
 
-decorated with the realistic carvings of fruit
+This room contains several racks of gladiatorial and wooden weapons used for fighting and training in the arena. Nets, tridents, polearms, clubs, and spiked chains are the most common weapons found here. None of the weapons are remarkable.
 
-The hall is used as a storage area for re- usable materials used to build more elaborate battle arenas above. The large southern alcove
+#### 4. Secondary Lift
+> [!note]+ Read Aloud
+> A lift with two small capstans occupies almost all the space of this room. The machine appears to be locked in the raised position with chains and nails.
 
-houses the main hoist of the are:
+This lift can raise up to 3,000 pounds near the center of the arena. In preparation for the Champion's Games, it has been blocked to a raised position and covered with a layer of tiles and sand.
 
-a complex and efficient machine that can lift up to 4,00¢ pounds to the surface above with the effort of four laborers at the capstan. The lift is left in its raised position, effectively blocking intru- sion from area H above.
+#### 5. Northern Hall
+> [!note]+ Read Aloud
+> This large, irregular hall seems to be a major junction—many stairways and passages lead in and out.
 
-The stairway to the west connects the hall
+This hall allows direct access to the Coenoby (area 16), to Raknian’s Palace via a stairway to the north (area E) and to the main tribune of the arena above via a stairwell in the northwestern corner (area C).
 
-via a long passageway to the Wardens’ Bar-
+#### 6. Beast Cages
+> [!note]+ Read Aloud
+> Six identical cells open along this corridor, each one closed by a metal gate. The grow! of a large feline breaks the silence, followed by several porcine grunts.
 
-racks (area B) The circular stairway in the middle of the room leads down to the Arena Caverns (area 23). The stairs also lead up for about 10 feet before ending abruptly in a
+```encounter
+name: Bloodstone Arean - Beast Cages
+party: Age of Worms
+creatures:
+  - 2: Leopard
+  - 1: Lion
+  - 3: Boar
+```
 
-This hall shows signs
+These six cages contain animals used alternately as guard beasts and creatures for gladiator fights. The steel gates that close the cages are padlocked ([[Skills#Thievery|Thievery]] DC 26).
 
-pillar and
+The domesticated leopards in the cage are hostile toward intruders and are likely to raise the alarm with loud roars if not silenced or beguiled. The lion and the boars, on the other hand, are unwilling prisoners, and are just plain unfriendly.
 
-leads to the space
+#### 7. Death Row
+These cells hold prisoners who have been condemned to death and are scheduled for execution in the arena. The bodies of executed prisoners are supposedly burned, but in fact [[Bozal Zahol]] has been claiming them for his uses in the Shrine of Kyuss below.
 
-metal bars, hinges,
+Two of these cells are empty, but one (area 7b) holds a prisoner. The prisoner is a nameless, deaf-mute, insane tramp (CN human commoner 2), captured by Raknian’s bodyguards and scheduled to be sent down to Bozal Zahol soon. The vagabond is insane, and cannot answer questions coherently as a result. Still, the poor soul can be communicated with if the PCs can make a DC 26 [[Skills#Diplomacy|Diplomacy]] check. The vagabond is terrified—just two days ago he saw Bozal Zahol enter the cell opposite and place a Kyuss worm on the face of the prisoner kept there. That prisoner's transformation into a spawn of Kyuss (that Bozal then promptly controlled) shattered the vagabond's already shaky mind. If the PCs communicate with him, he simply draws crude illustrations of worms in the dirt and dust of his cell floor and points at the cell opposite. He saw Bozal enter and leave death row from area 8, and not knowing of the secret door there, he’s convinced the nephilim priest and his new undead minion are still in that room.
 
-north wall, near a t
+[[Regenerate]] restores the vagabond’s hearing and thus removes the need to make a [[Skills#Diplomacy|Diplomacy]] check to communicate with him. It takes a [[Restoration]] spell to completely cure the vagabond, in which case he tearfully thanks the PCs and tells them everything he knows about the activites going on in the arena before fleeing.
 
-ll segment of The frieze is
+**Development** In the early morning hours of Day 4, Bozal Zahol visits this cell with a preserved Kyuss worm, transforms the tramp into a spawn, and returns with his new minion to the shrine below.
 
-stone plug—they once led up to the arena above but were blocked off when the entire
+#### 8. Wine Cellar
+> [!note]+ Read Aloud
+> This small cellar contains several barrels and hundreds of glass bottles on shelving on the south wall. The air is thick with the smell of vinegar. 
 
-surface structure was rebuilt and expanded. 2. Workshop
+This room stores wine and other, stronger spirits. An open barrel near the east wall contains vinegar, and its smell fills the room (handy in covering up the unpleasant odors coming from the Shrine of Kyuss).
 
-his large room houses a workshop. Τ
+A carefully-hidden swiveling wall section in the northwest corner can be discovered with a DC 28 [[Skills#Perception|Perception]] check. This secret door opens onto a landing at the top of a narrow flight of stairs that leads to area 25. The foul rotten smell of the shrine of Kyuss is immediately apparent once anyone steps into this stairway.
 
-imple machines m
+> [!danger]+ Trap
+> A glyph of warding-blast guards the upper landing of this secret staircase.
+> 
+> [[glyph-of-warding-blast-hb|Glyph of Warding (Blast)]]
 
-materials, rags, and litter left by b during the previous day. The odor of sawdust,
+#### 9. Combustibles Storage
+> [!note]+ Read Aloud
+> This storage room contains a half-dozen stirrup-vases and scores of stoppered clay flasks. The distinct odor of tar hangs heavily in the air.
 
-leather
+The stirrup-vases are full of tar and clay flasks contain alchemist's fire. There are 60 flasks in all.
 
-n the ai
+#### 10. Mess Hall
+> [!note]+ Read Aloud
+> Four columns support the vaulted ceiling of this large hall. Three long tables with stools provide dining space for about forty people.
 
-NOVEMBER 2005 DUNGEON 49
+During the day, this hall is used as a canteen by the arena attendants to take their meals.
 
-ΤΗΕ CHAMPION’S ΒΕ
+#### 11. Guardroom
+> [!note]+ Read Aloud
+> This elongated, irregular room features a central square pillar, a living area with two round tables and a narrow passage in the northwest corner. Three copper braziers in the corners light the room.
 
-x 50 DUNGEON
+The passage in the northwest corner is barely 4 feet wide and leads to a small door painted in blue. Behind the door is an unremarkable and reasonably clean lavatory.
 
-‘The workshop is well equipped for wood, leather, and textile working, although not for blacksmithing.
+```encounter
+name: Bloodstone Arena - Guardroom
+party: Age of Worms
+creatures:
+  - 4: [[Bodyguard lvl8,Bodyguard]]
+```
 
-3. ARMory
+During the day, arena attendants use this room for breaks. During the night, a patrol of four of Raknian's bodyguards are stationed here. Once every hour, two of them patrol the surrounding chambers (this takes 10 minutes).
 
-Two wooden racks line the west and east walls of this room, holding dozens of the odd and picturesque weapons traditionally used by gladiators,
+#### 12. Pantry
+> [!note]+ Read Aloud
+> This small room contains craters and jars of all sizes and shapes. Several dozen sausages hanging from the ceiling emanate an intense and pleasant smell of smoked meat.
 
-‘This room contains several racks of gladiatorial and wooden weapons used for fighting and training in the arena. Nets, tridents, polearms, clubs, and spiked chains are the most common weapons found here. None of the weapons are remarkable.
+Preserved foods of all kinds (cheese, sausages, honey, and hardtack) are stored here.
 
-4. Secondary Lift
+#### 13. Dormitory
+> [!note]+ Read Aloud
+> This spartan dormitory contains four beds and four wooden cupboards with three shelves each. Four rucksacks sit on the shelves.
 
-A lift with two small capstans occupies almost all the space of this room. The machine appears to be locked in the raised position with chains and nails.
+During the day, the four bodyguards stationed in area 11 sleep here. The rucksacks contain unremarkable personal effects and belongings.
 
-‘This lift can raise up to 3,000 pounds near the center of the arena. In prepara- tion for the Champion's Games, it has been blocked to a raised position and covered with a layer of tiles and sand,
+```encounter
+name: Bloodstone Arena - Guardroom
+party: Age of Worms
+creatures:
+  - 4: [[Bodyguard lvl8,Bodyguard]]
+```
 
-5. Northern Hall
+#### 14. Kitchen
+> [!note]+ Read Aloud
+> A large angular fireplace dominates this well-equipped, clean kitchen, where several metal grills and spits are neatly arranged. A circular well sits in the southeast comer. A passage to the east leads to a small door, where a few, half-empty sacks of flour are stacked on the floor.
 
-This large, irregular hall seems to be a major junction—many stairways and pas- sages lead in and out.
+The arena attendants prepare meals here for themselves, the prisoners, and the animals in area 6.
 
-‘This hall allows direct access to the Coenoby (area 16), to Raknian’s Palace via a stairway to the north (area E) and to the main tribune of the arena above via a stair- well in the northwestern corner (area C).
+#### 15. Circular Hallway
+A series of identical stairwells, accessible through archways closed by steel gates, are spaced evenly along the inner wall of this hallway; each of these stairwells leads down to area 23 and once led up to the arena above (although they've all been blocked with stone). Other, lesser archways lead out from the central ring to narrow, dusty and neglected tunnels used for storage. At your option, a secret passage in one of these tunnels can lead to a basement within the walls of Ardentia City.
 
-6. Beast Cages (EL 7)
+```zoommap
+image: zz-Attachments/arena-caverns.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
 
-Six identical cells open along this corridor, each one closed by a metal gate. The grow! of a large feline breaks the silence, followed by several porcine grunts.
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
 
-Creatures: These six cages contain ani- mals used alternately as guard beasts and creatures for gladiator fights. The steel gates that close the cages are padlocked (Open Locks DC 20).
+# Size & interactivity
+height: 1200px
+width: 60%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
 
-‘The domesticated leopards in the cage are hostile toward intruders and are likely to raise the alarm with loud roars if not silenced or beguiled. The lion and the boars, on the other hand, are unwilling prisoners, and are just plain unfriendly.
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
 
-Leopard (2): hp 19; Monster Manual 274.
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
 
-Lion: hp 32; Monster Manual 274.
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 0.4220
+  centerX: 0.500175
+  centerY: 0.500000
+```
 
-Boar (3): hp 25; Monster Manual 270.
+### Arena Caverns
+The arena caverns are the deepest leve! of the complex, about 30 feet under the Service Level. This is a vast and varied complex, partly natural and partly worked stone. The caverns are connected to the Ardentia City sewer system and are crossed by an underground stream which surfaces here and there, forming shallow pools of cold water. In most cases, the subterranean stream travels in tight 2-foot-wide submerged passages. With the exception of the Coenoby (area 16), no guards patrol this area.
 
-7. Death Row
+#### 16. The Coenoby
+> [!note]+ Read Aloud
+> This enormous cave resembles some sort of underground village. The cave walls are finely hewn and the floor paved with smooth slabs of stone. Many artificial and natural pillars support the relatively low ceiling fifteen feet above. Wooden doors on the cave's walls lead to a circle of underground dwellings, the lodgings of gladiators during the Champion's Games. A pair of similar doors on the north wall leads to a kitchen and an infirmary. An underground stream runs in the middle, crossed by a wooden bridge that leads to a dining area with two long tables. The relatively fresh air, murals of famous gladiators on the walls, and the soft illumination provided by amber-colored light globes hanging from the ceiling makes this cave a true marvel of underground architecture.
 
-‘These cells hold prisoners who have been condemned to death and are scheduled for execution in the arena. The bodies of exe- cuted prisoners are supposedly burned, but in fact Bozal Zahol has been claiming them for his uses in the Shrine of Kyuss below.
+The Coenoby was once an ancient catacomb similar to the nearby Titan's House (area 18). Three years ago, Raknian remodeled the Coenoby into the subterranean guesthouse it is today. Especially designed for the Champion’s Games, the Coenoby can accommodate the twenty-four starting teams with reasonable comfort.
 
-‘Two of these cells are empty, but one (area 7b) holds a prisoner. The prisoner is a nameless, deaf-mute, insane tramp (CN human commoner 2), captured by Raknian’s bodyguards and scheduled to be sent down to Bozal Zahol soon. The vaga- bond is insane, and cannot answer ques- tions coherently as a result. Still, the poor soul can be communicated with if the PCs can make a DC 20 Bluff check. The vaga- bond is terrified—just two days ago he saw Bozal Zahol enter the cell opposite and place a Kyuss worm on the face of the pris- oner kept there. That prisoner's transfor- mation into a spawn of Kyuss (that Bozal then promptly controlled) shattered the vagabond's already shaky mind. Ifthe PCs communicate with him, he simply draws crude illustrations of worms in the dirt and dust of his cell floor and points at the cell opposite. He saw Bozal enter and leave death row from area 8, and not knowing of the secret door there, he’s convinced the tiefling priest and his new undead minion are still in that room.
+Two groups of arena wardens are supposed to keep an eye on the Coenoby during the Champion's Games, but after day 1 has come and gone, the majority of the guards here are tired and easily distracted, when they're even present at all. Raknian himself is so distracted by the coming sacrifice and the chaos of organizing the Games that he doesn't have time to watch the PCs as closely as he would like.
 
-Remove blindness/deafness restores the vag- abond’s hearing and thus removes the need to make a Bluff check to communicate with him. It takes a heal or a greater restoration to completely cure the vagabond, in which case he tearfully thanks the PCs and tells them everything he knows about the activ- ites going on in the arena before fleeing.
+#### 17. Kitchen and Infirmary
+> [!note]+ Read Aloud
+> These two adjoining rooms, a kitchen and an infirmary, are used to cook meals for the hungry and administer first aid to the wounded.
 
-Development: In the early morning hours of Day 4, Bozal Zahol visits this cell with a preserved Kyuss worm, transforms the tramp into a spawn, and returns with his new minion to the shrine below.
+Both rooms are clean and well equipped for their use, although nothing special or valuable is left here during the night. A sink on the north wall of the kitchen connects to the sewer system of Ardentia City through a tiny drainage pipe. The cowl of the fireplace in the northwest corner has a very large flue, which could be ascended by a PC to reach the surface (area F).
 
-8. Wine Cellar (EL 7)
+#### 18. The Titan’s House
+> [!note]+ Read Aloud
+> This huge cave resembles the Coenoby, but is in a state of century-old abandonment. It looks like a surface structure once stood here, a cluster of stone houses that were buried under a million tons of rubble a long time ago. In the labyrinth of ceiling-high sections of ruined walls, the only remarkable feature is the idol that gives this cave its name, the ten-foot-high, alabaster statue of a powerful giant armed with a mattock. Now the silent guardian of the Titan's House, the statue stands in an almost completely enclosed space in the northeast part of the cave.
 
-This small cellar contains several barrels and hun- dreds of glass bottles on shelving on the south wall. The air is thick with the smell of vinegar
+The source of this catacomb of stone buildings predates even Ardentia City itself. Built by an ancient cult of demon-worshipers who performed human sacrifices on a hillock above, all that remains are these well-built but empty ruins.
 
-This room stores wine and other, stronger spirits. An open barrel near the east wall contains vinegar, and its smell fills the room (handy in covering up the unpleasant odors coming from the Shrine of Kyuss),
+This catacomb is frequently visited by gladiators staying in the Coenoby after the first day, as the rooms are a safe and relatively private place for meditation or for more carnal pursuits. The cave floor slopes down to the south where a 10-foot-deep pool of water is located. A submerged tunnel here once led up to area 19, cavern that leads to a large network of ghoul warrens to the southeast. Raknian had his men install a large stone plug in this submerged tunnel to keep the ghouls out. The plug is visible from the surface with a DC 24 [[Skills#Perception|Perception]] check.
 
-A carefully-hidden swiveling wall sec- tion in the northwest corner can be dis- covered with a DC 30 Search check. This secret door opens onto a landing at the top ofa narrow flight of stairs that leads to area 25. The foul rotten smell of the shrine of Kyuss is immediatley apparent once anyone steps into this stairway.
+**Stone Plug** 1 foot thick; Hardness 8; hp 180; Break DC 36
 
-‘Trap: A greater glyph of warding guards the upper landing of this secret staircase.
+#### 19. Ghastly Convention
+> [!note]+ Read Aloud
+> Rubble and old bones of humans and animals clutter the floor of this fifteen-foot-high cave. A terrible stench of decay hangs here.
 
-Greater Glyph of Warding Trap (slay liv- ing} CR 7; spell; spell trigger; no reset; spell effect (glyph of warding [slay living, uth-level cleric, DC 19 partial); Search DC 31; Disable Device DC 31.
+This cave was once used by ancient cultists as an ossuary for the bones of sacrificed victims. The cave has been frequented by corpse eating undead for centuries as a result, and is in fact the northwesternmost portion of a large and tangled warren filled with ghouls, ghasts, and more terrible undead. The extent and exact occupants of these tunnels beyond the scope of this adventure, but provide an interesting (and dangerous) optional route of entry for PCs who don't want to take the gladiator route to infiltrate the arena.
 
-9. Combustibles Storage
+```encounter
+name: Bloodstone Arena - Ghastly Convention
+party: Age of Worms
+creatures:
+  - 9: [[Ghast lvl5, Ghast]]
+```
 
-This storage room contains a half-dozen stirrup- vases and scores of stoppered clay flasks. The distinct odor of tar hangs heavily in the air.
+A pack of ghasts dwells here now. Zahol encountered the ghasts several months ago and struck a deal with them—in return for his disposing of nice ripe dead bodies in this chamber on a weekly basis, the ghasts serve him as guards to make sure no one approaches the areas to the northwest. There are nine ghasts here.
 
-‘The stirrup-vases are full of tar and clay flasks contain alchemist's fire. There are 60 flasks in all.
+#### 20. Pool Cave
+> [!note]+ Read Aloud
+> A shallow pool of water occupies the southern part of this 15-foot-high cave. Several geometric graffiti are etched here and there on the walls.
 
-10. Mess Hall
+This cavern is empty, but any amount of loud noise or light is likely to attract the ghouls from area 19 if they haven't yet been encountered. The river leading to the west is not completely submerged, and as it is only 3 feet deep and flows at a languid pace can be easily navigated by most humanoids.
 
-Four columns support the vaulted ceiling of this large hall. Three long tables with stools provide dining space for about forty people.
+#### 21. Sewage Grotto
+> [!note]+ Read Aloud
+> This low-ceilinged grotto is completely flooded by murky, foul-smelling water. Piles of drenched rubbish, debris, and rotting flotsam bob everywhere. The dirty water flows out constantly from a sloping sewer conduit on the north wall. Thick sheets of rancid-looking slime cling to the ceiling in pale yellow gobs.
 
-During the day, this hall is used as a canteen by the arena attendants to take their meals,
+This grotto is where the refuse thrown in the pit of area 24 is dropped after a slow roll down a sloping conduit to the north. The water is fairly shallow at only 1 or 2 feet deep, but the uneven ground makes for difficult terrain. The ceiling is only 10 feet high.
 
-11. Guardroom (EL 9)
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+  - 4: Living Tar
+```
 
-This elongated, irregular room features a central square pillar, a living area with two round tables and a narrow passage in the northwest corner. Three copper braziers in the corners light the room.
+With the help of his alkilith ally (see area 30), Zahol has captured and contained a group of four [[Living Tar]]. The oozes cling to the ceiling of this cave, and can slither about with ease, reaching anything from above with their pseudopods. They'll pursue prey relentlessly from this chamber.
 
-One aqurms® faut
+> [!tip]+ Treasure
+> A DC 26 [[Skills#Perception|Perception]] of this room uncovers a severed arm on which remains a gauntlet of rust.
+> 
+> - [ ] permanent::[[Armbands of Athleticism]] [ilvl::9] [gp::645]
 
-5 DUNGEON 51
+#### 22. Sewer Collector
+This wretched space is filthy beyond imagination, being a collector for several drainage pipes of the arena complex above. The walls and ceiling are riddled with sewage spouts of all sizes, and rancid water constantly flows out of them.
 
-THE CHAMPION’S
+This collector is accessible from the Ardentia City sewer system and a nearby sewer access (area G). Zahol’s personal lavatory (area 30) is located directly above the room, and its 6-inch-wide drain pipe drops vertically into it.
 
-‘The passage in the northwest corner is barely 4 feet wide and leads to a small door painted in blue. Behind the dooris an unre- markable and reasonably clean lavatory.
+The passage southeast of here once connected to a central drainage well, but it has been filled with rubble when Raknian and Bozal created the chamber for the ulgurstasta (area 32).
 
-Creatures: During the day, arena atten- dants use this room for breaks. During the night, a patrol of four of Raknian's bodyguards are stationed here. Once every hour, two of them patrol the surrounding chambers (this takes 10 minutes).
+#### 23. Circular Hallway
+This 15-foot-high circular hallway corresponds to the one above (area 15). A 10-foot-wide passage leads east to the Coenoby (area 16).
 
-Bodyguards (4): hp 42 each; see page 38.
+```zoommap
+image: zz-Attachments/shrine-of-kyuss.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
 
-12. Pantry
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
 
-This small room contains craters and jars of all sizes and shapes. Several dozen sausages hanging from the ceiling emanate an intense and pleasant smell of smoked meat.
+# Size & interactivity
+height: 1000px
+width: 50%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
 
-Preserved foods of all kinds (cheese, sau- sages, honey, and hardtack) are stored here.
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
 
-13. Dormitory
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
 
-This spartan dormitory contains four beds and four wooden cupboards with three shelves each. Four rucksacks sit on the shelves.
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 0.6796
+  centerX: 0.500070
+  centerY: 0.500144
+```
 
-During the day, the four bodyguards stationed in area 11 sleep here. The ruck- sacks contain unremarkable personal effects and belongings.
+### Shrine of Kyuss
+This part of the complex is situated below the Service Level but above the caverns. It originally served as a secret shrine for worship of Kord by the original builders of the arena, but when the above-ground structure changed ownership and was rebuilt into its current configuration, knowledge of this hidden shrine passed from view. Raknian discovered the shrine not long after he became director, and when he solidified his alliance with Bozal Zahol, he allowed the Kyuss cultist to take control of the shrine and make it his own. 
 
-14. Kitchen
+Today, the entire place reeks of a charnel house and is dark, except where otherwise noted. All the doors of this level are modern fixtures of strong wood, and open smoothly.
 
-A large angular fireplace dominates this well- equipped, clean kitchen, where several metal grills and spits are neatly arranged. A circular well sits in the southeast comer. A passage to the east leads to a small door, where a few, half- empty sacks of flour are stacked on the floor.
+#### 24. Pit Room
+> [!note]+ Read Aloud
+> This circular room has a five-foot-wide pit in the middle of the floor. An oil lamp hanging from the center of the ceiling illuminates the pit.
 
-‘The arena attendants prepare meals here for themselves, the prisoners, and the animals in area 6.
+The pit drops 15 feet down to a sewer conduct that slopes toward area 21 through a ramp of tiny waterfalls. Zahol uses the pit to get rid of rubbish and to throw food to his Living Tars. Climbing the pit's slippery walls requires a DC 26 [[Climb]] check.
 
-15. Circular Hallway
+#### 25. Coppin Storage
 
-A series of identical stairwells, accessible through archways closed by steel gates, are spaced evenly along the inner wall of this hallway; each of these stairwells leads down to area 23 and once led up to the arena above (although they've all been blocked with stone). Other, lesser archways lead out from the central ring to narrow, dusty and
+This square room contains three plain wooden coffins. Two coffins lie along the south wall, while a third has been placed in the north part of the room. Several empty sacks are piled near the third coffin.
 
-x 52 DUNGEON
+‘These coffins are used to transport and contain bodies delivered to the shrine from Raknian; they are all currently empty but show signs of heavy use. The sacks are empty, but contain traces of sand.
 
-neglected tunnels used for storage. At your option, a secret passage in one of these tun- nels can lead to a basement within the walls
+Creatures: Three spawn of Kyuss guard this chamber. These nasty undead were once prisoners, but Bozal Zahol claimed them and transformed them into spawn using Kyuss worms. A spawn of Kyuss resembles a nearly skeletal zombie, save that it is infested with writhing green worms that bulge and drip from its eyes and mouth.
 
-of the Free City.
+CRS
+
+Spawn oF Kyuss (3) CE Medium undead
+
+Monster Manual I| 186
+
+Init —1; Senses darkvision 60 Spot +6
+
+‘Aura fear (40 ft. radius, DC 14)
+
+Languages Common
+
+AC 11, touch 9, flat-footed 11
+
+hp 29 (4 HD); fast healing 5
+
+Immune undead traits
+
+Fort +1, Ref +0, Will +4
+
+‘Weakness curative transformation
+
+Spd 30 ft.
+
+Melee slam +7 (1d6+6 plus worm and Kyuss’ gift) or touch +6 melee touch (o plus worm)
+
+Ranged worm +1 ranged touch (special)
+
+Base Atk +2; Grp +6
+
+‘Special Atk create spawn, fear aur
+
+Abilities Str 18, Dex 9, Con Wis 11, Cha 15
+
+SQ turn resistance +2
+
+Feats Toughness, Weapon Focus (slam)
+
+Skills Hide +0, Jump +7, Move Silently +3, Spot +6
+
+Create Spawn (Su): Ifa spawn of Kyuss hits with a slam attack, as a free action it may transfer a worm from its body to that of the target (it may also do this as a touch attack or have a worm leap as a ranged touch attack with a range of 10 feet), The worm is a Fine vermin with AC 10 and 1 hit point. During this time, the worm can be killed by normal damage or the touch of silver. On the spawn's next turn, the worm burrows into the flesh of its target (creatures with natural armor +5 or more are immune), making its way toward the brain and causing 1 hit point of damage per round until it reaches the brain 1d4+1 rounds later. When inside a victim, the worm can be destroyed by remove curse or remove disease (or spells that duplicate these effects); dispel evil or neutralize poison delays its progress for 10d6 minutes. These spells affect multiple worms within the same victim, Worms cannot survive outside of a host for more than 1 round, A DC 20 Heal check extracts the worm and kills it. Once the worm reaches the victim's brain, it inflicts 142 points of temporary Intelligence damage per round until it is destroyed or the victim reaches 0 Intelligence, at which point the host dies and rises as a spawn of Kyuss 1d6+4 rounds later. Small, Medium, and Large creatures become spawn of Kyuss as described above; smaller creatures quickly putrefy rather than becoming spawn, larger
+
+iyuss’ gift
+
+creatures become normal zombies. Spawn (and spawned zombies) are not under the control of their parent but usually follow after whatever spwan created them. Any creature that touches a spawn with an unarmed strike or other natural weapon is immediately attacked by 1d4 worms.
+
+Curative Transformation (Ex): Remove curse or remove disease (or more powerful effects that duplicate these spells) transforms a spawn of Kyuss into a normal zombie.
+
+Fear Aura (Su): Continuous effect in a 40-ft. radius, as a fear spell (panicked), Will negates DC 14. A creature that makes its save against the aura is immune to it for 24 hours. Caster level 7th. The DC is Charisma-based.
+
+Kyuss’ Gift (Su): Supernatural disease, incubation time 1 day. The disease deals 166 Constitution and 1d4 Wisdom damage per day, manifesting as rotting flesh and dementia. Healing magic has only half effect on the victim, though remove disease cures it normally. Fortitude DC 12.
+
+26. Pump Room
+
+‘The north part of this room is occupied bya piece of ancient machinery built of stone and metal, but seems not to have been in use for centuries. The machinery is connected to the northeast wall by a very large pipe.
+
+A DC 20 Knowledge (architecture and engineering) check reveals that this machine was once a magical water pump capable of siphoning enormous quantities of water into a nearby conduit (the central drainage well under the arena), Although the machine is broken, it still connects to the well (area 32) by a horizontal, two-foot- wide lead pipe. A Small PC (or a Medium one making a DC 1ο Escape Artist check) can clamber into the machinery and tra- verse the pipe to an opening in the wall of area 32. At that point, the PC finds further progress blocked by the force sphere created by the Apostolic Scrolls (see sidebar), Although the PC likely cannot progress further, he is nonetheless presented with a terrifying view of the semi-dormant ulgurstasta within.
+
+27. Training Hall (EL 11)
+
+The air in this large hall is particularly noi- some. The northern wall is almost completely
+
+covered by the remains of a wooden book- shelf, whose contents have long ago crum- bled to dust. The southern part of the aisle is occupied by dusty pieces of ancient, ruined machinery that may have once comprised sets of semi-automated combat dummies.
+
+‘This chamber was once used by the faithful of Kord as a training hall, but now their once-impressive dueling machines are ruined and broken. Creatures: Bozal Zahol uses this large chamber as a “barracks” for the undead he's created since he moved in. Raknian sus- pects Bozal has been stockpiling an undead army, but as long as he can deliver on his promises, Raknian doesn't really care. Currently, this chamber contains a sin- gle mohrg and six spawn of Kyuss. The undead wait patiently for commands, but are intelligent enough to recognize intruders for what they are and attack at once. One of the spawn of Kyuss breaks away from combat to shamble north to warn Bozal while the remaining undead do their best to ruin the PCs. Mohrg: hp 91; Monster Manual 189. Spawn of Kyuss (6): hp 29 each; see page 54.
+
+28. Altar Room (EL 11)
+
+Two braziers in the northeast and southeast corners light this rectangular room. A simple altar of stone sits in the middle of the east wall, facing a large set of stone double doors to the west. On the altar is a scroll, which slows with an unnatural green light. A writh- ing green beam of light emanates out of these scrolls to strike the doors to the west, bathing them in the same green glow.
+
+After Loris Raknian sealed his unholy deal with Bozal Zahol and procured a copy of the Apostolic Scrolls from the illithid ‘Zyrxog, Bozal used a ritual in the scroll to conjure a massive undead monster called an ulgurstasta from its lair far to the north in the Wormcrawl Fissure into a special underground chamber nearby (area 32). The ritual created a special containment sphere of force around the creature, putting it into a semi-dormant state that not only protects it from outside molestation but allows it to grow in size
+
+and power until the right moment, much like a chrysalis. The glowing beam of light is a manifestation of the link between the Apostolic Scrolls and the sphere of force in area 32; it can be passed through without ill effect, and blocking its path does nothing to interrupt the effect. The
+
+Apostolic Scrolls themselves are under
+
+a temporal stasis effect, and cannot be
+
+moved, damaged, or otherwise interacted
+
+with until the entire effect is removed.
+
+See area 32 for details on how the PCs
+
+might be able to undo this effect.
+
+Bozal has placed an unhallow spell in this chamber, which creates a zone of silence for all non-worshipers of Kyuss in this room.
+
+Creature: If the PCs arrive here during the night, Bozal Zahol stands before the altar, meditating on the Apostolic Scrolls and communicating telepathically with the semi-dormant ulgurstasta to learn its unfathomable dark secrets,
+
+Bozal Zahol is a middle-aged tiefling with a flaccid and misshapen figure. His fiendish ancestry is evident in the unnat- urally green, almost fluorescent color of his eyes, his twitching tail, the vestigial horns on his brow, and his hoofed feet. Zahol expects the cult of Kyuss to grow considerably after the Age of Worms begins, and plans on being one of the leaders of the cult. Bozat Ζαμοι. ΕΒ11 Male tiefling cleric 11 (Kyuss)
+
+NE Medium outsider (native)
+
+Monster Manual 209
+
+Init +0; Senses darkvision 60 ft; Listen +3, Spot +3
+
+Languages Abyssal, Common, Infernal
+
+AC 18, touch 10, flat-footed 18
+
+hp 64 (11 HD)
+
+Resist cold 5, electricity 5, fire 5
+
+Fort +8, Ref +3, Will +12
+
+Spd 20 ft.
+
+Melee +1 unholy club +11/+6 (1d6+2)
+
+Base Atk +8; Grp +9
+
+Atk Options smite 1/day (+4 on attack rolls, +11 damage)
+
+Special Atk death touch 1/day (1146), rebuke undead 4/day (+3, 246412, 11th)
+
+Combat Gear potion of cure serious wounds, scroll of restoration, scroll of heal, brooch of shielding (35 points), wand of inflict
+
+moderate wounds (32 charges)
+
+Spells Prepared (CL 11th, ranged touch +8) 6th—antilife shell, harm® (DC 20) sth—slay living? (DC 19), spell resistance,
+
+‘summon monster V 4th—cure critical wounds, death ward?, divine power, summon monster IV 3rd—contagion® (DC 17), blindness/deafness (DC 27), dispel magic, invisibility purge, speak with dead, summon monster ΙΙΙ 2nd—death knel (DC 16) cure moderate wounds, resist energy, shatter (DC 15), summon monster Il, undetectable alignment ast—command (DC 14), cure light wounds (2), doom (DC 15), inflict light wounds? (DC 15), protection from good, sanctuary (DC 14) o—cure minor wounds, detect magic, detect poison, guidance, read magic, resistance D: domain spell; Domains: Death, Destruction
+
+Spell-Like Abilities (CL 11th) 1/day—darkness
+
+Abilities Str 12, Dex 10, Con 12, Int 12,
+
+Wis 17, Cha 12
+
+SQ spontaneous casting (inflict spells)
+
+Feats Combat Casting, Iron Will, Spell Focus (necromancy), Weapon Focus (club)
+
+Skills Bluff +3, Concentration +10, Craft (painting) +6, Diplomacy +6, Hide —2, Knowledge (arcana) +6, Knowledge (history) +6, Knowledge (religion) +9, Spellcraft +8
+
+Possessions combat gear, +1 chainmail, +1 light fortification light wooden shield, +1 unholy club, periapt of health, a strand of prayer beads, jade holy symbol of Kyuss worth 100 gp, ring of keys
+
+Tactics: If Bozal has advance warning that the PCs are nearby, he immediately casts anti- life shell, Once this is up, he casts death ward, spell resistance, invisibility purge, resist energy (of a type the PCs have used in any gladiatorial battles so far), and shield of faith.
+
+Bozal then moves toward the sound of battle, at which point he begins sum- moning monsters to add to the fray. If forced into melee, he starts by cast- ing divine power and then fights until brought below 20 hit points, at which point he uses his darkness spell-like abil- ity to retreat, heal, and return to combat. If Bozal is reduced to fewer than 5 hit points, he loses his nerve and takes a standard action to release the ulgurstasta in area 32, cursing the PCs at the same time and promising them “the true wrath of Kyuss” for forcing his hand early.
+
+HE CHAMPION’'S BE. B
+
+29. Bozal Zahol’s Room (EL LO or 11)
+
+A central pillar of green marble carved in the likeness of a segmented worm supports the ceiling of this square room. The room is dimly lit by a single incense burner that sheds a sweet, fruity aroma. The room is lined with woolen tapestries depicting coiling green worms, and contains a bed, an armchair, and a cupboard. Near the bed is a small nightstand and an ornate, elongated trunk.
+
+The cupboard contains the personal effects and clothing of a traveling cleric, including an ebony walking stick, a dark traveling out- fit, and a rucksack. On the bedside table a hooded lantern, a jug of red wine, a clay nd a pair of round goggles with smoky quartz for lenses. The trunk is locked (Open Locks DC 25) and trapped.
+
+The trunk is an art object both dis-
+
+cup,
+
+gusting and fascinating, and eman n aura of abjuration and necromancy if
+
+Bozal Zahol
+
+LEAT!
+
+subjected to detect magic. Made of darkwood and bound with steel, the trunk measures 36a8xı8 inches. A steel plaque represent- ing a screaming skull infested by worms, the unholy symbol of Kyuss, is nailed to the lid. The side panels are painted in tones of black and green with a cycle of apoca-
+
+lyptic images that runs around the trunk like a frieze. The images are divided into two horizontal strips, underground and aboveground, by a cutaway of the earth's
+
+crust. Underground, the horrible figure of
+
+aman made of worms lies imprisoned ina huge stone monolith. The figure has been represented in perspective on all the trunk’s four sides. Huge green worms writhe in the surrounding caverns and break through the cavern's crust to invade the aboveg- round part of the paintings, where a sickly green light illuminates a blasted landscape. There, the writhing
+
+worms tower over a population of monstrous undead and naked, terrified victims
+
+Creature: If the PCs explore the com- plex during the day, they find Bozal Zahol
+
+on the
+
+resting in his room, either lyin
+
+bed in a nightmare-filled sleep (50%) or relaxing in the armchair and “sharing” cup of wine with the room's other occu- pant (50%).
+
+When Raknian murdered Lahaka a year
+
+ago, he called on Bozal for aid in
+
+the body. Bozal
+
+was only too happy to do
+
+so, and told Raknian later he destroyed her
+
+body by feedii rto
+
+the alkilith in area 30. In fact, Bozal did no such thing He
+
+ead
+
+animated Lahak
+
+zombie as a
+
+sort of insurance pol- ded the to Rak-
+
+he doesn't
+
+icy. He ος
+
+zombie to head
+
+nian's Palace if
+
+see Bozal for 24 hours ozal
+
+wasn't sure at first how much
+
+he could trust Raknian, so if the direc- tor turned on him this zombie would soon thereafter show up house to cause possibly irreparable political dam-
+
+age, depending on whom she attacked first. Until such a time, Bozal uses Lahaka's
+
+zombie as a silent drinking partner
+
+and servant. An investigation of the zombie (DC 15 Heal check or DC 20 Search check) reveals that she was killed by strangulation; even now, a year after her death, her undead
+
+flesh still bears the angry red indentation on her neck from Raknian’s distinctive serpent- styled ring of protection +2. Anyone who’ inter- acted with Raknian can make the connection with a successful DC 21 Wisdom check.
+
+Bozal Zahol: hp 64; see page 55.
+
+Human Zombie: hp 16; Monster Manual 266.
+
+‘Trap: The trunk's steel lock was warded by Zahol's mentor (a monstrous high priest of Kyuss) with a particularly hor- rific magical trap. Anyone who opens the chest without uttering a complex prayer to Ky cess means that the character onl
+
+must make a DC 20 Will save. Suc- y take ge as a foul
+
+points of Constitution dan
+
+green worm bursts from his flesh near where he touched the chest to drop onto the floor and turn to goo. On a failed save, the lock snaps shut and the character's body winks out of the Material Plane, leaving all
+
+clothing and equipment behind. Immedi-
+
+ately after,a tiny representation of the char- acter, nak
+
+d helpless, appears on one of the trunk’s side panels as one of the victims of the undead horde. While trapped in the
+
+chest's painting, the character experiences continuous, sanity-blasting nightmares, ensnared in the writhing dreams of Kyuss. This is a necromantic effect
+
+Each hour the character remains trapped, he takes da points of Intelligence, Wisdom, and Charisma drain. When one of these ability scores reach zero, the character's image on the trunk animates long enough to be eaten by the worms, and is then gone.
+
+The trapped character can be freed with a
+
+successful dispel magic against caster level
+
+2oth. Alternately, antimagic, dispel evil, free dom, miracle, Mordenkainen’s disjunction, or wish cast on the trunk can rescue the char- acter—once the image is gone, only miracle true resurrection, or wish can return him to
+
+lif
+
+escued from the terrible
+
+Upon beir
+
+p. the character reappears next to the box
+
+naked and and unconscious. Th DC 35 Disable Device check; doing so frees
+
+trapped trunk can be disabled witha
+
+any trapped characters as detailed above. Destroying the chest also frees any trapped characters, but each time a creature damages
+
+ΤΗΕ CHAMPION’S BEL
+
+the chest (from any range), it must make a DC 20 Will save as if he tried to open it. Dreams of Kyuss Trap: CR 10; Hardness 8; hp 60; Break DC 30; magic device; touch trigger; automatic reset; Will DC 20 to take 2 Con damage and resist above effects; Search DC 30; Disable Device DC 35, ‘Treasure: The trunk contains a bag of 300 gp, four deep green spinels worth 100 gp each, three aquamarines worth 500 gp each, potion of cure moderate wounds, a scroll of death ward, two scrolls of ethereal jaunt, three doses of dust of tracelessness, seven blocks of exotic incense worth 200 gp each, two blocks of incense of meditation, a wand of restoration with 36 charges, and a Muryland's spoon. Lastly, three vials containing oil of gentile repose each contain a Kyuss worm. These worms are in stasis—if exposed to the air they live for one round and try to infest any living creature (or corpse) they can reach,
+
+50. Kyuss’s Visage (EL 14)
+
+A brazier in the northwest corner lights this rectangular room. A green and black check- ered curtain hanging from a steel bar fixed near the ceiling conceals the south wall.
+
+Asswiveling section of wall in the middle of the north wall can be found with a DC 25 Search check. The passage beyond this secret door leads to a long corridor that ends in another secret door in the base- ment of Raknian's palace (area D).
+
+‘The curtain itself is made of magically enhanced spider silk; creatures on the southern side can look through the cur- tain as if through thick fog (concealment applies to anything on the north side), whereas creatures from the north cannot see through the curtain at all. It conceals the southern section of the room where a six- foot-tall black earthenware urn stands near the middle of the south wall. The south wall is completely filled with a mosaic of tiny green tiles depicting the horrible skull of Kyuss. The urn is the resting place of an amorphous demon: an alkilith summoned by Zahol with a planar ally spell.
+
+Creature: The alkilith has been used by ‘Zahol to “domesticate” the ochre jellies in area 21, and has been stationed as a guard in this room. The demon is not too happy with its servitude, and does not leave this
+
+room to help Zahol anywhere else in the complex even if it hears the sounds of combat. The alkilith surges out of its urn the instant it sees or hears anything on the other side of the curtain.
+
+ALKILITH DEMON CR14
+
+CE Medium outsider (chaotic, evil, extraplanar, tanar'ri)
+
+Fiend Folio 46
+
+Init +7; Senses darkvision 60 ft; Listen +19, Spot +19
+
+Languages Abyssal, Common; telepahty 100 ft.
+
+AC 23, touch 17, flat-footed 16; can't be flanked
+
+hp 82 (11 HD); DR 15/good, half damage from bludgeoning attacks
+
+Immune acid, critical hits, electricity, harmful gas, paralysis, poison, polymorph, sleep, stench, stunning
+
+Resist cold 10, fire 10; SR 23
+
+Fort +10, Ref +14, Will +10
+
+Spd 40 β.
+
+Melee 4 slams +19 (14843 plus acid)
+
+Base Atk +11; Grp +14
+
+Special Atk cloudkill form, summon tanar'ri
+
+Spell-Like Abilities (CL 11th, ranged touch +18) ‘At will—contagion (DC 20), desecrate, detect
+
+magic, dispel magi enervation, greater teleport (self plus maximum load of objects only), hold monster (DC 21), magic circle against good, stinking doud (DC 20) wall of ice (DC 21) 3/day—cone of cold (DC 22), unholy blight (DC 21) Abilities Str 16, Dex 25, Con 16, Int 14, Wis 17, Cha 15
+
+SQ command ooze
+
+Feats Alertness, Combat Reflexes, Weapon Finesse, Weapon Focus (slam)
+
+Skills Bluff +16, Concentration +17, Diplomacy +20, Disguise +2 (+4 acting), Escape Artist +21, Hide +21, Intimidate +18, Listen +19, Move Silently +21, Sense Motive +17, Spot +19
+
+Acid (Su): Anyone struck by the alkilith’s slam must make a DC 18 Fortitude save or take an additional 146 points of acid damage. This acid damage continues over the next 146 rounds. Additionally, each time a character fails a Fortitude save against this attack, one of his items (determined randomly as if he had rolled a natural 1 on his saving throw) suffers the acid damage as well.
+
+‘Command Ooze (Sp): An alkilith can control the actions of any ooze within 60 feet as a free action. The ooze is allowed a DC 17 Will save to resist.
+
+‘Cloudkill Form (Su): As a full-round action, an alkilith can assume the form of a cloud of noxious green vapor. The alkilith is gaseous (as if by the gaseous form spell) in this form, and anyone inside the cloud suffers as if from a cloudkill spell at caster level 11th. Returning to solid form is a full-round action,
+
+‘Summon Tanar’ri (Sp): Once per day, an alkilith may attempt to summon 1 hezrou with a 50% chance of success.
+
+‘Tactics: The alkilith’s first action when it sees trouble is to prepare an action to use cone of cold once anything pulls aside the curtain. Otherwise, it pulls the curtain aside itself once at least three people are in the northern portion of the room (and thus can be exposed to the trap). Its first action then is to fill the room with a stinking cloud, ‘The alkilith then uses wall of ice to block ranged fighters and spellcasters from targeting it and uses enervation and addi- tional cones of cold at anyone still nearby. It continues using spell-like abilities until attacked in melee, at which point it fights back with its acidic slams. If reduced to fewer than 2s hit points, the alkilith tele- ports into the passageway to the north just beyond the secret door. It then assumes cloudkill form and seeps back into this room to try to poison the characters. The strictures of the planar ally spell prevent the alkilith from fleeing completely, but if brought below 10 hit points it teleports to area 28 to seek out Bozal for healing, If he's dead, the demon tries to collect the ochre jellies from area 22 for reinforce- ments, If this fails, it returns to patrol the shrine of Kyuss after attempting to sum- mon a hezrou to aid it, hoping the PCs have left but ready to fight to the death ifit encounters them again.
+
+‘Trap: A symbol of fear has been incorpo- rated into the mosaic on the wall. Zahol incorporated a password that the alkilith uses to avoid being subjected to the symbol.
+
+Symbol of Fear: CR 7; spell; spell trig- ger; no reset; spell effect (symbol of fear, uth-level cleric, DC 20 Will negates); Search DC 31; Disable Device DC 31.
+
+Treasure: The pinpoints of green light in the demigod's eye sockets on the mosaic have been rendered with two emeralds worth 1,000 gp each. The spi- dersilk curtain is worth 250 gp.
+
+31. Lavatory
+
+This small room contains a latrine and a porcelain washbasin. A silver pitcher lies on the floor near the washbasin.
+
+Alarge portal of stone, covered with
+
+depiction of
+
+corp: th
+
+cabre rible skull
+
+of Kyuss utters a silent
+
+The latrine drain drops directly over
+
+a collector room of the Free below (area 22),
+
+Treasure: The silver pitcher is of elven manufacture and is worth 30 gp.
+
+ty sewers
+
+32. Ulgurstasta Chamber
+
+A huge, vaulted chamber lies ahead, dimly illuminated by a green light. There a colo: sal, disgusting behemoth similar to a gigan-
+
+tic, yellowish grub lies on a heap of rubble
+
+bones, and rotting foulness. The creature
+
+seems immersed in a magic slumber, and its horrid body seems to pulsate with ar
+
+abominable, ever-increasing powe
+
+Use the description above if the PCs get a glimpse of the chamber from area 26, If the PCs approach the cham ber from area 28, read the following to describe the sealed portal outside the chamber.
+
+Not
+
+at the portal is within the contain ment sphere that protects the ulgurstasta, and cannot touched by anyone but Bozal Zahol (see “The Apostolic Scrolls” sidebar This containment sphere created by the
+
+Apostolic Scrolls is a shell with
+
+diameter of 20 feet that protects the monster as its power increases. The shell is impervious to all attacks and most magic (including dimen- sional and planar effects), and exists both in the Material Plane and Ethereal Plane
+
+The ulgurstasta within the sphere has
+
+that it
+
+already achieved its full growth— waits for now is the moment when Bozag releases it into the arena above. If the PCs
+
+release it earlier (see the sidebar on how this
+
+task can be accomplished), it roars in rage
+
+and immediately attacks anyone nearby
+
+Άροστιε or Kyuss R13 Enhanced ulgurstasta
+
+CE Gargantuan undead
+
+Fiend Folio 180
+
+Init +6; Senses darkvision 60 f.
+
+sten +23, Spot +23
+
+Aura 40-β. (tendril Language Common (c AC 23, touch 14, flat-footed 20
+
+hp 204 (17 HD); DR 10/magic piercing Immune acid, cold, undead traits
+
+SR 21
+
+Fort +7, Ref +8, Will +13
+
+Spd 70 ft
+
+Melee 2 bites +16 (346.16,
+
+Space 20 β.; Reach 20 ft
+
+Base Atk +8; Grp +29
+
+Atk Options Cleave, Great Cleave, Power
+
+not speak)
+
+Attack, improved grab (bite), swallow whole
+
+Special Atk breath weapon, necromantic acid, spawn of Kyuss
+
+Abilities Str 32, Dex Wis 16, Cha 19
+
+15, Con —, Int 18,
+
+Feats Cleave, Combat Reflexes, Great Cleave,
+
+Fortitude, Improved Initiative, Power Attack Skills intimidate +24, Knowledge (arcana)
+
++24, Knowledge (history) +24, Knowledge
+
+religion) +24, Knowledge (the planes) +24, Listen +23, Search + Breath Weapon (Su) 1/day; 60-foot cone of
+
+'ecromantic acid; 306 Constitution drain (or
+
+1d6 Constitution damage with a DC 18 Reflex
+
+save). Creatures killed by this attack animate
+
+next round as spawn of Kyuss (if
+
+humanoid) or s
+
+cletons under the ulgurstastas
+
+control, Dormant undead in the ulgurstasta’s
+
+NOVEMBER 2005 DUNGEON 59
+
+THE CHAMPIO
+
+gut are vomited forth and animate as well at this time (this ulgurstasta has 2 spawn of Kyuss and 6 skeletons created before its unholy enhancement in its gut at this time). For 24 hours after it uses its breath weapon, no creatures swallowed by the ulgurstasta take damage from necromantic acid. ‘Necromantic Acid (Su): A swallowed victim takes 148 points of Constitution drain each round, and animates as a spawn of Kyuss (if humanoid) or skeleton upon death. Undead created in this manner remain dormant until the ulgurstasta vomits them up. Spawn of Kyuss (Su): As a full-round action, an ulgurstasta can vomit dormant undead in its gut. For 146 rounds after being regurgitated, these undead are covered with necromantic acid and deal 1 point of Constitution drain with each successful attack in addition to their normal damage. Swallow Whole (Ex): An ulgurstasta can swallow ἃ single creature that is at least one size category smaller than itself by making a successful grapple check against a creature it has already grappled, Once inside, the victim is bathed in necromantic acid (see above). A successful grapple check allows the swallowed creature to climb out of the stomach and return to the creature's maw, where another successful grapple check is needed to escape. Alternately, a creature can try to cut its way out with a light slashing weapon. Dealing a total of at least 25 points of damage to the stomach (AC 19) in this way creates an opening large enough to permit escape. Once a single swallowed creature exits, muscular action closes the hole. An ulgurstasta’s gut can hold 2 Huge, 8 Large, 32 Medium, or 128 Small or smaller foes. Tendrils (Ex} An angry ulgurstasta extrudes a whipping storm of millions of thin tendrils to a range of 40 feet. This storm of tendrils renders the ulgurstasta immune to nonmagical ranged weapon attacks and deals 1412 slashing damage each round to any creature within 40 feet. Creatures in this area other than the ulgurstasta take a —2 penalty on attack rolls.
+
+Tactics: If released, the ulgurstasta becomes enraged. It cannot escape into area 28, but attacks anyone it can reach from area 32. If it can't reach anyone, it surges upward through the stone between the top of this chamber and the battle- field of the arena above. The roof above
+
+The Apostolic Scrolls ‘This minor artifact of the cult of Kyuss consists of a 5-foot-long sheet of vellum sewn to a pair of darkwood rollers. Several copies of the scrolls are thought to exist, and all have the same ‘purpose—providing the user with the ability to contact one of the “Apostles of Kyuss”so it can perform a mass sacrifice in honor of its master. The scrolls are written in Abyssal and contain a long and complex litany filled with horrific imagery and descriptions. Performing this ritual takes 24 hours, but it can be split into three 8-hour shifts over the course of three days.
+
+‘Once activated, the scrolls tra ulgurstasta from the Wormcrawl Fissure to a single point within 100 feet of the scrolls as directed by the reader. The scrolls create a ‘special containment sphere to protect the ulgurstasta during its growth period, The sphere is a 20-foot radius sphere of force similar to a wall of force. The scrolls themselves are protected by temporal stasis, and the two are connected by a beam of writhing green light. Each day that passes, the ulgurstasta gains 168 hit points, up to the maximum allowed by its hit dice (204 hit points for a 17-Hit-Die specimen). This hit point gain is permanent. During this stage, anyone who touches the scrolls can “feel” the ulgurstasta's evil mind and can communicate with it telepathically. The ulgurstasta is ready to perform the final portion of the ritual once it reaches maximum hit points
+
+The containment sphere is invisible, and feels like a cold, transparent barrier of rubbery material. The reader of the scrolls who created the sphere can touch it safely, but any other creature who touches it takes 1246 points of damage from negative energy (DC 20 Fortitude save for half damage).
+
+The reader of the Apostolic Scrolls can cause the sphere to vanish at any time as a standard action. The sphere can also be destroyed in one of the following ways.
+
+The sphere can be destroyed with a disintegrate, Mordenkainen's disjunction, rod of cancellation, miracle, wish, or a sphere of annihilation
+
+The sphere can be destroyed by successful turn undead check. The cleric must make a DC 20 turn undead check, followed immediately by a DC 20 caster level check, Failure on either roll causes a backlash of negative energy that inflicts 1d4 negative levels on the character. Success on both rolls weakens the sphere enough that a successful dispel magic Cast at it in the next ıd4 rounds against caster level 20th causes it to vanish.
+
+If the original reader of the scrolls is slain, the ulgurstasta ceases to gain hit points and instead loses 148 hit points per day until it reaches average hit points for a specimen of its size. At this point, the sphere vanishes and the ulgurstasta is released into the environs, likely in an extraordinarily foul mood.
+
+Ifthe reader of the scrolls releases the ulgurstasta once it has reached maximum hit points, it shimmers with a green light and permanently gains the benefits of haste, shield of faith, and bull's strength (caster level 20th). Finally, an ulgurstasta enhanced in this manner now creates spawn of Kyuss rather than skeletons of any humanoid creature it swallows.
+
+Each copy of the Apostolic Scrolls works only once. When the sphere of containment is taken down and the ulgurstasta within is released, the scrolls become nonmagi- cal, The lore within remains, however, and if consulted it grants a +4 bonus on any Knowledge (religion) checks made about Kyuss and his cult.
+
+Strong necromancy [evil]; CL 20th; Weight 1 Ib.
+
+has been weakened by Bozal, and it's only a DC 24 Strength check to burst through into the arena above; with the ulgurstasta’s +11 Strength modifier, it'll escape into the outside world soon enough. If it does, it immediately runs amok in the arena and into the Free City beyond if not stopped.

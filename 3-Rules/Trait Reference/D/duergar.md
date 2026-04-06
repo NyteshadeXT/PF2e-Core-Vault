@@ -9,6 +9,6 @@ aliases: ["Duergar"]
 # Duergar  
 *Source: Core Rulebook p. 631*  
 
-Subterranean kin of the dwarves, duergar typically have [darkvision](rules/abilities/darkvision.md) and immunity to poison. They are not easily fooled by illusions.
+Subterranean kin of the dwarves, duergar typically have [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]] and immunity to poison. They are not easily fooled by illusions.
 
 - **Categories**: Creature

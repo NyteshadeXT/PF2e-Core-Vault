@@ -9,6 +9,6 @@ aliases: ["Drow"]
 # Drow  
 *Source: Core Rulebook p. 631*  
 
-Subterranean kin of the elves, drow typically have [darkvision](rules/abilities/darkvision.md) and inborn magical abilities.
+Subterranean kin of the elves, drow typically have [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]] and inborn magical abilities.
 
 - **Categories**: Creature

@@ -10,7 +10,7 @@ aliases: ["Goblin"]
 # Goblin  
 *Source: Core Rulebook p. 632*  
 
-A creature with this trait can come from multiple tribes of creatures, including goblins, hobgoblins, and bugbears. Goblins tend to have [darkvision](rules/abilities/darkvision.md). An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
+A creature with this trait can come from multiple tribes of creatures, including goblins, hobgoblins, and bugbears. Goblins tend to have [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]]. An ability with this trait can be used or chosen only by goblins. A weapon with this trait is created and used by goblins.
 
 A creature with this trait can be one of several kinds of creature, including goblins, hobgoblins, and bugbears. Goblins tend to have darkvision. An ability with this trait can be used or chosen only by goblins.
 

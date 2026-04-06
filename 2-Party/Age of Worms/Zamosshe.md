@@ -7,7 +7,7 @@ art: zz-Attachments/Zamosshe.png
 Status: Active
 Player: Aaron
 Class: Wizard
-level: 7
+level: 8
 hp: 64
 ac: 23
 modifier: 10

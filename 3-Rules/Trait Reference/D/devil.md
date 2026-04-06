@@ -9,6 +9,6 @@ aliases: ["Devil"]
 # Devil  
 *Source: Core Rulebook p. 630*  
 
-A family of fiends from Hell, most devils are irredeemably lawful evil. They typically have greater [darkvision](rules/abilities/darkvision.md), immunity to fire, and telepathy.
+A family of fiends from Hell, most devils are irredeemably lawful evil. They typically have greater [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]], immunity to fire, and telepathy.
 
 - **Categories**: Creature

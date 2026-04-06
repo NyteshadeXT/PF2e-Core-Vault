@@ -9,6 +9,6 @@ aliases: ["Boggard"]
 # Boggard  
 *Source: Bestiary p. 345*  
 
-Boggards are frog-like humanoids. They typically have [darkvision](rules/abilities/darkvision.md).
+Boggards are frog-like humanoids. They typically have [[3-Rules/GM Tools/Bestiary Ability Glossary/Darkvision|Darkvision]].
 
 - **Categories**: Creature

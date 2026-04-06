@@ -8,7 +8,7 @@ Status: Active
 Player: Bob
 pronounced: jair-rick
 Class: Witch
-level: 7
+level: 8
 hp: 62
 ac: 24
 modifier: 9

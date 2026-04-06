@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/G/gearbinder-oil-(greater).md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/G/ghosthands-comet.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "gearbinder-oil-(greater)"
+              "title": "ghosthands-comet"
             }
           },
           {
@@ -50,31 +50,31 @@
             }
           },
           {
-            "id": "7f37a08c2f4a8243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/K/Khellek.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Khellek"
-            }
-          },
-          {
             "id": "eed88783bc690480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Champions Belt"
+              "title": "The Hall of Harsh Reflections"
+            }
+          },
+          {
+            "id": "5e1cfbb35282b772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/Campaign Planning.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Campaign Planning"
             }
           },
           {
@@ -83,15 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/K/Kenora.md",
-                "mode": "source",
+                "file": "3-Rules/Bestiaries/Homebrew/G/ghast-lvl5.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Kenora"
+              "title": "ghast-lvl5"
+            }
+          },
+          {
+            "id": "2acc4486ba1a55e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/ToDo List.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ToDo List"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -148,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 313.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -287,52 +302,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5590ead26f763b3",
+  "active": "2acc4486ba1a55e2",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/G/Gauntlight.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "zz-Attachments/Celeste.png",
-    "3-Rules/Bestiaries/Uniques/K/Kenora.md",
-    "3-Rules/Bestiaries/Uniques/K/Khellek.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/G/great-wroggi.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "zz-Attachments/Ekaym Smallcask.png",
-    "zz-Attachments/Bloodstone-Arena-Map.png",
+    "3-Rules/Trait Reference/Z/zombie-b1.md",
+    "3-Rules/Trait Reference/Y/Yard.md",
+    "3-Rules/Trait Reference/X/xulgath-b1.md",
+    "3-Rules/Trait Reference/W/wraith-b1.md",
+    "3-Rules/Trait Reference/W/workshop.md",
+    "3-Rules/Trait Reference/W/wood-roe.md",
+    "3-Rules/Trait Reference/W/wizard.md",
+    "3-Rules/Trait Reference/W/witch-apg.md",
+    "3-Rules/Trait Reference/W/wight-b1.md",
+    "3-Rules/Trait Reference/W/werecreature-b1.md",
+    "3-Rules/Trait Reference/W/wayfaring-locg.md",
+    "3-Rules/Trait Reference/W/water.md",
+    "3-Rules/Trait Reference/W/wand.md",
+    "3-Rules/Trait Reference/V/volley.md",
+    "3-Rules/Trait Reference/V/volatile-hb.md",
+    "1-GM Toolkit/ToDo List.md",
+    "3-Rules/Trait Reference/V/visual.md",
+    "3-Rules/Trait Reference/V/vishkanya-loil.md",
+    "3-Rules/Trait Reference/V/virulent.md",
+    "3-Rules/Trait Reference/V/village-gmg.md",
+    "3-Rules/Trait Reference/V/vigilante-apg.md",
+    "3-Rules/Trait Reference/V/velstrac-b2.md",
+    "3-Rules/Trait Reference/V/versatile.md",
+    "3-Rules/Trait Reference/V/vehicular-tv.md",
+    "3-Rules/Trait Reference/V/vanara-loil.md",
+    "3-Rules/Trait Reference/V/vampire-b1.md",
+    "zz-Attachments/valik-thorne.png",
+    "zz-Attachments/bram-tallow.png",
+    "zz-Attachments/sister-ameline-voss.png",
+    "zz-Attachments/elaras-gentle-remedies.png",
+    "zz-Attachments/corin-pell.png",
+    "zz-Attachments/maelis-vorenn.png",
+    "zz-Attachments/faceted-crown.png",
+    "zz-Attachments/tovin-mire.png",
+    "zz-Attachments/seraphine-dhalis.png",
+    "zz-Attachments/spellweave-emporium.png",
+    "zz-Attachments/shrine-of-kyuss.png.markers.json",
+    "zz-Attachments/arena-caverns.png.markers.json",
     "zz-Attachments/Bloodstone-Arena-Map.png.markers.json",
     "zz-Attachments/adze.png.markers.json",
     "ZoomMap/SVGs/rpg-awesome.zip",
     "ZoomMap/SVGs",
     "ZoomMap",
-    "4-Campaign/Age of Worms/Encounter at Blackwall Keep.md",
     "zz-Attachments/arena-understructure.png.markers.json",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/W/wroggi.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/G/Untitled.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-frill-catalyst.md",
-    "3-Rules/Character Building/Spells/A/Aberrant Form.md",
-    "3-Rules/Character Building/Equipment/F/fury-cocktail-moderate.md",
-    "zz-Attachments/arena-understructure.png",
-    "3-Rules/Bestiaries/Uniques/A/Auric.md",
-    "3-Rules/Bestiaries/Uniques/K/Kushak.md",
-    "3-Rules/Bestiaries/Uniques/K/Kullen.md",
-    "3-Rules/Bestiaries/Uniques/A/Allustan-Stats.md",
-    "3-Rules/Bestiaries/Homebrew/D/dwarven-arena-berserker.md",
-    "5-World/NPCs/Diamond Lake/Khellek.md",
-    "5-World/NPCs/Diamond Lake/Kullen.md",
-    "3-Rules/Character Building/Equipment/F/fashionable-wayfinder.md",
-    "zz-Attachments/gauntlet-buckler.png",
-    "zz-Attachments/garrote-bolt.png",
-    "zz-Attachments/gallows-tooth.png",
-    "zz-Attachments/gakgung.png",
-    "zz-Attachments/frost-vial.png",
-    "zz-Attachments/frogskin-tincture.png",
     "3-Rules/Bestiaries/Uniques/D",
-    "3-Rules/Bestiaries/Uniques/J",
-    "3-Rules/Bestiaries/Uniques/C",
-    "5-World/Settlements/Untitled"
+    "3-Rules/Bestiaries/Uniques/J"
   ]
 }

@@ -7,7 +7,7 @@ art: zz-Attachments/Haight.webp
 Player: Oxmeat
 pronounced: Hay-eight
 Class: Champion
-level: 7
+level: 8
 hp: 113
 ac: 28
 modifier: 11

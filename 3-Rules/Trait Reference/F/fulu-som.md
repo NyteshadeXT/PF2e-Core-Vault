@@ -13,6 +13,6 @@ Fulus are small paper charms that can be affixed to a suit of armor, a shield, a
 
 All fulus have the fulu and consumable traits. Fulus also have a tradition trait—either arcane, divine, occult or primal—determined by the magical tradition of its creator. For example, a fulu created by a priest would have the divine trait, whereas a witch who dabbles in fate might create a fulu with the occult trait. Some fulus also have the talisman trait, if they work similarly to talismans (such as being affixed to a suit of armor, a shield, or a weapon.
 
-Each fulu's stat block indicates the type of item or creature it can be affixed to. Affixing or removing a fulu requires using the Affix a Fulu activity, or the [Affixing the Talisman](rules/actions/affix-a-talisman.md) action instead if the fulu is also a talisman.
+Each fulu's stat block indicates the type of item or creature it can be affixed to. Affixing or removing a fulu requires using the Affix a Fulu activity, or the [[Affix a Talisman]] action instead if the fulu is also a talisman.
 
 - **Categories**: Item

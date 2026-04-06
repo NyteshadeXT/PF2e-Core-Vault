@@ -10,6 +10,6 @@ aliases: ["Elf"]
 # Elf  
 *Source: Core Rulebook p. 631*  
 
-A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [low-light vision](rules/abilities/low-light-vision.md). An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
+A creature with this trait is a member of the elf ancestry. Elves are mysterious people with rich traditions of magic and scholarship who typically have [[3-Rules/GM Tools/Bestiary Ability Glossary/Low-Light Vision|Low-Light Vision]]. An ability with this trait can be used or selected only by elves. A weapon with this trait is created and used by elves.
 
 - **Categories**: Ancestry & Heritage, Creature

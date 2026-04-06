@@ -9,6 +9,6 @@ aliases: ["Occult"]
 # Occult  
 *Source: Core Rulebook p. 634*  
 
-This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is [magical](rules/traits/magical.md "Magical Item Trait").
+This magic comes from the occult tradition, calling upon bizarre and ephemeral mysteries. Anything with this trait is [magical](3-rules/trait%20reference/m/magical.md "Magical Item Trait").
 
 - **Categories**: Tradition
