@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/Homebrew/andvaris-gift.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DC Calculator"
+              "title": "andvaris-gift"
             }
           },
           {
@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+                "file": "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Hall of Harsh Reflections"
+              "title": "Spellweave Emporium"
+            }
+          },
+          {
+            "id": "0503416d9d28acf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Bestiaries/Homebrew/A/Alkilith.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Alkilith"
             }
           },
           {
@@ -78,31 +92,31 @@
             }
           },
           {
-            "id": "0503416d9d28acf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Homebrew/G/ghast-lvl5.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ghast-lvl5"
-            }
-          },
-          {
             "id": "2acc4486ba1a55e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1-GM Toolkit/ToDo List.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "ToDo List"
+            }
+          },
+          {
+            "id": "afba6b5ab75d9f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Hazards/Homebrew/H/hail-of-iron-spheres-hb.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "hail-of-iron-spheres-hb"
             }
           }
         ],
@@ -163,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 317.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -252,12 +266,22 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "04d5b04037025e3d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "3f378eb14c9f2272",
@@ -268,7 +292,10 @@
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
-              "state": {},
+              "state": {
+                "creatureId": null,
+                "creatureName": null
+              },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
             }
@@ -304,51 +331,51 @@
   },
   "active": "2acc4486ba1a55e2",
   "lastOpenFiles": [
-    "3-Rules/Trait Reference/Z/zombie-b1.md",
-    "3-Rules/Trait Reference/Y/Yard.md",
-    "3-Rules/Trait Reference/X/xulgath-b1.md",
-    "3-Rules/Trait Reference/W/wraith-b1.md",
-    "3-Rules/Trait Reference/W/workshop.md",
-    "3-Rules/Trait Reference/W/wood-roe.md",
-    "3-Rules/Trait Reference/W/wizard.md",
-    "3-Rules/Trait Reference/W/witch-apg.md",
-    "3-Rules/Trait Reference/W/wight-b1.md",
-    "3-Rules/Trait Reference/W/werecreature-b1.md",
-    "3-Rules/Trait Reference/W/wayfaring-locg.md",
-    "3-Rules/Trait Reference/W/water.md",
-    "3-Rules/Trait Reference/W/wand.md",
-    "3-Rules/Trait Reference/V/volley.md",
-    "3-Rules/Trait Reference/V/volatile-hb.md",
+    "3-Rules/Character Building/Equipment/Homebrew/andvaris-gift.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/G/great-wroggi.md",
+    "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md",
+    "3-Rules/Hazards/Homebrew/H/hail-of-iron-spheres-hb.md",
     "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Trait Reference/V/visual.md",
-    "3-Rules/Trait Reference/V/vishkanya-loil.md",
-    "3-Rules/Trait Reference/V/virulent.md",
-    "3-Rules/Trait Reference/V/village-gmg.md",
-    "3-Rules/Trait Reference/V/vigilante-apg.md",
-    "3-Rules/Trait Reference/V/velstrac-b2.md",
-    "3-Rules/Trait Reference/V/versatile.md",
-    "3-Rules/Trait Reference/V/vehicular-tv.md",
-    "3-Rules/Trait Reference/V/vanara-loil.md",
-    "3-Rules/Trait Reference/V/vampire-b1.md",
+    "4-Campaign/Age of Worms/Campaign Planning.md",
+    "zz-Attachments/anklets-of-alacrity.png",
+    "zz-Attachments/andvaris-gift.png",
+    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
+    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "5-World/Points of Interest/Ardentia City/Prism and Parchment.md",
+    "5-World/Points of Interest/Ardentia City/Elara’s Gentle Remedies.md",
+    "5-World/Points of Interest/Ardentia City/The Gilded Gauntlet.md",
+    "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
+    "5-World/Points of Interest/Ardentia City/The Faceted Crown.md",
+    "5-World/Points of Interest/Ardentia City/Ironbound Reliquary.md",
+    "5-World/Points of Interest/Ardentia City/The Griffons Fancy.md",
+    "5-World/NPCs/Ardentia City/Maelis Vorenn.md",
+    "5-World/NPCs/Ardentia City/Dorrik Vance.md",
+    "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "3-Rules/Hazards/Homebrew/W",
+    "3-Rules/Hazards/Homebrew/P",
+    "3-Rules/Hazards/Homebrew/M",
+    "3-Rules/Hazards/Homebrew/L",
+    "3-Rules/Hazards/Homebrew/F/false-elevator-hb.md",
+    "3-Rules/Hazards/Homebrew/H",
+    "3-Rules/Hazards/Homebrew/G",
+    "3-Rules/Hazards/Homebrew/F.md",
+    "3-Rules/Hazards/Homebrew/F",
+    "3-Rules/Hazards/Homebrew/D",
+    "3-Rules/Hazards/Homebrew/B",
+    "3-Rules/Character Building/Equipment/G/ghosthands-comet.md",
+    "3-Rules/Bestiaries/Homebrew/A/Alkilith.md",
+    "3-Rules/Bestiaries/Homebrew/B/beholder-gauth.md",
+    "zz-Attachments/alkilith.png",
+    "3-Rules/Bestiaries/Uniques/B/Bozal Zahol.md",
+    "3-Rules/Bestiaries/Homebrew/A",
+    "zz-Attachments/aow-trunk.png",
+    "zz-Attachments/Bozal Zahol.png",
     "zz-Attachments/valik-thorne.png",
     "zz-Attachments/bram-tallow.png",
     "zz-Attachments/sister-ameline-voss.png",
     "zz-Attachments/elaras-gentle-remedies.png",
-    "zz-Attachments/corin-pell.png",
-    "zz-Attachments/maelis-vorenn.png",
-    "zz-Attachments/faceted-crown.png",
-    "zz-Attachments/tovin-mire.png",
-    "zz-Attachments/seraphine-dhalis.png",
-    "zz-Attachments/spellweave-emporium.png",
-    "zz-Attachments/shrine-of-kyuss.png.markers.json",
-    "zz-Attachments/arena-caverns.png.markers.json",
-    "zz-Attachments/Bloodstone-Arena-Map.png.markers.json",
-    "zz-Attachments/adze.png.markers.json",
-    "ZoomMap/SVGs/rpg-awesome.zip",
-    "ZoomMap/SVGs",
-    "ZoomMap",
-    "zz-Attachments/arena-understructure.png.markers.json",
-    "3-Rules/Bestiaries/Uniques/D",
-    "3-Rules/Bestiaries/Uniques/J"
+    "zz-Attachments/corin-pell.png"
   ]
 }

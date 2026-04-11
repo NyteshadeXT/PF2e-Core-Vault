@@ -557,7 +557,7 @@
     {
       "id": "TBD",
       "locked": false,
-      "lastAccessed": 1775254072030,
+      "lastAccessed": 1775782432555,
       "markers": [
         {
           "id": "ID_6b884b4a6a49",
@@ -731,21 +731,11 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "5-World/Points of Interest/Ardentia City/Aetherial Cathedral.md",
-        "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
-        "5-World/Points of Interest/Ardentia City/Arcane Exchange Consortium Headquarters.md",
-        "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
-        "5-World/Points of Interest/Ardentia City/Codex Arcanum.md",
-        "5-World/Points of Interest/Ardentia City/Dungeon Seeker's Guildhall.md",
-        "5-World/Points of Interest/Ardentia City/Eligos' House.md",
+        "5-World/Points of Interest/Ardentia City/Ironbound Reliquary.md",
         "5-World/Points of Interest/Ardentia City/Prism and Parchment.md",
         "5-World/Points of Interest/Ardentia City/The Gilded Gauntlet.md",
         "5-World/Points of Interest/Ardentia City/The Griffons Fancy.md",
-        "5-World/Points of Interest/Ardentia City/The Running Rooster.md",
-        "5-World/Points of Interest/Ardentia City/Wanderers Respite.md",
-        "5-World/Points of Interest/Ardentia City/Exchange Vault.md",
-        "5-World/Points of Interest/Ardentia City/Stumbling Giant.md",
-        "5-World/Points of Interest/Ardentia City/Ironbound Reliquary.md",
+        "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
         "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md"
       ]
     }

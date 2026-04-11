@@ -6,6 +6,7 @@
 	- [ ] Add Dragonhide armor
 	- [ ] Add Duskwood Branch and Lumber
 	- [ ] Ganjay books are formula books, religious texts or spellbooks.  Need to determine how to handle this.
+	- [ ] Create a section for curses/cursed items.  [[andvaris-gift]] for an example.
 - [ ] [[volatile-hb|Volatile]] trait has broken links
 - [ ] Create an afflictions template
 - [ ] Update afflictions to new template
@@ -20,31 +21,20 @@
 	- [ ] Finish Tetranadon entry
 - [ ] Complete implementation of Calendar system
 - [ ] Do I want to add gems to the items?
+- [ ] Review homebrew items, monsters and hazards from old database for inclusion
+- [ ] Work on tags for monsters to be able to query them in the database
 
 # Item Generator ToDos
-- [ ] Bane ammo needs a creature type
-- [x] Remove Dragon's Breath Potions from item generator as they've been replaced.
-- [x] Remove Alignment Ampoule from the item generator.  No longer appropriate for Remaster rules.
-- [ ] Update Sisterstone to only apply to melee weapons
-- [ ] Update Bloodline Robe to create versions for each sorcerer bloodline.
 - [ ] Review Everything Shields material for final inclusion
 - [ ] Determine what to do with Cursed Items, Figureheads, Vehicles, Grafts and Snares
 - [ ] Potential New Shop Types: Antiques and Relics, Apothecary, Bakery, Bookstore, Butcher, Cartographer, Carpenter, Fishmonger, Glassblower, Herbalist, Mail Service, Tavern, Tinkerer, Winery.
 - [ ] [[Devoted Vestments]] need to have a deity tied to them.
-- [x] Remove Disrupting Oil and Greater Disrupting Oil
-- [ ] Dragonclaw Scutcheon, Dragonscale Staff, Dragonslayer's Shield, Dragontooth Leiomano and Dragontooth Trophy drop with a dragon type
+- [ ] Dragonscale Staff, Dragonslayer's Shield and Dragontooth Leiomano drop with a dragon type
 - [ ] Drake Rifle drops with a dragon type and can be any kind of firearm
-- [x] Elemental Ammunition needs to drop with a damage type (acid, cold, electricity, fire or poison)
-- [x] Elemental Fragment needs to drop with planar energy (air, earth, fire, water, metal or wood)
-- [x] Elemental Gem needs to drop with planar energy (air, earth, fire, water)
-- [x] Energy Mutagen (All variants) need to drop with an energy type
-- [x] Energy Resistant runes need to drop with an energy type
 - [ ] Essence Charm should have a skill that it drops with
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
-- [x] Remove Feather Tokens.  They've been replaced by Marvelous Miniatures
 - [ ] Create formula books with various formulas in them instead of just having blank formula books.
-- [x] Retaliation rune should NOT be applying to armor only to shields.
-- [x] Scribe needs to roll more scrolls.  One or two is not near enough.
+- [ ] Add energy types to Charm of Resistance
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

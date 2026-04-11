@@ -808,8 +808,8 @@ This cavern is empty, but any amount of loud noise or light is likely to attract
 This grotto is where the refuse thrown in the pit of area 24 is dropped after a slow roll down a sloping conduit to the north. The water is fairly shallow at only 1 or 2 feet deep, but the uneven ground makes for difficult terrain. The ceiling is only 10 feet high.
 
 ```encounter
-name: EncounterName
-party: PartyName
+name: Bloodstone Arena - Sewage Grotto
+party: Age of Worms
 creatures:
   - 4: Living Tar
 ```
@@ -875,348 +875,143 @@ Today, the entire place reeks of a charnel house and is dark, except where other
 The pit drops 15 feet down to a sewer conduct that slopes toward area 21 through a ramp of tiny waterfalls. Zahol uses the pit to get rid of rubbish and to throw food to his Living Tars. Climbing the pit's slippery walls requires a DC 26 [[Climb]] check.
 
 #### 25. Coppin Storage
+> [!note]+ Read Aloud
+> This square room contains three plain wooden coffins. Two coffins lie along the south wall, while a third has been placed in the north part of the room. Several empty sacks are piled near the third coffin.
 
-This square room contains three plain wooden coffins. Two coffins lie along the south wall, while a third has been placed in the north part of the room. Several empty sacks are piled near the third coffin.
+These coffins are used to transport and contain bodies delivered to the shrine from Raknian; they are all currently empty but show signs of heavy use. The sacks are empty, but contain traces of sand.
 
-‘These coffins are used to transport and contain bodies delivered to the shrine from Raknian; they are all currently empty but show signs of heavy use. The sacks are empty, but contain traces of sand.
+```encounter
+name: Bloodstone Arena - Coppin Storage
+party: Age of Worms
+creatures:
+  - 3: Spawn of Kyuss
+```
 
-Creatures: Three spawn of Kyuss guard this chamber. These nasty undead were once prisoners, but Bozal Zahol claimed them and transformed them into spawn using Kyuss worms. A spawn of Kyuss resembles a nearly skeletal zombie, save that it is infested with writhing green worms that bulge and drip from its eyes and mouth.
+Three spawn of Kyuss guard this chamber. These nasty undead were once prisoners, but Bozal Zahol claimed them and transformed them into spawn using Kyuss worms. A spawn of Kyuss resembles a nearly skeletal zombie, save that it is infested with writhing green worms that bulge and drip from its eyes and mouth.
 
-CRS
+#### 26. Pump Room
+> [!note]+ Read Aloud
+> The north part of this room is occupied by a piece of ancient machinery built of stone and metal, but seems not to have been in use for centuries. The machinery is connected to the northeast wall by a very large pipe.
 
-Spawn oF Kyuss (3) CE Medium undead
+A DC 27 [[Skills#Crafting|Crafting]] check reveals that this machine was once a magical water pump capable of siphoning enormous quantities of water into a nearby conduit (the central drainage well under the arena), Although the machine is broken, it still connects to the well (area 32) by a horizontal, two-foot-wide lead pipe. A Small PC (or a Medium one making a DC 22 [[Skills#Acrobatics|Acrobatics]] check) can clamber into the machinery and traverse the pipe to an opening in the wall of area 32. At that point, the PC finds further progress blocked by the force sphere created by the Apostolic Scrolls (see sidebar), Although the PC likely cannot progress further, he is nonetheless presented with a terrifying view of the semi-dormant ulgurstasta within.
 
-Monster Manual I| 186
+#### 27. Training Hall
+> [!note]+ Read Aloud
+> The air in this large hall is particularly noisome. The northern wall is almost completely covered by the remains of a wooden bookshelf, whose contents have long ago crumbled to dust. The southern part of the aisle is occupied by dusty pieces of ancient, ruined machinery that may have once comprised sets of semi-automated combat dummies.
 
-Init —1; Senses darkvision 60 Spot +6
+This chamber was once used by the faithful of Kord as a training hall, but now their once-impressive dueling machines are ruined and broken. 
 
-‘Aura fear (40 ft. radius, DC 14)
+```encounter
+name: Bloodstone Arena - Training Hall
+party: Age of Worms
+creatures:
+  - 3: Spawn of Kyuss
+  - 1: Mohrg
+```
 
-Languages Common
+Bozal Zahol uses this large chamber as a “barracks” for the undead he's created since he moved in. Raknian suspects Bozal has been stockpiling an undead army, but as long as he can deliver on his promises, Raknian doesn't really care. 
 
-AC 11, touch 9, flat-footed 11
+Currently, this chamber contains a single mohrg and four spawn of Kyuss. The undead wait patiently for commands, but are intelligent enough to recognize intruders for what they are and attack at once. One of the spawn of Kyuss breaks away from combat to shamble north to warn Bozal while the remaining undead do their best to ruin the PCs. 
 
-hp 29 (4 HD); fast healing 5
+#### 28. Altar Room
+![[Bozal Zahol.png|right htall]]
 
-Immune undead traits
+> [!note]+ Read Aloud
+> Two braziers in the northeast and southeast corners light this rectangular room. A simple altar of stone sits in the middle of the east wall, facing a large set of stone double doors to the west. On the altar is a scroll, which slows with an unnatural green light. A writhing green beam of light emanates out of these scrolls to strike the doors to the west, bathing them in the same green glow.
 
-Fort +1, Ref +0, Will +4
-
-‘Weakness curative transformation
-
-Spd 30 ft.
-
-Melee slam +7 (1d6+6 plus worm and Kyuss’ gift) or touch +6 melee touch (o plus worm)
-
-Ranged worm +1 ranged touch (special)
-
-Base Atk +2; Grp +6
-
-‘Special Atk create spawn, fear aur
-
-Abilities Str 18, Dex 9, Con Wis 11, Cha 15
-
-SQ turn resistance +2
-
-Feats Toughness, Weapon Focus (slam)
-
-Skills Hide +0, Jump +7, Move Silently +3, Spot +6
-
-Create Spawn (Su): Ifa spawn of Kyuss hits with a slam attack, as a free action it may transfer a worm from its body to that of the target (it may also do this as a touch attack or have a worm leap as a ranged touch attack with a range of 10 feet), The worm is a Fine vermin with AC 10 and 1 hit point. During this time, the worm can be killed by normal damage or the touch of silver. On the spawn's next turn, the worm burrows into the flesh of its target (creatures with natural armor +5 or more are immune), making its way toward the brain and causing 1 hit point of damage per round until it reaches the brain 1d4+1 rounds later. When inside a victim, the worm can be destroyed by remove curse or remove disease (or spells that duplicate these effects); dispel evil or neutralize poison delays its progress for 10d6 minutes. These spells affect multiple worms within the same victim, Worms cannot survive outside of a host for more than 1 round, A DC 20 Heal check extracts the worm and kills it. Once the worm reaches the victim's brain, it inflicts 142 points of temporary Intelligence damage per round until it is destroyed or the victim reaches 0 Intelligence, at which point the host dies and rises as a spawn of Kyuss 1d6+4 rounds later. Small, Medium, and Large creatures become spawn of Kyuss as described above; smaller creatures quickly putrefy rather than becoming spawn, larger
-
-iyuss’ gift
-
-creatures become normal zombies. Spawn (and spawned zombies) are not under the control of their parent but usually follow after whatever spwan created them. Any creature that touches a spawn with an unarmed strike or other natural weapon is immediately attacked by 1d4 worms.
-
-Curative Transformation (Ex): Remove curse or remove disease (or more powerful effects that duplicate these spells) transforms a spawn of Kyuss into a normal zombie.
-
-Fear Aura (Su): Continuous effect in a 40-ft. radius, as a fear spell (panicked), Will negates DC 14. A creature that makes its save against the aura is immune to it for 24 hours. Caster level 7th. The DC is Charisma-based.
-
-Kyuss’ Gift (Su): Supernatural disease, incubation time 1 day. The disease deals 166 Constitution and 1d4 Wisdom damage per day, manifesting as rotting flesh and dementia. Healing magic has only half effect on the victim, though remove disease cures it normally. Fortitude DC 12.
-
-26. Pump Room
-
-‘The north part of this room is occupied bya piece of ancient machinery built of stone and metal, but seems not to have been in use for centuries. The machinery is connected to the northeast wall by a very large pipe.
-
-A DC 20 Knowledge (architecture and engineering) check reveals that this machine was once a magical water pump capable of siphoning enormous quantities of water into a nearby conduit (the central drainage well under the arena), Although the machine is broken, it still connects to the well (area 32) by a horizontal, two-foot- wide lead pipe. A Small PC (or a Medium one making a DC 1ο Escape Artist check) can clamber into the machinery and tra- verse the pipe to an opening in the wall of area 32. At that point, the PC finds further progress blocked by the force sphere created by the Apostolic Scrolls (see sidebar), Although the PC likely cannot progress further, he is nonetheless presented with a terrifying view of the semi-dormant ulgurstasta within.
-
-27. Training Hall (EL 11)
-
-The air in this large hall is particularly noi- some. The northern wall is almost completely
-
-covered by the remains of a wooden book- shelf, whose contents have long ago crum- bled to dust. The southern part of the aisle is occupied by dusty pieces of ancient, ruined machinery that may have once comprised sets of semi-automated combat dummies.
-
-‘This chamber was once used by the faithful of Kord as a training hall, but now their once-impressive dueling machines are ruined and broken. Creatures: Bozal Zahol uses this large chamber as a “barracks” for the undead he's created since he moved in. Raknian sus- pects Bozal has been stockpiling an undead army, but as long as he can deliver on his promises, Raknian doesn't really care. Currently, this chamber contains a sin- gle mohrg and six spawn of Kyuss. The undead wait patiently for commands, but are intelligent enough to recognize intruders for what they are and attack at once. One of the spawn of Kyuss breaks away from combat to shamble north to warn Bozal while the remaining undead do their best to ruin the PCs. Mohrg: hp 91; Monster Manual 189. Spawn of Kyuss (6): hp 29 each; see page 54.
-
-28. Altar Room (EL 11)
-
-Two braziers in the northeast and southeast corners light this rectangular room. A simple altar of stone sits in the middle of the east wall, facing a large set of stone double doors to the west. On the altar is a scroll, which slows with an unnatural green light. A writh- ing green beam of light emanates out of these scrolls to strike the doors to the west, bathing them in the same green glow.
-
-After Loris Raknian sealed his unholy deal with Bozal Zahol and procured a copy of the Apostolic Scrolls from the illithid ‘Zyrxog, Bozal used a ritual in the scroll to conjure a massive undead monster called an ulgurstasta from its lair far to the north in the Wormcrawl Fissure into a special underground chamber nearby (area 32). The ritual created a special containment sphere of force around the creature, putting it into a semi-dormant state that not only protects it from outside molestation but allows it to grow in size
-
-and power until the right moment, much like a chrysalis. The glowing beam of light is a manifestation of the link between the Apostolic Scrolls and the sphere of force in area 32; it can be passed through without ill effect, and blocking its path does nothing to interrupt the effect. The
-
-Apostolic Scrolls themselves are under
-
-a temporal stasis effect, and cannot be
-
-moved, damaged, or otherwise interacted
-
-with until the entire effect is removed.
-
-See area 32 for details on how the PCs
-
-might be able to undo this effect.
+After Loris Raknian sealed his unholy deal with Bozal Zahol and procured a copy of the Apostolic Scrolls from the illithid Zyrxog, Bozal used a ritual in the scroll to conjure a massive undead monster called an ulgurstasta from its lair far to the north in the Wormcrawl Fissure into a special underground chamber nearby (area 32). The ritual created a special containment sphere of force around the creature, putting it into a semi-dormant state that not only protects it from outside molestation but allows it to grow in size and power until the right moment, much like a chrysalis. The glowing beam of light is a manifestation of the link between the Apostolic Scrolls and the sphere of force in area 32; it can be passed through without ill effect, and blocking its path does nothing to interrupt the effect. The Apostolic Scrolls themselves are under a temporal stasis effect, and cannot be moved, damaged, or otherwise interacted with until the entire effect is removed. See area 32 for details on how the PCs might be able to undo this effect.
 
 Bozal has placed an unhallow spell in this chamber, which creates a zone of silence for all non-worshipers of Kyuss in this room.
 
-Creature: If the PCs arrive here during the night, Bozal Zahol stands before the altar, meditating on the Apostolic Scrolls and communicating telepathically with the semi-dormant ulgurstasta to learn its unfathomable dark secrets,
+```encounter
+name: Bloodstone Arena - Altar Room
+party: Age of Worms
+creatures:
+  - 1: Bozal Zahol
+  - 2: Mohrg
+```
 
-Bozal Zahol is a middle-aged tiefling with a flaccid and misshapen figure. His fiendish ancestry is evident in the unnat- urally green, almost fluorescent color of his eyes, his twitching tail, the vestigial horns on his brow, and his hoofed feet. Zahol expects the cult of Kyuss to grow considerably after the Age of Worms begins, and plans on being one of the leaders of the cult. Bozat Ζαμοι. ΕΒ11 Male tiefling cleric 11 (Kyuss)
+If the PCs arrive here during the night, Bozal Zahol stands before the altar, meditating on the Apostolic Scrolls and communicating telepathically with the semi-dormant ulgurstasta to learn its unfathomable dark secrets.
 
-NE Medium outsider (native)
+Bozal Zahol is a middle-aged tiefling with a flaccid and misshapen figure. His fiendish ancestry is evident in the unnaturally green, almost fluorescent color of his eyes, his twitching tail, the vestigial horns on his brow, and his hoofed feet. Zahol expects the cult of Kyuss to grow considerably after the Age of Worms begins, and plans on being one of the leaders of the cult. 
 
-Monster Manual 209
+**Tactics**
+If Bozal has advance warning that the PCs are nearby, he immediately casts [[Blessed Boundary]], Once this is up, he casts [[Death Ward]], [[False Vitality]] and [[Resist Energy]] (of a type the PCs have used in any gladiatorial battles so far).
 
-Init +0; Senses darkvision 60 ft; Listen +3, Spot +3
+Bozal then moves toward the sound of battle, at which point he begins summoning monsters to add to the fray. If forced into melee, he fights until brought below 20 hit points, at which point he uses his darkness spell-like ability to retreat, heal, and return to combat. If Bozal is reduced to fewer than 5 hit points, he loses his nerve and takes a standard action to release the ulgurstasta in area 32, cursing the PCs at the same time and promising them “the true wrath of Kyuss” for forcing his hand early.
 
-Languages Abyssal, Common, Infernal
+#### 29. Bozal Zahol’s Room
+> [!note]+ Read Aloud
+> A central pillar of green marble carved in the likeness of a segmented worm supports the ceiling of this square room. The room is dimly lit by a single incense burner that sheds a sweet, fruity aroma. The room is lined with woolen tapestries depicting coiling green worms, and contains a bed, an armchair, and a cupboard. Near the bed is a small nightstand and an ornate, elongated trunk.
 
-AC 18, touch 10, flat-footed 18
+![[aow-trunk.png|left hm-sm]]
 
-hp 64 (11 HD)
+The cupboard contains the personal effects and clothing of a traveling cleric, including an ebony walking stick, a dark traveling outfit, and a rucksack. On the bedside table a hooded lantern, a jug of red wine, a clay cup, and a pair of round goggles with smoky quartz for lenses. The trunk is locked ([[Skills#Thievery|Thievery]] DC 25) and trapped.
 
-Resist cold 5, electricity 5, fire 5
+The trunk is an art object both disgusting and fascinating, and emanates an aura of abjuration and necromancy if subjected to detect magic. Made of darkwood and bound with steel, the trunk measures 36x18x18 inches. A steel plaque representing a screaming skull infested by worms, the unholy symbol of Kyuss, is nailed to the lid. The side panels are painted in tones of black and green with a cycle of apocalyptic images that runs around the trunk like a frieze. The images are divided into two horizontal strips, underground and aboveground, by a cutaway of the earth's crust. Underground, the horrible figure of a man made of worms lies imprisoned in a huge stone monolith. The figure has been represented in perspective on all the trunk’s four sides. Huge green worms writhe in the surrounding caverns and break through the cavern's crust to invade the aboveground part of the paintings, where a sickly green light illuminates a blasted landscape. There, the writhing worms tower over a population of monstrous undead and naked, terrified victims.
 
-Fort +8, Ref +3, Will +12
+If the PCs explore the complex during the day, they find Bozal Zahol (see encounter notes above) resting in his room, either lying on the bed in a nightmare-filled sleep (50%) or relaxing in the armchair and “sharing” cup of wine with the room's other occupant (50%).
 
-Spd 20 ft.
+When Raknian murdered Lahaka a year ago, he called on Bozal for aid in destroying the body. Bozal was only too happy to do so, and told Raknian later he destroyed her body by feeding her to the alkilith in area 30. In fact, Bozal did no such thing. He instead animated Lahak as a zombie as a strange sort of insurance policy.  He commanded the zombie to head up to Raknian's palace if she doesn't see Bozal for 24 hours. Bozal wasn't sure at first how much he could trust Raknian, so if the director turned on him this zombie would soon thereafter show up in his house to cause possibly irreparable political damage, depending on whom she attacked first. Until such a time, Bozal uses Lahaka's zombie as a silent drinking partner and servant. An investigation of the zombie (DC 25 [[Skills#Medicine|Medicine]] check or DC 27 [[Skills#Perception|Perception]] check) reveals that she was killed by strangulation; even now, a year after her death, her undead flesh still bears the angry red indentation on her neck from Raknian’s distinctive serpent-styled ring. Anyone who’s interacted with Raknian can make the connection with a successful DC 25 [[Skills#Perception|Perception]] check.
 
-Melee +1 unholy club +11/+6 (1d6+2)
+```encounter
+name: Bloodstone Arena - Bozal Zahols Room
+party: Age of Worms
+creatures:
+  - 1: Bozal Zahol
+  - 1: Zombie Shambler
+```
 
-Base Atk +8; Grp +9
+> [!danger]+ Trap
+> The trunk's steel lock was warded by Zahol's mentor (a monstrous high priest of Kyuss) with a particularly horrific magical trap. A DC 21 [[Skills#Perception|Perception check (expert)]] allows the character to notice the "unnatural aura or faint whispering prayers" coming from the chest. Anyone who opens the chest without uttering a complex prayer to Kyuss must make a DC 29 Will save. 
+> 
+> - __Critical Success__ The creature is unaffected. 
+> - __Success__ The creature takes `dice: 2d6` void damage and is [[enfeebled|enfeebled 1]] for 1 round as a worm bursts through their flesh and dissolves. 
+> - __Failure__ The lock snaps shut and the character's body winks out of the Material Plane, leaving all clothing and equipment behind. Immediately after, a tiny representation of the character, naked helpless, appears on one of the trunk’s side panels as one of the victims of the undead horde. While trapped in the chest's painting, the character experiences continuous, sanity-blasting nightmares, ensnared in the writhing dreams of Kyuss. After the first hour a character is trapped he becomes [[Doomed|Doomed 1]].
+> - __Critical Failure__ As failure, but the creature immediately gains [[doomed|doomed 2]].
+> 
+>  Each hour the character remains trapped, the [[doomed]] condition increases by one. When the character reaches [[Doomed|Doomed 4]] or if his maximum dying value is reduced to 0, the character's image on the trunk animates long enough to be eaten by the worms, and is then gone. A trapped creature can be freed with a successful [[Counteract]] check (DC 30) using a spell such as [[Dispel Magic]], [[Cleanse Affliction]], or similar magic that can counteract curses or necromancy effects. More powerful magic such as [[Wish]] or [[Miracle]] automatically succeeds. Once the creature is destroyed, only [[Resurrect]] (or stronger magic) can restore them."  Upon being rescued from the terrible trap, the character reappears adjacent to the chest, [[unconscious]] at 0 Hit Points and [[doomed|doomed 1]] regardless of previous doomed value."
+> 
+> The chest has AC 30 and 80 HP. The trapped trunk can be disabled with a DC 28 [[Skills#Thievery|Thievery (expert)]] to safely bypass the lock; two successes required or a DC 30 [[Skills#Religion|Religion (master)]] check to utter the correct prayer to Kyuss; doing so frees any trapped characters as detailed above. Destroying the chest also frees any trapped characters, but each time a creature damages the chest (from any range), it must make a DC 29 Will save as if he tried to open it. 
 
-Atk Options smite 1/day (+4 on attack rolls, +11 damage)
+> [!tip]+ Treasure
+> The trunk contains a bag of 30 gp, four deep green spinels worth 10 gp each, three aquamarines worth 50 gp each and seven blocks of exotic incense worth 20 gp. The three vials containing Anointing Oil each contain a Kyuss worm. These worms are in stasis—if exposed to the air they live for one round and try to infest any living creature (or corpse) they can reach.
+> 
+> - [ ] gp::260
+> - [ ] permanent::[[Restoration|Wand of Restoration (Rank 4)]] [ilvl::9] [gp::700]
+> - [ ] permanent::[[purifying-spoon-(ladle)|Purifying Spoon (Ladle)]] [ilvl::2] [gp::32]
+> - [ ] consumable::[[Death Ward|Scroll of Death Ward]] [ilvl::9] [gp::150]
+> - [ ] consumable::[[Ethereal Jaunt|Scroll of Ethereal Jaunt]] [ilvl::13] [gp::600]
+> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[dust-of-corpse-animation|Dust of Corpse Animation]] [ilvl::8] [gp::100]
+> - [ ] consumable::[[anointing-oil-greater|Anointing Oil (Greater)]] [ilvl::10] [gp::180] x3 (See above)
 
-Special Atk death touch 1/day (1146), rebuke undead 4/day (+3, 246412, 11th)
+#### 30. Kyuss’s Visage
+> [!note]+ Read Aloud
+> A brazier in the northwest corner lights this rectangular room. A green and black checkered curtain hanging from a steel bar fixed near the ceiling conceals the south wall.
 
-Combat Gear potion of cure serious wounds, scroll of restoration, scroll of heal, brooch of shielding (35 points), wand of inflict
+```encounter
+name: Bloodstone Arena - Kyuss Visage
+party: Age of Worms
+creatures:
+  - 1: Alkilith
+```
 
-moderate wounds (32 charges)
+A swiveling section of wall in the middle of the north wall can be found with a DC 25 [[Skills#Perception|Perception]] check. The passage beyond this secret door leads to a long corridor that ends in another secret door in the basement of Raknian's palace (area D).
 
-Spells Prepared (CL 11th, ranged touch +8) 6th—antilife shell, harm® (DC 20) sth—slay living? (DC 19), spell resistance,
+The curtain itself is made of magically enhanced spider silk; creatures on the southern side can look through the curtain as if through thick fog (concealment applies to anything on the north side), whereas creatures from the north cannot see through the curtain at all. It conceals the southern section of the room where a six-foot-tall black earthenware urn stands near the middle of the south wall. The south wall is completely filled with a mosaic of tiny green tiles depicting the horrible skull of Kyuss. The urn is the resting place of an amorphous demon: an alkilith summoned by Zahol with a planar ally spell.
 
-‘summon monster V 4th—cure critical wounds, death ward?, divine power, summon monster IV 3rd—contagion® (DC 17), blindness/deafness (DC 27), dispel magic, invisibility purge, speak with dead, summon monster ΙΙΙ 2nd—death knel (DC 16) cure moderate wounds, resist energy, shatter (DC 15), summon monster Il, undetectable alignment ast—command (DC 14), cure light wounds (2), doom (DC 15), inflict light wounds? (DC 15), protection from good, sanctuary (DC 14) o—cure minor wounds, detect magic, detect poison, guidance, read magic, resistance D: domain spell; Domains: Death, Destruction
+## Tactics
+The alkilith has been used by Zahol to “domesticate” the ochre jellies in area 21, and has been stationed as a guard in this room. The demon is not too happy with its servitude, and does not leave this room to help Zahol anywhere else in the complex even if it hears the sounds of combat. The alkilith surges out of its urn the instant it sees or hears anything on the other side of the curtain.
 
-Spell-Like Abilities (CL 11th) 1/day—darkness
+> [!danger]+ Trap
+> A symbol of fear has been incorporated into the mosaic on the wall. Zahol incorporated a password that the alkilith uses to avoid being subjected to the symbol.
 
-Abilities Str 12, Dex 10, Con 12, Int 12,
 
-Wis 17, Cha 12
 
-SQ spontaneous casting (inflict spells)
+Symbol of Fear: CR 7; spell; spell trigger; no reset; spell effect (symbol of fear, 11th-level cleric, DC 20 Will negates); Search DC 31; Disable Device DC 31.
 
-Feats Combat Casting, Iron Will, Spell Focus (necromancy), Weapon Focus (club)
-
-Skills Bluff +3, Concentration +10, Craft (painting) +6, Diplomacy +6, Hide —2, Knowledge (arcana) +6, Knowledge (history) +6, Knowledge (religion) +9, Spellcraft +8
-
-Possessions combat gear, +1 chainmail, +1 light fortification light wooden shield, +1 unholy club, periapt of health, a strand of prayer beads, jade holy symbol of Kyuss worth 100 gp, ring of keys
-
-Tactics: If Bozal has advance warning that the PCs are nearby, he immediately casts anti- life shell, Once this is up, he casts death ward, spell resistance, invisibility purge, resist energy (of a type the PCs have used in any gladiatorial battles so far), and shield of faith.
-
-Bozal then moves toward the sound of battle, at which point he begins sum- moning monsters to add to the fray. If forced into melee, he starts by cast- ing divine power and then fights until brought below 20 hit points, at which point he uses his darkness spell-like abil- ity to retreat, heal, and return to combat. If Bozal is reduced to fewer than 5 hit points, he loses his nerve and takes a standard action to release the ulgurstasta in area 32, cursing the PCs at the same time and promising them “the true wrath of Kyuss” for forcing his hand early.
-
-HE CHAMPION’'S BE. B
-
-29. Bozal Zahol’s Room (EL LO or 11)
-
-A central pillar of green marble carved in the likeness of a segmented worm supports the ceiling of this square room. The room is dimly lit by a single incense burner that sheds a sweet, fruity aroma. The room is lined with woolen tapestries depicting coiling green worms, and contains a bed, an armchair, and a cupboard. Near the bed is a small nightstand and an ornate, elongated trunk.
-
-The cupboard contains the personal effects and clothing of a traveling cleric, including an ebony walking stick, a dark traveling out- fit, and a rucksack. On the bedside table a hooded lantern, a jug of red wine, a clay nd a pair of round goggles with smoky quartz for lenses. The trunk is locked (Open Locks DC 25) and trapped.
-
-The trunk is an art object both dis-
-
-cup,
-
-gusting and fascinating, and eman n aura of abjuration and necromancy if
-
-Bozal Zahol
-
-LEAT!
-
-subjected to detect magic. Made of darkwood and bound with steel, the trunk measures 36a8xı8 inches. A steel plaque represent- ing a screaming skull infested by worms, the unholy symbol of Kyuss, is nailed to the lid. The side panels are painted in tones of black and green with a cycle of apoca-
-
-lyptic images that runs around the trunk like a frieze. The images are divided into two horizontal strips, underground and aboveground, by a cutaway of the earth's
-
-crust. Underground, the horrible figure of
-
-aman made of worms lies imprisoned ina huge stone monolith. The figure has been represented in perspective on all the trunk’s four sides. Huge green worms writhe in the surrounding caverns and break through the cavern's crust to invade the aboveg- round part of the paintings, where a sickly green light illuminates a blasted landscape. There, the writhing
-
-worms tower over a population of monstrous undead and naked, terrified victims
-
-Creature: If the PCs explore the com- plex during the day, they find Bozal Zahol
-
-on the
-
-resting in his room, either lyin
-
-bed in a nightmare-filled sleep (50%) or relaxing in the armchair and “sharing” cup of wine with the room's other occu- pant (50%).
-
-When Raknian murdered Lahaka a year
-
-ago, he called on Bozal for aid in
-
-the body. Bozal
-
-was only too happy to do
-
-so, and told Raknian later he destroyed her
-
-body by feedii rto
-
-the alkilith in area 30. In fact, Bozal did no such thing He
-
-ead
-
-animated Lahak
-
-zombie as a
-
-sort of insurance pol- ded the to Rak-
-
-he doesn't
-
-icy. He ος
-
-zombie to head
-
-nian's Palace if
-
-see Bozal for 24 hours ozal
-
-wasn't sure at first how much
-
-he could trust Raknian, so if the direc- tor turned on him this zombie would soon thereafter show up house to cause possibly irreparable political dam-
-
-age, depending on whom she attacked first. Until such a time, Bozal uses Lahaka's
-
-zombie as a silent drinking partner
-
-and servant. An investigation of the zombie (DC 15 Heal check or DC 20 Search check) reveals that she was killed by strangulation; even now, a year after her death, her undead
-
-flesh still bears the angry red indentation on her neck from Raknian’s distinctive serpent- styled ring of protection +2. Anyone who’ inter- acted with Raknian can make the connection with a successful DC 21 Wisdom check.
-
-Bozal Zahol: hp 64; see page 55.
-
-Human Zombie: hp 16; Monster Manual 266.
-
-‘Trap: The trunk's steel lock was warded by Zahol's mentor (a monstrous high priest of Kyuss) with a particularly hor- rific magical trap. Anyone who opens the chest without uttering a complex prayer to Ky cess means that the character onl
-
-must make a DC 20 Will save. Suc- y take ge as a foul
-
-points of Constitution dan
-
-green worm bursts from his flesh near where he touched the chest to drop onto the floor and turn to goo. On a failed save, the lock snaps shut and the character's body winks out of the Material Plane, leaving all
-
-clothing and equipment behind. Immedi-
-
-ately after,a tiny representation of the char- acter, nak
-
-d helpless, appears on one of the trunk’s side panels as one of the victims of the undead horde. While trapped in the
-
-chest's painting, the character experiences continuous, sanity-blasting nightmares, ensnared in the writhing dreams of Kyuss. This is a necromantic effect
-
-Each hour the character remains trapped, he takes da points of Intelligence, Wisdom, and Charisma drain. When one of these ability scores reach zero, the character's image on the trunk animates long enough to be eaten by the worms, and is then gone.
-
-The trapped character can be freed with a
-
-successful dispel magic against caster level
-
-2oth. Alternately, antimagic, dispel evil, free dom, miracle, Mordenkainen’s disjunction, or wish cast on the trunk can rescue the char- acter—once the image is gone, only miracle true resurrection, or wish can return him to
-
-lif
-
-escued from the terrible
-
-Upon beir
-
-p. the character reappears next to the box
-
-naked and and unconscious. Th DC 35 Disable Device check; doing so frees
-
-trapped trunk can be disabled witha
-
-any trapped characters as detailed above. Destroying the chest also frees any trapped characters, but each time a creature damages
-
-ΤΗΕ CHAMPION’S BEL
-
-the chest (from any range), it must make a DC 20 Will save as if he tried to open it. Dreams of Kyuss Trap: CR 10; Hardness 8; hp 60; Break DC 30; magic device; touch trigger; automatic reset; Will DC 20 to take 2 Con damage and resist above effects; Search DC 30; Disable Device DC 35, ‘Treasure: The trunk contains a bag of 300 gp, four deep green spinels worth 100 gp each, three aquamarines worth 500 gp each, potion of cure moderate wounds, a scroll of death ward, two scrolls of ethereal jaunt, three doses of dust of tracelessness, seven blocks of exotic incense worth 200 gp each, two blocks of incense of meditation, a wand of restoration with 36 charges, and a Muryland's spoon. Lastly, three vials containing oil of gentile repose each contain a Kyuss worm. These worms are in stasis—if exposed to the air they live for one round and try to infest any living creature (or corpse) they can reach,
-
-50. Kyuss’s Visage (EL 14)
-
-A brazier in the northwest corner lights this rectangular room. A green and black check- ered curtain hanging from a steel bar fixed near the ceiling conceals the south wall.
-
-Asswiveling section of wall in the middle of the north wall can be found with a DC 25 Search check. The passage beyond this secret door leads to a long corridor that ends in another secret door in the base- ment of Raknian's palace (area D).
-
-‘The curtain itself is made of magically enhanced spider silk; creatures on the southern side can look through the cur- tain as if through thick fog (concealment applies to anything on the north side), whereas creatures from the north cannot see through the curtain at all. It conceals the southern section of the room where a six- foot-tall black earthenware urn stands near the middle of the south wall. The south wall is completely filled with a mosaic of tiny green tiles depicting the horrible skull of Kyuss. The urn is the resting place of an amorphous demon: an alkilith summoned by Zahol with a planar ally spell.
-
-Creature: The alkilith has been used by ‘Zahol to “domesticate” the ochre jellies in area 21, and has been stationed as a guard in this room. The demon is not too happy with its servitude, and does not leave this
-
-room to help Zahol anywhere else in the complex even if it hears the sounds of combat. The alkilith surges out of its urn the instant it sees or hears anything on the other side of the curtain.
-
-ALKILITH DEMON CR14
-
-CE Medium outsider (chaotic, evil, extraplanar, tanar'ri)
-
-Fiend Folio 46
-
-Init +7; Senses darkvision 60 ft; Listen +19, Spot +19
-
-Languages Abyssal, Common; telepahty 100 ft.
-
-AC 23, touch 17, flat-footed 16; can't be flanked
-
-hp 82 (11 HD); DR 15/good, half damage from bludgeoning attacks
-
-Immune acid, critical hits, electricity, harmful gas, paralysis, poison, polymorph, sleep, stench, stunning
-
-Resist cold 10, fire 10; SR 23
-
-Fort +10, Ref +14, Will +10
-
-Spd 40 β.
-
-Melee 4 slams +19 (14843 plus acid)
-
-Base Atk +11; Grp +14
-
-Special Atk cloudkill form, summon tanar'ri
-
-Spell-Like Abilities (CL 11th, ranged touch +18) ‘At will—contagion (DC 20), desecrate, detect
-
-magic, dispel magi enervation, greater teleport (self plus maximum load of objects only), hold monster (DC 21), magic circle against good, stinking doud (DC 20) wall of ice (DC 21) 3/day—cone of cold (DC 22), unholy blight (DC 21) Abilities Str 16, Dex 25, Con 16, Int 14, Wis 17, Cha 15
-
-SQ command ooze
-
-Feats Alertness, Combat Reflexes, Weapon Finesse, Weapon Focus (slam)
-
-Skills Bluff +16, Concentration +17, Diplomacy +20, Disguise +2 (+4 acting), Escape Artist +21, Hide +21, Intimidate +18, Listen +19, Move Silently +21, Sense Motive +17, Spot +19
-
-Acid (Su): Anyone struck by the alkilith’s slam must make a DC 18 Fortitude save or take an additional 146 points of acid damage. This acid damage continues over the next 146 rounds. Additionally, each time a character fails a Fortitude save against this attack, one of his items (determined randomly as if he had rolled a natural 1 on his saving throw) suffers the acid damage as well.
-
-‘Command Ooze (Sp): An alkilith can control the actions of any ooze within 60 feet as a free action. The ooze is allowed a DC 17 Will save to resist.
-
-‘Cloudkill Form (Su): As a full-round action, an alkilith can assume the form of a cloud of noxious green vapor. The alkilith is gaseous (as if by the gaseous form spell) in this form, and anyone inside the cloud suffers as if from a cloudkill spell at caster level 11th. Returning to solid form is a full-round action,
-
-‘Summon Tanar’ri (Sp): Once per day, an alkilith may attempt to summon 1 hezrou with a 50% chance of success.
-
-‘Tactics: The alkilith’s first action when it sees trouble is to prepare an action to use cone of cold once anything pulls aside the curtain. Otherwise, it pulls the curtain aside itself once at least three people are in the northern portion of the room (and thus can be exposed to the trap). Its first action then is to fill the room with a stinking cloud, ‘The alkilith then uses wall of ice to block ranged fighters and spellcasters from targeting it and uses enervation and addi- tional cones of cold at anyone still nearby. It continues using spell-like abilities until attacked in melee, at which point it fights back with its acidic slams. If reduced to fewer than 2s hit points, the alkilith tele- ports into the passageway to the north just beyond the secret door. It then assumes cloudkill form and seeps back into this room to try to poison the characters. The strictures of the planar ally spell prevent the alkilith from fleeing completely, but if brought below 10 hit points it teleports to area 28 to seek out Bozal for healing, If he's dead, the demon tries to collect the ochre jellies from area 22 for reinforce- ments, If this fails, it returns to patrol the shrine of Kyuss after attempting to sum- mon a hezrou to aid it, hoping the PCs have left but ready to fight to the death ifit encounters them again.
-
-‘Trap: A symbol of fear has been incorpo- rated into the mosaic on the wall. Zahol incorporated a password that the alkilith uses to avoid being subjected to the symbol.
-
-Symbol of Fear: CR 7; spell; spell trig- ger; no reset; spell effect (symbol of fear, uth-level cleric, DC 20 Will negates); Search DC 31; Disable Device DC 31.
-
-Treasure: The pinpoints of green light in the demigod's eye sockets on the mosaic have been rendered with two emeralds worth 1,000 gp each. The spi- dersilk curtain is worth 250 gp.
+Treasure: The pinpoints of green light in the demigod's eye sockets on the mosaic have been rendered with two emeralds worth 1,000 gp each. The spidersilk curtain is worth 250 gp.
 
 31. Lavatory
 
@@ -1363,3 +1158,121 @@ Each copy of the Apostolic Scrolls works only once. When the sphere of containme
 Strong necromancy [evil]; CL 20th; Weight 1 Ib.
 
 has been weakened by Bozal, and it's only a DC 24 Strength check to burst through into the arena above; with the ulgurstasta’s +11 Strength modifier, it'll escape into the outside world soon enough. If it does, it immediately runs amok in the arena and into the Free City beyond if not stopped.
+
+If the PCs don't defeat Bozal Zahol, Event 7 quickly transforms into a scene of hor- ror. One round after the final battle with
+
+Auric begins, Bozal releases the ulgu which immediately begins hammering on the roof of area 32. It makes a +11 Strength check once per round against DC 24 Failure indicates a large section of ground shakes and bulges upward ominously. Success indicates that the massive undead worm plows up into the arena. The crowd falls silent for a stunned moment, and in this silence Raknian steps up and shouts, “Lo! The Apostle of Kyuss is among us! ‘THERE! THERE ARE THE CHAMPIONS YOU SEEK!” As the ulgurstasta roars and
+
+Raknian points at the gladiators below, the audience erupts into a riot of panic.
+
+‘The Apostle of Kyuss’ goal in this battle is to swallow Auric (or any other charac- ter with at least one level in fighter) and transform him into a spawn of Kyuss. Once it does so, the final conditions of the ritual Raknian and Bozal performed fall into place. Three things happen in rapid succession at this point:
+
++ The ulgurstasta is immediately healed back to maximum hit points.
+
++ The spirits of the myriad dead that have died in the Free City Arena rise up, a wail- ing, writhing blanket of rage and nec- romantic ruin, All creatures still within the arena immediately suffer 144 nega- tive levels before the spirits fade away. Creatures drained to zero levels by this burst of necromantic power die, only to rise as wights 1d4 rounds later. The repercussions of thousands of wights in the Free City are grim indeed.
+
+Raknian himself cries out in triumphant pain as Kyuss, pleased with the display of power and faith, grants his wish for immortality and transforms Raknian into a death knight. This undead tem- plate is detailed on page 207 of the Mon- ster Manual IT, but exact stats for the new Raknian are likely unecessary at this point. His first action upon becoming a death knight is to summon a nightmare, mount it, and then flee into the Etheral Plane. In this event, Raknian travels north to the Wormcrawl Fissure to join Kyuss’ undead legions there—he may appear later in the campaign to torment the PCs further, but for now, the director of the Free City Arena is out of the picture.
+
+Ideally the PCs can kill the ulgurstasta before this tragic event takes place. If the PCs manage to defeat the ulgurstasta, Rak- nian is dumbfounded for a few moments but quickly recovers. He flees back to his palace and then tries to flee the city, dis- graced and on the run. You might wish to have him surface later in the campaign, perhaps as a fugitive hiding in the city of Alhaster in “The Prince of Redhand.”
+
+If the PCs defeat Bozal but leave the ulgurstasta in its sphere of force, Raknian learns of the unfortunate turn of events
+
+himself the night before the final battle when he tries to contact Bozal to make sure everything is in place to proceed. In this event, Raknian himself procures a rod of cancellation from contacts in the black market and releases the ulgurstasta himself during the final games, leaving the ceremo- nies themselves to Talabir to perform. ‘The best solution to this adventure is for the PCs to destroy both Bozal and the ulgurstasta before the final games. If the PCs manage this, Raknian morosely car- ries through with the rest of the games, but his actions are noticeably subdued and depressed. The evening after the final games, he retreats to his personal cham- bers, gathers his gear, and slips out of the Free City to start a new life elsewhere.
+
+CONCLUDING
+
+THE ADVENTURE
+
+As long as the PCs prevent the tragedy of the mass sacrifice from occurring, they still have a chance to win the final prize money. Raknian is likely not the one to hand out the award, but Talabir Welik is only too happy to honor the PCs with their rightful prize.
+
+If the PCs discovered Lahaka’s zombie in area 29, Ekaym is devastated. Still, he honors his agreement and allows the PCs to take the full award for their success in the Campion’s Games. If the zombie is still animated, he destroys it and then returns with the body south to the city of Cauldron to see about having his beloved sister brought back to life (or at the very least, buried in the Hall of Carvings in the village of Redgorge).
+
+Yet despite the PCs’ successes (or in addition to their failures) one last trag- edy waits to be discovered.
+
+At some point during the Champion's Games, Raknian learns troubling news. It seems that a notable sage named Eli- gos has been asking around about Kyuss, the Apostolic Scrolls, and the Age of Woms. At Bozal’s urging, Raknian sends his cohort Okoral on an assassination mis- sion against the sage. Okoral takes along a couple of elite guards to help with the job, and has little trouble invading the sage’s home the night before the Final Battle and murders him in his sleep. Should the PCs return to Eligos’s house,
+
+they find both Eligos and Pollard are quite dead—their killers are nowhere to be found. Okoral himself fades into the shadows once Raknian falls from promi- nence, and may hold a grudge against the PGs in the future.
+
+A search of the estate turns up one item of interest. With a DC 20 Search check, the party discovers a bundle of notes and observations that catalog what Eligos has learned of the Age of Worms. This bundle is kept in a small coffer on the shelf of Eligos's study and was simply overlooked by Okoral in his rush to do the job and get out. A note on the top of this bundle is addressed to Allustan, and reads, “My dear friend Allustan— What your adventurers have stumbled into sickens me to my soul, Every new leaf I turn reveals an even darker secret. Here are my notes. You must take them to our one-time master—although I fear that even he may be ill-equipped for what writhes in all of our futures. Until then...” The note is not finished.
+
+For now, the PCs should be able to rest easy. They've likely not only prevented a terrible tragedy from striking the heart of the Free City, but may have become Champions themselves, Certainly, the events at this year’s Champion's Games are on the tongues of everyone in the city. Give the PCs some time to bask in their newfound fame and glory. They may feel that they've come to a dead end in their investigations into the truth behind the Age of Worms, but this is not the case. If they don't find the package of notes Eligos prepared for Allustan, the PCs soon learn of another reason to return to Diamond Lake.
+
+It seems that a dragon has come to town.
+
+APPENDIX: NEW MONSTER
+
+Froghemoth
+
+Huge Aberration (Aquatic)
+
+Hit Dice: 2048+120 (210 hp)
+
+Initiative: +5
+
+Speed: 20 ft., swim so ft.
+
+Armor Class: 21 (~2 size, +1 Dex, +12 natu- ral), touch 9, flat-footed 20
+
+Base Attack/Grapple: +15/+35
+
+Attack: Tentacle +25 melee (246912)
+
+"....’ᾱ..ΥἯΨωμ:-,.᾿ἔ
+
+SCALING THE ADVENTURE “The Fireplace Level” is designed for a group of four gth-level characters, but with a little work it can be adapted for tt ο, auth-level characters. Simply ad
+
+NPC character levels up ce as
+
+group deviates from Dont forget to modify the amount of treasure found in the adventure ap changes to the adventure include: parties: Remove one of the archers from Arcane Auriga, one of ete from Badlands and one of the mercenaries from Sap- phire Squad. Take away Pitch Blade's
+
+golems from Auric’s warband. Replace thealkilith demon with 16-Η0 bebilith and replace the enhanced ulgurstasta in area 32 with an ordinary ulgerstasta. 1oth—nth-level parties: Add an archer to Arcane Auriga, a halberdier to Bad- lands revenge, and a third barbarian to Pitch Blade. Advance Froghemoth by 6-8 Hit Dice (making it Gargantuan) and have on of Raknian's mages cast stoneskin on it before the fight begins. Replace the flesh golems in Auric’s War- band with stone golems. Replace the ochre jellies in area 21 with black pud- dings, and add two additional mohrgs to area 27. Advance the Alkilith demon by 4 Hit Dice. Make Bozal Zahol a half- fiend instead of a tiefling, and give the ulgurstasta the evolved undead template from Libris Mortis page 99.
+
+Full Attack: 4 tentacles +25 melee (ad6+12) and tongue +23 melee (1d8+6) and bite +23 melee (2d6+18/18-20)
+
+Space/Reach: 15 ft,/5 ft. (30 ft. with tongue)
+
+Special Attacks: Constrict 2d6+12 (tenta- cle) or 148+6 (tongue), improved grab, powerful bite, swallow whole
+
+Special Qualities: Amphibious, darkvi- sion 60 ft., partial electrical immunity, resist fire 30
+
+Saves: Fort +14, Ref +7, Will +17
+
+Abilities: Str 35, Dex 12, Con 23, Int 1, Wis 16, Cha 13
+
+Skills: Hide +7*, Jump +22*, Listen +5, Spot 417
+
+Feats: Alertness, Improved Initiative, lmproved Natural Attack (tentacle), Iron Will, Great Fortitude, Multiattack, Skill Focus (Hide)
+
+Environment: Temperate swamp
+
+Organization: Solitary or pair
+
+Challenge Rating: 13
+
+‘Treasure: None
+
+Alignment: Always neutral
+
+Advancement: 21-24 HD (Huge), 25-40 HD Gargantuan), 41-60 HD (Colossal)
+
+This monster is huge and weird. Vaguely frog- like in shape, it has four writhing tentacles in place of front legs. Its head is mostly mouth, and its mouth is mostly teeth. A retractable stalk protrudes from the front of its head, at the end of which stare three bulbous eyes. The ‘massive thing is a dark green save for its belly, which is pale. A powerful tongue tipped with barbs lolls wetly from its mouth.
+
+The dread froghemoth is a dangerous and powerful predator that has few natu- ral enemies. The presence of a froghe- moth in a swampland typically manifests in a marked decrease in any other large swamp-dwelling animals or monsters. The creature's croaking roar can be heard for miles.
+
+Froghemoths have not always plagued the swamps of the world. The first froghe- moth was encountered in a strange unnat- ural cavern deep in the Barrier Peaks by a group of adventurers, but news ofits feroc- ity spread quickly and attracted the atten- tions of all manner of collectors, hunters, and cultists from around the world. The discovery of several banks of huge, pre- served, yet still viable froghemoth eggs made a small group of adventuring mer- chants quite rich until they were murdered and their remaining supply of eggs were stolen by intolerant cultists of an obscure hopping deity of the swamps. This particu- lar sect of cultists made it their mission to introduce these eggs to numerous swamp- lands throughout the world. And unfortu- nately for the denizens of these swamps, the froghemoths are thriving Today, while still rare, stories of froghemoth sightings can be heard throughout the world.
+
+A froghemoth stands 18 feet tall and weighs 5 tons.
+
+Combat The froghemoth is a terror in battle, charging toward prey with great thun- derous bellows. It attacks with its tongue, tentacles, and bite, often splitting these attacks between different targets in a desperate gluttonous attempt to gather up as much food as it can. Stupid toa fault, a froghemoth rarely if ever breaks off combat to escape possible death.
+
+Improved Grab (Ex) To use this ability, the froghemoth must hit with its tentacle or tongue attack. It can then attempt to start a grapple as a free action without pro- voking an attack of opportunity. If it wins the grapple check, it establishes a hold and immediately inflicts constriction damage. Itcan attempt to swallow whole a grappled opponent in the following round.
+
+Powerful Bite (Ex): A froghemoth’s jaws are extraordinarily powerful. Even though its bite is a secondary attack, it applies 1- 1/2 times its Strength modifier to damage done with its bite. Its bite threatens a criti- cal hit on a natural roll of 18-20.
+
+‘Swallow Whole (Ex): A froghemoth can try to swallow a grabbed opponent of up to two size categories smaller by making a successful grapple check. Once inside, the victim takes 2d6+12 points of bludgeoning damage plus 1d8+4 points of acid damage per round. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the froghemoth's stomach (AC13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
+
+A Huge froghemoth’s stomach can hold 4 Medium, 8 Small, 16 Tiny, 32 Diminu- tive, or 64 Fine or smaller opponents.
+
+Partial Electrical Immunity (Ex): The froghemoth is partially immune to elec- trical damage. Each time it would nor- mally take damage from an electrical attack, it takes no damage but is instead slowed for 1 round.
+
+Skills: A froghemoth gains a +16 racial bonus on Jump checks. In swampy terrain it gains a 48 racial bonus on hide checks. 8#
