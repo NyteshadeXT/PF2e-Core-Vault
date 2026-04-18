@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "glow-rod"
 aliases: "Glow Rod"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "251"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "light"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This 1-foot-long, gold-tipped rod glows after it's struck on a hard surface. For the next 6 hours, it sheds bright light in a 20-foot radius (and dim light to the next 40 feet).  [[Equipment Effects/Effect_ Glow Rod|Effect: Glow Rod]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This is a 1-foot-long, gold-tipped rod."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The _glow rod_ glows after it's struck on a hard surface. For the next 6 hours, it sheds bright light in a 20-foot radius (and dim light to the next 40 feet)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

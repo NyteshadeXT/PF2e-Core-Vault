@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "glue-bomb-(lesser)"
-aliases: "Glue Bomb (Lesser)"
-source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
-trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "common"
+name: "giant-killing-greater"
+aliases: "Giant-Killing (Greater)"
+source: "Pathfinder Kingmaker"
+pg: "24"
+rarity: "rare"
+trait01: "magical"
+trait02: ""
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 1
-weight: L
-value: "3"
+level: 15
+weight: 
+value: "6000"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a –10-foot status penalty to its Speeds for 1 minute. The [[Actions/Escape|Escape]] DC is [[Actions/escape dc=17|escape dc=17]]{17}.  On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Conditions/Immobilized|Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs are not effective when used on a creature that is in water.  The target can end any effects by Escaping or spending a total of 3 Interact actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.  [[Equipment Effects/Effect_ Glue Bomb|Effect: Glue Bomb]]"
+description: "This weapon features stylized etchings of giants. A giant-killing weapon deals an additional `dice: 2d6` mental damage on a successful Strike against a giant. Mental damage dealt by this weapon ignores the target's mental resistance.  On a critical hit, instead of being [[Enfeebled|Enfeebled 1]], the giant must attempt a DC 34 Fortitude check save with the following effects.\n\n**Critical Success** The giant is [[Enfeebled|Enfeebled 1]] until the end of your next turn.\n**Success** The giant is [[Enfeebled|Enfeebled 2]] until the end of your next turn and takes `dice: 1d10` mental damage.\n**Failure** The giant is [[Enfeebled|Enfeebled 2]] for the next minute and takes `dice: 2d10` mental damage.\n**Critical Failure** The giant is [[Enfeebled|Enfeebled 4]] for the next minute and takes `dice: 4d10` mental damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +44,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 0 bludgeoning
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

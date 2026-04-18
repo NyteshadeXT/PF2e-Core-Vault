@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "glue-bomb-(greater)"
-aliases: "Glue Bomb (Greater)"
-source: "Pathfinder GM Core"
-pg: ""
+name: "gliding-membranes-greater"
+aliases: "Gliding Membranes (Greater)"
+source: "Pathfinder Howl of the Wild"
+pg: "98"
 rarity: ""
-trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "common"
+trait01: "graft"
+trait02: "invested"
+trait03: "magical"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 7
 weight: L
-value: "250"
+value: "340"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "implanted"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a –15-foot status penalty to its Speeds for 1 minute. You gain a +2 item bonus to attack rolls, and the [[Actions/Escape|Escape]] DC is [[Actions/escape dc=28|escape dc=28]]{28}.  On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Conditions/Immobilized|Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs are not effective when used on a creature that is in water.  The target can end any effects by Escaping or spending a total of 3 Interact actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.  [[Equipment Effects/Effect_ Glue Bomb|Effect: Glue Bomb]]"
+description: "Membranes that stretch between your arms and torso help you convert a fall into a glide. Treat falls as 50 feet shorter. Even if you take fall damage, you can land on your feet by succeeding at a DC 15 [[Skills#Acrobatics|Acrobatics]] check check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +44,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 0 bludgeoning
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

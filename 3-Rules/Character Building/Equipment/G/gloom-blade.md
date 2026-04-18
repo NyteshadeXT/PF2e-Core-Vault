@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "gloom-blade"
 aliases: "Gloom Blade"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "242"
 rarity: ""
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "versatile-s"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -22,11 +22,12 @@ level: 9
 weight: L
 value: "700"
 subvalue: "gp"
+group: "Sword"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _+1 shortsword_ and doesn't appear to radiate a magic aura to [[Spells/Detect Magic|Detect Magic]] or similar spells unless the spells are 4th rank or higher.  In dim light or darkness, the _gloom blade_ becomes a _+2 striking shortsword_. Whenever you use the _gloom blade_ to attack a creature you're undetected by, you deal 1d6 additional precision damage.  To upgrade the _gloom blade's_ fundamental runes, start with the base _+1 shortsword_, but if you improve it beyond a _+2 striking shortsword_, the runes apply in dim light or darkness as well."
+description: "As black as coal, this blade grows more potent in darkness. While in bright light, it functions as a _[[Weapon Potency (+1)|+1]] [[shortsword]]_ and doesn't appear to radiate a magic aura to [[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] or similar spells unless the spells are 4th rank or higher.  In dim light or darkness, the _gloom blade_ becomes a _[[Weapon Potency (+2)|+2]] [[striking]] [[shortsword]]_. Whenever you use the _gloom blade_ to attack a creature you're undetected by, you deal `dice: 1d6` additional precision damage.  To upgrade the _gloom blade's_ fundamental runes, start with the base _[[Weapon Potency (+1)|+1]] [[shortsword]]_, but if you improve it beyond a _[[Weapon Potency (+2)|+2]] [[striking]] [[shortsword]]_, the runes apply in dim light or darkness as well."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Shortsword"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

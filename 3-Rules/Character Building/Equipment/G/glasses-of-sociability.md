@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "glasses-of-sociability"
 aliases: "Glasses of Sociability"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "185"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -23,16 +23,16 @@ weight: L
 value: "60"
 subvalue: "gp"
 invest:
-usage: "worneyepiece"
+usage: "worn eye piece"
 license: "ORC"
 identify:
-description: "These wire-rim glasses with large, circular lenses were invented for the sole purpose of avoiding awkward confrontations at social gatherings. They grant you a +1 item bonus to Diplomacy.  * * *  **Activate** `pf2:1` envision  * * *  **Effect** You stare at another creature and instantly remember their name if you've met and exchanged names. The glasses rely on your latent memories, so if the creature is disguising their identity, the glasses don't penetrate the disguise. If a doppelganger was disguised as an innkeeper you met, the glasses would give you the innkeeper's name, and if a noble you met before was in disguise as a masked vigilante, the glasses wouldn't reveal their name."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "These wire-rim glasses with large, circular lenses were invented for the sole purpose of avoiding awkward confrontations at social gatherings. They grant you a +1 item bonus to [[Skills#Diplomacy|Diplomacy]]."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You stare at another creature and instantly remember their name if you've met and exchanged names. The glasses rely on your latent memories, so if the creature is disguising their identity, the glasses don't penetrate the disguise. If a doppelganger was disguised as an innkeeper you met, the glasses would give you the innkeeper's name, and if a noble you met before was in disguise as a masked vigilante, the glasses wouldn't reveal their name."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

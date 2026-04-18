@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "giant-killing-(greater)"
-aliases: "Giant-Killing (Greater)"
-source: "Pathfinder Kingmaker"
-pg: ""
+name: "glue-bomb-lesser"
+aliases: "Glue Bomb (Lesser)"
+source: "Pathfinder GM Core"
+pg: "245"
 rarity: ""
-trait01: "magical"
-trait02: "rare"
-trait03: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 15
-weight: 
-value: "6000"
+level: 1
+weight: L
+value: "3"
 subvalue: "gp"
 invest:
-usage: "etched onto a weapon"
+usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This weapon features stylized etchings of giants. A giant-killing weapon deals an additional 2d6 mental damage on a successful Strike against a giant. Mental damage dealt by this weapon ignores the target's mental resistance.  On a critical hit, instead of being [[Conditions/Enfeebled|Enfeebled 1]], the giant must attempt a DC 34 Fortitude check save with the following effects.  * * *  **Critical Success** The giant is enfeebled 1 until the end of your next turn.  **Success** The giant is [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn and takes 1d10 mental damage.  **Failure** The giant is enfeebled 2 for the next minute and takes 2d10 mental damage.  **Critical Failure** The giant is [[Conditions/Enfeebled|Enfeebled 4]] for the next minute and takes 4d10 mental damage."
+activate: "`pf2:1` [[Strike]]"
+description: "A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a –10-foot status penalty to its Speeds for 1 minute. The [[Escape]] DC is 17.  On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Conditions/Immobilized|Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs are not effective when used on a creature that is in water.  The target can end any effects by Escaping or spending a total of 3 Interact actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range: 20 ft
 ammoType:
-damage: 
+damage: 0 bludgeoning
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

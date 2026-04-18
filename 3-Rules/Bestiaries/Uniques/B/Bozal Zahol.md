@@ -17,6 +17,7 @@ source: "Converted from D&D 3e"
 name: "Bozal Zahol"
 level: "Creature 11"
 size: "Medium"
+token: Bozal Zahol.png
 trait_01: "Human"
 trait_02: "Humanoid"
 trait_03: "Fiend"

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "gorget-of-the-primal-roar"
 aliases: "Gorget of the Primal Roar"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "290"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to Intimidation checks.  **Activate—Primal Roar** `pf2:1` (auditory, concentrate, emotion, fear, mental)  **Frequency** once during the duration of each polymorph effect  **Requirements** You're in a non-humanoid form via a polymorph effect  * * *  **Effect** You unleash a bestial roar, attempting a single Intimidation check check compared to the Will DCs of all enemies within 30 feet to impose the effects below.  * * *  **Critical Success** The creature is [[Conditions/Frightened|Frightened 2]].  **Success** The creature is [[Conditions/Frightened|Frightened 1]].  **Failure** The creature is unaffected."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 item bonus to [[Skills#Intimidation|Intimidation]] checks."
+powerTitle1: "Primal Roar"
+actionEconomy1: "`pf2:1`"
+type1: "([[auditory]], [[concentrate]], [[emotion]], [[fear]], [[mental]])"
+frequency1: "once during the duration of each polymorph effect"
 trigger1:
-mechanics1:
+requirement1: "You're in a non-humanoid form via a polymorph effect"
+mechanics1: "You unleash a bestial roar, attempting a single [[Skills#Intimidation|Intimidation]] check check compared to the Will DCs of all enemies within 30 feet to impose the effects below.\n\n**Critical Success** The creature is [[Frightened|Frightened 2]].\n**Success** The creature is [[Frightened|Frightened 1]].\n**Failure** The creature is unaffected."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

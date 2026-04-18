@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "goz-mask"
 aliases: "Goz Mask"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "154"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "Originally designed by a fanatical sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  **Effect** You ignore [[Conditions/Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 1 minute."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Originally designed by a fanatical sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You ignore [[Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

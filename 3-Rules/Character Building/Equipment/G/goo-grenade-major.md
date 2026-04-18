@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "goo-grenade-(greater)"
-aliases: "Goo Grenade (Greater)"
+name: "goo-grenade-major"
+aliases: "Goo Grenade (Major)"
 source: "Pathfinder Lost Omens Impossible Lands"
-pg: ""
-rarity: ""
+pg: "306"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 17
 weight: L
-value: "250"
+value: "2500"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes 3d4 acid damage, 3 persistent acid damage, and 3 acid splash damage, and a -10 circumstance penalty to its Speeds from the clinging goo. You gain a +2 item bonus to attack rolls. The target can end any penalties, conditions, and persistent damage caused by the bomb by Escaping (DC 26) or spending a total of 3 Interact actions to pry themselves free of the ooze. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.  [[Equipment Effects/Effect_ Goo Grenade|Effect: Goo Grenade]]"
+activate: "`pf2:1` [[Strike]]"
+description: "A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes `dice: 4d4` acid damage, 4 persistent acid damage, and 4 acid splash damage, and a -10 circumstance penalty to its Speeds from the clinging goo. You gain a +3 item bonus to attack rolls. The target can end any penalties, conditions, and persistent damage caused by the bomb by Escaping (DC 35) or spending a total of 3 Interact actions to pry themselves free of the ooze. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -46,7 +47,7 @@ craft:
 #========================================================#
 range: 20 ft
 ammoType:
-damage: 3d4 acid
+damage: 4d4 acid
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "giant-centipede-venom"
 aliases: "Giant Centipede Venom"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "249"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Giant centipede venom causes severe muscle stiffness.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 17 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage 2** 1d4 poison damage and [[Conditions/Fatigued|Fatigued]] (1 round)  **Stage 3** 1d4 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Fatigued|Fatigued]] (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "Giant centipede venom causes severe muscle stiffness.\n\nSaving Throw** DC 17 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 1d4` poison damage (1 round)  **Stage 2** `dice: 1d4` poison damage and [[Fatigued]] (1 round)  **Stage 3** `dice: 1d4` poison damage, [[Clumsy|Clumsy 1]], and [[Fatigued]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+=

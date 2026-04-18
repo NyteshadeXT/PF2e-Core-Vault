@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "glue-bomb-(major)"
-aliases: "Glue Bomb (Major)"
+name: "glue-bomb-moderate"
+aliases: "Glue Bomb (Moderate)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "245"
 rarity: ""
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 17
+level: 3
 weight: L
-value: "2500"
+value: "10"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a –20-foot status penalty to its Speeds for 1 minute. You gain a +3 item bonus to attack rolls, and the [[Actions/Escape|Escape]] DC is [[Actions/escape dc=37|escape dc=37]]{37}.  On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Conditions/Immobilized|Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs are not effective when used on a creature that is in water.  The target can end any effects by Escaping or spending a total of 3 Interact actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.  [[Equipment Effects/Effect_ Glue Bomb|Effect: Glue Bomb]]"
+activate: "`pf2:1` [[Strike]]"
+description: "A glue bomb is a harmless explosive mechanism bursting with sticky substances. When you hit a creature with a glue bomb, that creature takes a –15-foot status penalty to its Speeds for 1 minute. You gain a +1 item bonus to attack rolls, and the [[Escape]] DC is 19.  On a critical hit, a creature in contact with a solid surface becomes stuck to the surface and [[Immobilized]] for 1 round, and a creature flying via wings has its wings tangled, causing it to fall safely to the ground and become unable to Fly again for 1 round. Glue bombs are not effective when used on a creature that is in water.  The target can end any effects by Escaping or spending a total of 3 Interact actions to carefully remove the sticky substances. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

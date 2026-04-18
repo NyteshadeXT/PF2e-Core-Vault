@@ -4,35 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "goz-mask-(greater)"
-aliases: "Goz Mask (Greater)"
-source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "invested"
+name: "golden-branding-iron-major"
+aliases: "Golden Branding Iron (Major)"
+source: "Pathfinder #179: Cradle of Quartz"
+pg: "76"
+rarity: "uncommon"
+trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: "talisman"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 13
 weight: 
-value: "240"
+value: "450"
 subvalue: "gp"
 invest:
-usage: "wornmask"
+usage: "affixed to a two handed firearm or crossbow"
 license: "ORC"
 identify:
-description: "Originally designed by a fanatical sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  **Effect** You ignore [[Conditions/Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 10 minutes."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+requirement1: "You're an expert with the affixed weapon."
+trigger1: "You hit a target with a ranged Strike with the affixed weapon"
+mechanics1: "When you activate a golden branding iron, you mark the target with your magical sigil.  You harmlessly place your unique magical sigil, which is about 1 square inch in size, anywhere on the target creature, as long as the location is visible to you. The mark is only visible to you and up to 6 of your allies. The mark can be scrubbed or scraped off with 5 minutes of work. It never fades naturally."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

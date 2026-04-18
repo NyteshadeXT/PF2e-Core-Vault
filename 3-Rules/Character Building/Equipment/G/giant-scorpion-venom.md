@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "giant-scorpion-venom"
 aliases: "Giant Scorpion Venom"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "249"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/giant-scorpion-venom.png
 level: 6
 weight: L
 value: "40"
@@ -26,7 +26,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Scorpion venom is excruciating and its effects are somewhat debilitating.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 2d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 2d8 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 3** 2d10 poison damage and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "Scorpion venom is excruciating and its effects are somewhat debilitating.\n\n**Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 2d6` poison damage and [[Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** `dice: 2d8` poison damage and [[Enfeebled|Enfeebled 1]] (1 round)  **Stage 3** `dice: 2d10` poison damage and [[Enfeebled|Enfeebled 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "gossips-eye"
 aliases: "Gossip's Eye"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "108"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "These discrete prosthetics have been the secret behind more than a few salacious rumors getting out among Taldan high society. This functions like a _magical prosthetic eye_, but with an added benefit.  **Activate** `pf2:1` command  **Frequency** once per day  * * *  **Effect** You whisper "spy for me" to the eye, which removes itself from your eye socket and begins to relay its signal to you even at range. Although it can't move on its own, you can place the eye in a discrete location (using your Stealth DC) to avoid detection. For 10 minutes, you can see what the eye sees as long as you're within 100 feet of the eye. The eye's signal can penetrate most barriers but is blocked by lead of any thickness, as well as denser materials. The eye's signal is visual only."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These discrete prosthetics have been the secret behind more than a few salacious rumors getting out among Taldan high society. This functions like a _magical prosthetic eye_, but with an added benefit."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You whisper "spy for me" to the eye, which removes itself from your eye socket and begins to relay its signal to you even at range. Although it can't move on its own, you can place the eye in a discrete location (using your [[Skills#Stealth|Stealth]] DC) to avoid detection. For 10 minutes, you can see what the eye sees as long as you're within 100 feet of the eye. The eye's signal can penetrate most barriers but is blocked by lead of any thickness, as well as denser materials. The eye's signal is visual only."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

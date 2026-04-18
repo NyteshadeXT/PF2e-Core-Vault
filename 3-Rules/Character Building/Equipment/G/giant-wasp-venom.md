@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "giant-wasp-venom"
 aliases: "Giant Wasp Venom"
 source: "Pathfinder Core Rulebook"
-pg: ""
+pg: "552"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Giant wasp venom interferes with a victim's movement.  * * *  **Activate** `pf2:2` Interact (Injury)  **Saving Throw** DC 25 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 2d6 poison damage and [[Conditions/Clumsy|Clumsy 1]] (1 round)  **Stage 2** 3d6 poison damage and [[Conditions/Clumsy|Clumsy 2]] (1 round)  **Stage 3** 4d6 poison damage and clumsy 2 (1 round)"
+activate: "`pf2:2` [[Interact]] ([[Injury]])"
+description: "Giant wasp venom interferes with a victim's movement.\n\n**Saving Throw** DC 25 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 2d6` poison damage and [[Clumsy|Clumsy 1]] (1 round)  **Stage 2** `dice: 3d6` poison damage and [[Clumsy|Clumsy 2]] (1 round)  **Stage 3** `dice: 4d6` poison damage and [[Clumsy|Clumsy 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

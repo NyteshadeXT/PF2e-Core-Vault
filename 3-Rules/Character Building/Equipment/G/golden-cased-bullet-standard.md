@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "golden-branding-iron-(greater)"
-aliases: "Golden Branding Iron (Greater)"
+name: "golden-cased-bullet-standard"
+aliases: "Golden-Cased Bullet (Standard)"
 source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "talisman"
-trait04: "uncommon"
+trait03: ""
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 9
+level: 4
 weight: 
-value: "120"
+value: "20"
 subvalue: "gp"
 invest:
-usage: "affixed to a two handed firearm or crossbow"
+usage: "other"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You hit a target with a ranged Strike with the affixed weapon  **Requirements** You're an expert with the affixed weapon.  * * *  This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.  You harmlessly place your unique magical sigil, which is about 1 square inch in size, anywhere on the target creature, as long as the location is visible to you. The mark is only visible to you and up to 6 of your allies. The mark can be scrubbed or scraped off with 5 minutes of work. It fades naturally over the course of a year."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The magic-infused golden cased bullet."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Activating the effect allows it to curve just a bit in flight once the bullet has been fired, allowing you to ignore the bonus to AC granted to a target in lesser cover."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

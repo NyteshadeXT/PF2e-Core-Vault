@@ -22,37 +22,38 @@ level: 10
 weight: 1
 value: "750"
 subvalue: "gp"
+group: "Flail"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Three dried tentacles from a giant squid studded with pufferfish spines have been twisted together to form this robust _+1 [[Equipment/Wounding|Wounding]] whip_. With a clever flick of the wrist, they can be unfurled into a deadly arc of poisonous barbs.  * * *  **Activate—Poison Barrage** `pf2:2` (manipulate)  **Frequency** once per hour  **Effect** You lash out with the whip's three tentacles in a 15-foot cone. Each creature inside the cone must attempt a DC 27 Fortitude check save or take 4d6 poison damage. On a critical failure, the creature also takes 1d6 persistent poison damage.  * * *  **Craft Requirements** The initial raw materials must include three tentacles from a giant squid."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Three dried tentacles from a giant squid studded with pufferfish spines have been twisted together to form this robust _[[Weapon Potency (+1)|+1]] [[Wounding]] [[whip]]_. With a clever flick of the wrist, they can be unfurled into a deadly arc of poisonous barbs."
+powerTitle1: "Poison Barrage"
+actionEconomy1: "`pf2:2`"
+type1: "([[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You lash out with the whip's three tentacles in a 15-foot cone. Each creature inside the cone must attempt a DC 27 Fortitude check save or take `dice: 4d6` poison damage. On a critical failure, the creature also takes `dice: 1d6` persistent poison damage."
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The initial raw materials must include three tentacles from a giant squid."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: slashing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Marital
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Whip"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

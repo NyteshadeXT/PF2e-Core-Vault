@@ -4,35 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "gliding-membranes-(greater)"
-aliases: "Gliding Membranes (Greater)"
-source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
-trait01: "graft"
-trait02: "invested"
-trait03: "magical"
-trait04: "common"
+name: "golden-branding-iron-(greater)"
+aliases: "Golden Branding Iron (Greater)"
+source: "Pathfinder #179: Cradle of Quartz"
+pg: "76"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "magical"
+trait03: "talisman"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: L
-value: "340"
+level: 9
+weight: 
+value: "120"
 subvalue: "gp"
 invest:
-usage: "implanted"
+usage: "affixed to a two handed firearm or crossbow"
 license: "ORC"
 identify:
-description: "Membranes that stretch between your arms and torso help you convert a fall into a glide. Treat falls as 50 feet shorter. Even if you take fall damage, you can land on your feet by succeeding at a DC 15 Acrobatics check check."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+requirement1: "You're an expert with the affixed weapon."
+trigger1: "You hit a target with a ranged Strike with the affixed weapon"
+mechanics1: "When you activate a golden branding iron, you mark the target with your magical sigil.  You harmlessly place your unique magical sigil, which is about 1 square inch in size, anywhere on the target creature, as long as the location is visible to you. The mark is only visible to you and up to 6 of your allies. The mark can be scrubbed or scraped off with 5 minutes of work. It fades naturally over the course of a year."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

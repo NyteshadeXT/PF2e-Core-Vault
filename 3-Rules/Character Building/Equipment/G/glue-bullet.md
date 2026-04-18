@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "glue-bullet"
 aliases: "Glue Bullet"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "170"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** round  **Activate** `pf2:1` (manipulate)  * * *  These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a -10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it [[Actions/escape dc=18|escape dc=18]]{Escapes} against a DC of 18. On a critical hit, the target is also [[Conditions/Immobilized|Immobilized]] until it Escapes."
+activate: "`pf2:1` ([[manipulate]])"
+description: "These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a -10-foot circumstance penalty to its Speeds for 2d4 rounds, or until it [[Escape|Escapes]] against a DC of 18. On a critical hit, the target is also [[Immobilized]] until it Escapes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,7 +46,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "round"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

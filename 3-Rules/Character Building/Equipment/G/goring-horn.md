@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "goring-horn"
 aliases: "Goring Horn"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "98"
 rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "A beast's horn or horns have been grafted onto your skull. You gain a horn unarmed attack that deals 1d8 piercing damage. This horn is in the brawling group and has the forceful and shove traits."
+description: "A beast's horn or horns have been grafted onto your skull. You gain a horn unarmed attack that deals `dice: 1d8` piercing damage. This horn is in the brawling group and has the [[forceful]] and [[3-Rules/Trait Reference/S/shove|shove]] traits."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

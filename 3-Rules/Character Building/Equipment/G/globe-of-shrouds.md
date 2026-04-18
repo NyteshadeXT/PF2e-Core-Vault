@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "globe-of-shrouds"
 aliases: "Globe of Shrouds"
 source: "Pathfinder Rage of Elements"
-pg: ""
+pg: "123"
 rarity: ""
 trait01: "censer"
 trait02: "fire"
 trait03: "magical"
 trait04: "revelation"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/globe-of-shrouds.png
 level: 8
 weight: L
 value: "500"
@@ -26,13 +26,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The body of this censer is made of transparent crystal banded with dark iron. This globe hangs from a sturdy chain attached to a simple steel rod with a smooth grip.  * * *  **Activate—Light Incense** `pf2:2` (aura, manipulate)  **Frequency** once per day  **Cost** incense worth at least 5 gp  **Effect** As you light the incense, barely visible smoke issues from the censer in a hazy 20-foot emanation. Creatures that are in the haze or later enter it are wreathed in wisps of smoke; these wisps last while the creature is in the smoke's aura and until the start of its next turn if it leaves the haze. An ally in the aura is [[Conditions/Concealed|Concealed]] and gains a +2 status bonus to Stealth checks. Any enemy in the aura that is or becomes [[Conditions/Invisible|Invisible]] appears as a translucent shape to you and your allies—it's no longer [[Conditions/Hidden|Hidden]], but it remains concealed."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The body of this censer is made of transparent crystal banded with dark iron. This globe hangs from a sturdy chain attached to a simple steel rod with a smooth grip."
+powerTitle1: "Light Incense"
+actionEconomy1: "`pf2:2`"
+type1: "([[aura]], [[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+requirement1: "incense worth at least 5 gp"
+mechanics1: "As you light the incense, barely visible smoke issues from the censer in a hazy 20-foot emanation. Creatures that are in the haze or later enter it are wreathed in wisps of smoke; these wisps last while the creature is in the smoke's aura and until the start of its next turn if it leaves the haze. An ally in the aura is [[Concealed]] and gains a +2 status bonus to [[Skills#Stealth|Stealth]] checks. Any enemy in the aura that is or becomes [[Invisible]] appears as a translucent shape to you and your allies—it's no longer [[Hidden]], but it remains concealed."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

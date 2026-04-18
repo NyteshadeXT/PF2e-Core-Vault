@@ -154,7 +154,9 @@ The first day of the Champion's Games begins with the Free Dinner, a sumptuous o
 After the Free Dinner, the gladiators are escorted to a huge underground cave below the arena. This is the Coenoby (pronounced see-no-bie), and it is home for the gladiators until their elimination from the competition or the end of the Games. During the time the gladiators are confined to the Coenoby, they are allowed meetings with their managers every other day. Any team not responding to a fight's roll call or found guilty of violating any rules of the tournament is immediately disqualified and expelled from the Coenoby by Raknian’s elite guards.
 
 ### The Arena Grounds
-‘The [[Bloodstone Arena]] stands in the northern part of the [[Seekers Quarter]] Ardentia City. During his time as director, Loris Raknian has purchased many of the buildings surrounding the arena, and has seen to the renovation of the ancient structure's watchtowers, creating an effective cordon around the arena itself, Raknian built a large barracks for his guards into a section of the arena terraces and has chosen a nearby building as his personal residence, expanding it and connecting it to the arena's main tribune (see the Arena Grounds map).
+![[loris-raknian.png|hs-med left]]
+
+The [[Bloodstone Arena]] stands in the northern part of the [[Seekers Quarter]] Ardentia City. During his time as director, Loris Raknian has purchased many of the buildings surrounding the arena, and has seen to the renovation of the ancient structure's watchtowers, creating an effective cordon around the arena itself, Raknian built a large barracks for his guards into a section of the arena terraces and has chosen a nearby building as his personal residence, expanding it and connecting it to the arena's main tribune (see the Arena Grounds map).
 
 The arena can seat 18,000 spectators if they squeeze, but the Champion's Games usually draws (still respectable) crowds of about 10,000. Seating occurs in 12 banks of 1,500 seats.  All of the seats offer splendid views of the field. During the Champions Games, there are three types of seats for sale. The majority of the seats are high in the tiers and sell for 1 sp per day. The lower seats closest to the action sell for 1 gp a day. The 500 most expensive seats are situated in the section nearest Raknian’s palace. These seats are cushioned, shaded and well-staffed by vendors; they sell for 50 gp a day.
  
@@ -227,6 +229,8 @@ Raknian’s 30 personal guards, the cream of his forces, reside in the Bodyguard
 
 While these bodyguards are loyal, they do not share Raknian’s cruelty, nor do they know the full story behind his personal escapades. The same does not hold true for Captain Okoral. Okoral is a middle-aged and quite skilled assassin with a powerfal yet lithe figure. He is tanned, clean-shaven and sports a thick crew cut, and looks younger than his age. He is rarely seen with Raknian in public, but has periodic meetings with him to discuss questions of security and intelligence. When Raknian needs something shady handled, and he can't trust the matter to outside agents (such as the mind flayer [[Zyrxog]]), he turns to Okoral.
 
+![[captain-okoral.png|hm-tl left]]
+
 ```encounter
 name: Captain Okoral
 party: Age of Worms
@@ -235,7 +239,7 @@ creatures:
 ```
 
 ```encounter
-name: Captain Okoral
+name: Royal Guard
 party: Age of Worms
 creatures:
   - 1: Hagegraf Royal Guard, Bodyguard
@@ -914,7 +918,7 @@ Bozal Zahol uses this large chamber as a “barracks” for the undead he's crea
 Currently, this chamber contains a single mohrg and four spawn of Kyuss. The undead wait patiently for commands, but are intelligent enough to recognize intruders for what they are and attack at once. One of the spawn of Kyuss breaks away from combat to shamble north to warn Bozal while the remaining undead do their best to ruin the PCs. 
 
 #### 28. Altar Room
-![[Bozal Zahol.png|right htall]]
+![[altar room.png|left htall]]
 
 > [!note]+ Read Aloud
 > Two braziers in the northeast and southeast corners light this rectangular room. A simple altar of stone sits in the middle of the east wall, facing a large set of stone double doors to the west. On the altar is a scroll, which slows with an unnatural green light. A writhing green beam of light emanates out of these scrolls to strike the doors to the west, bathing them in the same green glow.
@@ -945,6 +949,7 @@ Bozal then moves toward the sound of battle, at which point he begins summoning 
 > A central pillar of green marble carved in the likeness of a segmented worm supports the ceiling of this square room. The room is dimly lit by a single incense burner that sheds a sweet, fruity aroma. The room is lined with woolen tapestries depicting coiling green worms, and contains a bed, an armchair, and a cupboard. Near the bed is a small nightstand and an ornate, elongated trunk.
 
 ![[aow-trunk.png|left hm-sm]]
+![[bozal-zahol-room.png|right hm-sm]]
 
 The cupboard contains the personal effects and clothing of a traveling cleric, including an ebony walking stick, a dark traveling outfit, and a rucksack. On the bedside table a hooded lantern, a jug of red wine, a clay cup, and a pair of round goggles with smoky quartz for lenses. The trunk is locked ([[Skills#Thievery|Thievery]] DC 25) and trapped.
 
@@ -1006,273 +1011,101 @@ The alkilith has been used by Zahol to “domesticate” the ochre jellies in ar
 
 > [!danger]+ Trap
 > A symbol of fear has been incorporated into the mosaic on the wall. Zahol incorporated a password that the alkilith uses to avoid being subjected to the symbol.
+> 
+> ![[symbol-of-fear|Symbol of Fear]]
 
+> [!tip]+ Treasure
+> The pinpoints of green light in the demigod's eye sockets on the mosaic have been rendered with two emeralds worth 100 gp each. The spidersilk curtain is worth 25 gp.
+> 
+> - [ ] gp::225
 
+#### 31. Lavatory
+> [!note]+ Read Aloud
+> This small room contains a latrine and a porcelain washbasin. A silver pitcher lies on the floor near the washbasin.
 
-Symbol of Fear: CR 7; spell; spell trigger; no reset; spell effect (symbol of fear, 11th-level cleric, DC 20 Will negates); Search DC 31; Disable Device DC 31.
+The latrine drain drops directly over a collector room of the Ardentia City sewers below (area 22).
 
-Treasure: The pinpoints of green light in the demigod's eye sockets on the mosaic have been rendered with two emeralds worth 1,000 gp each. The spidersilk curtain is worth 250 gp.
+> [!tip]+ Treasure
+> The silver pitcher is of elven manufacture and is worth 30 gp.
+> 
+> - [ ] gp::3
 
-31. Lavatory
+#### 32. Ulgurstasta Chamber
+> [!aside|no-icon]
+> #### The Apostolic Scrolls
+>  This minor artifact of the cult of Kyuss consists of a 5-foot-long sheet of vellum sewn to a pair of darkwood rollers. Several copies of the scrolls are thought to exist, and all have the same purpose—providing the user with the ability to contact one of the “Apostles of Kyuss” so it can perform a mass sacrifice in honor of its master. The scrolls are written in Abyssal and contain a long and complex litany filled with horrific imagery and descriptions. Performing this ritual takes 24 hours, but it can be split into three 8-hour shifts over the course of three days.
+>  
+>  Once activated, the scrolls transport an ulgurstasta from the Wormcrawl Fissure to a single point within 100 feet of the scrolls as directed by the reader. The scrolls create a special containment sphere to protect the ulgurstasta during its growth period. The sphere is a 20-foot-radius barrier of force similar to a [[Wall of Force]]. The scrolls themselves are protected by powerful stasis magic, and the two are connected by a beam of writhing green light. Each day that passes, the ulgurstasta gains `dice: 1d8` Hit Points, up to a maximum of 240 Hit Points. This increase is permanent. During this stage, anyone who touches the scrolls can feel the ulgurstasta’s malign intelligence and can communicate with it telepathically. The ulgurstasta is ready to perform the final portion of the ritual once it reaches maximum Hit Points.
+>  
+>  The containment sphere is invisible and feels like a cold, rubbery barrier. The reader of the scrolls who created the sphere can touch it safely, but any other creature who touches it takes `dice: 8d10` void damage (DC 32 basic Fortitude save).
+>  
+>  The reader of the Apostolic Scrolls can cause the sphere to vanish at any time as a single action with the concentrate trait. The sphere can also be destroyed in one of the following ways:
+>  - The sphere is a magical effect that can be ended with a successful [[Counteract]] check (DC 32) using spells such as [[Dispel Magic]], [[Cleanse Affliction]], or similar magic capable of counteracting powerful divine or necromantic effects. Particularly powerful magic such as [[Wish]] or [[Miracle]] automatically succeeds.
+>  - A creature trained in Religion can attempt to disrupt the sphere by invoking opposing divine power as a 3-action activity. This requires a DC 32 [[Skills#Religion|Religion]] check, followed by a successful [[counteract]] check (DC 32) using divine magic. Failure on either check causes a backlash of void energy, dealing `dice: 6d6` void damage and inflicting [[Drained|drained 1]] (or [[Drained|drained 2]] on a critical failure). Success weakens the sphere, allowing it to be counteracted normally for the next 1d4 rounds.
+>  - If the original reader of the scrolls is slain, the ulgurstasta ceases to gain Hit Points and instead loses `dice: 1d8` Hit Points per day until it reaches 120 Hit Points. At that point, the sphere vanishes and the ulgurstasta is released into the surrounding area—typically enraged and ravenous.
+>  - If the reader of the scrolls releases the ulgurstasta once it has reached maximum Hit Points, it becomes suffused with a writhing green aura and gains the following benefits permanently: a +1 status bonus to attack rolls and AC, a +10-foot status bonus to Speed, and its Strikes deal an additional 1d6 void damage. In addition, any humanoid creature it kills or swallows rises as a Spawn of Kyuss under its control instead of a skeleton.
+> 
+> Each copy of the Apostolic Scrolls functions only once. When the containment sphere is destroyed or dismissed and the ulgurstasta is released, the scrolls lose their magic. The lore within remains, however, and consulting the scrolls grants a +2 item bonus to [[Skills#Religion|Religion]] checks to [[Recall Knowledge]] about Kyuss and his cult.
 
-This small room contains a latrine and a porcelain washbasin. A silver pitcher lies on the floor near the washbasin.
+![[apostle-of-kyuss.png|left hm-sm]]
 
-Alarge portal of stone, covered with
+> [!note]+ Read Aloud
+> A huge, vaulted chamber lies ahead, dimly illuminated by a green light. There a colossal, disgusting behemoth similar to a gigantic, yellowish grub lies on a heap of rubble bones, and rotting foulness. The creature seems immersed in a magic slumber, and its horrid body seems to pulsate with an abominable, ever-increasing power.
 
-depiction of
+Use the description above if the PCs get a glimpse of the chamber from area 26. If the PCs approach the chamber from area 28, read the following to describe the sealed portal outside the chamber.
 
-corp: th
+![[ulgurstasta-chamber.png|right hm-sm]]
 
-cabre rible skull
+> [!note]+ Read Aloud
+> A large portal of stone, covered with the obscene depiction of an orgy of dead, worm-ridden corpses blocks the passage. In the middle of the macabre mass, a carving of the horrible skull of Kyuss utters a silent scream of triumph.
 
-of Kyuss utters a silent
+Note that the portal is within the containment sphere that protects the ulgurstasta, and cannot touched by anyone but Bozal Zahol (see “The Apostolic Scrolls” sidebar).
 
-The latrine drain drops directly over
+This containment sphere created by the Apostolic Scrolls is a shell with diameter of 20 feet that protects the monster as its power increases. The shell is impervious to all attacks and most magic (including dimensional and planar effects), and exists both in the Material Plane and Ethereal Plane. 
 
-a collector room of the Free below (area 22),
+The ulgurstasta within the sphere has already achieved its full growth—all that it waits for now is the moment when Bozal releases it into the arena above. If the PCs release it earlier (see the sidebar on how this task can be accomplished), it roars in rage and immediately attacks anyone nearby. 
 
-Treasure: The silver pitcher is of elven manufacture and is worth 30 gp.
+```encounter
+name: Bloodstone Arena - Ulgurstasta Chamber
+party: Age of Worms
+creatures:
+  - 1: Apostle of Kyuss
+```
 
-ty sewers
+## Tactics
+If released, the ulgurstasta becomes enraged. It cannot escape into area 28, but attacks anyone it can reach from area 32. If it can't reach anyone, it surges upward through the stone between the top of this chamber and the battlefield of the arena above. The roof above has been weakened by Bozal, and it's only a DC 24 Strength check to burst through into the arena above; with the ulgurstasta’s Strength, it'll escape into the outside world soon enough. If it does, it immediately runs amok in the arena and into Ardentia City beyond if not stopped.
 
-32. Ulgurstasta Chamber
+## Part IV: Blood of a Champion
+If the PCs don't defeat Bozal Zahol, Event 7 quickly transforms into a scene of horror. One round after the final battle with Auric begins, Bozal releases the ulgurstasta, which immediately begins hammering on the roof of area 32. Each round, it attempts to break through with a DC 30 [[Skills#Athletics|Athletics]] check. On a failure, the ground above bulges and cracks ominously. On a success, the massive undead worm bursts up into the arena.
 
-A huge, vaulted chamber lies ahead, dimly illuminated by a green light. There a colo: sal, disgusting behemoth similar to a gigan-
+The crowd falls silent for a stunned moment, and in this silence Raknian steps forward and shouts, _“Lo! The Apostle of Kyuss is among us! There! There are the champions you seek!”_ As the ulgurstasta roars and Raknian points at the gladiators below, the audience erupts into a riot of panic.
 
-tic, yellowish grub lies on a heap of rubble
+The Apostle of Kyuss’ goal in this battle is to swallow Auric (or any other character with significant martial prowess, at the GM’s discretion) and transform him into a Spawn of Kyuss. Once it does so, the final conditions of the ritual Raknian and Bozal performed fall into place. Three things happen in rapid succession at this point:
+- The ulgurstasta is immediately restored to its maximum Hit Points and gains temporary Hit Points equal to 40 as void energy floods its body.
+- The spirits of the countless dead who have perished in the Bloodstone Arena erupt outward in a wailing storm of necromantic fury. All living creatures in the arena must attempt a DC 32 Fortitude save. Any creature reduced to 0 Hit Points while drained by this effect dies and rises `dice: 1d4` rounds later as a wight under the GM’s control. The repercussions of thousands of wights in Ardentia City are grim indeed.
+	- **Critical Success** The creature is unaffected.
+	- **Success** The creature becomes [[drained|drained 1]].
+	- **Failure** The creature becomes [[drained|drained 2]].
+	- **Critical Failure** The creature becomes [[drained|drained 3]].
+- Raknian himself cries out in triumphant pain as Kyuss, pleased with the display of power and faith, grants his wish for immortality and transforms Raknian into a [[3-Rules/Bestiaries/Monster Core/G/Graveknight|Graveknight]]. His first action upon becoming a Graveknight is to summon a [[3-Rules/Bestiaries/Monster Core/N/Nightmare|Nightmare]], mount it, and then flee into the Etheral Plane. In this event, Raknian travels north to the Wormcrawl Fissure to join Kyuss’ undead legions there—he may appear later in the campaign to torment the PCs further, but for now, the director of the Bloodstone Arena is out of the picture.
 
-bones, and rotting foulness. The creature
+Ideally the PCs can kill the ulgurstasta before this tragic event takes place. If the PCs manage to defeat the ulgurstasta, Raknian is dumbfounded for a few moments but quickly recovers. He flees back to his palace and then tries to flee the city, disgraced and on the run. You might wish to have him surface later in the campaign, perhaps as a fugitive hiding in the city of [[Alhaster]] in “The Prince of Redhand.”
 
-seems immersed in a magic slumber, and its horrid body seems to pulsate with ar
+If the PCs defeat Bozal but leave the ulgurstasta in its sphere of force, Raknian learns of the unfortunate turn of events himself the night before the final battle when he tries to contact Bozal to make sure everything is in place to proceed. In this event, Raknian  releases the ulgurstasta himself during the final games, leaving the ceremonies themselves to Talabir to perform. 
 
-abominable, ever-increasing powe
+The best solution to this adventure is for the PCs to destroy both Bozal and the ulgurstasta before the final games. If the PCs manage this, Raknian morosely carries through with the rest of the games, but his actions are noticeably subdued and depressed. The evening after the final games, he retreats to his personal chambers, gathers his gear, and slips out of the city to start a new life elsewhere.
 
-Use the description above if the PCs get a glimpse of the chamber from area 26, If the PCs approach the cham ber from area 28, read the following to describe the sealed portal outside the chamber.
-
-Not
-
-at the portal is within the contain ment sphere that protects the ulgurstasta, and cannot touched by anyone but Bozal Zahol (see “The Apostolic Scrolls” sidebar This containment sphere created by the
-
-Apostolic Scrolls is a shell with
-
-diameter of 20 feet that protects the monster as its power increases. The shell is impervious to all attacks and most magic (including dimen- sional and planar effects), and exists both in the Material Plane and Ethereal Plane
-
-The ulgurstasta within the sphere has
-
-that it
-
-already achieved its full growth— waits for now is the moment when Bozag releases it into the arena above. If the PCs
-
-release it earlier (see the sidebar on how this
-
-task can be accomplished), it roars in rage
-
-and immediately attacks anyone nearby
-
-Άροστιε or Kyuss R13 Enhanced ulgurstasta
-
-CE Gargantuan undead
-
-Fiend Folio 180
-
-Init +6; Senses darkvision 60 f.
-
-sten +23, Spot +23
-
-Aura 40-β. (tendril Language Common (c AC 23, touch 14, flat-footed 20
-
-hp 204 (17 HD); DR 10/magic piercing Immune acid, cold, undead traits
-
-SR 21
-
-Fort +7, Ref +8, Will +13
-
-Spd 70 ft
-
-Melee 2 bites +16 (346.16,
-
-Space 20 β.; Reach 20 ft
-
-Base Atk +8; Grp +29
-
-Atk Options Cleave, Great Cleave, Power
-
-not speak)
-
-Attack, improved grab (bite), swallow whole
-
-Special Atk breath weapon, necromantic acid, spawn of Kyuss
-
-Abilities Str 32, Dex Wis 16, Cha 19
-
-15, Con —, Int 18,
-
-Feats Cleave, Combat Reflexes, Great Cleave,
-
-Fortitude, Improved Initiative, Power Attack Skills intimidate +24, Knowledge (arcana)
-
-+24, Knowledge (history) +24, Knowledge
-
-religion) +24, Knowledge (the planes) +24, Listen +23, Search + Breath Weapon (Su) 1/day; 60-foot cone of
-
-'ecromantic acid; 306 Constitution drain (or
-
-1d6 Constitution damage with a DC 18 Reflex
-
-save). Creatures killed by this attack animate
-
-next round as spawn of Kyuss (if
-
-humanoid) or s
-
-cletons under the ulgurstastas
-
-control, Dormant undead in the ulgurstasta’s
-
-NOVEMBER 2005 DUNGEON 59
-
-THE CHAMPIO
-
-gut are vomited forth and animate as well at this time (this ulgurstasta has 2 spawn of Kyuss and 6 skeletons created before its unholy enhancement in its gut at this time). For 24 hours after it uses its breath weapon, no creatures swallowed by the ulgurstasta take damage from necromantic acid. ‘Necromantic Acid (Su): A swallowed victim takes 148 points of Constitution drain each round, and animates as a spawn of Kyuss (if humanoid) or skeleton upon death. Undead created in this manner remain dormant until the ulgurstasta vomits them up. Spawn of Kyuss (Su): As a full-round action, an ulgurstasta can vomit dormant undead in its gut. For 146 rounds after being regurgitated, these undead are covered with necromantic acid and deal 1 point of Constitution drain with each successful attack in addition to their normal damage. Swallow Whole (Ex): An ulgurstasta can swallow ἃ single creature that is at least one size category smaller than itself by making a successful grapple check against a creature it has already grappled, Once inside, the victim is bathed in necromantic acid (see above). A successful grapple check allows the swallowed creature to climb out of the stomach and return to the creature's maw, where another successful grapple check is needed to escape. Alternately, a creature can try to cut its way out with a light slashing weapon. Dealing a total of at least 25 points of damage to the stomach (AC 19) in this way creates an opening large enough to permit escape. Once a single swallowed creature exits, muscular action closes the hole. An ulgurstasta’s gut can hold 2 Huge, 8 Large, 32 Medium, or 128 Small or smaller foes. Tendrils (Ex} An angry ulgurstasta extrudes a whipping storm of millions of thin tendrils to a range of 40 feet. This storm of tendrils renders the ulgurstasta immune to nonmagical ranged weapon attacks and deals 1412 slashing damage each round to any creature within 40 feet. Creatures in this area other than the ulgurstasta take a —2 penalty on attack rolls.
-
-Tactics: If released, the ulgurstasta becomes enraged. It cannot escape into area 28, but attacks anyone it can reach from area 32. If it can't reach anyone, it surges upward through the stone between the top of this chamber and the battle- field of the arena above. The roof above
-
-The Apostolic Scrolls ‘This minor artifact of the cult of Kyuss consists of a 5-foot-long sheet of vellum sewn to a pair of darkwood rollers. Several copies of the scrolls are thought to exist, and all have the same ‘purpose—providing the user with the ability to contact one of the “Apostles of Kyuss”so it can perform a mass sacrifice in honor of its master. The scrolls are written in Abyssal and contain a long and complex litany filled with horrific imagery and descriptions. Performing this ritual takes 24 hours, but it can be split into three 8-hour shifts over the course of three days.
-
-‘Once activated, the scrolls tra ulgurstasta from the Wormcrawl Fissure to a single point within 100 feet of the scrolls as directed by the reader. The scrolls create a ‘special containment sphere to protect the ulgurstasta during its growth period, The sphere is a 20-foot radius sphere of force similar to a wall of force. The scrolls themselves are protected by temporal stasis, and the two are connected by a beam of writhing green light. Each day that passes, the ulgurstasta gains 168 hit points, up to the maximum allowed by its hit dice (204 hit points for a 17-Hit-Die specimen). This hit point gain is permanent. During this stage, anyone who touches the scrolls can “feel” the ulgurstasta's evil mind and can communicate with it telepathically. The ulgurstasta is ready to perform the final portion of the ritual once it reaches maximum hit points
-
-The containment sphere is invisible, and feels like a cold, transparent barrier of rubbery material. The reader of the scrolls who created the sphere can touch it safely, but any other creature who touches it takes 1246 points of damage from negative energy (DC 20 Fortitude save for half damage).
-
-The reader of the Apostolic Scrolls can cause the sphere to vanish at any time as a standard action. The sphere can also be destroyed in one of the following ways.
-
-The sphere can be destroyed with a disintegrate, Mordenkainen's disjunction, rod of cancellation, miracle, wish, or a sphere of annihilation
-
-The sphere can be destroyed by successful turn undead check. The cleric must make a DC 20 turn undead check, followed immediately by a DC 20 caster level check, Failure on either roll causes a backlash of negative energy that inflicts 1d4 negative levels on the character. Success on both rolls weakens the sphere enough that a successful dispel magic Cast at it in the next ıd4 rounds against caster level 20th causes it to vanish.
-
-If the original reader of the scrolls is slain, the ulgurstasta ceases to gain hit points and instead loses 148 hit points per day until it reaches average hit points for a specimen of its size. At this point, the sphere vanishes and the ulgurstasta is released into the environs, likely in an extraordinarily foul mood.
-
-Ifthe reader of the scrolls releases the ulgurstasta once it has reached maximum hit points, it shimmers with a green light and permanently gains the benefits of haste, shield of faith, and bull's strength (caster level 20th). Finally, an ulgurstasta enhanced in this manner now creates spawn of Kyuss rather than skeletons of any humanoid creature it swallows.
-
-Each copy of the Apostolic Scrolls works only once. When the sphere of containment is taken down and the ulgurstasta within is released, the scrolls become nonmagi- cal, The lore within remains, however, and if consulted it grants a +4 bonus on any Knowledge (religion) checks made about Kyuss and his cult.
-
-Strong necromancy [evil]; CL 20th; Weight 1 Ib.
-
-has been weakened by Bozal, and it's only a DC 24 Strength check to burst through into the arena above; with the ulgurstasta’s +11 Strength modifier, it'll escape into the outside world soon enough. If it does, it immediately runs amok in the arena and into the Free City beyond if not stopped.
-
-If the PCs don't defeat Bozal Zahol, Event 7 quickly transforms into a scene of hor- ror. One round after the final battle with
-
-Auric begins, Bozal releases the ulgu which immediately begins hammering on the roof of area 32. It makes a +11 Strength check once per round against DC 24 Failure indicates a large section of ground shakes and bulges upward ominously. Success indicates that the massive undead worm plows up into the arena. The crowd falls silent for a stunned moment, and in this silence Raknian steps up and shouts, “Lo! The Apostle of Kyuss is among us! ‘THERE! THERE ARE THE CHAMPIONS YOU SEEK!” As the ulgurstasta roars and
-
-Raknian points at the gladiators below, the audience erupts into a riot of panic.
-
-‘The Apostle of Kyuss’ goal in this battle is to swallow Auric (or any other charac- ter with at least one level in fighter) and transform him into a spawn of Kyuss. Once it does so, the final conditions of the ritual Raknian and Bozal performed fall into place. Three things happen in rapid succession at this point:
-
-+ The ulgurstasta is immediately healed back to maximum hit points.
-
-+ The spirits of the myriad dead that have died in the Free City Arena rise up, a wail- ing, writhing blanket of rage and nec- romantic ruin, All creatures still within the arena immediately suffer 144 nega- tive levels before the spirits fade away. Creatures drained to zero levels by this burst of necromantic power die, only to rise as wights 1d4 rounds later. The repercussions of thousands of wights in the Free City are grim indeed.
-
-Raknian himself cries out in triumphant pain as Kyuss, pleased with the display of power and faith, grants his wish for immortality and transforms Raknian into a death knight. This undead tem- plate is detailed on page 207 of the Mon- ster Manual IT, but exact stats for the new Raknian are likely unecessary at this point. His first action upon becoming a death knight is to summon a nightmare, mount it, and then flee into the Etheral Plane. In this event, Raknian travels north to the Wormcrawl Fissure to join Kyuss’ undead legions there—he may appear later in the campaign to torment the PCs further, but for now, the director of the Free City Arena is out of the picture.
-
-Ideally the PCs can kill the ulgurstasta before this tragic event takes place. If the PCs manage to defeat the ulgurstasta, Rak- nian is dumbfounded for a few moments but quickly recovers. He flees back to his palace and then tries to flee the city, dis- graced and on the run. You might wish to have him surface later in the campaign, perhaps as a fugitive hiding in the city of Alhaster in “The Prince of Redhand.”
-
-If the PCs defeat Bozal but leave the ulgurstasta in its sphere of force, Raknian learns of the unfortunate turn of events
-
-himself the night before the final battle when he tries to contact Bozal to make sure everything is in place to proceed. In this event, Raknian himself procures a rod of cancellation from contacts in the black market and releases the ulgurstasta himself during the final games, leaving the ceremo- nies themselves to Talabir to perform. ‘The best solution to this adventure is for the PCs to destroy both Bozal and the ulgurstasta before the final games. If the PCs manage this, Raknian morosely car- ries through with the rest of the games, but his actions are noticeably subdued and depressed. The evening after the final games, he retreats to his personal cham- bers, gathers his gear, and slips out of the Free City to start a new life elsewhere.
-
-CONCLUDING
-
-THE ADVENTURE
-
+## Concluding the Adventure
 As long as the PCs prevent the tragedy of the mass sacrifice from occurring, they still have a chance to win the final prize money. Raknian is likely not the one to hand out the award, but Talabir Welik is only too happy to honor the PCs with their rightful prize.
 
 If the PCs discovered Lahaka’s zombie in area 29, Ekaym is devastated. Still, he honors his agreement and allows the PCs to take the full award for their success in the Campion’s Games. If the zombie is still animated, he destroys it and then returns with the body south to the city of Cauldron to see about having his beloved sister brought back to life (or at the very least, buried in the Hall of Carvings in the village of Redgorge).
 
-Yet despite the PCs’ successes (or in addition to their failures) one last trag- edy waits to be discovered.
+Yet despite the PCs’ successes (or in addition to their failures) one last tragedy waits to be discovered.
 
-At some point during the Champion's Games, Raknian learns troubling news. It seems that a notable sage named Eli- gos has been asking around about Kyuss, the Apostolic Scrolls, and the Age of Woms. At Bozal’s urging, Raknian sends his cohort Okoral on an assassination mis- sion against the sage. Okoral takes along a couple of elite guards to help with the job, and has little trouble invading the sage’s home the night before the Final Battle and murders him in his sleep. Should the PCs return to Eligos’s house,
+At some point during the Champion's Games, Raknian learns troubling news. It seems that a notable sage named Eligos has been asking around about Kyuss, the Apostolic Scrolls, and the Age of Woms. At Bozal’s urging, Raknian sends his cohort Okoral on an assassination mission against the sage. Okoral takes along a couple of elite guards to help with the job, and has little trouble invading the sage’s home the night before the Final Battle and murders him in his sleep. Should the PCs return to Eligos’s house they find both Eligos and Pollard are quite dead—their killers are nowhere to be found. Okoral himself fades into the shadows once Raknian falls from prominence, and may hold a grudge against the PGs in the future.
 
-they find both Eligos and Pollard are quite dead—their killers are nowhere to be found. Okoral himself fades into the shadows once Raknian falls from promi- nence, and may hold a grudge against the PGs in the future.
+A search of the estate turns up one item of interest. With a DC 28 Search check, the party discovers a bundle of notes and observations that catalog what Eligos has learned of the Age of Worms. This bundle is kept in a small coffer on the shelf of Eligos's study and was simply overlooked by Okoral in his rush to do the job and get out. A note on the top of this bundle is addressed to Allustan, and reads, “My dear friend Allustan—What your adventurers have stumbled into sickens me to my soul, Every new leaf I turn reveals an even darker secret. Here are my notes. You must take them to our one-time master—although I fear that even he may be ill-equipped for what writhes in all of our futures. Until then...” The note is not finished.
 
-A search of the estate turns up one item of interest. With a DC 20 Search check, the party discovers a bundle of notes and observations that catalog what Eligos has learned of the Age of Worms. This bundle is kept in a small coffer on the shelf of Eligos's study and was simply overlooked by Okoral in his rush to do the job and get out. A note on the top of this bundle is addressed to Allustan, and reads, “My dear friend Allustan— What your adventurers have stumbled into sickens me to my soul, Every new leaf I turn reveals an even darker secret. Here are my notes. You must take them to our one-time master—although I fear that even he may be ill-equipped for what writhes in all of our futures. Until then...” The note is not finished.
-
-For now, the PCs should be able to rest easy. They've likely not only prevented a terrible tragedy from striking the heart of the Free City, but may have become Champions themselves, Certainly, the events at this year’s Champion's Games are on the tongues of everyone in the city. Give the PCs some time to bask in their newfound fame and glory. They may feel that they've come to a dead end in their investigations into the truth behind the Age of Worms, but this is not the case. If they don't find the package of notes Eligos prepared for Allustan, the PCs soon learn of another reason to return to Diamond Lake.
+For now, the PCs should be able to rest easy. They've likely not only prevented a terrible tragedy from striking the heart of Ardentia City, but may have become Champions themselves. Certainly, the events at this year’s Champion's Games are on the tongues of everyone in the city. Give the PCs some time to bask in their newfound fame and glory. They may feel that they've come to a dead end in their investigations into the truth behind the Age of Worms, but this is not the case. If they don't find the package of notes Eligos prepared for Allustan, the PCs soon learn of another reason to return to Diamond Lake.
 
 It seems that a dragon has come to town.
-
-APPENDIX: NEW MONSTER
-
-Froghemoth
-
-Huge Aberration (Aquatic)
-
-Hit Dice: 2048+120 (210 hp)
-
-Initiative: +5
-
-Speed: 20 ft., swim so ft.
-
-Armor Class: 21 (~2 size, +1 Dex, +12 natu- ral), touch 9, flat-footed 20
-
-Base Attack/Grapple: +15/+35
-
-Attack: Tentacle +25 melee (246912)
-
-"....’ᾱ..ΥἯΨωμ:-,.᾿ἔ
-
-SCALING THE ADVENTURE “The Fireplace Level” is designed for a group of four gth-level characters, but with a little work it can be adapted for tt ο, auth-level characters. Simply ad
-
-NPC character levels up ce as
-
-group deviates from Dont forget to modify the amount of treasure found in the adventure ap changes to the adventure include: parties: Remove one of the archers from Arcane Auriga, one of ete from Badlands and one of the mercenaries from Sap- phire Squad. Take away Pitch Blade's
-
-golems from Auric’s warband. Replace thealkilith demon with 16-Η0 bebilith and replace the enhanced ulgurstasta in area 32 with an ordinary ulgerstasta. 1oth—nth-level parties: Add an archer to Arcane Auriga, a halberdier to Bad- lands revenge, and a third barbarian to Pitch Blade. Advance Froghemoth by 6-8 Hit Dice (making it Gargantuan) and have on of Raknian's mages cast stoneskin on it before the fight begins. Replace the flesh golems in Auric’s War- band with stone golems. Replace the ochre jellies in area 21 with black pud- dings, and add two additional mohrgs to area 27. Advance the Alkilith demon by 4 Hit Dice. Make Bozal Zahol a half- fiend instead of a tiefling, and give the ulgurstasta the evolved undead template from Libris Mortis page 99.
-
-Full Attack: 4 tentacles +25 melee (ad6+12) and tongue +23 melee (1d8+6) and bite +23 melee (2d6+18/18-20)
-
-Space/Reach: 15 ft,/5 ft. (30 ft. with tongue)
-
-Special Attacks: Constrict 2d6+12 (tenta- cle) or 148+6 (tongue), improved grab, powerful bite, swallow whole
-
-Special Qualities: Amphibious, darkvi- sion 60 ft., partial electrical immunity, resist fire 30
-
-Saves: Fort +14, Ref +7, Will +17
-
-Abilities: Str 35, Dex 12, Con 23, Int 1, Wis 16, Cha 13
-
-Skills: Hide +7*, Jump +22*, Listen +5, Spot 417
-
-Feats: Alertness, Improved Initiative, lmproved Natural Attack (tentacle), Iron Will, Great Fortitude, Multiattack, Skill Focus (Hide)
-
-Environment: Temperate swamp
-
-Organization: Solitary or pair
-
-Challenge Rating: 13
-
-‘Treasure: None
-
-Alignment: Always neutral
-
-Advancement: 21-24 HD (Huge), 25-40 HD Gargantuan), 41-60 HD (Colossal)
-
-This monster is huge and weird. Vaguely frog- like in shape, it has four writhing tentacles in place of front legs. Its head is mostly mouth, and its mouth is mostly teeth. A retractable stalk protrudes from the front of its head, at the end of which stare three bulbous eyes. The ‘massive thing is a dark green save for its belly, which is pale. A powerful tongue tipped with barbs lolls wetly from its mouth.
-
-The dread froghemoth is a dangerous and powerful predator that has few natu- ral enemies. The presence of a froghe- moth in a swampland typically manifests in a marked decrease in any other large swamp-dwelling animals or monsters. The creature's croaking roar can be heard for miles.
-
-Froghemoths have not always plagued the swamps of the world. The first froghe- moth was encountered in a strange unnat- ural cavern deep in the Barrier Peaks by a group of adventurers, but news ofits feroc- ity spread quickly and attracted the atten- tions of all manner of collectors, hunters, and cultists from around the world. The discovery of several banks of huge, pre- served, yet still viable froghemoth eggs made a small group of adventuring mer- chants quite rich until they were murdered and their remaining supply of eggs were stolen by intolerant cultists of an obscure hopping deity of the swamps. This particu- lar sect of cultists made it their mission to introduce these eggs to numerous swamp- lands throughout the world. And unfortu- nately for the denizens of these swamps, the froghemoths are thriving Today, while still rare, stories of froghemoth sightings can be heard throughout the world.
-
-A froghemoth stands 18 feet tall and weighs 5 tons.
-
-Combat The froghemoth is a terror in battle, charging toward prey with great thun- derous bellows. It attacks with its tongue, tentacles, and bite, often splitting these attacks between different targets in a desperate gluttonous attempt to gather up as much food as it can. Stupid toa fault, a froghemoth rarely if ever breaks off combat to escape possible death.
-
-Improved Grab (Ex) To use this ability, the froghemoth must hit with its tentacle or tongue attack. It can then attempt to start a grapple as a free action without pro- voking an attack of opportunity. If it wins the grapple check, it establishes a hold and immediately inflicts constriction damage. Itcan attempt to swallow whole a grappled opponent in the following round.
-
-Powerful Bite (Ex): A froghemoth’s jaws are extraordinarily powerful. Even though its bite is a secondary attack, it applies 1- 1/2 times its Strength modifier to damage done with its bite. Its bite threatens a criti- cal hit on a natural roll of 18-20.
-
-‘Swallow Whole (Ex): A froghemoth can try to swallow a grabbed opponent of up to two size categories smaller by making a successful grapple check. Once inside, the victim takes 2d6+12 points of bludgeoning damage plus 1d8+4 points of acid damage per round. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the froghemoth's stomach (AC13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
-
-A Huge froghemoth’s stomach can hold 4 Medium, 8 Small, 16 Tiny, 32 Diminu- tive, or 64 Fine or smaller opponents.
-
-Partial Electrical Immunity (Ex): The froghemoth is partially immune to elec- trical damage. Each time it would nor- mally take damage from an electrical attack, it takes no damage but is instead slowed for 1 round.
-
-Skills: A froghemoth gains a +16 racial bonus on Jump checks. In swampy terrain it gains a 48 racial bonus on hide checks. 8#

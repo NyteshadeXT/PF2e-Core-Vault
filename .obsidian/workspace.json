@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/G/ghosthands-comet.md",
+                "file": "3-Rules/Character Building/Equipment/G/grail-of-twisted-desires.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ghosthands-comet"
-            }
-          },
-          {
-            "id": "e259082e58265936",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/Homebrew/andvaris-gift.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "andvaris-gift"
+              "title": "grail-of-twisted-desires"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Monster Hunter Varients/G/great-wroggi.md",
-                "mode": "preview",
+                "file": "zz-Templates/Markdown/Item Card Template.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "great-wroggi"
+              "title": "Item Card Template"
             }
           },
           {
@@ -69,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Homebrew/A/Alkilith.md",
-                "mode": "preview",
+                "file": "3-Rules/Bestiaries/Uniques/A/Apostle of Kyuss.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Alkilith"
+              "title": "Apostle of Kyuss"
             }
           },
           {
@@ -83,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/Campaign Planning.md",
-                "mode": "source",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Campaign Planning"
+              "title": "The Champions Belt"
             }
           },
           {
@@ -111,16 +97,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Hazards/Homebrew/H/hail-of-iron-spheres-hb.md",
+                "file": "1-GM Toolkit/DC Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hail-of-iron-spheres-hb"
+              "title": "DC Calculator"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 314.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -261,17 +246,7 @@
             }
           },
           {
-            "id": "8261f73bdade61ba",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "04d5b04037025e3d",
+            "id": "3037111778f5e453",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -281,20 +256,20 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "3f378eb14c9f2272",
+        "id": "bd79afe7040d83f5",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb2ecad326bcb3e",
+            "id": "b736d5b78a194d1d",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": null,
-                "creatureName": null
+                "creatureId": "ID_b8aaabdb993a",
+                "creatureName": "Apostle of Kyuss"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -329,53 +304,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2acc4486ba1a55e2",
+  "active": "f5590ead26f763b3",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/Homebrew/andvaris-gift.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/G/great-wroggi.md",
-    "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md",
-    "3-Rules/Hazards/Homebrew/H/hail-of-iron-spheres-hb.md",
+    "3-Rules/Character Building/Equipment/G/goz-mask-major.md",
+    "3-Rules/Character Building/Equipment/G/goz-mask-greater.md",
+    "3-Rules/Character Building/Equipment/G/goz-mask.md",
+    "3-Rules/Character Building/Equipment/G/gourd-home.md",
+    "3-Rules/Character Building/Equipment/G/gossips-eye.md",
+    "3-Rules/Character Building/Equipment/G/gossamer-sash.md",
+    "3-Rules/Character Building/Equipment/G/gorums-tear.md",
+    "3-Rules/Character Building/Equipment/G/goring-horn.md",
+    "3-Rules/Character Building/Equipment/G/gorgons-breath.md",
+    "3-Rules/Character Building/Equipment/G/gorget-of-the-primal-roar.md",
+    "3-Rules/Character Building/Equipment/G/goo-grenade-moderate.md",
+    "3-Rules/Character Building/Equipment/G/goo-grenade-major.md",
+    "3-Rules/Character Building/Equipment/G/goo-grenade-lesser.md",
+    "3-Rules/Character Building/Equipment/G/goo-grenade-greater.md",
+    "3-Rules/Character Building/Equipment/G/golem-stylus.md",
+    "3-Rules/Character Building/Equipment/G/golden-spur.md",
+    "3-Rules/Character Building/Equipment/G/golden-silencer-standard.md",
     "1-GM Toolkit/ToDo List.md",
-    "4-Campaign/Age of Worms/Campaign Planning.md",
-    "zz-Attachments/anklets-of-alacrity.png",
-    "zz-Attachments/andvaris-gift.png",
-    "3-Rules/Character Building/Equipment/Homebrew/alpha-venom-sac-catalyst.md",
-    "3-Rules/Character Building/Equipment/Homebrew/wroggi-hide-mantle-greater.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "5-World/Points of Interest/Ardentia City/Prism and Parchment.md",
-    "5-World/Points of Interest/Ardentia City/Elara’s Gentle Remedies.md",
-    "5-World/Points of Interest/Ardentia City/The Gilded Gauntlet.md",
-    "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
-    "5-World/Points of Interest/Ardentia City/The Faceted Crown.md",
-    "5-World/Points of Interest/Ardentia City/Ironbound Reliquary.md",
-    "5-World/Points of Interest/Ardentia City/The Griffons Fancy.md",
-    "5-World/NPCs/Ardentia City/Maelis Vorenn.md",
-    "5-World/NPCs/Ardentia City/Dorrik Vance.md",
-    "5-World/Points of Interest/Ardentia City/Bloodstone Arena.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "3-Rules/Character Building/Equipment/G/golden-silencer-greater.md",
+    "3-Rules/Character Building/Equipment/G/golden-rod-memento.md",
+    "3-Rules/Character Building/Equipment/G/golden-legion-epaulet.md",
+    "3-Rules/Character Building/Equipment/G/golden-goose.md",
+    "3-Rules/Character Building/Equipment/G/golden-gloves.md",
+    "3-Rules/Character Building/Equipment/G/golden-chrysalis.md",
+    "3-Rules/Character Building/Equipment/G/golden-cased-bullet-standard.md",
+    "3-Rules/Character Building/Equipment/G/golden-cased-bullet-major.md",
+    "zz-Attachments/captain-okoral.png",
+    "zz-Attachments/loris-raknian.png",
+    "zz-Attachments/altar room.png",
+    "zz-Attachments/bozal-zahol-room.png",
+    "zz-Attachments/ulgurstasta-chamber.png",
+    "zz-Attachments/apostle-of-kyuss.png",
+    "3-Rules/Hazards/Homebrew/S",
+    "zz-Attachments/gnome-hooked-hammer.png",
+    "zz-Attachments/globe-of-shrouds.png",
+    "zz-Attachments/gladius.png",
+    "zz-Attachments/gills.png",
     "3-Rules/Hazards/Homebrew/W",
     "3-Rules/Hazards/Homebrew/P",
     "3-Rules/Hazards/Homebrew/M",
     "3-Rules/Hazards/Homebrew/L",
-    "3-Rules/Hazards/Homebrew/F/false-elevator-hb.md",
     "3-Rules/Hazards/Homebrew/H",
     "3-Rules/Hazards/Homebrew/G",
-    "3-Rules/Hazards/Homebrew/F.md",
     "3-Rules/Hazards/Homebrew/F",
     "3-Rules/Hazards/Homebrew/D",
-    "3-Rules/Hazards/Homebrew/B",
-    "3-Rules/Character Building/Equipment/G/ghosthands-comet.md",
-    "3-Rules/Bestiaries/Homebrew/A/Alkilith.md",
-    "3-Rules/Bestiaries/Homebrew/B/beholder-gauth.md",
-    "zz-Attachments/alkilith.png",
-    "3-Rules/Bestiaries/Uniques/B/Bozal Zahol.md",
-    "3-Rules/Bestiaries/Homebrew/A",
-    "zz-Attachments/aow-trunk.png",
-    "zz-Attachments/Bozal Zahol.png",
-    "zz-Attachments/valik-thorne.png",
-    "zz-Attachments/bram-tallow.png",
-    "zz-Attachments/sister-ameline-voss.png",
-    "zz-Attachments/elaras-gentle-remedies.png",
-    "zz-Attachments/corin-pell.png"
+    "3-Rules/Hazards/Homebrew/B"
   ]
 }

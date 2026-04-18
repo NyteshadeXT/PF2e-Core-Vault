@@ -4,35 +4,35 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "golden-cased-bullet-(greater)"
-aliases: "Golden-Cased Bullet (Greater)"
-source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
+name: "goz-mask-greater"
+aliases: "Goz Mask (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "154"
 rarity: ""
-trait01: "consumable"
+trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 10
+level: 6
 weight: 
-value: "200"
+value: "240"
 subvalue: "gp"
 invest:
-usage: "other"
+usage: "wornmask"
 license: "ORC"
 identify:
-description: "**Ammunition** round  **Activate** `pf2:1` envision  * * *  The magic-infused metal of this bullet's golden casing allows it to curve just a bit in flight once the bullet has been fired, allowing you to ignore the bonus to AC granted to a target in standard or lesser cover."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Originally designed by a fanatical sect of Gozren priests, _goz masks_ were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but people all around the Mwangi Expanse still use them. These masks are typically made of wood and sport round, exaggerated features."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You ignore [[Concealed|Concealment]] caused by fog, smoke, and other obscuring vapors for 10 minutes."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

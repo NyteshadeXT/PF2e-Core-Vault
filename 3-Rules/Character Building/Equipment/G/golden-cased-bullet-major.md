@@ -4,35 +4,36 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "goo-grenade-(moderate)"
-aliases: "Goo Grenade (Moderate)"
-source: "Pathfinder Lost Omens Impossible Lands"
-pg: ""
-rarity: ""
-trait01: "alchemical"
-trait02: "bomb"
-trait03: "consumable"
-trait04: "splash"
-trait05: "uncommon"
+name: "golden-cased-bullet-major"
+aliases: "Golden-Cased Bullet (Major)"
+source: "Pathfinder #179: Cradle of Quartz"
+pg: "76"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: L
-value: "10"
+level: 16
+weight: 
+value: "2000"
 subvalue: "gp"
 invest:
-usage: "held in one hand "
+usage: "other"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes 2d4 acid damage, 2 persistent acid damage, and 2 acid splash damage, and a -5 circumstance penalty to its Speeds from the clinging goo. You gain a +1 item bonus to attack rolls. The target can end any penalties, conditions, and persistent damage caused by the bomb by Escaping (DC 17) or spending a total of 3 Interact actions to pry themselves free of the ooze. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.  [[Equipment Effects/Effect_ Goo Grenade|Effect: Goo Grenade]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "The magic-infused golden cased bullet."
+
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Activating the effect allows it to curve just a bit in flight once the bullet has been fired, allowing you to ignore the bonus to AC granted to a target in greater, standard, or lesser cover."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -44,9 +45,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 20 ft
+range: 
 ammoType:
-damage: 2d4 acid
+damage: 
 dmg1:
 dmg1Type:
 dmg2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

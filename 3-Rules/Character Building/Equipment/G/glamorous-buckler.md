@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "glamorous-buckler"
 aliases: "Glamorous Buckler"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "279"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to Deception checks to Feint.  * * *  **Activate—Dazzling Feint** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** You Feint  **Requirements** You have the glamorous buckler raised  * * *  **Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Conditions/Dazzled|Dazzled]] for 1 round.  * * *      | Hardness | HP | BT | | --- | --- | --- | | 3 | 6 | 3 |"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "A glamorous [[buckler]] is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to [[Skills#Deception|Deception]] checks to [[Feint]]."
+powerTitle1: "Dazzling Feint"
+actionEconomy1: "`pf2:0`"
+type1: "([[concentrate]])"
+frequency1: "once per day"
+trigger1: "You Feint"
+requirement1: "You have the glamorous buckler raised"
+mechanics1: "As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Dazzled]] for 1 round."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,7 +58,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 1
 modAC:
 dexCap:
 strRequirement:
@@ -67,11 +68,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 3
+hp: 6
+bt: 3
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Buckler"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

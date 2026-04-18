@@ -965,7 +965,7 @@ This fight should prove to be very challenging unless the PCs manage to battle o
 **Merovinn Bask** This bald, ill-tempered wizard simply can't believe that his depts forced him into servitude in the first place, and views each day as an absolute disgrace.  Bask is by far the rudest of [[5-World/NPCs/Diamond Lake/Kullen|Kullen]]'s men.  The only friend he ever had was the unfortunate Skutch.
 
 > [!tip]+ Treasure
-> Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[Glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
+> Kullen is carrying a +1 Weapon Potency Greataxe, [[Healing Potion (Minor)]], [[Bestial Mutagen (Lesser)]] and 3 gp.  Rastophan is carrying [[Splint Mail]] [[Darkvision Elixir (Lesser)]] and 4 gp. Todrik is carrying a [[glaive]], [[Splint Mail]], [[Healing Potion (Minor)]]x2 and 2 gp. Merovinn Bask is carrying [[Dizzying Colors|Scroll of Dizzying Colors]] and his spellbook (Cantrip: [[Ray of Frost]], [[Electric Arc]], [[Shield]],[[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]] 1st: [[Force Barrage]], [[Scorching Blast]], [[Gust of Wind]] 2nd: [[Mirror Image]] )
 > 
 > - [<] gp::9
 > - [ ] permanent::[[Weapon Potency (+1)|+1 Greataxe]] [ilvl::2] [gp::35]

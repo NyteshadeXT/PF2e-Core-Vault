@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "golden-legion-epaulet"
 aliases: "Golden Legion Epaulet"
 source: "Pathfinder Lost Omens World Guide"
-pg: ""
-rarity: ""
+pg: "124"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornepaulet"
 license: "ORC"
 identify:
-description: "These gleaming golden epaulets are issued to Eagle Knight officers and worn as part of the uniform. While they can be enchanted to provide a variety of effects, the Golden Legion epaulet remains the most common.  * * *  **Activate** `pf2:1` (Command)  **Frequency** once per day  * * *  **Effect** Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.  [[Equipment Effects/Effect_ Golden Legion Epaulet|Effect: Golden Legion Epaulet]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These gleaming golden epaulets are issued to Eagle Knight officers and worn as part of the uniform. While they can be enchanted to provide a variety of effects, the Golden Legion epaulet remains the most common."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Command]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

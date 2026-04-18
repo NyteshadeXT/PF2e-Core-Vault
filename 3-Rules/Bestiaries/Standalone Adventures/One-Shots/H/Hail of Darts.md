@@ -63,6 +63,7 @@ attacks:
 
 ```
 
+
 ```encounter-table
 name: Hail of Darts
 creatures:

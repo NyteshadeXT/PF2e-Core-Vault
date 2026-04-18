@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "golden-spur"
 aliases: "Golden Spur"
 source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
 trait04: "teleportation"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to crossbow or firearm"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` command  **Trigger** You hit a target within 120 feet with the affixed weapon  **Requirements** You're a master in Arcana, Nature, Occultism, or Religion.  * * *  This golden spur is affixed to a weapon by a braided leather cord. You teleport to a space you can see within 10 feet of the target. You must have line of effect to the space."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This golden spur is affixed to a weapon by a braided leather cord."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[command]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You hit a target within 120 feet with the affixed weapon"
+requirement1: "You're a master in [[Skills#Arcana|Arcana]], [[Skills#Nature|Nature]], [[Skills#Occultism|Occultism]], or [[Skills#Religion|Religion]]."
+mechanics1: "You teleport to a space you can see within 10 feet of the target. You must have line of effect to the space."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

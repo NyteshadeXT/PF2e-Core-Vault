@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "ginger-chew"
 aliases: "Ginger Chew"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "49"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "lozenge"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.  [[Equipment Effects/Effect_ Ginger Chew|Effect: Ginger Chew]]  * * *  **Secondary Effect** `pf2:1`  **Effect** Reduce your sickened value by 1, if any. The chew becomes inert."
-powerTitle1:
-actionEconomy1:
+description: "This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Reduce your [[sickened]] value by 1, if any. The chew becomes inert."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

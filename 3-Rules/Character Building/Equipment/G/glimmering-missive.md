@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "glimmering-missive"
 aliases: "Glimmering Missive"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "85"
 rarity: ""
 trait01: "consumable"
 trait02: "light"
 trait03: "magical"
 trait04: "missive"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` envision, Interact  A glimmering missive sparkles as you compose it. When activated, it explodes, disintegrating into a shower of multicolored motes in a 10-foot burst from a corner of the missive's space. Creatures in the area are covered in sparkling dust that remains luminous for 1 hour. Visible creatures can't be [[Conditions/Concealed|Concealed]] while covered by the luminous dust; any [[Conditions/Invisible|Invisible]] creatures are concealed while covered in the luminous dust, rather than being undetected."
+activate: "`pf2:2` [[envision]], [[Interact]]"
+description: "A glimmering missive sparkles as you compose it. When activated, it explodes, disintegrating into a shower of multicolored motes in a 10-foot burst from a corner of the missive's space. Creatures in the area are covered in sparkling dust that remains luminous for 1 hour. Visible creatures can't be [[Concealed]] while covered by the luminous dust; any [[Invisible]] creatures are concealed while covered in the luminous dust, rather than being undetected."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

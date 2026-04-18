@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "gorgons-breath"
 aliases: "Gorgon's Breath"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "69"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Gorgon's breath is a fine powder that can easily enter living creatures' bloodstreams through their lungs before binding to mucous membranes and causing any nearby soft tissues to harden.  **Saving Throw** DC 32 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** 4d6 bludgeoning and slowed 1 (1 round)  **Stage 3** [[Conditions/Petrified|Petrified]] (1 round)  **Stage 4** petrified permanently"
+activate: "`pf2:1` [[Interact]]"
+description: "Gorgon's breath is a fine powder that can easily enter living creatures' bloodstreams through their lungs before binding to mucous membranes and causing any nearby soft tissues to harden.\n\n**Saving Throw** DC 32 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Slowed|Slowed 1]] (1 round)  **Stage 2** `dice: 4d6` bludgeoning and [[Slowed|Slowed 1]] (1 round)  **Stage 3** [[Petrified]] (1 round)  **Stage 4** petrified permanently"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

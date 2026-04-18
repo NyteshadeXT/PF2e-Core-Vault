@@ -4,29 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "golden-branding-iron-(major)"
-aliases: "Golden Branding Iron (Major)"
-source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
+name: "gliding-membranes-lesser"
+aliases: "Gliding Membranes (Lesser)"
+source: "Pathfinder Howl of the Wild"
+pg: "98"
 rarity: ""
-trait01: "consumable"
-trait02: "magical"
-trait03: "talisman"
-trait04: "uncommon"
+trait01: "graft"
+trait02: "invested"
+trait03: "magical"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 13
-weight: 
-value: "450"
+level: 3
+weight: L
+value: "50"
 subvalue: "gp"
 invest:
-usage: "affixed to a two handed firearm or crossbow"
+usage: "implanted"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You hit a target with a ranged Strike with the affixed weapon  **Requirements** You're an expert with the affixed weapon.  * * *  This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.  You harmlessly place your unique magical sigil, which is about 1 square inch in size, anywhere on the target creature, as long as the location is visible to you. The mark is only visible to you and up to 6 of your allies. The mark can be scrubbed or scraped off with 5 minutes of work. It never fades naturally."
+description: "Membranes that stretch between your arms and torso help you convert a fall into a glide. Treat falls as 25 feet shorter. Even if you take fall damage, you can land on your feet by succeeding at a DC 15 [[Skills#Acrobatics|Acrobatics]] check check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

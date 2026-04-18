@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "gorums-tear"
 aliases: "Gorum's Tear"
 source: "Pathfinder #209: Destroyer's Doom"
-pg: ""
-rarity: ""
+pg: "83"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate, fortune)  **Trigger** You make an attack with the affixed weapon.  * * *  This teardrop-shaped piece of iron is a naturally occurring mineral, said to be a solidified tear of bellicose joy shed by Gorum during his battles. When you activate the Gorum's tear, you roll your next attack roll twice and take the better result, ignoring any circumstance penalties. You then become [[Conditions/Off-Guard|Off-Guard]] to the creature you targeted until the beginning of your next turn."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This teardrop-shaped piece of iron is a naturally occurring mineral, said to be a solidified tear of bellicose joy shed by Gorum during his battles."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[concentrate]], [[fortune]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You make an attack with the affixed weapon."
+mechanics1: "When you activate the Gorum's tear, you roll your next attack roll twice and take the better result, ignoring any circumstance penalties. You then become [[Off-Guard]] to the creature you targeted until the beginning of your next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

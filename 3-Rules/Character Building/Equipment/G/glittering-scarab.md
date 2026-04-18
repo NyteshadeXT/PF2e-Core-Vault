@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "glittering-scarab"
 aliases: "Glittering Scarab"
 source: "Pathfinder Dark Archive"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "82"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "**Access** Member of the Esoteric Order of the Palatine Eye  * * *  This pin is a valuable copy of a popular pin sold in markets throughout Osirion. The original pin is a solid piece, often purchased by tourists. The glittering scarab, though, can be squeezed gently, causing the wings to part and reveal an eye painted underneath them. This pin is used to gain entrance to most meetings of the Esoteric Order of the Palatine Eye. Someone who specifically examines the scarab can find the hidden eye with a successful DC 20 Perception check check, though if they know about glittering scarabs, they can simply squeeze it to check for the eye."
+description: "Available to members of the Esoteric Order of the Palatine Eye. This pin is a valuable copy of a popular pin sold in markets throughout Osirion. The original pin is a solid piece, often purchased by tourists. The glittering scarab, though, can be squeezed gently, causing the wings to part and reveal an eye painted underneath them. This pin is used to gain entrance to most meetings of the Esoteric Order of the Palatine Eye. Someone who specifically examines the scarab can find the hidden eye with a successful DC 20 [[Skills#Perception|Perception]] check check, though if they know about glittering scarabs, they can simply squeeze it to check for the eye."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

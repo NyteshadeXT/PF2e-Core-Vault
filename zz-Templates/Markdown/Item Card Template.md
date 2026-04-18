@@ -101,6 +101,7 @@ weaponCategory:
 #                ARMOR/SHIELD PROPERTIES                 #
 #========================================================#
 baseAC: 
+modAC:
 dexCap: 
 strRequirement: 
 checkPenalty: 
@@ -148,7 +149,7 @@ craftBase:
 
 
 ```dataviewjs
-const name = dv.current().aliases;
+const name = dv.current().aliases || dv.current().name || dv.current().file.name;
 const level = dv.current().level;
 const rarity = dv.current().rarity;
 
@@ -283,11 +284,17 @@ if (d.armorBase || d.weaponBase) {
 
 // AC / Dex Cap / Penalties
 let arm = [];
-if (d.baseAC      != null) arm.push(`**AC** +${d.baseAC}`);
+
+if (d.baseAC != null || d.modAC != null) {
+  const totalAC = (d.baseAC ?? 0) + (d.modAC ?? 0);
+  arm.push(`**AC** +${totalAC} (base ${d.baseAC ?? 0}, mod ${d.modAC ?? 0})`);
+}
+
 if (d.dexCap      != null) arm.push(`**Dex Cap** +${d.dexCap}`);
 if (d.checkPenalty!= null) arm.push(`**Check Penalty** ${d.checkPenalty}`);
 if (d.speedPenalty!= null) arm.push(`**Speed Penalty** ${d.speedPenalty}`);
-if (arm.length)           stats.push(arm.join("; "));
+
+if (arm.length) stats.push(arm.join("; "));
 
 // Armor/Shield: Resistances / Immunities / Condition Immunities / Weaknesses
 {
@@ -398,22 +405,48 @@ if (d.drawback?.trim()) {
 }
 
 // ─── ABILITIES #1–4 ────────────────────────────────────────────
-function getIcon(ae) {
+function getActionDisplay(ae) {
   if (!ae) return "";
-  let m = ae.toString().trim().toLowerCase();
-  return { "1":"`pf2:1`","2":"`pf2:2`","3":"`pf2:3`","0":"`pf2:0`","r":"`pf2:r`","reaction":"`pf2:r`","f":"`pf2:f`","free":"`pf2:f`" }[m]||"";
+
+  let val = ae.toString().trim().toLowerCase();
+
+  const map = {
+    "1": "`pf2:1`",
+    "2": "`pf2:2`",
+    "3": "`pf2:3`",
+    "0": "`pf2:0`",
+    "r": "`pf2:r`",
+    "reaction": "`pf2:r`",
+    "f": "`pf2:f`",
+    "free": "`pf2:f`",
+    "free action": "`pf2:f`",
+    "pf2:1": "`pf2:1`",
+    "pf2:2": "`pf2:2`",
+    "pf2:3": "`pf2:3`",
+    "pf2:r": "`pf2:r`",
+    "pf2:f": "`pf2:f`"
+  };
+
+  // Return icon if known, otherwise return raw text (like "10 minutes")
+  return map[val] || ae;
 }
 
 function createPowerBlock(title, action, type, frequency, activate, requirement, trigger, duration, mechanics) {
-  let icon = getIcon(action);
-  let block = `### **${title}** ${icon} ${type || ""}\n\n`;
+  let actionDisplay = getActionDisplay(action);
+  let headerParts = [`### **${title}**`];
 
-  if (frequency?.toString().trim()) block += `**Frequency:** ${frequency}\n\n`;
-  if (activate?.toString().trim())  block += `**Activate:** ${activate}\n\n`;
+  if (actionDisplay) headerParts.push(actionDisplay);
+  if (type?.toString().trim()) headerParts.push(type.toString().trim());
+
+  let block = headerParts.join(" ") + `\n\n`;
+
+  if (frequency?.toString().trim())   block += `**Frequency:** ${frequency}\n\n`;
+  if (activate?.toString().trim())    block += `**Activate:** ${activate}\n\n`;
   if (requirement?.toString().trim()) block += `**Requirements:** ${requirement}\n\n`;
-  if (trigger?.toString().trim()) block += `**Trigger:** ${trigger}\n\n`;
-  if (duration?.toString().trim()) block += `**Duration:** ${duration}\n\n`;
+  if (trigger?.toString().trim())     block += `**Trigger:** ${trigger}\n\n`;
+  if (duration?.toString().trim())    block += `**Duration:** ${duration}\n\n`;
   block += `${mechanics || ""}\n`;
+
   return block;
 }
 
@@ -423,17 +456,17 @@ for (let i = 1; i <= 4; i++) {
   if (!title) continue;
   if (i > 1) abilities.push("<hr class='pf2e-divider'>");
   abilities.push(
-    createPowerBlock(
-      d[`powerTitle${i}`],
-      d[`actionEconomy${i}`],
-      d[`type${i}`],
-      d[`frequency${i}`],
-      d.file.frontmatter[`activate${i}`],
-      d[`requirement${i}`],
-      d[`trigger${i}`],
-      d.file.frontmatter[`duration${i}`],
-      d[`mechanics${i}`]
-    )
+	createPowerBlock(  
+		d[`powerTitle${i}`],  
+		d.file.frontmatter[`actionEconomy${i}`],  
+		d[`type${i}`],  
+		d[`frequency${i}`],  
+		d.file.frontmatter[`activate${i}`],  
+		d[`requirement${i}`],  
+		d[`trigger${i}`],  
+		d.file.frontmatter[`duration${i}`],  
+		d[`mechanics${i}`]  
+	)
   );
 }
 

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "gloves-of-carelessness"
 aliases: "Gloves of Carelessness"
 source: "Pathfinder Gamemastery Guide"
-pg: ""
-rarity: ""
+pg: "91"
+rarity: "rare"
 trait01: "cursed"
 trait02: "extradimensional"
 trait03: "invested"
 trait04: "magical"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These gloves appear and function as [[Equipment/Retrieval Belt|Gloves of Storing]] but repel any item not stored in the gloves. When wearing them, whenever you Interact to draw or pick up an item, roll a DC 11 Flat check. On a success, you do so as normal. On a failure, you instead fling the item 15 feet in a random direction. You can use a reaction to attempt a DC 23 Reflex check save, causing the item to land at your feet instead if you succeed. Removing the stored item from the gloves does not trigger the item's curse. The first time the curse activates, the gloves fuse to you."
+description: "These gloves appear and function as [[retrieval-belt|Retrieval Belt]] but repel any item not stored in the gloves. When wearing them, whenever you Interact to draw or pick up an item, roll a DC 11 Flat check. On a success, you do so as normal. On a failure, you instead fling the item 15 feet in a random direction. You can use a reaction to attempt a DC 23 Reflex check save, causing the item to land at your feet instead if you succeed. Removing the stored item from the gloves does not trigger the item's curse. The first time the curse activates, the gloves fuse to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

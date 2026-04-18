@@ -56,90 +56,186 @@
   "statuses": [
     {
       "name": "Blinded",
-      "id": "Blinded",
-      "description": "A blinded creature can’t see and automatically fails any ability check that requires sight.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage."
+      "description": "You can't see. All normal terrain is difficult terrain. You can't detect anything using vision. Automatically critically fail Perception checks that require you to see; if vision is your only precise sense, you take a –4 status penalty to Perception checks. You are immune to visual effects. Blinded overrides dazzled.",
+      "id": "Blinded"
     },
     {
-      "name": "Charmed",
-      "id": "Charmed",
-      "description": "A charmed creature can’t Attack the charmer or target the charmer with harmful Abilities or magical Effects.\nThe charmer has advantage on any ability check to interact socially with the creature."
+      "name": "Broken",
+      "description": "A broken object can't be used, nor does it grant bonuses. Broken armor grants its item bonus to AC, but gives a status penalty to AC (–1 light, –2 medium,–3 heavy). An effect that makes an item broken reduces the item's HP to its Broken Threshold.",
+      "id": "ID_d8d93b8a4be8"
     },
     {
-      "name": "Concentrating",
-      "id": "Concentrating",
-      "description": "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.\nA creature loses concentration when: it casts another spell that requires concentration, is incapacitated, or dies.\nWhen a creature takes damage, it must make a constitution saving throw with a DC of 10 or half the damage it took, whichever is higher. On a failure, concentration is lost."
+      "name": "Clumsy",
+      "description": "Take a status penalty equal to your clumsy value on Dexterity-based checks and DCs, including AC, Reflex saves, ranged attacks, and skill checks using Acrobatics, Stealth, and Thievery.",
+      "id": "ID_8ab89838e878",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Confused",
+      "description": "You are off-guard, don't treat anyone as your ally, and can't Delay, Ready, or use reactions. Use all your actions to Strike or cast offensive cantrips. The GM determines targets randomly. If you have no other option, target yourself, automatically hitting. If it's impossible for you to attack or cast spells, you babble incoherently, wasting your actions. Each time you take damage from an attack or spell, attempt a DC 11 flat check to end the condition.",
+      "id": "ID_e8eae9187a68"
+    },
+    {
+      "name": "Controlled",
+      "description": "Your controller dictates how you act.",
+      "id": "ID_68c908eb89ca"
+    },
+    {
+      "name": "Dazzled",
+      "description": "All creatures and objects are concealed from you.",
+      "id": "ID_7919eb898a98"
     },
     {
       "name": "Deafened",
-      "id": "Deafened",
-      "description": "A deafened creature can’t hear and automatically fails any ability check that requires hearing."
+      "description": "Automatically critically fail Perception checks that require hearing. Take a –2 status penalty to Perception checks for initiative and checks that involve sound but also rely on other senses. If you perform an action that has the auditory trait, you must succeed at a DC 5 flat check or the action is lost. You are immune to auditory effects.",
+      "id": "ID_f9db3948e97b"
+    },
+    {
+      "name": "Drained",
+      "description": "Take a status penalty equal to your drained value on Constitution-based checks, such as Fortitude saves. Lose Hit Points equal to your level times the drained value, and your maximum Hit Points are reduced by the same amount. When you regain Hit Points by resting for 8 hours, your drained value is reduced by 1, but you don't immediately recover the lost Hit Points.",
+      "id": "ID_79a9badbf9c9",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Encumbered",
+      "description": "You're clumsy 1 and take a –10-foot penalty to all your Speeds.",
+      "id": "ID_993a98ab7839"
+    },
+    {
+      "name": "Enfeebled",
+      "description": "Take a status penalty equal to your enfeebled value to Strength-based rolls and DCs, including Strength-based melee attack rolls, Strength-based damage rolls, and Athletics checks.",
+      "id": "ID_d8188bb9c8bb",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Facinated",
+      "description": "Take a –2 status penalty to Perception and skill checks, and you can't use actions with the concentrate trait unless they are related to the subject of your fascination. This condition ends if a creature takes hostile actions toward you or any of your allies.",
+      "id": "ID_5b3b7908b9fb"
+    },
+    {
+      "name": "Fatigued",
+      "description": "Take a –1 status penalty to AC and saving throws. During exploration, you can't choose an exploration activity. Recover from fatigue after a full night's rest.",
+      "id": "ID_7aaaf85a281a"
+    },
+    {
+      "name": "Fleeing",
+      "description": "On your turn, spend each action trying to escape the source of the condition as expediently as possible. You can't Delay or Ready.",
+      "id": "ID_596bcbaa5b2a"
     },
     {
       "name": "Frightened",
-      "id": "Frightened",
-      "description": "A frightened creature has disadvantage on Ability Checks and Attack rolls while the source of its fear is within Line of Sight.\nThe creature can’t willingly move closer to the source of its fear."
+      "description": "Take a status penalty equal to the value to all checks and DCs. At the end of each of your turns, the value decreases by 1.",
+      "id": "ID_c99a5918fbb9",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
     },
     {
-      "name": "Grappled",
-      "id": "Grappled",
-      "description": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nThe condition ends if the Grappler is incapacitated.\nThe condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling Effect, such as when a creature is hurled away by the Thunderwave spell."
-    },
-    {
-      "name": "Incapacitated",
-      "id": "Incapacitated",
-      "description": "An incapacitated creature can’t take Actions or Reactions."
-    },
-    {
-      "name": "Invisible",
-      "id": "Invisible",
-      "description": "An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s Location can be detected by any noise it makes or any tracks it leaves.\nAttack rolls against the creature have disadvantage, and the creature’s Attack rolls have advantage."
+      "name": "Grabbed",
+      "description": "You're immobilized and off-guard. If you attempt a manipulate action, you must succeed at a DC 5 flat check or it is lost.",
+      "id": "ID_68fa1939bb0a"
     },
     {
       "name": "Paralyzed",
-      "id": "Paralyzed",
-      "description": "A paralyzed creature is incapacitated and can’t move or speak.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+      "description": "You're off-guard and can't take actions except Recall Knowledge and others that require only your mind. You can't Seek.",
+      "id": "ID_1928a8484828"
+    },
+    {
+      "name": "Persistent Damage",
+      "description": "Instead of taking persistent damage immediately, take it at the end of each of your turns, rolling any damage dice each time. After you take persistent damage, roll a DC 15 flat check to see if you recover. If you succeed, the condition ends. You or an ally can help you recover, allowing an additional flat check. This usually takes 2 actions, and must be something that would reasonably help against the source of the damage. The GM can reduce the DC to 10, have the damage end automatically, or change the number of actions.",
+      "id": "ID_eafbebc9782a"
     },
     {
       "name": "Petrified",
-      "id": "Petrified",
-      "description": "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.\nThe creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nAttack rolls against the creature have advantage.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nThe creature has Resistance to all damage.\nThe creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized."
-    },
-    {
-      "name": "Poisoned",
-      "id": "Poisoned",
-      "description": "A poisoned creature has disadvantage on Attack rolls and Ability Checks."
+      "description": "You can't act, nor can you sense anything. You're an object with double your normal Bulk (typically 12 if Medium or 6 if Small), AC 9, Hardness 8, and the same current HP you had when alive.",
+      "id": "ID_4ba9abc9e86a"
     },
     {
       "name": "Prone",
-      "id": "Prone",
-      "description": "A prone creature’s only Movement option is to crawl, unless it stands up and thereby ends the condition.\nThe creature has disadvantage on Attack rolls.\nAn Attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the Attack roll has disadvantage."
+      "description": "You're off-guard with a –2 circumstance penalty to attack rolls. The only move actions you can take are Crawl and Stand. Standing ends the prone condition. You can Take Cover while prone, gaining greater cover against ranged attacks (but remain off-guard).",
+      "id": "ID_0bbafa2b3aa8"
     },
     {
-      "name": "Reacted",
-      "id": "Reacted",
-      "description": "A creature, unless otherwise specified, gets one reaction per round of combat.\nA reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.\nA reaction can be spent to make an opportunity attack, do a readied action, or use an ability that requires a reaction.\nA creature that has already reacted cannot use a reaction until the start of its turn."
+      "name": "Quickened",
+      "description": "You gain 1 additional action at the start of your turn each round. Many effects that make you quickened specify the types of additional actions you can use. Because quickened has its effect at the start of your turn, you don't gain actions immediately if you become quickened during your turn.",
+      "id": "ID_a839fadafbb8"
     },
     {
       "name": "Restrained",
-      "id": "Restrained",
-      "description": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage.\nThe creature has disadvantage on Dexterity Saving Throws."
+      "description": "You're tied up and can barely move, or a creature has you pinned. You are immobilized and off-guard, and you can't use any actions with the attack or manipulate traits except to attempt to Escape or Force Open your bonds. Restrained overrides grabbed.",
+      "id": "ID_4a485ba9780b"
+    },
+    {
+      "name": "Sickened",
+      "description": "Take a status penalty equal to the value on all checks and DCs. You can't willingly ingest anything. You can spend an action retching to attempt a Fortitude save against the DC of the sickening effect. On a success, reduce the value by 1 (2 on a critical success).",
+      "id": "ID_0909b8da7a8b",
+      "hasAmount": true
+    },
+    {
+      "name": "Slowed",
+      "description": "When you regain your actions at the start of your turn, reduce the number of actions by your slowed value. You don't lose actions immediately if slowed during your turn.",
+      "id": "ID_fa8b489bfa9a",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
     },
     {
       "name": "Stunned",
-      "id": "Stunned",
-      "description": "A stunned creature is incapacitated, can’t move, and can speak only falteringly.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage."
+      "description": "You can't act. A stunned value indicates how many total actions you lose. Each time you regain actions, reduce the number by your stunned value, then reduce your stunned value by the number of actions lost. If stunned has a duration, lose all your actions for the listed duration. Stunned overrides slowed. Actions lost to stunned count toward those lost to slowed.",
+      "id": "ID_899898984b88",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Stupefied",
+      "description": "Take a status penalty equal to the value to checks and DCs based on Intelligence, Wisdom, or Charisma, including Will saves, spell attack rolls and DCs, and appropriate skill checks. If you Cast a Spell, it's disrupted unless you succeed at a flat check (DC = 5 + value).",
+      "id": "ID_5a591968483a",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Dying",
+      "description": "You are unconscious. If you ever reach dying 4, you die. Attempt a recovery check at the start of your turn to determine whether you get better or worse. If you ever have 1 HP or more, you lose the dying condition. Any time you lose the dying condition, increase your wounded value by 1. If you take damage while dying, increase the dying value by 1 (or 2 on an enemy's critical success or your critical failure).",
+      "id": "ID_1be86b5a8a68",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Wounded",
+      "description": "Any time you gain the dying condition, add your wounded value to the amount you gain or increase your dying value. The wounded condition ends if you receive HP from Treat Wounds, or if you're restored to full HP and rest for 10 minutes.",
+      "id": "ID_d80bc86ac9b8",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
+    },
+    {
+      "name": "Doomed",
+      "description": "The maximum dying value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. Your doomed value decreases by 1 each time you get a full night's rest.",
+      "id": "ID_ca7aa8ba28e9",
+      "hasAmount": true,
+      "startingAmount": 1,
+      "amount": 1
     },
     {
       "name": "Unconscious",
-      "id": "Unconscious",
-      "description": "An unconscious creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nThe creature drops whatever it’s holding and falls prone.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+      "description": "You can't wake up from unconsciousness while you have 0 Hit Points. If you're unconscious and have 1 or more Hit Points, you wake up in one of five ways.\nYou take damage, provided the damage doesn't drop you to 0 HP.\nYou receive healing, other than natural healing from resting.\nSomeone nudges or shakes you awake with an Interact action.\nIf there's loud noise, at the start of your turn attempt a Perception check against the noise's DC, waking up if you succeed. If creatures are attempting to stay quiet, this uses their Stealth DC.\nThe GM decides you wake up either because you have had a restful night's sleep or something disrupted that restful sleep.",
+      "id": "ID_3b48096bb838"
     }
   ],
   "unconsciousId": "Unconscious",
   "version": [
     13,
     0,
-    20
+    21
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -161,7 +257,7 @@
         "currentAC": 28,
         "note": "Haight Enashberry",
         "path": "2-Party/Age of Worms/Haight Enashberry.md",
-        "id": "ID_a918d8ab3b3a",
+        "id": "ID_88cad9fa19eb",
         "currentHP": 113,
         "tempHP": 0,
         "status": [],
@@ -183,7 +279,7 @@
         "currentAC": 26,
         "note": "Akiowen",
         "path": "2-Party/Age of Worms/Akiowen.md",
-        "id": "ID_aaa80a1a3919",
+        "id": "ID_383b4af828d9",
         "currentHP": 76,
         "tempHP": 0,
         "status": [],
@@ -205,7 +301,7 @@
         "currentAC": 23,
         "note": "Zamosshe",
         "path": "2-Party/Age of Worms/Zamosshe.md",
-        "id": "ID_4a4babb98a88",
+        "id": "ID_58986bcbab89",
         "currentHP": 64,
         "tempHP": 0,
         "status": [],
@@ -227,7 +323,7 @@
         "currentAC": 24,
         "note": "Jerrykk",
         "path": "2-Party/Age of Worms/Jerrykk.md",
-        "id": "ID_98a9ab1a7adb",
+        "id": "ID_ba6a7b28e809",
         "currentHP": 62,
         "tempHP": 0,
         "status": [],

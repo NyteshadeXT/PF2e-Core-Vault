@@ -35,6 +35,8 @@
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
 - [ ] Create formula books with various formulas in them instead of just having blank formula books.
 - [ ] Add energy types to Charm of Resistance
+- [ ] [[golden-cased-bullet-standard|Golden-Cased Bullet (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
+- [ ] [[golden-silencer-standard|Golden Silencer (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

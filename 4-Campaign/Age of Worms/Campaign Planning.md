@@ -457,10 +457,5 @@ This is a _really strong campaign core_. You’re essentially telling the story 
 
 Let’s build it out.
 
-Stagfalls
-Springrun
-Rockdale
-Oakenbury
-Faybrook
-Greenwallow
-Littlegrove
+Castlemere: https://watabou.github.io/city-generator?size=20&seed=2246299&name=Castlemere&citadel=1&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=-1
+Springrun: https://watabou.github.io/city-generator?size=19&seed=2111741135&name=Springrun&citadel=0&urban_castle=0&plaza=1&temple=1&walls=0&shantytown=0&coast=0&river=1&greens=1&gates=-1
