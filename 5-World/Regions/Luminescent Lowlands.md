@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232040.png]]
+![[region-luminescent-lowlands.png]]
 
 The Luminescent Lowlands are bioluminescent plains where the ground itself emits an otherworldly glow, creating a surreal and vibrant landscape rich in crystals. Seekers must navigate through the shifting terrain and luminescent flora, uncovering untold treasures and encountering strange creatures. The interplay of light and darkness in this ethereal realm creates a landscape of wonder and mystery, enticing adventurers to unravel the secrets of Aetheria's enchanted lands.
 

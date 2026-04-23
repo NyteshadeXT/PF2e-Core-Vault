@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232235.png]]
+![[region-umbral-canyons.png]]
 
 The Umbral Canyons present a haunting and treacherous landscape within the fractured world of Aetheria, where shadows and darkness hold sway, and mysteries linger in the depths. This place of danger and intrigue resonates with echoes of cosmic upheaval, beckoning seekers to uncover its hidden secrets.
 

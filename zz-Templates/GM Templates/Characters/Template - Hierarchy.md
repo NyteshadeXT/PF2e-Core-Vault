@@ -96,35 +96,35 @@ Information:
 
 There is an issue in Settlement A. Someone is stealing from the Organization. ^o4lQ1kvY
 
-[[Template - NPC]] ^xKfqaswY
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^xKfqaswY
 
-[[Template - NPC]] ^fbecrraB
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^fbecrraB
 
-[[Template - NPC]] ^BTbUnapf
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^BTbUnapf
 
-[[Template - NPC]] ^no1S0gap
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^no1S0gap
 
-[[Template - NPC]] ^yzfpTkLS
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^yzfpTkLS
 
-[[Template - NPC]] ^lskps3uo
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^lskps3uo
 
-[[Template - NPC]] ^YW7AQRQP
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^YW7AQRQP
 
-[[Template - NPC]] ^eRq1mPvK
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^eRq1mPvK
 
-[[Template - NPC]] ^BiiHNJcN
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^BiiHNJcN
 
-[[Template - NPC]] ^FE6w67eE
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^FE6w67eE
 
-[[Template - NPC]] ^a4nmTt9Z
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^a4nmTt9Z
 
-[[Template - NPC]] ^IjzvK35q
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^IjzvK35q
 
-[[Template - NPC]] ^Bxaa8oMf
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^Bxaa8oMf
 
-[[Template - NPC]] ^XSInkBIM
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^XSInkBIM
 
-[[Template - NPC]] ^GFg1QbZr
+[[zz-Templates/GM Templates/Characters/Template - NPC]] ^GFg1QbZr
 
 [[Template - Settlement]] ^rIDeFF8T
 

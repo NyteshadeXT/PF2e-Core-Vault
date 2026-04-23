@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232541.png]]
+![[region-astral-mountains.png]]
 
 The Astral Mountains rise like colossal sentinels, their jagged peaks reaching towards the heavens and piercing the celestial skies. These towering mountain ranges dominate the landscape, casting shadows that stretch across the fractured world below. The air grows thin as one ascends, and the landscape becomes increasingly imbued with cosmic energy, infusing the mountains with an otherworldly aura.  The Astral Mountains are home to celestial beings that dwell amidst the celestial peaks, their presence imbuing the land with a sense of divine grace and majesty. Angels, aasimar, and celestial dragons soar through the skies, their radiant forms illuminating the mountain peaks with celestial light. These celestial beings serve as guardians and guides, watching over the land and offering aid to those who seek enlightenment and spiritual wisdom.
 

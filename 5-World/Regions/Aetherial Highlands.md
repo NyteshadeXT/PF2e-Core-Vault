@@ -2,7 +2,7 @@
 tags:
   - "#Location"
   - "#Region"
-art: zz_Attachments/Aetherial Highlands.png
+art: zz-Attachments/region-aetherial-highlands.png
 pronounced: a-thee-re-al high-lands
 terrain:
   - Floating Island
@@ -15,6 +15,11 @@ organization:
   - "[[Arcane Conclave]]"
 location:
   - "[[Ardentia City]]"
+aliases:
+  - The Highlands
+dominion:
+  - "[[Arcane Conclave]]"
+  - "[[Arcane Exchange Consortium]]"
 ---
 
 
@@ -83,6 +88,7 @@ location:
 > FROM "Campaign"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Settlement")
 > SORT nation ASC, file.name ASC
+> ```
 
 > [!metadata|location]- Locations
 > ```dataview
@@ -90,6 +96,7 @@ location:
 > FROM "Campaign"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
+> ```
 
 > [!metadata|organizations]- Organizations
 > ```dataview
@@ -97,6 +104,7 @@ location:
 > FROM "Campaign"
 > WHERE contains(location, this.file.link) AND contains(tags, "Organization")
 > SORT organizationtype ASC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
@@ -104,6 +112,7 @@ location:
 > FROM "Campaign"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
@@ -111,19 +120,17 @@ location:
 > FROM "Campaign"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview 
 
-> [!Overview|info]
-> Elevated plateaus where the air is infused with magical energies create breathtaking displays of shimmering lights. The Aetherial Highlands are home to flying creatures drawn to the magical currents in the atmosphere. The skies above teem with a diverse array of flying creatures, ranging from elegant winged beasts to ethereal beings that seem to defy gravity itself. These creatures have adapted to the magical currents that permeate the atmosphere, utilizing them for flight and navigation. Seekers may encounter majestic sky whales drifting lazily through the air, elusive cloud dragons soaring among the clouds, or flocks of luminescent birds painting the sky with their vibrant plumage.
-> 
-> Within the Aetherial Highlands are floating islands suspended by powerful currents of magic. These islands serve as habitats for both flora and fauna unique to this region. Each island possesses its own unique ecosystems, resources, and inhabitants. The Crystalline Archways serve as the lifelines linking these islands, facilitating trade, communication, and exploration between fractured regions. Travelers and traders rely on these bridges to traverse the fractured landscape, fostering connections between disparate communities.
-> 
-> The Luminous Vanguard, the shining beacon of [[Ardentia City]] maintain small outposts at all the Crystalline Archways, ensuring the safety and sanctity of these vital bridges. The presence of the Vanguard wards off intruders and protects the delicate balance of the fractured world. The Crystalline Archways stand as a symbol of resilience and unity amidst the fractured world of Aetheria. Despite the chaos and upheaval wrought by the meteor's impact, these bridges serve as testaments to the indomitable spirit of the inhabitants of the Aetherial Highlands, who have come together to bridge the gaps between fractured regions and forge connections that transcend the boundaries of geography and time.
-> 
-> The Aetherial Highlands are adorned with a dazzling array of magical flora, their vibrant colors and otherworldly blooms captivating all who behold them. Some plants possess magical properties, their petals shimmering with arcane energy or emitting fragrances that induce euphoric sensations. Herbalists and alchemists prize these rare specimens for their medicinal and alchemical properties, using them to concoct potions, elixirs, and remedies of unparalleled potency. Navigating these floating islands presents a challenge to seekers, requiring them to master the art of aerial traversal and uncover hidden pathways and chambers hidden amidst the clouds.
-> 
-> Create an overview that encapsulates the spirit and character of this region. Explore its cultural diversity, geographical landmarks, societal values, and any defining aspects that contribute to its identity. What makes this region unique and distinct from others? Paint a vivid picture that captures the essence and allure of this land.
+Elevated plateaus where the air is infused with magical energies create breathtaking displays of shimmering lights. The Aetherial Highlands are home to flying creatures drawn to the magical currents in the atmosphere. The skies above teem with a diverse array of flying creatures, ranging from elegant winged beasts to ethereal beings that seem to defy gravity itself. These creatures have adapted to the magical currents that permeate the atmosphere, utilizing them for flight and navigation. Seekers may encounter majestic sky whales drifting lazily through the air, elusive cloud dragons soaring among the clouds, or flocks of luminescent birds painting the sky with their vibrant plumage.
+
+Within the Aetherial Highlands are floating islands suspended by powerful currents of magic. These islands serve as habitats for both flora and fauna unique to this region. Each island possesses its own unique ecosystems, resources, and inhabitants. The Crystalline Archways serve as the lifelines linking these islands, facilitating trade, communication, and exploration between fractured regions. Travelers and traders rely on these bridges to traverse the fractured landscape, fostering connections between disparate communities.
+
+The Luminous Vanguard, the shining beacon of [[Ardentia City]] maintain small outposts at all the Crystalline Archways, ensuring the safety and sanctity of these vital bridges. The presence of the Vanguard wards off intruders and protects the delicate balance of the fractured world. The Crystalline Archways stand as a symbol of resilience and unity amidst the fractured world of Aetheria. Despite the chaos and upheaval wrought by the meteor's impact, these bridges serve as testaments to the indomitable spirit of the inhabitants of the Aetherial Highlands, who have come together to bridge the gaps between fractured regions and forge connections that transcend the boundaries of geography and time.
+
+The Aetherial Highlands are adorned with a dazzling array of magical flora, their vibrant colors and otherworldly blooms captivating all who behold them. Some plants possess magical properties, their petals shimmering with arcane energy or emitting fragrances that induce euphoric sensations. Herbalists and alchemists prize these rare specimens for their medicinal and alchemical properties, using them to concoct potions, elixirs, and remedies of unparalleled potency. Navigating these floating islands presents a challenge to seekers, requiring them to master the art of aerial traversal and uncover hidden pathways and chambers hidden amidst the clouds.
 
 ## Current Events
 
@@ -137,11 +144,4 @@ location:
 
 ## Notes
 
-
-
-
-
-
-
-![[Aetherial Highlands.png]]
 

@@ -1,0 +1,5 @@
+- **Ancestry:** Human (Pioneer)
+    
+- **Personality:** A young, soot-covered apprentice with a natural talent for "listening" to crystals. She is more open-minded than Jorund and suspects that the "dust" dropped by creatures in the forest could be the key to better tempering.
+    
+- **Hook:** Kiri will secretly help the players experiment with Core-Coating their weapons if they bring her the materials behind Jorund’s back.

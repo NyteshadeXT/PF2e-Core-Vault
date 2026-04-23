@@ -80,25 +80,36 @@ language: Draconic
 > A script for the GM to read when the party arrive to this location for the first time.
 
 > [!metadata|map]- Map
-> ```leaflet
-> id: TBD
-> image: [[PlaceholderImage.png]]
-> lock: true
-> recenter: true
-> noScrollZoom: false
-> ### Use this [LINK](https://docs.google.com/spreadsheets/d/1jKQxktYSUFcCJhEkAAPr1wMVBTqUdpEfA5XveUXI17I/edit?usp=sharing) to work out your map's bounds.
-> ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
-> height: 600px
-> width: 640px
-> lat: 0
-> long: 0
-> minZoom: 1
-> maxZoom: 6.5
-> defaultZoom: 1
-> zoomDelta: 0.5
-> unit: miles
-> scale: 1
-> darkMode: false
+> ```zoommap
+> image: zz-Attachments/Assets/MapPlaceholder.png
+> # markers is optional; defaults to <image>.markers.json
+> # markers: Assets/Map.jpg.markers.json
+> 
+> # Map view limits
+> minZoom: 0.3
+> maxZoom: 8
+> 
+> # Size & interactivity
+> height: 760px
+> width: 30%
+> resizable: true
+> resizeHandle: native     # left | right | both | native
+> render: canvas           # or: dom
+> 
+> # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+> responsive: false        # true → always fit; disables pan/zoom gestures
+> 
+> # Storage (optional)
+> # storage: note          # default is json; use "note" to store markers inline
+> # id: map-1              # optional stable id for inline storage (per code block)
+> 
+> # Alignment / wrapping (optional)
+> align: left             # left | center | right
+> wrap: true               # wrap text; useful with left/right alignment
+> view:
+>   zoom: 0.7513
+>   centerX: 0.486849
+>   centerY: 0.510427
 > ```
 
 > [!metadata|district]- Districts

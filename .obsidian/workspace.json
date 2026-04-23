@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5590ead26f763b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/G/grail-of-twisted-desires.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "grail-of-twisted-desires"
-            }
-          },
-          {
             "id": "f2fcdc8b7bb2af52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Item Card Template.md",
-                "mode": "source",
+                "file": "5-World/Regions/Prismatic Canopy.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Item Card Template"
+              "title": "Prismatic Canopy"
             }
           },
           {
@@ -41,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md",
+                "file": "5-World/Settlements/Springrun.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spellweave Emporium"
+              "title": "Springrun"
+            }
+          },
+          {
+            "id": "8da074cbc8c9468b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-World/NPCs/Ellival Moonmeadow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ellival Moonmeadow"
             }
           },
           {
@@ -64,26 +64,12 @@
             }
           },
           {
-            "id": "5e1cfbb35282b772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Champions Belt"
-            }
-          },
-          {
             "id": "2acc4486ba1a55e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/ToDo List.md",
+                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
                 "mode": "source",
                 "source": true
               },
@@ -104,8 +90,37 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
+          },
+          {
+            "id": "9a812a86f80e52d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/G/grasping-snare.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "grasping-snare"
+            }
+          },
+          {
+            "id": "7ff1ee57ca2d28f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -304,53 +319,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5590ead26f763b3",
+  "active": "9a812a86f80e52d8",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/G/goz-mask-major.md",
-    "3-Rules/Character Building/Equipment/G/goz-mask-greater.md",
+    "3-Rules/Character Building/Equipment/G/grasp-of-droskar.md",
+    "3-Rules/Character Building/Equipment/G/grappling-hook.md",
+    "3-Rules/Character Building/Equipment/G/grappling-gun-(clockwork).md",
+    "3-Rules/Character Building/Equipment/G/grappling-gun.md",
+    "3-Rules/Character Building/Equipment/G/grappling-bolt.md",
+    "3-Rules/Character Building/Equipment/G/grappling-arrow.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/G/grannys-hedge-trimmer.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/G/grail-of-twisted-desires.md",
     "3-Rules/Character Building/Equipment/G/goz-mask.md",
-    "3-Rules/Character Building/Equipment/G/gourd-home.md",
-    "3-Rules/Character Building/Equipment/G/gossips-eye.md",
-    "3-Rules/Character Building/Equipment/G/gossamer-sash.md",
-    "3-Rules/Character Building/Equipment/G/gorums-tear.md",
-    "3-Rules/Character Building/Equipment/G/goring-horn.md",
     "3-Rules/Character Building/Equipment/G/gorgons-breath.md",
-    "3-Rules/Character Building/Equipment/G/gorget-of-the-primal-roar.md",
-    "3-Rules/Character Building/Equipment/G/goo-grenade-moderate.md",
-    "3-Rules/Character Building/Equipment/G/goo-grenade-major.md",
-    "3-Rules/Character Building/Equipment/G/goo-grenade-lesser.md",
-    "3-Rules/Character Building/Equipment/G/goo-grenade-greater.md",
-    "3-Rules/Character Building/Equipment/G/golem-stylus.md",
-    "3-Rules/Character Building/Equipment/G/golden-spur.md",
-    "3-Rules/Character Building/Equipment/G/golden-silencer-standard.md",
-    "1-GM Toolkit/ToDo List.md",
-    "3-Rules/Character Building/Equipment/G/golden-silencer-greater.md",
-    "3-Rules/Character Building/Equipment/G/golden-rod-memento.md",
-    "3-Rules/Character Building/Equipment/G/golden-legion-epaulet.md",
-    "3-Rules/Character Building/Equipment/G/golden-goose.md",
-    "3-Rules/Character Building/Equipment/G/golden-gloves.md",
     "3-Rules/Character Building/Equipment/G/golden-chrysalis.md",
-    "3-Rules/Character Building/Equipment/G/golden-cased-bullet-standard.md",
-    "3-Rules/Character Building/Equipment/G/golden-cased-bullet-major.md",
-    "zz-Attachments/captain-okoral.png",
-    "zz-Attachments/loris-raknian.png",
-    "zz-Attachments/altar room.png",
-    "zz-Attachments/bozal-zahol-room.png",
-    "zz-Attachments/ulgurstasta-chamber.png",
-    "zz-Attachments/apostle-of-kyuss.png",
-    "3-Rules/Hazards/Homebrew/S",
-    "zz-Attachments/gnome-hooked-hammer.png",
-    "zz-Attachments/globe-of-shrouds.png",
-    "zz-Attachments/gladius.png",
-    "zz-Attachments/gills.png",
-    "3-Rules/Hazards/Homebrew/W",
-    "3-Rules/Hazards/Homebrew/P",
-    "3-Rules/Hazards/Homebrew/M",
-    "3-Rules/Hazards/Homebrew/L",
-    "3-Rules/Hazards/Homebrew/H",
-    "3-Rules/Hazards/Homebrew/G",
-    "3-Rules/Hazards/Homebrew/F",
-    "3-Rules/Hazards/Homebrew/D",
-    "3-Rules/Hazards/Homebrew/B"
+    "3-Rules/Character Building/Equipment/G/glow-rod.md",
+    "5-World/Regions/Prismatic Canopy.md",
+    "5-World/NPCs/Ellival Moonmeadow.md",
+    "5-World/NPCs/Springrun/Valerius Thorne.md",
+    "5-World/NPCs/Springrun/Pip.md",
+    "5-World/Points of Interest/Springrun/Apothecarys Garden.md",
+    "5-World/Settlements/Springrun.md",
+    "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
+    "5-World/NPCs/Springrun/Kiri.md",
+    "5-World/NPCs/Springrun/Elara Whitethistle.md",
+    "5-World/NPCs/Springrun/Jorund Stonefist.md",
+    "5-World/Points of Interest/Springrun/Pioneers Forge.md",
+    "5-World/NPCs/Springrun/Bram Ironwood.md",
+    "zz-Attachments/Assets/PlaceholderImage.png.markers.json",
+    "zz-Attachments/kaelen-vane.png",
+    "5-World/NPCs/Springrun",
+    "zz-Attachments/shattered-hearth-inn.png",
+    "zz-Attachments/shattered-hearth-inn.png",
+    "zz-Attachments/shattered-hearth-inn.png.markers.json",
+    "5-World/Points of Interest/Springrun",
+    "zz-Attachments/springrun.png.markers.json",
+    "zz-Attachments/springrun.png",
+    "5-World/Points of Interest/Springrun/Untitled",
+    "5-World/Points of Interest/Springrun",
+    "4-Campaign/New Campaign",
+    "zz-Attachments/Assets/MapPlaceholder.png.markers.json",
+    "zz-Attachments/region-aetherial-highlands.png",
+    "zz-Attachments/Age of Worms-20241013135345875.webp",
+    "zz-Attachments/Experience Tracker-20241013142445460.webp",
+    "zz-Attachments/everburning-coal.png",
+    "zz-Attachments/zyrxog.png",
+    "zz-Attachments/zeta-windsnap.png",
+    "3-Rules/Character Building/Equipment/Homebrew/W"
   ]
 }

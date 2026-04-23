@@ -1,4 +1,4 @@
-![[Pasted image 20240714232950.png]]
+![[valoria.png]]
 
 A coastal kingdom that has thrived despite the challenges posed by the meteor strike. The kingdom's coastal location and skilled sky sailors, traders, and shipbuilders have allowed it to adapt and harness the unique opportunities presented by the changing world. Valoria is situated along a rugged coastline, featuring natural harbors and coves that provide safe ports for the kingdom's ships and sky vessels.  The kingdom's terrain includes coastal cliffs, sandy beaches, and rolling hills that gradually rise towards the interior of the land.
 

@@ -1,0 +1,7 @@
+- **Ancestry:** Gnome
+    
+- **Heritage:** Umbral Gnome
+    
+- **Personality:** A chaotic blur of energy who handles the "dangerous" mixing. Pip is fascinated by how **Primal Crystals** change the color of plant petals.
+    
+- **Hook:** Pip wants to see what happens if you dissolve a **Creature Core** in acid and will pester the players to bring them "anything that glows" from their expeditions.

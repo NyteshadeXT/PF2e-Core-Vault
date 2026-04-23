@@ -1,0 +1,7 @@
+- **Role:** Lead Weaver and Rope-Maker.
+    
+- **Description:** A wiry, energetic human woman with nimble fingers that never seem to stop moving, even when she isn't at the looms. She wears a belt laden with various types of cordage and specialized climbing gear.
+    
+- **Personality:** Unlike Bram, Mira is fascinated by the "strange distortions" and the new materials they might provide. She is the one who pushes the shop to experiment with integrating **Primal Crystal** weights into their looms to improve rope strength.
+    
+- **Hook:** Mira is secretly obsessed with the rumors of "structured wood" and "living fibers" seen near the **Verdant Hollow**. She will pay a premium (or trade specialized gear) for any samples of strange, silk-like fibers or resilient vines the party can harvest from the Dungeon's interior.

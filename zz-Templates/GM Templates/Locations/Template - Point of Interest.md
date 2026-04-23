@@ -53,25 +53,36 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > A script for the GM to read when the party arrive to this location for the first time.
 
 > [!metadata|map]- Map
-> ```leaflet
-> id: TBD
-> image: [[PlaceholderImage.png]]
-> lock: true
-> recenter: true
-> noScrollZoom: false
-> ### Use this ([Obsidian Leaflet Bounds Calculator - Google Sheets](https://docs.google.com/spreadsheets/d/1yz-qusYGh7_u-6PXlnad9nemcRRdGjnSPXg9DXk7y04/edit?gid=0#gid=0)) to work out your map's bounds.
-> ### bounds: [[0,0], [0, 0]] (Remove the ### and these parentheses with the content within from this line to enable the bounds)
-> height: 600px
-> width: 640px
-> lat: 0
-> long: 0
-> minZoom: 1
-> maxZoom: 6.5
-> defaultZoom: 1
-> zoomDelta: 0.5
-> unit: miles
-> scale: 1
-> darkMode: false
+> ```zoommap
+> image: zz-Attachments/Assets/MapPlaceholder.png
+> # markers is optional; defaults to <image>.markers.json
+> # markers: Assets/Map.jpg.markers.json
+> 
+> # Map view limits
+> minZoom: 0.3
+> maxZoom: 8
+> 
+> # Size & interactivity
+> height: 760px
+> width: 30%
+> resizable: true
+> resizeHandle: native     # left | right | both | native
+> render: canvas           # or: dom
+> 
+> # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+> responsive: false        # true → always fit; disables pan/zoom gestures
+> 
+> # Storage (optional)
+> # storage: note          # default is json; use "note" to store markers inline
+> # id: map-1              # optional stable id for inline storage (per code block)
+> 
+> # Alignment / wrapping (optional)
+> align: left             # left | center | right
+> wrap: true               # wrap text; useful with left/right alignment
+> view:
+>   zoom: 0.7513
+>   centerX: 0.486849
+>   centerY: 0.510427
 > ```
 
 > [!metadata|location]- Locations
@@ -108,8 +119,11 @@ art: zz-Attachments/Assets/PlaceholderImage.png
 > [!kirk|info] Prompt (Remove me)
 Create detailed descriptions for each keyed location within the Point Of Interest. Define each room or area with distinct characteristics. Include information on the size, layout, notable features, and potential points of interaction or interest within each location. Describe the ambiance, potential hazards, objects of importance, any interactive elements that might engage the players, or any loot to be found. How does each keyed location contribute to the overall exploration and gameplay experience within this Point of Interest?
 
-### Example
+### Notable Dishes
+Provide a few examples of dishes the location is known for if appropriate.
 
+### Notable Beverages
+Provide a few examples of beverages the location is known for if appropriate.
 
 ## Current Events
 

@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "grappling-gun-(clockwork)"
 aliases: "Grappling Gun (Clockwork)"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "64"
 rarity: ""
 trait01: "uncommon"
 trait02: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

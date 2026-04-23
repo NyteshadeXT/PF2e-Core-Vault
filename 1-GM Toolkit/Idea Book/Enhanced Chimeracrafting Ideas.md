@@ -3,6 +3,8 @@ Absolutely. With the foundation you’ve built in your **Chimeracrafting** syste
 Here are **7 unique ideas** to consider that would deepen, diversify, or differentiate your monster harvesting system even further:
 
 ---
+## 🧬 1A. **Chimeric Cooking**
+**Concept:** Cooking blends monster parts with rare herbs, spices, and magical ingredients to create powerful **meals**. These meals offer **temporary buffs**, narrative effects, or **unlock additional benefits** for refining and awakening if consumed beforehand. Unlike refining (which improves equipment) or awakening (which creates permanent magical effects), **cooking focuses on short-term, high-impact effects** through consumption.
 
 ## 🧬 1. **Resonant Sets**
 

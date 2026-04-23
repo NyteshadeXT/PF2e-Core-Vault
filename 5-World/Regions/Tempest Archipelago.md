@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232057.png]]
+![[region-tempest-archipelago.png]]
 
 The Tempest Archipelago is defined by its perpetual storms, which rage incessantly, shrouding the floating islands in thunder, lightning, and fierce winds. These relentless tempests pose a formidable challenge to any who dare approach, let alone traverse, the archipelago. The constant roar of thunder and crackle of lightning create an atmosphere of awe and dread, instilling a sense of primal wonder in those who gaze upon the storm-wracked skies.
 

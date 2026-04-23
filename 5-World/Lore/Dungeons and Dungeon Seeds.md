@@ -1,4 +1,4 @@
-![[Pasted image 20240714231654.png]]
+![[dungeon-entrance.png]]
 
 [[Kataklysmos]], seeking to create an overload of magical energy, redirected an asteroid to crash into Aetheria, intending to harness its destructive power. However, the asteroid's impact was far more powerful than he anticipated, resulting in a cataclysmic event known as the Shattering. This disaster splintered Aetheria into fragmented land masses and fractured ley lines, conduits of magic throughout Aetheria, across the globe. When the asteroid struck the planet's core, it unleashed a massive surge of raw mana, causing an explosion of magical energy that overloaded and further destabilized the ley lines. The force of the impact tore at the fabric of reality itself, weakening the barriers between Aetheria and countless other dimensions. These weakened barriers resulted in rifts through which otherworldly energies and entities began to seep, blending with the rampant magical chaos caused by the mana overload.
 

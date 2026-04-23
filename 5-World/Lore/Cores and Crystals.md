@@ -2,7 +2,7 @@
 
 In the fractured world of Aetheria, Creature Cores are not mere remnants but potent energy sources with multifaceted applications. Formed within the bodies of some creatures due to elevated levels of ambient mana, these crystalline cores are discovered within their slain bodies. Scholars work toward understanding their full potential.  Amongst their discoveries are the knowledge that Creature Cores are invaluable in the realm of magic. Their crystalline structure stores potent magical energy, which can be harnessed during spellcasting or the creation of magic items. This energy fuels incantations and enchantments and has begun to spark a renaissance of magical development. Mages and crafters covet these cores, as they enable spells of greater power and complexity, leading to an era of unprecedented magical advancements.
 
-![[Pasted image 20240714231738.png|right]]
+![[creature-core.png|right]]
 
 The unique properties of Creature Cores make them highly sought after in alchemy. Alchemists grind these crystals into powders or extracts, using them to create potions that enhance physical abilities, heal wounds, or confer temporary magical abilities. The versatility of Creature Cores allows alchemists to craft magical elixirs and tonics that are pivotal in both everyday life and combat, making them indispensable resources in the shattered world.
 

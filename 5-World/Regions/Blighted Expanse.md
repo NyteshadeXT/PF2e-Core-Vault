@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232627.png]]
+![[region-blighted-expanse.png]]
 
 The Blighted Expanse is characterized by its desolate and barren terrain, where the land lies parched and lifeless beneath an unforgiving sun. Barren deserts stretch as far as the eye can see, their sands scorched by the relentless heat, while scorched plains and lifeless wastelands bear the scars of ancient conflicts and cataclysmic events. The air is thick with an oppressive sense of decay and despair, as if the very essence of life has been drained from the land.
 

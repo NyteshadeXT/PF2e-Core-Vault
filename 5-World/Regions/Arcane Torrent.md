@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232411.png]]
+![[region-arcane-torrent.png]]
 
 In the Arcane Torrent, the energies of the meteor surge and flow like a river, weaving through the landscape in intricate patterns of shimmering light and pulsating magic. The very air crackles with arcane power, suffusing the land with an otherworldly glow and a sense of palpable energy. Spellcasters are drawn to this region like moths to a flame, seeking to harness the raw power of the arcane currents for their magical experiments and rituals.  The Arcane Torrent is a haven for spellcasters of all kinds, from wizards and sorcerers to warlocks and witches. Here, they can commune with the raw energies of the meteor, tapping into its boundless potential to fuel their spells and incantations. The landscape is dotted with ruins and fractured ley lines, each a source of arcane power waiting to be unlocked by those with the knowledge and skill to do so.
 

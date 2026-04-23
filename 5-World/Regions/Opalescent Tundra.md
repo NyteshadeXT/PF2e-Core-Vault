@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232454.png]]
+![[region-opalescent-tundra.png]]
 
 Opalescent Tundra stretches as far as the eye can see, a vast expanse of frozen plains and icy peaks that shimmer with opalescent hues. The ice that blankets the land reflects the light in a kaleidoscope of colors, painting the landscape with a breathtaking array of iridescence. Sunlight refracts through the crystalline formations, creating an ethereal glow that bathes the tundra in an otherworldly light.  Embedded within the ice of the Opalescent Tundra are rare and precious crystals that are as beautiful as they are valuable. From shimmering opals to sparkling diamonds, the tundra is a treasure trove of gemstones waiting to be unearthed by those brave enough to brave the frozen wastes. Yet, the crystals are not easily obtained, and seekers who seek to claim them must contend with the harsh conditions and treacherous terrain of the tundra.
 

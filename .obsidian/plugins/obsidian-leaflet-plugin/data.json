@@ -558,7 +558,7 @@
     {
       "id": "TBD",
       "locked": false,
-      "lastAccessed": 1775924886344,
+      "lastAccessed": 1776527107677,
       "markers": [
         {
           "id": "ID_6b884b4a6a49",
@@ -732,6 +732,9 @@
       "overlays": [],
       "shapes": [],
       "files": [
+        "5-World/Regions/Aetherial Highlands.md",
+        "5-World/Settlements/Firstwatch.md",
+        "5-World/Regions/Prismatic Canopy.md",
         "5-World/Points of Interest/Ardentia City/Spellweave Emporium.md"
       ]
     }

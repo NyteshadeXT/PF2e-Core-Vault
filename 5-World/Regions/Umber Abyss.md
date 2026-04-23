@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232324.png]]
+![[region-umber-abyss.png]]
 
 Deep chasms where the shadows seem to devour all light. The Umber Abyss is a subterranean realm with bioluminescent flora providing the only illumination. Creatures adapted to the darkness, as well as shadowy anomalies, dwell in the abyss.
 

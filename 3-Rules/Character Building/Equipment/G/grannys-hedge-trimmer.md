@@ -8,9 +8,9 @@ name: "grannys-hedge-trimmer"
 aliases: "Granny's Hedge Trimmer"
 source: "Pathfinder Adventure: Little Trouble in Big Absalom"
 pg: ""
-rarity: ""
+rarity: "rare"
 trait01: "magical"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,17 +22,18 @@ level: 1
 weight: 
 value: "0"
 subvalue: "gp"
+group: "Polearm"
 invest:
-usage: "held in one hand "
+usage: "two hands"
 license: "ORC"
 identify:
-description: "**Usage** Two hands  * * *  Granny's hedge trimmer resembles a polearm, with whirring blades attached to the end of a pole. The item can be used as a simple weapon in the polearm group that deals 1d4 slashing damage."
-powerTitle1:
+description: "Granny's hedge trimmer resembles a polearm, with whirring blades attached to the end of a pole. The item can be used as a simple weapon in the polearm group that deals 1d4 slashing damage."
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "Move the target 5 feet in a direction of your choice. This is forced movement."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: slashing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Simple
+weaponCategory: Melee
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

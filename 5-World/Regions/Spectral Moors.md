@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232351.png]]
+![[region-spectral-moors.png]]
 
 The Spectral Moors stretch as far as the eye can see, a desolate and haunting expanse of mist-covered marshlands and twisted trees. The land is shrouded in an oppressive silence, broken only by the occasional rustle of dead leaves or the distant cry of unseen creatures. Travelers who venture into the moors find themselves enveloped in an atmosphere of solitude and desolation, where the weight of the mist seems to press down upon them like a heavy cloak.
 

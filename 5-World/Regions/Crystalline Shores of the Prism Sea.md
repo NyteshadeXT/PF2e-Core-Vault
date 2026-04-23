@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232648.png]]
+![[region-crystalline-shores.png]]
 
 The Crystalline Shores are characterized by their shimmering sands, sparkling under the radiant light of the sun, and towering cliffs that overlook the few remaining watery expanses, the Prism Sea. The coastline is a vision of pristine beauty, where crystal-clear waters lap gently against the shore, and vibrant coral reefs thrive beneath the surface.
 

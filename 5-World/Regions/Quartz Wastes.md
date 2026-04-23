@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232119.png]]
+![[region-quartz-wastes.png]]
 
 The Quartz Wastes are a harsh and unforgiving landscape, where the allure of valuable crystals is tempered by the ever-present dangers of the desert. This land of beauty and peril attracts only the most skilled and determined seekers in search of riches and power.
 

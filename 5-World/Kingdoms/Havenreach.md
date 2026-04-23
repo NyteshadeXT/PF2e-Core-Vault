@@ -1,4 +1,4 @@
-![[Pasted image 20240714233012.png]]
+![[havenreach.png]]
 
 Havenreach is a fortified city-state strategically located in the shadow of a towering mountain range. This imposing natural barrier provides protection against the dangers of the fractured wilderness and shapes the city's way of life. Havenreach is surrounded by steep mountains on three sides, which serve as natural defenses against attacks from the outside world. The city's design focuses on defense, with high walls, fortified gates, and watchtowers that overlook the surrounding landscape. Within the city, buildings are constructed with durable materials such as stone and reinforced wood, providing safety and shelter for its inhabitants.
 

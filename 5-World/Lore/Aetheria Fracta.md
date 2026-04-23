@@ -4,7 +4,7 @@ Combining "Aether," a reference to the elemental and magical forces, with "Fract
 
 The Chaos Lord, [[Kataklysmos]], guided a celestial projectile to collide with Aetheria. The other higher powers of the world were caught off guard, their response too late. The impact of this object splintered Aetheria into myriad fragments, tearing the veil between our world and other planes of existence.  Ley lines, conduits of magic, fractured, releasing their arcane energy into the atmosphere. Ambient magic surged, altering the very fabric of reality.  Strange Primal Crystals began to grow throughout the land trapping elemental energies now readily available.  Once-mighty kingdoms crumbled as their lands broke away. Survival became a brutal contest where only the strongest endured.
 
-![[Pasted image 20240714230832.png|right]]
+![[kataklysmos-holy-symbol.png|right]]
 
 Seekers, drawn by curiosity and necessity, discovered monsters evolving into terrible new forms. Within these creatures, strange objects called Creature Cores formed, condensing mana and bestowing enhanced strength, stamina, and powerful abilities. Sages theorized that Creature Cores were a byproduct of the heightened ambient magic, making them highly coveted by magic users and crafters for their potential in spellcasting and magic item creation.
 

@@ -1,0 +1,33 @@
+{
+  "size": {
+    "w": 1024,
+    "h": 559
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "zz-Attachments/shattered-hearth-inn.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz-Attachments/shattered-hearth-inn.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}

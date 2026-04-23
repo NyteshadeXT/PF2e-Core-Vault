@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232511.png]]
+![[region-everbloom.png]]
 
 The Everbloom is a testament to the wonders of nature, where towering trees reach skyward, lush vegetation carpets the forest floor, and exotic flora and fauna thrive in abundance. The air is thick with the heady scent of flowers and the gentle hum of buzzing insects, while shafts of sunlight filter through the canopy above, casting dappled shadows on the forest floor. Magic permeates every corner of the verdant wilds, infusing the land with a sense of vitality and wonder.  The Everbloom is home to a diverse array of creatures, from towering giants and majestic beasts to diminutive sprites and mischievous fairies. Giant insects flit among the foliage, carnivorous plants lie in wait for unsuspecting prey, and fey creatures dance beneath the moonlight. Each corner of the wilds is teeming with life, with new wonders waiting to be discovered at every turn.
 

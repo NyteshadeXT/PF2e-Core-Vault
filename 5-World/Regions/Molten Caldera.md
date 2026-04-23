@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232251.png]]
+![[region-molten-caldera.png]]
 
 The Molten Caldera emerges as a fiery and dynamic region within Aetheria, characterized by its volcanic activity, molten lava rivers, and rich mineral deposits. Towering volcanic peaks belch plumes of ash and smoke into the sky, while eruptions leave behind jagged cliffs, craggy ridges, and fractured valleys where rivers of molten lava flow like fiery arteries through the land. The constant rumble of subterranean magma echoes through the caldera, a reminder of the raw power that lies beneath the surface.
 

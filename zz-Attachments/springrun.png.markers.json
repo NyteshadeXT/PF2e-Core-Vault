@@ -1,0 +1,193 @@
+{
+  "size": {
+    "w": 3029,
+    "h": 3377
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "layer_owas2q",
+      "name": "Pin Layer",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_l05i2d",
+      "x": 0.42093100033014197,
+      "y": 0.443456346856184,
+      "layer": "layer_owas2q",
+      "link": "Pearl Hall",
+      "iconKey": "pinRed",
+      "tooltip": "Pearl Hall"
+    },
+    {
+      "type": "pin",
+      "id": "marker_y07omu",
+      "x": 0.5584901507648289,
+      "y": 0.3941028773072747,
+      "layer": "layer_owas2q",
+      "link": "Primal Energy Hub",
+      "iconKey": "pinRed",
+      "tooltip": "Primal Energy Hub"
+    },
+    {
+      "type": "pin",
+      "id": "marker_c3z2oz",
+      "x": 0.5144712226257291,
+      "y": 0.5480857022998717,
+      "layer": "layer_owas2q",
+      "link": "Shattered Hearth Inn",
+      "iconKey": "pinRed",
+      "tooltip": "Shattered Hearth Inn"
+    },
+    {
+      "type": "pin",
+      "id": "marker_8hf25r",
+      "x": 0.8303070320237702,
+      "y": 0.4365468611193367,
+      "layer": "layer_owas2q",
+      "link": "Plaza of Resilience",
+      "iconKey": "pinRed",
+      "tooltip": "Plaza of Resilience"
+    },
+    {
+      "type": "pin",
+      "id": "marker_dwd3bz",
+      "x": 0.42203147353361953,
+      "y": 0.655676265916494,
+      "layer": "layer_owas2q",
+      "link": "Pioneer's Forge",
+      "iconKey": "pinRed",
+      "tooltip": "Pioneer's Forge"
+    },
+    {
+      "type": "pin",
+      "id": "marker_zcj9pa",
+      "x": 0.782986684274238,
+      "y": 0.5401891471720462,
+      "layer": "layer_owas2q",
+      "link": "The Apothecary’s Garden",
+      "iconKey": "pinRed",
+      "tooltip": "The Apothecary’s Garden"
+    },
+    {
+      "type": "pin",
+      "id": "marker_0td26g",
+      "x": 0.6190161769560911,
+      "y": 0.7010814579014906,
+      "layer": "layer_owas2q",
+      "link": "Wayside Shrine",
+      "iconKey": "pinRed",
+      "tooltip": "Wayside Shrine"
+    },
+    {
+      "type": "pin",
+      "id": "marker_933p13",
+      "x": 0.49356223175965663,
+      "y": 0.3329045750666272,
+      "layer": "layer_owas2q",
+      "link": "River-Mill & Granary",
+      "iconKey": "pinRed",
+      "tooltip": "River-Mill & Granary"
+    },
+    {
+      "type": "pin",
+      "id": "marker_20z1xc",
+      "x": 0.6388246946186861,
+      "y": 0.7563573437962688,
+      "layer": "layer_owas2q",
+      "link": "Canopy Outfitter",
+      "iconKey": "pinRed",
+      "tooltip": "Leatherworker & Weaver"
+    },
+    {
+      "type": "pin",
+      "id": "marker_9t2qws",
+      "x": 0.6597336854847585,
+      "y": 0.788930633698549,
+      "layer": "layer_owas2q",
+      "link": "The Ember Stables",
+      "iconKey": "pinRed",
+      "tooltip": "Stable & Livery"
+    },
+    {
+      "type": "pin",
+      "id": "marker_dzaei4",
+      "x": 0.3758115989875647,
+      "y": 0.5086029266607442,
+      "layer": "layer_owas2q",
+      "link": "The Surveyor’s Compass",
+      "iconKey": "pinRed",
+      "tooltip": "Cartographer & Navigator"
+    },
+    {
+      "type": "pin",
+      "id": "marker_as4u8a",
+      "x": 0.4341366787718719,
+      "y": 0.5164994817885697,
+      "layer": "layer_owas2q",
+      "link": "The Antiquarian",
+      "iconKey": "pinRed",
+      "tooltip": "Curio Shop"
+    },
+    {
+      "type": "pin",
+      "id": "marker_hs2igz",
+      "x": 0.4154286343127545,
+      "y": 0.7050297354654033,
+      "layer": "layer_owas2q",
+      "link": "Springrun Fishery",
+      "iconKey": "pinRed",
+      "tooltip": "Fishmonger & Smoker"
+    },
+    {
+      "type": "pin",
+      "id": "marker_8inyo8",
+      "x": 0.2954770551337075,
+      "y": 0.46615894284868226,
+      "layer": "layer_owas2q",
+      "link": "Prismatic Woodcrafts",
+      "iconKey": "pinRed",
+      "tooltip": "Cooper & Carpenter"
+    },
+    {
+      "type": "pin",
+      "id": "marker_0sjbkg",
+      "x": 0.418730053923187,
+      "y": 0.5609176043825881,
+      "layer": "layer_owas2q",
+      "link": "River’s Edge Market",
+      "iconKey": "pinRed",
+      "tooltip": "General Store"
+    }
+  ],
+  "bases": [
+    "zz-Attachments/springrun.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz-Attachments/springrun.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

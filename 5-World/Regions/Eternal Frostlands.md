@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232136.png]]
+![[region-eternal-frostlands.png]]
 
 The Eternal Frostlands present a stark and haunting landscape within the fractured world of Aetheria, where eternal winter reigns and ancient secrets lie buried beneath the ice. This land of beauty and danger is home to frost-resistant creatures that roam amidst towering glaciers and hidden dungeons, awaiting those brave enough to seek them out.
 

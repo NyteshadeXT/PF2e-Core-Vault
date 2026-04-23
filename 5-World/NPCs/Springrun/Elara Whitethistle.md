@@ -1,0 +1,7 @@
+- **Role:** Head Server and Amateur Cartographer.
+    
+- **Description:** A sharp-witted young half-elf who spends her breaks in the **Surveyor’s Study**. She is often seen carrying a tray of Blue-Glow Ales in one hand and a charcoal pencil in the other.
+    
+- **Personality:** Elara represents the "insatiable curiosity" of the new generation. She is obsessed with the "subtly changing paths" of the Deep Wilds and is eager to copy any sketches the party brings back from their incursions.
+    
+- **Hook:** She keeps a secret "Master Map" of the Prismatic Canopy in the private parlor and will trade local rumors for "coherent information" about the Dungeon’s interior layout.

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "grasp-of-droskar"
 aliases: "Grasp of Droskar"
 source: "Pathfinder Adventure: Crown of the Kobold King"
-pg: ""
+pg: "rare"
 rarity: ""
 trait01: "agile"
 trait02: "cursed"
 trait03: "invested"
 trait04: "magical"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -22,23 +22,24 @@ level: 5
 weight: L
 value: "155"
 subvalue: "gp"
+group: "Brawling"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+1 striking [[Equipment/Gauntlet|Gauntlet]]_ appears little more than a dull, soot-stained, metal-plated glove at first glance, but in truth it is an invasive boon granted by Droskar to his most faithful subjects. Placing the glove on your hand causes excruciating pain as your appendage curls into a tight fist and then slowly transforms to a supernaturally hard ball of black stone, fusing to you and preventing you from using this hand for anything other than gauntlet Strikes or the _grasp of Droskar_'s activated abilities (a _grasp of Droskar_ does not have the free-hand weapon trait). The gauntlet can't be removed without a successful casting of remove curse or a similar spell. The gauntlet reverts to normal (and can be removed with ease) if the curse is removed, the hand is removed from the body, or the wearer dies.  * * *  **Activate** `pf2:1` envision  **Frequency** once per hour  **Effect** You gain a +1 item bonus on all Athletics checks for 1 minute.  [[Equipment Effects/Effect_ Grasp of Droskar|Effect: Grasp of Droskar]]  * * *  **Activate** `pf2:2` envision  **Frequency** once per day  **Effect** You cast [[Spells/Enfeeble|Enfeeble]] with a spell attack modifier of +10 (Spell Attack) and (DC 20 Fortitude check)."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This _[[Weapon Potency (+1)|+1]] [[striking]] [[Gauntlet]]_ appears little more than a dull, soot-stained, metal-plated glove at first glance, but in truth it is an invasive boon granted by Droskar to his most faithful subjects. Placing the glove on your hand causes excruciating pain as your appendage curls into a tight fist and then slowly transforms to a supernaturally hard ball of black stone, fusing to you and preventing you from using this hand for anything other than gauntlet Strikes or the _grasp of Droskar_'s activated abilities (a _grasp of Droskar_ does not have the free-hand weapon trait). The gauntlet can't be removed without a successful casting of remove curse or a similar spell. The gauntlet reverts to normal (and can be removed with ease) if the curse is removed, the hand is removed from the body, or the wearer dies."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
+frequency1: "once her hour"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You gain a +1 item bonus on all [[Skills#Athletics|Athletics]] checks for 1 minute."
+powerTitle2: "Effect"
+actionEconomy2: "`pf2:2`"
+type2: "([[envision]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You cast [[Enfeeble]] with a spell attack modifier of +10 (Spell Attack) and (DC 20 Fortitude check)."
 craft:
 
 #========================================================#
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Gauntlet"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

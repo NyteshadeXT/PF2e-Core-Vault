@@ -5,7 +5,7 @@ tags:
 art: zz_Attachments/Misc/PlaceholderImage.png
 ---
 
-![[Pasted image 20240714232559.png]]
+![[region-celestial-cascades.png]]
 
 The Celestial Cascades are a series of majestic waterfalls that flow with the shimmering essence of liquid starlight, cascading down the rugged slopes of the Celestial Peaks like ethereal ribbons of luminescence. The sight of these cascading waters is a breathtaking spectacle, captivating all who behold them with their celestial beauty and radiant brilliance.  The waters of the Celestial Cascades are renowned for their potent healing properties, believed to possess the ability to restore vitality, mend wounds, and rejuvenate the spirit. Travelers and pilgrims flock to these sacred waters seeking solace and renewal, bathing in the liquid starlight in hopes of finding relief from ailments both physical and spiritual. Legends speak of miraculous healings and divine interventions that have occurred within the embrace of the Celestial Cascades, further fueling their reputation as a place of healing and restoration.
 
