@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "hail-of-arrows-snare"
 aliases: "Hail of Arrows Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "298"
 rarity: ""
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals 18d6 piercing damage. Creatures in the area must attempt a DC 37 Reflex check save."
+description: "When a creature enters the snare's square, it releases hundreds upon hundreds of carefully prepared arrows, blanketing a 20-foot radius around the snare's square with massive arrow fire that deals `dice: 18d6` piercing damage. Creatures in the area must attempt a DC 37 Reflex check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

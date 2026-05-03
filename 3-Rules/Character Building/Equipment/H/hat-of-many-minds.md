@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "hat-of-many-minds"
 aliases: "Hat of Many Minds"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "185"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to Earn Income.  * * *  **Activate** `pf2:3` envision, Interact  **Frequency** once per day  * * *  **Effect** You tear off a patch of cloth to manifest it into a copy of yourself, dressed in the color and fabric of the patch. The copy follows your specific instructions and performs a single, straightforward task for up to 30 minutes. It takes the copy three times as long to complete the task as it would you, meaning it can perform a task that would take you a maximum of 10 minutes. It doesn't react quickly enough to be of any use during an encounter, and it can't use your spells or other special abilities-just basic actions and skill actions.  The copy disappears and returns to the hat as a piece of cloth when the given task has been completed, or when you Dismiss the activation."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to [[Earn Income]]"
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:3`"
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You tear off a patch of cloth to manifest it into a copy of yourself, dressed in the color and fabric of the patch. The copy follows your specific instructions and performs a single, straightforward task for up to 30 minutes. It takes the copy three times as long to complete the task as it would you, meaning it can perform a task that would take you a maximum of 10 minutes. It doesn't react quickly enough to be of any use during an encounter, and it can't use your spells or other special abilities-just basic actions and skill actions.  The copy disappears and returns to the hat as a piece of cloth when the given task has been completed, or when you Dismiss the activation."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

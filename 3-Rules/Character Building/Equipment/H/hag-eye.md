@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "hag-eye"
 aliases: "Hag Eye"
 source: "Pathfinder Monster Core"
-pg: ""
-rarity: ""
+pg: "128"
+rarity: "rare"
 trait01: "invested"
 trait02: "occult"
 trait03: "scrying"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with [[Spells/Truesight|Truesight]] or similar magic, and anyone who interacts with the item feels its wet, sticky surface, allowing them to attempt to disbelieve the illusion (DC 19 Perception check). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.  The hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of their coven, to peer through the eye using the [[Actions/Seek|Seek]] action. This has no range limit, provided the hag is on the same plane.  Any damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Conditions/Blinded|Blinded]] for 1 hour.  * * *  **Craft Requirements** You are a hag."
+description: "This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with [[Truesight]] or similar magic, and anyone who interacts with the item feels its wet, sticky surface, allowing them to attempt to disbelieve the illusion (DC 19 [[Skills#Perception|Perception]] check). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.\n\nThe hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of their coven, to peer through the eye using the [[Seek]] action. This has no range limit, provided the hag is on the same plane.\n\nAny damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded]] for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "You are a hag."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

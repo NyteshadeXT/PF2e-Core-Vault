@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "grave-token"
 aliases: "Grave Token"
 source: "Pathfinder Lost Omens Impossible Lands"
-pg: ""
-rarity: ""
+pg: "177"
+rarity: "uncommon"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` envision  * * *  This simple charm is made from compacted grave dirt infused with bone dust. A [[Spells/Harm|Harm]] spell that's empowered by this catalyst can reach faraway targets. If the _harm_ spell is cast with 1 action, its range is 30 feet; if it's cast with 2 actions, its range is 60 feet. This has no effect on the three-action area version of _harm_, though in most cases, you don't have enough actions to Activate the token and cast a three-action _harm_ anyway."
+activate: "`pf2:1` [[envision]]"
+description: "This simple charm is made from compacted grave dirt infused with bone dust. A [[Harm]] spell that's empowered by this catalyst can reach faraway targets. If the _harm_ spell is cast with 1 action, its range is 30 feet; if it's cast with 2 actions, its range is 60 feet. This has no effect on the three-action area version of _harm_, though in most cases, you don't have enough actions to Activate the token and cast a three-action _harm_ anyway."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "grim-sandglass"
 aliases: "Grim Sandglass"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "171"
 rarity: ""
 trait01: "magical"
 trait02: "spellheart"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "One bulb of this tiny hourglass contains black sand, the other white. After even a few grains pass from one side to the other, it reverses its flow to keep the two sides in equilibrium. The spell DC of any spell cast by Activating this item is 17.  *   **Armor** You gain resistance 2 to void. *   **Weapon** After you Cast a Spell by Activating the _sandglass_, your Strikes with the weapon deal an additional 1d4 void damage until the end of your next turn.  [[Equipment Effects/Effect_ Grim Sandglass - Armor|Effect: Grim Sandglass - Armor]]  [[Equipment Effects/Effect_ Grim Sandglass - Weapon|Effect: Grim Sandglass - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Void Warp|Void Warp]]."
-powerTitle1:
+description: "One bulb of this tiny hourglass contains black sand, the other white. After even a few grains pass from one side to the other, it reverses its flow to keep the two sides in equilibrium. The spell DC of any spell cast by Activating this item is 17.\n\n * **Armor** You gain resistance 2 to void.\n * **Weapon** After you Cast a Spell by Activating the _sandglass_, your Strikes with the weapon deal an additional `dice: 1d4` void damage until the end of your next turn."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You cast [[Void Warp]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

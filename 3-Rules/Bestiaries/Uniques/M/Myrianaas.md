@@ -41,14 +41,14 @@ abilities_mid:
   - name: "Sunlight Vulnerability"
     desc: "In bright light, Myrianaas is [[dazzled]]."
   - name: "Innate Spells"
-    desc: "DC 26, spell attack +18; __At will__ *dancing lights*; __1/day each__ *[[darkness]]*, *[[faerie fire]]*"
+    desc: "DC 26, spell attack +18; __1/day each__ *[[darkness]]*, *[[faerie fire]]*"
   - name: "Sharathis’s Fury (Divine Smite)"
     desc: "⬻ ([[divine]], [[evocation]]); 1/day, Myrianaas makes a melee Strike and deals an extra `dice: 2d8` 2d8 damage. On a critical hit, the target is also [[frightened|frightened 1]]."
 
 abilities_bot:
   - name: "Divine Font"
     desc: "Myrianaas prepares additional [[harm]] spells each day and can spontaneously swap any prepared spell for [[harm]]."
-  - name: "Channel Undead"
+  - name: "Channel Undeath"
     desc: "3/day ⬺ ([[divine]], [[necromancy]]); Myrianaas channels negative energy to harm living creatures in a 30-foot emanation, dealing 4d8 negative damage (DC 26 basic Will). Undead instead regain that amount of HP."
   - name: "Spellcasting (Divine, DC 26, attack +18)"
     desc: "Myrianaas is an 8th-level spellcaster. She has prepared the following spells (from the domains of Destruction and Trickery, patron Sharathis):  __4th (2 slots)__: *[[divine wrath]] (chaos)*, *[[Heroism]]*, *[[confusion]]*  __3rd (3 slots)__: *[[dispel magic]]*, *[[3-Rules/Character Building/Spells/D/Darkness|Darkness]]*, *[[3-Rules/Character Building/Spells/H/Holy Light|Holy Light]]*  __2nd (3 slots)__: *[[spiritual weapon]]*, *[[Noise Blast]]*, *[[mirror image]]*, *[[False Vitality]]*  __1st (4 slots)__: *[[harm]]*, *[[Bless]]*, *[[bane]]*, *[[sanctuary]]*  __Cantrips (at will)__: *[[daze]]*, *[[3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic]]*, *[[guidance]]*, *[[shield]]*, *[[stabilize]]*"
@@ -58,16 +58,16 @@ speed: 20 feet
 ac: 26
 armorclass:
   - name: "AC"
-    desc: "26 (with shield raised); __Fort__ +15, __Ref__ +14, __Will__ +19; immune [[sleep]]; SR replaced with __Counteract DC 26__ vs spells"
+    desc: "26 (with shield raised); __Fort__ +15, __Ref__ +14, __Will__ +19; immune [[sleep]];"
 
 hp: 130
 health:
   - name: "HP"
-    desc: "130; __Shield Block__ 5 Hardness"
+    desc: "130;"
 
 attacks:
-  - name: "Melee • +1 Spell Storing Morningstar"
-    desc: "⬻ +18; __Damage__ `dice; 1d6+9` 1d6+9 bludgeoning plus stored spell effect (commonly *hold person*, DC 26 Will)."
+  - name: "Melee • +1 Fearsome Morningstar"
+    desc: "⬻ +18; __Damage__ `dice; 1d6+9` 1d6+9 bludgeoning plus fearsome on critical."
   - name: "Ranged • Hand Crossbow"
     desc: "⬻ +16 (range 60 feet, reload 1); __Damage__ `dice: 1d6+6` 1d6+6 piercing plus drow poison (DC 26)."
 

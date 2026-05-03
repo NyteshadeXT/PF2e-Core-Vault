@@ -612,7 +612,7 @@ creatures:
 
 > [!aside|no-icon]
 > #### Slow Worms
-> While the spawn of Kyuss carry green worms that rapidly convert other creatures into spawn, the obvious zombie-like nature of the spawn makes it hard for them to reach large population areas because they're easily spotted. Additionally, these worms cannot penetrate the hides of creatures with high natural armor. However, there is a different kind of worm—the “slow worm'"—that works more slowly and subtly, taking days or even weeks to convert its host and revealing its presence only at the last minute.  <br><br>Infection happens when a host creature swallows a slow worm. The worm begins to multiply within the host's body, slowly taking over healthy flesh. An Infected host must succeed аt а DC 15 Fortitude saving throw every day or lose 1d4 points of Constitution. When the creature’s Constitution reaches о, it dies and rises as a spawn of Kyuss 1d6+4 rounds later. Until the host becomes a spawn, its worms Cannot survive exposure to air; if the host dies from some other cause before the worms kill it, the worms crawl out of the dead host one round later and expire. <br><br>Slow worms can enter ап indefinite hibernation state if kept in liquid, awakening when they enter warm flesh, Worshipers of Kyuss are known to hide the worms in potions, wine bottles, and beer barrels, hoping to infect large numbers of victims with the worms and causing a horrible outbreak of spawn when the hosts succumb to the infection. If the worm is in a dark or opaque liquid or container, a creature drinking it must succeed at a DС 20 [[Skills#Perception|Perception]] check to realize they've swallowed something solid (the check is DC 10 if the worm is visible within the container), otherwise they are unaware of the infection. <br><br>Anything that kills or delays a normal spawn worm has the same effect on a slow worm. Other variants of Kyuss worms exist as well, including some capable of creating more powerful Spawn that retain their abilities from life in undeath, and others capable of creating the horrific creatures known as the worms that walk. 
+> While the spawn of Kyuss carry green worms that rapidly convert other creatures into spawn, the obvious zombie-like nature of the spawn makes it hard for them to reach large population areas because they're easily spotted. Additionally, these worms cannot penetrate the hides of creatures with high natural armor. However, there is a different kind of worm—the “slow worm'"—that works more slowly and subtly, taking days or even weeks to convert its host and revealing its presence only at the last minute.  <br><br>Infection happens when a host creature swallows a slow worm. The worm begins to multiply within the host's body, slowly taking over healthy flesh. An Infected host must succeed аt а DC 15 Fortitude saving throw every day or lose 1d4 points of Constitution. When the creature’s Constitution reaches 0, it dies and rises as a spawn of Kyuss 1d6+4 rounds later. Until the host becomes a spawn, its worms Cannot survive exposure to air; if the host dies from some other cause before the worms kill it, the worms crawl out of the dead host one round later and expire. <br><br>Slow worms can enter ап indefinite hibernation state if kept in liquid, awakening when they enter warm flesh, Worshipers of Kyuss are known to hide the worms in potions, wine bottles, and beer barrels, hoping to infect large numbers of victims with the worms and causing a horrible outbreak of spawn when the hosts succumb to the infection. If the worm is in a dark or opaque liquid or container, a creature drinking it must succeed at a DС 20 [[Skills#Perception|Perception]] check to realize they've swallowed something solid (the check is DC 10 if the worm is visible within the container), otherwise they are unaware of the infection. <br><br>Anything that kills or delays a normal spawn worm has the same effect on a slow worm. Other variants of Kyuss worms exist as well, including some capable of creating more powerful Spawn that retain their abilities from life in undeath, and others capable of creating the horrific creatures known as the worms that walk. 
 
 A stooped lizardfolk wearing necklaces and bracelets of animal's teeth stands at the ready, a snake coiled nearby. In one corner of the room are two human prisoners—a male soldier and a female mage—unconscious and bound. The shaman, Hishka, is wary but not immediately hostile (unless the worm-infected lizardfolk in 6C is dead and witnesses told the shaman that the PCs are responsible for the worms), Hishka is one of the chosen few of Semuanya, a sterile hermaphrodite gifted with an unusually keen mind. The shaman is unhappy with the aggressive stance of the new king, believing that open hostilities against the much larger population of [[Ardentia City]] will only spur the humans to greater excesses of aggression against the lizardfolk tribes, but is at a loss as to how to remove the king from his position of power. 
 
@@ -627,9 +627,6 @@ If the PCs choose to attack, Hishka fights back sadly. A survivalist at heart, H
 ## Area 9: Lair of the Lizard King
 > [!note]+ Read Aloud
 > This large room has a raised throne-like area at the north end built out of wood and large animal bones; the ground in front of the throne is stained with old blood. A small pool of water to the west of the throne splashes with small fish. 
-
-**Encounter Difficulty:**   
-- [ ] difficulty (xxx XP) Level xxx
 
 ```encounter
 name: Lair of the Lizard King
@@ -707,12 +704,12 @@ Six black-scaled kobolds stand guard in this area. The kobolds are “gifts” f
 The draconic kobolds attack any non-lizardfolk who enter the area, as well as any lizardfolk who seem hostile or intent on moving the eggs. 
 
 > [!tip]+ Treasure
-> Іп а north corner of the room is a small, unlocked chest that contains four dark glass vials—[[healing-potion-(moderate)|Healing Potion (Moderate)]], each contaminated with a slow worm. The kobolds are under orders from Ilthane to not open the chest or use what's inside; it's intended as a trap for any creature that slays them. 
+> Іп а north corner of the room is a small, unlocked chest that contains four dark glass vials—[[healing-potion-moderate|Healing Potion (Moderate)]], each contaminated with a slow worm. The kobolds are under orders from Ilthane to not open the chest or use what's inside; it's intended as a trap for any creature that slays them. 
 > 
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 
 ![[Findings in the Egg Chamber.png|right]]
 
@@ -753,7 +750,7 @@ Other methods of attacking the dragon egg produce different effects.
 + If it takes 20 ог more points of fire damage, the egg and worms are destroyed, resulting in a wet green-brown paste which a character with the [[Alchemical Crafting]] feat can use to make 4 doses of Kyuss worm paste or Kyussbane oil (see sidebar) by spending one day per dose crafting the item. No gp expenditure is necessary to make either of these items as long as the character has the feat and the raw paste. A DC 20 Knowledge ([[Skills#Crafting|Crafting]], [[Skills#Arcana|Arcana]] or [[Skills#religion|Religion]]) check is enough for a character to recognize this quality of the burnt worms. 
 
 > [!tip]+ Treasure
-> Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-(moderate)|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
+> Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-moderate|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
 > - [x] pp::2
 > - [x] gp::203
 > - [x] sp::240
@@ -761,8 +758,8 @@ Other methods of attacking the dragon egg produce different effects.
 > - [x] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
 > - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
 > - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
-> - [x] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
-> - [x] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [x] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 > - [x] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]
 > - [x] consumable::[[invisibility-potion|Invisibility Potion]] [ilvl::4] [gp::20]
 

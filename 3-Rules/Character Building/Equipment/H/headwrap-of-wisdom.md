@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "headwrap-of-wisdom"
 aliases: "Headwrap of Wisdom"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "270"
 rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,19 +26,19 @@ invest:
 usage: "worncirclet"
 license: "ORC"
 identify:
-description: "This simple scarf is designed for wrapping around the head and comes with a gemmed pin for decoration. When you invest the headwrap, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value.  * * *  **Activate—Consider the Consequences** `pf2:1` (concentrate)  **Frequency** once per day  **Effect** When you are considering a course of action, you get a gut feeling about whether it's a good idea. You gain the effects of an [[Spells/Augury|Augury]] spell, except that you receive the result from your own instincts rather than an external source.  * * *  **Activate—Reclaim Your Mind** `pf2:r` (concentrate, fortune)  **Frequency** once per hour  **Trigger** You fail a saving throw against an effect that makes you [[Conditions/Confused|Confused]], [[Conditions/Fascinated|Fascinated]], or [[Conditions/Stupefied|Stupefied]]  **Effect** The _headwrap of wisdom_ clears your mind. You can reroll the saving throw and use the better result."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This simple scarf is designed for wrapping around the head and comes with a gemmed pin for decoration. When you invest the headwrap, you either increase your Wisdom modifier by 1 or increase it to +4, whichever would give you a higher value."
+powerTitle1: "Consider the Consequences"
+actionEconomy1: "`pf2:1`"
+type1: "([[concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
-trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics1: "When you are considering a course of action, you get a gut feeling about whether it's a good idea. You gain the effects of an [[Augury]] spell, except that you receive the result from your own instincts rather than an external source."
+powerTitle2: "Reclaim Your Mind"
+actionEconomy2: "`pf2:r`"
+type2: "([[concentrate]], [[fortune]])"
+frequency2: "once per hour"
+trigger2: "You fail a saving throw against an effect that makes you [[Confused]], [[Fascinated]], or [[Stupefied]]"
+mechanics2: "The _headwrap of wisdom_ clears your mind. You can reroll the saving throw and use the better result."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

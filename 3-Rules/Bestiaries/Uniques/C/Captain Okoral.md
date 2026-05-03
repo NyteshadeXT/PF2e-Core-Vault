@@ -16,7 +16,7 @@ layout: Basic Pathfinder 2e Layout
 source: Custom
 name: "Captain Okoral"
 level: "Creature 10"
-token: Captain Okoral.png
+token: captain-okoral.png
 size: "Medium"
 trait_01: "humanoid"
 trait_02: "human"

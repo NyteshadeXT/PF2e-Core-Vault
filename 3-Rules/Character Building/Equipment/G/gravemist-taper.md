@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "gravemist-taper"
 aliases: "Gravemist Taper"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "74"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/gravemist-taper.png
 level: 5
 weight: L
 value: "25"
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  A _gravemist taper_ is a conical candle with symbols of terror and death carved into the wax. The taper can be used as a catalyst when casting an [[Spells/Mist|Mist]] spell, burning the taper away, coloring the mist gray, and filling the mist with ghastly, shadowy shapes. The flat check to overcome the [[Conditions/Concealed|Concealed]] state from the mist rises to 7, and a creature who fails such a check becomes [[Conditions/Frightened|Frightened 1]]. This aspect of the spell has the emotion, fear, and mental traits."
+activate: "Cast a Spell"
+description: "A _gravemist taper_ is a conical candle with symbols of terror and death carved into the wax. The taper can be used as a catalyst when casting an [[Mist]] spell, burning the taper away, coloring the mist gray, and filling the mist with ghastly, shadowy shapes. The flat check to overcome the [[3-Rules/Conditions/Concealed|Concealed]] state from the mist rises to 7, and a creature who fails such a check becomes [[Frightened|Frightened 1]]. This aspect of the spell has the emotion, fear, and mental traits."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

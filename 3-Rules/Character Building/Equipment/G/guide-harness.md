@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "guide-harness"
 aliases: "Guide Harness"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "105"
 rarity: ""
 trait01: "companion"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -1,46 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Grolna"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/alchemical
-  - trait/consumable
-  - trait/drug
-  - trait/ingested
-  - trait/poison
-  - trait/uncommon
-  - category/drug
-aliases: "Compendium.pf2e.equipment-srd.Item.I2ZbXsfm0c9Eep4I"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "grolna"
+aliases: "Grolna"
+source: "Pathfinder #157: Devil at the Dreaming Palace"
+pg: "81"
+rarity: "uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "drug"
+trait04: "ingested"
+trait05: "poison"
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 1
+group: 
+bulk: "L"
+value: "3"
+subvalue: "gp"
+invest: 
+usage: "held in one hand"
+license: "OGL"
+identify: ""
+description: "This caligni-made, murky-green drug supercharges a creature's olfactory senses at the expense of dulling their mind. Popular throughout the Darklands for its ability to transform normally dull scents and flavors into intense, euphoric experiences, grolna can also be a great aid to trackers who want to follow scent trails, turning ordinary humanoids into effective bloodhounds.\n\nTaking an additional dose of grolna while affected by the effects of stage 1 of a previous dose resets the duration of stage 1 and postpones the onset of stage 2 effects.\n\n**Saving Throw** DC 13 Fortitude check; **Onset** 1 minute; **Maximum Duration** 8 hours; **Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to [[Skills#Survival|Survival]] checks to follow tracks, and become [[Stupefied|Stupefied 1]] (1 hour); **Stage 2** [[Stupefied|Stupefied 2]] (6 hours)"
+activate: "`pf2:1` [[Interact]]"
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: ""
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: 
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Grolna
-## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[3-Rules/Trait Reference/P/poison]]
 
-**Category** drug; 
-**Price** 3 gp; 
-**Bulk** L; **Size** med
-**Usage** held-in-one-hand
 
-**Activate** `pf2:1` Interact
-
-* * *
-
-This caligni-made, murky-green drug supercharges a creature's olfactory senses at the expense of dulling their mind. Popular throughout the Darklands for its ability to transform normally dull scents and flavors into intense, euphoric experiences, grolna can also be a great aid to trackers who want to follow scent trails, turning ordinary humanoids into effective bloodhounds.
-
-Taking an additional dose of grolna while affected by the effects of stage 1 of a previous dose resets the duration of stage 1 and postpones the onset of stage 2 effects.
-
-* * *
-
-**Saving Throw** DC 13 Fortitude check
-
-**Onset** 1 minute
-
-**Maximum Duration** 8 hours
-
-**Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to Survival checks to follow tracks, and become [[Stupefied|Stupefied 1]] (1 hour)
-
-**Stage 2** [[Stupefied|Stupefied 2]] (6 hours)
-
-*Source: Pathfinder #157: Devil at the Dreaming Palace*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```

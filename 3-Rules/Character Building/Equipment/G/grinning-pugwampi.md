@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "grinning-pugwampi"
 aliases: "Grinning Pugwampi"
 source: "Pathfinder #149: Against the Scarlet Triad"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "misfortune"
 trait04: "talisman"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:0` envision  **Trigger** You damage an off-guard creature with the affixed weapon  This bone statuette of a sneering gremlin crumbles to dust when activated, imparting a fraction of its subject's infamous misfortune unto those you strike.  * * *  **Effect** The damaged creature must attempt a DC 33 Will check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature must roll twice and take the worse result on the next check it attempts.  **Failure** The creature must roll twice and take the worse result on all checks until the end of its next turn."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This bone statuette of a sneering gremlin crumbles to dust when activated, imparting a fraction of its subject's infamous misfortune unto those you strike."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You damage an off-guard creature with the affixed weapon"
+mechanics1: "The damaged creature must attempt a DC 33 Will check save.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature must roll twice and take the worse result on the next check it attempts.\n**Failure** The creature must roll twice and take the worse result on all checks until the end of its next turn."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

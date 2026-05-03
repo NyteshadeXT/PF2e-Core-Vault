@@ -1165,6 +1165,97 @@
         ],
         "sourcebook": "Altered from Ghast, _Bestiary_."
       }
+    ],
+    [
+      "Zyrxog, Mind Flayer Sorcerer",
+      {
+        "columns": 2,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Custom",
+        "name": "Zyrxog, Mind Flayer Sorcerer",
+        "level": "Creature 8",
+        "token": "zyrxog.png",
+        "rare_01": "Unique",
+        "size": "Medium",
+        "trait_01": "Aberration",
+        "trait_02": "Mind Flayer",
+        "modifier": 17,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+17; darkvision 60 ft."
+          }
+        ],
+        "languages": "Common, Elven, Dwarven, Undercommon; telepathy 100 ft.",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "__Arcana__ +18, __Deception__ +19, __Diplomacy__ +15, __Intimidation__ +17, __Occultism__ +18, __Stealth__ +16"
+          }
+        ],
+        "abilityMods": [
+          0,
+          4,
+          2,
+          5,
+          4,
+          6
+        ],
+        "abilities_top": [
+          {
+            "name": "Equipment",
+            "desc": "<STATBLOCK-WIKI-LINK>resilient|+1 resilient explorer's clothing<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>arboreal-boots-greater|Arboreal Boots (Greater)<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>ring-of-counterspells|Ring of Counterspells<STATBLOCK-WIKI-LINK>. <STATBLOCK-WIKI-LINK>Fireball|Wand of Fireball<STATBLOCK-WIKI-LINK>."
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": "Mind Blast",
+            "desc": "⬺ (<STATBLOCK-WIKI-LINK>occult<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>enchantment<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>mental<STATBLOCK-WIKI-LINK>); 30-foot cone, DC 26 Will save. On a failure, creatures are <STATBLOCK-WIKI-LINK>stunned|stunned 2<STATBLOCK-WIKI-LINK>; on a critical failure, they are <STATBLOCK-WIKI-LINK>unconscious<STATBLOCK-WIKI-LINK> for 1 minute. Once used, Mind Blast recharges in `dice: 1d4` 1d4 rounds."
+          },
+          {
+            "name": "Improved Grab",
+            "desc": "When Zyrxog hits with a tentacle, he can attempt an Athletics check to <STATBLOCK-WIKI-LINK>grab<STATBLOCK-WIKI-LINK> the target."
+          },
+          {
+            "name": "Extract Brain",
+            "desc": "⬺ (<STATBLOCK-WIKI-LINK>attack<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>occult<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>incapacitation<STATBLOCK-WIKI-LINK>); **Requirements** Zyrxog has a creature <STATBLOCK-WIKI-LINK>grabbed<STATBLOCK-WIKI-LINK> with all 4 tentacles. Effect: He tears into the victim’s skull. The target must succeed at a DC 26 Fortitude save or be reduced to 0 HP and <STATBLOCK-WIKI-LINK>dying|dying 2<STATBLOCK-WIKI-LINK>. On a success, they take `dice: 4d10+6` 4d10+6 piercing damage."
+          }
+        ],
+        "abilities_bot": [
+          {
+            "name": "Occult Innate Spells",
+            "desc": "DC 26, spell attack +18; __At will__ *<STATBLOCK-WIKI-LINK>detect thoughts<STATBLOCK-WIKI-LINK>*, *levitate*; __3/day__ *<STATBLOCK-WIKI-LINK>charm<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>suggestion<STATBLOCK-WIKI-LINK>*; __1/day__ *<STATBLOCK-WIKI-LINK>Interplanar Teleport<STATBLOCK-WIKI-LINK>* (self only)."
+          },
+          {
+            "name": "Sorcerer Spellcasting Occult, DC 26, attack +18",
+            "desc": "Zyrxog is a 7th-level spellcaster.  __4th (2 slots)__: *<STATBLOCK-WIKI-LINK>confusion<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>translocate<STATBLOCK-WIKI-LINK>*  __3rd (3 slots)__: *<STATBLOCK-WIKI-LINK>dispel magic<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>fireball<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>haste<STATBLOCK-WIKI-LINK>*  __2nd (3 slots)__: *<STATBLOCK-WIKI-LINK>mirror image<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>resist energy<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>Blazing Bolt<STATBLOCK-WIKI-LINK>*  __1st (4 slots)__: *<STATBLOCK-WIKI-LINK>Force Barrage<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>Enfeeble<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>shield<STATBLOCK-WIKI-LINK>*  __Cantrips (at will)__: *<STATBLOCK-WIKI-LINK>daze<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>3-Rules/Character Building/Spells/D/Detect Magic|Detect Magic<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>read aura<STATBLOCK-WIKI-LINK>*, *<STATBLOCK-WIKI-LINK>telekinetic projectile<STATBLOCK-WIKI-LINK>*"
+          }
+        ],
+        "speed": "30 feet",
+        "ac": 26,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "26; __Fort__ +15, __Ref__ +16, __Will__ +20; Resist mental 5; immune sleep, controlled"
+          }
+        ],
+        "hp": 125,
+        "health": [
+          {
+            "name": "HP",
+            "desc": "125;"
+          }
+        ],
+        "attacks": [
+          {
+            "name": "Melee • Tentacle",
+            "desc": "⬻ +18 (<STATBLOCK-WIKI-LINK>reach|reach 10 feet<STATBLOCK-WIKI-LINK>); __Damage__ `dice: 2d6+6` 2d6+6 bludgeoning plus <STATBLOCK-WIKI-LINK>grab<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "sourcebook": "Custom",
+        "mtime": 1777482740872,
+        "path": "3-Rules/Bestiaries/Uniques/Z/Zyrxog.md"
+      }
     ]
   ],
   "defaultLayouts": {

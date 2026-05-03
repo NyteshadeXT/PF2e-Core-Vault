@@ -651,7 +651,7 @@ Every hour spent searching comes with ап 8% chance of an encounter. If a battl
 ### Drow Caves
 A large patch of Beggar's Gold marks the entrance to Zyrxog's domain, just off an ancient and particularly deep (60 feet underground) sewer tunnel. The path to the mind flayer's personal domain crosses through an area of natural caves occupied by his drow thralls, who are generally not allowed in the main complex. The ceiling of these chambers and connecting corridors is 20 feet high unless noted otherwise. None of these caves are lit unless noted. The walls are unworked stone and the floors are uneven in most places, making the ground difficult terrain.
 
-#### M1. Fungus Cavern (EL б)
+#### M1. Fungus Cavern (EL 6)
 > [!note]+ Read Aloud
 > Patches of phosphorescent fungus light this large underground chamber, which Is littered with huge swaths of bright yellow fungus and toadstools of various sizes, some gigantic.
 
@@ -742,7 +742,7 @@ creatures:
   - 4: Husk Zombie
 ```
 
-#### Мб. Warding Glyph
+#### M6. Warding Glyph
 > [!note]+ Read Aloud
 > The cavern corridor widens into a small chamber before continuing onward. The floor has been smoothed here, and in the center is a large faintly glowing purple symbol.
 
@@ -773,7 +773,7 @@ creatures:
 ### Zyrzog's Sanctum
 These last chambers make up the mind flayer's private hold, visited only by his most trusted allies. All of the walls are carefully carved marble with a repeating tentacle pattern. Unless otherwise noted, each of these chambers has a 40-foot-high ceiling, while the corridor ceilings are only 20 feet high. The doors are stone and, aside from the entry doors, unlocked.
 
-#### М8. Stone Brain
+#### M8. Stone Brain
 > [!note]+ Read Aloud
 > In the center of this tall domed chamber is a large brain, carved from a single block of purple-veined white marble. Its veins seem to pulsate with every breath you take, as if aware of your presence. Four stone benches are arrayed around the room, each with a pair of iron manacles bolted to the top.
 
@@ -790,7 +790,7 @@ Zyrxog created this chamber to break the will of particularly stubborn thralls w
 
 This chamber is Zyrxog's laboratory, where he created the octopins and perfected a number of his other insidious experiments. The bookshelves are full of books on anatomy and arcane fusion techniques. The desk contains numerous logs pertaining to the creation of the octopins, along with notes on a new experiment that has yet to begin. In this new experiment, Zyrxog hopes to create a parasite that hides inside its host and makes it very susceptible to suggestion, something he tentatively calls a "mind worm." The door in this chamber leads to Zyrxog's scrying pool and is not locked.
 
-Creature: The tank in this chamber contains a large and rather nasty octo- pin that Zyrxog has been specially growing, Although not quite mature, it is still mobile and comes crawling out of the open-top tank when disturbed. When the party enters the room, it is hiding out of sight in the murk.
+**Creature:** The tank in this chamber contains a large and rather nasty octopin that Zyrxog has been specially growing, Although not quite mature, it is still mobile and comes crawling out of the open-top tank when disturbed. When the party enters the room, it is hiding out of sight in the murk.
 
 ```encounter
 name: M9 Laboratory
@@ -826,7 +826,7 @@ A permanent alarm spell wards this room, alerting Zyrxog of intruders with a sil
 
 **Case #2** The top shelf of this case contains four blank books labeled "unspeakable tome." A fifth book hides behind them, a vacuous grimoire. Beneath these is a weathered and tarnished bronze griffon figurine of wondrous power, Unfortunately, when used, the griffon is fiendish, and attacks the wielder until slain at which time it returns to its statue form. This case also contains four jars, each containing the preserved eyestalk of a beholder. There are six other empty jars behind these.
 
-**Case #3** A petrified pseudodragon sits on top of this glass case, If returned to flesh, it could be convinced to serve as a familiar. The top shelf of this case contains a stuffed doll that bears an uncanny (but coincidental) similarity to one of the PCs—the doll is pierced with 20 spikes from a spiked devil. The doll radiates strong void energy, but has no apparent effect, A 4-inch-thick tome wrapped in chains sits next to the doll. The book is a tiny animated object and flies around the room, attacking everyone until slain, The book lists the names of 100 demons, including their home and details of their conquests. On the bottom shelf is a battered longsword sword cursed to cause the wielder to fly into a rage and attack anyone around them.
+**Case #3** A petrified pseudodragon sits on top of this glass case, If returned to flesh, it could be convinced to serve as a familiar. The top shelf of this case contains a stuffed doll that bears an uncanny (but coincidental) similarity to one of the PCs—the doll is pierced with 20 spikes from a spiked devil. The doll radiates strong void energy, but has no apparent effect. A 4-inch-thick tome wrapped in chains sits next to the doll. The book is a tiny animated object and flies around the room, attacking everyone until slain. The book lists the names of 100 demons, including their home and details of their conquests. On the bottom shelf is a battered longsword sword cursed to cause the wielder to fly into a rage and attack anyone around them.
 
 In the center of the room is a vrock statue, Although bound in this form, the magic holding the fiend in place is set to release if the statue or any of the cases іs disturbed. The effect can be disarmed like a trap if discovered (DC 25 [[Skills#Perception|Perception]] check) and disabled (DC 28 [[Skills#Thievery|Thievery]] check).
 

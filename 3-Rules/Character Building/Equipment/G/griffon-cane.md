@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "griffon-cane"
 aliases: "Griffon Cane"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "67"
 rarity: ""
 trait01: "backswing"
 trait02: "two-hand-d10"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,6 +22,7 @@ level: 0
 weight: L
 value: "1"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand "
 license: "ORC"
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d6 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d6
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Martial
+weaponCategory: Melee
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Griffon Cane"
+SORT level ASC
+
+```

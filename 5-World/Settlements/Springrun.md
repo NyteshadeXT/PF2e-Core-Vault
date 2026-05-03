@@ -102,11 +102,17 @@ export:
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 > [!recite]- Introduction
-> Springrun greets you not with walls, but with the rushing sound of the river and the hum of crystal lanterns. To the west, the sturdiness of Pearl Hall speaks to an ambition that refuses to hide. To the east, the Haunted Bridge leads toward a cluster of homes and the open space of The Green. It is a village built on the edge of the world, illuminated by a light that feels both revolutionary and fragile.
+> The approach to Springrun feels unlike any other settlement in the region. Long before the village itself comes into view, the distant glow of blue-white crystal lanterns can already be seen shimmering through the trees of the Prismatic Canopy. The sound of rushing water and hammering workshops carries on the wind alongside laughter, music, and the steady hum of activity.
+> 
+> Springrun sprawls along both sides of a fast-moving river, connected by timber bridges reinforced with gleaming crystal braces. Much of the settlement appears newly built. Fresh timber, colorful awnings, and crystal-lit watchtowers rise amidst the vibrant foliage of the canopy. Workers move constantly through the streets carrying lumber, ore, and strange crystalline devices whose purposes are not immediately obvious. The village feels alive in a way few frontier settlements do. Hunters return from the forest with exotic game. Prospectors barter over glittering crystal fragments in crowded market stalls.
+> 
+> Yet beneath the optimism lies tension. Scouts returning from deeper within the forest speak in uneasy tones about strange disturbances spreading through the canopy. Trails vanish. Creatures behave unpredictably. Some travelers claim the forest itself feels different.
+> 
+> Still, few in Springrun speak of fear for long. To many here, the unknown is not something to hide from. It is an opportunity waiting to be claimed.
 
 > [!metadata|map]- Map
 > ```zoommap
-> image: zz-Attachments/springrun.png
+> image: zz-Attachments/springrun-map.png
 > # markers is optional; defaults to <image>.markers.json
 > # markers: Assets/Map.jpg.markers.json
 > 
@@ -116,7 +122,7 @@ export:
 > 
 > # Size & interactivity
 > height: 1040px
-> width: 55%
+> width: 75%
 > resizable: true
 > resizeHandle: native     # left | right | both | native
 > render: canvas           # or: dom
@@ -178,17 +184,36 @@ export:
 > ```
 
 ## Overview
-Springrun is a burgeoning frontier settlement defined by its refusal to hide from the scars of the Shattering. Built upon the ambitious philosophy that a broken world is simply one waiting to be rebuilt, the village serves as a beacon of progress within the dense, shifting foliage of the Prismatic Canopy. Unlike the rigid, defensive structure of its rival, Castlemere, Springrun is open and adaptive.
+Springrun is a burgeoning frontier settlement defined by its refusal to retreat from the scars of the Sundering. Built upon the belief that a broken world is simply one waiting to be rebuilt, the village has rapidly grown into one of the most ambitious settlements bordering the Prismatic Canopy.
 
-The settlement is physically split by a rushing river, centered around a growing **Energy Grid Substation** on the **Ember Bank** and the vibrant **Plaza of Resilience** within **The Green**. The architecture is a blend of pragmatic frontier woodcraft and advanced crystal integration, with **Primal Crystals** woven into the watchtowers and major buildings—like the imposing **Pearl Hall**—to provide light, heat, and structural stability. It is a town of risks and rewards, fueled by the harvesting of crystals and an insatiable curiosity about the unknown depths of the forest.
+Unlike the rigid, defensive structure of [[Castlemere]], Springrun embraces adaptability and expansion. The settlement is physically divided by a rushing river, with major districts spread across both banks and connected by reinforced wooden bridges illuminated by softly glowing Primal Crystals. The settlement’s architecture blends practical frontier construction with experimental crystal integration. Crystal-powered lanterns line the streets, stabilized crystal pylons reinforce important structures, and workshops throughout the village continually test new applications for harvested Primal Crystals. This spirit of experimentation defines much of Springrun’s culture. At the heart of the village lies the Plaza of Resilience, a bustling public square where merchants, explorers, hunters, and prospectors gather beneath vibrant crystal lanterns. Nearby stands Pearl Hall, the settlement’s growing administrative center and symbol of Springrun’s aspirations for the future.
+
+Economically, Springrun thrives on crystal prospecting, lumber, trade caravans, and exploration of the surrounding wilds. Adventurers and opportunists regularly arrive seeking fortune within the canopy, drawn by stories of rare crystals, exotic wildlife, and untapped ruins hidden beneath the shimmering trees.
+
+Though still small compared to older surviving settlements, Springrun’s rapid growth and willingness to embrace the unknown have made it both admired and deeply mistrusted throughout the region.
 
 ## Current Events
-Life in Springrun is currently charged with a mixture of excitement and growing unease. The village has recently issued a summons for skilled adventurers to assist in exploring the nearby wilds, leading to the arrival of the party. While the **Primal Crystal** mining operations are booming, rumors have begun to circulate regarding strange "distortions" in the natural world near a site now known as the **Verdant Hollow**. These distortions include creatures behaving with unprecedented aggression and flora that does not match pre-Shattering records. Internally, the young leadership faces minor strife as various factions debate whether to double down on crystal technology or pivot toward investigating the strange new "Dungeon" phenomenon.
+Life in Springrun is currently filled with equal parts excitement and apprehension. Recent crystal discoveries within the surrounding forest have fueled a surge of trade and migration, bringing new workers, prospectors, and explorers into the settlement almost weekly. Inns remain crowded, workshops operate day and night, and local leaders openly discuss plans for further expansion into the Deep Wilds. 
+
+At the same time, unsettling reports continue to emerge from expeditions returning from deeper within the Prismatic Canopy. Hunters describe animals behaving with unnatural aggression. Scouts report trails changing unexpectedly or leading to places that should not exist. Strange crystalline growths have begun appearing in isolated sections of the forest, unlike any previously cataloged by local prospectors. Most concerning are the rumors surrounding a newly discovered location known as the Verdant Hollow. Though details remain fragmented, multiple expeditions claim to have encountered an unnatural depression deep within the wilderness where navigation becomes unreliable and familiar landmarks seem distorted.
+
+Unlike Castlemere, many within Springrun view these discoveries not as threats, but as opportunities. The settlement’s leadership has quietly begun sponsoring exploratory expeditions into the region, believing whatever lies within the Hollow could redefine the future of the frontier. This growing enthusiasm has only worsened tensions with Castlemere, whose leaders increasingly accuse Springrun of reckless behavior that threatens the stability of the entire region.
 
 ## History
-Founded roughly 20 years after the Shattering, Springrun began as a small camp of survivors who chose to push outward rather than remain behind the walls of older remnants. Its founding was driven by the discovery of rich **Primal Crystal** veins in the area, which allowed the settlers to create sustainable energy solutions like lighting and heating in a hostile environment. Over the last two decades, it has grown into a significant village of 930 residents, symbolizing the "harmony between magic and technology" that defines the new era of Aetheria. Its history is short but marked by a bold spirit of innovation, having successfully integrated crystals into its cultural fabric through rituals, art, and the construction of the **Shattered Hearth Inn**.
+Springrun was founded in the chaotic years following the Sundering by survivors, prospectors, and explorers who refused to remain sheltered behind the walls of older settlements. Drawn by the discovery of rich Primal Crystal deposits along the edges of the Prismatic Canopy, these early settlers established a rough riverside camp that gradually evolved into a permanent community.
+
+Unlike many surviving settlements of the era, Springrun was not built upon the remnants of an older city. Nearly everything within the village has been constructed within the last two decades, giving the settlement an atmosphere of raw ambition and constant change. The discovery and practical use of Primal Crystals transformed Springrun from a struggling outpost into a rapidly growing frontier settlement. Local artisans and engineers learned to integrate crystal energy into lighting, heating, reinforcement, and basic infrastructure, allowing the village to thrive despite the dangers of the surrounding wilderness.
+
+This success also shaped Springrun’s culture. Innovation, experimentation, and risk-taking became deeply valued traits among its people. While many older settlements focused on preserving what remained of the old world, Springrun embraced the idea that the future belonged to those willing to explore the unknown. 
+
+In recent years, growing competition with Castlemere over trade routes, crystal resources, and influence throughout the region has created increasing political tension between the two settlements. Though open conflict has not yet erupted, distrust between the communities continues to grow.
 
 ## Notes
-- **The "Level 0" State:** At the start of the campaign, the local smithy and apothecary are not yet equipped to handle **Creature Cores** or **Dungeon Traits**.
-- **Visual Cues:** Emphasize the steady, blue glow of the **Primal Crystals** in the watchtowers and streetlights to contrast with the chaotic, shifting energies the players will soon find in the Hollow.
-- **The Summons:** The players are here because Springrun’s leadership is overconfident and believes the Dungeon is simply the "next great resource" to be harnessed.
+- Springrun represents optimism, ambition, and adaptability in contrast to Castlemere’s rigid structure and caution.
+- The settlement’s leadership views the Verdant Hollow primarily as a potential opportunity rather than an existential threat.
+- Crystal technology remains experimental and poorly understood despite its growing integration into daily life.
+- Most structures in Springrun are relatively new, giving the village a more vibrant and active appearance than older surviving settlements.
+- Blue-glowing Primal Crystals are woven throughout the settlement’s architecture and infrastructure.
+- The local smithy, apothecary, and artisans are not yet equipped to understand or utilize Creature Cores or Dungeon-related materials at the beginning of the campaign.
+- Several factions within Springrun disagree on how aggressively the settlement should pursue exploration of the Deep Wilds.
+- Many citizens view Castlemere as fearful, stagnant, and overly controlling, while Castlemere sees Springrun as dangerously reckless.

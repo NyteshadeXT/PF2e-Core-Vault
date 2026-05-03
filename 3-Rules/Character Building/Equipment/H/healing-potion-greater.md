@@ -1,0 +1,82 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "healing-potion-greater"
+aliases: "Healing Potion (Greater)"
+source: "Pathfinder GM Core"
+pg: "259"
+rarity: ""
+trait01: "consumable"
+trait02: "healing"
+trait03: "magical"
+trait04: "potion"
+trait05: "vitality"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/healing-potion.png
+level: 12
+weight: L
+value: "400"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+activate: "`pf2:1` ([[manipulate]])"
+description: "A _healing potion_ is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a _healing potion_, you regain `dice: 6d8+20` healing Hit Points."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

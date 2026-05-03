@@ -19,7 +19,7 @@ layout: Basic Pathfinder 2e Layout
 source: Custom
 name: "Loris Raknian"
 level: "Creature 14"
-token: Loris Raknian.png
+token: loris-raknian.png
 size: "Medium"
 trait_01: "humanoid"
 trait_02: "human"

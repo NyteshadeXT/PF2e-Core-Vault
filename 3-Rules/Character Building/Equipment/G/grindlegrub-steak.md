@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "grindlegrub-steak"
 aliases: "Grindlegrub Steak"
 source: "Pathfinder Lost Omens Highhelm"
-pg: ""
-rarity: ""
+pg: "73"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (Interact)  * * *  Fried grindlegrub is a common street food in Highhelm, but Sanra has elevated the dish to something almost gourmet for such pedestrian fare, bringing out both the height of its flavor and its natural energy boosting properties. You do not need to eat for three days after consuming a grindlegrub steak, and for that duration you gain a +1 item bonus to Fortitude saving throws against [[Conditions/Fatigued|Fatigue]] and the [[Conditions/Drained|Drained]] condition.  [[Equipment Effects/Effect_ Grindlegrub Steak|Effect: Grindlegrub Steak]]"
+activate: "1 minute ([[Interact]])"
+description: "Fried grindlegrub is a common street food in Highhelm, but Sanra has elevated the dish to something almost gourmet for such pedestrian fare, bringing out both the height of its flavor and its natural energy boosting properties. You do not need to eat for three days after consuming a grindlegrub steak, and for that duration you gain a +1 item bonus to Fortitude saving throws against [[Fatigue]] and the [[Drained]] condition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

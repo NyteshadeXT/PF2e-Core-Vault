@@ -9,7 +9,7 @@ aliases: "Half Plate"
 source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,17 +22,18 @@ level: 1
 weight: 3
 value: "18"
 subvalue: "gp"
+group: "Plate"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of full plate with greater flexibility and speed. A suit of this armor comes with an undercoat of [[Equipment/Padded Armor|Padded Armor]] and a pair of [[Equipment/Gauntlet|gauntlets]]."
-powerTitle1:
+description: "Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of full plate with greater flexibility and speed. A suit of this armor comes with an undercoat of [[Padded Armor]] and a pair of [[gauntlets]]."
+powerTitle1: "Armor Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,14 +58,14 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 5
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: "-3"
+speedPenalty: "-10ft."
+armorCategory: Heavy
+resist: 
 immunity:
 conditionImmunity:
 
@@ -75,3 +76,21 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE armorbase = "Half Plate"
+SORT level ASC
+
+```

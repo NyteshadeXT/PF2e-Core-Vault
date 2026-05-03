@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "gray-maiden-plate"
 aliases: "Gray Maiden Plate"
 source: "Pathfinder Adventure: Shadows at Sundown"
-pg: ""
+pg: "53"
 rarity: ""
 trait01: "bulwark"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,6 +22,7 @@ level: 2
 weight: 3
 value: "35"
 subvalue: "gp"
+group: "Plate"
 invest:
 usage: "wornarmor"
 license: "ORC"
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 6
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+dexCap: "+0"
+strRequirement: "+3"
+checkPenalty: "-3"
+speedPenalty: "-10ft."
+armorCategory: "Heavy"
 resist:
 immunity:
 conditionImmunity:
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Gray Maiden Plate"
+SORT level ASC
+
+```

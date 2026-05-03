@@ -428,7 +428,7 @@ function getActionDisplay(ae) {
   };
 
   // Return icon if known, otherwise return raw text (like "10 minutes")
-  return map[val] || ae;
+  return map[val] || `<span class="pf2e-time">${ae}</span>`;
 }
 
 function createPowerBlock(title, action, type, frequency, activate, requirement, trigger, duration, mechanics) {

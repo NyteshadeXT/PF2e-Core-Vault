@@ -5,12 +5,11 @@ tags:
 - compendium/src/pf2e/hb
 - trait/magical
 - trait/trap
-- trait/ward
 aliases: ["Glyph of Warding (Blast)"]
 ---
 
 # Glyph of Warding (Blast) *Hazard 8*  
-[magical](magical.md "Magical Item Trait") [trap](trap.md "Trap Hazard Trait") [ward](ward.md "Ward Trait")  
+[magical](magical.md "Magical Item Trait") [trap](trap.md "Trap Hazard Trait")
 
 **Stealth** DC 28 (trained) to notice faint glowing sigils on the ceiling; *detect magic* reveals the glyph’s aura.  
 **Description** A glyph inscribed on the ceiling erupts in a spray of acid whenever an intruder passes beneath it. Loyal servants of the chamber’s master can pass without danger.  

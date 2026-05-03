@@ -2,7 +2,6 @@
   "obsidian-5e-statblocks",
   "obsidian-admonition",
   "table-editor-obsidian",
-  "aprils-automatic-timelines",
   "obsidian42-brat",
   "buttons",
   "calendarium",
@@ -33,5 +32,6 @@
   "zoom-map",
   "ttrpg-tools-screen",
   "various-complements",
-  "image-converter"
+  "image-converter",
+  "ttrpg-tools-time"
 ]

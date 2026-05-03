@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "healers-gloves"
 aliases: "Healer's Gloves"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "290"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These clean, white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +1 item bonus to Medicine checks.  * * *  **Activate—Healer's Touch** `pf2:1` (manipulate)  **Frequency** once per day  **Effect** You can soothe the wounds of a willing, living, adjacent creature, restoring 2d6+7 vitality healing Hit Points to that creature. This is a healing vitality effect. You can't harm undead with this healing."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These clean, white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +1 item bonus to [[Skills#Medicine|Medicine]] checks."
+powerTitle1: "Healer's Touch"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You can soothe the wounds of a willing, living, adjacent creature, restoring `dice: 2d6+7` vitality healing Hit Points to that creature. This is a healing vitality effect. You can't harm undead with this healing."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -355,6 +355,8 @@ During their stay in the Coenoby, characters may hear all sorts of gossip and ru
 When the PCs awake on the first day, they find a crowd has gathered near the meal tables at the north end of the Coenoby—the day's battles have been posted to the wall near the door to area 17 and the gladiators are eager to see who they'll be fighting. The PCs are scheduled to fight in the second round, starting at 10:00 AM. Their opponents are the following teams “Arcane Auriga,” “Badlands Revenge,” and “Sapphire Squad.” The first battle is scheduled for 8:00 ΑΜ, so the PCs should have some time to appraise or even interact with members of these three teams. If they don't, the other gladiators certainly seek out the PCs to do the same.
 
 #### Arcane Auriga
+![[arcane-auriga.png|hm-tl]]
+
 This team consists of four elven women, exiles from the court of Celene for scandalous behavior unbefitting a noble. The elves don't talk about their checkered past, and tend to keep quietly to themselves. They assume any men who attempt conversation are boors seeking companionship, and are quick to send such away with insults and threats. Rennida Auriga is the leader of this group of fighters; the others are her daughter Krinasa and two cousins, Eelyssa and Anetah. Their initial attitude is unfriendly—if made helpful, they agree to work with the PCs to defeat Badlands Revenge and the Sapphire Squad before fighting the PCs. 
 
 [[Rennida]]
@@ -373,6 +375,8 @@ This team consists of four elven women, exiles from the court of Celene for scan
 4. Sapphire Squad last
 
 #### Badlands Revenge
+![[badlands-revenge.png|hm-tl]]
+
 Led by a human barbarian/druid named Joren. Badlands Revenge is a particularly savage group of gladiators. Joren leads a pair of kholo fighters he hired specifically for their skill with halberds and their capacity to do a lot of damage in a short mount of time. Joren’s band is even less communicative than Arcane Auriga, but observes the PCs carefully, seeking a weakness to exploit. Their initial attitude is hostile—if made helpful, the best the PCs can expect from this group is a promise to not strike death blows if the chance arises. Joren’s primary reason for entering the games is to avenge the hundreds of animals killed every year in the arena by Raknian’s gladiators. He hopes that by defeating Auric he'll deprive Raknian of fame, honor, and income. 
 
 [[Joren]]
@@ -390,6 +394,7 @@ A minute before the battle begins, Joren casts speak with animals, oaken resilie
 3. PCs
 
 #### Sapphire Squad
+![[sapphire-squad.png|hm-tl]]
 The swashbuckling ifrit Korush and his pair of blue-cloaked human mercenaries are the most pleasant of the three groups the PCs face. Korush is more than happy to spend the last few hours before the fight trading stories with the PCs. He entered the Champion's Games as much as to show off his combat skills as to have a chance at the prize money. Egotistical and proud, Korush levies his doubtful charms (consisting primarily of his battle prowess and improbable stories about his virility) on any female adventurers present, hoping to undermine their resolve against him in the fight to come. His initial attitude is indifferent (or friendly, if there are any female PCs on the team)—if made helpful, he agrees to ally with the PCs and to aid them in defeating Arcane Auriga and Badlands Revenge first. 
 
 [[Korush]]
@@ -987,7 +992,7 @@ creatures:
 > - [ ] permanent::[[purifying-spoon-(ladle)|Purifying Spoon (Ladle)]] [ilvl::2] [gp::32]
 > - [ ] consumable::[[Death Ward|Scroll of Death Ward]] [ilvl::9] [gp::150]
 > - [ ] consumable::[[Ethereal Jaunt|Scroll of Ethereal Jaunt]] [ilvl::13] [gp::600]
-> - [ ] consumable::[[healing-potion-(moderate)|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 > - [ ] consumable::[[dust-of-corpse-animation|Dust of Corpse Animation]] [ilvl::8] [gp::100]
 > - [ ] consumable::[[anointing-oil-greater|Anointing Oil (Greater)]] [ilvl::10] [gp::180] x3 (See above)
 

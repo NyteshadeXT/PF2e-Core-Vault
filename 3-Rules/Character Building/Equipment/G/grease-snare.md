@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "grease-snare"
 aliases: "Grease Snare"
 source: "Pathfinder Lost Omens Monsters of Myth"
-pg: ""
-rarity: ""
+pg: "113"
+rarity: "rare"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare releases a stream of grease that coats the area, making movement difficult and potentially making the target slippery and clumsy. The square with the snare, as well as three adjacent squares you determine when you set the snare, become difficult terrain when a creature triggers the snare. The triggering creature must attempt a DC 22 Reflex check saving throw. A creature can use three Interact actions to wipe away the grease from a single square or from the triggering creature; removing the grease from the triggering creature ends the effects on it.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature is [[Conditions/Clumsy|Clumsy 1]] for 1 round.  **Failure** For 1 minute, the creature is clumsy 1 and must roll twice and use the worse result whenever attempting a Thievery check. If the target rolls a failure at a Thievery check, it gets a critical failure instead. This is a misfortune effect.  **Critical Failure** As failure, but the effects last for 1 hour instead of 1 minute, and removing the grease from the triggering creature requires a 1-minute activity instead of three Interact actions."
+description: "This snare releases a stream of grease that coats the area, making movement difficult and potentially making the target slippery and clumsy. The square with the snare, as well as three adjacent squares you determine when you set the snare, become difficult terrain when a creature triggers the snare. The triggering creature must attempt a DC 22 Reflex check saving throw. A creature can use three Interact actions to wipe away the grease from a single square or from the triggering creature; removing the grease from the triggering creature ends the effects on it.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Clumsy|Clumsy 1]] for 1 round.\n**Failure** For 1 minute, the creature is [[Clumsy|Clumsy 1]] and must roll twice and use the worse result whenever attempting a [[Skills#Thievery|Thievery]] check. If the target rolls a failure at a [[Skills#Thievery|Thievery]] check, it gets a critical failure instead. This is a misfortune effect.\n**Critical Failure** As failure, but the effects last for 1 hour instead of 1 minute, and removing the grease from the triggering creature requires a 1-minute activity instead of three Interact actions."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

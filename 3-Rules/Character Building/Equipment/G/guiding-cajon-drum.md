@@ -6,11 +6,11 @@ cssclass: h-line
 notetype: pf2e-item
 name: "guiding-cajon-drum"
 aliases: "Guiding Cajon Drum"
-source: "Pathfinder Blog"
-pg: ""
+source: "Celebrating Hispanic Heritage Month"
+pg: "0"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,14 +26,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This wooden, box-shaped percussion instrument resonates with great power when struck. The drum is large enough that you can't play it while holding it. Instead, you sit on the drum and play it with both hands. Sitting on or standing up from the drum requires an action, which has the move trait. You're [[Conditions/Off-Guard|Off-Guard]] while sitting on the drum, but you gain a +1 item bonus to Performance checks to play the drum. The drum is loud and creatures within 100 feet of the drum can hear its music, regardless of the ambient noise, though it can't penetrate silence and similar magical effects.  * * *  **Activate** `pf2:1` Interact (auditory, emotion, enchantment, mental)  **Frequency** once per round  **Effect** You play the drum, unleashing a rhythm that gets other moving. Up to 2 allies that can hear the drum can use a reaction to Stride 5 feet."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This wooden, box-shaped percussion instrument resonates with great power when struck. The drum is large enough that you can't play it while holding it. Instead, you sit on the drum and play it with both hands. Sitting on or standing up from the drum requires an action, which has the move trait. You're [[Off-Guard]] while sitting on the drum, but you gain a +1 item bonus to [[Skills#Performance|Performance]] checks to play the drum. The drum is loud and creatures within 100 feet of the drum can hear its music, regardless of the ambient noise, though it can't penetrate silence and similar magical effects."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Interact]] ([[auditory]], [[emotion]], [[enchantment]], [[mental]]))"
+frequency1: "once per round"
 trigger1:
-mechanics1:
-powerTitle2:
+mechanics1: "You play the drum, unleashing a rhythm that gets other moving. Up to 2 allies that can hear the drum can use a reaction to Stride 5 feet."
+powerTitle2: 
 actionEconomy2:
 type2:
 frequency2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "grim-trophy"
 aliases: "Grim Trophy"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "265"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  * * *  This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, make an Intimidation check to [[Actions/Demoralize|Demoralize]] up to two targets, comparing your Intimidation check result to both of their DCs."
+activate: "`pf2:1` ([[concentrate]])"
+description: "This talisman comes in many forms, most often a severed piece of a humanoid creature displayed in some gruesome manner. When you activate the trophy, make an Intimidation check to [[Demoralize]] up to two targets, comparing your [[Skills#Intimidation|Intimidation]] check result to both of their DCs."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

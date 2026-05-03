@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "gunners-saddle"
 aliases: "Gunner's Saddle"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "182"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

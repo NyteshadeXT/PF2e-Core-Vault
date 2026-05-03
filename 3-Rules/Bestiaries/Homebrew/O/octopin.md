@@ -17,7 +17,6 @@ name: "Octopin"
 level: "Creature 7"
 token: octopin.png
 rare_01: "Uncommon"
-alignment: "LE"
 size: "Medium"
 trait_01: "Aberration"
 modifier: 15
@@ -27,7 +26,7 @@ perception:
 languages: "Undercommon (understands, cannot speak)"
 skills:
   - name: "Skills"
-    desc: "__Athletics__ +17, __Stealth__ +16, __Climb__ +19"
+    desc: "__Athletics__ +17, __Stealth__ +16"
 abilityMods: [4, 3, 3, -1, 1, 2]
 
 abilities_mid:
@@ -44,7 +43,7 @@ abilities_bot:
   - name: "Wall Climber"
     desc: "The octopin ignores difficult terrain when climbing and can always take 10 on Climb checks. It often clings to ceilings and ambushes prey from above."
 
-speed: 30 feet, climb 30 feet
+speed: 25 feet, climb 25 feet
 
 ac: 26
 armorclass:

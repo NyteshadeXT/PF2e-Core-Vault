@@ -2,8 +2,7 @@
 tags:
   - "#Location"
   - "#Settlement"
-art: zz_Attachments/Misc/PlaceholderImage.png
-language: Draconic
+art: zz-Attachments/Misc/PlaceholderImage.png
 ---
 
 > [!metadata|metadata]- Metadata 

@@ -1,6 +1,6 @@
 # Obsidian ToDos
 - [ ] Update items to new template
-	- Currently on letter 'G'
+	- Currently on letter 'H'
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
@@ -38,6 +38,10 @@
 - [ ] Add energy types to Charm of Resistance
 - [ ] [[golden-cased-bullet-standard|Golden-Cased Bullet (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
 - [ ] [[golden-silencer-standard|Golden Silencer (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
+- [ ] Make sure Green Dragon's Breath Potion has been removed and replaced with Energy Breath Potion (energy type).
+- [ ] Remove "Hand of the Mage" which was replaced by [[charlatans-gloves|Charlatan's Gloves]]
+- [ ] Remove "Hat of Disagreeable Disguise" if still present in the database under cursed items.  Hat of Disguise was replaced by Masquerade Scarf.
+- [ ] Add Healer's Gel and Healing Vapor to the critical item list.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?
