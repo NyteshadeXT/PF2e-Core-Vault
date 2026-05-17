@@ -38,7 +38,7 @@ reppoints:
 > # `=this.file.name`
 > ###### `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
 > ###### Info
-> | |
+>  |
 > ---|---|
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Type** | `VIEW[{organizationtype}][text]` |

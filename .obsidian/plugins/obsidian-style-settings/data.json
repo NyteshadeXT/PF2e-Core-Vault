@@ -75,11 +75,15 @@
   "supercharged-links@@f383-7125-before": "✨",
   "supercharged-links@@661a-4d85-before": "📅",
   "supercharged-links@@661a-4d85-weight": "bold",
-  "supercharged-links@@6eeb-1ccc-color": "#C1C80B",
+  "supercharged-links@@6eeb-1ccc-color": "#06E1FF",
   "supercharged-links@@6eeb-1ccc-weight": "bold",
   "supercharged-links@@6eeb-1ccc-before": "🎉",
   "ITS@@select": "pathfinder-remaster",
   "ITS@@default-statblock": true,
   "ITS@@breadcrumbs-block": false,
-  "ITS@@embed-bg@@dark": "#000000"
+  "ITS@@embed-bg@@dark": "#000000",
+  "supercharged-links@@fc80-2a5c-after": "\"\"",
+  "supercharged-links@@fc80-2a5c-before": "☠️",
+  "supercharged-links@@fc80-2a5c-weight": "bold",
+  "supercharged-links@@fc80-2a5c-color": "#79248D"
 }

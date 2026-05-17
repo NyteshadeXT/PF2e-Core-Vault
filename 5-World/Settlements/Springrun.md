@@ -4,16 +4,17 @@ tags:
   - "#Settlement"
 art: zz-Attachments/springrun.png
 language: Common
-pronounced: "Spring-run"
+pronounced: Spring-run
 aliases:
   - The New Light
   - The Hope of the Canopy
 settlementtype: Frontier Village
-terrain: Temperate Rainforest / Prismatic Canopy
+terrain: Temperate Rainforest
 defence: Crystal-Infused Watchtowers, Scouting Parties
-location: "[[Prismatic Canopy]]"
+location:
+  - "[[Prismatic Canopy]]"
 dominion: "[[Springrun Council]]"
-ruler: "[[TBD Council Head]]"
+ruler: "[[Edrik Hollowmere]]"
 leader: "[[TBD Lead Surveyor]]"
 organization:
   - "[[Springrun Council]]"
@@ -22,13 +23,13 @@ governmenttype: Ambitious Technocracy / Council
 population: "930"
 religion: "[[Aetherian Resilience / Nature Worship]]"
 import:
-  - "[[Raw Ores]]"
-  - "[[Textiles]]"
-  - "[[Experienced Labor]]"
+  - Raw Ores
+  - Textiles
+  - Experienced Labor
 export:
-  - "[[Primal Crystals]]"
-  - "[[Rare Flora]]"
-  - "[[Survey Data]]"
+  - Primal Crystals
+  - Rare Flora
+  - Survey Data
 ---
 
 > [!metadata|metadata]- Metadata 

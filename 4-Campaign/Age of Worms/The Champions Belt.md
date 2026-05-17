@@ -570,8 +570,8 @@ minZoom: 0.3
 maxZoom: 8
 
 # Size & interactivity
-height: 1000px
-width: 70%
+height: 800px
+width: 100%
 resizable: true
 resizeHandle: native     # left | right | both | native
 render: canvas           # or: dom
@@ -587,9 +587,9 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 view:
-  zoom: 0.7290
-  centerX: 0.500029
-  centerY: 0.500000
+  zoom: 0.4979
+  centerX: 0.496906
+  centerY: 0.500258
 ```
 
 ## Part III: The Hidden Shrine of Kyuss
@@ -704,7 +704,7 @@ During the day, arena attendants use this room for breaks. During the night, a p
 
 #### 12. Pantry
 > [!note]+ Read Aloud
-> This small room contains craters and jars of all sizes and shapes. Several dozen sausages hanging from the ceiling emanate an intense and pleasant smell of smoked meat.
+> This small room contains crates and jars of all sizes and shapes. Several dozen sausages hanging from the ceiling emanate an intense and pleasant smell of smoked meat.
 
 Preserved foods of all kinds (cheese, sausages, honey, and hardtack) are stored here.
 

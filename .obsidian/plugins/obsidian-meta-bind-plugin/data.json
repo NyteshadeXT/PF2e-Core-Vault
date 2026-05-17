@@ -128,6 +128,14 @@
     {
       "name": "Religion",
       "declaration": "INPUT[inlineSelect(option(Null), option(Aegis), option(Arcarios), option(Aurelius), option(Elara), option(Illyria), option(Kataklysmos), option(Liriel), option(Lysandra), option(Malakar), option(Morvael), option(Neralith), option(Sharathis), option(Sylvan), option(Thalor), option(The Old Gods), option(Valorus), option(Verena), option(Vorthron), option(Zerathos))]"
+    },
+    {
+      "name": "DungeonRank",
+      "declaration": "INPUT[inlineSelect(option(Null), option(Lesser), option(Greater), option(High), option(Cataclysm))]"
+    },
+    {
+      "name": "SeedStatus",
+      "declaration": "INPUT[inlineSelect(option(Null), option(Claimed), option(Unclaimed))]"
     }
   ],
   "buttonTemplates": [

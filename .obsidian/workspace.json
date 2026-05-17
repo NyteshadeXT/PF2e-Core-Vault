@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Regions/Prismatic Canopy.md",
-                "mode": "preview",
+                "file": "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prismatic Canopy"
+              "title": "Template - Dungeon"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Settlements/Castlemere.md",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Castlemere"
-            }
-          },
-          {
-            "id": "8da074cbc8c9468b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Z/Zyrxog.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Zyrxog"
+              "title": "The Champions Belt"
             }
           },
           {
@@ -172,7 +158,6 @@
       {
         "id": "5ec103416f7ceb25",
         "type": "tabs",
-        "dimension": 36.82170542635659,
         "children": [
           {
             "id": "b78a4713ad7ba3b3",
@@ -271,18 +256,17 @@
         "currentTab": 6
       },
       {
-        "id": "88cd43c9898a8f0b",
+        "id": "a2475bcb016c0d8f",
         "type": "tabs",
-        "dimension": 63.17829457364341,
         "children": [
           {
-            "id": "6971cee264e4e917",
+            "id": "2e2d58ab51da6dfd",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_89fb6a8b186a",
-                "creatureName": "Zyrxog"
+                "creatureId": "ID_0a7b882ac949",
+                "creatureName": "Auric"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -292,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5,
-    "collapsed": true
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,51 +305,51 @@
   },
   "active": "eed88783bc690480",
   "lastOpenFiles": [
+    "3-Rules/Bestiaries/Uniques/K/Korush.md",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "3-Rules/Bestiaries/NPC Core/E/Equestrian Constable.md",
+    "3-Rules/Bestiaries/Uniques/J/Joren.md",
+    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
+    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+    "windrose-md-data.json",
+    "1-GM Toolkit/Idea Book/Valindra Morrana.md",
+    "5-World/Settlements/Springrun.md",
+    "3-Rules/Hazards/Homebrew/P/prismatic-contamination-hb.md",
+    "3-Rules/Hazards/Homebrew/P/poisoned-ceiling-spear-hb.md",
+    "3-Rules/Hazards/Homebrew/S/symbol-of-fear.md",
+    "3-Rules/Hazards/A/abyss-warped-trees-qff2.md",
+    "3-Rules/Hazards/A/acid-strongbox-trap-qff1.md",
+    "3-Rules/Hazards/Homebrew/B/boiling-oil-chute-hb.md",
+    "3-Rules/Hazards/Homebrew/C/canopy-exposure-hb.md",
+    "3-Rules/Hazards/Homebrew/C",
+    "1-GM Toolkit/Idea Book/Random_Gems_Table.md",
+    "3-Rules/Character Building/Equipment/C/climbing-kit.md",
+    "5-World/Factions/Springrun Council.md",
+    "4-Campaign/The Shattering/ACT II - CLAIMS & CONSEQUENCES (Lv 7–10).md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "4-Campaign/The Shattering/Prologue.md",
+    "zz-Attachments/the-crystal-maw.png",
+    "zz-Attachments/the-broken-trail.png",
+    "2-Party/Party 2/Jaina BeautyNoodles.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
+    "5-World/NPCs/Springrun/Valerius Thorne.md",
+    "Fog of war.jpg",
+    "3-Rules/Dungeons",
+    "zz-Attachments/verdant-hollow.png",
     "zz-Attachments/castlemere-map.png.markers.json",
     "zz-Attachments/castlemere-map.png",
-    "5-World/Settlements/Cauldron.md",
-    "5-World/Settlements/Springrun.md",
-    "1-GM Toolkit/Idea Book/Settlement Template Ideas.md",
-    "5-World/Settlements/Castlemere.md",
-    "zz-Templates/GM Templates/Locations/Template - Settlement.md",
     "zz-Attachments/castlemere.png",
-    "5-World/Regions/Prismatic Canopy.md",
-    "4-Campaign/The Shattering/Campaign Planning.md",
     "zz-Attachments/springrun-map.png.markers.json",
     "zz-Attachments/springrun.png",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "3-Rules/Bestiaries/Uniques/R/Rennida.md",
     "zz-Attachments/sapphire-squad.png",
     "zz-Attachments/badlands-revenge.png",
     "zz-Attachments/arcane-auriga.png",
-    "3-Rules/Bestiaries/Uniques/C/Captain Okoral.md",
-    "3-Rules/Bestiaries/Uniques/L/Loris Raknian.md",
-    "3-Rules/Character Building/Equipment/H/Heavy Rondache.md",
-    "3-Rules/Character Building/Equipment/F/feng-huo-lun.md",
-    "3-Rules/Character Building/Equipment/H/heavenly-rolling-flames.md",
-    "3-Rules/Character Building/Equipment/H/heated-cloak.md",
-    "3-Rules/Character Building/Equipment/H/heartstone.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/H/heartripper-blade.md",
-    "3-Rules/Character Building/Equipment/H/heartmoss-major.md",
-    "3-Rules/Character Building/Equipment/H/heartmoss-greater.md",
-    "3-Rules/Character Building/Equipment/H/heartmoss.md",
-    "3-Rules/Character Building/Equipment/H/heartening-missive-rabbit.md",
-    "3-Rules/Character Building/Equipment/H/heartening-missive-butterfly.md",
-    "3-Rules/Character Building/Equipment/H/heartening-missive-turtle.md",
-    "zz-Attachments/heartblood-ring.png",
-    "zz-Attachments/healing-vapor.png",
-    "zz-Attachments/healing-potion.png",
-    "zz-Attachments/harpoon.png",
     "TTRPG/Time/weather-packs/general.weather-pack.json",
     "TTRPG/Time/event-presets",
     "TTRPG/Time/event-details",
     "TTRPG/Time/event-index",
-    "TTRPG/Time/weather-dayview",
-    "TTRPG/Time/weather-reference",
-    "TTRPG/Time/weather-packs",
-    "TTRPG/Time/tag-packs",
-    "TTRPG/Time/calendars"
+    "TTRPG/Time/weather-dayview"
   ]
 }

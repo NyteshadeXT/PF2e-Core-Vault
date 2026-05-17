@@ -6,7 +6,7 @@ aliases:
   - Dungeon 127
 quicknote: "Ardentia City: a shining gem in the crown of cultured civilization. Beneath the surface of this bustling metropolis is a rot, festering in the darkness, manipulating the lives of those unaware of its presence. Now a small adventuring band from out of town may be in over their heads. Their actions in Diamond Lake have attracted the wrath of one of the city’s hidden masters. A gang of infiltrators and an enigmatic mastermind plot their destruction, and only tracing the rot to the root can stop the onslaught."
 whichparty: "[[Age of Worms Party Dashboard]]"
-adventure_status: In Progress
+adventure_status: Not Started
 adventure_level: 7th to 9th
 ---
 
@@ -576,7 +576,7 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > This chamber contains а total of four traps, two identical pit traps and two pressure plates that set off a poisoned spear trap. The pit traps occupy 10-foot by 10-foot squares on both sides of the room in front of the stairs leading up to the throne. The pressure plates take up the 5-foot by 5-foot area at the top of the stairs near the throne, triggering a poison spear from the ceiling above.
 > 
 > [[wide-spiked-pit|Wide Spiked Pit]]
-> [[poisoned-ceiling-spear|Poisoned Ceiling Spear]]
+> [[poisoned-ceiling-spear-hb|Poisoned Ceiling Spear]]
 
 **Development** Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 23 [[skills#Perception|Perception]] check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
 
@@ -694,9 +694,9 @@ If combat does break out, Fassash uses _invisibility_ to flee the area and prepa
 > [!tip]+ Treasure
 > The naga's pool glows due to a phosphorescent fungus that grows at its bottom, but this is also where his treasure is kept. Scattered around the bottom of the pool are 8 pp, an four jade worth 5 gp each, and an ordinary corked glass bottle that. is actually [[bottled-air|Bottled Air]].
 > 
-> - [ ] pp::8
-> - [ ] gp::20
-> - [ ] permanent::[[bottled-air|Bottled Air]] [ilvl::7] [gp::320]
+> - [x] pp::8
+> - [x] gp::20
+> - [x] permanent::[[bottled-air|Bottled Air]] [ilvl::7] [gp::320]
 
 #### M4. Drow Enclave
 > [!note]+ Read Aloud
@@ -721,7 +721,7 @@ creatures:
 > [!tip]+ Treasure
 > Aside from their gear, the drow have little else of value. Myrianaas maintains a small shrine to Sharathis up in the sleeping caves, which includes a small jade statue of the goddess worth 30 gp.
 > 
-> - [ ] gp::30
+> - [x] gp::30
 
 #### M5. Chattel Pen
 A wall of iron bars running from floor to ceiling blocks the entrance to this chamber. An iron door is set into this wall of bars, but it is locked and only Myrianaas has the key. A DC 25 Open Lock check opens the door if the key is missing.
@@ -802,7 +802,7 @@ creatures:
 > [!tip]+ Treasure
 > Although most of the equipment is too bulky to move and of little value in its current state, the library is worth 100 gp if sold to a collector with dubious purposes (or 50 gp if sold to a respectable dealer).  If the books are all moved to a personal library the provide a +2 circumstance bonus to both [[Skills#Arcana|Arcana]] and [[Skills#Occultism|Occultism]] when performing [[Research]].
 > 
-> - [ ] gp::100
+> - [x] gp::100
 
 #### M10. Viewing Pool
 > [!note]+ Read Aloud
@@ -878,7 +878,7 @@ The octopins charge down the wall seeking to expose the party to their gaze, whi
 > [!tip]+ Treasure
 > Aside from Zyrxog's gear, the tadpoles in the pool are worth 1,000 gp if sold to the right shady dealer. However, if all the tadpoles are destroyed, the party should be awarded a hero point starting the next session.
 > 
-> - [ ] gp::1000
+> - [x] gp::1000
 
 > [!warning]
 > **Advance players to level 9 following this encounter.**
@@ -889,10 +889,10 @@ Behind the black column, Zyrxog maintains his private quarters, where he rests a
 > [!tip]+ Treasure
 > Opening the chest requires a DC 25 [[Skills#Thievery|Thievery]] check. The chest contains large bags full of coins. The bags contain 950 cp, 220 sp, 100 gp, and 5 pp. А fifth bag contains loose gemstones totaling 150 gp in value.
 > 
-> - [ ] pp::5
-> - [ ] gp::250
-> - [ ] sp::220
-> - [ ] cp::950
+> - [x] pp::5
+> - [x] gp::250
+> - [x] sp::220
+> - [x] cp::950
 
 ### Concluding the Adventure
 Should the PCs fail in their mission, they are more than likely dead. Should they survive, they have undoubtedly learned that they have a powerful new enemy— [[3-Rules/Bestiaries/Uniques/L/Loris Raknian]]. As long as the PCs remain in [[Ardentia City]], they are in danger.

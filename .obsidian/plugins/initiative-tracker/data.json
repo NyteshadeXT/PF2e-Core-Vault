@@ -39,6 +39,16 @@
       "ac": 24,
       "hp": 62,
       "modifier": 9
+    },
+    {
+      "note": "Jaina BeautyNoodles",
+      "path": "2-Party/Party 2/Jaina BeautyNoodles.md",
+      "name": "Jaina BeautyNoodles",
+      "ac": 22,
+      "hp": 46,
+      "level": 5,
+      "modifier": 12,
+      "player": true
     }
   ],
   "parties": [
@@ -49,6 +59,12 @@
         "Akiowen",
         "Zamosshe",
         "Jerrykk"
+      ]
+    },
+    {
+      "name": "The Shattering",
+      "players": [
+        "Jaina BeautyNoodles"
       ]
     }
   ],

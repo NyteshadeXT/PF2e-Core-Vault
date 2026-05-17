@@ -1,12 +1,22 @@
 ---
 tags:
   - Organization
-art: zz_Attachments/Misc/PlaceholderImage.png
-pronounced: Aetherial Stabilization Corps
+art: zz-Attachments/Assets/PlaceholderImage.png
+pronounced: Spring-run Council
+aliases:
+  - The Council
+  - Springrun Assembly
 organizationtype:
-  - Corps
+  - Council
+head:
+  - "[[Edrik Hollowmere]]"
+steward:
+  - "[[Sister Elowen Vale]]"
+hq:
+  - "Pearl Hall"
 location:
-  - "[[Ardentia City]]"
+  - "[[Springrun]]"
+reppoints: 0
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -36,12 +46,13 @@ location:
 > **Worship** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):worship]` |
 > **HQ** | `INPUT[Null][suggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):hq]` |
 > **Operating Areas** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates"), useLinks(partial)):location]` |
+> **Starting Reputation Points** | `INPUT[number:reppoints]` |
 
 > [!infobox]+
 > # `=this.file.name`
-> ###### `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
+> `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
 > ###### Info
-> | |
+>  |
 > ---|---|
 > **Aliases** | `VIEW[{aliases}][text]` |
 > **Type** | `VIEW[{organizationtype}][text]` |
@@ -54,64 +65,70 @@ location:
 
 # **`=this.file.name`** <span style="font-size: medium">"`VIEW[{pronounced}]`"</span>
 
-> [!kirk|info] Info (Remove me)
-> Organization: Organizations can be anywhere from a small band of misfits to an entire Nation.
-
 > [!metadata|geography]- Geography
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Geography") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
+
 
 > [!metadata|county]- County
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(terrain, ", ") AS Terrain, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "County") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
 
 > [!metadata|settlements]- Settlements
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, settlementtype AS Type, defence AS Defences, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Settlement") AND econtains(organization, this.file.link)
 > SORT dominion ASC, file.name ASC
+> ```
 
 > [!metadata|district]- Districts
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(districttype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "District") AND econtains(organization, this.file.link)
 > SORT districttype ASC, file.name ASC
+> ```
 
 > [!metadata|location]- Locations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(organization), ", ") AS "Organization(s)"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "POI") AND econtains(organization, this.file.link)
 > SORT poitype ASC, file.name ASC
+> ```
 
 > [!metadata|organizations]- Child Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Organization") AND econtains(organization, this.file.link)
 > SORT organizationtype ASC, file.name ASC
+> ```
 
 > [!metadata|characters]- Characters
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(tags, "Character") AND econtains(organization, this.file.link) AND !contains(condition, "Dead")
 > SORT tags DESC, file.name ASC
+> ```
 
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
+> ```
 
 ## Overview
 
@@ -123,8 +140,7 @@ location:
 > [!kirk|info] Prompt (Remove me)
 > Detail the culture embedded within this organization. What is its mission statement or core philosophy? Explore its code of conduct, values, and ethical guidelines that guide its members. How does this organization recruit new members, and what criteria do they look for? Define the hierarchy or ranks within the group and the significance of each level. Additionally, describe any uniforms, symbols, or insignia that members might wear to signify their affiliation. How do these cultural elements shape the identity and operations of this organization?
 
-### Example
-## Acquaintances
+## Alliances and Adversaries
 
 > [!kirk|info] Prompt (Remove me)
 > Map out the network of relationships this organization maintains with other groups and individuals. Who are their allies, rivals, or adversaries? Detail the nature of these connections, whether they're alliances based on shared interests, longstanding rivalries, or uneasy truces. What events or conflicts have shaped these relationships? Furthermore, explore the interactions and dealings this organization has with influential individuals or entities outside its circle. How do these connections influence the organization's operations and goals?
@@ -139,10 +155,32 @@ location:
 > [!kirk|info] Info (Remove me)
 > Trace the roots and evolution of this organization through time. Explore its founding, pivotal moments, and transformative events that shaped its trajectory. What were the circumstances that led to its creation? Detail significant milestones, challenges, or triumphs that have defined its history. How has the organization adapted to changes, crises, or conflicts over the years? Uncover the legacy and historical narrative that have molded this group into what it is today.
 
+## Reputation Benefits (Starting Reputation `VIEW[{reppoints}][text]`)
+> [!kirk|info] Prompt (Remove me)
+> Starting Reputation Points for each faction are listed here, along with any advantages and disadvantages for each tier of reputation (if a tier is not listed, then no advantage or disadvantage is gained at that tier). Reputation Points can be earned or lost as the GM sees fit, using the guidelines for favors and disservices on page 200 of the GM Core book as examples, but certain events during the course of play can also give Reputation Point rewards as indicated.
+
+> [!note]+ **Revered**
+> Text
+
+> [!note]+ **Admired**
+> Text
+
+> [!note]+ **Liked**
+> Text
+
+> [!note]+ **Ignored**
+> Text
+
+> [!note]+ **Disliked**
+> Text
+
+> [!note]+ **Hated**
+> Text
+
+> [!note]+  **Hunted**
+> Text
+
 ## Notes
 
 
 
-
- 
- A particularly intense surge of energy originating from the [[Aetherial Observatory]] triggered a massive gravitational anomaly in the city, causing buildings and people to levitate uncontrollably. The Conclave and Terramore Academy worked together to contain the anomaly and stabilize the area. The incident led to the establishment of the **Aetherial Stabilization Corps**, a specialized group responsible for monitoring and managing the unpredictable effects of the Dungeon Seed's energies.

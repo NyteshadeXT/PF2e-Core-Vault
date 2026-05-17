@@ -79,7 +79,7 @@ dominion:
 > [!metadata|settlements]- Settlements
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, settlementtype AS Type, defence AS Defences, join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "Settlement")
 > SORT nation ASC, file.name ASC
 > ```
@@ -87,7 +87,7 @@ dominion:
 > [!metadata|location]- Locations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(poitype, ", ") AS Type, join(link(organization), ", ") AS "Organization(s)", join(link(dominion), ", ") AS "Dominion"
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(location, this.file.link) AND contains(tags, "POI")
 > SORT tags DESC, poitype ASC, file.name ASC
 > ```
@@ -95,7 +95,7 @@ dominion:
 > [!metadata|organizations]- Organizations
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, join(organizationtype, ", ") AS Type
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE contains(location, this.file.link) AND contains(tags, "Organization")
 > SORT organizationtype ASC, file.name ASC
 > ```
@@ -111,7 +111,7 @@ dominion:
 > [!metadata|rumour]- Rumours
 > ```dataview
 > TABLE without id file.link AS "Name", accuracy AS Accuracy, quicknote AS Notes
-> FROM "Campaign"
+> FROM "5-World"
 > WHERE econtains(subject, this.file.link) AND contains(tags, "Rumour")
 > SORT file.name ASC
 > ```
@@ -136,4 +136,97 @@ The Prismatic Canopy is a sought-after destination for seekers and explorers see
 
 ## Notes
 
+> [!tip]+ Flora of the Prismatic Canopy
+> ### Prismbloom Orchids
+> Large translucent flowers that grow in clusters along the trunks of ancient trees. During daylight, their petals refract sunlight into shifting rainbows that dance across the forest floor. At night, the flowers softly glow with stored magical energy. Travelers sometimes follow these blooms only to discover the flowers subtly rearrange their orientation each evening, creating entirely different “paths.”
+> 
+> - **Useful Properties:** Petals can be distilled into ingredients for illusion magic, invisibility elixirs, or chromatic spell catalysts.
+> - **Hazard:** Overexposure to concentrated pollen causes hallucinations and distorted depth perception.
+> - **Rumor:** Some believe Prismblooms grow where the veil between planes is weakest.
+> 
+> ### Embervine Creepers
+> Thick crimson vines that pulse faintly like veins carrying molten light beneath their bark. They wrap around ruined stonework and dead trees, siphoning heat and magical energy. When disturbed, the vines rapidly tighten and emit bursts of hot ash.
+> 
+> - **Useful Properties:** Sap burns with nearly smokeless flame and is prized by alchemists.
+> - **Hazard:** When cut, the vines scream with a high-pitched resonance that attracts predators.
+> - **Visual Detail:** The vines leave glowing ember-like footprints across bark and stone.
+> 
+> ### Whisperleaf Ferns
+> Silver-blue ferns that react to nearby speech. Their fronds rustle in response to voices, often repeating fragmented whispers hours after conversations occurred nearby. Entire groves sometimes murmur with echoes from travelers long gone.
+> 
+> - **Useful Properties:** Sages use preserved leaves in memory rituals and divination.
+> - **Hazard:** Particularly large groves can disorient travelers by repeating misleading sounds.
+> - **Adventure Hook:** A Whisperleaf grove repeatedly whispers the name of a missing expedition member.
+> 
+> ### Skyglass Reeds
+> Tall crystal-like reeds that grow along elevated rivers and floating stone shelves. Wind passing through them creates haunting harmonic tones that can be heard for miles. The sound shifts based on atmospheric magic currents.
+> 
+> - **Useful Properties:** The hollow reeds are used in magical instruments and resonance-based spell foci.
+> - **Hazard:** Violent storms can cause the reeds to shatter explosively into razor fragments.
+> - **Interesting Feature:** Some Dungeon Seekers use the reeds as crude weather predictors.
+> 
+> ### Moonveil Moss
+> A pale luminescent moss that grows only on surfaces touched by moonlight. The moss absorbs ambient mana and glows brighter near portals, Dungeon entrances, or dimensional anomalies.
+> 
+> - **Useful Properties:** Can be brewed into low-lightvision tonics.
+> - **Hazard:** Creatures coated in fresh Moonveil Moss become easier to track at night.
+> - **Behavior:** The moss slowly creeps toward magical disturbances over time.
 
+---
+
+> [!tip]+ Fauna of the Prismatic Canopy
+> ### Glimmerfox
+> A sleek fox-like creature with crystalline fur that refracts light into mirrored afterimages. Glimmerfoxes are intelligent scavengers that steal magical trinkets, gemstones, and potion bottles. When startled, they split into several illusionary duplicates before fleeing.
+> 
+> - **Behavior:** Extremely curious and playful unless cornered.
+> - **Threat Level:** Low individually, but frustrating in groups.
+> - **Interesting Trait:** Their tails flicker with colors matching nearby emotional states.
+> 
+> ### Canopy Striders
+> Massive six-legged herbivores resembling a blend of elk and giraffe. Their elongated bodies allow them to walk between the enormous roots and elevated branches of the forest. Moss and small ecosystems grow along their backs.
+> 
+> - **Behavior:** Generally peaceful unless young are threatened.
+> - **Useful Resource:** Shed crystalline antlers are valuable magical crafting components.
+> - **Visual Detail:** Tiny birds and lizards live symbiotically on their hides.
+> 
+> ### Prismwing Drakes
+> Small draconic predators with translucent wings resembling stained glass. They nest high within floating stone formations and hunt by bending light around themselves. Packs descend silently before attacking.
+> 
+> - **Behavior:** Territorial and highly intelligent.
+> - **Threat Level:** Moderate.
+> - **Special Ability:** Their scales briefly flash with elemental energy when threatened.
+> 
+> ### Hollowroot Burrowers
+> Blind insectoid tunnelers with bark-like chitin and glowing mandibles. They tunnel beneath the forest floor feeding on magically infused roots. Their movement destabilizes terrain and occasionally collapses ruins or pathways.
+> 
+> - **Behavior:** Avoid light and vibrations.
+> - **Threat Level:** Dangerous in swarms.
+> - **Adventure Hook:** A settlement’s crystal energy grid begins failing because Burrowers are feeding on underground conduits.
+> 
+> ### Lumen Moths
+> Large moths with bioluminescent wing patterns resembling constellations. They gather near magical disturbances and Dungeon entrances in enormous swarms. Scholars believe they are instinctively drawn to dimensional instability.
+> 
+> - **Behavior:** Harmless individually.
+> - **Strange Effect:** Prolonged observation of their wing patterns can induce prophetic dreams.
+> - **Cultural Note:** Some local villagers interpret their migration patterns as omens.
+>
+> ### Thornmaw Stalker
+> A panther-like apex predator covered in thorny bark plates and bioluminescent fungal growths. The creature can flatten itself against tree trunks, becoming nearly indistinguishable from the surrounding forest. It ambushes prey with explosive bursts of speed.
+> 
+> - **Behavior:** Solitary and patient.
+> - **Threat Level:** High.
+> - **Special Trait:** Wounds inflicted by its claws occasionally sprout invasive crystal growths if untreated.
+> 
+> ### Echo Harriers
+> Floating avian predators with elongated featherless wings and translucent bodies. These creatures hunt by detecting sound vibrations. They are especially aggressive toward metal armor, machinery, or loud spellcasting.
+> 
+> - **Behavior:** Circle silently before attacking.
+> - **Special Ability:** Emit sonic bursts capable of shattering crystal structures.
+> - **Visual Detail:** Their internal organs glow faintly during flight.
+
+> [!tip]+ Environmental Phenomena
+> - **Color Rain:** Sudden rainstorms where droplets refract into impossible colors and temporarily alter spell effects.
+> - **Gravity Hollows:** Areas where gravity weakens, allowing falling leaves, stones, or creatures to drift upward.
+> - **Crystal Bloom Events:** Overnight eruptions of Aetherium crystal growths from the forest floor.
+> - **Songwinds:** Magical winds carrying distant voices, music, or ancient memories through the trees.
+> - **Living Paths:** Trails that subtly shift location between journeys.

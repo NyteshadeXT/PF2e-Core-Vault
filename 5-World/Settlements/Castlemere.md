@@ -7,8 +7,7 @@ pronounced: Castle-meer
 aliases:  
 - The Last Bastion  
 - The Stone Refuge  
-settlementtype:  
-- Small City  
+settlementtype: Small City  
 terrain:  
 - Forest  
 - Frontier  
@@ -18,8 +17,6 @@ location:
 - "[[Prismatic Canopy]]"  
 Language:  
 - Common  
-- Old Imperial  
-- Regional Frontier Dialects  
 dominion:  
 - "[[Castlemere Magistrate Council]]"  
 ruler:  

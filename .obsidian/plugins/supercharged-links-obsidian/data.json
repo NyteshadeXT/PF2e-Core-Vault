@@ -11,6 +11,7 @@
   "enableBacklinks": true,
   "enableQuickSwitcher": true,
   "enableSuggestor": true,
+  "enableBases": true,
   "selectors": [
     {
       "type": "tag",
@@ -319,6 +320,18 @@
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "6eeb-1ccc",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "notetype",
+      "value": "#Dungeon",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "fc80-2a5c",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,

@@ -9,7 +9,7 @@ tags:
 aliases: ["Symbol of Fear"]
 ---
 # Symbol of Fear *Hazard 12*  
-[magical](rules/traits/magical.md "Magical Trait") [fear](rules/traits/fear.md "Fear Trait") [mental](rules/traits/mental.md "Mental Trait") [visual](rules/traits/visual.md "Visual Trait")  
+[magical](rules/traits/magical.md "Magical Item Trait") [fear](rules/traits/fear.md "Fear Item Trait") [mental](rules/traits/mental.md "Mental Item Trait") [visual](rules/traits/visual.md "Visual Trait")  
 
 - **Complexity** Simple
 - **Stealth** DC 32 (expert) to notice the faintly pulsing rune  
