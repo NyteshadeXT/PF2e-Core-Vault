@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
+                "file": "2-Party/Shattering/Skarr.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Template - Dungeon"
+              "title": "Skarr"
             }
           },
           {
@@ -27,12 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "file": "4-Campaign/The Shattering/Prologue.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Champions Belt"
+              "title": "Prologue"
+            }
+          },
+          {
+            "id": "5f4d6f2f5a2e4546",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://0c0f7d9031cd040419ae01e37194897c8c72/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/healing-potion.png?1779035200687",
+                  "filePath": "zz-Attachments/healing-potion.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
             }
           },
           {
@@ -50,31 +67,17 @@
             }
           },
           {
-            "id": "afba6b5ab75d9f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
             "id": "9a812a86f80e52d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/H/Heavy Rondache.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/H/helmsmans-recourse.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Heavy Rondache"
+              "title": "helmsmans-recourse"
             }
           },
           {
@@ -89,6 +92,20 @@
               },
               "icon": "lucide-file",
               "title": "Insert Item"
+            }
+          },
+          {
+            "id": "e7df8ade147d086a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/DC Calculator.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "DC Calculator"
             }
           }
         ],
@@ -253,7 +270,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "a2475bcb016c0d8f",
@@ -265,8 +282,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_0a7b882ac949",
-                "creatureName": "Auric"
+                "creatureId": "ID_887b89d969d8",
+                "creatureName": "Ankhrav Hive Mother"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -276,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,38 +320,110 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "eed88783bc690480",
+  "floating": {
+    "id": "9b380cf932da7e86",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e218f14d4e794ed8",
+        "type": "window",
+        "children": [
+          {
+            "id": "09b257cdf0d37b1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6518594c463dfa9d",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://0c0f7d9031cd040419ae01e37194897c8c72/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/healing-potion.png?1779035200687",
+                      "filePath": "zz-Attachments/healing-potion.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1866,
+        "y": 36,
+        "width": 819,
+        "height": 640,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "f46a81bd82b94638",
+        "type": "window",
+        "children": [
+          {
+            "id": "e6263100b1d2dc0e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68b3cc744ccc2202",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2015,
+        "y": -33,
+        "width": 1024,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "68b3cc744ccc2202",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/K/Korush.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "3-Rules/Bestiaries/NPC Core/E/Equestrian Constable.md",
-    "3-Rules/Bestiaries/Uniques/J/Joren.md",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
-    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "windrose-md-data.json",
-    "1-GM Toolkit/Idea Book/Valindra Morrana.md",
-    "5-World/Settlements/Springrun.md",
-    "3-Rules/Hazards/Homebrew/P/prismatic-contamination-hb.md",
-    "3-Rules/Hazards/Homebrew/P/poisoned-ceiling-spear-hb.md",
-    "3-Rules/Hazards/Homebrew/S/symbol-of-fear.md",
-    "3-Rules/Hazards/A/abyss-warped-trees-qff2.md",
-    "3-Rules/Hazards/A/acid-strongbox-trap-qff1.md",
-    "3-Rules/Hazards/Homebrew/B/boiling-oil-chute-hb.md",
-    "3-Rules/Hazards/Homebrew/C/canopy-exposure-hb.md",
-    "3-Rules/Hazards/Homebrew/C",
-    "1-GM Toolkit/Idea Book/Random_Gems_Table.md",
-    "3-Rules/Character Building/Equipment/C/climbing-kit.md",
-    "5-World/Factions/Springrun Council.md",
-    "4-Campaign/The Shattering/ACT II - CLAIMS & CONSEQUENCES (Lv 7–10).md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "3-Rules/Character Building/Equipment/A/acid-flask-moderate.md",
     "4-Campaign/The Shattering/Prologue.md",
+    "2-Party/Shattering/Skarr.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "2-Party/Shattering/The Shattering Dashboard.md",
+    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
+    "2-Party/Shattering/Xevious.md",
+    "2-Party/Shattering/Tubs.md",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "2-Party/Shattering/Jaina BeautyNoodles.md",
+    "2-Party/Age of Worms/Jerrykk.md",
+    "2-Party/Age of Worms/Jayden.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
+    "2-Party/Age of Worms/Gornak.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
+    "3-Rules/Character Building/Equipment/H/helmsmans-recourse.md",
+    "3-Rules/Character Building/Equipment/H/helm-of-zeal-greater.md",
+    "3-Rules/Character Building/Equipment/H/helm-of-zeal.md",
+    "3-Rules/Character Building/Equipment/H/hellknight-plate.md",
+    "3-Rules/Character Building/Equipment/H/helm-of-underwater-action.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
+    "3-Rules/Character Building/Equipment/H/hellknight-breastplate.md",
+    "3-Rules/Character Building/Equipment/H/hellknight-half-plate.md",
+    "zz-Attachments/hellknight-half-plate.png",
+    "3-Rules/Character Building/Equipment/H/hellfire-boots.md",
+    "zz-Attachments/heavy-rondache.png",
+    "windrose-md-data.json",
+    "3-Rules/Hazards/Homebrew/C",
     "zz-Attachments/the-crystal-maw.png",
     "zz-Attachments/the-broken-trail.png",
-    "2-Party/Party 2/Jaina BeautyNoodles.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "5-World/NPCs/Springrun/Valerius Thorne.md",
     "Fog of war.jpg",
     "3-Rules/Dungeons",
     "zz-Attachments/verdant-hollow.png",
@@ -344,8 +433,6 @@
     "zz-Attachments/springrun-map.png.markers.json",
     "zz-Attachments/springrun.png",
     "zz-Attachments/sapphire-squad.png",
-    "zz-Attachments/badlands-revenge.png",
-    "zz-Attachments/arcane-auriga.png",
     "TTRPG/Time/weather-packs/general.weather-pack.json",
     "TTRPG/Time/event-presets",
     "TTRPG/Time/event-details",

@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "heedless-spurs"
 aliases: "Heedless Spurs"
 source: "Pathfinder #155: Lord of the Black Sands"
-pg: ""
-rarity: ""
+pg: "76"
+rarity: "rare"
 trait01: "magical"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,14 @@ invest:
 usage: "wornanklets"
 license: "ORC"
 identify:
-description: "These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a -1 item penalty on Stealth checks. If used as a weapon, they are treated as a [[Equipment/Spiked Gauntlet|Spiked Gauntlet]].  **Activate** `pf2:1` Interact  **Frequency** once per 10 minutes  **Requirements** You are riding a mount  * * *  **Effect** You kick both spurs into your mount's flank. Your mount takes 2d6 bleed and gains the quickened condition for 1 minute or until the persistent bleed damage ends, whichever comes first. It can use the extra action only to Stride."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a -1 item penalty on [[Skills#Stealth|Stealth]] checks. If used as a weapon, they are treated as a [[spiked-gauntlet|Spiked Gauntlet]]."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "Interact"
+frequency1: "once per 10 minutes"
+requirement1: "You are riding a mount"
 trigger1:
-mechanics1:
+mechanics1: "You kick both spurs into your mount's flank. Your mount takes `dice: 2d6` bleed and gains the [[Quickened]] condition for 1 minute or until the persistent bleed damage ends, whichever comes first. It can use the extra action only to Stride."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -72,7 +72,7 @@ The prologue begins upon the trail to Springrun, where the party’s journey is 
 **Encounter Difficulty: Moderate **   
 - [ ] Moderate (100 XP) Level 5
 
-![[the-broken-trail.png|right hmed]]
+![[the-broken-trail.png|right hs-med]]
 
 > [!note]+ Read Aloud
 > The forest grows quieter the farther you travel down the trail to Springrun from the open road. Towering trees with bark streaked in faint iridescent color loom overhead, their leaves whispering softly in a wind you cannot feel.
@@ -98,7 +98,7 @@ At the start of the encounter, place the following foes on the map:
 
 ```encounter
 name: The Broken Trail
-party: The Shattering 
+party: The Shattering
 creatures:
   - 5: Ankhrav
 ```
@@ -119,10 +119,10 @@ The ankhravs begin hidden beneath loose soil and root-covered terrain near the c
 
 > [!tip]+ Treasure  
 > Careful examination of the ankhrav tunnels reveals partially dissolved remains from previous victims. Hidden within the debris:
-> - [ ]  gp::18
-> - [ ]  sp::42
-> - [ ]  consumable::[[healing-potion-lesser|Lesser Healing Potion]] [ilvl::3] [gp::12]
-> - [ ]  consumable::[[antivenom-potion|Antivenom Potion]] [ilvl::2] [gp::7]
+> - [x]  gp::18
+> - [x]  sp::42
+> - [x]  consumable::[[healing-potion-lesser|Lesser Healing Potion]] [ilvl::3] [gp::12]
+> - [x]  consumable::[[antivenom-potion|Antivenom Potion]] [ilvl::2] [gp::7]
 
 ### The Crystal Maw
 
@@ -134,7 +134,7 @@ The ankhravs begin hidden beneath loose soil and root-covered terrain near the c
 
 A successful DC 18 [[Skills#Survival|Survival]] check reveals the creatures are not wandering hunters. They are establishing a new brood territory radiating outward from a much larger central nest somewhere deeper within the forest. If left unchecked, the ankhravs will likely continue attacking travelers along the Springrun trail. With the settlement already isolated from the open road by the surrounding wilderness, even a handful of lost caravans could place serious strain on the town’s supplies and trade.
 
-![[the-crystal-maw.png|right hmed]]
+![[the-crystal-maw.png|right hs-med]]
 
 Assuming the players investigate the tunnels further, read the following:
 > [!note]+ Read Aloud  
@@ -156,7 +156,7 @@ At the start of the encounter, place the following foes on the map:
 
 ```encounter
 name: The Crystal Maw
-party: The Shattering 
+party: The Shattering
 creatures:
   - 1: Ankhrav Hive Mother
 ```
@@ -190,10 +190,10 @@ The Hive Mother fights with brutal territorial aggression and makes full use of 
 
 > [!tip]+ Treasure  
 > The brood hollow contains partially dissolved equipment and valuables gathered from previous victims dragged below ground. Nestled within the central crystal formation:
-> - [ ]  gp::55
-> - [ ]  sp::120
-> - [ ]  permanent::[[Weapon Potency (+1)|+1]] [[Striking]] [[Spear]] [ilvl::4] [gp::100]
-> - [ ]  consumable::[[healing-potion-moderate|Moderate Healing Potion]] [ilvl::6] [gp::50]
-> - [ ]  consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [x]  gp::55
+> - [x]  sp::120
+> - [x]  permanent::[[Weapon Potency (+1)|+1]] [[Striking]] [[Spear]] [ilvl::4] [gp::100]
+> - [x]  consumable::[[healing-potion-moderate|Moderate Healing Potion]] [ilvl::6] [gp::50]
+> - [x]  consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
 > 
 > A successful DC 22 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals the crystals within the chamber are not naturally occurring. Their magical resonance resembles the unstable energies associated with Dungeon manifestations and Shattering scars found elsewhere within Aetheria Fracta.

@@ -1,9 +1,9 @@
 ---
 skillLevel: 10
-creatureCR: 9
-creatureTrait: Occultism
-playerLevel: 6
-taskDifficulty: 0
+creatureCR: 8
+creatureTrait: Nature
+playerLevel: 5
+taskDifficulty: -10
 skillDifficulty: 0
 itemLevel: 3
 itemValue: 500

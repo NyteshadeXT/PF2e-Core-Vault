@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "hellknight-half-plate"
 aliases: "Hellknight Half Plate"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "10"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -17,11 +17,12 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/hellknight-half-plate.png
 level: 1
 weight: 3
 value: "20"
 subvalue: "gp"
+group: "Plate"
 invest:
 usage: "wornarmor"
 license: "ORC"
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 5
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: "-3"
+speedPenalty: "-10 ft."
+armorCategory: "Heavy"
 resist:
 immunity:
 conditionImmunity:
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Hellknight Half Plate"
+SORT level ASC
+
+```

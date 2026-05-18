@@ -4,14 +4,14 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "heavy-barding-(small-or-medium)"
+name: "heavy-barding-small-or-medium"
 aliases: "Heavy Barding (Small or Medium)"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "295"
 rarity: ""
 trait01: "barding"
 trait02: "companion"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: ""
+description: "You can purchase special armor for animals, called barding. All animals have a trained proficiency rank in light barding, and combat-trained animals are trained in heavy barding. Barding uses the same rules as armor except for the following. The Price and Bulk of barding depend on the animal’s size. Unlike for a suit of armor, barding’s Strength entry is listed as a modifier, not a score. Barding can’t be etched with magic runes, though special magical barding might be available."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -57,12 +57,12 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 3
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
+dexCap: 3
+strRequirement: "+5"
+checkPenalty: "-3"
+speedPenalty: "-10 ft."
 armorCategory:
 resist:
 immunity:
@@ -72,6 +72,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Heavy Barding (Small or Medium)"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

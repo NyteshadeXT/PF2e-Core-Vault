@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "hell-staff"
 aliases: "Hell Staff"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "132"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
 trait04: "unholy"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,33 +26,33 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A _hell staff_ is a tall, pointed staff forged of red-tinted steel with Infernal inscriptions that march neatly down its sides. At its top sits an inverted ruby pyramid divided into nine sections. Found mostly in Cheliax or other lands where diabolic influences hold sway, when used as a weapon the staff is a _+3 greater striking axiomatic unholy staff_. When you prepare this staff, if you're holy, you become [[Conditions/Drained|Drained 1]] until your next daily preparations. The staff's _summon lesser servitor spell_ can be used only to summon animals with the fiend trait, devils, or hell hounds (at 4th level). Its _summon fiend_ spell can summon only devils or hell hounds.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Divine Lance|Divine Lance]] (evil or lawful only) *   **1st** [[Spells/Protection|Protection]], [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]] *   **2nd** [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]], _Undetectable Alignment_ *   **3rd** [[Spells/Chilling Darkness|Chilling Darkness]], [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]] *   **4th** [[Spells/Divine Wrath|Divine Wrath]] (evil or lawful only), [[Spells/Summon Lesser Servitor|Summon Lesser Servitor]] *   **5th** [[Spells/Flame Strike|Flame Strike]], [[Spells/Summon Fiend|Summon Fiend]] *   **6th** [[Spells/Devil Form|Devil Form]], [[Spells/Summon Fiend|Summon Fiend]] *   **7th** [[Spells/Divine Decree|Divine Decree]] (evil or lawful only), [[Spells/Summon Fiend|Summon Fiend]]  * * *  **Craft Requirements** You're lawful evil. Supply one casting of all listed levels of all listed spells."
-powerTitle1:
+description: "A _hell staff_ is a tall, pointed staff forged of red-tinted steel with Infernal inscriptions that march neatly down its sides. At its top sits an inverted ruby pyramid divided into nine sections. Found mostly in Cheliax or other lands where diabolic influences hold sway, when used as a weapon the staff is a _[[Weapon Potency (+3)|+3]] [[striking-(greater)|greater striking]] [[axiomatic]] [[unholy]] [[staff]]_. When you prepare this staff, if you're holy, you become [[Drained|Drained 1]] until your next daily preparations. The staff's _summon lesser servitor spell_ can be used only to summon animals with the [[fiend]] trait, devils, or hell hounds (at 4th level). Its _[[Summon Fiend]]_ spell can summon only devils or hell hounds."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.\n\n**Cantrip** [[Divine Lance]]\n**1st** [[Protection]], [[Summon Lesser Servitor]]\n**2nd** [[Summon Lesser Servitor]], [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]]\n**3rd** [[Chilling Darkness]], [[Summon Lesser Servitor]], [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]]\n**4th** [[Divine Wrath]], [[Summon Lesser Servitor]]\n**5th** [[Divine Immolation]], [[3-Rules/Character Building/Spells/D/Darkvision|Darkvision]], [[Summon Fiend]]\n**6th** [[Devil Form]], [[Summon Fiend]]\n**7th** [[Divine Decree]]], [[Summon Fiend]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "You're lawful evil. Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
 ammoType:
-damage: 3d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 3d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +71,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -5,17 +5,17 @@ tags:
   - "#Player"
 art: zz-Attachments/assets/imageplaceholder.png
 Status: Not Started
-Player: Bob
+Player: Jody
 pronounced:
-Class: Bard
+Class: Barbarian
 level: 5
-hp: 46
+hp: 97
 ac: 22
-modifier: 12
-Ancestry: Sprite
-gender: Female
-age: Teen
-Heritage: Pixie
+modifier: 11
+Ancestry: Orc
+gender: Male
+age: Young Adult
+Heritage: Hold-Scarred Orc
 location:
   - "[[Prismatic Canopy]]"
 whichparty:

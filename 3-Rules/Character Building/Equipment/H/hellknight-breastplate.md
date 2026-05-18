@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "hellknight-breastplate"
 aliases: "Hellknight Breastplate"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "10"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,6 +22,7 @@ level: 1
 weight: 2
 value: "10"
 subvalue: "gp"
+group: "Plate"
 invest:
 usage: "wornarmor"
 license: "ORC"
@@ -57,13 +58,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 4
 modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: "-2"
+speedPenalty: "-5 ft."
+armorCategory: Medium
 resist:
 immunity:
 conditionImmunity:
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Hellknight Breastplate"
+SORT level ASC
+
+```
