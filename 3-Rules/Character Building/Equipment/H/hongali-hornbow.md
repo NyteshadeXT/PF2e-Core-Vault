@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "hongali-hornbow"
 aliases: "Hongali Hornbow"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "105"
+rarity: "uncommon"
 trait01: "deadly-d6"
 trait02: "propulsive"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,17 +22,18 @@ level: 0
 weight: 2
 value: "11"
 subvalue: "gp"
+group: "Bow"
 invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
 description: "These immense bows are traditionally made from the horns of great beasts, though modern residents of Hongal, the northernmost nation in Tian Xia, often use composite materials or even small trees as the weapon's base. While Hongali hornbows have a shorter range than other bows, they make up for it by focusing the power of the longbow at a short distance and can be used from horseback-perfect for the skirmishing fighting style of mounted Hongali troops. While it's difficult for those in Avistan to get their hands on these Hongali weapons, a small warband of beast-riding orcs from the Hold of Belkzen managed to arm themselves with Hongali hornbows and cut a bloody swathe through adventurers and neighboring militaries alike for several years before they were finally defeated via a desperate ambush. The stories of that warband spread, causing Avistani adventurers with little knowledge of Tian Xia to associate the bows with orcs. Hongali characters have access to the Hongali hornbow."
-powerTitle1:
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[immobilized]] and must spend an Interact action to attempt a DC 10 [[Skills#Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,14 +46,15 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 40 ft
-ammoType:
-damage: 1d8 piercing
-dmg1:
-dmg1Type:
+ammoType: "Arrows"
+reload: 0
+damage:  
+dmg1: 1d8
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Ranged
+weaponCategory: Advanced
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +77,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Hongali Hornbow"
+SORT level ASC
+
+```

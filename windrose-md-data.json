@@ -1320,446 +1320,14 @@
               "opacity": 1
             },
             {
-              "q": 6,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 5,
               "r": 17,
               "color": "#4ade80",
               "opacity": 1
             },
             {
-              "q": 5,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 3,
               "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 24,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 0,
-              "r": 25,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 25,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 24,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 24,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 5,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 6,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 10,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 5,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 24,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 2,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 1,
-              "r": 23,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 5,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 5,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 6,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 3,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 6,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 5,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 4,
-              "r": 22,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 6,
-              "r": 21,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 10,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 20,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 10,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 10,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 6,
-              "r": 19,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 9,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 8,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 7,
-              "r": 17,
               "color": "#4ade80",
               "opacity": 1
             },
@@ -1812,30 +1380,6 @@
               "opacity": 1
             },
             {
-              "q": 10,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 10,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 11,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 11,
               "r": 14,
               "color": "#4ade80",
@@ -1862,30 +1406,6 @@
             {
               "q": 12,
               "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 17,
               "color": "#4ade80",
               "opacity": 1
             },
@@ -2232,114 +1752,6 @@
               "opacity": 1
             },
             {
-              "q": 16,
-              "r": 12,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 16,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 16,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 12,
-              "r": 18,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 13,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 14,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 14,
               "r": 12,
               "color": "#4ade80",
@@ -2682,78 +2094,6 @@
               "opacity": 1
             },
             {
-              "q": 18,
-              "r": 4,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 3,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 3,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 2,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 2,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 1,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 0,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -1,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 1,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 0,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -1,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -2,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 17,
               "r": -1,
               "color": "#4ade80",
@@ -2762,12 +2102,6 @@
             {
               "q": 17,
               "r": -2,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -3,
               "color": "#4ade80",
               "opacity": 1
             },
@@ -2820,134 +2154,8 @@
               "opacity": 1
             },
             {
-              "q": 18,
-              "r": -8,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -9,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 17,
               "r": -7,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -7,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -8,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -9,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -7,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -6,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -5,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -4,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -3,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": -2,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -4,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -5,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": -6,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 4,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 5,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 6,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 5,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 6,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 7,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 8,
               "color": "#4ade80",
               "opacity": 1
             },
@@ -2983,174 +2191,6 @@
             },
             {
               "q": 15,
-              "r": 12,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 9,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 7,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 8,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 9,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 10,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 10,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 11,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 11,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 12,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 12,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 15,
-              "color": "#c4a57b",
-              "opacity": 1
-            },
-            {
-              "q": 18,
-              "r": 16,
-              "color": "#c4a57b",
-              "opacity": 1
-            },
-            {
-              "q": 19,
-              "r": 16,
-              "color": "#c4a57b",
-              "opacity": 1
-            },
-            {
-              "q": 17,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 16,
-              "r": 17,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 17,
-              "r": 16,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 17,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 16,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 15,
-              "r": 15,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 17,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 16,
-              "r": 14,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 17,
-              "r": 13,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
-              "q": 17,
               "r": 12,
               "color": "#4ade80",
               "opacity": 1
@@ -3178,7 +2218,21 @@
           "edges": [],
           "objects": [],
           "textLabels": [],
-          "fogOfWar": null
+          "fogOfWar": null,
+          "tiles": []
+        },
+        {
+          "id": "layer-1779295465111-ykvvr0e39",
+          "name": "2",
+          "order": 1,
+          "visible": true,
+          "cells": [],
+          "curves": [],
+          "edges": [],
+          "objects": [],
+          "textLabels": [],
+          "fogOfWar": null,
+          "showLayerBelow": false
         }
       ],
       "gridSize": 32,
@@ -3187,20 +2241,26 @@
         "height": 300
       },
       "viewState": {
-        "zoom": 0.25000000000000006,
+        "zoom": 0.3500000000000001,
         "center": {
-          "x": 1130.4371675594743,
-          "y": 1801.2724941579777
+          "x": 1031.0354426933516,
+          "y": 1355.3795647189986
         }
       },
       "hexSize": 80,
       "orientation": "flat",
       "hexBounds": {
-        "maxCol": 20,
-        "maxRow": 26
+        "maxCol": 18,
+        "maxRow": 20
       },
       "objectSetId": null,
-      "backgroundImage": null
+      "backgroundImage": null,
+      "objects": [],
+      "textLabels": [],
+      "edges": [],
+      "regions": [],
+      "outlines": [],
+      "tilesets": []
     }
   }
 }

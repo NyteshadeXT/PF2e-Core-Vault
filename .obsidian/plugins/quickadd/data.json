@@ -27,13 +27,14 @@
       },
       "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
         "focus": true,
         "mode": "default"
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
       }
     },
     {
@@ -61,13 +62,14 @@
       },
       "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
         "focus": true,
         "mode": "default"
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
       }
     },
     {
@@ -97,13 +99,14 @@
       },
       "openFile": true,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
         "focus": true,
         "mode": "default"
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
       }
     },
     {
@@ -131,13 +134,14 @@
       },
       "openFile": false,
       "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
         "focus": true,
         "mode": "default"
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
       }
     }
   ],
@@ -147,7 +151,7 @@
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": "all",
-  "version": "2.12.0",
+  "version": "2.12.2",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
@@ -233,6 +237,8 @@
     "migrateFileOpeningSettings": true,
     "setProviderModelDiscoveryMode": true,
     "backfillFileOpeningDefaults": true,
-    "migrateProviderApiKeysToSecretStorage": true
-  }
+    "migrateProviderApiKeysToSecretStorage": true,
+    "consolidateFileExistsBehavior": true
+  },
+  "macros": []
 }

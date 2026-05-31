@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "high-contrast-goggles"
 aliases: "High-contrast Goggles"
 source: "Pathfinder Howl of the Wild"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "113"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "Made with a brightly colored leather strap, these goggles have a series of overlapping lenses in an array of colors spanning the spectrum of visible light. The effect of this is that every color is more vibrant and similar shades have higher contrast. This means that shapes of even similar colors tend to stand out more, allowing the wearer to see even camouflage easier. As an Interact action, you can set the lenses to make things stand out at your current location. Until you move, you gain a +1 item bonus to Perception checks when you [[Actions/Seek|Seek]]."
+description: "Made with a brightly colored leather strap, these goggles have a series of overlapping lenses in an array of colors spanning the spectrum of visible light. The effect of this is that every color is more vibrant and similar shades have higher contrast. This means that shapes of even similar colors tend to stand out more, allowing the wearer to see even camouflage easier. As an Interact action, you can set the lenses to make things stand out at your current location. Until you move, you gain a +1 item bonus to [[Skills#Perception|Perception]] checks when you [[Seek]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

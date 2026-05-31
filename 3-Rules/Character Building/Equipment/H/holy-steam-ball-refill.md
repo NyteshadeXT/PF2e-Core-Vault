@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "holy-steam-ball-refill"
 aliases: "Holy Steam Ball Refill"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "87"
+rarity: "uncommon"
 trait01: "divine"
 trait02: "holy"
 trait03: "mental"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

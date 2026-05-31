@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "hippogriff-in-a-jar"
 aliases: "Hippogriff in a Jar"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "56"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "expandable"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  This bottle contains a shrunken hippogriff. When opened, the contents reconstitute into a Large effigy of a hippogriff. The hippogriff waits up to 1 round and allows two creatures to mount it, then Flies up to 65 feet and waits 1 more round to give the mounted creatures time to dismount. Creatures who are still mounted on the hippogriff when it dissolves fall [[Conditions/Prone|Prone]] in the space where the hippogriff corpse ends its movement.  * * *  **Craft Requirements** Supply a hippogriff corpse."
+activate: "`pf2:2` [[Interact]]"
+description: "This bottle contains a shrunken hippogriff. When opened, the contents reconstitute into a Large effigy of a hippogriff. The hippogriff waits up to 1 round and allows two creatures to mount it, then Flies up to 65 feet and waits 1 more round to give the mounted creatures time to dismount. Creatures who are still mounted on the hippogriff when it dissolves fall [[Prone]] in the space where the hippogriff corpse ends its movement."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply a hippogriff corpse."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

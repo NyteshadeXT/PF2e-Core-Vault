@@ -150,9 +150,8 @@ craftBase:
 
 ```dataviewjs
 const name = dv.current().aliases || dv.current().name || dv.current().file.name;
-const level = dv.current().level;
+const level = dv.current().level ?? 0;
 const rarity = dv.current().rarity;
-
 const traitFields = [
   dv.current().trait01,
   dv.current().trait02,
@@ -163,6 +162,7 @@ const traitFields = [
   dv.current().trait07,
   dv.current().trait08
 ].filter(Boolean);
+
 
 const identifySkills = [];
 

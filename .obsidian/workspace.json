@@ -6,6 +6,7 @@
       {
         "id": "2fc3e3a789408e81",
         "type": "tabs",
+        "dimension": 48.9945155393053,
         "children": [
           {
             "id": "f2fcdc8b7bb2af52",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Party/Shattering/Skarr.md",
+                "file": "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-heart.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Skarr"
+              "title": "phase-tiger-heart"
             }
           },
           {
@@ -27,29 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/Prologue.md",
-                "mode": "preview",
+                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prologue"
-            }
-          },
-          {
-            "id": "5f4d6f2f5a2e4546",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://0c0f7d9031cd040419ae01e37194897c8c72/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/healing-potion.png?1779035200687",
-                  "filePath": "zz-Attachments/healing-potion.png"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
+              "title": "ACT I - FIRST CONTACT"
             }
           },
           {
@@ -72,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/H/helmsmans-recourse.md",
+                "file": "3-Rules/Character Building/Equipment/H/hoof-stakes-snare.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "helmsmans-recourse"
+              "title": "hoof-stakes-snare"
             }
           },
           {
@@ -110,6 +94,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f6b2ab4826705196",
+        "type": "tabs",
+        "dimension": 51.005484460694696,
+        "children": [
+          {
+            "id": "99c488b5946ca552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/The Shattering/Temp Act1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Temp Act1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 331.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -260,7 +265,7 @@
             }
           },
           {
-            "id": "9af5d2cf3ba95dec",
+            "id": "5ad237662ef085c4",
             "type": "leaf",
             "state": {
               "type": "time-calendar-view",
@@ -270,20 +275,20 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
-        "id": "a2475bcb016c0d8f",
+        "id": "5b7dff7ad016ea39",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2d58ab51da6dfd",
+            "id": "9357a9fa2451bae6",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_887b89d969d8",
-                "creatureName": "Ankhrav Hive Mother"
+                "creatureId": "ID_b829cb6a0b79",
+                "creatureName": "Hydra"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -293,7 +298,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 463.5
+    "width": 971.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,123 +326,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "9b380cf932da7e86",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e218f14d4e794ed8",
-        "type": "window",
-        "children": [
-          {
-            "id": "09b257cdf0d37b1c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6518594c463dfa9d",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://0c0f7d9031cd040419ae01e37194897c8c72/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/healing-potion.png?1779035200687",
-                      "filePath": "zz-Attachments/healing-potion.png"
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1866,
-        "y": 36,
-        "width": 819,
-        "height": 640,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "f46a81bd82b94638",
-        "type": "window",
-        "children": [
-          {
-            "id": "e6263100b1d2dc0e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "68b3cc744ccc2202",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2015,
-        "y": -33,
-        "width": 1024,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "68b3cc744ccc2202",
+  "active": "eed88783bc690480",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/A/acid-flask-moderate.md",
-    "4-Campaign/The Shattering/Prologue.md",
-    "2-Party/Shattering/Skarr.md",
-    "1-GM Toolkit/DC Calculator.md",
+    "4-Campaign/The Shattering/Temp Act1.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "3-Rules/Character Building/Equipment/N/numbing-tonic-(lesser).md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/P..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/S..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/T..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T/tiger-fangs.md",
+    "3-Rules/Character Building/Equipment/P/predators-claw.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-heart.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "2-Party/Shattering/The Shattering Dashboard.md",
-    "2-Party/Age of Worms/Age of Worms Party Dashboard.md",
-    "2-Party/Shattering/Xevious.md",
-    "2-Party/Shattering/Tubs.md",
-    "2-Party/Age of Worms/Zamosshe.md",
-    "2-Party/Shattering/Jaina BeautyNoodles.md",
-    "2-Party/Age of Worms/Jerrykk.md",
-    "2-Party/Age of Worms/Jayden.md",
-    "2-Party/Age of Worms/Haight Enashberry.md",
-    "2-Party/Age of Worms/Gornak.md",
-    "2-Party/Age of Worms/Akiowen.md",
-    "zz-Templates/GM Templates/Locations/Template - Dungeon.md",
-    "3-Rules/Character Building/Equipment/H/helmsmans-recourse.md",
-    "3-Rules/Character Building/Equipment/H/helm-of-zeal-greater.md",
-    "3-Rules/Character Building/Equipment/H/helm-of-zeal.md",
-    "3-Rules/Character Building/Equipment/H/hellknight-plate.md",
-    "3-Rules/Character Building/Equipment/H/helm-of-underwater-action.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "3-Rules/Character Building/Equipment/H/hellknight-breastplate.md",
-    "3-Rules/Character Building/Equipment/H/hellknight-half-plate.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-teeth.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W/Warg Fangs.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V/Vampire Blood.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Unprocessed Tor Linnorm Venom.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Unprocessed Guardian Naga Venom.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Undead Bone Dust.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T/Tarn Linnorm Hide.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Sticky Adhesive.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Sphinx Claws.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Shuln Claws.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Salamander Scales.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/R/Radiant Tongue.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q/Quasit Venom.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/Protean Blood (Greater).md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/Palace Insignia Chain Mail.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/R",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/O",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/N",
+    "zz-Attachments/boar-tusk.png",
+    "zz-Attachments/holy-chain.png",
+    "zz-Attachments/hexing-jar.png",
+    "zz-Attachments/helmsmans-recourse.png",
     "zz-Attachments/hellknight-half-plate.png",
-    "3-Rules/Character Building/Equipment/H/hellfire-boots.md",
     "zz-Attachments/heavy-rondache.png",
-    "windrose-md-data.json",
-    "3-Rules/Hazards/Homebrew/C",
     "zz-Attachments/the-crystal-maw.png",
     "zz-Attachments/the-broken-trail.png",
     "Fog of war.jpg",
-    "3-Rules/Dungeons",
-    "zz-Attachments/verdant-hollow.png",
-    "zz-Attachments/castlemere-map.png.markers.json",
-    "zz-Attachments/castlemere-map.png",
-    "zz-Attachments/castlemere.png",
-    "zz-Attachments/springrun-map.png.markers.json",
-    "zz-Attachments/springrun.png",
-    "zz-Attachments/sapphire-squad.png",
-    "TTRPG/Time/weather-packs/general.weather-pack.json",
-    "TTRPG/Time/event-presets",
-    "TTRPG/Time/event-details",
-    "TTRPG/Time/event-index",
-    "TTRPG/Time/weather-dayview"
+    "zz-Attachments/verdant-hollow.png"
   ]
 }

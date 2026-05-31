@@ -3,8 +3,41 @@ tags:
   - "#Adventure"
 art: zz-Attachments/assets/PlaceholderImage.png
 whichparty: "[[The Shattering Dashboard]]"
-adventure_status: Not Started
+adventure_status: Completed
 adventure_level: "5"
+total_xp: 220
+completed_xp: 220
+completed_xp_log:
+  - date: 2026-05-20
+    xp: 220
+awarded_coin:
+  - date: 2026-05-20
+    pp: 0
+    gp: 252
+    sp: 162
+    cp: 0
+awarded_consumable_items:
+  - name: Lesser Healing Potion
+    ilvl: 3
+    gp: 12
+    date: 2026-05-20
+  - name: Antivenom Potion
+    ilvl: 2
+    gp: 7
+    date: 2026-05-20
+  - name: Moderate Healing Potion
+    ilvl: 6
+    gp: 50
+    date: 2026-05-20
+  - name: Acid Flask (Moderate)
+    ilvl: 3
+    gp: 10
+    date: 2026-05-20
+awarded_permanent_items:
+  - name: +1]] [[Striking]] [[Spear
+    ilvl: 4
+    gp: 100
+    date: 2026-05-20
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -70,7 +103,7 @@ The prologue begins upon the trail to Springrun, where the party’s journey is 
 
 ### The Broken Trail
 **Encounter Difficulty: Moderate **   
-- [ ] Moderate (100 XP) Level 5
+> - [<] Moderate (100 XP) Level 5
 
 ![[the-broken-trail.png|right hs-med]]
 
@@ -119,15 +152,15 @@ The ankhravs begin hidden beneath loose soil and root-covered terrain near the c
 
 > [!tip]+ Treasure  
 > Careful examination of the ankhrav tunnels reveals partially dissolved remains from previous victims. Hidden within the debris:
-> - [x]  gp::18
-> - [x]  sp::42
-> - [x]  consumable::[[healing-potion-lesser|Lesser Healing Potion]] [ilvl::3] [gp::12]
-> - [x]  consumable::[[antivenom-potion|Antivenom Potion]] [ilvl::2] [gp::7]
+> - [<]  gp::18
+> - [<]  sp::42
+> - [<]  consumable::[[healing-potion-lesser|Lesser Healing Potion]] [ilvl::3] [gp::12]
+> - [<]  consumable::[[antivenom-potion|Antivenom Potion]] [ilvl::2] [gp::7]
 
 ### The Crystal Maw
 
 **Encounter Difficulty: Severe**
-- [ ]  Severe (120 XP) Level 5
+> - [<]  Severe (120 XP) Level 5
 
 > [!note]+ Read Aloud
 > Among the collapsed earth and tunnel entrances are unmistakable signs that the ankhravs have only recently expanded into this region. The tunnels are fresh, unstable, and numerous. Broken crates and partially dissolved trade goods lie scattered beneath the soil alongside the remains of a merchant wagon dragged underground only days ago.
@@ -190,10 +223,10 @@ The Hive Mother fights with brutal territorial aggression and makes full use of 
 
 > [!tip]+ Treasure  
 > The brood hollow contains partially dissolved equipment and valuables gathered from previous victims dragged below ground. Nestled within the central crystal formation:
-> - [x]  gp::55
-> - [x]  sp::120
-> - [x]  permanent::[[Weapon Potency (+1)|+1]] [[Striking]] [[Spear]] [ilvl::4] [gp::100]
-> - [x]  consumable::[[healing-potion-moderate|Moderate Healing Potion]] [ilvl::6] [gp::50]
-> - [x]  consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
+> - [<]  gp::55
+> - [<]  sp::120
+> - [<]  permanent::[[Weapon Potency (+1)|+1]] [[Striking]] [[Spear]] [ilvl::4] [gp::100]
+> - [<]  consumable::[[healing-potion-moderate|Moderate Healing Potion]] [ilvl::6] [gp::50]
+> - [<]  consumable::[[acid-flask-moderate|Acid Flask (Moderate)]] [ilvl::3] [gp::10]
 > 
 > A successful DC 22 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals the crystals within the chamber are not naturally occurring. Their magical resonance resembles the unstable energies associated with Dungeon manifestations and Shattering scars found elsewhere within Aetheria Fracta.

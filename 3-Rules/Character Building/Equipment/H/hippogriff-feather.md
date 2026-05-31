@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "hippogriff-feather"
 aliases: "Hippogriff Feather"
 source: "Pathfinder Howl of the Wild"
-pg: ""
+pg: "118"
 rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  Tawny-colored hippogriff feathers can be up to 2 feet long. Used as a catalyst with a [[Spells/Ghostly Carrier|Ghostly Carrier]] spell, a single _hippogriff feather_ grants the hand semicorporeal wings that increase the hand's maneuverability. The hand has a range of only 60 feet, but its increased agility grants it a +1 status bonus to its AC and Reflex saves."
+activate: "Cast a Spell"
+description: "Tawny-colored hippogriff feathers can be up to 2 feet long. Used as a catalyst with a [[Ghostly Carrier]] spell, a single _hippogriff feather_ grants the hand semicorporeal wings that increase the hand's maneuverability. The hand has a range of only 60 feet, but its increased agility grants it a +1 status bonus to its AC and Reflex saves."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

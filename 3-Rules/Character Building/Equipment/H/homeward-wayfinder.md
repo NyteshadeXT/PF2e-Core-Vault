@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "homeward-wayfinder"
 aliases: "Homeward Wayfinder"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
-rarity: ""
+pg: "122"
+rarity: "uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "teleportation"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/wayfinder.png
 level: 13
 weight: 
 value: "2750"
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Homeward wayfinders are powerful escape tools in the hands of a Pathfinder agent, drawing upon a special connection to the Maze of the Open Road. In addition to the effects of a [[Equipment/Wayfinder|Wayfinder]], a homeward wayfinder attunes itself to the most recent Pathfinder Lodge you've visited and has the following activation.  * * *  **Activate** 10 minutes (command, Interact)  **Frequency** once per day  * * *  **Effect** You teleport back to the attuned Pathfinder Lodge, as long as you are no more than 100 miles away. This teleportation effect fails if you would bring another creature with you, even if you're carrying it in an extradimensional space."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Homeward wayfinders are powerful escape tools in the hands of a Pathfinder agent, drawing upon a special connection to the Maze of the Open Road. In addition to the effects of a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]], a homeward wayfinder attunes itself to the most recent Pathfinder Lodge you've visited and has the following activation."
+powerTitle1: "Effect"
+actionEconomy1: "10 minutes"
+type1: "([[command]], [[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You teleport back to the attuned Pathfinder Lodge, as long as you are no more than 100 miles away. This teleportation effect fails if you would bring another creature with you, even if you're carrying it in an extradimensional space."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

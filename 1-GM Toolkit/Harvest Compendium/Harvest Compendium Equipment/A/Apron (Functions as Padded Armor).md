@@ -1,0 +1,27 @@
+---
+obsidianUIMode: preview
+title: "Apron (Functions as Padded Armor)"
+cssclasses:
+  - pf2e
+  - pf2e-action
+tags:
+  - trait/comfort
+  - trait/common
+  - category/light
+aliases:
+  - "Compendium.pf2e-harvest-compendium.harvest-compendium-equipment.Item.hIamTHEJklbfjEQk"
+license: OGL
+---
+# Apron (Functions as Padded Armor)
+
+### [[comfort]]
+
+**Category** light; 
+**Price** 3 sp; 
+**Bulk** L; **Size** med
+**Usage** wornarmor
+
+This apron functions as a set of [[Equipment/Padded Armor|Padded Armor]], except it takes 3 [[Actions/Interact|Interact]] actions to don the apron and 1 Interact action to remove it.
+
+*Source: Harvest Compendium*
+*OGL*

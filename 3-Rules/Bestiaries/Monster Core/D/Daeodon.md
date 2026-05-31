@@ -81,3 +81,5 @@ A typical adult daeodon is 10 feet long and 7 feet tall at the shoulder. It weig
 * * *
 
 While domesticated pigs are a staple of farm life, wild boars are much more dangerous. Foul-tempered warthogs are relatively common, while the lumbering, primeval beasts known as daeodons are less so. Voracious boars can ravage the countryside in which they live, making them a particular nuisance to farmers. Boars breed freely, and a pair of boars can rapidly grow to a large family.
+
+
