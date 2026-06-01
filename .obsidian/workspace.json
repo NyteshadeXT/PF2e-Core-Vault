@@ -6,7 +6,6 @@
       {
         "id": "2fc3e3a789408e81",
         "type": "tabs",
-        "dimension": 48.9945155393053,
         "children": [
           {
             "id": "f2fcdc8b7bb2af52",
@@ -20,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "phase-tiger-heart"
-            }
-          },
-          {
-            "id": "eed88783bc690480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ACT I - FIRST CONTACT"
             }
           },
           {
@@ -56,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/H/hoof-stakes-snare.md",
-                "mode": "source",
+                "file": "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "hoof-stakes-snare"
+              "title": "Harvest Creature"
             }
           },
           {
@@ -91,30 +76,23 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f6b2ab4826705196",
-        "type": "tabs",
-        "dimension": 51.005484460694696,
-        "children": [
+          },
           {
-            "id": "99c488b5946ca552",
+            "id": "fbce5160498990a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/Temp Act1.md",
-                "mode": "source",
+                "file": "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Temp Act1"
+              "title": "Shattered Hearth Inn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5b7dff7ad016ea39",
@@ -287,7 +265,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_b829cb6a0b79",
+                "creatureId": "ID_18887958e90b",
                 "creatureName": "Hydra"
               },
               "icon": "initiative-tracker-creature-view",
@@ -298,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 971.5,
-    "collapsed": true
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,38 +303,43 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "eed88783bc690480",
+  "active": "2acc4486ba1a55e2",
   "lastOpenFiles": [
-    "4-Campaign/The Shattering/Temp Act1.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "3-Rules/Character Building/Equipment/N/numbing-tonic-(lesser).md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/P..md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/S..md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/T..md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T/tiger-fangs.md",
-    "3-Rules/Character Building/Equipment/P/predators-claw.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-heart.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-teeth.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W/Warg Fangs.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V/Vampire Blood.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Unprocessed Tor Linnorm Venom.md",
+    "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
+    "5-World/NPCs/Springrun/Kaelen Vane.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "5-World/Factions/Springrun Council.md",
+    "5-World/NPCs/Springrun/Edrik Hollowmere.md",
+    "5-World/NPCs/Springrun/Sister Elowen Vale.md",
+    "5-World/Settlements/Springrun.md",
+    "4-Campaign/The Shattering/Prologue.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/M/Mammoth Tusk Tips.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/A/Abominable Missives of the Atrophied.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/M/Mage For Hire Spellbook.md",
+    "3-Rules/Character Building/Equipment/I/ice-forge.md",
+    "3-Rules/Character Building/Equipment/I/Ivory.md",
+    "3-Rules/Character Building/Equipment/I/Ivory Baton.md",
+    "3-Rules/Character Building/Equipment/I/Isolation Draught.md",
+    "3-Rules/Character Building/Equipment/I/Irritating Seedpod.md",
+    "3-Rules/Character Building/Equipment/I/Irondust Stew.md",
+    "3-Rules/Character Building/Equipment/I/Iron and rock crystal brazier.md",
+    "zz-Attachments/hunters-bane.png",
+    "zz-Attachments/hunters-anthem.png",
+    "zz-Attachments/hungering-maw.png",
+    "zz-Attachments/horrid-figurine.png",
+    "zz-Attachments/hook-sword.png",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Unprocessed Guardian Naga Venom.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U/Undead Bone Dust.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T/Tarn Linnorm Hide.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Sticky Adhesive.md",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Sphinx Claws.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Shuln Claws.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S/Salamander Scales.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/R/Radiant Tongue.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q/Quasit Venom.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/Protean Blood (Greater).md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/Palace Insignia Chain Mail.md",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/R",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q",
@@ -368,11 +350,6 @@
     "zz-Attachments/holy-chain.png",
     "zz-Attachments/hexing-jar.png",
     "zz-Attachments/helmsmans-recourse.png",
-    "zz-Attachments/hellknight-half-plate.png",
-    "zz-Attachments/heavy-rondache.png",
-    "zz-Attachments/the-crystal-maw.png",
-    "zz-Attachments/the-broken-trail.png",
-    "Fog of war.jpg",
-    "zz-Attachments/verdant-hollow.png"
+    "zz-Attachments/hellknight-half-plate.png"
   ]
 }

@@ -184,6 +184,7 @@ export:
 > SORT file.name ASC
 > ```
 
+[[springrun-map.png]]
 ## Overview
 Springrun is a burgeoning frontier settlement defined by its refusal to retreat from the scars of the Sundering. Built upon the belief that a broken world is simply one waiting to be rebuilt, the village has rapidly grown into one of the most ambitious settlements bordering the Prismatic Canopy.
 

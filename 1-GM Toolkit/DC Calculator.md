@@ -2,10 +2,10 @@
 skillLevel: 10
 creatureCR: 8
 creatureTrait: Nature
-playerLevel: 5
-taskDifficulty: -10
+playerLevel: 0
+taskDifficulty: 0
 skillDifficulty: 0
-itemLevel: 3
+itemLevel: 6
 itemValue: 500
 itemType: 1
 craftProficiency: 1

@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "hunters-arrowhead"
 aliases: "Hunter's Arrowhead"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "153"
+rarity: "rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "A _hunter's arrowhead_ is meant to be worn as a charm, such as a pendant, or carried in a pocket or quiver. The arrowhead is etched with images sacred to the elven god Ketephys. While you wear or carry the arrowhead, it infuses you with great skill at hunting, and you gain a +1 item bonus to Survival checks and attack rolls against any creature you've currently designated as your prey with [[Actions/Hunt Prey|Hunt Prey]]. A hunter's arrowhead is also a religious symbol of Ketephys.  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger** You would miss with an attack made with a bow  * * *  **Effect** You gain a +2 circumstance bonus to your attack roll, possibly turning a miss into a hit."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "A _hunter's arrowhead_ is meant to be worn as a charm, such as a pendant, or carried in a pocket or quiver. The arrowhead is etched with images sacred to the elven god Ketephys. While you wear or carry the arrowhead, it infuses you with great skill at hunting, and you gain a +1 item bonus to [[Skills#Survival|Survival]] checks and attack rolls against any creature you've currently designated as your prey with [[Hunt Prey]]. A hunter's arrowhead is also a religious symbol of Ketephys."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:r`"
+type1: "([[command]])"
+frequency1: "once per day"
+trigger1: "You would miss with an attack made with a bow"
+mechanics1: "You gain a +2 circumstance bonus to your attack roll, possibly turning a miss into a hit."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -45,7 +45,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 
-ammoType:
+ammoType: "Arrows"
 damage: 
 dmg1:
 dmg1Type:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

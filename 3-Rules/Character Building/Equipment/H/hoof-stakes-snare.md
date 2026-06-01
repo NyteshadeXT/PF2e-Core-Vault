@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "hoof-stakes-snare"
 aliases: "Hoof Stakes Snare"
 source: "Pathfinder #175: Broken Tusk Moon"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare consists of several narrow, sharpened stakes, each over a foot long, clustered together and pointing upward. The snare is patently obvious unless planted amid tall reeds or grasses or in someplace dark. Medium and smaller creatures can pass among the stakes easily; unlike most snares, the hoof stakes snare triggers only when a Large or larger creature enters its square. The snare deals 2d6 piercing damage to the triggering creature, which must attempt a DC 18 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage, and it takes a -5-foot circumstance penalty to its Speed for 1 minute, or until the creature or an ally spends three Interact actions to carefully remove the stakes.  **Failure** The triggering creature takes full damage. The creature takes a -5-foot circumstance penalty to its Speed, and any time it deals damage with a foot Strike (including as part of Trample or a similar ability), the creature takes 2d6 piercing damage. The effect lasts for 1 minute, or until the creature or an ally spends three Interact actions to carefully remove the stakes.  **Critical Failure** As failure, but the circumstance penalty to its Speed is -10 feet, and the creature takes 4d6 piercing damage whenever it deals damage with a foot Strike."
+description: "This snare consists of several narrow, sharpened stakes, each over a foot long, clustered together and pointing upward. The snare is patently obvious unless planted amid tall reeds or grasses or in someplace dark. Medium and smaller creatures can pass among the stakes easily; unlike most snares, the hoof stakes snare triggers only when a Large or larger creature enters its square. The snare deals `dice: 2d6` piercing damage to the triggering creature, which must attempt a DC 18 Reflex check save.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature takes half damage, and it takes a -5-foot circumstance penalty to its Speed for 1 minute, or until the creature or an ally spends three Interact actions to carefully remove the stakes.\n**Failure** The triggering creature takes full damage. The creature takes a -5-foot circumstance penalty to its Speed, and any time it deals damage with a foot Strike (including as part of Trample or a similar ability), the creature takes `dice: 2d6` piercing damage. The effect lasts for 1 minute, or until the creature or an ally spends three Interact actions to carefully remove the stakes.\n**Critical Failure** As failure, but the circumstance penalty to its Speed is -10 feet, and the creature takes `dice: 4d6` piercing damage whenever it deals damage with a foot Strike."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

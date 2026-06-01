@@ -4,7 +4,7 @@ tags:
 art: zz-Attachments/Assets/PlaceholderImage.png
 quicknote: ""
 whichparty: "[[The Shattering Dashboard]]"
-adventure_status: Not Started
+adventure_status: Started
 adventure_level: 5th to 7th
 ---
 

@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "hunger-oil"
 aliases: "Hunger Oil"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "66"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "divine"
 trait05: "poison"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` Interact  Rendered from the fat of corporeal undead creatures and infused with ghoulish magic, this yellowish oil causes its victims to experience stabbing hunger pangs that only living flesh can abate. If the victim eats at least a mouthful of humanoid flesh, it ignores the enfeebled condition from hunger oil for 1 minute. Victims under the effect of hunger oil regain only half as many Hit Points from healing effects unless they've eaten at least a mouthful of humanoid flesh in the last minute.  **Saving Throw** DC 30 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Conditions/Enfeebled|Enfeebled 2]] (1 minute)  **Stage 2** [[Conditions/Enfeebled|Enfeebled 3]] (1 minute)  **Stage 3** [[Conditions/Enfeebled|Enfeebled 4]] (1d4 minutes)  * * *  **Craft Requirements** Supply one casting of [[Spells/Ghoulish Cravings|Ghoulish Cravings]]."
+activate: "`pf2:3` [[Interact]]"
+description: "Rendered from the fat of corporeal undead creatures and infused with ghoulish magic, this yellowish oil causes its victims to experience stabbing hunger pangs that only living flesh can abate. If the victim eats at least a mouthful of humanoid flesh, it ignores the enfeebled condition from hunger oil for 1 minute. Victims under the effect of hunger oil regain only half as many Hit Points from healing effects unless they've eaten at least a mouthful of humanoid flesh in the last minute.\n\n**Saving Throw** DC 30 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Enfeebled|Enfeebled 2]] (1 minute)  **Stage 2** [[Enfeebled|Enfeebled 3]] (1 minute)  **Stage 3** [[Enfeebled|Enfeebled 4]] (`dice: 1d4` minutes)  * * *  **Craft Requirements** "
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +40,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of [[Ghoulish Cravings]]."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

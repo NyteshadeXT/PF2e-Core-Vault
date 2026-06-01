@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "hunters-bow"
 aliases: "Hunter's Bow"
 source: "Pathfinder Beginner Box"
-pg: ""
+pg: "51"
 rarity: ""
 trait01: "deadly-d10"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,11 +22,12 @@ level: 3
 weight: 1
 value: "60"
 subvalue: "gp"
+group: "Bow"
 invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "Stealthy hunters and rogues can use this +1 magic shortbow to attack from hiding. If you use this bow to Strike a target that can't see you and you get a critical hit, the target takes an extra 1d6 piercing damage (this is in addition to sneak attack damage if you're a rogue)."
+description: "Stealthy hunters and rogues can use this [[Weapon Potency (+1)|+1]] magic shortbow to attack from hiding. If you use this bow to Strike a target that can't see you and you get a critical hit, the target takes an extra `dice: 1d6` piercing damage (this is in addition to sneak attack damage if you're a rogue)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -45,14 +46,14 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range: 60 ft
-ammoType:
-damage: 1d6 piercing
-dmg1:
-dmg1Type:
+ammoType: "Arrows"
+damage:  
+dmg1: 1d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Ranged
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Shortbow"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

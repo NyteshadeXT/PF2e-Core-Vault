@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "hosteling-statuette"
 aliases: "Hosteling Statuette"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "55"
+rarity: "uncommon"
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,19 +26,20 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This soapstone statuette resembles an unidentified lump with a vaguely animal shape, worn on a band or cord around the companion's neck. When your companion invests the item, the statuette changes to appear as a miniature carved soapstone version of the companion.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [[Conditions/Petrified|Petrified]] condition, and its size is Tiny.  * * *  **Activate** `pf2:2` envision, Interact  **Requirements** Your companion is in statuette form  * * *  **Effect** You call forth your companion from the statuette, causing it to unmerge and appear in an unoccupied space adjacent to you."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
+description: "This soapstone statuette resembles an unidentified lump with a vaguely animal shape, worn on a band or cord around the companion's neck. When your companion invests the item, the statuette changes to appear as a miniature carved soapstone version of the companion." 
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "([[envision]], [[Interact]])"
+frequency1: "once per day"
+trigger1: 
+mechanics1: "You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [[Petrified]] condition, and its size is Tiny."
+powerTitle2: "Effect"
+actionEconomy2: "`pf2:2`"
+type2: "([[envision]], [[Interact]])"
 frequency2:
 trigger2:
-mechanics2: "**Secondary Effect** "
+requirement2: "Your companion is in statuette form"
+mechanics2: "You call forth your companion from the statuette, causing it to unmerge and appear in an unoccupied space adjacent to you."
 craft:
 
 #========================================================#
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

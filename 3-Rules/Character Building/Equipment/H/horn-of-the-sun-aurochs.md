@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "horn-of-the-sun-aurochs"
 aliases: "Horn of the Sun Aurochs"
 source: "Pathfinder Adventure: Shadows at Sundown"
-pg: ""
-rarity: ""
+pg: "53"
+rarity: "rare"
 trait01: "magical"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _horn of the sun aurochs_ grants a +2 item bonus to Performance checks when played as an instrument.  * * *  **Activate** Interact `pf2:2`  **Frequency** once per day  **Effect** The horn is clearly audible for hundreds of feet, but within a 20-foot emanation, the sound causes agony in those who wish harm upon the user; the horn also sheds bright light in that area and dim light to the next 20 feet. Enemies of the user in this area take 7d6 sonic damage and 7d6 spirit damage (DC 30 Fortitude check save). Creatures that are specifically vulnerable to sunlight are also [[Conditions/Frightened|Frightened 1]] if they fail this save or [[Conditions/Frightened|Frightened 2]] on a critical failure. This activation also attempts to counteract any darkness or sleep effects in the area (+23 counteract check)."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "A _horn of the sun aurochs_ grants a +2 item bonus to [[Skills#Performance|Performance]] checks when played as an instrument."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "Interact"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "The horn is clearly audible for hundreds of feet, but within a 20-foot emanation, the sound causes agony in those who wish harm upon the user; the horn also sheds bright light in that area and dim light to the next 20 feet. Enemies of the user in this area take `dice: 7d6` sonic damage and `dice: 7d6` spirit damage (DC 30 Fortitude check save). Creatures that are specifically vulnerable to sunlight are also [[Frightened|Frightened 1]] if they fail this save or [[Frightened|Frightened 2]] on a critical failure. This activation also attempts to counteract any darkness or sleep effects in the area (+23 counteract check)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

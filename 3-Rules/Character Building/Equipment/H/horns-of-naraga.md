@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "horns-of-naraga"
 aliases: "Horns of Naraga"
 source: "Pathfinder Gamemastery Guide"
-pg: ""
-rarity: ""
+pg: "109"
+rarity: "unique"
 trait01: "artifact"
 trait02: "invested"
 trait03: "magical"
-trait04: "unique"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,20 +26,21 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "This imposing helm bears the horns of a powerful black dragon. While wearing the _Horns of Naraga_, you gain greater darkvision and immunity to acid. If you are undead, you gain resistance 40 to vitality damage. If you are not undead, the helm quickly saps the life from you, dealing 10d6 void damage to you every round. If you die from this damage, you rise as an undead of an equal level in 1d4 rounds.  * * *  **Activate** `pf2:0` envision  **Trigger** You touch a creature as part of an unarmed attack or melee spell attack roll  **Effect** The creature takes 5d6 void damage. If you are an undead, you regain Hit Points equal to the void damage the creature took.  * * *  **Activate** `pf2:3` command  **Frequency** once per day  **Effect** The _Horns of Naraga_ transform into Naraga, an [[Bestiary 1/Black Dragon (Ancient)|Ancient Black Dragon]]. Naraga appears in an adjacent appropriate space, and if no such space is available, she does not appear. Naraga follows your commands without question. She remains for up to 1 hour or until you use an Interact action to dismiss her, after which she reverts back to the helm. If Naraga is slain, she immediately reverts back to the helm and can't be summoned for 1 week. You don't receive any of the helm's other benefits while it is transformed.  * * *  **Destruction** The helm is utterly obliterated if crushed between the jaws of an ancient black dragon's skull located in a desert while the sun is at its zenith."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This imposing helm bears the horns of a powerful black dragon. While wearing the _Horns of Naraga_, you gain greater darkvision and immunity to acid. If you are undead, you gain resistance 40 to vitality damage. If you are not undead, the helm quickly saps the life from you, dealing `dice: 10d6` void damage to you every round. If you die from this damage, you rise as an undead of an equal level in `dice: 1d4` rounds."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+trigger1: "You touch a creature as part of an unarmed attack or melee spell attack roll"
+mechanics1: "The creature takes `dice: 5d6` void damage. If you are an undead, you regain Hit Points equal to the void damage the creature took."
+powerTitle2: "Effect"
+actionEconomy2: "`pf2:3`"
+type2: "([[command]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "The _Horns of Naraga_ transform into Naraga, an [[Black Dragon (Ancient)]]. Naraga appears in an adjacent appropriate space, and if no such space is available, she does not appear. Naraga follows your commands without question. She remains for up to 1 hour or until you use an Interact action to dismiss her, after which she reverts back to the helm. If Naraga is slain, she immediately reverts back to the helm and can't be summoned for 1 week. You don't receive any of the helm's other benefits while it is transformed."
 craft:
+destruction: "The helm is utterly obliterated if crushed between the jaws of an ancient black dragon's skull located in a desert while the sun is at its zenith."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

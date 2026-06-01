@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "horn-of-exorcism"
 aliases: "Horn of Exorcism"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "274"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,19 +26,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _horn of exorcism_ is an instrument made from an animal horn, or an object of the same shape from carved wood or ivory.  * * *  **Activate—Rattle the Dead** `pf2:1` (auditory, manipulate)  **Frequency** once per hour  **Effect** Blowing into the horn frightens ghosts and evil spirits who can hear its call. Make an Intimidation check to [[Actions/Demoralize|Demoralize]] against all creatures with the undead or unholy trait in a 30-foot emanation. This can affect even a mindless creature with that trait, and you don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.  * * *  **Activate—Sacred Seeds** `pf2:2` (manipulate)  **Frequency** once per day  **Effect** You fill the horn with sacred seeds and then scatter them around you with a twist of your wrist. The horn grants you and your allies in a 30-foot emanation the _ghost touch_ property rune on all of your weapon and unarmed Strikes for 1 minute.  [[Equipment Effects/Effect_ Horn of Exorcism (Sacred Seeds)|Effect: Horn of Exorcism (Sacred Seeds)]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "A _horn of exorcism_ is an instrument made from an animal horn, or an object of the same shape from carved wood or ivory."
+powerTitle1: "Rattle the Dead"
+actionEconomy1: "`pf2:1`"
+type1: "([[auditory]], [[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "Blowing into the horn frightens ghosts and evil spirits who can hear its call. Make an [[Skills#Intimidation|Intimidation]] check to [[Demoralize]] against all creatures with the undead or unholy trait in a 30-foot emanation. This can affect even a mindless creature with that trait, and you don't take a penalty when you attempt to [[Demoralize]] a creature that doesn't understand your language."
+powerTitle2: "Sacred Seeds"
+actionEconomy2: "`pf2:2`"
+type2: "([[manipulate]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You fill the horn with sacred seeds and then scatter them around you with a twist of your wrist. The horn grants you and your allies in a 30-foot emanation the _[[ghost-touch|Ghost Touch]]_ property rune on all of your weapon and unarmed Strikes for 1 minute."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
