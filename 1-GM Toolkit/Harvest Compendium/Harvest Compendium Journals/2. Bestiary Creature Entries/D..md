@@ -889,7 +889,7 @@ tags:
 | --- |
 | 1d2 [[Reflecting Eyes\|Drake Eyes]] |
 | 1d6 [[Drake Teeth (Acid)\|River Drake Teeth]] |
-| 1d2 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d2 Sections of [[drake-hide\|Drake Hide]] |
 | 1d4 Vials of [[impure-acid\|Impure Acid]] |
 
 ### [[Monster Core/Flame Drake|Flame Drake]]
@@ -899,7 +899,7 @@ tags:
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | --- |
 | 2d4 [[Drake Teeth (Fire)\|Flame Drake Teeth]] |
-| 1d4 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d4 Sections of [[drake-hide\|Drake Hide]] |
 | 1d4 Vials of [[Molten Flame\|Molten Flame]] |
 
 ### [[Monster Core/Jungle Drake|Jungle Drake]]
@@ -911,7 +911,7 @@ tags:
 | 1d2 Doses of [[Unprocessed Jungle Drake Venom\|Unprocessed Jungle Drake Venom]] |
 | 1d2 [[Reflecting Eyes\|Drake Eyes]] |
 | 2d4 [[Drake Teeth (Poison)\|Jungle Drake Teeth]] |
-| 1d4 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d4 Sections of [[drake-hide\|Drake Hide]] |
 
 ### [[Monster Core/Wyvern|Wyvern]]
 
@@ -921,7 +921,7 @@ tags:
 | --- |
 | 1d3 Doses of [[Unprocessed Wyvern Venom\|Unprocessed Wyvern Venom]] |
 | 1d2 [[Reflecting Eyes\|Drake Eyes]] |
-| 1d4 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d4 Sections of [[drake-hide\|Drake Hide]] |
 | 3d4 [[Wyvern Teeth\|Wyvern Teeth]] |
 
 ### [[Monster Core/Frost Drake|Frost Drake]]
@@ -932,7 +932,7 @@ tags:
 | --- |
 | 2d4 [[Drake Teeth (Cold)\|Frost Drake Teeth]] |
 | 1d6 Pouches of [[Frost Essence\|Frost Essence]] |
-| 1d4 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d4 Sections of [[drake-hide\|Drake Hide]] |
 
 ### [[Monster Core/Desert Drake|Desert Drake]]
 
@@ -942,7 +942,7 @@ tags:
 | --- |
 | 2d4 [[Drake Teeth (Electricity)\|Desert Drake Teeth]] |
 | 2d4 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
-| 1d4 Sections of [[Drake Hide\|Drake Hide]] |
+| 1d4 Sections of [[drake-hide\|Drake Hide]] |
 
 ## Drow
 

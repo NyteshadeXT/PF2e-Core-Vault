@@ -4,30 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "ichthyosis-mutagen"
-aliases: "Ichthyosis Mutagen"
-source: "Pathfinder #164: Hands of the Devil"
-pg: "72"
-rarity: "rare"
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "elixir"
-trait04: "mutagen"
-trait05: "polymorph"
+name: "impactful-greater"
+aliases: "Impactful (Greater)"
+source: "Pathfinder Secrets of Magic"
+pg: "185"
+rarity: ""
+trait01: "force"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 5
-weight: L
-value: "24"
+level: 17
+weight: 
+value: "15000"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "etched onto a weapon"
 license: "ORC"
 identify:
-activate: "`pf2:1` [[Interact]]"
-description: "After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.\n\n**Benefit** For 1 minute, you gain fast healing 2 and automatically succeed at flat checks to recover from persistent bleed damage.\n\n**Drawback** Your thickened skin makes quick movement difficult, and your excess skin flakes off with the slightest movement. You take a -2 penalty to Reflex saves for 1 minute. Any creature attempting to [[Track]] you in the next 24 hours gains a +4 circumstance bonus to their check."
+description: "This rune thrums with pure magical energy. Weapons with the rune deal an additional `dice: 1d6` force damage on a successful Strike. On a critical hit, you can choose to force the target to succeed at a DC 37 Fortitude check save or be pushed 10 feet away from you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,7 +75,3 @@ weaponBase:
 armorBase:
 
 ---
-
-```meta-bind-embed
-[[Item Card Template]]
-```

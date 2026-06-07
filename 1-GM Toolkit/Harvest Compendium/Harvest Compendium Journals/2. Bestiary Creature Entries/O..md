@@ -132,12 +132,11 @@ tags:
 | --- |
 | 1d6 Pouches of [[Distilled Otyugh Stench\|Distilled Otyugh Stench]] |
 
-## [[Bestiary 1/Owlbear|Owlbear]]
-
-  
-
-| 2d6 Bulk of [[raw-meat\|Raw Meat]] |
-| --- |
-| 1d4 [[Equipment/Predator's Claw\|Predator's Claw]] |
-| 1d4 Sections of [[animal-hide\|Animal Hide]] |
-| 1 Set of [[Owlbear Vocal Cords\|Owlbear Vocal Cords]] |
+#### [[Owlbear]]
+ 
+| Harvest Options                                                        |
+| ---------------------------------------------------------------------- |
+| 2d6 Bulk of [[raw-meat\|Raw Meat]]                    |
+| 1d4 [[predators-claw\|Predator's Claw]]    |
+| 1d4 Sections of [[animal-hide\|Animal Hide]]          |
+| 1 Set of [[owlbear-vocal-cords\|Owlbear Vocal Cords]] |

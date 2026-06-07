@@ -67,10 +67,10 @@ health:
 
 attacks:
   - name: "Melee Striking Greatsword"
-    desc: "⬻ Greatsword +22 ([[magical]], [[versatile|versatile P]]); __Damage__ `dice: 2d12+18` slashing"
+    desc: "⬻ Greatsword +22 ([[magical]], [[versatile|versatile P]]); __Damage__ `dice: 3d12+8` slashing"
 
   - name: "Ranged Crossbow"
-    desc: "⬻ Crossbow +20 ([[range increment 120 feet]], [[reload 1]]); __Damage__ `dice: 1d8+4` piercing"
+    desc: "⬻ Crossbow +20 ([[range increment 120 feet]], [[reload 1]]); __Damage__ `dice: 3d8+6` piercing"
 
 sourcebook: "Custom conversion"
 ```

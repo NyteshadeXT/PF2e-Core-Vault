@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "immovable-rod"
 aliases: "Immovable Rod"
 source: "Pathfinder Core Rulebook"
-pg: ""
+pg: "574"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This flat iron bar is almost completely nondescript, except for one small button appearing on its surface.  **Activate** `pf2:1` Interact  * * *  **Effect** You push the button to anchor the rod in place. It doesn't move, defying gravity if need be. If the button is pushed again, the rod deactivates, ending the anchoring magic. While anchored, the rod can be moved only if 8,000 pounds of pressure are applied to it or if a creature uses Athletics to Force Open the rod with a DC of 40 (though most intelligent creatures can just push the button to release the rod)."
+activate: "`pf2:1` [[Interact]]"
+description: "This flat iron bar is almost completely nondescript, except for one small button appearing on its surface.  You push the button to anchor the rod in place. It doesn't move, defying gravity if need be. If the button is pushed again, the rod deactivates, ending the anchoring magic. While anchored, the rod can be moved only if 8,000 pounds of pressure are applied to it or if a creature uses [[Skills#Athletics|Athletics]] to [[3-Rules/Character Building/Actions/Force Open|Force Open]] the rod with a DC of 40 (though most intelligent creatures can just push the button to release the rod)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

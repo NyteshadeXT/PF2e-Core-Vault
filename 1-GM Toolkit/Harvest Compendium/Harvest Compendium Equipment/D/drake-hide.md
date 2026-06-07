@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "implacable"
-aliases: "Implacable"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: "80"
-rarity: "uncommon"
-trait01: "magical"
+name: "drake-hide"
+aliases: "Drake Hide"
+source: "Harvest Compendium"
+pg: "64"
+rarity: ""
+trait01: "trophy"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 5
 group: 
-bulk: 
-value: "1200"
+bulk: "L"
+value: "10"
 subvalue: "gp"
 invest: 
-usage: "etched-onto-med-heavy-armor"
-license: "OGL"
+usage: "held in one hand"
+license: "ORC"
 identify: ""
-description: "This substantial rune makes you difficult to hold back. Whenever you are affected by an effect that lasts until you [[Escape]] (for instance, from the [[Grapple]] action or a tanglefoot bag), you become [[Quickened]]. You can use the extra action each round only to Step or Escape."
+description: "This drake hide could be mistaken for dragonhide by an uneducated buyer. It can be sold to unscrupulous leatherworkers."
 activate: ""
 craft: 
 destruction: 
@@ -142,3 +142,4 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+

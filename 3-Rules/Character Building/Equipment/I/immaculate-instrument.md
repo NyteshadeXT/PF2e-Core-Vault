@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "immaculate-instrument"
 aliases: "Immaculate Instrument"
 source: "Pathfinder War of Immortals"
-pg: ""
-rarity: ""
+pg: "203"
+rarity: "rare"
 trait01: "artifact"
 trait02: "divine"
 trait03: "mythic"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This object, made of silver light, takes the form of a small musical instrument, prop, or other tool associated with a specific art form. The holder of the _immaculate instrument_ never suffers from creative blocks of any kind and their work is always insightful and skilled. A character who uses the _immaculate instrument_ to [[Actions/Perform|Perform]] or [[Actions/Craft|Craft]] can attempt the check at mythic proficiency once per month, and as long as they possess their _immaculate instrument_, they treat any critical failures with these skills as failures.  * * *  **Destruction** If the holder uses the _immaculate instrument_ to intentionally produce a work that is not just mediocre or crass, but one that devalues the public opinion of the art form itself in a showing of at least 100 spectators, the instrument fades away in shame."
+description: "This object, made of silver light, takes the form of a small musical instrument, prop, or other tool associated with a specific art form. The holder of the _immaculate instrument_ never suffers from creative blocks of any kind and their work is always insightful and skilled. A character who uses the _immaculate instrument_ to [[Perform]] or [[Craft]] can attempt the check at mythic proficiency once per month, and as long as they possess their _immaculate instrument_, they treat any critical failures with these skills as failures."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -40,6 +40,7 @@ frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
 craft:
+destruction: "If the holder uses the _immaculate instrument_ to intentionally produce a work that is not just mediocre or crass, but one that devalues the public opinion of the art form itself in a showing of at least 100 spectators, the instrument fades away in shame."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

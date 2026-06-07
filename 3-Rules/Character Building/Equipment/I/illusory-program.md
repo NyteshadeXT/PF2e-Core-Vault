@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "illusory-program"
 aliases: "Illusory Program"
 source: "Pathfinder Lost Omens Rival Academies"
-pg: ""
-rarity: ""
+pg: "53"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

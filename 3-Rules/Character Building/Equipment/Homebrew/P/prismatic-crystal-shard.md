@@ -2,34 +2,34 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
-name: "implacable"
-aliases: "Implacable"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: "80"
-rarity: "uncommon"
-trait01: "magical"
-trait02: ""
-trait03: ""
-trait04:
-trait05:
-trait06:
-trait07:
-trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 11
-group: 
-bulk: 
-value: "1200"
-subvalue: "gp"
-invest: 
-usage: "etched-onto-med-heavy-armor"
-license: "OGL"
-identify: ""
-description: "This substantial rune makes you difficult to hold back. Whenever you are affected by an effect that lasts until you [[Escape]] (for instance, from the [[Grapple]] action or a tanglefoot bag), you become [[Quickened]]. You can use the extra action each round only to Step or Escape."
-activate: ""
-craft: 
-destruction: 
+cssclass: pf2e-items, h-line  
+name: "prismatic-crystal-shard"  
+aliases: "Prismatic Crystal Shard"  
+source: "Homebrew"  
+pg: ""  
+rarity: ""  
+trait01: "ingredient"  
+trait02: "magical"  
+trait03:  
+trait04:  
+trait05:  
+trait06:  
+trait07:  
+trait08:  
+image: zz-Attachments/prismatic-crystal-shard.png
+level: 1  
+group:  
+bulk: L  
+value: "5"  
+subvalue: "sp"  
+invest:  
+usage: "other"  
+license: "ORC"  
+identify: ""  
+description: "These small crystal fragments naturally occur throughout the Prismatic Canopy. They store trace amounts of ambient magical energy and are commonly purchased by Crystalwrights, alchemists, and crafters. Prismatic Crystal Shards can substitute for 5 sp of raw materials when Crafting magical items, alchemical items, or crystal-based equipment."  
+activate: ""  
+craft:  
+destruction:
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -142,3 +142,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Bo Staff")
+SORT level ASC
+
+```
+
+

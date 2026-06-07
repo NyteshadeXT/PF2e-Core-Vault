@@ -638,7 +638,7 @@ This hall allows direct access to the Coenoby (area 16), to Raknian’s Palace v
 
 #### 6. Beast Cages
 > [!note]+ Read Aloud
-> Six identical cells open along this corridor, each one closed by a metal gate. The grow! of a large feline breaks the silence, followed by several porcine grunts.
+> Six identical cells open along this corridor, each one closed by a metal gate. The growl of a large feline breaks the silence, followed by several porcine grunts.
 
 ```encounter
 name: Bloodstone Arean - Beast Cages

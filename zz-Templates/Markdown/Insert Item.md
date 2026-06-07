@@ -102,7 +102,7 @@ weaponCategory:
 #========================================================#
 baseAC: 
 dexCap: 
-strRequirement: 
+strRequirement: ""
 checkPenalty: 
 speedPenalty: 
 armorCategory: 

@@ -252,27 +252,27 @@ This region is far from safe, but the most subtle danger to the PCs comes in the
 #### Prismatic Canopy Random Encounters
 `dice: [[ACT I - FIRST CONTACT#^PrismaticRandom]]`
 
-| Count | Encounter                                                                             |
-| ----- | ------------------------------------------------------------------------------------- |
-| 1     | [[#Prismatic Canopy Random Encounter Crystalback Razorboars\|Crystalback Razorboars]] |
-| 2     | [[#Prismatic Canopy Random Encounter Prismwing Stalkers\|Prismwing Stalkers]]         |
-| 3     | [[#Prismatic Canopy Random Encounter Ankhrav Foragers\|Ankhrav Foragers]]             |
-| 4     | [[#Prismatic Canopy Random Encounter Razervine Tanglers\|Razervine Tanglers]]         |
-| 5     | [[#Prismatic Canopy Random Encounter Crystal-Touched Hydra\|Crystal-Touched Hydra]]   |
-| 6     | [[#Prismatic Canopy Random Encounter Hollow Stalker\|Hollow Stalker]]                 |
-| 7     | [[#Prismatic Canopy Random Encounter Shimmer Fog\|Shimmer Fog]]                       |
-| 8     | [[#Prismatic Canopy Random Encounter Glass Rain\|Glass Rain]]                         |
-| 9     | [[#Prismatic Canopy Random Encounter Crystal Bloom\|Crystal Bloom]]                   |
-| 10    | Resonant Thunder                                                                      |
-| 11    | Prismatic Windstorm                                                                   |
-| 12    | Abandoned Campsite                                                                    |
-| 13    | Crystal Cache                                                                         |
-| 14    | Old Caravan Tracks                                                                    |
-| 15    | Monster Corpse                                                                        |
-| 16    | Castlemere Patrol                                                                     |
-| 17    | Springrun Surveyors                                                                   |
-| 18    | Echo Flowers Repeat Conversation                                                      |
-| 19    | Wildlife Staring Into Forest                                                          |
+| Count | Encounter                                                                                                 |
+| ----- | --------------------------------------------------------------------------------------------------------- |
+| 1     | [[#Prismatic Canopy Random Encounter Crystalback Razorboars\|Crystalback Razorboars]]                     |
+| 2     | [[#Prismatic Canopy Random Encounter Prismwing Stalkers\|Prismwing Stalkers]]                             |
+| 3     | [[#Prismatic Canopy Random Encounter Ankhrav Foragers\|Ankhrav Foragers]]                                 |
+| 4     | [[#Prismatic Canopy Random Encounter Razervine Tanglers\|Razervine Tanglers]]                             |
+| 5     | [[#Prismatic Canopy Random Encounter Crystal-Touched Hydra\|Crystal-Touched Hydra]]                       |
+| 6     | [[#Prismatic Canopy Random Encounter Hollow Stalker\|Hollow Stalker]]                                     |
+| 7     | [[#Prismatic Canopy Random Encounter Shimmer Fog\|Shimmer Fog]]                                           |
+| 8     | [[#Prismatic Canopy Random Encounter Glass Rain\|Glass Rain]]                                             |
+| 9     | [[#Prismatic Canopy Random Encounter Crystal Bloom\|Crystal Bloom]]                                       |
+| 10    | [[#Prismatic Canopy Random Encounter Resonant Thunder\|Resonant Thunder]]                                 |
+| 11    | [[#Prismatic Canopy Random Encounter Prismatic Windstorm\|Prismatic Windstorm]]                           |
+| 12    | [[#Prismatic Canopy Random Encounter Abandoned Campsite\|Abandoned Campsite]]                             |
+| 13    | [[#Prismatic Canopy Random Encounter Crystal Cache\|Crystal Cache]]                                       |
+| 14    | [[#Prismatic Canopy Random Encounter Old Caravan Tracks\|Old Caravan Tracks]]                             |
+| 15    | [[#Prismatic Canopy Random Encounter Monster Corpse\|Monster Corpse]]                                     |
+| 16    | [[#Prismatic Canopy Random Encounter Castlemere Patrol\|Castlemere Patrol]]                               |
+| 17    | [[#Prismatic Canopy Random Encounter Springrun Surveyors\|Springrun Surveyors]]                           |
+| 18    | [[#Prismatic Canopy Random Encounter Echo Flowers Repeat Conversation\|Echo Flowers Repeat Conversation]] |
+| 19    | Wildlife Staring Into Forest                                                                              |
 ^PrismaticRandom
 
 ### Prismatic Canopy Random Encounter: Crystalback Razorboars
@@ -722,23 +722,16 @@ This encounter should evoke wonder and curiosity rather than immediate danger. T
 > [!note]+ Call Out
 > ### Exploration Challenge
 > 
-> The party may attempt to locate shelter. Possible shelter includes large root systems, crystal overhangs, abandoned campsites, natural caves or dense canopy clusters. One character may attempt a DC 20 [[Skills#Survival|Survival]] check.
-> **Critical Success** The party discovers excellent shelter. No saves against Crystal Shower are required while sheltered. 
-> **Success** The party finds adequate shelter protecting them from the worst of the storm. The time between saves increases to 30 minutes while sheltered.
-> **Failure** The party finds only limited cover. The encounter proceeds normally.
-> **Critical Failure** The chosen shelter proves unstable. The party must immediately attempt another Reflex save against Crystal Shower.
+> Characters may spend time studying the phenomenon. One character may attempt one of a [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check at DC 20. 
+> **Critical Success** The character learns that Crystal Blooms represent concentrated growth events caused by lingering magical energies interacting with local ecosystems. The party gains `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shard]] and one additional discovery from the Treasure section. The character also learns that the Crystal Bloom appears to radiate outward from a central point. At the center lies a partially buried crystal formation bearing faint geometric markings. These markings resemble neither natural growth nor known script.
+> **Success** The character identifies the area as a recent Crystal Bloom site and discovers useful harvestable materials. The party gains `dice: 1d4` [[prismatic-crystal-shard|Prismatic Crystal Shard]].
+> **Failure** The character gains little useful information.
+> **Critical Failure** The character misidentifies harmless growths as valuable specimens. No useful materials are recovered.
 
 #### Features of the Area
 **Accelerated Growth** The area has experienced a recent Crystal Bloom. Plants throughout the encounter zone display signs of explosive growth. A successful DC 20 [[Skills#Nature|Nature]] check reveals many of the plants are only a few days—or perhaps even hours—old.
 **Resonant Pollination** The clearing is saturated with magical pollen. Creatures spending more than 10 minutes within the area must attempt a DC 20 Fortitude save. **Critical Success** The creature is invigorated. Gain a +1 circumstance bonus to the next [[Skills#Nature|Nature]] check made within the next 24 hours. **Success** No effect. **Failure** The creature becomes [[sickened|Sickened 1]]. **Critical Failure** The creature becomes [[sickened|Sickened 1]] and [[off-guard|Off-Guard]] for 1 hour due to mild hallucinations and sensory distortion.
 **Distorted Time Sense** The humming resonance subtly affects perception. A creature that fails a [[Skills#Perception|Perception]] check within the clearing briefly loses track of time, believing several minutes have passed when only seconds have elapsed. This has no mechanical effect but contributes to the encounter's atmosphere.
-
-
-**Living Crystal** Many plants contain small crystal deposits. A successful DC 18 Crafting or Nature check allows a character to identify valuable specimens.
-
----
-
-
 
 #### Discovery Opportunities
 Characters investigating the clearing may learn:
@@ -750,98 +743,506 @@ Characters investigating the clearing may learn:
 |Occultism|20|Similar growth phenomena have become more common since the Shattering.|
 |Survival|18|Wildlife has recently fed heavily within the clearing.|
 
+> [!tip]+ Treasure
+> The crystal bloom has an abundance of natural resources available.  Characters harvesting the area may recover `dice: 1d4` of the following:
+>
+> - [ ] consumable::[[creep-vine|Creep Vine]] [ilvl::0] [gp::0.5] 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+> - [ ] consumable::[[vine-arrow|Vine Arrow]] [ilvl::3] [gp::10] 
+> - [ ] consumable::[[seed-pod-of-rooted-wisdom|Seed Pod of Rooted Wisdom]] [ilvl::2] [gp::7] 
+
+### Prismatic Canopy Random Encounter:  Resonant Thunder
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The first rumble is easy to mistake for distant thunder. A low sound rolls through the forest, barely noticeable beneath the whisper of wind through the canopy. Then it happens again. This time the ground trembles beneath your feet. Nearby crystal formations begin to hum softly. The sound grows. 
+> 
+> Not louder. Deeper. A powerful pulse travels through the earth, vibrating through roots, stone, and crystal alike. The surrounding formations erupt into shimmering tones as though an invisible hand has struck thousands of crystal chimes simultaneously. 
+> 
+> The forest falls suddenly silent. Even the birds have stopped singing. 
+> 
+> Several moments later another pulse rolls through the earth.
+
+**Description** The party enters a region of the Prismatic Canopy where crystal growths have become unusually dense. Great veins of translucent crystal emerge from the roots of ancient trees, while smaller formations protrude from the forest floor in every direction.
+
+Then the thunder begins. Not from above. From below. Deep, resonant pulses travel through the earth like the heartbeat of something impossibly large buried beneath the forest. Each pulse is followed by a low harmonic rumble that vibrates through crystal formations for miles.
+
+This encounter should be unsettling rather than immediately dangerous. The players should feel as though they are witnessing a phenomenon they do not yet understand. The source of the thunder is not revealed. Emphasize vibrations, resonance, and anticipation. The phenomenon should feel as if it is alive.
+
+#### Resonance Pulse
+Every 10 minutes spent within the affected area, a resonance pulse passes through the region. Creatures must attempt a DC 20 Fortitude save.
+**Critical Success** The creature steadies itself and briefly perceives the direction from which the pulse originated. Gain a +1 circumstance bonus to the next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter.
+**Success** The creature is unaffected.
+**Failure**  The vibration disrupts the creature's concentration. The creature takes a -1 circumstance penalty to its next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter.
+**Critical Failure** The creature is overwhelmed by the pulse. The creature takes a -2 circumstance penalty to its next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter and experiences a brief sensory distortion. The GM may provide a fleeting vision, sound, or sensation associated with the Deep Wilds.
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate the direction from which the pulses originate. One character may attempt one of a [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check at DC 20. 
+> **Critical Success** The character accurately identifies the approximate direction of the source. The party gains a +2 circumstance bonus to future navigation checks made toward the Deep Wilds. The player also notices that the pulses occur at nearly regular intervals. Not perfectly. But close enough to resemble a heartbeat. The implication should be left entirely to the players.
+> **Success** The character determines a general direction.
+> **Failure** The vibrations echo unpredictably through the crystal formations. No useful information is gained.
+> **Critical Failure** The character incorrectly identifies the source. The GM may provide misleading information.
+
+#### Features of the Area
+**Vibrating Crystals** Crystal formations throughout the area resonate with each pulse. A successful DC 20 [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals that the crystals are reacting to a source of energy originating somewhere deeper in the forest.
+**Animal Distress** Wildlife reacts strongly to the phenomenon. Creatures using [[Skills#Survival|Survival]] to [[Track]] gain a +2 circumstance bonus to identify recent animal movement. Most tracks lead away from the source of the pulses.
+
+#### Discovery Opportunities
+Characters investigating the area may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|Wildlife has been avoiding the region.|
+|Survival|20|Many animal trails lead away from a common point.|
+|Arcana|20|The pulses contain magical resonance.|
+|Occultism|20|The phenomenon resembles neither natural weather nor ordinary magic.|
+|Crafting|20|The crystals are carrying and amplifying the vibrations.|
+
+### Prismatic Canopy Random Encounter:  Prismatic Windstorm
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> A sudden gust rustles the canopy overhead. Then another.
+> 
+> Leaves begin to shimmer as sunlight catches countless suspended particles drifting through the air. The wind intensifies rapidly. Crystal growths throughout the forest begin to hum in response. A low whistle becomes a howl. Then a scream.
+> 
+> Brilliant ribbons of color surge between the trees as clouds of crystal dust are swept into the air. Branches bend violently overhead while thousands of tiny crystal fragments dance through the storm like glittering shards of glass. The forest erupts into motion. The storm has arrived.
+
+**Description** The Prismatic Canopy is known for sudden weather shifts, but few are as feared by seasoned explorers as a Prismatic Windstorm. These violent storms form when powerful winds sweep through regions dense with crystal growth, scattering crystal dust, fragments, and magical resonance through the air. Unlike ordinary storms, Prismatic Windstorms produce curtains of shimmering color that dance through the forest. Trees groan under the force of the winds while crystal formations sing, howl, and occasionally shatter under the strain. For a brief period, the entire forest becomes a kaleidoscope of motion, color, and danger.
+
+This encounter should feel dramatic and dangerous. Emphasize movement, noise, and limited visibility. Players should feel exposed to the raw power of the region. The storm is dangerous, but survival depends more on preparation than combat prowess.
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate shelter before the storm reaches its peak. One character may attempt a DC 20 [[Skills#Nature|Nature]] or [[Skills#Survival|Survival]] skill check.   
+> **Critical Success** The party finds excellent shelter. The group ignores Flying Debris for the remainder of the encounter and discovers useful resources after the storm.
+> **Success** The party finds adequate shelter protecting them from the worst of the storm. Reduce Flying Debris damage by half.
+> **Failure** The party finds poor shelter. The encounter proceeds normally.
+> **Critical Failure** The chosen shelter partially collapses. Immediately resolve a Flying Debris save against all creatures and continue the encounter as normal.
+
+#### Features of the Area
+**Violent Winds** Strong winds buffet creatures throughout the encounter. Creatures attempting ranged weapon attacks beyond their first range increment take a –2 circumstance penalty to the attack roll. Tiny unattended objects are blown away.
+**Crystal Dust Clouds** Visibility is severely reduced. Creatures and objects beyond 30 feet are concealed. Creatures and objects beyond 60 feet are hidden.
+**Flying Debris** Every 10 minutes spent exposed to the storm, creatures must attempt a DC 20 Reflex save.  Those who fail suffer `dice: 3d4` slashing damage from crystal fragments and debris. On a Critical Failure take 3d8 slashing damage and become [[dazzled]] for 1 minute.
+**Singing Crystals** The storm causes crystal formations to resonate. A creature spending at least 10 minutes studying the sounds may attempt a DC 20 [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check. **Critical Success** The character identifies harmonic patterns hidden within the storm. Gain a +2 circumstance bonus to the next check made within the Prismatic Canopy or Deep Wilds. **Success** The character recognizes that the resonance follows identifiable patterns. **Failure** The sounds appear random. **Critical Failure** The character becomes distracted by the overwhelming noise and takes a –1 circumstance penalty to Reflex saves for 10 minutes.
+
+#### Discovery Opportunities
+Characters investigating the clearing may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|These storms are relatively common in crystal-rich regions.|
+|Survival|20|The storm follows predictable weather patterns.|
+|Arcana|20|Crystal dust is carrying trace magical energy.|
+|Occultism|20|Similar storms occur more frequently near areas of magical instability.|
+
+> [!tip]+ Treasure
+> After the storm passes, characters may spend 10 minutes searching the area. A character may attempt a DC 20 [[Skills#Survival|Survival]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check. On **Critical Success** the characters recover `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shards]] + 1 for every character participating in the search.  A **Success** results in the discovery of `1d4` shards.
+>
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+### Prismatic Canopy Random Encounter: Abandoned Campsite
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The scent of old smoke drifts through the trees. A few moments later, the forest opens into a small clearing. Someone camped here recently. A fire pit sits near the center of the site, its ashes cold but largely undisturbed. Several bedrolls remain scattered around the clearing alongside overturned packs and abandoned supplies. A cooking pot still hangs above the extinguished fire. One tent has collapsed. Another appears to have been cut open from the inside. 
+> 
+> The camp is silent.  No voices, no movement and no bodies. Only the uncomfortable feeling that whoever stayed here left far more quickly than they intended.
+
+**Description** The party discovers the remains of a recently abandoned campsite hidden beneath the canopy. At first glance, it appears that a small expedition or merchant caravan stopped here for the night. The camp shows signs of haste, confusion, and growing fear rather than violence. Bedrolls remain. Supplies were left behind. A fire pit contains partially burned wood. Most unsettling of all, there are no bodies.
+
+This encounter should create mystery and tension. Players should initially suspect an attack. The evidence should gradually suggest something stranger occurred. The camp serves as a breadcrumb leading deeper into the Canopy and eventually toward the Deep Wilds. Reward careful investigation but avoid immediately revealing the truth.
+
+> [!note]+ Call Out
+> ### Investigation Challenge
+> 
+> Each character may attempt one of the following skill checks at DC 20: [[Skills#Perception|Perception]], [[Skills#Survival|Survival]], [[Skills#Medicine|Medicine]], [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]] or [[Skills#Society|Society]]. Record the number of successes with a critical success counting as two successes.
+> 
+> **1 Success** The camp was abandoned within the last few days.
+> **3 Successes** The occupants left voluntarily rather than being attacked.
+> **5 Successes** The final journal entries suggest the group became increasingly paranoid and obsessed with locating the source of the sounds.
+> **7 Successes** The expedition likely traveled toward the Deep Wilds rather than away from it.
+
+#### Features of the Area
+**Signs of Panic** The camp was abandoned suddenly. A successful DC 18 [[Skills#Perception|Perception]] check reveals equipment left behind, partially packed supplies, unfinished meals, and signs of multiple people moving rapidly through the campsite. Despite appearances, no evidence of combat is present. No blood, drag marks, or any signs of predation. Whatever happened here was not a conventional attack.
+**Disturbed Perimeter** The edge of the campsite contains numerous broken branches and damaged undergrowth. A successful DC 20 [[Skills#Survival|Survival]] check allows a character to follow the expedition's trail. **Critical Success** The party learns exactly how many people departed and how recently. **Success** The party identifies the direction they traveled. **Failure** The trail is difficult to follow. **Critical Failure** The party follows an incorrect trail.
+**Journal Fragments** Several pages of a damaged journal remain. A successful DC 20 [[Skills#Society|Society]] check can piece together portions of the text. Possible excerpts include: 
+- "...hearing the humming again..."
+- "...coming from beneath the roots..."
+- "...Mira says the crystals are growing overnight..."
+- "...something moved between the trees but left no tracks..."
+- "...we should leave tomorrow..."
+
+> [!tip]+ Treasure
+> The camp contains abandoned equipment. Characters who spend at least 10 minutes searching recover:
+>
+> - [ ] gp::5
+> - [ ] consumable::[[Rations|Rations]] [ilvl::0] [gp::0.5] 
+> - [ ] permanent::[[Bedroll|Bedroll]] [ilvl::0] [gp::0.02] 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
+> - [ ] consumable::[[healing-potion-lesser|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
+
+### Prismatic Canopy Random Encounter:  Crystal Cache
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> A flash of color catches your eye through the trees. As you push through the undergrowth, the forest suddenly opens into a small hollow. Crystal formations emerge from the earth in every direction. Some stand only inches high, while others rise taller than a person. Sunlight fractures through hundreds of translucent surfaces, filling the clearing with shifting rainbows and dancing reflections. Energy pulses faintly barely contained by the crystal formations.
+> 
+> The air hums softly. Tiny crystal shards crunch beneath your boots. For a moment, the clearing resembles a treasure vault sculpted by nature itself.
+
+**Description** The party discovers a naturally occurring deposit of Prismatic Crystals hidden within the forest. Crystal growths protrude from the earth, roots, and nearby stone formations, transforming the area into a glittering maze of color and reflected light. Unlike the crystal formations commonly found throughout the Canopy, these deposits are unusually dense and exceptionally pure. Such finds are one of the primary reasons settlers, prospectors, and adventurers risk entering the Prismatic Canopy.
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate shelter before the storm reaches its peak. One character may attempt a DC 20 [[Skills#Nature|Nature]] or [[Skills#Survival|Survival]] skill check.   
+> **Critical Success** The party finds excellent shelter. The group ignores Flying Debris for the remainder of the encounter and discovers useful resources after the storm.
+> **Success** The party finds adequate shelter protecting them from the worst of the storm. Reduce Flying Debris damage by half.
+> **Failure** The party finds poor shelter. The encounter proceeds normally.
+> **Critical Failure** The chosen shelter partially collapses. Immediately resolve a Flying Debris save against all creatures and continue the encounter as normal.
+
+#### Features of the Area
+**Crystal-Rich Deposit** The area contains an unusually dense concentration of Prismatic Crystals. A successful DC 20 [[Skills#Nature|Nature]] or [[Skills#Crafting|Crafting]] check identifies the cache as particularly valuable.
+**Razor-Sharp Growths** Many crystal formations possess dangerously sharp edges. A creature moving through the cache must succeed at a DC 18 [[Skills#Acrobatics|Acrobatics]] check. A failure results in the creature suffering 1d6 slashing damage and [[Persistent Damage|Persistent Damage - Bleeding]]. `dice: 1d6`  This damage can not be healed through normal means and requires magical healing.
+**Resonant Veins** The crystals emit faint harmonic vibrations. A successful DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals that the deposit is naturally occurring and large amounts of magical energy remain trapped within the crystal lattice.
+
+#### Discovery Opportunities
+Characters investigating the area may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|The deposit formed naturally after the Shattering.|
+|Crafting|20|The crystals are suitable for use in various crafting projects.|
+|Occultism|20|The harmonic vibrations resemble other crystal phenomena found throughout the region.|
+|Survival|18|Animals frequently visit the area but rarely linger.|
+
+> [!tip]+ Treasure
+> A character who critically succeeds at a DC 20 [[Skills#Arcana|Arcana]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check can recover `dice: 1d4` [[Prismatic Crystal Shards]] from a hidden seam.
+>
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+### Prismatic Canopy Random Encounter:  Old Caravan Tracks
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> A faint rut catches your eye along the forest floor. Then another. The marks become clearer as you follow them.
+> 
+> Wagon wheels, pack animals and boot prints. A caravan passed through here.
+> 
+> At first the trail appears ordinary, but the farther you follow it, the more unusual details begin to emerge. Broken branches line the route. Several trees bear fresh axe marks. The tracks occasionally drift off the established trail before abruptly correcting course. Whoever traveled this path appears to have become increasingly nervous as the journey progressed.
+
+**Description** The party discovers evidence of a caravan that passed through the region several weeks ago. What initially appears to be an ordinary trail soon reveals signs that something unusual happened during the journey. Unlike the abandoned campsite, the mystery here lies not in what was left behind, but in what changed as the caravan continued deeper into the forest. The tracks tell a story. Whether the party can piece it together is another matter.
+
+A character who critically succeeds at a DC 18 [[Skills#Survival|Survival]] or [[Skills#Perception|Perception]] check discovers a discarded journal page. The partially ruined page contains a few sentence fragments. 
+> "The humming returned last night."
+> "Several guards refuse to continue."
+> "Something keeps moving between the trees."
+
+#### Features of the Area
+**Disturbed Route** The caravan repeatedly altered its course. A successful DC 20 [[Skills#Survival|Survival]] check reveals that the travelers frequently stopped, altered their route and doubled back several times like they were searching for something or attempting to avoid something.
+**Unusual Damage** Several wagons appear to have been abandoned or repaired along the route. A successful DC 20 [[Skills#Crafting|Crafting]] check reveals damage inconsistent with bandits, no evidence of siege weapons and no signs of monster attacks. Instead, the damage appears to have resulted from panic, accidents, and hurried travel.
+
+> [!tip]+ Treasure
+> A character who succeeds at a DC 20 [[Skills#Perception|Perception]] check discovers a damaged crate containing 3 [[prismatic-crystal-shard|Prismatic Crystal Shards]].
+>
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+
+### Prismatic Canopy Random Encounter:  Monster Corpse
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The smell reaches you first. Rot and blood. 
+> 
+> A short distance off the trail, the undergrowth has been flattened across a broad section of forest. Several trees bear deep gouges in their bark. Broken branches litter the ground. At the center of the destruction lies the corpse of a massive owlbear. The creature's body is twisted unnaturally. Its feathers are stained dark with blood. One enormous claw remains buried in the trunk of a nearby tree.
+> 
+> Something killed it. And judging by the state of the battlefield, it did not come easily.
+
+**Description** The party discovers the remains of a powerful predator deep within the Prismatic Canopy. Something killed it. Whatever did so appears to have done it recently. The surrounding forest bears signs of a violent struggle, yet many details refuse to make sense.
+
+This encounter is about tension, not combat. The corpse should establish that dangerous things live here. The evidence should imply another dangerous creature without immediately identifying it. Players should leave wondering what killed the Owlbear.
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate shelter before the storm reaches its peak. One character may attempt a DC 20 [[Skills#Nature|Nature]] or [[Skills#Survival|Survival]] skill check.   
+> **Critical Success** The party finds excellent shelter. The group ignores Flying Debris for the remainder of the encounter and discovers useful resources after the storm.
+> **Success** The party finds adequate shelter protecting them from the worst of the storm. Reduce Flying Debris damage by half.
+> **Failure** The party finds poor shelter. The encounter proceeds normally.
+> **Critical Failure** The chosen shelter partially collapses. Immediately resolve a Flying Debris save against all creatures and continue the encounter as normal.
+
+#### Features of the Area
+**Signs of Violence** The area shows evidence of a prolonged struggle. A successful DC 20 [[Skills#Survival|Survival]] check reveals that there were multiple combatants, repeated movement across the battlefield, and signs that the fight continued for several minutes. However the player is unable to make out who or what survived the encounter.
+**Unusual Wounds** The corpse bears injuries inconsistent with most predators. A successful DC 20 [[Skills#Medicine|Medicine]] check reveals wounds from multiple angles, attacks delivered in rapid succession and no evidence of scavenging. This creature was hunted rather than fed upon.
+
+> [!tip]+ Treasure
+> If the players attempt to harvest the owlbear corpse the will find that they can only recover half of the normal results for claws and hide.  The rest of the corpse is too far gone or fouled to be of much use.
+>
+> - [[O.#Owlbear|Owlbear Harvest]]
+
+### Prismatic Canopy Random Encounter:  Resonant Thunder
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The first rumble is easy to mistake for distant thunder. A low sound rolls through the forest, barely noticeable beneath the whisper of wind through the canopy. Then it happens again. This time the ground trembles beneath your feet. Nearby crystal formations begin to hum softly. The sound grows. 
+> 
+> Not louder. Deeper. A powerful pulse travels through the earth, vibrating through roots, stone, and crystal alike. The surrounding formations erupt into shimmering tones as though an invisible hand has struck thousands of crystal chimes simultaneously. 
+> 
+> The forest falls suddenly silent. Even the birds have stopped singing. 
+> 
+> Several moments later another pulse rolls through the earth.
+
+**Description** The party enters a region of the Prismatic Canopy where crystal growths have become unusually dense. Great veins of translucent crystal emerge from the roots of ancient trees, while smaller formations protrude from the forest floor in every direction.
+
+Then the thunder begins. Not from above. From below. Deep, resonant pulses travel through the earth like the heartbeat of something impossibly large buried beneath the forest. Each pulse is followed by a low harmonic rumble that vibrates through crystal formations for miles.
+
+This encounter should be unsettling rather than immediately dangerous. The players should feel as though they are witnessing a phenomenon they do not yet understand. The source of the thunder is not revealed. Emphasize vibrations, resonance, and anticipation. The phenomenon should feel as if it is alive.
+
+#### Resonance Pulse
+Every 10 minutes spent within the affected area, a resonance pulse passes through the region. Creatures must attempt a DC 20 Fortitude save.
+**Critical Success** The creature steadies itself and briefly perceives the direction from which the pulse originated. Gain a +1 circumstance bonus to the next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter.
+**Success** The creature is unaffected.
+**Failure**  The vibration disrupts the creature's concentration. The creature takes a -1 circumstance penalty to its next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter.
+**Critical Failure** The creature is overwhelmed by the pulse. The creature takes a -2 circumstance penalty to its next [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check made during this encounter and experiences a brief sensory distortion. The GM may provide a fleeting vision, sound, or sensation associated with the Deep Wilds.
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate the direction from which the pulses originate. One character may attempt one of a [[Skills#Nature|Nature]], [[Skills#Survival|Survival]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check at DC 20. 
+> **Critical Success** The character accurately identifies the approximate direction of the source. The party gains a +2 circumstance bonus to future navigation checks made toward the Deep Wilds. The player also notices that the pulses occur at nearly regular intervals. Not perfectly. But close enough to resemble a heartbeat. The implication should be left entirely to the players.
+> **Success** The character determines a general direction.
+> **Failure** The vibrations echo unpredictably through the crystal formations. No useful information is gained.
+> **Critical Failure** The character incorrectly identifies the source. The GM may provide misleading information.
+
+#### Features of the Area
+**Vibrating Crystals** Crystal formations throughout the area resonate with each pulse. A successful DC 20 [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check reveals that the crystals are reacting to a source of energy originating somewhere deeper in the forest.
+**Animal Distress** Wildlife reacts strongly to the phenomenon. Creatures using [[Skills#Survival|Survival]] to [[Track]] gain a +2 circumstance bonus to identify recent animal movement. Most tracks lead away from the source of the pulses.
+
+#### Discovery Opportunities
+Characters investigating the area may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|Wildlife has been avoiding the region.|
+|Survival|20|Many animal trails lead away from a common point.|
+|Arcana|20|The pulses contain magical resonance.|
+|Occultism|20|The phenomenon resembles neither natural weather nor ordinary magic.|
+|Crafting|20|The crystals are carrying and amplifying the vibrations.|
+
+### Prismatic Canopy Random Encounter:  Castlemere Patrol
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The faint sound of marching carries through the trees. Moments later, movement appears ahead on the trail. 
+> 
+> A line of armored figures emerges from the forest with practiced discipline. Red-and-gold cloaks hang over polished armor marked with the crest of Castlemere. Each carries a weapon within easy reach, while their eyes constantly scan the surrounding wilderness. The lead soldier raises a hand.
+> 
+> The patrol immediately halts. For several moments neither side speaks. Then the sergeant steps forward.
+> 
+> "Travelers." His gaze moves from one member of the party to the next. "State your business in the Canopy."
+
+**Description** The party encounters a patrol from Castlemere consisting of 1 Patrol Sergeant, 4–6 Castlemere Rangers or Guards and 1 Pack Mule carrying supplies and reports.  They are conducting routine operations along the outer reaches of the Prismatic Canopy. Their orders are to monitor regional threats, map dangerous areas, and investigate reports of unusual activity. The soldiers are disciplined, professional, and wary. Unlike the people of Springrun, they view the wilderness as a threat to be contained rather than an opportunity to be explored. The patrol is not looking for a fight and has no intention of attacking unless severely provoked.
+
+The patrol begins as **Indifferent**. The attitude may shift based upon whether the party identifies themselves honestly, their relationship with Springrun, their behavior and their apparent competence.
+
+The citizens of Castlemere respect assisting local settlements, fighting dangerous creatures, respecting Castlemere authority and sharing useful information.  Should the PCs do any of these it improves the patrol's overall attitude toward them.  Conversely, open hostility toward Castlemere, suspicious behavior, concealing information or openly mocking Castlemere policies will cause the attitude of the patrol to worsen.
+ 
+The patrol's worldview differs significantly from that of Springrun. The soldiers generally believe the wilderness is dangerous. That crystal growth should be monitored carefully and settlements should remain behind strong defenses. Exploration is necessary but should be tightly controlled.
+
+If the players reveal they are working with or from Spring run, the patrol becomes visibly cautious.
+
+Read or paraphrase:
+> [!note]+ Read Aloud
+> "Springrun." The sergeant exhales through his nose.
+> 
+> "Figures." Several members of the patrol exchange glances.
+> 
+> "You people spend too much time treating this forest like it wants to be your friend."
+
+If asked, the patrol sergeant may share that Castlemere patrols have increased recently. A DC 20 [[Skills#Perception|Perception]] check reveals that the soldiers are exhausted but determined and it's obvious the patrol has been operating in the field for days. Several of them show signs of recent combat.
+
+#### Features of the Area
+**Frontier Reports** The patrol possesses information gathered during recent expeditions. Characters who earn the patrol's trust may gain access to valuable rumors. Provide `dice: 1d3` rumors from [[#Springrun Rumors|Springrun Rumors Table]].
+
+#### Discovery Opportunities
+Characters investigating the clearing may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|These storms are relatively common in crystal-rich regions.|
+|Survival|20|The storm follows predictable weather patterns.|
+|Arcana|20|Crystal dust is carrying trace magical energy.|
+|Occultism|20|Similar storms occur more frequently near areas of magical instability.|
+
+> [!tip]+ Treasure
+> After the storm passes, characters may spend 10 minutes searching the area. A character may attempt a DC 20 [[Skills#Survival|Survival]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check. On **Critical Success** the characters recover `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shards]] + 1 for every character participating in the search.  A **Success** results in the discovery of `1d4` shards.
+>
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+### Prismatic Canopy Random Encounter:  Springrun Surveyors
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> Voices drift through the trees ahead. Not military commands. Just simple conversation and laughter.
+> 
+> A short distance later, the source becomes clear. Several individuals kneel beside a cluster of crystal formations while another sketches notes onto a weathered map spread across a fallen log. Wooden stakes marked with brightly painted symbols protrude from the ground nearby. One of the figures notices your approach.
+> 
+> Her face immediately brightens. "Travelers!"
+> 
+> The surveyor waves enthusiastically. "Perfect timing. You wouldn't happen to have seen any crystal blooms, collapsed tunnels, or unusual wildlife today, would you?" 
+> 
+> Another surveyor sighs. "Maybe ask their names first."
+
+**Description** The party encounters a survey team from Springrun consisting of a Senior Surveyor, 2–4 Junior Surveyors, a Crystalwright Apprentice and a Pack Animal carrying equipment and samples. They are conducting one of the settlement's ongoing mapping and resource-expansion efforts. Unlike the cautious military patrols of Castlemere, these explorers are actively searching for opportunities within the Canopy. They are mapping trails, cataloging crystal deposits, marking potential settlement sites, and documenting unusual phenomena. Most importantly, they are genuinely excited about their work.
+
+The surveyors are curious, optimistic, and somewhat overconfident representing Springrun's frontier spirit. While friendly, the surveyors may underestimate the dangers of the region. They should feel like people trying to build a future rather than merely survive. The surveyors are civilians rather than soldiers, though most carry basic weapons suitable for wilderness travel.
+
+The surveyors begin as **Friendly**. Unlike the Castlemere Patrol, they generally assume strangers are potential allies rather than potential threats. Their attitude may improve further if the party shares information, assists with surveying work, helps investigate a discovery or represents Springrun. The surveyors are actively expanding Springrun's maps. Characters may contribute observations or discoveries, however, the surveyor's have not been any deeper into the Canopy and have no map information of value to the PCs.
+
+The surveyors may ask for assistance. 
+- **Analyze Crystal Growth** The players assist with crystal measurements. Roll [[Skills#Crafting|Crafting]] or [[Skills#Arcana|Arcana]] DC 20.  
+- **Identify Wildlife Sign** Investigate tracks or signs. Roll [[Skills#Nature|Nature]] or [[Skills#Survival|Survival]] DC 20.  
+
+If the players succeed the surveyors are grateful. The party gains a favorable reputation among Springrun's explorers. On a critical success the the surveyors offer the players two [[drake-hide|Sections of Drake Hide]] they stripped from a dead Flame Drake they discovered a few days ago.  The surveyors also know `dice: 1d3` rumors from [[#Springrun Rumors|Springrun Rumors Table]] which they can share with the PCs.
+
+The surveyors may also share that Springrun has dramatically increased exploration efforts recently. A DC 20 [[Skills#Perception|Perception]] check reveals that several surveyors appear exhausted despite their enthusiasm. Their maps and notes contain detailed wildlife migration data. The Crystalwright is studying unusual crystal growth rates and notes that several crystal samples show recent changes.  As if they are starting to stabilize. A character who critically succeeds at an [[Skills#Arcana|Arcana]] or [[Skills#Nature|Nature]] checknotices something unusual within the notes. The Crystalwright's research notes indicate that crystal growth rates increase significantly nearer to the Deep Wilds. The pattern appears directional rather than random. The surveyors have not yet realized the significance of this finding.
+
+### Prismatic Canopy Random Encounter:  Echo Flowers Repeat Conversation
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> A sweet fragrance drifts through the air. Ahead, the forest opens into a small clearing covered in thousands of delicate flowers. Their petals shimmer with subtle rainbow hues while tiny crystal filaments stretch between neighboring blooms. The flowers sway gently despite the absence of wind. As you step closer, several blossoms slowly turn toward you. For a moment, nothing happens. Then a nearby flower speaks.
+> 
+> In a perfect imitation of a voice you recognize. "...for a moment, nothing happens."
+> 
+> Several more flowers immediately repeat the phrase. "...nothing happens."
+> 
+> "...nothing happens."
+> 
+> "...nothing happens."
+> 
+> The clearing falls silent once more. Waiting. Listening.
+
+**Description**The party discovers a clearing filled with unusual flowering plants unlike anything found elsewhere in the region. Delicate crystalline petals bloom atop long silver-green stems, while faint motes of light drift lazily between the flowers. The clearing appears peaceful. Then the flowers begin speaking. Not in their own voices. In yours.
+
+Whenever the players spend time listening, roll or choose:
+> "Mark this trail before sunset."
+> "The crystal deposit is larger than expected."
+> "Did you hear that humming again?"
+> "Something moved behind the trees."
+> "We should head back to Springrun."
+> Laughter followed by several seconds of silence.
+> "The tracks stop here."
+> "That's impossible."
+> "The doorway is real."
+> "Don't let it hear you."
+
+These fragments provide clues related to the Deep Wilds.
+
+This encounter should be mysterious, amusing, and slightly creepy. The flowers are not hostile. 
+
+> [!note]+ Call Out
+> ### Exploration Challenge
+> 
+> The party may attempt to locate shelter before the storm reaches its peak. One character may attempt a DC 20 [[Skills#Nature|Nature]] or [[Skills#Survival|Survival]] skill check.   
+> **Critical Success** The party finds excellent shelter. The group ignores Flying Debris for the remainder of the encounter and discovers useful resources after the storm.
+> **Success** The party finds adequate shelter protecting them from the worst of the storm. Reduce Flying Debris damage by half.
+> **Failure** The party finds poor shelter. The encounter proceeds normally.
+> **Critical Failure** The chosen shelter partially collapses. Immediately resolve a Flying Debris save against all creatures and continue the encounter as normal.
+
+#### Features of the Area
+**Mimicked Speech** The flowers record and repeat sounds they hear. When a creature speaks within the clearing, the flowers may repeat individual words, complete sentences, fragments of previous conversations, sounds made by animals, laughter, or environmental noises. The repetition may occur immediately or several minutes later.
+**Resonant Network** A successful DC 20 [[Skills#Arcana|Arcana]],  [[Skills#Nature|Nature]],  or [[Skills#Occultism|Occultism]] check reveals the flowers appear linked through a low-level magical resonance network. Sounds recorded by one flower may eventually be repeated by another elsewhere in the clearing.
+**Imperfect Memory** The flowers do not understand language. They simply store and replay sounds. This often results in bizarre combinations. Examples include: 
+> "Watch out!"
+> "Two silver for the apples."
+> "Something's following us."
+> "Nice weather."
+> "Something's following us."
+
+#### Discovery Opportunities
+Characters investigating the area may learn:
+
+|Skill|DC|Information|
+|---|---|---|
+|Nature|18|The deposit formed naturally after the Shattering.|
+|Crafting|20|The crystals are suitable for use in various crafting projects.|
+|Occultism|20|The harmonic vibrations resemble other crystal phenomena found throughout the region.|
+|Survival|18|Animals frequently visit the area but rarely linger.|
+
+> [!tip]+ Treasure
+> A character who critically succeeds at a DC 20 [[Skills#Arcana|Arcana]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]]  check can recover `dice: 1d4` [[Prismatic Crystal Shards]] from a hidden seam.
+>
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
 
 
 
 
-## Crystal Bloom
+## Echo Flowers
 
-## Exploration Challenge
+## Treasure
 
-Characters may spend time studying the phenomenon.
+The flowers themselves are valuable.
 
-One character may attempt one of the following checks:
-
-- Nature DC 20
-    
-- Arcana DC 20
-    
-- Occultism DC 20
-    
+Characters may attempt a DC 20 Nature or Crafting check to carefully harvest specimens.
 
 ### Critical Success
 
-The character learns that Crystal Blooms represent concentrated growth events caused by lingering magical energies interacting with local ecosystems.
+Recover:
 
-The party gains:
-
-- 2d4 [[Prismatic Crystal Shards]]
-    
-- One additional discovery from the Treasure section
+- 2d4 [[Echo Flower Blossoms]]
     
 
 ---
 
 ### Success
 
-The character identifies the area as a recent Crystal Bloom site and discovers useful harvestable materials.
+Recover:
 
-The party gains:
-
-- 1d4 [[Prismatic Crystal Shards]]
+- 1d4 [[Echo Flower Blossoms]]
     
 
 ---
 
 ### Failure
 
-The character gains little useful information.
+The harvested flowers quickly lose their resonance.
+
+No useful materials recovered.
 
 ---
 
 ### Critical Failure
 
-The character misidentifies harmless growths as valuable specimens.
+The flowers release a cloud of irritating pollen.
 
-No useful materials are recovered.
-
----
-
-## Treasure
-
-Characters harvesting the area may recover:
-
-|Harvest Option|
-|---|
-|1d4 [[Prismatic Crystal Shards]]|
-|1d4 bundles of [[Creep Vine]]|
-|1 vial of [[Resonant Condensation]]|
-|1 dose of [[Prismatic Pollen]]|
-|Rare flowering crystal specimen (5 gp value on Critical Success)|
-
-### Prismatic Pollen
-
-A rare alchemical ingredient valued by herbalists, alchemists, and Crystalwrights.
+The character becomes [[sickened|Sickened 1]].
 
 ---
 
-## Hidden Discovery
+## Echo Flower Blossom
 
-A character who critically succeeds at a Nature, Arcana, or Occultism check discovers something unusual:
+A rare ingredient valued by:
 
-The Crystal Bloom appears to radiate outward from a central point.
+- Crystalwrights
+    
+- Alchemists
+    
+- Researchers
+    
+- Bards
+    
 
-At the center lies a partially buried crystal formation bearing faint geometric markings.
-
-These markings resemble neither natural growth nor known script.
-
-This serves as subtle foreshadowing of the Dungeon's growing influence.
-
-
-
-
-
+A blossom typically sells for 2 gp.
 
 
 
@@ -858,16 +1259,17 @@ This serves as subtle foreshadowing of the Dungeon's growing influence.
 
 
 
-| 10    | Resonant Thunder                                                                              |
-| 11    | Prismatic Windstorm                                                                           |
-| 12    | Abandoned Campsite                                                                            |
-| 13    | Crystal Cache                                                                                 |
-| 14    | Old Caravan Tracks                                                                            |
-| 15    | Monster Corpse                                                                                |
-| 16    | Castlemere Patrol                                                                             |
-| 17    | Springrun Surveyors                                                                           |
-| 18    | Echo Flowers Repeat Conversation                                                              |
-| 19    | Wildlife Staring Into Forest                                                                  |
+
+
+
+
+
+
+
+
+
+
+| 19  | Wildlife Staring Into Forest |
 
 
 

@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "implacable"
-aliases: "Implacable"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: "80"
-rarity: "uncommon"
-trait01: "magical"
+name: "owlbear-vocal-cords"
+aliases: "Owlbear Vocal Cords"
+source: "Harvest Compendium"
+pg: "102"
+rarity: ""
+trait01: "creature component"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 11
+level: 4
 group: 
 bulk: 
-value: "1200"
+value: "15"
 subvalue: "gp"
 invest: 
-usage: "etched-onto-med-heavy-armor"
-license: "OGL"
+usage: "held in one hand"
+license: "ORC"
 identify: ""
-description: "This substantial rune makes you difficult to hold back. Whenever you are affected by an effect that lasts until you [[Escape]] (for instance, from the [[Grapple]] action or a tanglefoot bag), you become [[Quickened]]. You can use the extra action each round only to Step or Escape."
+description: "These vocal cords can only produce a loud screech. The cords can be crafted into a [[Horn of Owlbear Screeching|Horn of Owlbear Screeching]]"
 activate: ""
 craft: 
 destruction: 

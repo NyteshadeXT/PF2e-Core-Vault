@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "impulse-control"
 aliases: "Impulse Control"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "71"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions. You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[Conditions/Grabbed|Grabbed]] or magically [[Conditions/Paralyzed|Paralyzed]]."
+description: "The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions. You still can't move the wheelchair if you're physically or magically prevented from doing so, such as by being [[Grabbed]] or magically [[Paralyzed]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

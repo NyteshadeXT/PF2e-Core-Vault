@@ -4,30 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "ichthyosis-mutagen"
-aliases: "Ichthyosis Mutagen"
-source: "Pathfinder #164: Hands of the Devil"
-pg: "72"
-rarity: "rare"
+name: "impossible-cake-greater"
+aliases: "Impossible Cake (Greater)"
+source: "Pathfinder Lost Omens The Grand Bazaar"
+pg: "46"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "elixir"
-trait04: "mutagen"
-trait05: "polymorph"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 5
+level: 9
 weight: L
-value: "24"
+value: "25"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
 activate: "`pf2:1` [[Interact]]"
-description: "After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.\n\n**Benefit** For 1 minute, you gain fast healing 2 and automatically succeed at flat checks to recover from persistent bleed damage.\n\n**Drawback** Your thickened skin makes quick movement difficult, and your excess skin flakes off with the slightest movement. You take a -2 penalty to Reflex saves for 1 minute. Any creature attempting to [[Track]] you in the next 24 hours gains a +4 circumstance bonus to their check."
+description: "This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 30 minutes after the meal, you gain a +3 item bonus to your [[Skills#Deception|Deception]] checks to [[Impersonate]], as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles."
 powerTitle1:
 actionEconomy1:
 type1:

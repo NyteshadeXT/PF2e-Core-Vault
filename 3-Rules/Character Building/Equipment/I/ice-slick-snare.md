@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "ice-slick-snare"
 aliases: "Ice Slick Snare"
 source: "Pathfinder Special: Fumbus!"
-pg: ""
-rarity: ""
+pg: "0"
+rarity: "uncommon"
 trait01: "cold"
 trait02: "consumable"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Using a [[Equipment/Frost Vial (Moderate)|Frost Vial (Moderate)]] as a catalyst, this snare spills out over the ground when triggered to create a slippery patch of ice on the ground. When a creature triggers this snare, it takes 2d6 cold damage and must attempt a DC 22 Reflex check saving throw."
+description: "Using a [[frost-vial-moderate|Frost Vial (Moderate)]] as a catalyst, this snare spills out over the ground when triggered to create a slippery patch of ice on the ground. When a creature triggers this snare, it takes `dice: 2d6` cold damage and must attempt a DC 22 Reflex check saving throw."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

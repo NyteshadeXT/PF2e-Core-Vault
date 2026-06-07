@@ -4,30 +4,29 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "ichthyosis-mutagen"
-aliases: "Ichthyosis Mutagen"
-source: "Pathfinder #164: Hands of the Devil"
-pg: "72"
-rarity: "rare"
-trait01: "alchemical"
-trait02: "consumable"
-trait03: "elixir"
-trait04: "mutagen"
-trait05: "polymorph"
+name: "impact-foam-chassis-greater"
+aliases: "Impact Foam Chassis (Greater)"
+source: "Pathfinder Guns & Gears"
+pg: "70"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: ""
+trait04: ""
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 5
+level: 9
 weight: L
-value: "24"
+value: "150"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "worngarment"
 license: "ORC"
 identify:
-activate: "`pf2:1` [[Interact]]"
-description: "After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.\n\n**Benefit** For 1 minute, you gain fast healing 2 and automatically succeed at flat checks to recover from persistent bleed damage.\n\n**Drawback** Your thickened skin makes quick movement difficult, and your excess skin flakes off with the slightest movement. You take a -2 penalty to Reflex saves for 1 minute. Any creature attempting to [[Track]] you in the next 24 hours gains a +4 circumstance bonus to their check."
+description: "While you're wearing an impact foam chassis wrapped around your body, it Activates automatically whenever you fall at least 10 feet, causing a layer of soft, flexible impact foam to expand beneath and around you to cushion the fall. The impact foam decreases the falling damage by up to the listed amount, taking damage equal to the amount of falling damage the foam reduced. If this is enough to destroy the foam, it disperses immediately. However, if the foam has any Hit Points remaining, it remains surrounding you for up to 1 minute.  While you're surrounded in foam, you are [[Immobilized]] and have standard cover against other creatures, and other creatures have standard cover against you. The foam has an [[Escape]] DC of 15; a creature can also remove it by spending three Interact actions. You or others can also attack the foam (the foam has an AC of 12), which disperses if reduced to 0 Hit Points.  A greater impact foam chassis prevents up to 100 falling damage and has 100 Hit Points."
 powerTitle1:
 actionEconomy1:
 type1:

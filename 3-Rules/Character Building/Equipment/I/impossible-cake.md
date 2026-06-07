@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "impossible-cake"
 aliases: "Impossible Cake"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "46"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your Deception checks to Impersonate, as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles.  [[Equipment Effects/Effect_ Impossible Cake|Effect: Impossible Cake]]"
+activate: "`pf2:1` [[Interact]]"
+description: "This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your [[Skills#Deception|Deception]] checks to [[Impersonate]], as well as to Lie to convince others that you possess knowledge about the type of item that the cake resembles."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

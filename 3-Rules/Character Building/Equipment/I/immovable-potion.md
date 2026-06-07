@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "immovable-potion"
 aliases: "Immovable Potion"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "90"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [[Conditions/Immobilized|Immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[Conditions/Prone|Prone]], is 40."
+activate: "`pf2:1` [[Interact]]"
+description: "When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [[Immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[Prone]], is 40."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

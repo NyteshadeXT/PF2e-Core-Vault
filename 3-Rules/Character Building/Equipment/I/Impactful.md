@@ -1,24 +1,154 @@
 ---
-obsidianUIMode: preview
-title: "Impactful"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/force
-  - trait/magical
-  - trait/common
-aliases: "Compendium.pf2e.equipment-srd.Item.H9qYN48voa2ZDy3i"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "impactful"
+aliases: "Impactful"
+source: "Pathfinder Secrets of Magic"
+pg: "185"
+rarity: ""
+trait01: "force"
+trait02: "magical"
+trait03: ""
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 10
+weight: 
+value: "1000"
+subvalue: "gp"
+invest:
+usage: "etched onto a weapon"
+license: "ORC"
+identify:
+description: "This rune thrums with pure magical energy. Weapons with the rune deal an additional `dice: 1d6` force damage on a successful Strike. On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude check save or be pushed 5 feet away from you."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: ""
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: ""
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Impactful
-## Item 10
-### [[3-Rules/Trait Reference/F/force]][[magical]]
 
 
-**Price** 1000 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-a-weapon
-
-This rune thrums with pure magical energy. Weapons with the rune deal an additional 1d6 force damage on a successful Strike. On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude check save or be pushed 5 feet away from you.
-
-*Source: Pathfinder Secrets of Magic*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```

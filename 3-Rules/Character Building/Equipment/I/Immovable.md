@@ -1,31 +1,144 @@
 ---
-obsidianUIMode: preview
-title: "Immovable"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - trait/magical
-  - trait/uncommon
-aliases: "Compendium.pf2e.equipment-srd.Item.n8nLwFR4VFFmAny5"
-license: OGL
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "immovable"
+aliases: "Immovable"
+source: "Pathfinder Treasure Vault"
+pg: "12"
+rarity: "uncommon"
+trait01: "magical"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 12
+group: 
+bulk: 
+value: "1800"
+subvalue: "gp"
+invest: 
+usage: "etched onto armor"
+license: "OGL"
+identify: ""
+description: "This rune utilizes magical principles used in an _[[immovable-rod|Immovable Rod]]_."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Effect"
+actionEconomy1:  "`pf2:1`"
+type1:  "([[Interact]])"
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "Your armor anchors you in place, even defying gravity, rendering you [[Immobilized]] until you Dismiss the Activation. While you're immobilized in this way, you can be moved only if a creature succeeds at a DC 40 [[Skills#Athletics|Athletics]] check check to [[3-Rules/Character Building/Actions/Force Open|Force Open]] your armor. You can also be moved if 8,000 pounds of pressure are placed upon you, though this is likely fatal."
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: ""
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Immovable
-## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
 
 
-**Price** 1800 gp; 
-**Bulk** 0; **Size** med
-**Usage** etched-onto-armor
-
-This rune utilizes magical principles used in an _[[Equipment/Immovable Rod|Immovable Rod]]_.
-
-**Activate** `pf2:1` Interact
-
-**Frequency** once per day
-
-* * *
-
-**Effect** Your armor anchors you in place, even defying gravity, rendering you [[Immobilized|Immobilized]] until you Dismiss the Activation. While you're immobilized in this way, you can be moved only if a creature succeeds at a DC 40 Athletics check check to [[Actions/Force Open|Force Open]] your armor. You can also be moved if 8,000 pounds of pressure are placed upon you, though this is likely fatal.
-
-*Source: Pathfinder Treasure Vault*
-*OGL*
+```meta-bind-embed
+[[Item Card Template]]
+```

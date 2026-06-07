@@ -6,7 +6,7 @@ cssclass: pf2e-items, h-line
 name: "hype"
 aliases: "Hype"
 source: "Pathfinder Lost Omens Legends"
-pg: ""
+pg: "81"
 rarity: "rare"
 trait01: "alchemical"
 trait02: "consumable"
