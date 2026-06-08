@@ -178,7 +178,7 @@ Though practical and politically savvy, Edrik is not blind to the strange events
 
 ## Acquaintances
 - [[Sister Elowen Vale]] — One of the few people Edrik openly trusts for emotional counsel  
-- [[Talandra Vael]] — Respects her expertise but worries her caution may hinder necessary growth  
+- [[Talandra Bael]] — Respects her expertise but worries her caution may hinder necessary growth  
 - [[Maren Thistleford]] — Values her practical instincts and honest assessments of frontier dangers  
 - [[Brother Garrik Thorn]] — Relies heavily on Garrik’s judgment regarding security threats  
 - [[Selka Mirefen]] — Finds her useful but dangerously reckless

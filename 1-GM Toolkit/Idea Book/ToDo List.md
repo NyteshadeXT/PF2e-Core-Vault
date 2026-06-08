@@ -24,6 +24,7 @@
 - [ ] Do I want to add gems to the items?
 - [ ] Review homebrew items, monsters and hazards from old database for inclusion
 - [ ] Work on tags for monsters to be able to query them in the database
+- [ ] Add glass vials
 
 # Item Generator ToDos
 - [ ] Review Everything Shields material for final inclusion
@@ -43,6 +44,7 @@
 - [ ] Remove "Hat of Disagreeable Disguise" if still present in the database under cursed items.  Hat of Disguise was replaced by Masquerade Scarf.
 - [ ] Add Healer's Gel and Healing Vapor to the critical item list.
 - [ ] Remove Helm of Underwater Action which was replaced by Submersible Helm.
+- [ ] Shops selling spells by magic tradition.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Maps/Ardentia City Map.md",
+                "file": "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ardentia City Map"
+              "title": "Shattered Hearth Inn"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-                "mode": "source",
+                "file": "5-World/Points of Interest/Springrun/Trailrest Supply and Stable.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ACT I - FIRST CONTACT"
+              "title": "Trailrest Supply and Stable"
             }
           },
           {
@@ -90,9 +90,25 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
+          },
+          {
+            "id": "cb0fff68c155de22",
+            "type": "leaf",
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://1a1744f950ce9e43dd81e72a8fb17c54b6c3/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
+                  "filePath": "zz-Attachments/kaelen-vane.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,7 +281,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_eb981bf8088b",
+                "creatureId": "ID_7be999ca3bea",
                 "creatureName": "Auric"
               },
               "icon": "initiative-tracker-creature-view",
@@ -276,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 474.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,35 +319,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fbce5160498990a8",
+  "active": "2acc4486ba1a55e2",
   "lastOpenFiles": [
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/D/drake-hide.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "5-World/Settlements/Castlemere.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "3-Rules/Character Building/Equipment/I/indestructible-shield.md",
-    "3-Rules/Character Building/Equipment/I/incense-of-distilled-death.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/O..md",
-    "3-Rules/Character Building/Equipment/P/predators-claw.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/O/owlbear-vocal-cords.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/H/horn-of-owlbear-screeching.md",
-    "zz-Attachments/horn-of-owlbear-screeching.png",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
-    "3-Rules/Skills.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "3-Rules/Bestiaries/Uniques/K/Khellek.md",
-    "3-Rules/Bestiaries/Uniques/A/Auric.md",
-    "5-World/Maps/Ardentia City Map.md",
-    "5-World/Districts/Ardentia City/Seekers Quarter.md",
-    "5-World/Points of Interest/Ardentia City/Arcane Apothecary.md",
-    "5-World/Points of Interest/Ardentia City/Aetherial Cathedral.md",
-    "4-Campaign/Age of Worms/The Hall of Harsh Reflections.md",
-    "5-World/Points of Interest/Ardentia City/The Crooked House.md",
-    "5-World/Points of Interest/Ardentia City/Elara’s Gentle Remedies.md",
+    "5-World/Points of Interest/Springrun/Trailrest Supply and Stable.md",
+    "5-World/Points of Interest/Springrun/The Resonant Spire.md",
     "5-World/Points of Interest/Springrun/Lanternrest Shrine Plaza.md",
+    "5-World/Points of Interest/Springrun/Apothecarys Garden.md",
+    "5-World/Points of Interest/Springrun/Pioneers Forge.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/H/Hive Mother Mandibles.md",
+    "3-Rules/Character Building/Equipment/I/indestructible-shield.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
     "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P/phase-tiger-heart.md",
+    "5-World/Points of Interest/Shrine of Aurelius.md",
+    "5-World/Points of Interest/Sanctuary of Elara.md",
+    "5-World/Points of Interest/Hall of Artisans.md",
+    "5-World/Points of Interest/Bazaar of Wonders.md",
+    "5-World/NPCs/Springrun/Valerius Thorne.md",
+    "5-World/NPCs/Springrun/Torren Vale.md",
+    "5-World/NPCs/Springrun/Talandra Bael.md",
+    "5-World/NPCs/Springrun/Syllen Briarshade.md",
+    "5-World/NPCs/Springrun/Pip.md",
+    "5-World/NPCs/Springrun/Shards.md",
+    "5-World/NPCs/Springrun/Elara Whitethistle.md",
+    "5-World/NPCs/Springrun/Jorund Stonefist.md",
+    "5-World/NPCs/Springrun/Maren Thistleford.md",
+    "zz-Attachments/horn-of-owlbear-screeching.png",
     "zz-Attachments/prismatic-crystal-shard.png",
     "zz-Attachments/immortal-bastion.png",
     "zz-Attachments/hunters-bane.png",

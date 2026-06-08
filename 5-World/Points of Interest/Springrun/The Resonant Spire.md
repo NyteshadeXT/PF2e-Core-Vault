@@ -1,24 +1,24 @@
 ---
-tags:  
-- "#Location"  
-- "#POI"  
-art: zz-Attachments/Assets/PlaceholderImage.png  
-pronounced: The Resonant Spire  
-aliases:  
-- Resonant Spire  
-- The Spire  
-- Vael’s Workshop  
-poitype:  
-- Workshop  
-- Crystalwright  
-dominion:  
-- "[[Springrun Council]]"  
-owner:  
-- "[[Talandra Vael]]"  
-assistant:  
-- "[[Iven Rusk]]"  
-location:  
-- "[[Springrun]]"  
+tags:
+  - "#Location"
+  - "#POI"
+art: zz-Attachments/Assets/PlaceholderImage.png
+pronounced: The Resonant Spire
+aliases:
+  - Resonant Spire
+  - The Spire
+  - Vael’s Workshop
+poitype:
+  - Workshop
+  - Crystalwright
+dominion:
+  - "[[Springrun Council]]"
+owner:
+  - "[[Talandra Bael]]"
+assistant:
+  - "[[Iven Rusk]]"
+location:
+  - "[[Springrun]]"
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -138,7 +138,7 @@ location:
 > ```
 
 ## Overview 
-The Resonant Spire serves as Springrun’s primary crystalwright workshop and one of the settlement’s most strategically important locations. Operated by [[Talandra Vael]], the workshop specializes in the maintenance, stabilization, repair, and study of Aetherium Crystal infrastructure used throughout the settlement. While Springrun lacks the advanced magical engineering capabilities of larger city-states like [[Ardentia City]], the Spire ensures the town’s growing crystal systems remain functional and, more importantly, stable.  
+The Resonant Spire serves as Springrun’s primary crystalwright workshop and one of the settlement’s most strategically important locations. Operated by [[Talandra Bael]], the workshop specializes in the maintenance, stabilization, repair, and study of Aetherium Crystal infrastructure used throughout the settlement. While Springrun lacks the advanced magical engineering capabilities of larger city-states like [[Ardentia City]], the Spire ensures the town’s growing crystal systems remain functional and, more importantly, stable.  
   
 The workshop maintains portions of Springrun’s Energy Grid Substation, repairs damaged lantern crystals, reinforces conduit housings, calibrates resonance anchors, and evaluates potentially dangerous crystal formations recovered from the surrounding wilderness. Talandra’s work has become increasingly essential as Springrun expands deeper into the unstable environment surrounding the Prismatic Canopy.  
   
@@ -162,7 +162,7 @@ The workshop is also under mounting pressure from the Springrun Council to expan
   
 The Resonant Spire began as a modest repair shed attached to Springrun’s original substation platform during the settlement’s earliest expansion efforts. At the time, Springrun possessed only a handful of stabilized crystals powering basic lanterns, heating stones, and defensive wards. Most maintenance work involved replacing cracked housings, cleaning conduits, and preventing uncontrolled energy buildup.  
   
-Everything changed when [[Talandra Vael]] arrived several years after the settlement’s founding. Formerly associated with a small crystal engineering collective tied loosely to scholars from [[Ardentia City]], Talandra left after growing disillusioned with increasingly reckless experimentation surrounding large-scale crystal development. Seeking distance from ambitious theorists and dangerous research, she instead traveled to Springrun where practical necessity outweighed political prestige.  
+Everything changed when [[Talandra Bael]] arrived several years after the settlement’s founding. Formerly associated with a small crystal engineering collective tied loosely to scholars from [[Ardentia City]], Talandra left after growing disillusioned with increasingly reckless experimentation surrounding large-scale crystal development. Seeking distance from ambitious theorists and dangerous research, she instead traveled to Springrun where practical necessity outweighed political prestige.  
   
 Under Talandra’s guidance, the repair shed gradually evolved into the Resonant Spire. She introduced standardized stabilization methods, safer conduit designs, resonance dampening techniques, and rigorous inspection procedures that dramatically improved the settlement’s infrastructure reliability. While some settlers initially viewed her obsessive caution as excessive, several potentially disastrous crystal failures were quietly prevented due to her preventative measures.  
   
