@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "jahan-waystone"
 aliases: "Jahan Waystone"
 source: "Pathfinder Lost Omens The Mwangi Expanse"
-pg: ""
-rarity: ""
+pg: "207"
+rarity: "rare"
 trait01: "artifact"
 trait02: "magical"
 trait03: "teleportation"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This enormous stone glows with a pale light and emits a quiet hum. Each _Jahan waystone_ is part of a paired link. The paired stones correspond in the color of the light they emit, as well as the specific tone at which they hum.  * * *  **Activate** (1 minute) envision, Interact  * * *  **Effect** You place your hand on the stone and focus on the stone's light. The stone's glow envelopes all creatures in a 10-foot radius with its light and attempts to teleport the creatures to its paired stone. If there is no open space within 30 feet of the target waystone, the teleportation attempt fails. A creature can resist the teleportation with a successful DC 45 Will check."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This enormous stone glows with a pale light and emits a quiet hum. Each _Jahan waystone_ is part of a paired link. The paired stones correspond in the color of the light they emit, as well as the specific tone at which they hum."
+powerTitle1: "Effect"
+actionEconomy1: "(1 minute)"
+type1: "([[envision]], [[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You place your hand on the stone and focus on the stone's light. The stone's glow envelopes all creatures in a 10-foot radius with its light and attempts to teleport the creatures to its paired stone. If there is no open space within 30 feet of the target waystone, the teleportation attempt fails. A creature can resist the teleportation with a successful DC 45 Will check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

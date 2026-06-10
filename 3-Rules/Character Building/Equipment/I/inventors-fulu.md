@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "inventors-fulu"
 aliases: "Inventor's Fulu"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "78"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to an innovation"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You critically fail an action with the unstable trait.  Some inventors in Tian Xia put fried snacks near their innovations, a charm to make devices behave as intended. The practice rubbed off on other inventors, who replaced the food with a drawing on an _inventor's fulu_. When you Activate the fulu, your critical failure becomes a failure, and you can spend just 1 minute to return your innovation to full functionality. The fulu then burns up, and its effects end."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Some inventors in Tian Xia put fried snacks near their innovations, a charm to make devices behave as intended. The practice rubbed off on other inventors, who replaced the food with a drawing on an _inventor's fulu_. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
+frequency1: 
+trigger1: "You critically fail an action with the unstable trait."
+mechanics1: "When you Activate the fulu, your critical failure becomes a failure, and you can spend just 1 minute to return your innovation to full functionality. The fulu then burns up, and its effects end."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

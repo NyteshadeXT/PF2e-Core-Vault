@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "invigorating-soap"
 aliases: "Invigorating Soap"
 source: "Pathfinder #197: Let the Leaves Fall"
-pg: ""
-rarity: ""
+pg: "295"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "healing"
 trait04: "processed"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  * * *  This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 healing Hit Points and removes the [[Conditions/Fatigued|Fatigued]] condition. If you begin an 8-hour period of rest immediately after using invigorating soap, you regain an additional 10 Hit Points from resting."
+activate: "10 minutes ([[Interact]])"
+description: "This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 healing Hit Points and removes the [[Fatigued]] condition. If you begin an 8-hour period of rest immediately after using invigorating soap, you regain an additional 10 Hit Points from resting."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

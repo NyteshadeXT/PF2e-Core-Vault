@@ -352,7 +352,7 @@ if (d.invest)  stats.push(`**Invest** ${d.invest}`);
 if (stats.length) dv.list(stats);
 
 // ─── INTELLIGENT ITEM BOX ───────────────────────────────────────
-const hasIntel = !!d.perception?.trim() || !!d.communication?.trim() || !!d.skill1?.trim() || !!d.skill2?.trim() || !!d.skill3?.trim() || !!d.skill4?.trim() || !!d.skill5?.trim() || typeof d.int === "number" || typeof d.wis === "number" || typeof d.cha === "number" || !!d.will?.trim();
+const hasIntel = !!d.perception?.trim() || !!d.communication?.trim() || !!d.skill1?.trim() || !!d.skill2?.trim() || !!d.skill3?.trim() || !!d.skill4?.trim() || !!d.skill5?.trim() || !!d.skill6?.trim() || typeof d.int === "number" || typeof d.wis === "number" || typeof d.cha === "number" || !!d.will?.trim();
 
 if (hasIntel) {
   const box = document.createElement("div");
@@ -379,7 +379,7 @@ if (hasIntel) {
   if (d.communication?.trim()) L1.push({ label: "Communication", value: d.communication.trim() });
   if (L1.length)               box.appendChild(mkLine(L1));
 
-  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5].filter(x => x?.trim()).map(x => x.trim());
+  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5, d.skill6].filter(x => x?.trim()).map(x => x.trim());
   if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));
 
   let MS = [];

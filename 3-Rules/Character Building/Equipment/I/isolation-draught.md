@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "isolation-draught"
 aliases: "Isolation Draught"
 source: "Pathfinder #149: Against the Scarlet Triad"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 25 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Dazzled|Dazzled]], -3 to all Perception checks (1 minute)  **Stage 2** dazzled, [[Conditions/Deafened|Deafened]], -5 to all Perception checks (1 minute)  **Stage 3** [[Conditions/Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)"
+activate: "`pf2:1` [[Interact]] ([[Ingested]])"
+description: "Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.\n\n**Saving Throw** DC 25 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Dazzled]], -3 to all [[Skills#Perception|Perception]] checks (1 minute)  **Stage 2** dazzled, [[Deafened]], -5 to all [[Skills#Perception|Perception]] checks (1 minute)  **Stage 3** [[Blinded]], deafened, -5 to all [[Skills#Perception|Perception]] checks (5 minutes)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

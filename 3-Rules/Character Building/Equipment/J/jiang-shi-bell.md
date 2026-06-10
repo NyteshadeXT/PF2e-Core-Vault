@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "jiang-shi-bell"
 aliases: "Jiang-Shi Bell"
 source: "Pathfinder #199: To Bloom Below the Web"
-pg: ""
-rarity: ""
+pg: "303"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/jiang-shi-bell.png
 level: 11
 weight: L
 value: "1200"
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This ornate handbell creates a sonorous low-pitched tone when rung, as if sounding from a much larger bell than one carried in the hand. The bell is crafted of silver and polished to a reflective sheen, while the bell's wooden handle is carved with detailed images of various foodstuffs. You can interact with a jiang-shi bell to brandish it against a jiang-shi vampire. If a jiang-shi gains the [[Conditions/Fleeing|Fleeing]] condition as a result of a jiang-shi bell being brandished, they must run until they're at least 20 feet away. They take a -2 penalty to the Will save to any attempt to overcome their revulsion toward this object.  **Activate** `pf2:2` envision, Interact (olfactory, visual)  **Frequency** once per day  * * *  **Effect** You ring the bell and create an illusory image of a delicious-looking banquet of food laid out on an altar in a 5-foot-square at any point within 30 feet of you that you can see. Any creature that must eat food to survive that's within 30 feet of the appearance of the illusory food must succeed at a DC 28 Will check save or be so distracted by the food's sight and smell that they become [[Conditions/Fascinated|Fascinated]] by it for 10 minutes.  This food's appearance can trigger any jiang-shi's Bitter Epiphany weakness; if the food does so, the jiang-shi takes a –2 item penalty to its Will save to resist the effects of this weakness."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This ornate handbell creates a sonorous low-pitched tone when rung, as if sounding from a much larger bell than one carried in the hand. The bell is crafted of silver and polished to a reflective sheen, while the bell's wooden handle is carved with detailed images of various foodstuffs. You can interact with a jiang-shi bell to brandish it against a jiang-shi vampire. If a jiang-shi gains the [[Fleeing]] condition as a result of a jiang-shi bell being brandished, they must run until they're at least 20 feet away. They take a -2 penalty to the Will save to any attempt to overcome their revulsion toward this object."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "([[envision]], [[Interact]] ([[olfactory]], [[visual]]))"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You ring the bell and create an illusory image of a delicious-looking banquet of food laid out on an altar in a 5-foot-square at any point within 30 feet of you that you can see. Any creature that must eat food to survive that's within 30 feet of the appearance of the illusory food must succeed at a DC 28 Will check save or be so distracted by the food's sight and smell that they become [[Fascinated]] by it for 10 minutes.  This food's appearance can trigger any jiang-shi's Bitter Epiphany weakness; if the food does so, the jiang-shi takes a –2 item penalty to its Will save to resist the effects of this weakness."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,8 @@ weaponBase:
 armorBase:
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -133,7 +133,7 @@ will:
 #========================================================#
 weaponBase:
 armorBase:
-shieldBase: "Steel Shield"
+shieldBase: ""
 craftBase: "Adamantine"
 
 ---

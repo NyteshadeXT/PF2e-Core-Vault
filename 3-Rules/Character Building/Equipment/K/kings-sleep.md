@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "kings-sleep"
 aliases: "King's Sleep"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "293"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
 trait05: "virulent"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.  **Saving Throw** DC 41 Fortitude check  **Onset** 1 day  **Stage 1** [[Conditions/Drained|Drained 1]] (1 day)  **Stage 2**[[Conditions/Drained|Drained 1]] (1 day)  **Stage 3** [[Conditions/Drained|Drained 2]] (1 day)"
+activate: "`pf2:1` ([[manipulate]])"
+description: "King's sleep is an insidious long-term poison that can seem like a disease or even death from natural causes on a venerable target. The drained condition from king's sleep is cumulative with each failed save and can't be removed while the poison lasts.\n\n**Saving Throw** DC 41 Fortitude check  **Onset** 1 day  **Stage 1** [[Drained|Drained 1]] (1 day)  **Stage 2**[[Drained|Drained 1]] (1 day)  **Stage 3** [[Drained|Drained 2]] (1 day)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

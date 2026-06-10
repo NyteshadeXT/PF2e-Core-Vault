@@ -1,0 +1,82 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "irritating-seedpod-major"
+aliases: "Irritating Seedpod (Major)"
+source: "Pathfinder #203: Shepherd of Decay"
+pg: "77"
+rarity: "uncommon"
+trait01: "catalyst"
+trait02: "consumable"
+trait03: "magical"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 14
+weight: L
+value: "800"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+activate: "Cast a Spell (add 1 action)"
+description: "When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 29 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Slowed|Slowed 2]] for 1 round, then [[Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

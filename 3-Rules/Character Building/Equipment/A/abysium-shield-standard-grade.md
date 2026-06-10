@@ -20,7 +20,7 @@ image: zz-Attachments/assets/imageplaceholder.png
 level: 8
 group: 
 bulk: "1"
-value: "2000"
+value: "440"
 subvalue: "gp"
 invest: 
 usage: ""
@@ -131,7 +131,7 @@ will:
 #========================================================#
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase: "Steel Shield"
+weaponBase: ""
 armorBase:
 shieldBase:
 craftBase: "Abysium"

@@ -109,9 +109,9 @@ armorCategory:
 resist: 
 immunity: 
 conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+hardness: 10
+hp: 40
+bt: 20
 
 #========================================================#
 #              INTELLIGENT ITEM PROPERTIES               #
@@ -131,7 +131,7 @@ will:
 #========================================================#
 #                   DATAVIEW PROPERTIES                  #
 #========================================================#
-weaponBase: "Steel Shield"
+weaponBase: ""
 armorBase:
 shieldBase:
 craftBase: "Abysium"

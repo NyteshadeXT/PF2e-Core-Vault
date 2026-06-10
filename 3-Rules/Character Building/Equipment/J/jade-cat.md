@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "jade-cat"
 aliases: "Jade Cat"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "265"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You fall or attempt an Acrobatics check to [[Actions/Balance|Balance]]  **Requirements** You are trained in Acrobatics  * * *  A thumb-sized feline carved of rare stone, the _jade cat_ is typically worn as a pendant upon a suit of armor. For 1 minute after you activate the cat, you treat all falls as 20 feet shorter, you are not [[Conditions/Off-Guard|Off-Guard]] when you Balance, and narrow surfaces and uneven ground are not difficult terrain for you."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "A thumb-sized feline carved of rare stone, the _jade cat_ is typically worn as a pendant upon a suit of armor. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You fall or attempt an [[Skills#Acrobatics|Acrobatics]] check to [[Balance]]."
+requirement1: "You are trained in [[Skills#Acrobatics|Acrobatics]]."
+mechanics1: "For 1 minute after you activate the cat, you treat all falls as 20 feet shorter, you are not [[Off-Guard]] when you Balance, and narrow surfaces and uneven ground are not difficult terrain for you."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

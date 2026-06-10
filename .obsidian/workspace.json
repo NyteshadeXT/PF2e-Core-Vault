@@ -36,35 +36,35 @@
             }
           },
           {
+            "id": "e7df8ade147d086a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-high-grade.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "duskwood-tower-shield-high-grade"
+            }
+          },
+          {
+            "id": "e26db46bdbbf2d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Character Building/Equipment/K/Klar.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Klar"
+            }
+          },
+          {
             "id": "2acc4486ba1a55e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ToDo List"
-            }
-          },
-          {
-            "id": "9a812a86f80e52d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/I/indestructible-shield.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "indestructible-shield"
-            }
-          },
-          {
-            "id": "7ff1ee57ca2d28f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,39 +76,9 @@
               "icon": "lucide-file",
               "title": "Insert Item"
             }
-          },
-          {
-            "id": "e7df8ade147d086a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-            "id": "cb0fff68c155de22",
-            "type": "leaf",
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://1a1744f950ce9e43dd81e72a8fb17c54b6c3/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
-                  "filePath": "zz-Attachments/kaelen-vane.png"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 340.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -281,7 +251,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_7be999ca3bea",
+                "creatureId": "ID_191b1b598a09",
                 "creatureName": "Auric"
               },
               "icon": "initiative-tracker-creature-view",
@@ -319,42 +289,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2acc4486ba1a55e2",
+  "active": "e26db46bdbbf2d41",
   "lastOpenFiles": [
-    "5-World/Points of Interest/Springrun/Trailrest Supply and Stable.md",
-    "5-World/Points of Interest/Springrun/The Resonant Spire.md",
-    "5-World/Points of Interest/Springrun/Lanternrest Shrine Plaza.md",
-    "5-World/Points of Interest/Springrun/Apothecarys Garden.md",
-    "5-World/Points of Interest/Springrun/Pioneers Forge.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/H/Hive Mother Mandibles.md",
-    "3-Rules/Character Building/Equipment/I/indestructible-shield.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
-    "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
-    "5-World/Points of Interest/Shrine of Aurelius.md",
-    "5-World/Points of Interest/Sanctuary of Elara.md",
-    "5-World/Points of Interest/Hall of Artisans.md",
-    "5-World/Points of Interest/Bazaar of Wonders.md",
-    "5-World/NPCs/Springrun/Valerius Thorne.md",
-    "5-World/NPCs/Springrun/Torren Vale.md",
-    "5-World/NPCs/Springrun/Talandra Bael.md",
-    "5-World/NPCs/Springrun/Syllen Briarshade.md",
-    "5-World/NPCs/Springrun/Pip.md",
-    "5-World/NPCs/Springrun/Shards.md",
-    "5-World/NPCs/Springrun/Elara Whitethistle.md",
-    "5-World/NPCs/Springrun/Jorund Stonefist.md",
-    "5-World/NPCs/Springrun/Maren Thistleford.md",
-    "zz-Attachments/horn-of-owlbear-screeching.png",
-    "zz-Attachments/prismatic-crystal-shard.png",
-    "zz-Attachments/immortal-bastion.png",
-    "zz-Attachments/hunters-bane.png",
-    "zz-Attachments/hunters-anthem.png",
-    "zz-Attachments/hungering-maw.png",
-    "zz-Attachments/horrid-figurine.png",
-    "zz-Attachments/hook-sword.png",
+    "3-Rules/Character Building/Equipment/K/kizidhars-shield.md",
+    "3-Rules/Character Building/Equipment/D/demon-bone-tiles-brimorak.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-shield-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-shield-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-weapon-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-weapon-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-object-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-object-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-lumber.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-buckler-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-buckler-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-branch.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-armor-standard-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood-armor-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/duskwood.md",
+    "3-Rules/Character Building/Equipment/A/abysium-shield-standard-grade.md",
+    "3-Rules/Character Building/Equipment/A/abysium-shield-high-grade.md",
+    "3-Rules/Character Building/Equipment/D/abysium-powder.md",
+    "3-Rules/Character Building/Equipment/D/Duskwood Lumber.md",
+    "3-Rules/Character Building/Equipment/D/Duskwood Branch.md",
+    "3-Rules/Character Building/Equipment/D/Daikyu.md",
+    "3-Rules/Character Building/Equipment/A/abysium.md",
+    "3-Rules/Character Building/Equipment/A/absolute-solvent-moderate.md",
+    "zz-Attachments/kizidhars-shield.png",
+    "3-Rules/Character Building/Equipment/K/kirin-echo-chime.md",
+    "zz-Attachments/kirin-echo-chime.png",
+    "zz-Attachments/kinburis-sandals-of-bounding.png",
+    "zz-Attachments/kilted-breastplate.png",
+    "zz-Attachments/mala-beads-of-foresight.png",
+    "zz-Attachments/karambit.png",
+    "zz-Attachments/kaldemashs-lament.png",
+    "zz-Attachments/juggernaut-mutagen.png",
+    "zz-Attachments/jiu-huan-dao.png",
+    "zz-Attachments/jiang-shi-bell.png",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U",
@@ -364,8 +336,6 @@
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/O",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/N",
-    "zz-Attachments/boar-tusk.png",
-    "zz-Attachments/holy-chain.png"
+    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/N"
   ]
 }

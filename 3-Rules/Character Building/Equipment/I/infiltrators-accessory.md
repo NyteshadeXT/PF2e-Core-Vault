@@ -17,22 +17,23 @@ trait05: "magical"
 trait06: "common"
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/infiltrators-accessory.png
 level: 5
 weight: 1
 value: "150"
 subvalue: "gp"
+group: "Sword"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This elegant _+1 striking sword cane_ serves equally well as a fashionable accessory and hidden weapon suitable for high-society events where weapons aren't typically permitted.  **Activate-Hide Magic** `pf2:1` (manipulate)  * * *  **Effect** You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[Spells/Disguise Magic|Disguise Magic]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 Perception check). Activating the sword cane again releases the blade, allowing it to be drawn normally."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This elegant _[[Weapon Potency (+1)|+1]] [[striking]] [[sword cane]]_ serves equally well as a fashionable accessory and hidden weapon suitable for high-society events where weapons aren't typically permitted."
+powerTitle1: "Hide Magic"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You twist the sword cane's hilt, magically merging the blade into the cane. While the blade is merged, it can't be drawn and gains the benefits of a 3rd-rank [[Disguise Magic]] spell to appear non-magical. Passive observers can't attempt a check to notice the cane is anything more than a mundane, if superb, fashion accessory. Those carefully examining it can discern the cane is more than it appears, but doing so is extremely difficult (DC 30 [[Skills#Perception|Perception]] check). Activating the sword cane again releases the blade, allowing it to be drawn normally."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Sword Cane"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

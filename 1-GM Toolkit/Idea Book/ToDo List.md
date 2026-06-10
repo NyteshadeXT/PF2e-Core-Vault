@@ -1,3 +1,4 @@
+
 # Obsidian ToDos
 - [ ] Update items to new template
 	- Currently on letter 'H'
@@ -24,7 +25,6 @@
 - [ ] Do I want to add gems to the items?
 - [ ] Review homebrew items, monsters and hazards from old database for inclusion
 - [ ] Work on tags for monsters to be able to query them in the database
-- [ ] Add glass vials
 
 # Item Generator ToDos
 - [ ] Review Everything Shields material for final inclusion
@@ -33,18 +33,14 @@
 - [ ] [[Devoted Vestments]] need to have a deity tied to them.
 - [ ] Dragonscale Staff, Dragonslayer's Shield and Dragontooth Leiomano drop with a dragon type
 - [ ] Drake Rifle drops with a dragon type and can be any kind of firearm
-- [ ] Essence Charm should have a skill that it drops with
 - [ ] Essence Forges come in four varieties Life, Matter, Mind and Spirit
 - [ ] Create formula books with various formulas in them instead of just having blank formula books.
 - [ ] Add energy types to Charm of Resistance
-- [ ] [[golden-cased-bullet-standard|Golden-Cased Bullet (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
-- [ ] [[golden-silencer-standard|Golden Silencer (Standard)]] and it's variants are for firearms only.  Zero out in shops when present.
 - [ ] Make sure Green Dragon's Breath Potion has been removed and replaced with Energy Breath Potion (energy type).
-- [ ] Remove "Hand of the Mage" which was replaced by [[charlatans-gloves|Charlatan's Gloves]]
-- [ ] Remove "Hat of Disagreeable Disguise" if still present in the database under cursed items.  Hat of Disguise was replaced by Masquerade Scarf.
-- [ ] Add Healer's Gel and Healing Vapor to the critical item list.
-- [ ] Remove Helm of Underwater Action which was replaced by Submersible Helm.
+- [ ] Add Healing Vapor to the critical item list.
 - [ ] Shops selling spells by magic tradition.
+- [ ] Insight Coffee need to have different "blends."
+- [ ] Remove instructions-for-lasting-agony as it no longer works following OGL changes.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

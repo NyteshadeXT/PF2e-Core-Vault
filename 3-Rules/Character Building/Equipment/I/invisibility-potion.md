@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "invisibility-potion"
 aliases: "Invisibility Potion"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "259"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
 trait04: "potion"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  An _invisibility_ potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank [[Spells/Invisibility|Invisibility]] spell."
+activate: "`pf2:1` ([[manipulate]])"
+description: "An _invisibility_ potion is colorless and oddly lightweight. Upon drinking it, you gain the effects of a 2nd-rank [[3-Rules/Character Building/Spells/I/Invisibility|Invisibility]] spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

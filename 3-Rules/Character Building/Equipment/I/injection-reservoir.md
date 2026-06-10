@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "injection-reservoir"
 aliases: "Injection Reservoir"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "63"
 rarity: ""
 trait01: "adjustment"
 trait02: "alchemical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

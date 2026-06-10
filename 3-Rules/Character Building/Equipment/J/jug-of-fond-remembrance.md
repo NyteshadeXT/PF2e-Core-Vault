@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "jug-of-fond-remembrance"
 aliases: "Jug of Fond Remembrance"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "115"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This large jug always seems to contain just enough of the holder's favorite alcohol to share with a friend. As long as you're holding the jug, you gain a +1 circumstance bonus to Diplomacy checks. If you share a sip of the liquor from the jug with a creature, you gain a +2 circumstance bonus to your next Diplomacy check to [[Actions/Make an Impression|Make an Impression]] or [[Actions/Request|Request]] something from that creature any time within the next month.  **Activate** `pf2:1` Interact  **Frequency** once per hour  * * *  **Effect** You take a long swig on the jug and then Recall Knowledge about a creature you can see, with a +2 circumstance bonus to the check. If you fail but don't critically fail this check, you get a success instead. You're then [[Conditions/Stupefied|Stupefied 1]] for 3 rounds."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This large jug always seems to contain just enough of the holder's favorite alcohol to share with a friend. As long as you're holding the jug, you gain a +1 circumstance bonus to [[Skills#Diplomacy|Diplomacy]] checks. If you share a sip of the liquor from the jug with a creature, you gain a +2 circumstance bonus to your next [[Skills#Diplomacy|Diplomacy]] check to [[Make an Impression]] or [[Request]] something from that creature any time within the next month."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Interact]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You take a long swig on the jug and then [[Recall Knowledge]] about a creature you can see, with a +2 circumstance bonus to the check. If you fail but don't critically fail this check, you get a success instead. You're then [[Stupefied|Stupefied 1]] for 3 rounds."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

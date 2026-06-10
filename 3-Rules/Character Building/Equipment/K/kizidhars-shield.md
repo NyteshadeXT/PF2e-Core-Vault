@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "kizidhars-shield"
 aliases: "Kizidhar's Shield"
 source: "Pathfinder Rage of Elements"
-pg: ""
+pg: "201"
 rarity: ""
 trait01: "magical"
 trait02: "wood"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/kizidhars-shield.png
 level: 11
 weight: L
 value: "1250"
@@ -26,19 +26,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This _standard-grade duskwood shield_ is perfectly symmetrical and incredibly sturdy despite its elaborate construction. These shields are typically given to the chosen emissaries of a kizidhar shuyookh, and the shuyookh's name and title are engraved in Muan behind the shield's handle.  * * *  **Activate - Repair** `pf2:1` (concentrate)  **Frequency** once per day  **Effect** You command the shield to repair itself, awakening the restorative magic within. For the next minute, the shield heals 3 Hit Points each round at the start of your turn.  * * *  **Activate - Secure Site** 10 minutes (manipulate)  **Frequency** once per day  **Effect** You place the _kizidhar's shield_ into the ground at the edge of your campsite, which can't be more than 30 feet on a side, then speak the name of the kizidhar shuyookh carved into its handle. The shuyookh briefly appears just long enough to make a sweeping gesture, causing sprawling thorns to grow in an unnaturally symmetrical formation around the campsite, protecting it for the next 8 hours with an effect that's otherwise identical to [[Spells/Wall of Thorns|Wall of Thorns]]. All creatures within the campsite are then immediately affected by a three-action [[Spells/Heal|Heal]] spell cast at 4th rank by the shield. After 8 hours, the wall rots away, and the shield can be retrieved as an Interact action."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This _[[duskwood-shield-standard-grade|Duskwood Shield (Standard Grade)]]_ is perfectly symmetrical and incredibly sturdy despite its elaborate construction. These shields are typically given to the chosen emissaries of a kizidhar shuyookh, and the shuyookh's name and title are engraved in Muan behind the shield's handle."
+powerTitle1: "Repair"
+actionEconomy1: "`pf2:1`"
+type1: "([[concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You command the shield to repair itself, awakening the restorative magic within. For the next minute, the shield heals 3 Hit Points each round at the start of your turn."
+powerTitle2: "Secure Site"
+actionEconomy2: "10 minutes"
+type2: "([[manipulate]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You place the _kizidhar's shield_ into the ground at the edge of your campsite, which can't be more than 30 feet on a side, then speak the name of the kizidhar shuyookh carved into its handle. The shuyookh briefly appears just long enough to make a sweeping gesture, causing sprawling thorns to grow in an unnaturally symmetrical formation around the campsite, protecting it for the next 8 hours with an effect that's otherwise identical to [[Wall of Thorns]]. All creatures within the campsite are then immediately affected by a three-action [[Heal]] spell cast at 4th rank by the shield. After 8 hours, the wall rots away, and the shield can be retrieved as an Interact action."
 craft:
 
 #========================================================#
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

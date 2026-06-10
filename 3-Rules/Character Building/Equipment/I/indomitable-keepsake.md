@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "indomitable-keepsake"
 aliases: "Indomitable Keepsake"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "186"
 rarity: ""
 trait01: "consumable"
 trait02: "fortune"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` (concentrate)  **Trigger** You're critically hit by a firearm attack.  * * *  This talisman usually takes the form of a small sentimental object carried in a pocket or attached to the inside of a piece of armor. When you activate it, it slows the attack, and you reduce the damage from the triggering critical hit by 10, as the attack destroys the talisman. This effect only reduces the additional damage from a critical hit; it can't reduce the damage below the amount it would deal on a normal hit."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This talisman usually takes the form of a small sentimental object carried in a pocket or attached to the inside of a piece of armor. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You're critically hit by a firearm attack."
+mechanics1: "When you activate it, it slows the attack, and you reduce the damage from the triggering critical hit by 10, as the attack destroys the talisman. This effect only reduces the additional damage from a critical hit; it can't reduce the damage below the amount it would deal on a normal hit."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "iron-equalizer"
 aliases: "Iron Equalizer"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "305"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/iron-equalizer.png
 level: 12
 weight: 
 value: "400"
@@ -26,13 +26,13 @@ invest:
 usage: "affixed to melee weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:1` (manipulate)  * * *  This small iron band has a shifting weight that helps equalize the affixed weapon's balance. When you activate it, you use [[Feats/Certain Strike|Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the press trait.  If you have the Certain Strike feat, the failure effect increases to deal the weapon's normal damage."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small iron band has a shifting weight that helps equalize the affixed weapon's balance. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "When you activate it, you use [[Certain Strike]], as the fighter feat. You must meet the normal requirements, including those of the press trait.  If you have the Certain Strike feat, the failure effect increases to deal the weapon's normal damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

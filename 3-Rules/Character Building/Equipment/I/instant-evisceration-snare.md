@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "instant-evisceration-snare"
 aliases: "Instant Evisceration Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "299"
 rarity: ""
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing 18d8 piercing damage (DC 42 Reflex check save)."
+description: "When a creature enters the snare's square, the snare releases an unbelievable arsenal of blades at the creature, dealing `dice: 18d8` piercing damage (DC 42 Reflex check save)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "invisible-chain-shirt"
 aliases: "Invisible Chain Shirt"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "186"
 rarity: ""
 trait01: "comfort"
 trait02: "flexible"
 trait03: "invested"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+2 resilient [[Equipment/Invisibility|Invisibility]] chain shirt_ is itself invisible. Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's invisible composition is quieter and more comfortable than a normal chain shirt. It loses the noisy trait and gains the comfort trait.  * * *  **Activate** `pf2:2` envision  **Frequency** once per minute  * * *  **Effect** You Stride and turn partially invisible, becoming [[Conditions/Concealed|Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Actions/Hide|Hide]]."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This _[[armor-potency-2|+2]] [[resilient]] [[3-Rules/Character Building/Equipment/I/invisibility|invisibility]] [[chain shirt]]_ is itself invisible. Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's invisible composition is quieter and more comfortable than a normal chain shirt. It loses the noisy trait and gains the comfort trait."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2`"
+type1: "([[envision]])"
+frequency1: "once per minute"
 trigger1:
-mechanics1:
+mechanics1: "You Stride and turn partially invisible, becoming [[Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Hide]]."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,13 +57,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
+baseAC: 2
+modAC: 2
+dexCap: 3
+strRequirement: 1
+checkPenalty: "-1"
 speedPenalty:
-armorCategory:
+armorCategory: "Light"
 resist:
 immunity:
 conditionImmunity:
@@ -72,6 +72,11 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Chain Shirt"
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

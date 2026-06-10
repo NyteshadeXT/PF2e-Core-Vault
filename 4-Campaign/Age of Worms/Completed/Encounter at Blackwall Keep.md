@@ -750,14 +750,14 @@ Other methods of attacking the dragon egg produce different effects.
 + If it takes 20 ог more points of fire damage, the egg and worms are destroyed, resulting in a wet green-brown paste which a character with the [[Alchemical Crafting]] feat can use to make 4 doses of Kyuss worm paste or Kyussbane oil (see sidebar) by spending one day per dose crafting the item. No gp expenditure is necessary to make either of these items as long as the character has the feat and the raw paste. A DC 20 Knowledge ([[Skills#Crafting|Crafting]], [[Skills#Arcana|Arcana]] or [[Skills#religion|Religion]]) check is enough for a character to recognize this quality of the burnt worms. 
 
 > [!tip]+ Treasure
-> Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-moderate|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
+> Underwater near the dragon egg is a waterproof chest of oiled wood that is Ilthane's final contingency against the destruction of her horde of spawnlings. The box contains a fair amount of treasure intended to lull the PCs into a false sense of security about their victory. The chest contains 1300 cp, 240 sp, 53 gp, 2 pp, 6 rare antique silver trade bars wirth 25 gp each and six dark glass vials— 2 × [[juggernaut-mutagen-moderate|Juggernaut Mutagen (Moderate)]],  2 × [[healing-potion-moderate|Healing Potion (Moderate]], [[potion-of-quickness|Potion of Quickness]], [[invisibility-potion|Invisibility Potion]], each contaminated with a single slow Kyuss worm. The chest also contains a [[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]], its surface etched with swirling wave patterns and rimmed in green-stained bronze.
 > - [x] pp::2
 > - [x] gp::203
 > - [x] sp::240
 > - [x] cp::1300
 > - [x] permanent::[[sturdy-shield-(lesser)|Sturdy Shield (Lesser)]] [ilvl::7] [gp::360]
-> - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
-> - [x] consumable::[[juggernaut-mutagen-(moderate)|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[juggernaut-mutagen-moderate|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
+> - [x] consumable::[[juggernaut-mutagen-moderate|Juggernaut Mutagen (Moderate)]] [ilvl::3] [gp::12]
 > - [x] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 > - [x] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50]
 > - [x] consumable::[[potion-of-quickness|Potion of Quickness]] [ilvl::8] [gp::90]

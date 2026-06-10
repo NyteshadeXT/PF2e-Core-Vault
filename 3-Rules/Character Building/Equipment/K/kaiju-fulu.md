@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "kaiju-fulu"
 aliases: "Kaiju Fulu"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "affixed to load bearing wall or pillar"
 license: "ORC"
 identify:
-description: "**Duration** 1 week  Despite the name, a kaiju fulu protects a building against damage of all sorts. When an affixed structure no larger than 100 feet × 100 feet and up to 50 feet tall takes damage, the structure is as hard as standard-grade adamantine against that damage and any damage that occurs within 1 hour thereafter. The fulu then crumbles to dust, and its effects end."
+description: "Despite the name, a kaiju fulu protects a building against damage of all sorts. For one week, when an affixed structure no larger than 100 feet × 100 feet and up to 50 feet tall takes damage, the structure is as hard as standard-grade adamantine against that damage and any damage that occurs within 1 hour thereafter. The fulu then crumbles to dust, and its effects end."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

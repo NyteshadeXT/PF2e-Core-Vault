@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "irritating-thorn-snare"
 aliases: "Irritating Thorn Snare"
 source: "Pathfinder #176: Lost Mammoth Valley"
-pg: ""
-rarity: ""
+pg: "79"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You dip thorns, spines, or pine needles in a mild toxin that causes skin irritation and swelling, then lash them together into a ball. When a creature enters the snare's square, the thorny ball is lobbed at that creature, dealing 3d8 piercing damage. The creature must attempt a DC 19 Reflex check save.  * * *  **Critical Success** The target is unaffected.  **Success** The target takes half damage.  **Failure** The target takes full damage and 1d6 persistent poison.  **Critical Failure** The target takes double damage and 2d6 persistent poison."
+description: "You dip thorns, spines, or pine needles in a mild toxin that causes skin irritation and swelling, then lash them together into a ball. When a creature enters the snare's square, the thorny ball is lobbed at that creature, dealing `dice: 3d8` piercing damage. The creature must attempt a DC 19 Reflex check save.\n\n**Critical Success** The target is unaffected.\n**Success** The target takes half damage.\n**Failure** The target takes full damage and `dice: 1d6` persistent poison.\n**Critical Failure** The target takes double damage and `dice: 2d6` persistent poison."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

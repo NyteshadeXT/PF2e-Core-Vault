@@ -19,7 +19,7 @@ trait08:
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
 group: 
-bulk: "L"
+bulk: "1"
 value: "5000"
 subvalue: "gp"
 invest: 

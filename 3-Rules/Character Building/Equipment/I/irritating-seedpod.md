@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "irritating-seedpod"
 aliases: "Irritating Seedpod"
 source: "Pathfinder #203: Shepherd of Decay"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  * * *  When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Spells/Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 21 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Conditions/Slowed|Slowed 1]] for 1 round. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes."
+activate: "Cast a Spell (add 1 action)"
+description: "When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 21 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Slowed|Slowed 1]] for 1 round. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

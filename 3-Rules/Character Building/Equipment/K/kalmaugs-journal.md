@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "kalmaugs-journal"
 aliases: "Kalmaug's Journal"
 source: "Pathfinder #194: Cult of the Cave Worm"
-pg: ""
-rarity: ""
+pg: "78"
+rarity: "unique"
 trait01: "grimoire"
 trait02: "invested"
 trait03: "magical"
 trait04: "relic"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This grimoire is constructed from individual tarnished silver plates, bound together to form a fine book. Each "page" contain engraved maps, accounts of sites in Nar-Voth, and daily journals. Throughout the journal, spells and notes are inscribed on the margins and within the text. When Chapter One is completed, this grimoire contains the following spells: [[Spells/Allfood|Allfood]], [[Spells/Deep Sight|Deep Sight]], [[Spells/Fate's Travels|Fate's Travels]], [[Spells/Glowing Trail|Glowing Trail]], [[Spells/Know Location|Know Location]], [[Spells/Stonesense|Stonesense]], [[Spells/Wanderer's Guide|Wanderer's Guide]].  If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, when you cast a non-damaging spell prepared from this grimoire, you can Step or Stride up to half your Speed after Casting the Spell. To scribe additional spells into the grimoire, you must provide additional silver plates at the cost of 10 gp per spell when Learning the Spell."
+description: "This grimoire is constructed from individual tarnished silver plates, bound together to form a fine book. Each 'page' contain engraved maps, accounts of sites in Nar-Voth, and daily journals. Throughout the journal, spells and notes are inscribed on the margins and within the text. When Chapter One is completed, this grimoire contains the following spells: [[Allfood]], [[Deep Sight]], [[Fate's Travels]], [[Glowing Trail]], [[Know Location]], [[Stonesense]], [[Wanderer's Guide]].  If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate rank, when you cast a non-damaging spell prepared from this grimoire, you can Step or Stride up to half your Speed after Casting the Spell. To scribe additional spells into the grimoire, you must provide additional silver plates at the cost of 10 gp per spell when Learning the Spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

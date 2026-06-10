@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "kimanéz-luminescent-toadstool"
 aliases: "Kimanéz Luminescent Toadstool"
 source: "Pathfinder Lost Omens Rival Academies"
-pg: ""
-rarity: ""
+pg: "107"
+rarity: "rare"
 trait01: "consumable"
 trait02: "fungus"
 trait03: "light"
 trait04: "magical"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This large blue toadstool glimmers with soft, magical light similar to moonlight. The spots of white adorning the mushroom's cap glow ethereally, as if illuminated from the inside, shedding dim light in a 10-foot radius.  **Activate—Ward Area** 10 minutes (concentrate, light, manipulate)  * * *  **Effect** You plant the toadstool in the ground, allowing it to connect to all living fungi and plant matter within 120 feet of its planting. For 8 hours, any corporeal creature that touches the affected matter even accidentally begins to glow with bright magical light in a 10-foot emanation, which persists as long as they remain within 120 feet of the planted mushroom. A creature can move through an area containing affected fungi and plant matter without touching it by treating the area as difficult terrain and succeeding at a DC 18 Acrobatics check check."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This large blue toadstool glimmers with soft, magical light similar to moonlight. The spots of white adorning the mushroom's cap glow ethereally, as if illuminated from the inside, shedding dim light in a 10-foot radius."
+powerTitle1: "Ward Area"
+actionEconomy1: "10 minutes"
+type1: "([[concentrate]], [[light]], [[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You plant the toadstool in the ground, allowing it to connect to all living fungi and plant matter within 120 feet of its planting. For 8 hours, any corporeal creature that touches the affected matter even accidentally begins to glow with bright magical light in a 10-foot emanation, which persists as long as they remain within 120 feet of the planted mushroom. A creature can move through an area containing affected fungi and plant matter without touching it by treating the area as difficult terrain and succeeding at a DC 18 [[Skills#Acrobatics|Acrobatics]] check check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

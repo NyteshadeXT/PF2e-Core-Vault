@@ -184,7 +184,7 @@ creatures:
 > - [x] sp::5
 > - [x] cp::6
 > - [x] consumable::[[Merciful Balm|Merciful Balm]] [ilvl::1] [gp::3]
-> - [x] consumable::[[Journeybread|Journeybread]] [ilvl::1] [gp::3]
+> - [x] consumable::[[journeybread|Journeybread]] [ilvl::1] [gp::3]
 > - [x] consumable::[[Instant Pottery|Spell Scroll - 1st Level (Instant Pottery)]] [ilvl::1] [gp::12]
 
 ## The Kitchen 

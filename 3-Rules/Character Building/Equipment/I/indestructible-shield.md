@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "indestructible-shield"
 aliases: "Indestructible Shield"
 source: "Pathfinder GM Core"
-pg: ""
-rarity: ""
+pg: "234"
+rarity: "rare"
 trait01: "magical"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "An _indestructible shield_ is a _high-grade greater reinforcing adamantine shield_ (Hardness 17, HP 136) that can withstand just about any damage. It can be damaged only by a [[Spells/Disintegrate|Disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction.  * * *  **Craft Requirements** The raw materials must include at least 4,400 gp of adamantine."
+description: "An _indestructible shield_ is a _ [[adamantine-shield-high-grade|Adamantine Shield (High Grade)]] [[reinforcing-rune-(greater)|Reinforcing Rune (Greater)]]  [[Steel Shield]]_ that can withstand just about any damage. It can be damaged only by a [[Disintegrate]] spell (roll damage as if against a creature that failed its save) or by an artifact tied to destruction."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -39,7 +39,7 @@ type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "The raw materials must include at least 4,400 gp of adamantine."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -57,21 +57,28 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
-resist:
-immunity:
-conditionImmunity:
+baseAC: 2
+dexCap: 
+strRequirement: ""
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 17
+hp: 136
+bt: 
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
