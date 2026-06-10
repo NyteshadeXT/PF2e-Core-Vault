@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-high-grade.md",
+                "file": "3-Rules/Character Building/Equipment/L/ladys-spiral.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "duskwood-tower-shield-high-grade"
-            }
-          },
-          {
-            "id": "e26db46bdbbf2d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/K/Klar.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Klar"
+              "title": "ladys-spiral"
             }
           },
           {
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +215,7 @@
             }
           },
           {
-            "id": "5ad237662ef085c4",
+            "id": "623587c72334f659",
             "type": "leaf",
             "state": {
               "type": "time-calendar-view",
@@ -239,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5b7dff7ad016ea39",
@@ -251,7 +237,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_191b1b598a09",
+                "creatureId": "ID_fb7ad87a8b7b",
                 "creatureName": "Auric"
               },
               "icon": "initiative-tracker-creature-view",
@@ -262,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 474.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,44 +276,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e26db46bdbbf2d41",
+  "active": "e7df8ade147d086a",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/K/kizidhars-shield.md",
-    "3-Rules/Character Building/Equipment/D/demon-bone-tiles-brimorak.md",
+    "3-Rules/Character Building/Equipment/L/ladys-knife.md",
+    "3-Rules/Character Building/Equipment/L/ladys-chalice.md",
+    "3-Rules/Character Building/Equipment/L/ladys-blessing-oil.md",
+    "3-Rules/Character Building/Equipment/L/ladder-10-foot.md",
     "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-shield-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-shield-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-weapon-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-weapon-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-object-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-object-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-lumber.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-buckler-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-buckler-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-branch.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-armor-standard-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-armor-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/duskwood.md",
-    "3-Rules/Character Building/Equipment/A/abysium-shield-standard-grade.md",
-    "3-Rules/Character Building/Equipment/A/abysium-shield-high-grade.md",
-    "3-Rules/Character Building/Equipment/D/abysium-powder.md",
-    "3-Rules/Character Building/Equipment/D/Duskwood Lumber.md",
-    "3-Rules/Character Building/Equipment/D/Duskwood Branch.md",
-    "3-Rules/Character Building/Equipment/D/Daikyu.md",
-    "3-Rules/Character Building/Equipment/A/abysium.md",
-    "3-Rules/Character Building/Equipment/A/absolute-solvent-moderate.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/L/Lattice Armor.md",
+    "3-Rules/Character Building/Equipment/L/Light Barding.md",
+    "3-Rules/Character Building/Equipment/L/limestone-shield.md",
+    "3-Rules/Character Building/Equipment/L/Liuyedao.md",
+    "3-Rules/Character Building/Equipment/L/Longbow.md",
+    "3-Rules/Character Building/Equipment/L/long-hammer.md",
+    "3-Rules/Character Building/Equipment/L/lucky-rabbits-foot.md",
+    "3-Rules/Character Building/Equipment/L/lacquered-waist-drum.md",
+    "3-Rules/Character Building/Equipment/L/Lyrakien Staff.md",
+    "3-Rules/Character Building/Equipment/L/Lung Bloodstone of Arazni.md",
+    "3-Rules/Character Building/Equipment/L/Lucky Draw Bandolier.md",
+    "3-Rules/Character Building/Equipment/L/Luck Blade.md",
+    "3-Rules/Character Building/Equipment/L/Lover's Gloves.md",
+    "3-Rules/Character Building/Equipment/L/Longnight Tea.md",
+    "3-Rules/Character Building/Equipment/L/Long Air Repeater.md",
+    "3-Rules/Character Building/Equipment/L/Lodestone Bomb.md",
+    "3-Rules/Character Building/Equipment/L/Lock (Simple).md",
+    "3-Rules/Character Building/Equipment/L/Lock (Good).md",
+    "3-Rules/Character Building/Equipment/L/Lock (Average).md",
+    "3-Rules/Character Building/Equipment/L/Living Leaf Weave.md",
+    "zz-Attachments/kusarigama.png",
+    "zz-Attachments/kraken-figurehead.png",
+    "zz-Attachments/knapsack-of-halflingkind.png",
+    "zz-Attachments/klar.png",
     "zz-Attachments/kizidhars-shield.png",
-    "3-Rules/Character Building/Equipment/K/kirin-echo-chime.md",
     "zz-Attachments/kirin-echo-chime.png",
     "zz-Attachments/kinburis-sandals-of-bounding.png",
     "zz-Attachments/kilted-breastplate.png",
     "zz-Attachments/mala-beads-of-foresight.png",
     "zz-Attachments/karambit.png",
-    "zz-Attachments/kaldemashs-lament.png",
-    "zz-Attachments/juggernaut-mutagen.png",
-    "zz-Attachments/jiu-huan-dao.png",
-    "zz-Attachments/jiang-shi-bell.png",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V",
     "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U",

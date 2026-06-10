@@ -1,24 +1,8 @@
 {
   "pluginList": [
-    "Jareika/ttrpg-tools-time",
-    "Jareika/zoom-map",
-    "Jareika/ttrpg-tools-screen",
     "MostTornBrain/monster-mash"
   ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "Jareika/ttrpg-tools-time",
-      "version": "latest"
-    },
-    {
-      "repo": "Jareika/zoom-map",
-      "version": ""
-    },
-    {
-      "repo": "Jareika/ttrpg-tools-screen",
-      "version": "latest"
-    }
-  ],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": false,
   "updateThemesAtStartup": false,

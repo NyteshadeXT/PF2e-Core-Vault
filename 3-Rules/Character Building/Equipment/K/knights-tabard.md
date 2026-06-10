@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "knights-tabard"
 aliases: "Knight's Tabard"
 source: "Pathfinder Lost Omens Knights of Lastwall"
-pg: ""
+pg: "86"
 rarity: ""
 trait01: "uncommon"
 trait02: ""
@@ -26,7 +26,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to [[Actions/Make an Impression|Make an Impression]] on creatures who have a positive association with the entity represented on the tabard."
+description: "This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to [[Make an Impression]] on creatures who have a positive association with the entity represented on the tabard."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

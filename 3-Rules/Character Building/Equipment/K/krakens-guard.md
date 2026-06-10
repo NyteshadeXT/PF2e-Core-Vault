@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "krakens-guard"
 aliases: "Kraken's Guard"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
+pg: "38"
+rarity: "uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This steel shield is painted a mottled crimson, and it always glistens as if wet. Its crest is composed of eight appendages that curl around each other, resembling the swirling tentacles of a giant kraken. Two ferocious eyes sit in its center, gleaming with an inner light.      | Hardness | HP | BT | | --- | --- | --- | | 16 | 96 | 48 |  * * *  **Activate** `pf2:2` Raise a Shield  **Frequency** once per hour  * * *  **Effect** You unleash the kraken's wrath. You Raise the Shield. The shield's appendages briefly extend to impossible length as they wriggle and lash out at your foes, dealing 10d10 bludgeoning damage to all enemies in a 30-foot cone (DC 41 Reflex check save). The shield remains animated for 1 minute, during which you can use it to Grapple a creature within 10 feet of you without needing a free hand. When you use the shield to Grapple, you gain a +3 item bonus to your Athletics check.  [[Equipment Effects/Effect_ Kraken's Guard|Effect: Kraken's Guard]]"
-powerTitle1:
-actionEconomy1:
+description: "This [[steel shield]] is painted a mottled crimson, and it always glistens as if wet. Its crest is composed of eight appendages that curl around each other, resembling the swirling tentacles of a giant kraken. Two ferocious eyes sit in its center, gleaming with an inner light."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:2` Raise a Shield"
 type1:
-frequency1:
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+mechanics1: "You unleash the kraken's wrath. You [[Raise the Shield]]. The shield's appendages briefly extend to impossible length as they wriggle and lash out at your foes, dealing `dice: 10d10` bludgeoning damage to all enemies in a 30-foot cone (DC 41 Reflex check save). The shield remains animated for 1 minute, during which you can use it to [[Grapple]] a creature within 10 feet of you without needing a free hand. When you use the shield to [[Grapple]], you gain a +3 item bonus to your [[Skills#Athletics|Athletics]] check."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,7 +57,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 2
 modAC:
 dexCap:
 strRequirement:
@@ -67,11 +67,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 16
+hp: 96
+bt: 48
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
