@@ -269,10 +269,15 @@ This region is far from safe, but the most subtle danger to the PCs comes in the
 | 13    | [[#Prismatic Canopy Random Encounter Crystal Cache\|Crystal Cache]]                                       |
 | 14    | [[#Prismatic Canopy Random Encounter Old Caravan Tracks\|Old Caravan Tracks]]                             |
 | 15    | [[#Prismatic Canopy Random Encounter Monster Corpse\|Monster Corpse]]                                     |
-| 16    | [[#Prismatic Canopy Random Encounter Castlemere Patrol\|Castlemere Patrol]]                               |
-| 17    | [[#Prismatic Canopy Random Encounter Springrun Surveyors\|Springrun Surveyors]]                           |
+| 16    | [[#Prismatic Canopy Random Encounter Castlemere Patrol\|Castlemere Patrol]] (Canopy Only)                 |
+| 17    | [[#Prismatic Canopy Random Encounter Springrun Surveyors\|Springrun Surveyors]] (Canopy Only)             |
 | 18    | [[#Prismatic Canopy Random Encounter Echo Flowers Repeat Conversation\|Echo Flowers Repeat Conversation]] |
-| 19    | Wildlife Staring Into Forest                                                                              |
+| 19    | [[#Prismatic Canopy Random Encounter Resonance Wolves\|Resonance Wolves]]                                 |
+| 20    | [[#Prismatic Canopy Random Encounter Prism Widow Nest\|Prism Widow Nest]]                                 |
+| 21    | [[#Prismatic Canopy Random Encounter Resonant Burrower\|Resonant Burrower]])                              |
+| 22    | [[#Prismatic Canopy Random Encounter Gravity Scar\|Gravity Scar]])                                        |
+| 23    | [[#Prismatic Canopy Random Encounter Missing Expedition\|Missing Expedition]])                            | 
+| 24    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive]])                      |
 ^PrismaticRandom
 
 ### Prismatic Canopy Random Encounter: Crystalback Razorboars
@@ -329,6 +334,8 @@ The boars attempt to separate weaker-looking targets from the rest of the party.
 > 
 > - [[B.#3-Rules/Bestiaries/Monster Core/D/Daeodon Daeodon|Daeodon Harvest]]
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter: Prismwing Stalkers
 - [ ] Low (60 XP) Level 5
 
@@ -378,6 +385,8 @@ The stalkers are intelligent hunters but not suicidally aggressive.
 > No individual loot is found but if the Crystalback Razorboars are harvested check the table below.
 > 
 > - [[D.#3-Rules/Bestiaries/Monster Core/D/Deinonychus Deinonychus/|Deinonychus Harvest]]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter: Ankhrav Foragers
 - [ ] Low (60 XP) Level 5
@@ -431,6 +440,8 @@ The creatures fight instinctively but display increasingly coordinated behavior 
 > No individual loot is found but if the Ankhrav Foragers are harvested check the table below.
 > 
 > - [[A.#3-Rules/Bestiaries/Monster Core/A/Ankhrav Ankhrav|Ankhrav Harvest]]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter: Razervine Tanglers
 - [ ] Low (60 XP) Level 5
@@ -493,6 +504,8 @@ Unless burned, chopped apart, or forced from their territory, the Tanglers fight
 > - [ ] sp::10
 > - [ ] consumable::[[healing-potion-lesser|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter: Crystal-Touched Hydra
 - [ ] Low (60 XP) Level 5
 
@@ -550,6 +563,8 @@ If reduced below one-third HP, the creature becomes increasingly aggressive rath
 > - [ ] gp::7
 > - [ ] consumable::[[tallow-bomb-(moderate)|Tallow Bomb (Moderate)]] [ilvl::3] [gp::10]
 > - [ ] consumable::[[disguise-kit-elite|Disguise Kit (Elite)]] [ilvl::3] [gp::40]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter: Hollow Stalker
 - [ ] Moderate (80 XP) Level 5
@@ -622,6 +637,8 @@ If reduced below one-third HP, it attempts to withdraw deeper into the Deep Wild
 > - [ ] gp::1
 > - [ ] consumable::[[numbing-tonic-(lesser)|Numbing Tonic (Lesser)]] [ilvl::5] [gp::30]
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter: Shimmer Fog
 - [ ] Low (30 XP) Level 5
 
@@ -664,6 +681,8 @@ Characters investigating the area may learn the following:
 |Survival|20|The fog drifts according to patterns rather than wind.|
 |Perception|22|Some apparent movements are not caused by creatures.|
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter: Glass Rain
 - [ ] Low (30 XP) Level 5
 
@@ -704,6 +723,8 @@ Characters investigating the phenomenon may learn:
 |Nature|20|The storm is not entirely natural.|
 |Arcana|20|Ambient magical energies are condensing into crystalline matter.|
 |Occultism|20|Similar phenomena have been reported near regions damaged by the Shattering.|
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Crystal Bloom
 - [ ] Low (30 XP) Level 5
@@ -751,6 +772,8 @@ Characters investigating the clearing may learn:
 > - [ ] consumable::[[vine-arrow|Vine Arrow]] [ilvl::3] [gp::10] 
 > - [ ] consumable::[[seed-pod-of-rooted-wisdom|Seed Pod of Rooted Wisdom]] [ilvl::2] [gp::7] 
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter:  Resonant Thunder
 - [ ] Low (30 XP) Level 5
 
@@ -799,6 +822,8 @@ Characters investigating the area may learn:
 |Arcana|20|The pulses contain magical resonance.|
 |Occultism|20|The phenomenon resembles neither natural weather nor ordinary magic.|
 |Crafting|20|The crystals are carrying and amplifying the vibrations.|
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Prismatic Windstorm
 - [ ] Low (30 XP) Level 5
@@ -844,6 +869,8 @@ Characters investigating the clearing may learn:
 >
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter: Abandoned Campsite
 - [ ] Low (30 XP) Level 5
 
@@ -888,6 +915,8 @@ This encounter should create mystery and tension. Players should initially suspe
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
 > - [ ] consumable::[[healing-potion-lesser|Healing Potion (Lesser)]] [ilvl::3] [gp::12]
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter:  Crystal Cache
 - [ ] Low (30 XP) Level 5
 
@@ -927,6 +956,8 @@ Characters investigating the area may learn:
 >
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter:  Old Caravan Tracks
 - [ ] Low (30 XP) Level 5
 
@@ -955,6 +986,7 @@ A character who critically succeeds at a DC 18 [[Skills#Survival|Survival]] or [
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Monster Corpse
 - [ ] Low (30 XP) Level 5
@@ -987,6 +1019,8 @@ This encounter is about tension, not combat. The corpse should establish that da
 > If the players attempt to harvest the owlbear corpse the will find that they can only recover half of the normal results for claws and hide.  The rest of the corpse is too far gone or fouled to be of much use.
 >
 > - [[O.#Owlbear|Owlbear Harvest]]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Resonant Thunder
 - [ ] Low (30 XP) Level 5
@@ -1036,6 +1070,8 @@ Characters investigating the area may learn:
 |Arcana|20|The pulses contain magical resonance.|
 |Occultism|20|The phenomenon resembles neither natural weather nor ordinary magic.|
 |Crafting|20|The crystals are carrying and amplifying the vibrations.|
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Castlemere Patrol
 - [ ] Low (30 XP) Level 5
@@ -1087,6 +1123,8 @@ Characters investigating the clearing may learn:
 >
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Random Encounter:  Springrun Surveyors
 - [ ] Low (30 XP) Level 5
 
@@ -1114,6 +1152,8 @@ The surveyors may ask for assistance.
 If the players succeed the surveyors are grateful. The party gains a favorable reputation among Springrun's explorers. On a critical success the the surveyors offer the players two [[drake-hide|Sections of Drake Hide]] they stripped from a dead Flame Drake they discovered a few days ago.  The surveyors also know `dice: 1d3` rumors from [[#Springrun Rumors|Springrun Rumors Table]] which they can share with the PCs.
 
 The surveyors may also share that Springrun has dramatically increased exploration efforts recently. A DC 20 [[Skills#Perception|Perception]] check reveals that several surveyors appear exhausted despite their enthusiasm. Their maps and notes contain detailed wildlife migration data. The Crystalwright is studying unusual crystal growth rates and notes that several crystal samples show recent changes.  As if they are starting to stabilize. A character who critically succeeds at an [[Skills#Arcana|Arcana]] or [[Skills#Nature|Nature]] checknotices something unusual within the notes. The Crystalwright's research notes indicate that crystal growth rates increase significantly nearer to the Deep Wilds. The pattern appears directional rather than random. The surveyors have not yet realized the significance of this finding.
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Echo Flowers Repeat Conversation
 - [ ] Low (30 XP) Level 5
@@ -1168,81 +1208,748 @@ This encounter should be mysterious, amusing, and slightly creepy. The flowers a
 > "Nice weather."
 > "Something's following us."
 
-#### Discovery Opportunities
-Characters investigating the area may learn:
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Resonance Wolves
+- [ ] Moderate (80 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest grows still. No birds or insects. No distant animal calls. Only a faint humming carried through the trees.
+> 
+> At first it seems to come from the crystal formations surrounding you. Then you realize the sound is moving. The humming rises and falls in strange harmonics. One tone becomes two. Then three. Something shifts between the trees. 
+> 
+> A pale shape. Then another. Large lupine forms emerge from the undergrowth. Their fur is threaded with translucent crystal growths that pulse faintly beneath the canopy light. Jagged crystalline ridges protrude from their shoulders and spines. Neither growls or bares its teeth. Instead, the humming intensifies. The forest itself seems to answer.
+
+**Description** The party enters a section of the Deep Wilds where the forest has become unnaturally quiet. Crystal growths protrude from roots and tree trunks, creating natural resonators that hum softly whenever the wind shifts. The silence feels deliberate and predatory. The wolves that hunt here do not howl, they sing.
+
+These should feel like apex pack hunters adapted to the Deep Wilds. Emphasize coordination and intelligence. The wolves communicate through harmonic vibrations rather than vocalizations. The players should feel hunted before combat begins.
+
+The creatures use the statistics of a Winter Wolf with the following narrative changes frost becomes resonant crystal energy. Breath attacks manifest as waves of crystal dust and harmonic force. Their fur contains embedded crystal formations and their eyes glow with shifting prismatic colors. Communication occurs through vibrations and resonant tones.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Witchwarg]]
+
+```encounter
+name: Random One - Resonance Wolves
+party:  The Shattering
+creatures:
+  - 2: [[Witchwarg, Resonance Wolf]]
+```
+
+#### Tactics
+The Resonance Wolves hunt intelligently. They prefer isolated prey, wounded targets and creatures separated from the group. They attempt to use terrain and concealment before engaging.
+
+During combat one wolf pressures the front line while the the other circles toward vulnerable targets. They use Resonance Breath to force movement and disrupt formations. Unlike ordinary wolves, they show remarkable patience. 
+
+If combat turns against them, they retreat and attempt to stalk the party for another opportunity.
+
+#### Features of the Area
+**Resonant Crystal Groves** Numerous crystal formations amplify sound. A creature that critically fails a [[Skills#Stealth|Stealth]] check within the area causes nearby crystals to emit audible tones, revealing its location.
+**Crystal Thickets** Dense crystal growth creates difficult terrain. A creature forced into a crystal thicket takes `dice: 2d4` piercing damage.
+**Echoing Forest** Sounds carry unpredictably. The first [[Seek]] action attempted each round suffers a -1 circumstance penalty as echoes distort perception. Creatures using sound as a sense while in this area are [[Blinded]].
+
+> [!tip]+ Treasure
+> No individual loot is found but if the Resonance Wolves are harvested check the table below.
+> 
+> - [[W.#Witchwarg|Witchwarg Harvest]]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Prism Widow Nest
+- [ ] Moderate (90 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest changes abruptly. Trees stand farther apart here, connected by countless strands of shimmering webbing. Sunlight fractures through crystal growths woven into the silk, casting rainbows across the clearing. The webs seem almost artistic.
+> 
+> Delicate and intentional. A faint clicking sound echoes somewhere overhead. Then you notice the shapes suspended within the webbing.
+> 
+> A deer. Several wolves. Something wearing armor. Dozens of crystal-coated cocoons hang silently between the trees. 
+> 
+> The web nearest you trembles. Something is moving.
+
+**Description** The party discovers a section of the Deep Wilds where crystal growths have overtaken an ancient grove. Massive strands of silvery webbing stretch between crystal-covered trees, forming intricate geometric patterns that shimmer with reflected light. At first glance, the area resembles a beautiful crystal garden. A closer look reveals dozens of cocooned remains suspended among the webs. Some are animals. Some are not.
+
+This encounter should feel creepy and claustrophobic. The spiders should remain hidden for as long as possible. Emphasize the unsettling beauty of the webs. Players should gradually realize they have entered a hunting ground.
+
+The creatures use the statistics of a Giant Tarantula and Hunting Spiders with the following narrative changes. 
+- Crystal formations protrude from their legs and abdomens.
+- Their eyes reflect prismatic colors.
+- Their silk contains crystalline fibers.
+- Their venom appears as shimmering liquid crystal.
+
+A character who critically succeeds on a DC 20 [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]], or [[Skills#Perception|Perception]] check notices something unusual. The spiders have arranged portions of their nest around crystal growths.  Within the nest they are denser than those found elsewhere in the region.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[3-Rules/Bestiaries/Monster Core/G/Giant Tarantula|Giant Tarantula]]
+ - 3: [[3-Rules/Bestiaries/Monster Core/H/Hunting Spider|Hunting Spider]]
+
+```encounter
+name: Random One - Prism Widow Nest
+party:  The Shattering
+creatures:
+  - 1: [[Giant Tarantula, Prism Widow]]
+  - 3: [[Hunting Spider, Prism Spider]]
+```
+
+#### Tactics
+The Prism Widows are ambush predators. Initially two spiders remain hidden above while the other two remain concealed among crystal formations.    
+
+The spiders focus on isolated targets, creatures caught in webs and lightly armored prey.
+
+They attempt to: 
+1. Immobilize targets.
+2. Separate prey from allies.
+3. Overwhelm isolated creatures.
+
+Unlike many predators, the spiders are patient. If prey escapes the nest, the spiders rarely pursue beyond its boundaries.
+
+#### Features of the Area
+**Crystal Web Network** Much of the battlefield is covered in webs. Areas containing webbing are difficult terrain. Creatures that enter a webbed square for the first time each round must succeed at a DC 20 Reflex save or become [[immobilized]] until they Escape.
+**Suspended Cocoons** Dozens of prey bundles hang throughout the grove. The cocoons provide cover. Some contain useful loot. Others contain unpleasant surprises.
+**Crystalized Silk Bridges** Certain sections of webbing have become reinforced by crystal growth. These can support Medium creatures and may be used to traverse portions of the battlefield above ground level.
+**Resonant Strands** The webs carry vibrations exceptionally well. A creature that critically fails a [[Skills#Stealth|Stealth]] check automatically alerts all spiders within the encounter area.
+
+After combat, characters may examine the nest. A successful DC 20 [[Skills#Perception|Perception]] or [[Skills#Survival|Survival]] check reveals the remains from multiple expeditions.  The player also discovers one cocoon less than a week old and it's victim is missing. The cocoon was cut open from the inside.
+
+> [!tip]+ Treasure
+> If the the spiders are harvested check the tables below. Several of the cocoons have the remains of previous victims in them.  There's little of value, but if the players are persistent and open all of them or with a successful DC 20 [[Skills#Perception|Perception]] check they find 22 gp and a [[glimmering-missive|Glimmering Missive]].
+> 
+> - [[S.#3-Rules/Bestiaries/Monster Core/G/Giant Tarantula Giant Tarantula|Giant Tarantula Harvest]]
+> - [[S.#3-Rules/Bestiaries/Monster Core/H/Hunting Spider Hunting Spider|Hunting Spider Harvest]]
+> - [ ] gp::22
+> - [ ] consumable::[[glimmering-missive|Glimmering Missive]] [ilvl::4] [gp::30]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Resonant Burrower
+- [ ] Severe (120 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest becomes increasingly difficult to navigate. Trees lie uprooted in every direction. Long furrows stretch through the earth, cutting across the landscape without regard for terrain or obstacles. Several crystal formations have been split cleanly in half. The destruction continues for hundreds of feet.
+> 
+> Then the ground trembles. A faint vibration passes beneath your boots. Moments later, another follows. Closer.
+> 
+> The earth suddenly erupts in a spray of dirt, shattered roots, and crystal fragments as a massive armored beast bursts from below. Crystal growths cover portions of its thick hide, glowing faintly beneath layers of stone-like scales. Its jaws open wide.  The vibration returns. This time accompanied by a roar.
+
+**Description** The party enters a region of the Deep Wilds where the forest floor has been utterly devastated. Trees lean at odd angles, roots have been torn free from the earth, and long trenches carve through the landscape as though something enormous has repeatedly tunneled beneath the surface. Crystal formations protrude from the exposed earth, many fractured or shattered from violent impacts. The ground occasionally vibrates beneath your feet. Not enough to be an earthquake. Enough to suggest movement.
+
+This encounter should feel like the party has wandered into the territory of a living natural disaster. The creature's arrival should be sudden and violent.
+
+The creature uses the statistics of a Bulette with the following narrative changes:
+- Crystal growths emerge from its armored plating.
+- Its movements create harmonic vibrations through the ground.
+- Portions of its body glow with faint resonance patterns.
+- It appears unnaturally large even for a Bulette.
+- Nearby crystal formations react to its presence.
+- When the Bulette uses its Leap or Charge abilities, nearby crystal formations emit violent harmonic tones.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[3-Rules/Bestiaries/Bestiary 1/B/Bulette|Bulette]]
+
+```encounter
+name: Random One - Resonant Burrower
+party:  The Shattering
+creatures:
+  - 1: [[Bulette, Resonant Burrower]]
+```
+
+#### Tactics
+The Resonant Burrower is an ambush predator. It prefers to attack from below, disrupt enemy formations, focus on isolated or vulnerable targets and use mobility to create chaos. The Burrower frequently emerges, attacks, and repositions. It has little fear of most opponents and relies on its durability and shock value to overwhelm prey. Unlike intelligent predators, it fights primarily through instinct.
+
+If reduced below one-quarter HP, it may retreat underground if an escape route exists.
+
+#### Features of the Area
+**Unstable Ground** Large portions of the battlefield have been undermined by tunneling. A creature that Strides more than half its Speed through unstable terrain must succeed at a DC 20 Reflex save or fall [[prone]].
+**Burrow Trenches** The creature's tunnels have collapsed portions of the terrain. These trenches provide lesser cover and count as difficult terrain.
+**Crystal Shard Fields** Areas of shattered crystal litter the battlefield. Creatures entering these spaces take 1 piercing damage. The Resonant Burrower ignores this damage.
+**Resonance Veins** Large crystal formations protrude from the earth. A successful DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Nature|Nature]] check identifies these as unusually active and yet oddly stable.
+
+> [!tip]+ Treasure
+> If the the spiders are harvested check the tables below. The players with a successful DC 20 [[Skills#Survival|Survival]] check can make their way back to the creature lair.  There they find the remains of several creatures as well as a pair of humanoid skeletons.  One of them is wearing a serviceable [[Lamellar Breastplate]] and next to the other lays a [[fighters-fork|Fighter's Fork]]
+> 
+> - [[B.#3-Rules/Bestiaries/Bestiary 1/B/Bulette Bulette|Bulette Harvest]]
+> - [ ] permanent::[[Lamellar Breastplate|Lamellar Breastplate]] [ilvl::0] [gp::7]
+> - [ ] permanent::[[fighters-fork|Fighter's Fork]] [ilvl::3] [gp::50]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Gravity Scar
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest changes gradually. At first, you notice a fallen branch suspended several feet above the ground. Then another.
+> 
+> Pebbles drift lazily through the air nearby. A patch of grass grows sideways along the trunk of a tree. Ahead, an entire section of forest appears distorted. Trees lean at impossible angles without falling. Loose leaves drift through the air like slow-moving fish in water. Crystal formations float several feet above the forest floor, turning gently as though caught in an unseen current.
+> 
+> Your stomach briefly lurches. For a moment, it feels as though the ground is no longer beneath your feet. Then the sensation passes.
+
+**Description** The party discovers a region where gravity itself has been damaged. Trees grow at impossible angles. Stones hover inches above the ground. Fallen leaves drift lazily through the air before abruptly changing direction. The area feels wrong in a way that instinct immediately recognizes. The laws of the world are no longer entirely reliable here.
+
+The phenomenon is a direct consequence of the Shattering, not the Dungeon. The area should inspire awe before concern, but nothing here is actively hostile.
+
+A successful DC 20 [[Skills#Arcana|Arcana]], [[Skills#Nature|Nature]], or [[Skills#Occultism|Occultism]] check reveals that there are multiple gravitational vectors existing simultaneously.  The effect itself appears stable. A character who critically succeeds notices something remarkable. The anomaly does not appear random. Certain floating objects follow precise and repeating trajectories. When mapped carefully, these movements form geometric patterns. The significance of these patterns remains unknown, but they suggest the scar may be operating according to rules that are not immediately apparent.
+
+Crossing the Gravity Scar safely requires careful movement. One character may lead the group using [[Skills#Acrobatics|Acrobatics]], [[Skills#Survival|Survival]] or [[Skills#Arcana|Arcana]] at DC 20
+- **Critical Success** The party navigates the anomaly safely. Each character gains a +1 circumstance bonus to their next [[Skills#Acrobatics|Acrobatics]] or Reflex save within the next 24 hours as they adapt to unusual movement.
+- **Success** The party crosses safely.
+- **Failure** The party loses time navigating the distorted terrain. Add 1 hour to travel time.
+- **Critical Failure** A sudden gravitational shift throws the party off balance. All physical skill checks for the next 24 hours suffer a -2 penalty due to the players severe disorientation.
+
+#### Features of the Area
+**Distorted Gravity** Gravity fluctuates unpredictably throughout the area. Creatures moving through the scar must occasionally compensate for sudden changes in weight and momentum.
+**Floating Debris** Objects ranging from pebbles to entire crystal formations drift through the region. These objects create difficult terrain but also provide unusual opportunities for movement and observation.
+**Shattered Physics** The area does not follow consistent physical rules.
+**Crystal Suspension** Many crystal formations float above the forest floor. Some have remained suspended for years. Others appear to have arrived recently.
+
+> [!tip]+ Treasure
+> Characters who spend 10 minutes collecting unusual crystal formations may attempt a DC 20 [[Skills#Crafting|Crafting]] or [[Skills#Arcana|Arcana]] check. On a success they find `dice: 1d4` [[Prismatic Crystal Shards]]; `dice: 2d4` on a critical success.
+> 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Missing Expedition
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The smell of smoke reaches you long before you see the camp. Not fresh smoke. The lingering scent of a fire kept burning far longer than necessary.
+> 
+> The clearing ahead is surrounded by hastily constructed barricades of fallen logs and sharpened stakes. Canvas tents sag beneath layers of crystal dust, while bedrolls and equipment lie scattered across the ground. Someone is still here. 
+> 
+> A gaunt figure steps from behind one of the barricades, crossbow raised with trembling hands. Their clothes bear Springrun's colors. Their face is hollow with exhaustion. For several long seconds they simply stare. Then, in a cracked voice: 
+> 
+> "...You're real?"
+
+**Description** Several days ago, a Springrun survey expedition ventured into the Deep Wilds to investigate reports of unusual crystal growth located deep within the Prismatic Canopy. They never returned. 
+
+The party eventually discovers the expedition's final campsite. Unlike previous abandoned camps, this one is still occupied. Just not in the way anyone expected.
+
+This encounter is about mystery, horror, and compassion. Combat should only occur if the players create it. The survivors are exhausted, frightened, and psychologically strained. Nobody has a complete understanding of what happened. Each survivor witnessed different events. The players should slowly reconstruct the expedition's fate.
+
+The original expedition consisted of **Captain Elian Voss** (Expedition Leader), **Mara Fen**, Crystalwright, **Tomas Greycliff**, Hunter **2 Springrun Surveyors** and **1 Porter**. Of the original six members two are dead and one is missing.  The survivors are: 
+- **Captain Elian Rask** The expedition leader. He is calm, rational and running entirely on determination. He knows something is wrong but refuses to speculate. His only priority is getting everyone home.
+- **Mara Fen** Crystalwright apprentice. She has become obsessed with her notes. She constantly sketches resonance patterns. Many of the diagrams appear nonsensical. Some are disturbingly accurate.
+- **Tomas Greycliff** Hunter. He barely speaks. He refuses to travel after sunset. Whenever resonance is mentioned, he unconsciously reaches for his weapon.
+
+> [!note]+ Call Out
+> ### Investigation Challenge
+> 
+> After spending at least an hour speaking with the survivors and examining the camp, each character may attempt one of the following skill checks at DC 20: [[Skills#Diplomacy|Diplomacy]], [[Skills#Survival|Survival]], [[Skills#Medicine|Medicine]], [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]] or [[Skills#Society|Society]]. Record the number of successes with a critical success counting as two successes.
+> 
+> **1 Success** The expedition became lost.
+> **3 Successes** The forest behaved unpredictably. Trails changed. Landmarks disappeared.
+> **5 Successes** The expedition heard harmonic vibrations every night. Nobody could determine their source.
+> **7 Successes** One surveyor became convinced something beneath the forest was calling to them. They disappeared during the night. No tracks. No struggle.
+> **9 Successes** The survivors admit something they have told no one else. One evening... The missing surveyor calmly stood. Walked into the forest. Ignored every attempt to stop them. Never looked back.
+
+#### Features of the Area
+**Distorted Gravity** Gravity fluctuates unpredictably throughout the area. Creatures moving through the scar must occasionally compensate for sudden changes in weight and momentum.
+**Floating Debris** Objects ranging from pebbles to entire crystal formations drift through the region. These objects create difficult terrain but also provide unusual opportunities for movement and observation.
+**Shattered Physics** The area does not follow consistent physical rules.
+**Crystal Suspension** Many crystal formations float above the forest floor. Some have remained suspended for years. Others appear to have arrived recently.
+
+> [!tip]+ Treasure
+> Characters who spend 10 minutes collecting unusual crystal formations may attempt a DC 20 [[Skills#Crafting|Crafting]] or [[Skills#Arcana|Arcana]] check. On a success they find `dice: 1d4` [[Prismatic Crystal Shards]]; `dice: 2d4` on a critical success.
+> 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Seeker Gone Obsessive
+- [ ] Low (30 XP) Level 5
+
+> [!note]+ Read Aloud
+> The smell of smoke reaches you long before you see the camp. Not fresh smoke. The lingering scent of a fire kept burning far longer than necessary.
+> 
+> The clearing ahead is surrounded by hastily constructed barricades of fallen logs and sharpened stakes. Canvas tents sag beneath layers of crystal dust, while bedrolls and equipment lie scattered across the ground. Someone is still here. 
+> 
+> A gaunt figure steps from behind one of the barricades, crossbow raised with trembling hands. Their clothes bear Springrun's colors. Their face is hollow with exhaustion. For several long seconds they simply stare. Then, in a cracked voice: 
+> 
+> "...You're real?"
+
+**Description** Several days ago, a Springrun survey expedition ventured into the Deep Wilds to investigate reports of unusual crystal growth located deep within the Prismatic Canopy. They never returned. 
+
+The party eventually discovers the expedition's final campsite. Unlike previous abandoned camps, this one is still occupied. Just not in the way anyone expected.
+
+This encounter is about mystery, horror, and compassion. Combat should only occur if the players create it. The survivors are exhausted, frightened, and psychologically strained. Nobody has a complete understanding of what happened. Each survivor witnessed different events. The players should slowly reconstruct the expedition's fate.
+
+The original expedition consisted of **Captain Elian Voss** (Expedition Leader), **Mara Fen**, Crystalwright, **Tomas Greycliff**, Hunter **2 Springrun Surveyors** and **1 Porter**. Of the original six members two are dead and one is missing.  The survivors are: 
+- **Captain Elian Rask** The expedition leader. He is calm, rational and running entirely on determination. He knows something is wrong but refuses to speculate. His only priority is getting everyone home.
+- **Mara Fen** Crystalwright apprentice. She has become obsessed with her notes. She constantly sketches resonance patterns. Many of the diagrams appear nonsensical. Some are disturbingly accurate.
+- **Tomas Greycliff** Hunter. He barely speaks. He refuses to travel after sunset. Whenever resonance is mentioned, he unconsciously reaches for his weapon.
+
+> [!note]+ Call Out
+> ### Investigation Challenge
+> 
+> After spending at least an hour speaking with the survivors and examining the camp, each character may attempt one of the following skill checks at DC 20: [[Skills#Diplomacy|Diplomacy]], [[Skills#Survival|Survival]], [[Skills#Medicine|Medicine]], [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]] or [[Skills#Society|Society]]. Record the number of successes with a critical success counting as two successes.
+> 
+> **1 Success** The expedition became lost.
+> **3 Successes** The forest behaved unpredictably. Trails changed. Landmarks disappeared.
+> **5 Successes** The expedition heard harmonic vibrations every night. Nobody could determine their source.
+> **7 Successes** One surveyor became convinced something beneath the forest was calling to them. They disappeared during the night. No tracks. No struggle.
+> **9 Successes** The survivors admit something they have told no one else. One evening... The missing surveyor calmly stood. Walked into the forest. Ignored every attempt to stop them. Never looked back.
+
+#### Features of the Area
+**Distorted Gravity** Gravity fluctuates unpredictably throughout the area. Creatures moving through the scar must occasionally compensate for sudden changes in weight and momentum.
+**Floating Debris** Objects ranging from pebbles to entire crystal formations drift through the region. These objects create difficult terrain but also provide unusual opportunities for movement and observation.
+**Shattered Physics** The area does not follow consistent physical rules.
+**Crystal Suspension** Many crystal formations float above the forest floor. Some have remained suspended for years. Others appear to have arrived recently.
+
+> [!tip]+ Treasure
+> Characters who spend 10 minutes collecting unusual crystal formations may attempt a DC 20 [[Skills#Crafting|Crafting]] or [[Skills#Arcana|Arcana]] check. On a success they find `dice: 1d4` [[Prismatic Crystal Shards]]; `dice: 2d4` on a critical success.
+> 
+> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+
+
+
+
+# Seeker Gone Obsessive
+
+### Encounter Level
+
+Social Encounter (Level 5)
+
+### Creatures
+
+- **Alden Marr**, Veteran Dungeon Seeker (Level 5 NPC)
+    
+
+Alden has survived alone in the Deep Wilds for nearly three weeks.
+
+He is exhausted, dehydrated, sleep deprived, and utterly consumed by his investigation.
+
+He has no desire to fight.
+
+---
+
+## Area Description
+
+The party discovers a surprisingly organized camp nestled beneath an overhang of crystal-covered stone. Maps, journals, crystal samples, strings tied between trees, and dozens of carved trail markers cover the area.
+
+At first the camp appears abandoned.
+
+Then someone speaks.
+
+Not loudly.
+
+Not threateningly.
+
+Without even looking up.
+
+"...Don't step there."
+
+---
+
+## GM Reminders
+
+- Alden is **not insane**.
+    
+- He is brilliant.
+    
+- He is exhausted.
+    
+- He has become completely consumed by understanding the Deep Wilds.
+    
+- Players should initially wonder if he can be trusted.
+    
+- By the end they should realize he's one of the most knowledgeable people they've met.
+    
+
+---
+
+## Read-Aloud Text
+
+The camp is unlike any you've seen.
+
+Every nearby tree bears careful markings.
+
+Lengths of colored cord stretch between branches.
+
+Small crystal shards have been arranged into intricate geometric patterns across the forest floor.
+
+Maps cover a flat stone.
+
+Hundreds of notes are pinned beneath knives driven into fallen logs.
+
+A man kneels among them, sketching furiously.
+
+He doesn't acknowledge your approach.
+
+Instead he speaks while continuing to write.
+
+"...You're standing on yesterday."
+
+Only then does he glance upward.
+
+His eyes are bloodshot.
+
+His beard unkempt.
+
+His smile strangely genuine.
+
+"Oh."
+
+"Visitors."
+
+"Good."
+
+"I need someone to check my measurements."
+
+---
+
+## Alden Marr
+
+Formerly one of Springrun's most respected Seekers.
+
+Three weeks ago he volunteered to investigate the Deep Wilds.
+
+He never returned.
+
+Not because he couldn't.
+
+Because he chose not to.
+
+---
+
+## Personality
+
+Alden is:
+
+- endlessly curious,
+    
+- polite,
+    
+- distracted,
+    
+- surprisingly cheerful.
+    
+
+He forgets:
+
+- meals,
+    
+- conversations,
+    
+- names,
+    
+- sleep.
+    
+
+He remembers:
+
+- every resonance pulse,
+    
+- every crystal bloom,
+    
+- every shifting trail.
+    
+
+---
+
+## Social Challenge
+
+Winning Alden's trust is easy.
+
+Keeping him focused is difficult.
+
+Characters may attempt:
+
+- Diplomacy DC 20
+    
+- Society DC 20
+    
+- Arcana DC 20
+    
+- Nature DC 20
+    
+- Occultism DC 20
+    
+
+Track total successes.
+
+---
+
+### 1 Success
+
+Alden explains he is mapping resonance.
+
+---
+
+### 3 Successes
+
+He demonstrates that certain resonance patterns repeat every day.
+
+---
+
+### 5 Successes
+
+He has discovered stable paths through portions of the Deep Wilds.
+
+The party gains a +2 circumstance bonus to one future navigation check.
+
+---
+
+### 7 Successes
+
+He reveals he has been intentionally following resonance gradients rather than trails.
+
+This has allowed him to predict Crystal Blooms and Resonant Thunder.
+
+---
+
+### 9 Successes
+
+He quietly admits something that finally unsettles him.
+
+> "The resonance isn't random."
+
+"It changes."
+
+"...after someone enters the Dungeon."
+
+---
+
+## Discovery Opportunities
 
 |Skill|DC|Information|
 |---|---|---|
-|Nature|18|The deposit formed naturally after the Shattering.|
-|Crafting|20|The crystals are suitable for use in various crafting projects.|
-|Occultism|20|The harmonic vibrations resemble other crystal phenomena found throughout the region.|
-|Survival|18|Animals frequently visit the area but rarely linger.|
+|Perception|20|Alden's maps are astonishingly accurate.|
+|Society|20|He has not slept properly in days.|
+|Arcana|20|His measurements are scientifically rigorous.|
+|Nature|20|He understands the Deep Wilds better than anyone in Springrun.|
+|Medicine|20|He is suffering from exhaustion and malnutrition, not magical affliction.|
 
-> [!tip]+ Treasure
-> A character who critically succeeds at a DC 20 [[Skills#Arcana|Arcana]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]]  check can recover `dice: 1d4` [[Prismatic Crystal Shards]] from a hidden seam.
->
-> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+---
 
+## Alden's Maps
 
+If the party studies his notes they discover:
 
+- resonance hot spots,
+    
+- migrating crystal growth,
+    
+- stable campsites,
+    
+- dangerous predator territories,
+    
+- abandoned expedition routes.
+    
 
+A successful DC 20 Arcana or Survival check grants a +1 circumstance bonus to all navigation checks made in the Deep Wilds for the remainder of Act 1.
 
-## Echo Flowers
+---
+
+## Hidden Discovery
+
+A critical success while reviewing Alden's journals reveals something remarkable.
+
+He has been recording resonance pulses for weeks.
+
+They are **becoming weaker**.
+
+Very slowly.
+
+His notes speculate:
+
+> "Something inside is consuming energy."
+
+He has no proof.
+
+But this observation hints at one of the campaign's central truths:
+
+> The Dungeon is not merely leaking resonance.
+
+> It is attempting to regulate it.
+
+The players won't yet have enough information to draw that conclusion, but once they later understand how Dungeons function, Alden's notes become one of those satisfying clues that had the answer hidden in plain sight.
+
+---
 
 ## Treasure
 
-The flowers themselves are valuable.
+Alden happily shares his work with anyone willing to continue it.
 
-Characters may attempt a DC 20 Nature or Crafting check to carefully harvest specimens.
+The party may receive:
 
-### Critical Success
+|Treasure|
+|---|
+|Alden's regional maps (+2 circumstance bonus to one Deep Wilds navigation check)|
+|2 [[healing-potion-lesser\|Healing Potions (Lesser)]]|
+|1d4 [[Prismatic Crystal Shards]]|
+|1 [[Resonant Condensation]]|
+|Crystal survey notes|
 
-Recover:
+If convinced to return to Springrun, he also gifts the party his personal field journal.
 
-- 2d4 [[Echo Flower Blossoms]]
+---
+
+## Convincing Alden to Leave
+
+Alden **does not want to leave**.
+
+Not because he's compelled to stay.
+
+Because he believes he's close to understanding the Deep Wilds.
+
+The party can convince him with a **Victory Point challenge** requiring **6 VP before 3 failures**, using skills such as:
+
+- **Diplomacy** (appeal to duty or concern for Springrun)
+    
+- **Society** (remind him of the value of sharing discoveries)
+    
+- **Nature** or **Arcana** (demonstrate genuine understanding of his work)
+    
+- **Medicine** (show evidence that his physical condition is impairing his judgment)
+    
+
+On success, Alden reluctantly agrees:
+
+> "...Someone has to make sure this doesn't die with me."
+
+On failure, he politely refuses, promising he'll return "after one more observation."
+
+---
+
+## Scaling
+
+### Weaker Version
+
+- Alden is physically healthier and easier to persuade.
+    
+- Reduce all DCs to 18.
+    
+
+### Stronger Version
+
+- Alden has been in the Deep Wilds for over a month.
+    
+- Increase all DCs to 22.
+    
+- His obsession causes conversations to wander constantly, making it harder to obtain coherent information.
     
 
 ---
 
-### Success
+## Encounter Purpose
 
-Recover:
+The Seeker Gone Obsessive is designed to answer a crucial question without resorting to magical mind control or madness.
 
-- 1d4 [[Echo Flower Blossoms]]
+It reinforces that:
+
+- The Deep Wilds do not simply corrupt people—they can consume their attention.
     
+- Knowledge has a cost.
+    
+- Curiosity can become dangerous even when it remains rational.
+    
+- The phenomena of the Deep Wilds can be studied, measured, and understood.
+    
+
+Most importantly, Alden serves as a mirror for the player characters. He represents what they could become if they pursue answers without remembering why they sought them in the first place. His brilliance is admirable, but his inability to step away from the mystery is a warning that obsession can be just as dangerous as any monster lurking in the forest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## My Recommendation
+# Suggested Prismatic Canopy Set Pieces 
+
+These should feel unique and memorable.
+
+## The Crystal Giant
+
+A colossal stone-and-crystal humanoid statue emerging from a hillside.
+
+Nobody knows who built it.
+
+It isn't important to the main plot.
+
+That's why players will obsess over it.
 
 ---
 
-### Failure
+## The Hollow Market
 
-The harvested flowers quickly lose their resonance.
+Ruins of an old trading post overtaken by crystal growth.
 
-No useful materials recovered.
+Evidence of:
 
----
-
-### Critical Failure
-
-The flowers release a cloud of irritating pollen.
-
-The character becomes [[sickened|Sickened 1]].
+- former settlers
+- abandoned ambitions
+- frontier failure
 
 ---
 
-## Echo Flower Blossom
+# Suggested Deep Wilds Set Pieces
 
-A rare ingredient valued by:
+These should feel increasingly tied to the Dungeon.
 
-- Crystalwrights
-    
-- Alchemists
-    
-- Researchers
-    
-- Bards
-    
+---
 
-A blossom typically sells for 2 gp.
+## The Heartroot
+
+A massive tree hundreds of feet tall.
+
+Its roots disappear deep underground.
+
+Every Resonant Thunder pulse seems to originate from beneath it.
+
+Not the Dungeon.
+
+But connected somehow.
+
+---
+
+## The Crystal Graveyard
+
+A clearing filled with crystal-encased skeletons.
+
+Animals.
+
+Monsters.
+
+People.
+
+All facing the same direction.
+
+Nobody knows why.
+
+---
+
+## The Lost Expedition
+
+Not random.
+
+A full encounter site.
+
+The remains of an organized survey team.
+
+Evidence of:
+
+- infighting
+- obsession
+- strange dreams
+
+Could become one of the strongest foreshadowing locations in Act 1.
 
 
 
@@ -1261,49 +1968,6 @@ A blossom typically sells for 2 gp.
 
 
 
-
-
-
-
-
-
-
-
-| 19  | Wildlife Staring Into Forest |
-
-
-
-
-
-
-
-
-
-#### Deep Wilds Random Encounters
-`dice: [[ACT I - FIRST CONTACT#^DeepWildsRandom]]`
-
-| Count | Encounter                                                                                           |
-| ----- | --------------------------------------------------------------------------------------------------- |
-| 1     | Hollow Stalkers (Reskinned [[Phase Tiger]])                                                         |
-| 2     | Resonance Wolves (Reskinned [[Winter Wolf]])                                                        |
-| 3     | Crystal-Tainted Ankhravs (Reskinned [[3-Rules/Bestiaries/Monster Core/A/Ankhrav\|Ankhrav]])         |
-| 4     | Prism Widow Nest (Reskinned [[3-Rules/Bestiaries/Monster Core/G/Giant Tarantula\|Giant Tarantula]]) |
-| 5     | Resonant Burrower (Reskinned [[3-Rules/Bestiaries/Bestiary 1/B/Bulette\|Bulette]])                  |
-| 6     | Rootbound Horror (Reskinned [[3-Rules/Bestiaries/Bestiary 1/S/Shambler\|Shambler]])                 |
-| 7     | The Forest Goes Silent                                                                              |
-| 8     | Repeating Footsteps                                                                                 |
-| 9     | Trees Shift Position Overnight                                                                      |
-| 10    | Dream Intrusion                                                                                     |
-| 11    | The Lattice Flickers                                                                                |
-| 12    | Gravity Scar                                                                                        |
-| 13    | Crystal Spore Field                                                                                 |
-| 14    | Root Collapse                                                                                       |
-| 15    | Magic Surge                                                                                         |
-| 16    | Missing Expedition                                                                                  |
-| 17    | Half-Buried Ruins                                                                                   |
-| 18    | Seeker Gone Obsessive                                                                               | 
-
-^DeepWildsRandom
 
 
 

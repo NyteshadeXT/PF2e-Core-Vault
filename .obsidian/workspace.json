@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/L/ladys-spiral.md",
+                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ladys-spiral"
+              "title": "ACT I - FIRST CONTACT"
             }
           },
           {
@@ -61,6 +61,20 @@
               },
               "icon": "lucide-file",
               "title": "Insert Item"
+            }
+          },
+          {
+            "id": "cfa28840dad03d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/B..md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "B."
             }
           }
         ],
@@ -278,32 +292,34 @@
   },
   "active": "e7df8ade147d086a",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/L/ladys-knife.md",
-    "3-Rules/Character Building/Equipment/L/ladys-chalice.md",
-    "3-Rules/Character Building/Equipment/L/ladys-blessing-oil.md",
-    "3-Rules/Character Building/Equipment/L/ladder-10-foot.md",
-    "3-Rules/Character Building/Equipment/D/duskwood-tower-shield-high-grade.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/B..md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-teeth.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/M/monster-precision-ammunition.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/L/Lattice Armor.md",
-    "3-Rules/Character Building/Equipment/L/Light Barding.md",
-    "3-Rules/Character Building/Equipment/L/limestone-shield.md",
-    "3-Rules/Character Building/Equipment/L/Liuyedao.md",
-    "3-Rules/Character Building/Equipment/L/Longbow.md",
-    "3-Rules/Character Building/Equipment/L/long-hammer.md",
-    "3-Rules/Character Building/Equipment/L/lucky-rabbits-foot.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplates.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-sole-patches.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-high-grade.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-standard-grade.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-low-grade.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Sticky Adhesive.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Stegosaurus Dorsal Plates.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Standard-Grade Remorhaz Rawhide Armor.md",
     "3-Rules/Character Building/Equipment/L/lacquered-waist-drum.md",
-    "3-Rules/Character Building/Equipment/L/Lyrakien Staff.md",
-    "3-Rules/Character Building/Equipment/L/Lung Bloodstone of Arazni.md",
-    "3-Rules/Character Building/Equipment/L/Lucky Draw Bandolier.md",
-    "3-Rules/Character Building/Equipment/L/Luck Blade.md",
-    "3-Rules/Character Building/Equipment/L/Lover's Gloves.md",
-    "3-Rules/Character Building/Equipment/L/Longnight Tea.md",
-    "3-Rules/Character Building/Equipment/L/Long Air Repeater.md",
-    "3-Rules/Character Building/Equipment/L/Lodestone Bomb.md",
-    "3-Rules/Character Building/Equipment/L/Lock (Simple).md",
-    "3-Rules/Character Building/Equipment/L/Lock (Good).md",
-    "3-Rules/Character Building/Equipment/L/Lock (Average).md",
-    "3-Rules/Character Building/Equipment/L/Living Leaf Weave.md",
+    "3-Rules/Character Building/Equipment/L/ladder-10-foot.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/Bunyip Scent Gland.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/Brain Collector Venom.md",
+    "zz-Attachments/bulette-shellplate-armor.png",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/C..md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/S..md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-goliath-spider-venom.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-giant-tarantula-venom.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-hunting-spider-venom.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/W..md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/spider-silk.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/witchwarg-teeth.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/witchwarg-pelt.md",
+    "zz-Attachments/winter-cloak.png",
     "zz-Attachments/kusarigama.png",
     "zz-Attachments/kraken-figurehead.png",
     "zz-Attachments/knapsack-of-halflingkind.png",
@@ -312,17 +328,15 @@
     "zz-Attachments/kirin-echo-chime.png",
     "zz-Attachments/kinburis-sandals-of-bounding.png",
     "zz-Attachments/kilted-breastplate.png",
-    "zz-Attachments/mala-beads-of-foresight.png",
-    "zz-Attachments/karambit.png",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/W",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/V",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/U",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/T",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/S",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/R",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/Q",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/P",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/O",
-    "1-GM Toolkit/Harvest Compendium/Harvest Compendium Equipment/N"
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/V",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/T",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/R",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/Q",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/P",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/O",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/N"
   ]
 }
