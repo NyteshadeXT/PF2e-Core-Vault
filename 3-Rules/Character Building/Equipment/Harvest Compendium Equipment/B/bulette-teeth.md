@@ -21,7 +21,7 @@ level: 2
 group: 
 bulk: 
 value: "1"
-subvalue: "g[]"
+subvalue: "gp"
 invest: 
 usage: "other"
 license: "ORC"

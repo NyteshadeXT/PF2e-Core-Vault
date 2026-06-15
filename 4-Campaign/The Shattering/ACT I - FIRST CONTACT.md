@@ -1108,21 +1108,6 @@ If asked, the patrol sergeant may share that Castlemere patrols have increased r
 #### Features of the Area
 **Frontier Reports** The patrol possesses information gathered during recent expeditions. Characters who earn the patrol's trust may gain access to valuable rumors. Provide `dice: 1d3` rumors from [[#Springrun Rumors|Springrun Rumors Table]].
 
-#### Discovery Opportunities
-Characters investigating the clearing may learn:
-
-|Skill|DC|Information|
-|---|---|---|
-|Nature|18|These storms are relatively common in crystal-rich regions.|
-|Survival|20|The storm follows predictable weather patterns.|
-|Arcana|20|Crystal dust is carrying trace magical energy.|
-|Occultism|20|Similar storms occur more frequently near areas of magical instability.|
-
-> [!tip]+ Treasure
-> After the storm passes, characters may spend 10 minutes searching the area. A character may attempt a DC 20 [[Skills#Survival|Survival]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check. On **Critical Success** the characters recover `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shards]] + 1 for every character participating in the search.  A **Success** results in the discovery of `1d4` shards.
->
-> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
-
 [[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter:  Springrun Surveyors
@@ -1322,7 +1307,7 @@ After combat, characters may examine the nest. A successful DC 20 [[Skills#Perce
 [[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
 ### Prismatic Canopy Random Encounter: Resonant Burrower
-- [ ] Severe (120 XP) Level 5
+- [x] Severe (120 XP) Level 5
 
 > [!note]+ Read Aloud
 > The forest becomes increasingly difficult to navigate. Trees lie uprooted in every direction. Long furrows stretch through the earth, cutting across the landscape without regard for terrain or obstacles. Several crystal formations have been split cleanly in half. The destruction continues for hundreds of feet.
@@ -1365,7 +1350,7 @@ If reduced below one-quarter HP, it may retreat underground if an escape route e
 **Resonance Veins** Large crystal formations protrude from the earth. A successful DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Nature|Nature]] check identifies these as unusually active and yet oddly stable.
 
 > [!tip]+ Treasure
-> If the the spiders are harvested check the tables below. The players with a successful DC 20 [[Skills#Survival|Survival]] check can make their way back to the creature lair.  There they find the remains of several creatures as well as a pair of humanoid skeletons.  One of them is wearing a serviceable [[Lamellar Breastplate]] and next to the other lays a [[fighters-fork|Fighter's Fork]]
+> If the the Bulette is harvested check the tables below. The players with a successful DC 20 [[Skills#Survival|Survival]] check can make their way back to the creature lair.  There they find the remains of several creatures as well as a pair of humanoid skeletons.  One of them is wearing a serviceable [[Lamellar Breastplate]] and next to the other lays a [[fighters-fork|Fighter's Fork]]
 > 
 > - [[B.#3-Rules/Bestiaries/Bestiary 1/B/Bulette Bulette|Bulette Harvest]]
 > - [ ] permanent::[[Lamellar Breastplate|Lamellar Breastplate]] [ilvl::0] [gp::7]

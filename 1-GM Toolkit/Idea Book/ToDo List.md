@@ -41,6 +41,7 @@
 - [ ] Shops selling spells by magic tradition.
 - [ ] Insight Coffee need to have different "blends."
 - [ ] Remove instructions-for-lasting-agony as it no longer works following OGL changes.
+- [ ] Replace necklace of fireballs with Eternal Eruption and Frozen Lava items.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

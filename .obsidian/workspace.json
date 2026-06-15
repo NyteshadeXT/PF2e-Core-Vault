@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Points of Interest/Springrun/Trailrest Supply and Stable.md",
+                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trailrest Supply and Stable"
+              "title": "ACT I - FIRST CONTACT"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-                "mode": "source",
+                "file": "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ACT I - FIRST CONTACT"
+              "title": "Windrose Map Test"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/B..md",
+                "file": "1-GM Toolkit/DC Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "B."
+              "title": "DC Calculator"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 339.50484466552734
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5b7dff7ad016ea39",
@@ -251,8 +251,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_fb7ad87a8b7b",
-                "creatureName": "Auric"
+                "creatureId": "ID_4a293b0ad93a",
+                "creatureName": "Bulette"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -262,8 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5,
-    "collapsed": true
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,35 +289,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7df8ade147d086a",
+  "active": "fbce5160498990a8",
   "lastOpenFiles": [
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/B..md",
+    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-teeth.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
+    "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
+    "5-World/Maps/Ardentia City Map.md",
+    "5-World/Maps/Aetherial Highlands Map.md",
+    "5-World/Points of Interest/Springrun/The Resonant Spire.md",
+    "5-World/Points of Interest/Springrun/Trailrest Supply and Stable.md",
+    "5-World/NPCs/Springrun/Fenrick Moss.md",
+    "5-World/NPCs/Springrun/Maren Thistleford.md",
+    "5-World/NPCs/Springrun/Sister Elowen Vale.md",
+    "5-World/NPCs/Springrun/Torren Vale.md",
+    "5-World/NPCs/Springrun/Valerius Thorne.md",
+    "5-World/NPCs/Springrun/Brother Garrik Thorn.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/B..md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/M/monster-precision-ammunition.md",
     "zz-Templates/Markdown/Insert Item.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplates.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-sole-patches.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-high-grade.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-standard-grade.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/bulette-shellplate-armor-low-grade.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Sticky Adhesive.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Stegosaurus Dorsal Plates.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/Standard-Grade Remorhaz Rawhide Armor.md",
-    "3-Rules/Character Building/Equipment/L/lacquered-waist-drum.md",
-    "3-Rules/Character Building/Equipment/L/ladder-10-foot.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/Bunyip Scent Gland.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/Brain Collector Venom.md",
     "zz-Attachments/bulette-shellplate-armor.png",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/C..md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/S..md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-goliath-spider-venom.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-giant-tarantula-venom.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/U/unprocessed-hunting-spider-venom.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/W..md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/S/spider-silk.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/witchwarg-teeth.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/witchwarg-pelt.md",
     "zz-Attachments/winter-cloak.png",
     "zz-Attachments/kusarigama.png",
     "zz-Attachments/kraken-figurehead.png",
