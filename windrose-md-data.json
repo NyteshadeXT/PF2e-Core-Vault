@@ -12,7 +12,7 @@
           "label": "Custom 1"
         }
       ],
-      "sidebarCollapsed": true,
+      "sidebarCollapsed": false,
       "expandedState": false,
       "settings": {
         "useGlobalSettings": false,
@@ -42,7 +42,12 @@
         "rememberSidebarState": true,
         "rememberExpandedState": false
       },
-      "lastTextLabelSettings": null,
+      "lastTextLabelSettings": {
+        "fontSize": 16,
+        "fontFace": "sans",
+        "color": "#ffffff",
+        "opacity": 1
+      },
       "schemaVersion": 2,
       "activeLayerId": "layer-1778595866041-7q6jnbzpi",
       "layerPanelVisible": false,
@@ -2229,13 +2234,13 @@
                 "height": 1
               },
               "label": "Point of Interest",
-              "linkedNote": null,
+              "linkedNote": "5-World/Settlements/Springrun.md",
               "alignment": "center",
               "slot": 0
             },
             {
-              "id": "obj-1781481042568-59fmmvjtx",
-              "type": "boss",
+              "id": "obj-1781977079428-fne18hk8n",
+              "type": "flag",
               "position": {
                 "x": 15,
                 "y": 6
@@ -2244,15 +2249,44 @@
                 "width": 1,
                 "height": 1
               },
-              "label": "Boss",
+              "label": "Note/Flag",
+              "linkedNote": null,
+              "alignment": "center",
+              "slot": 0
+            },
+            {
+              "id": "obj-1782071502179-5c3qohorw",
+              "type": "custom-1782071488302-vlgnh5yss",
+              "position": {
+                "x": 4,
+                "y": 1
+              },
+              "size": {
+                "width": 1,
+                "height": 1
+              },
+              "label": "Dungeon",
               "linkedNote": null,
               "alignment": "center",
               "slot": 0
             }
           ],
-          "textLabels": [],
+          "textLabels": [
+            {
+              "id": "text-1781582821329-npajxhexq",
+              "content": "Springrun",
+              "position": {
+                "x": 2039.4723563395473,
+                "y": 1956.7815627316984
+              },
+              "rotation": 0,
+              "fontSize": 16,
+              "fontFace": "sans",
+              "color": "#ffffff"
+            }
+          ],
           "fogOfWar": {
-            "enabled": true,
+            "enabled": false,
             "foggedCells": [
               {
                 "col": 14,
@@ -2755,18 +2789,6 @@
                 "row": 9
               },
               {
-                "col": 15,
-                "row": 9
-              },
-              {
-                "col": 14,
-                "row": 10
-              },
-              {
-                "col": 13,
-                "row": 10
-              },
-              {
                 "col": 12,
                 "row": 11
               },
@@ -2845,10 +2867,6 @@
               {
                 "col": 15,
                 "row": 8
-              },
-              {
-                "col": 14,
-                "row": 9
               },
               {
                 "col": 13,
@@ -3741,11 +3759,2556 @@
               {
                 "col": 1,
                 "row": 2
+              },
+              {
+                "col": 15,
+                "row": 9
+              },
+              {
+                "col": 14,
+                "row": 9
+              },
+              {
+                "col": 14,
+                "row": 10
+              },
+              {
+                "col": 13,
+                "row": 10
+              },
+              {
+                "col": 14,
+                "row": 10
+              },
+              {
+                "col": 14,
+                "row": 10
               }
             ],
             "texture": null
           },
-          "tiles": []
+          "tiles": [
+            {
+              "q": 17,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "forestedhills",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 18,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 18,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 19,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 18,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 19,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 18,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 17,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 15,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 16,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 14,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 17,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 16,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 13,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 11,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 10,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 9,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 8,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 0,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 1,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 2,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 3,
+              "r": 4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 4,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 5,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 6,
+              "r": 3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 7,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": 1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": 0,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": -1,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 9,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 8,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 10,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": -2,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 15,
+              "r": -7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -3,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -5,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 13,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 14,
+              "r": -7,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 12,
+              "r": -6,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": -4,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "heavyforest",
+              "layer": "overlay"
+            }
+          ]
         },
         {
           "id": "layer-1779295465111-ykvvr0e39",
@@ -3768,10 +6331,10 @@
         "height": 300
       },
       "viewState": {
-        "zoom": 0.30000000000000004,
+        "zoom": 0.4,
         "center": {
-          "x": 1322.4454986547942,
-          "y": 555.5490723553077
+          "x": 695.8523574210307,
+          "y": 945.1040529649785
         }
       },
       "hexSize": 80,
@@ -3796,7 +6359,459 @@
       "edges": [],
       "regions": [],
       "outlines": [],
-      "tilesets": []
+      "tilesets": [
+        {
+          "id": "tileset-1sgipq",
+          "name": "multicolored-icons",
+          "folderPath": "zz-Attachments/multicolored-icons",
+          "tileWidth": 250,
+          "tileHeight": 250,
+          "hexHeight": 250,
+          "overflowTop": 0,
+          "overflowBottom": 0,
+          "tiles": [
+            {
+              "id": "anchor",
+              "filename": "anchor.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/anchor.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "badlands",
+              "filename": "badlands.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/badlands.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "battle",
+              "filename": "battle.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/battle.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "cactus",
+              "filename": "cactus.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/cactus.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "camp",
+              "filename": "camp.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/camp.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "capital",
+              "filename": "capital.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/capital.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "castle",
+              "filename": "castle.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/castle.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "cathedral",
+              "filename": "cathedral.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/cathedral.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "cattle",
+              "filename": "cattle.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/cattle.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "cave",
+              "filename": "cave.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/cave.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "city",
+              "filename": "city.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/city.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "crater",
+              "filename": "crater.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/crater.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "crossbones",
+              "filename": "crossbones.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/crossbones.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "cultivatedfarmland",
+              "filename": "cultivatedfarmland.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/cultivatedfarmland.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "deadforest",
+              "filename": "deadforest.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/deadforest.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "deadforesthills",
+              "filename": "deadforesthills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/deadforesthills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "deadforestmountain",
+              "filename": "deadforestmountain.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/deadforestmountain.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "deadforestmountains",
+              "filename": "deadforestmountains.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/deadforestmountains.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "dunes",
+              "filename": "dunes.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/dunes.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "dungeon",
+              "filename": "dungeon.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/dungeon.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "evergreen",
+              "filename": "evergreen.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/evergreen.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "evergreenhills",
+              "filename": "evergreenhills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/evergreenhills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "evergreenmountain",
+              "filename": "evergreenmountain.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/evergreenmountain.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "evergreenmountains",
+              "filename": "evergreenmountains.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/evergreenmountains.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "fish",
+              "filename": "fish.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/fish.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "forestedhills",
+              "filename": "forestedhills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/forestedhills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "forestedmountain",
+              "filename": "forestedmountain.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/forestedmountain.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "forestedmountains",
+              "filename": "forestedmountains.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/forestedmountains.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "fort",
+              "filename": "fort.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/fort.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "grapes",
+              "filename": "grapes.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/grapes.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "grassland",
+              "filename": "grassland.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/grassland.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "grassyhills",
+              "filename": "grassyhills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/grassyhills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "heavycactus",
+              "filename": "heavycactus.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/heavycactus.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "heavyevergreen",
+              "filename": "heavyevergreen.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/heavyevergreen.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "heavyforest",
+              "filename": "heavyforest.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/heavyforest.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "hills",
+              "filename": "hills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/hills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "jet",
+              "filename": "jet.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/jet.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "jungle",
+              "filename": "jungle.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/jungle.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "junglehills",
+              "filename": "junglehills.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/junglehills.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "lightforest",
+              "filename": "lightforest.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/lightforest.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "lighthouse",
+              "filename": "lighthouse.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/lighthouse.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "marsh",
+              "filename": "marsh.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/marsh.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "mines",
+              "filename": "mines.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/mines.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "moderncapital",
+              "filename": "moderncapital.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/moderncapital.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "moderncity",
+              "filename": "moderncity.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/moderncity.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "monolith",
+              "filename": "monolith.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/monolith.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "monument",
+              "filename": "monument.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/monument.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "mountain",
+              "filename": "mountain.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/mountain.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "mountains",
+              "filename": "mountains.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/mountains.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "oasis",
+              "filename": "oasis.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/oasis.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "pyramid",
+              "filename": "pyramid.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/pyramid.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "radiation",
+              "filename": "radiation.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/radiation.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "reefs",
+              "filename": "reefs.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/reefs.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "rockydesert",
+              "filename": "rockydesert.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/rockydesert.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "ruins",
+              "filename": "ruins.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/ruins.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "sandydesert",
+              "filename": "sandydesert.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/sandydesert.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "shipwreck",
+              "filename": "shipwreck.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/shipwreck.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "shrine",
+              "filename": "shrine.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/shrine.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "spaceship",
+              "filename": "spaceship.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/spaceship.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "spacestation",
+              "filename": "spacestation.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/spacestation.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "star",
+              "filename": "star.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/star.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "statue",
+              "filename": "statue.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/statue.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "steppedpyramid",
+              "filename": "steppedpyramid.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/steppedpyramid.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "sun",
+              "filename": "sun.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/sun.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "swamp",
+              "filename": "swamp.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/swamp.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "tank",
+              "filename": "tank.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/tank.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "temple",
+              "filename": "temple.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/temple.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "tower",
+              "filename": "tower.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/tower.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "town",
+              "filename": "town.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/town.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "village",
+              "filename": "village.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/village.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "volcano",
+              "filename": "volcano.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/volcano.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "volcanodormant",
+              "filename": "volcanodormant.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/volcanodormant.png",
+              "category": "multicolored-icons"
+            },
+            {
+              "id": "whaling",
+              "filename": "whaling.png",
+              "vaultPath": "zz-Attachments/multicolored-icons/multicolored-icons/whaling.png",
+              "category": "multicolored-icons"
+            }
+          ]
+        }
+      ],
+      "shapeOverlays": []
     }
   }
 }

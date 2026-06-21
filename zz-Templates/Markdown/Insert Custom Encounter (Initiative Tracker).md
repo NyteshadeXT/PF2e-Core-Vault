@@ -28,6 +28,16 @@ Insert tactics the foes in this encounter might use during the encounter or comb
 #### Features of the Area
 Insert a bullet point list of other important elements of the encounter area when applicable.  Things like information about lighting, room dimensions, furniture, traps, things to interact with, etc can be found here.
 
+#### Investigation
+
+List notable skill checks characters might attempt.
+- Arcana DC XX:
+- Nature DC XX:
+- Occultism DC XX:
+- Religion DC XX:
+- Crafting DC XX:
+- Perception DC XX:
+
 > [!tip]+ Treasure
 > If applicable, insert location and description of treasure as well as any skill checks and equivalent DCs required for success.  If treasure found on defeated foes is added indicate which foe was using/carrying the items.
 > 

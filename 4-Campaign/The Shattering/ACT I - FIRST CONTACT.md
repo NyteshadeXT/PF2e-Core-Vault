@@ -1,7 +1,7 @@
 ---
 tags:
   - "#Adventure"
-art: zz-Attachments/Assets/PlaceholderImage.png
+art: zz-Attachments/deep-wilds-dungeon.png
 quicknote: ""
 whichparty: "[[The Shattering Dashboard]]"
 adventure_status: Started
@@ -51,8 +51,26 @@ adventure_level: 5th to 7th
 > ```
 
 # Act 1 - The Hollow Beneath the Canopy
-> [!kirk|info] Prompt (Remove me)
-> Provide an overarching overview of this adventure. What is the central theme or conflict driving the narrative? Outline the potential quests or objectives that the players may embark on. Consider the variety of challenges, encounters, or tasks they might face. Additionally, describe how the adventure begins. What inciting incident or call to action propels the players into the unfolding storyline? Use this section to set the stage, introduce key elements, and establish the initial motivations that will guide the players throughout the adventure.
+
+The frontier settlements of **Springrun** and **Castlemere** have each begun noticing unsettling changes within the **Prismatic Canopy**. Wildlife behaves unpredictably, crystal formations spread into once-familiar trails, experienced Seekers disappear without explanation, and strange phenomena are becoming increasingly common in the forest's deepest reaches.
+
+Unable to determine the cause, both settlements seek capable adventurers willing to venture into the increasingly dangerous wilderness and uncover the source of these disturbances.
+
+As the party explores the Prismatic Canopy, they encounter ancient landmarks, living mysteries, and signs that the Deep Wilds are changing in ways no scholar can fully explain. Along the way, they investigate abandoned expeditions, aid those lost within the forest, survive dangerous creatures altered by the growing resonance, and discover wonders that challenge their understanding of the natural world.
+
+Their investigation ultimately leads them into the **Deep Wilds**, where the disturbances grow stronger and the forest itself seems to obey unfamiliar rules. There, hidden within the oldest reaches of the canopy, they uncover something no ordinary ruin or forgotten temple could prepare them for.
+
+An immense stone archway stands alone in a silent clearing, untouched by time and unlike any structure they have encountered before.
+
+Its runes can be read.
+
+Its doors can be opened.
+
+And beyond them lies not another room...
+
+...but an entirely different world.
+
+By the end of the act, the party has not merely discovered the source of the Deep Wilds' mysteries—they have become the first generation of **Seekers**, crossing the threshold into a living Dungeon whose true nature will redefine everything they thought they knew about magic, exploration, and the history of Aetheria.
 
 ## Chapter 1 — Rumors from the Deep Wilds
 The adventure begins in the early afternoon as the player characters arrive in the frontier settlement of [[Springrun]], answering a formal request for capable adventurers issued by the [[Springrun Council]]. The road into the settlement winds through dense stands of luminous canopy trees and low crystal formations jutting from the earth like veins of frozen lightning. Though small, Springrun hums with restless energy. Workers haul crystals between structures. Scouts move along elevated walkways. Watchtowers fitted with prismatic lanterns overlook the tree line. The village is alive—but tense.
@@ -212,9 +230,6 @@ Examples:
 - ruins appearing where maps show none
 
 The players should gradually realize this is not random magical fallout. Something is exerting influence outward.
-
-
-
 
 Most of the travel through the Prismatic Canopy and the Deep Wilds takes place in exploration mode—see pages 479–480 of the Pathfinder Core Rulebook for more  information. Each hex on the map is 5 miles across, but the dense forest is difficult terrain, halving the characters’ travel speed.
 
@@ -1424,8 +1439,7 @@ The original expedition consisted of **Captain Elian Voss** (Expedition Leader),
 > **1 Success** The expedition became lost.
 > **3 Successes** The forest behaved unpredictably. Trails changed. Landmarks disappeared.
 > **5 Successes** The expedition heard harmonic vibrations every night. Nobody could determine their source.
-> **7 Successes** One surveyor became convinced something beneath the forest was calling to them. They disappeared during the night. No tracks. No struggle.
-> **9 Successes** The survivors admit something they have told no one else. One evening... The missing surveyor calmly stood. Walked into the forest. Ignored every attempt to stop them. Never looked back.
+> **7 Successes** One surveyor became convinced something beneath the forest was calling to them. They disappeared during the night. No tracks. No struggle. The survivors admit something they have told no one else. One evening... The missing surveyor calmly stood. Walked into the forest. Ignored every attempt to stop them. Never looked back.
 
 #### Features of the Area
 **Distorted Gravity** Gravity fluctuates unpredictably throughout the area. Creatures moving through the scar must occasionally compensate for sudden changes in weight and momentum.
@@ -1444,673 +1458,406 @@ The original expedition consisted of **Captain Elian Voss** (Expedition Leader),
 - [ ] Low (30 XP) Level 5
 
 > [!note]+ Read Aloud
-> The smell of smoke reaches you long before you see the camp. Not fresh smoke. The lingering scent of a fire kept burning far longer than necessary.
+> The camp is unlike any you've seen. Every nearby tree bears careful markings. Lengths of colored cord stretch between branches. Small crystal shards have been arranged into intricate geometric patterns across the forest floor. Maps cover a flat stone. Hundreds of notes are pinned beneath knives driven into fallen logs. A man kneels among them, sketching furiously. He doesn't acknowledge your approach. Instead he speaks while continuing to write. "...You're standing on yesterday." Only then does he glance upward.
 > 
-> The clearing ahead is surrounded by hastily constructed barricades of fallen logs and sharpened stakes. Canvas tents sag beneath layers of crystal dust, while bedrolls and equipment lie scattered across the ground. Someone is still here. 
+> His eyes are bloodshot. His beard unkempt. His smile strangely genuine. "Oh."
 > 
-> A gaunt figure steps from behind one of the barricades, crossbow raised with trembling hands. Their clothes bear Springrun's colors. Their face is hollow with exhaustion. For several long seconds they simply stare. Then, in a cracked voice: 
+> "Visitors." 
 > 
-> "...You're real?"
+> "Good, I need someone to check my measurements."
 
-**Description** Several days ago, a Springrun survey expedition ventured into the Deep Wilds to investigate reports of unusual crystal growth located deep within the Prismatic Canopy. They never returned. 
+**Description** The party discovers a surprisingly organized camp nestled beneath an overhang of crystal-covered stone. Maps, journals, crystal samples, strings tied between trees, and dozens of carved trail markers cover the area.
 
-The party eventually discovers the expedition's final campsite. Unlike previous abandoned camps, this one is still occupied. Just not in the way anyone expected.
+At first the camp appears abandoned. Then someone speaks. The players have discovered a lost adventurer, **Alden Marr**. Alden has survived alone in the Deep Wilds for nearly three weeks. He is exhausted, dehydrated, sleep deprived, and utterly consumed by his investigation. He has no desire to fight. 
 
-This encounter is about mystery, horror, and compassion. Combat should only occur if the players create it. The survivors are exhausted, frightened, and psychologically strained. Nobody has a complete understanding of what happened. Each survivor witnessed different events. The players should slowly reconstruct the expedition's fate.
+Alden is formerly one of Springrun's most respected Seekers. Three weeks ago he volunteered to investigate the Deep Wilds. He never returned. Not because he couldn't. Because he chose not to. Alden is **not insane**. He is brilliant. Players should initially wonder if he can be trusted. By the end they should realize he's one of the most knowledgeable people they've met. 
 
-The original expedition consisted of **Captain Elian Voss** (Expedition Leader), **Mara Fen**, Crystalwright, **Tomas Greycliff**, Hunter **2 Springrun Surveyors** and **1 Porter**. Of the original six members two are dead and one is missing.  The survivors are: 
-- **Captain Elian Rask** The expedition leader. He is calm, rational and running entirely on determination. He knows something is wrong but refuses to speculate. His only priority is getting everyone home.
-- **Mara Fen** Crystalwright apprentice. She has become obsessed with her notes. She constantly sketches resonance patterns. Many of the diagrams appear nonsensical. Some are disturbingly accurate.
-- **Tomas Greycliff** Hunter. He barely speaks. He refuses to travel after sunset. Whenever resonance is mentioned, he unconsciously reaches for his weapon.
+The players will find that Alden is endlessly curious, polite, distracted and surprisingly cheerful.
 
 > [!note]+ Call Out
-> ### Investigation Challenge
+> ### Social Challenge
 > 
-> After spending at least an hour speaking with the survivors and examining the camp, each character may attempt one of the following skill checks at DC 20: [[Skills#Diplomacy|Diplomacy]], [[Skills#Survival|Survival]], [[Skills#Medicine|Medicine]], [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]] or [[Skills#Society|Society]]. Record the number of successes with a critical success counting as two successes.
+> Winning Alden's trust is easy. Keeping him focused is difficult. Each character may attempt one of the following skill checks at DC 20: [[Skills#Diplomacy|Diplomacy]], [[Skills#Nature|Nature]], [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]] or [[Skills#Society|Society]]. Record the number of successes with a critical success counting as two successes.
 > 
-> **1 Success** The expedition became lost.
-> **3 Successes** The forest behaved unpredictably. Trails changed. Landmarks disappeared.
-> **5 Successes** The expedition heard harmonic vibrations every night. Nobody could determine their source.
-> **7 Successes** One surveyor became convinced something beneath the forest was calling to them. They disappeared during the night. No tracks. No struggle.
-> **9 Successes** The survivors admit something they have told no one else. One evening... The missing surveyor calmly stood. Walked into the forest. Ignored every attempt to stop them. Never looked back.
+> **1 Success** Alden explains he is mapping resonance.
+> **3 Successes** He demonstrates that certain resonance patterns repeat every day.
+> **5 Successes** He has discovered stable paths through portions of the Deep Wilds. The party gains a +2 circumstance bonus to one future navigation check.
+> **7 Successes** He reveals he has been intentionally following resonance gradients rather than trails. This has allowed him to predict Crystal Blooms and Resonant Thunder. He quietly admits something that finally unsettles him. "The resonance isn't random. It changes, but I haven't yet figured out the trigger."
 
-#### Features of the Area
-**Distorted Gravity** Gravity fluctuates unpredictably throughout the area. Creatures moving through the scar must occasionally compensate for sudden changes in weight and momentum.
-**Floating Debris** Objects ranging from pebbles to entire crystal formations drift through the region. These objects create difficult terrain but also provide unusual opportunities for movement and observation.
-**Shattered Physics** The area does not follow consistent physical rules.
-**Crystal Suspension** Many crystal formations float above the forest floor. Some have remained suspended for years. Others appear to have arrived recently.
+If the party takes some time to study Alden's notes they discover a treasure trove of information.  Resonance hot spots, migrating crystal growth and stable campsites are all marked.  Any player who succeeds at a DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Survival|Survival]], check after studying the information gains a +2 circumstance bonus to all navigation checks made in the Deep Wilds for the remainder of Act 1. A critical success reveals something remarkable. He has been recording resonance pulses for weeks. They are **becoming stronger**. Very slowly. His notes speculate:
+- "It's as if there is something 'leaking' resonance into the environment."
 
-> [!tip]+ Treasure
-> Characters who spend 10 minutes collecting unusual crystal formations may attempt a DC 20 [[Skills#Crafting|Crafting]] or [[Skills#Arcana|Arcana]] check. On a success they find `dice: 1d4` [[Prismatic Crystal Shards]]; `dice: 2d4` on a critical success.
-> 
-> - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
+Should the players attempt to convince Alden to leave they'll quickly find out that he does NOT want to. Not because he's compelled to stay, but because he believes he's close to understanding the Deep Wilds.
 
-[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
-
-
-
-
-
-# Seeker Gone Obsessive
-
-### Encounter Level
-
-Social Encounter (Level 5)
-
-### Creatures
-
-- **Alden Marr**, Veteran Dungeon Seeker (Level 5 NPC)
-    
-
-Alden has survived alone in the Deep Wilds for nearly three weeks.
-
-He is exhausted, dehydrated, sleep deprived, and utterly consumed by his investigation.
-
-He has no desire to fight.
-
----
-
-## Area Description
-
-The party discovers a surprisingly organized camp nestled beneath an overhang of crystal-covered stone. Maps, journals, crystal samples, strings tied between trees, and dozens of carved trail markers cover the area.
-
-At first the camp appears abandoned.
-
-Then someone speaks.
-
-Not loudly.
-
-Not threateningly.
-
-Without even looking up.
-
-"...Don't step there."
-
----
-
-## GM Reminders
-
-- Alden is **not insane**.
-    
-- He is brilliant.
-    
-- He is exhausted.
-    
-- He has become completely consumed by understanding the Deep Wilds.
-    
-- Players should initially wonder if he can be trusted.
-    
-- By the end they should realize he's one of the most knowledgeable people they've met.
-    
-
----
-
-## Read-Aloud Text
-
-The camp is unlike any you've seen.
-
-Every nearby tree bears careful markings.
-
-Lengths of colored cord stretch between branches.
-
-Small crystal shards have been arranged into intricate geometric patterns across the forest floor.
-
-Maps cover a flat stone.
-
-Hundreds of notes are pinned beneath knives driven into fallen logs.
-
-A man kneels among them, sketching furiously.
-
-He doesn't acknowledge your approach.
-
-Instead he speaks while continuing to write.
-
-"...You're standing on yesterday."
-
-Only then does he glance upward.
-
-His eyes are bloodshot.
-
-His beard unkempt.
-
-His smile strangely genuine.
-
-"Oh."
-
-"Visitors."
-
-"Good."
-
-"I need someone to check my measurements."
-
----
-
-## Alden Marr
-
-Formerly one of Springrun's most respected Seekers.
-
-Three weeks ago he volunteered to investigate the Deep Wilds.
-
-He never returned.
-
-Not because he couldn't.
-
-Because he chose not to.
-
----
-
-## Personality
-
-Alden is:
-
-- endlessly curious,
-    
-- polite,
-    
-- distracted,
-    
-- surprisingly cheerful.
-    
-
-He forgets:
-
-- meals,
-    
-- conversations,
-    
-- names,
-    
-- sleep.
-    
-
-He remembers:
-
-- every resonance pulse,
-    
-- every crystal bloom,
-    
-- every shifting trail.
-    
-
----
-
-## Social Challenge
-
-Winning Alden's trust is easy.
-
-Keeping him focused is difficult.
-
-Characters may attempt:
-
-- Diplomacy DC 20
-    
-- Society DC 20
-    
-- Arcana DC 20
-    
-- Nature DC 20
-    
-- Occultism DC 20
-    
-
-Track total successes.
-
----
-
-### 1 Success
-
-Alden explains he is mapping resonance.
-
----
-
-### 3 Successes
-
-He demonstrates that certain resonance patterns repeat every day.
-
----
-
-### 5 Successes
-
-He has discovered stable paths through portions of the Deep Wilds.
-
-The party gains a +2 circumstance bonus to one future navigation check.
-
----
-
-### 7 Successes
-
-He reveals he has been intentionally following resonance gradients rather than trails.
-
-This has allowed him to predict Crystal Blooms and Resonant Thunder.
-
----
-
-### 9 Successes
-
-He quietly admits something that finally unsettles him.
-
-> "The resonance isn't random."
-
-"It changes."
-
-"...after someone enters the Dungeon."
-
----
-
-## Discovery Opportunities
-
-|Skill|DC|Information|
-|---|---|---|
-|Perception|20|Alden's maps are astonishingly accurate.|
-|Society|20|He has not slept properly in days.|
-|Arcana|20|His measurements are scientifically rigorous.|
-|Nature|20|He understands the Deep Wilds better than anyone in Springrun.|
-|Medicine|20|He is suffering from exhaustion and malnutrition, not magical affliction.|
-
----
-
-## Alden's Maps
-
-If the party studies his notes they discover:
-
-- resonance hot spots,
-    
-- migrating crystal growth,
-    
-- stable campsites,
-    
-- dangerous predator territories,
-    
-- abandoned expedition routes.
-    
-
-A successful DC 20 Arcana or Survival check grants a +1 circumstance bonus to all navigation checks made in the Deep Wilds for the remainder of Act 1.
-
----
-
-## Hidden Discovery
-
-A critical success while reviewing Alden's journals reveals something remarkable.
-
-He has been recording resonance pulses for weeks.
-
-They are **becoming weaker**.
-
-Very slowly.
-
-His notes speculate:
-
-> "Something inside is consuming energy."
-
-He has no proof.
-
-But this observation hints at one of the campaign's central truths:
-
-> The Dungeon is not merely leaking resonance.
-
-> It is attempting to regulate it.
-
-The players won't yet have enough information to draw that conclusion, but once they later understand how Dungeons function, Alden's notes become one of those satisfying clues that had the answer hidden in plain sight.
-
----
-
-## Treasure
-
-Alden happily shares his work with anyone willing to continue it.
-
-The party may receive:
-
-|Treasure|
-|---|
-|Alden's regional maps (+2 circumstance bonus to one Deep Wilds navigation check)|
-|2 [[healing-potion-lesser\|Healing Potions (Lesser)]]|
-|1d4 [[Prismatic Crystal Shards]]|
-|1 [[Resonant Condensation]]|
-|Crystal survey notes|
-
-If convinced to return to Springrun, he also gifts the party his personal field journal.
-
----
-
-## Convincing Alden to Leave
-
-Alden **does not want to leave**.
-
-Not because he's compelled to stay.
-
-Because he believes he's close to understanding the Deep Wilds.
-
-The party can convince him with a **Victory Point challenge** requiring **6 VP before 3 failures**, using skills such as:
-
+The party can convince him with a Victory Point challenge requiring 6 VP before 3 failures, using skills such as:
 - **Diplomacy** (appeal to duty or concern for Springrun)
-    
 - **Society** (remind him of the value of sharing discoveries)
-    
 - **Nature** or **Arcana** (demonstrate genuine understanding of his work)
-    
 - **Medicine** (show evidence that his physical condition is impairing his judgment)
-    
 
-On success, Alden reluctantly agrees:
-
-> "...Someone has to make sure this doesn't die with me."
+On success, Alden reluctantly agrees, "...Someone has to make sure this doesn't die with me."
 
 On failure, he politely refuses, promising he'll return "after one more observation."
 
----
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
-## Scaling
+### Prismatic Canopy Set Encounter: The Crystal Giant
+- [ ] Low (30 XP) Level 5
 
-### Weaker Version
+![[prismatic-canopy-crystal-giant.png]]
 
-- Alden is physically healthier and easier to persuade.
-    
-- Reduce all DCs to 18.
-    
+> [!note]+ Read Aloud  
+> The forest gradually grows quiet as you continue along the trail. Birds fall silent, insects cease their constant chorus, and even the breeze seems reluctant to disturb the clearing ahead.
+> 
+> Emerging from the hillside is the upper half of a colossal humanoid figure, its body carved from dark stone laced with shimmering crystal. Towering trees cling to its shoulders, their roots disappearing into cracks within the ancient form. One enormous arm remains buried beneath the earth while the other stretches outward, its open hand resting upon a broad stone shelf.
+> 
+> The giant's eyes are closed, its face calm and solemn, as though it has slept here for centuries. Soft pulses of colored light drift through the crystal veins beneath its surface before fading once more into stillness.
+
+The Crystal Giant is one of the oldest mysteries in the Prismatic Canopy. No written records describe its construction, and no surviving culture claims responsibility for its existence. Local legends contradict one another so thoroughly that even experienced Seekers treat the Giant as an unsolved curiosity rather than a historical site.
 
-### Stronger Version
+The statue itself appears carved from seamless stone infused with naturally grown crystal unlike any known Aetherium deposit. Despite centuries—perhaps millennia—of exposure to the elements, it shows virtually no signs of erosion.
 
-- Alden has been in the Deep Wilds for over a month.
-    
-- Increase all DCs to 22.
-    
-- His obsession causes conversations to wander constantly, making it harder to obtain coherent information.
-    
+The surrounding clearing possesses an unusual tranquility. Wildlife enters and leaves without fear, predatory animals rarely hunt within sight of the Giant, and the subtle resonance common throughout the Deep Wilds seems strangely muted here.
 
----
+Nothing about the Giant appears magical in the traditional sense.
 
-## Encounter Purpose
+Yet something about it feels...unfinished.
 
-The Seeker Gone Obsessive is designed to answer a crucial question without resorting to magical mind control or madness.
+Characters exploring the Giant may attempt the following checks.
+
+|Skill|DC|Information|
+|:--|:-:|:--|
+|**Arcana**|22|The crystal resembles unrefined Aetherium, but its internal structure is unlike any naturally occurring specimen.|
+|**Crafting**|22|The transition between stone and crystal is flawless. Neither carving nor crystal growth could have produced this result using known techniques.|
+|**Nature**|20|Plants and wildlife within the clearing are exceptionally healthy. Even aggressive creatures appear calmer while nearby.|
+|**Occultism**|24|The Giant possesses no spirit, magical aura, or lingering consciousness. Nevertheless, it evokes the unmistakable feeling that it was never completed.|
+|**Religion**|24|No divine iconography or sacred markings are present. If this monument honored anyone, its creator deliberately left no indication of whom.|
+|**Perception**|23|Hidden high upon the Giant's shoulder is a smooth stone plaque completely devoid of carvings, symbols, or inscriptions.|
 
-It reinforces that:
+If characters attempt to damage the statue, chips of crystal break away normally but lose their brilliance within minutes, becoming nothing more than ordinary quartz. The Giant does not react to any spell, ritual, or attempt at communication.
 
-- The Deep Wilds do not simply corrupt people—they can consume their attention.
-    
-- Knowledge has a cost.
-    
-- Curiosity can become dangerous even when it remains rational.
-    
-- The phenomena of the Deep Wilds can be studied, measured, and understood.
-    
+#### Features of the Area
+- The clearing surrounding the Giant is roughly 250 feet across.
+- The Giant's visible torso rises nearly 80 feet above the forest floor.
+- Climbing onto the Giant requires successful [[Skills#Athletics|Athletics]] checks appropriate for the weather and climbing equipment.
+- The enormous hand forms a natural overlook large enough to comfortably camp upon.
+- Fine pulses of colored light travel through the crystal veins every few minutes.
+- The stone remains pleasantly warm regardless of weather.
+- Rain falling over the surrounding forest often seems noticeably lighter within the clearing.
+
+#### Random Events
 
-Most importantly, Alden serves as a mirror for the player characters. He represents what they could become if they pursue answers without remembering why they sought them in the first place. His brilliance is admirable, but his inability to step away from the mystery is a warning that obsession can be just as dangerous as any monster lurking in the forest.
+If the party spends more than an hour exploring or resting here, roll or choose one.
+
+|d6|Event|
+|:-:|---|
+|1|A herd of deer quietly enters the clearing, rests near the Giant's hand for several minutes, then departs.|
+|2|A pulse of colored light briefly travels through every visible crystal vein before fading.|
+|3|The surrounding forest becomes completely silent for nearly a minute before natural sounds gradually return.|
+|4|One character has the distinct sensation that the Giant has taken a slow breath. Nothing else occurs.|
+|5|Rain falls everywhere beyond the clearing while the Giant remains perfectly dry.|
+|6|A tiny crystal bird lands upon the Giant's shoulder, sings a single note unlike any natural birdcall, then flies away.|
 
+#### Rumors
 
+Characters asking around Springrun or Castlemere may hear one or more of the following stories.
 
+|d6|Rumor|
+|:-:|---|
+|1|The Giant walked into the hills and simply fell asleep.|
+|2|Only its upper body is visible; the rest remains buried deep beneath the earth.|
+|3|During eclipses, its face slowly turns toward the moon.|
+|4|The gods themselves do not know who built it.|
+|5|The Giant is waiting for someone to finish carving it.|
+|6|Six more Giants exist somewhere in the world, each facing a different direction.|
 
+### Prismatic Canopy Set Encounter: The Hollow Market
+- [ ] Low (30 XP) Level 5
 
+![[prismatic-canopy-hollow-market.png]]
 
+> [!note]+ Read Aloud  
+> The trail narrows beneath ancient trees whose trunks have grown together into enormous hollow arches. Beyond them, warm lantern light flickers through the forest despite the absence of any visible road or settlement.
+> 
+> The clearing beyond is unlike anything you've seen in the Prismatic Canopy.
+> 
+> Wooden stalls fashioned from living branches curve around a great hollow stump. Colorful banners sway overhead despite the still air, while dozens of travelers quietly browse the market's wares.
+> 
+> Merchants of every ancestry smile as you approach. Some wear elaborate robes, others simple traveling clothes, but all seem strangely...comfortable.
+> 
+> Somewhere nearby, a violin begins to play.
 
+The Hollow Market appears only occasionally within the Prismatic Canopy. No one has successfully mapped its location, and those who leave often cannot find it again.
 
+The market is peaceful, bustling, and surprisingly ordinary. Travelers barter for food, curiosities, maps, stories, handcrafted goods, and unusual trinkets. Prices are generally fair, although merchants often seem more interested in unusual trades than coin.
 
+No merchant openly discusses where the market came from or where it goes. Visitors who ask receive only amused smiles.
 
+The market is protected by an unspoken code of hospitality. Violence is almost unheard of. Everyone seems determined to keep it that way. Should violence break out every merchant immediately ceases what they are doing. The music stops and every visitor silently watches the aggressor. Within moments, the offending creature finds itself peacefully escorted outside the market by individuals who are surprisingly difficult to resist. No weapons are drawn unless absolutely necessary. Anyone removed from the market cannot locate it again for at least one year.
 
+#### Investigation
 
-
-
-
-
-
-
-
-
-## My Recommendation
-# Suggested Prismatic Canopy Set Pieces 
-
-These should feel unique and memorable.
-
-## The Crystal Giant
-
-A colossal stone-and-crystal humanoid statue emerging from a hillside.
-
-Nobody knows who built it.
-
-It isn't important to the main plot.
-
-That's why players will obsess over it.
-
----
-
-## The Hollow Market
-
-Ruins of an old trading post overtaken by crystal growth.
-
-Evidence of:
-
-- former settlers
-- abandoned ambitions
-- frontier failure
-
----
-
-# Suggested Deep Wilds Set Pieces
-
-These should feel increasingly tied to the Dungeon.
-
----
-
-## The Heartroot
-
-A massive tree hundreds of feet tall.
-
-Its roots disappear deep underground.
-
-Every Resonant Thunder pulse seems to originate from beneath it.
-
-Not the Dungeon.
-
-But connected somehow.
-
----
-
-## The Crystal Graveyard
-
-A clearing filled with crystal-encased skeletons.
-
-Animals.
-
-Monsters.
-
-People.
-
-All facing the same direction.
-
-Nobody knows why.
-
----
-
-## The Lost Expedition
-
-Not random.
-
-A full encounter site.
-
-The remains of an organized survey team.
-
-Evidence of:
-
-- infighting
-- obsession
-- strange dreams
-
-Could become one of the strongest foreshadowing locations in Act 1.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Act 1 — The Hollow Beneath the Canopy
-
-# Act Structure Overview
-
-# Chapter 3 — The Discovery
-The party eventually finds the Dungeon archway. This should be a major moment. Not merely:
-> “You find a dungeon entrance.”
-
-Instead:
-- the environment changes around it
-- sound becomes distorted
-- the archway feels _aware_
-- runes shift subtly
-- crystal growth bends toward it
-- wildlife avoids the area completely
-
-Most importantly: **The Dungeon Does Not Match Expectations**
-
-This is critical. The setting likely assumes:
-- ruins are static
-- dungeons are old structures
-- magical sites behave predictably
-
-Instead the PCs discover:
-- the archway reacts to observers
-- the structure beyond does not align spatially
-- rooms rearrange subtly
-- creatures appear ecosystemically connected
-- the Dungeon seems partially alive
-- the archway can be _read_
-
-This is your opportunity to introduce:
-- Victory Point archway interpretation
-- attunement concepts
-- Dungeon “watching” behavior
-- resonance
-- instability
-- regeneration concepts
-
-The players should leave this scene understanding they have discovered something fundamentally new.
-
----
-
-# Chapter 4 — First Incursion
-The first delve should:
-- be relatively small
-- avoid explaining everything
-- establish rules through experience
-
-Goals:
-- survive
-- retrieve proof
-- map part of the interior
-- escape alive
-
-The incursion should reveal:
-- the Essence system
-- Dungeon resources
-- strange materials
-- impossible ecology
-- creatures unlike surface fauna
-- evidence that the Dungeon repairs or resets
-
-This is where the players begin realizing the Dungeon is a renewable source of power, danger, and wealth. That realization changes the world.
-
----
-
-# End of Act 1 — News Spreads
-This is your true climax. The Dungeon’s existence cannot remain secret. News reaches:
-- Springrun
-- Castlemere
-- traders
-- prospectors
-- scholars
-- opportunists
-
-And suddenly the frontier changes overnight.
-
-## Springrun’s Response
-Springrun sees:
-- opportunity
-- growth
-- discovery
-- trade
-- advancement
-
-The town begins transforming into:
-- an expedition hub
-- a prospecting center
-- a Dungeon economy
-
-## Castlemere’s Response
-Castlemere sees:
-- threat
-- instability
-- heresy
-- potential military danger
-
-They likely advocate:
-- containment
-- regulation
-- control
-- religious scrutiny
-- armed oversight
-
----
-
-# Strong Ending Scene
-A great Act 1 closing image might be:
-- prospectors arriving
-- caravans forming
-- mercenaries entering the region
-- scholars arguing over theories
-- soldiers marching from Castlemere
-- crystals beginning to spread further
-- the archway subtly changing
-
-And perhaps, for the first time…
-
-the Dungeon opens wider.
-
----
-
-# What Act 1 Accomplishes
-By the end of the act, the players should understand:
-
-## Personally
-- they are among the first true delvers
-- they survived where others failed
-- they discovered something world-changing
-
-## Mechanically
-- how Dungeon exploration differs from normal adventuring
-- how archways function
-- how resonance/instability works
-- that Dungeons are dynamic
-
-## Politically
-- the frontier is about to transform
-- Springrun and Castlemere will clash ideologically
-- outside powers will soon arrive
-
-## Cosmologically
-- the world does not understand Dungeons
-- these places may predate modern civilization
-- the Shattering may have awakened something ancient rather than created it
-
-
-
-
-The damage reduction and AC penalty (halving the AC bonus rounded down) create a powerful narrative beat: **The world the PCs know is obsolete inside the Hollow.**
-- **The Level 0 Solution:** Since players will need to add the "Dungeon" trait to their items, you can utilize the **Creature Cores**. Alchemists and mages already use these to grind into powders or create magical elixirs.
-- **The "Coating" Mechanic:** In Act I, the players might find that "painting" their blades with an emulsion of **Creature Core dust** and **Dungeon Essence** temporarily bypasses the damage reduction. This forces a "resource management" loop early in the campaign.
-- **Evolution:** By Act II, they should be finding gear with "Dungeon Traits" or using **Awakening Stones** to permanently bond their signature items to the Aetheria Fracta reality.
-
-👉 End of Act:  **Both cities stake interest**
+|Skill|DC|Information|
+|:--|:-:|:--|
+|**Diplomacy**|20|Merchants are unusually friendly and willing to gossip after a successful conversation.|
+|**Society**|22|No recognizable guild symbols or national affiliations appear anywhere in the market.|
+|**Perception**|22|Many visitors arrive from paths that disappear moments later.|
+|**Arcana**|24|The entire clearing exists within an area of remarkably stable ambient mana unlike the surrounding Deep Wilds.|
+|**Occultism**|24|The market feels slightly disconnected from the surrounding forest, almost as though it exists in a space adjacent to reality.|
+|**Nature**|20|None of the nearby wildlife enters the market itself, yet none appear frightened by it either.|
+
+#### Features of the Area
+- Roughly thirty merchant stalls surround the clearing.
+- Warm lanterns provide bright light throughout the market.
+- Music is always audible, though the musicians are never in the same place twice.
+- Fresh food is always available regardless of season.
+- Comfortable benches, campfires, and communal tables encourage conversation.
+- No refuse or litter can be found anywhere.
+
+#### Random Events
+
+Roll once every hour spent in the market.
+
+|d6|Event|
+|:-:|---|
+|1|A storyteller gathers a crowd to recount an obviously exaggerated tale about an adventurer.|
+|2|A merchant insists a character sample an unfamiliar but delicious fruit at no charge.|
+|3|A traveling bard begins playing a tune every visitor somehow recognizes.|
+|4|A child asks a character to help retrieve a runaway paper lantern.|
+|5|A merchant quietly offers to purchase an unusual item the party recently acquired.|
+|6|For just a moment, every lantern extinguishes simultaneously before relighting a heartbeat later. No one else seems concerned.|
+
+#### Rumors
+
+Visitors may learn one rumor after spending at least thirty minutes talking with merchants.
+
+|d6|Rumor|
+|:-:|---|
+|1|The Hollow Market has existed longer than any kingdom.|
+|2|You cannot steal from the market without losing something far more valuable.|
+|3|The market chooses who may find it.|
+|4|Once each century, the market appears beneath a different sky.|
+|5|Some merchants have never left the market.|
+|6|Every bargain made here is remembered forever.|
+
+### Deep Wilds Set Encounter: The Heartroot
+- [ ] Low (30 XP) Level 5
+
+![[deep-wilds-heartroot.png]]
+
+> [!note]+ Read Aloud  
+> The air grows warmer with every step, carrying the scent of damp earth and flowering vines. The forest around you becomes impossibly dense, ancient trunks twisting together into living walls draped with curtains of glowing moss. At the center of a vast natural chamber stands an enormous tree unlike any you've ever seen.
+> 
+> Its trunk is wider than a castle keep, disappearing high into the emerald canopy before its branches vanish from sight. Massive roots spread outward in every direction, some arching overhead like bridges while others plunge deep beneath the forest floor. Beneath the bark, veins of brilliant crystal pulse with soft crimson light.
+> 
+> Slowly. Steadily. Like the beat of a colossal heart.
+
+The Heartroot is among the oldest living organisms known within the Deep Wilds. Whether it is a single tree, a colony of interconnected growths, or something entirely unique remains unknown.
+
+Unlike the unstable crystal growths found elsewhere, the Heartroot's crystalline veins exhibit a remarkably consistent rhythm. Creatures lingering nearby often find themselves unconsciously matching their breathing to the slow pulses.
+
+The area surrounding the Heartroot is strikingly peaceful. Even natural predators avoid hunting within sight of the tree, while wounded animals occasionally gather beneath its roots to rest.
+
+No evidence suggests the tree is sentient. Yet many who visit leave convinced they were being watched.
+
+There are no hostile creatures unless the party attacks the Heartroot.
+
+**If characters deliberately attempt to damage the tree** the crystal pulses immediately cease and every sound within the clearing falls silent. Any nearby wildlife flees. After several moments, the pulses slowly resume as though nothing had happened. 
+
+The tree never retaliates directly. This moment should leave the party wondering whether they made a terrible mistake.
+
+#### Investigation
+
+|Skill|DC|Information|
+|:--|:-:|:--|
+|**Nature**|22|The tree is vastly older than any known species in the region. Its biology shares characteristics with several unrelated trees but matches none completely.|
+|**Arcana**|24|The crystal veins channel ambient magical energy with extraordinary efficiency, yet no spell or ritual appears responsible.|
+|**Occultism**|24|The rhythmic pulses resemble resonance found near Dungeons but are perfectly stable and exceptionally slow.|
+|**Medicine**|20|Nearby creatures exhibit reduced stress and accelerated natural healing while resting beneath the Heartroot.|
+|**Perception**|22|Small crystal seeds occasionally emerge from cracks in the bark before dissolving into harmless motes of light.|
+|**Religion**|24|Although many might mistake this place for sacred ground, no divine presence can be detected.|
+
+#### Features of the Area
+- The clearing measures nearly 300 feet across.
+- The trunk exceeds 80 feet in diameter.
+- Enormous roots create elevated walkways and natural alcoves.
+- Soft crimson light provides dim illumination throughout the clearing.
+- The rhythmic pulses can be felt through the ground as subtle vibrations.
+- Climbing the tree is possible, but its upper canopy disappears hundreds of feet overhead.
+
+#### Random Events
+
+Roll once for every hour the party remains in the clearing.
+
+|d6|Event|
+|:-:|---|
+|1|Hundreds of tiny glowing insects emerge from beneath the roots before disappearing into the canopy.|
+|2|A family of woodland creatures quietly curls up beneath a nearby root to sleep.|
+|3|The crystal veins brighten for three slow pulses before returning to normal.|
+|4|Every flower in the clearing simultaneously opens, then closes several moments later.|
+|5|A gentle breeze passes through despite the complete absence of wind elsewhere.|
+|6|For a single heartbeat, every character feels as though something immense has acknowledged their presence. No further sign follows.|
+
+> [!tip]+ Treasure
+> The tree produces no harvestable materials, and any bark, leaves, or crystal removed from it rapidly decay into ordinary organic matter.Characters spending at least one uninterrupted hour resting beneath the Heartroot gain a profound sense of calm.
+> 
+> **Heartroot's Blessing**
+> Once before their next daily preparations, each character may reroll a failed Recovery Check or Treat Wounds check affecting them, taking the better result. This benefit can only be gained once per week. 
+
+### Deep Wilds Set Encounter: The Crystal Graveyard
+- [ ] Low (30 XP) Level 5
+
+![[deep-wilds-crystal-graveyard.png]]
+
+> [!note]+ Read Aloud  
+> The forest begins to thin, its towering trees giving way to a broad clearing carpeted in pale moss and fractured crystal. The vibrant colors of the Prismatic Canopy seem strangely muted here, as though even the light has grown quiet.
+> 
+> Then you see them. Bones. Hundreds of them.
+> 
+> Some lie half-buried beneath roots older than memory. Others rise from the earth like weathered monuments, their surfaces transformed into shimmering crystal that catches the filtered light in muted rainbows.
+> 
+> The skeletons belong to creatures unlike any you've ever seen. Some possess impossibly long necks. Others bear six wings, dozens of ribs, or skulls with no recognizable eyes.
+> 
+> No scavengers disturb the remains. The entire clearing rests in absolute silence.
+
+The Crystal Graveyard spans several acres within the Deep Wilds. It contains the fossilized remains of countless enormous creatures whose bones have gradually transformed into dense crystalline structures over untold ages. No two skeletons appear to belong to the same species. Many are unlike anything described in recorded history.
+
+Unlike ordinary crystal formations, the crystalline bones exhibit almost no resonance. Instead, they seem to absorb sound, contributing to the area's unsettling stillness. Despite the abundance of remains, no signs of violence are evident. Most skeletons appear carefully arranged by time and nature rather than catastrophe.
+
+Characters who disturb the skeletons discover that the crystal bones are remarkably durable. Breaking even a small fragment produces a sharp, bell-like tone that echoes across the clearing far longer than expected. Nothing immediately responds. Whether something heard the sound is left unanswered.
+
+#### Investigation
+
+|Skill|DC|Information|
+|:--|:-:|:--|
+|**Nature**|22|None of the skeletons resemble any known creature native to Aetheria.|
+|**Arcana**|24|The crystalization seems to have occurred naturally over an immense span of time rather than through magic.|
+|**Occultism**|24|There are no lingering spirits or supernatural hauntings despite the countless dead.|
+|**Society**|22|No carvings, tools, or burial markers suggest intelligent intervention.|
+|**Crafting**|22|The crystal replacing the bones is unlike unrefined Aetherium and has become part of the fossil itself.|
+|**Perception**|23|Several skeletons seem positioned as though facing the same distant point deep within the forest.|
+
+#### Features of the Area
+- The clearing stretches nearly 500 feet across.
+- Crystalized skeletons range from the size of wolves to creatures over 100 feet long.
+- Sound is noticeably muffled throughout the area.
+- The ground is stable but uneven due to buried bones and exposed crystal.
+- Pale flowers grow only in the spaces between skeletons.
+- Sunlight filtering through the canopy scatters into soft rainbows across the crystal remains.
+
+#### Random Events
+
+Roll once for every hour spent exploring.
+
+|d6|Event|
+|:-:|---|
+|1|A breeze passes through the clearing, producing soft musical tones from tiny crystal fractures.|
+|2|A ray of sunlight causes one enormous ribcage to shimmer with every color of the canopy.|
+|3|A family of crystal butterflies settles upon one skull before silently taking flight together.|
+|4|Every sound briefly seems distant, as though heard through deep water.|
+|5|One character notices a tiny flower blooming from the eye socket of an immense skull.|
+|6|For just a moment, everyone has the unmistakable feeling they are standing among honored dead rather than abandoned remains.|
+
+## Chapter 3 — The Discovery
+
+![[deep-wilds-dungeon.png]]
+
+> [!note]+ Read Aloud  
+> Long before you see it, the forest begins to change.
+> 
+> The constant chorus of the Deep Wilds fades until only your own breathing remains. Crystal formations growing among the roots become larger, their facets catching the light in subtle flashes of emerald and violet. Even the trees seem to bend away from a single point ahead, as though respecting an ancient boundary.
+> 
+> At the center of a broad clearing stands an immense stone archway. Unlike the weathered ruins scattered throughout the wilderness, this monument appears untouched by time. Massive roots weave through its base without disturbing the carefully worked stone, while living vines and crystal growths climb its pillars in intricate patterns that seem almost intentional.
+> 
+> Set within the arch rests an enormous pair of stone doors, closed tight. Their surface is carved with flowing designs of twisting vines, blooming flowers, crystalline branches, and unfamiliar runes that shimmer faintly beneath the moss.
+> 
+> Though motionless...
+> 
+> ...the archway somehow feels attentive.
+> 
+> As your eyes linger upon the runes, several brighten ever so slightly, as if acknowledging your presence.
+
+#### Description
+The archway is not the remnant of a ruined building. It is the Dungeon's entrance.
+
+Each Dungeon possesses a unique archway whose design reflects the nature of the pocket dimension beyond. Some resemble cathedral doors, others ancient trees, polished crystal, volcanic stone, or architecture unlike any civilization has ever built. No two are identical, but all share several common characteristics recognized by experienced Dungeon Seekers.
+
+The archway always exists physically within the world. It possesses substantial doors that can be opened and closed normally, though they are often massive and extraordinarily well-crafted. The stone bears no signs of erosion despite centuries of exposure, and even vegetation growing across its surface seems to complement rather than obscure its design.
+
+Only when the doors are opened does the true entrance reveal itself. Instead of whatever should lie beyond, the opening is filled with a perfectly smooth curtain of luminous energy. This portal does not illuminate the surrounding clearing, nor does it reveal anything of the Dungeon itself. Its surface resembles still liquid glass, utterly opaque.
+
+The color of the portal immediately communicates the Dungeon's basic tier to those familiar with Dungeon lore:
+- **Iron** — Deep crimson
+- **Bronze** — Burnished amber
+- **Silver** — Brilliant argent
+- **Gold** — Radiant gold
+
+Beyond the portal lies the Dungeon's pocket dimension—a space entirely disconnected from the surrounding world. 
+
+The archway itself can be studied without opening the Dungeon. The runes carved throughout its frame communicate information regarding the Dungeon's attunement, current stability, and other characteristics to those capable of interpreting them. Throughout the investigation, the party should gradually realize something unsettling. The archway does not merely display information. It appears to notice those attempting to understand it.
+
+#### Investigation
+This encounter uses the **Reading the Archway** Victory Point challenge. Characters may attempt [[Skills#Arcana|Arcana]], [[Skills#Occultism|Occultism]], [[Skills#Religion|Religion]], or  [[Skills#Nature|Nature]] checks as described in your Dungeon Reading subsystem. Award information according to the Victory Point thresholds.
+
+> [!tip]+ Flavor
+> #### Reading the Archway (Victory Point Challenge)
+> **2 VP — Basic Understanding** The runes are not decorative. They are a written language designed to communicate information about the Dungeon itself. The archway can be interpreted with sufficient knowledge.
+> **4 VP — Deeper Understanding** With additional insight, the party deciphers much more of the archway's purpose. They successfully determine:
+> - **Attunement:** Growth, Crystal, and Resonance.
+> - **Dungeon Tier:** Iron.
+> - **Current Stability:** Stable.
+> The party also realizes something deeply unsettling. The archway does not simply display information. It appears to respond—however subtly—to careful observation. As individual characters study the runes, tiny portions brighten or shift almost imperceptibly beneath their gaze. Whether this is merely coincidence or something more cannot be determined.
+> **6 VP — Hidden Insight** Only an exceptional interpretation reveals the final secret. The archway is not merely reacting to observation. It is **evaluating** those who stand before it. Exactly **what** it measures cannot be determined. Describe it like this: As you finish tracing the final sequence of runes, a strange certainty settles over you.  For just the briefest moment... you have the overwhelming feeling that the archway now knows something about **you**. The sensation vanishes almost immediately.
+> 
+> **Three Failures** Characters misunderstand portions of the runes. Examples include:
+> - Assuming the Dungeon was built by an ancient civilization.
+> - Believing the runes are merely magical locks.
+> - Mistaking Stability for danger level.
+> - Concluding the portal is an illusion rather than a genuine extradimensional space.
+> - The portal is a permanent magical effect maintained by powerful spellcasters.
+> 
+> These misconceptions should be naturally corrected through later exploration.
+
+#### Features of the Area
+- The clearing measures roughly 150 feet across.
+- No vegetation grows within 20 feet of the archway.
+- Crystal formations naturally point toward the entrance.
+- Sound is noticeably muted.
+- The archway radiates no overwhelming magical aura despite its impossible nature.
+
+### Crossing the Threshold
+
+> [!note]+ Read Aloud  
+> The massive stone doors yield with surprising ease. They open without groaning hinges or grinding stone.
+> 
+> Instead... they move almost silently.
+> 
+> Beyond the doorway is no corridor. No chamber. No glimpse of what lies within.
+> 
+> The opening is filled completely by a perfectly smooth curtain of crimson light, its surface as still as polished glass. It casts no shadows, gives off no warmth, and reveals nothing beyond itself.
+> 
+> For a long moment... nothing happens. The forest behind you remains quiet. The archway waits.
+> 
+> The instant the first of you reaches forward and crosses the threshold... the world you know disappears.
+> 
+> There is no sensation of falling. No flash of light. No rush of magic. For the briefest heartbeat there seems to be nothing at all.
+> 
+> Then, you feel it. Not on your skin or in your mind.  Somewhere deeper. Like the unmistakable sensation of another living creature turning its attention toward you.
+> 
+> Not hostile but also, not welcoming. Simply...
+> 
+> **aware.**
+> 
+> Ahead, beneath an unfamiliar sky...
+> 
+> somewhere impossibly distant...
+> 
+> something stirs.
+> 
+> You cannot hear words or see a face. Yet every instinct tells you the same impossible truth.
+> 
+> **Something knows you have arrived.**
+> 
+> ...
+> 
+> **Welcome, Seekers.**

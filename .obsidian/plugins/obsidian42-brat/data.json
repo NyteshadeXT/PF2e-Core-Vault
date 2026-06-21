@@ -1,8 +1,14 @@
 {
   "pluginList": [
+    "alas-poor-ophelia/windrose-md",
     "MostTornBrain/monster-mash"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "alas-poor-ophelia/windrose-md",
+      "version": ""
+    }
+  ],
   "themesList": [],
   "updateAtStartup": false,
   "updateThemesAtStartup": false,

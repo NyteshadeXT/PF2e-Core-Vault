@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title desc">
+  <title id="title">Aetheria Fracta Dungeon Door Map Icon</title>
+  <desc id="desc">A stylized runed stone dungeon doorway with a portal, crystal accents, and base plinth.</desc>
+  <defs>
+    <style>
+      .line{fill:none;stroke:#111;stroke-width:14;stroke-linecap:round;stroke-linejoin:round}
+      .thin{fill:none;stroke:#111;stroke-width:10;stroke-linecap:round;stroke-linejoin:round}
+      .stone{fill:#f7f7f7;stroke:#111;stroke-width:14;stroke-linecap:round;stroke-linejoin:round}
+      .portal{fill:#ffffff;stroke:#111;stroke-width:12;stroke-linecap:round;stroke-linejoin:round}
+      .rune{fill:none;stroke:#111;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+
+  <!-- outer broken arch stones -->
+  <path class="stone" d="M111 424 L89 424 L61 362 L75 282 L96 263 L98 165 L143 107 L191 64 L258 54 L328 66 L381 112 L389 204 L443 300 L426 316 L396 307 L405 424 L372 424 L363 158 C362 134 343 111 318 95"/>
+  <path class="line" d="M111 424 L99 343 L108 258 L107 166 L162 103 L190 66"/>
+
+  <!-- inner portal / door opening -->
+  <path class="portal" d="M157 424 L157 272 C157 175 199 101 256 101 C313 101 355 175 355 272 L355 424"/>
+
+  <!-- inner dimensional shimmer lines -->
+  <path class="rune" d="M220 171 C202 202 204 239 226 268 C250 301 251 337 226 374"/>
+  <path class="rune" d="M292 171 C310 202 308 239 286 268 C262 301 261 337 286 374"/>
+  <path class="rune" d="M256 139 C244 180 248 215 263 248 C281 287 278 330 254 397"/>
+
+  <!-- archway status runes -->
+  <path class="rune" d="M146 164 L171 151 L166 184"/>
+  <path class="rune" d="M337 164 L312 151 L317 184"/>
+  <circle class="rune" cx="256" cy="83" r="11"/>
+  <path class="rune" d="M233 78 L216 72"/>
+  <path class="rune" d="M279 78 L296 72"/>
+
+  <!-- crystal growths at threshold -->
+  <path class="stone" d="M77 424 L99 379 L123 424 Z"/>
+  <path class="stone" d="M398 424 L424 372 L449 424 Z"/>
+  <path class="thin" d="M99 379 L100 424"/>
+  <path class="thin" d="M424 372 L423 424"/>
+
+  <!-- cracks and cut marks in stone -->
+  <path class="thin" d="M121 181 L121 235"/>
+  <path class="thin" d="M96 280 L86 334"/>
+  <path class="thin" d="M127 337 L115 391"/>
+  <path class="thin" d="M371 145 L374 200"/>
+  <path class="thin" d="M386 250 L408 276"/>
+  <path class="thin" d="M374 340 L392 354 L394 388"/>
+  <path class="thin" d="M181 93 L166 130"/>
+  <path class="thin" d="M320 91 L335 124"/>
+
+  <!-- base plinth -->
+  <rect class="stone" x="75" y="421" width="362" height="47" rx="22" ry="22"/>
+  <path class="thin" d="M140 445 L372 445"/>
+</svg>

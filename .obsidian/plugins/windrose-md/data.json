@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "hexOrientation": "flat",
+  "gridLineColor": "#666666",
+  "gridLineWidth": 1,
+  "backgroundColor": "#1a1a1a",
+  "borderColor": "#8b6842",
+  "coordinateKeyColor": "#c4a57b",
+  "coordinateTextColor": "#ffffff",
+  "coordinateTextShadow": "#000000",
+  "coordinateKeyMode": "hold",
+  "expandedByDefault": false,
+  "canvasHeight": 600,
+  "canvasHeightMobile": 400,
+  "distancePerCellGrid": 5,
+  "distancePerCellHex": 6,
+  "distanceUnitGrid": "ft",
+  "distanceUnitHex": "mi",
+  "gridDiagonalRule": "alternating",
+  "distanceDisplayFormat": "both",
+  "fogOfWarColor": "#000000",
+  "fogOfWarOpacity": 0.9,
+  "fogOfWarImage": "windrose-content/fog/fog-light-marble.jpg",
+  "fogOfWarBlurEnabled": false,
+  "fogOfWarBlurFactor": 0.99,
+  "alwaysShowControls": false,
+  "shapePreviewKbm": true,
+  "shapePreviewTouch": false,
+  "objectOverrides": {},
+  "customObjects": [],
+  "customCategories": [],
+  "installedContentPacks": [
+    {
+      "id": "fog-light-marble",
+      "name": "Light Marble",
+      "type": "fog-pack",
+      "version": "1.0.0",
+      "installedAt": 1781978878908,
+      "vaultPath": "windrose-content/fog"
+    }
+  ],
+  "tilesetFolders": [
+    "zz-Attachments/multicolored-icons"
+  ],
+  "customHexObjects": [
+    {
+      "id": "custom-1782071488302-vlgnh5yss",
+      "label": "Dungeon",
+      "category": "markers",
+      "imagePath": "zz-Attachments/windrose_objects/dungeon_door.svg"
+    }
+  ]
+}
