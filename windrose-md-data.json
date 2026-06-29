@@ -12,7 +12,7 @@
           "label": "Custom 1"
         }
       ],
-      "sidebarCollapsed": false,
+      "sidebarCollapsed": true,
       "expandedState": false,
       "settings": {
         "useGlobalSettings": false,
@@ -26,16 +26,15 @@
           "coordinateTextShadow": "#000000",
           "canvasHeight": 1000,
           "canvasHeightMobile": 400,
-          "fogOfWarColor": "#000000",
+          "fogOfWarColor": "#808080",
           "fogOfWarOpacity": 0.9,
-          "fogOfWarImage": null,
+          "fogOfWarImage": "windrose-content/fog/fog-light-marble.jpg",
           "fogOfWarBlurEnabled": false,
           "fogOfWarBlurFactor": 0.2,
           "alwaysShowControls": false
         },
         "coordinateDisplayMode": "rectangular",
-        "objectSetId": null,
-        "distanceSettings": null
+        "objectSetId": null
       },
       "uiPreferences": {
         "rememberPanZoom": true,
@@ -1397,12 +1396,6 @@
               "opacity": 1
             },
             {
-              "q": 11,
-              "r": 12,
-              "color": "#4ade80",
-              "opacity": 1
-            },
-            {
               "q": 12,
               "r": 12,
               "color": "#4ade80",
@@ -2239,22 +2232,6 @@
               "slot": 0
             },
             {
-              "id": "obj-1781977079428-fne18hk8n",
-              "type": "flag",
-              "position": {
-                "x": 15,
-                "y": 6
-              },
-              "size": {
-                "width": 1,
-                "height": 1
-              },
-              "label": "Note/Flag",
-              "linkedNote": null,
-              "alignment": "center",
-              "slot": 0
-            },
-            {
               "id": "obj-1782071502179-5c3qohorw",
               "type": "custom-1782071488302-vlgnh5yss",
               "position": {
@@ -2266,6 +2243,38 @@
                 "height": 1
               },
               "label": "Dungeon",
+              "linkedNote": null,
+              "alignment": "center",
+              "slot": 0
+            },
+            {
+              "id": "obj-1782685004355-vrk3fjs5c",
+              "type": "bed",
+              "position": {
+                "x": 10,
+                "y": 11
+              },
+              "size": {
+                "width": 1,
+                "height": 1
+              },
+              "label": "Bed",
+              "linkedNote": null,
+              "alignment": "center",
+              "slot": 0
+            },
+            {
+              "id": "obj-1781977079428-fne18hk8n",
+              "type": "flag",
+              "position": {
+                "x": 11,
+                "y": 13
+              },
+              "size": {
+                "width": 1,
+                "height": 1
+              },
+              "label": "Note/Flag",
               "linkedNote": null,
               "alignment": "center",
               "slot": 0
@@ -2286,7 +2295,7 @@
             }
           ],
           "fogOfWar": {
-            "enabled": false,
+            "enabled": true,
             "foggedCells": [
               {
                 "col": 14,
@@ -2333,10 +2342,6 @@
                 "row": 20
               },
               {
-                "col": 11,
-                "row": 19
-              },
-              {
                 "col": 12,
                 "row": 20
               },
@@ -2390,18 +2395,6 @@
               },
               {
                 "col": 14,
-                "row": 12
-              },
-              {
-                "col": 13,
-                "row": 13
-              },
-              {
-                "col": 13,
-                "row": 14
-              },
-              {
-                "col": 14,
                 "row": 15
               },
               {
@@ -2438,82 +2431,10 @@
               },
               {
                 "col": 13,
-                "row": 18
-              },
-              {
-                "col": 12,
-                "row": 19
-              },
-              {
-                "col": 11,
-                "row": 18
-              },
-              {
-                "col": 10,
-                "row": 18
-              },
-              {
-                "col": 9,
-                "row": 18
-              },
-              {
-                "col": 10,
-                "row": 19
-              },
-              {
-                "col": 12,
-                "row": 18
-              },
-              {
-                "col": 13,
                 "row": 17
               },
               {
                 "col": 14,
-                "row": 17
-              },
-              {
-                "col": 12,
-                "row": 17
-              },
-              {
-                "col": 11,
-                "row": 17
-              },
-              {
-                "col": 12,
-                "row": 16
-              },
-              {
-                "col": 13,
-                "row": 15
-              },
-              {
-                "col": 13,
-                "row": 16
-              },
-              {
-                "col": 11,
-                "row": 15
-              },
-              {
-                "col": 11,
-                "row": 14
-              },
-              {
-                "col": 12,
-                "row": 14
-              },
-              {
-                "col": 12,
-                "row": 15
-              },
-              {
-                "col": 10,
-                "row": 17
-              },
-              {
-                "col": 9,
                 "row": 17
               },
               {
@@ -2523,26 +2444,6 @@
               {
                 "col": 7,
                 "row": 18
-              },
-              {
-                "col": 11,
-                "row": 16
-              },
-              {
-                "col": 10,
-                "row": 16
-              },
-              {
-                "col": 9,
-                "row": 15
-              },
-              {
-                "col": 9,
-                "row": 16
-              },
-              {
-                "col": 8,
-                "row": 17
               },
               {
                 "col": 5,
@@ -2665,10 +2566,6 @@
                 "row": 16
               },
               {
-                "col": 10,
-                "row": 15
-              },
-              {
                 "col": 17,
                 "row": 11
               },
@@ -2683,30 +2580,6 @@
               {
                 "col": 15,
                 "row": 11
-              },
-              {
-                "col": 13,
-                "row": 12
-              },
-              {
-                "col": 12,
-                "row": 13
-              },
-              {
-                "col": 11,
-                "row": 13
-              },
-              {
-                "col": 10,
-                "row": 14
-              },
-              {
-                "col": 9,
-                "row": 14
-              },
-              {
-                "col": 8,
-                "row": 15
               },
               {
                 "col": 7,
@@ -2745,28 +2618,8 @@
                 "row": 14
               },
               {
-                "col": 8,
-                "row": 14
-              },
-              {
                 "col": 9,
                 "row": 13
-              },
-              {
-                "col": 10,
-                "row": 13
-              },
-              {
-                "col": 11,
-                "row": 12
-              },
-              {
-                "col": 12,
-                "row": 12
-              },
-              {
-                "col": 13,
-                "row": 11
               },
               {
                 "col": 16,
@@ -2787,14 +2640,6 @@
               {
                 "col": 16,
                 "row": 9
-              },
-              {
-                "col": 12,
-                "row": 11
-              },
-              {
-                "col": 11,
-                "row": 11
               },
               {
                 "col": 10,
@@ -3783,6 +3628,42 @@
               {
                 "col": 14,
                 "row": 10
+              },
+              {
+                "col": 18,
+                "row": 17
+              },
+              {
+                "col": 13,
+                "row": 14
+              },
+              {
+                "col": 11,
+                "row": 11
+              },
+              {
+                "col": 12,
+                "row": 11
+              },
+              {
+                "col": 13,
+                "row": 15
+              },
+              {
+                "col": 8,
+                "row": 17
+              },
+              {
+                "col": 8,
+                "row": 15
+              },
+              {
+                "col": 8,
+                "row": 14
+              },
+              {
+                "col": 9,
+                "row": 14
               }
             ],
             "texture": null
@@ -4321,13 +4202,6 @@
               "layer": "overlay"
             },
             {
-              "q": 11,
-              "r": 12,
-              "tilesetId": "tileset-1sgipq",
-              "tileId": "lightforest",
-              "layer": "overlay"
-            },
-            {
               "q": 10,
               "r": 13,
               "tilesetId": "tileset-1sgipq",
@@ -6307,6 +6181,12 @@
               "tilesetId": "tileset-1sgipq",
               "tileId": "heavyforest",
               "layer": "overlay"
+            },
+            {
+              "q": 11,
+              "r": 12,
+              "tilesetId": "tileset-1sgipq",
+              "tileId": "lightforest"
             }
           ]
         },
@@ -6331,10 +6211,10 @@
         "height": 300
       },
       "viewState": {
-        "zoom": 0.4,
+        "zoom": 0.30000000000000004,
         "center": {
-          "x": 695.8523574210307,
-          "y": 945.1040529649785
+          "x": 2654.897528522919,
+          "y": 3164.7256756863308
         }
       },
       "hexSize": 80,
@@ -6344,16 +6224,6 @@
         "maxRow": 20
       },
       "objectSetId": null,
-      "backgroundImage": {
-        "path": null,
-        "lockBounds": false,
-        "gridDensity": "medium",
-        "customColumns": 24,
-        "sizingMode": "density",
-        "measurementMethod": "corner",
-        "measurementSize": 86,
-        "fineTuneOffset": 0
-      },
       "objects": [],
       "textLabels": [],
       "edges": [],
@@ -6811,7 +6681,81 @@
           ]
         }
       ],
-      "shapeOverlays": []
+      "shapeOverlays": [],
+      "subHexMaps": {
+        "24,7": {
+          "mapData": {
+            "name": "Hex (24, 7)",
+            "description": "",
+            "mapType": "hex",
+            "northDirection": 0,
+            "customColors": [],
+            "sidebarCollapsed": false,
+            "expandedState": false,
+            "settings": {
+              "useGlobalSettings": true,
+              "overrides": {}
+            },
+            "uiPreferences": {
+              "rememberPanZoom": true,
+              "rememberSidebarState": true,
+              "rememberExpandedState": false
+            },
+            "lastTextLabelSettings": null,
+            "schemaVersion": 2,
+            "activeLayerId": "layer-1782685151856-gjdk8lp6p",
+            "layerPanelVisible": false,
+            "layers": [
+              {
+                "id": "layer-1782685151856-gjdk8lp6p",
+                "name": "1",
+                "order": 0,
+                "visible": true,
+                "cells": [],
+                "curves": [],
+                "edges": [],
+                "objects": [],
+                "textLabels": [],
+                "fogOfWar": null,
+                "tiles": []
+              }
+            ],
+            "gridSize": 32,
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "hexSize": 80,
+            "orientation": "flat",
+            "hexBounds": {
+              "maxCol": 15,
+              "maxRow": 15,
+              "maxRing": 7
+            },
+            "viewState": {
+              "zoom": 0.30310889132455354,
+              "center": {
+                "x": 570.3540833307505,
+                "y": 656.728683212557
+              }
+            },
+            "regions": [],
+            "outlines": [],
+            "shapeOverlays": []
+          },
+          "lastModified": "2026-06-28T22:19:19.403Z"
+        }
+      },
+      "backgroundImage": {
+        "path": null,
+        "lockBounds": false,
+        "gridDensity": "medium",
+        "customColumns": 24,
+        "sizingMode": "density",
+        "measurementMethod": "corner",
+        "measurementSize": 86,
+        "fineTuneOffset": 0
+      }
     }
   }
 }

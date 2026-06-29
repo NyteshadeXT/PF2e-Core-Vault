@@ -25,6 +25,7 @@
 - [ ] Do I want to add gems to the items?
 - [ ] Review homebrew items, monsters and hazards from old database for inclusion
 - [ ] Work on tags for monsters to be able to query them in the database
+- [ ] Bandolier?
 
 # Item Generator ToDos
 - [ ] Review Everything Shields material for final inclusion

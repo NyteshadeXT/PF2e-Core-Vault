@@ -26,7 +26,7 @@ invest:
 usage: "Other"
 license: "ORC"
 identify: ""
-description: "This tooth is clean and sharp. The tooth can be crafted into a piece of [[Harvest Compendium Equipment/Monster Precision Ammunition|Monster Precision Ammunition]]."
+description: "This tooth is clean and sharp. The tooth can be crafted into a piece of [[monster-precision-ammunition|Monster Precision Ammunition]]."
 activate: ""
 craft: 
 destruction: 

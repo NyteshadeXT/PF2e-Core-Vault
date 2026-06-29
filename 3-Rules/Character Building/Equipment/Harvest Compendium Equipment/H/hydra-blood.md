@@ -2,34 +2,34 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line  
-name: "prismatic-crystal-shard"  
-aliases: "Prismatic Crystal Shard"  
-source: "Homebrew"  
-pg: ""  
-rarity: ""  
-trait01: "ingredient"  
-trait02: "magical"  
-trait03:  
-trait04:  
-trait05:  
-trait06:  
-trait07:  
-trait08:  
-image: zz-Attachments/prismatic-crystal-shard.png
-level: 1  
-group:  
-bulk: L  
-value: "5"  
-subvalue: "sp"  
-invest:  
-usage: "other"  
-license: "ORC"  
-identify: ""  
-description: "These small crystal fragments naturally occur throughout the Prismatic Canopy. They store trace amounts of ambient magical energy and are commonly purchased by Crystalwrights, alchemists, and crafters. Prismatic Crystal Shards can substitute for 5 sp of raw materials when Crafting magical items, alchemical items, or crystal-based equipment."  
-activate: ""  
-craft:  
-destruction:
+cssclass: pf2e-items, h-line
+name: "hydra-blood"
+aliases: "Hydra Blood"
+source: "Harvest Compendium"
+pg: ""
+rarity: ""
+trait01: "ingredient"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 1
+group: 
+bulk: "L"
+value: "2"
+subvalue: "gp"
+invest: 
+usage: ""
+license: "ORC"
+identify: ""
+description: "This blood is dense and heavy. The blood can be used to craft an [[elixir-of-life-minor|Elixir of Life]] or a [[healing-potion-minor|Healing Potion]]."
+activate: ""
+craft: 
+destruction: 
 
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
@@ -142,7 +142,5 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
-
 
 

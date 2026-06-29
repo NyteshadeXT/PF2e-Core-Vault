@@ -159,7 +159,7 @@ tags:
 | `dice: 4d6` Bulk of [[raw-meat\|Raw Meat]]                                     | 
 | `dice: 4d6` [[hydra-teeth\|Hydra Teeth]]          |
 | `dice: 1d6` Sections of [[animal-hide\|Animal Hide]]                           |
-| `dice: 3d6` Vials of [[Hydra Blood\|Hydra Blood]] |
+| `dice: 3d6` Vials of [[hydra-blood\|Hydra Blood]] |
 
 ## [[Monster Core/Hyena|Hyena]]
 

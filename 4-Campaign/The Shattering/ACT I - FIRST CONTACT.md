@@ -265,6 +265,7 @@ This region is far from safe, but the most subtle danger to the PCs comes in the
 > **Critical Failure** The campsite is disastrously exposed. The party chooses a poor location, fails to notice environmental hazards, or inadvertently attracts attention from the forest itself. Crystalline resonance, predators, insects, shifting roots, or unstable terrain make proper rest impossible. The PCs gain no benefits from resting and become [[Fatigued]]. In addition, each PC must attempt a Fortitude save against **[[prismatic-contamination-hb|Prismatic Contamination]]**. At the GM’s discretion, a Critical Failure may also automatically trigger a nighttime encounter or dangerous environmental complication.
 
 #### Prismatic Canopy Random Encounters
+`dice: 1d100`
 `dice: [[ACT I - FIRST CONTACT#^PrismaticRandom]]`
 
 | Count | Encounter                                                                                                 |
@@ -289,10 +290,10 @@ This region is far from safe, but the most subtle danger to the PCs comes in the
 | 18    | [[#Prismatic Canopy Random Encounter Echo Flowers Repeat Conversation\|Echo Flowers Repeat Conversation]] |
 | 19    | [[#Prismatic Canopy Random Encounter Resonance Wolves\|Resonance Wolves]]                                 |
 | 20    | [[#Prismatic Canopy Random Encounter Prism Widow Nest\|Prism Widow Nest]]                                 |
-| 21    | [[#Prismatic Canopy Random Encounter Resonant Burrower\|Resonant Burrower]])                              |
-| 22    | [[#Prismatic Canopy Random Encounter Gravity Scar\|Gravity Scar]])                                        |
-| 23    | [[#Prismatic Canopy Random Encounter Missing Expedition\|Missing Expedition]])                            | 
-| 24    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive]])                      |
+| 21    | [[#Prismatic Canopy Random Encounter Resonant Burrower\|Resonant Burrower]]                              |
+| 22    | [[#Prismatic Canopy Random Encounter Gravity Scar\|Gravity Scar]]                                        |
+| 23    | [[#Prismatic Canopy Random Encounter Missing Expedition\|Missing Expedition]]                            | 
+| 24    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive]]                      |
 ^PrismaticRandom
 
 ### Prismatic Canopy Random Encounter: Crystalback Razorboars
@@ -383,7 +384,7 @@ creatures:
 > Whenever a Prismwing Stalker successfully uses [[Sneak]] or gains [[Off-Guard]] against a creature, the target must succeed at a DC 19 [[Skills#Perception|Perception]] check or become [[dazzled]] until the start of its next turn due to refracted flashes of light.
 
 #### Tactics
-Prismwing Stalkers are ambush predators. Theyavoid direct frontal assaults whenever possible relying on mobility, flanking, and confusion rather than brute force. The stalkers retreat into dense foliage whenever possible before striking again.
+Prismwing Stalkers are ambush predators. They avoid direct frontal assaults whenever possible relying on mobility, flanking, and confusion rather than brute force. The stalkers retreat into dense foliage whenever possible before striking again.
 
 Two stalkers attempt to circle behind the party while the others pressure isolated targets. They use mobility aggressively, darting through terrain and retreating into concealment after attacking. The pack instinctively focuses on separated creatures, visibly wounded prey, or spellcasters lingering away from the group.
 
@@ -572,12 +573,9 @@ If reduced below one-third HP, the creature becomes increasingly aggressive rath
 **Unstable Shoreline** Certain sections of shoreline are soft and unstable. A creature ending its turn in these spaces must succeed at a DC 18 Reflex save or become [[off-guard]] until the start of its next turn.
 
 > [!tip]+ Treasure
-> If the Assassin Vine are harvested check the table below. Searching the cocooned remains reveals 4 gp, 10 sp and a [[healing-potion-lesser|Healing Potion (Lesser)]].
+> If the Hydra is harvested check the table below. 
 >
 > - [[H.#3-Rules/Bestiaries/Monster Core/H/Hydra Hydra|Hydra Harvest]]
-> - [ ] gp::7
-> - [ ] consumable::[[tallow-bomb-(moderate)|Tallow Bomb (Moderate)]] [ilvl::3] [gp::10]
-> - [ ] consumable::[[disguise-kit-elite|Disguise Kit (Elite)]] [ilvl::3] [gp::40]
 
 [[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
@@ -880,7 +878,7 @@ Characters investigating the clearing may learn:
 |Occultism|20|Similar storms occur more frequently near areas of magical instability.|
 
 > [!tip]+ Treasure
-> After the storm passes, characters may spend 10 minutes searching the area. A character may attempt a DC 20 [[Skills#Survival|Survival]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check. On **Critical Success** the characters recover `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shards]] + 1 for every character participating in the search.  A **Success** results in the discovery of `1d4` shards.
+> After the storm passes, characters may spend 10 minutes searching the area. A character may attempt a DC 20 [[Skills#Survival|Survival]],  [[Skills#Nature|Nature]],  or [[Skills#Crafting|Crafting]],  check. On **Critical Success** the characters recover `dice: 2d4` [[prismatic-crystal-shard|Prismatic Crystal Shards]] + 1 for every character participating in the search.  A **Success** results in the discovery of `dice: 1d4` shards.
 >
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5] 
 
