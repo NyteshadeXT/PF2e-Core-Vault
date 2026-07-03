@@ -27,8 +27,8 @@
           "canvasHeight": 1000,
           "canvasHeightMobile": 400,
           "fogOfWarColor": "#808080",
-          "fogOfWarOpacity": 0.9,
-          "fogOfWarImage": "windrose-content/fog/fog-light-marble.jpg",
+          "fogOfWarOpacity": 1,
+          "fogOfWarImage": "windrose-content/fog/fog-watercolor.jpg",
           "fogOfWarBlurEnabled": false,
           "fogOfWarBlurFactor": 0.2,
           "alwaysShowControls": false
@@ -6211,10 +6211,10 @@
         "height": 300
       },
       "viewState": {
-        "zoom": 0.30000000000000004,
+        "zoom": 0.5,
         "center": {
-          "x": 2654.897528522919,
-          "y": 3164.7256756863308
+          "x": 1124.2546713800627,
+          "y": 2006.6453185434739
         }
       },
       "hexSize": 80,
@@ -6745,16 +6745,6 @@
           },
           "lastModified": "2026-06-28T22:19:19.403Z"
         }
-      },
-      "backgroundImage": {
-        "path": null,
-        "lockBounds": false,
-        "gridDensity": "medium",
-        "customColumns": 24,
-        "sizingMode": "density",
-        "measurementMethod": "corner",
-        "measurementSize": 86,
-        "fineTuneOffset": 0
       }
     }
   }

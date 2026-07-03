@@ -20,7 +20,7 @@
   "distanceDisplayFormat": "both",
   "fogOfWarColor": "#000000",
   "fogOfWarOpacity": 0.9,
-  "fogOfWarImage": "windrose-content/fog/fog-light-marble.jpg",
+  "fogOfWarImage": "windrose-content/fog/fog-watercolor.jpg",
   "fogOfWarBlurEnabled": false,
   "fogOfWarBlurFactor": 0.99,
   "alwaysShowControls": false,
@@ -36,6 +36,30 @@
       "type": "fog-pack",
       "version": "1.0.0",
       "installedAt": 1781978878908,
+      "vaultPath": "windrose-content/fog"
+    },
+    {
+      "id": "fog-watercolor",
+      "name": "Dark Watercolor",
+      "type": "fog-pack",
+      "version": "1.0.0",
+      "installedAt": 1782765293719,
+      "vaultPath": "windrose-content/fog"
+    },
+    {
+      "id": "fog-dark-marble",
+      "name": "Dark Marble",
+      "type": "fog-pack",
+      "version": "1.0.0",
+      "installedAt": 1782765294778,
+      "vaultPath": "windrose-content/fog"
+    },
+    {
+      "id": "fog-neutral",
+      "name": "Neutral Fog",
+      "type": "fog-pack",
+      "version": "1.0.0",
+      "installedAt": 1782765296913,
       "vaultPath": "windrose-content/fog"
     }
   ],

@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "9837645681c2f8e8",
-            "type": "leaf",
-            "dimension": 14.285714285714286,
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "note",
-                  "path": "1-GM Toolkit/Idea Book/Windrose Map Test.md"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
             "id": "fbce5160498990a8",
             "type": "leaf",
             "state": {
@@ -80,49 +64,35 @@
             }
           },
           {
-            "id": "a5d1cd5af7257542",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Harvesting Creatures"
-            }
-          },
-          {
             "id": "6b436a54b344c3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
+                "file": "1-GM Toolkit/Expedition_Challenges.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
+              "title": "Expedition_Challenges"
             }
           },
           {
-            "id": "b9ba17fe4cfb75ba",
+            "id": "4fdc93b94f491cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+                "file": "3-Rules/Conditions/Cursebound.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Windrose Map Test"
+              "title": "Cursebound"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,17 +243,17 @@
             }
           },
           {
-            "id": "ca2dafdcd55c65e5",
+            "id": "c6ffb7f936edafe6",
             "type": "leaf",
             "state": {
               "type": "time-calendar-view",
               "state": {},
               "icon": "calendar",
-              "title": "TTRPG Tools: Time"
+              "title": "TTRPG Tools - Time"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "5b7dff7ad016ea39",
@@ -295,7 +265,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_4bcb8b185b28",
+                "creatureId": "ID_5beaba6bdb89",
                 "creatureName": "Hydra"
               },
               "icon": "initiative-tracker-creature-view",
@@ -327,34 +297,48 @@
       "helpmate:HelpMate": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-kanban:Create new board": false,
-      "ttrpg-tools-time:Open ttrpg tools: time": false,
-      "ttrpg-tools-time:Open ttrpg tools: time day view": false,
-      "ttrpg-tools-time:Open ttrpg tools: time event editor": false,
-      "windrose-md:Open Windrose Map": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: day view": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Event editor": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Controls": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9ba17fe4cfb75ba",
+  "active": "4fdc93b94f491cb0",
   "lastOpenFiles": [
-    "zz-Attachments/image.png",
-    "zz-Templates/Markdown/Insert Item.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/H/hydra-blood.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/H..md",
+    "3-Rules/Conditions/Cursebound.md",
+    "1-GM Toolkit/Expedition_Challenges.md",
+    "3-Rules/Conditions/Controlled.md",
+    "3-Rules/Conditions/Confused.md",
+    "3-Rules/Conditions/Concealed.md",
+    "3-Rules/Conditions/Broken.md",
+    "3-Rules/Conditions/Blinded.md",
+    "3-Rules/Skills.md",
+    "1-GM Toolkit/Idea Book/1-trait_summary.md",
+    "3-Rules/Character Building/Actions/A Challenge for Heroes.md",
     "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/H/hydra-teeth.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/A/animal-hide.md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "1-GM Toolkit/AoW Adventure Loot.md",
     "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
     "1-GM Toolkit/Idea Book/ToDo List.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/D..md",
-    "3-Rules/Character Building/Equipment/Homebrew/P/prismatic-crystal-shard.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "1-GM Toolkit/Idea Book/The Seer's Fate - Shop Example.md",
+    "1-GM Toolkit/Idea Book/Template - NPC.md",
+    "1-GM Toolkit/Idea Book/Settlement Template Ideas.md",
+    "1-GM Toolkit/Idea Book/Random_Jewelry_Table.md",
+    "1-GM Toolkit/Idea Book/Random_Gems_Table.md",
+    "1-GM Toolkit/Idea Book/NPCGen.md",
+    "1-GM Toolkit/Idea Book/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
+    "1-GM Toolkit/Idea Book/Buttons.md",
     "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-    "5-World/Deities/Aegis.md",
+    "TTRPG/Time/event-source",
+    "3-Rules/Dungeons/Attunement.md",
+    "windrose-content/fog/fog-parchment.jpg",
+    "windrose-content/fog/fog-dark-marble.jpg",
+    "windrose-content/fog/fog-watercolor.jpg",
+    "zz-Attachments/image.png",
     "zz-Attachments/Age of Worms-20241013135345875.webp",
     "zz-Attachments/Aegis Holy Symbol.png",
     "zz-Attachments/windrose_objects/dungeon_door.svg",
@@ -364,23 +348,11 @@
     "windrose-md-data.json",
     "zz-Attachments/multicolored-icons/multicolored-icons/whaling.png",
     "zz-Attachments/multicolored-icons/multicolored-icons/volcanodormant.png",
-    "zz-Attachments/multicolored-icons/multicolored-icons/tower.png",
-    "zz-Attachments/multicolored-icons/multicolored-icons/temple.png",
-    "zz-Attachments/multicolored-icons/multicolored-icons/tank.png",
-    "zz-Attachments/multicolored-icons/multicolored-icons/swamp.png",
     "zz-Attachments/multicolored-icons/multicolored-icons/multicolored.properties",
     "zz-Attachments/multicolored-icons/multicolored-icons",
     "zz-Attachments/multicolored-icons",
     "windrose-content/fog",
     "windrose-content",
-    "5-World/Settlements/Springrun.md",
-    "4-Campaign/Age of Worms/Completed/The Hall of Harsh Reflections.md",
-    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
-    "4-Campaign/The Shattering/Campaign Planning.md",
-    "4-Campaign/Potential Future Campaigns.md",
-    "4-Campaign/The Shattering/Daeodoon.md",
-    "4-Campaign/The Shattering/Temp Act1.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/V"
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W"
   ]
 }
