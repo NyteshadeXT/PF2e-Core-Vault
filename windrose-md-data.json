@@ -2267,8 +2267,8 @@
               "id": "obj-1781977079428-fne18hk8n",
               "type": "flag",
               "position": {
-                "x": 11,
-                "y": 13
+                "x": 12,
+                "y": 10
               },
               "size": {
                 "width": 1,
@@ -2375,18 +2375,6 @@
               },
               {
                 "col": 17,
-                "row": 16
-              },
-              {
-                "col": 16,
-                "row": 16
-              },
-              {
-                "col": 15,
-                "row": 15
-              },
-              {
-                "col": 17,
                 "row": 12
               },
               {
@@ -2399,26 +2387,6 @@
               },
               {
                 "col": 14,
-                "row": 16
-              },
-              {
-                "col": 15,
-                "row": 16
-              },
-              {
-                "col": 16,
-                "row": 17
-              },
-              {
-                "col": 15,
-                "row": 17
-              },
-              {
-                "col": 14,
-                "row": 18
-              },
-              {
-                "col": 14,
                 "row": 19
               },
               {
@@ -2428,14 +2396,6 @@
               {
                 "col": 13,
                 "row": 19
-              },
-              {
-                "col": 13,
-                "row": 17
-              },
-              {
-                "col": 14,
-                "row": 17
               },
               {
                 "col": 8,
@@ -3644,10 +3604,6 @@
               {
                 "col": 12,
                 "row": 11
-              },
-              {
-                "col": 13,
-                "row": 15
               },
               {
                 "col": 8,
@@ -6211,10 +6167,10 @@
         "height": 300
       },
       "viewState": {
-        "zoom": 0.5,
+        "zoom": 0.4,
         "center": {
-          "x": 1124.2546713800627,
-          "y": 2006.6453185434739
+          "x": 1655.717343295753,
+          "y": 3022.4000589406096
         }
       },
       "hexSize": 80,
@@ -6744,7 +6700,75 @@
             "shapeOverlays": []
           },
           "lastModified": "2026-06-28T22:19:19.403Z"
+        },
+        "12,10": {
+          "mapData": {
+            "name": "Hex (12, 10)",
+            "description": "",
+            "mapType": "hex",
+            "northDirection": 0,
+            "customColors": [],
+            "sidebarCollapsed": false,
+            "expandedState": false,
+            "settings": {
+              "useGlobalSettings": true,
+              "overrides": {}
+            },
+            "uiPreferences": {
+              "rememberPanZoom": true,
+              "rememberSidebarState": true,
+              "rememberExpandedState": false
+            },
+            "lastTextLabelSettings": null,
+            "schemaVersion": 2,
+            "activeLayerId": "layer-1783299248339-hvg53abi7",
+            "layerPanelVisible": false,
+            "layers": [
+              {
+                "id": "layer-1783299248339-hvg53abi7",
+                "name": "1",
+                "order": 0,
+                "visible": true,
+                "cells": [],
+                "curves": [],
+                "edges": [],
+                "objects": [],
+                "textLabels": [],
+                "fogOfWar": null
+              }
+            ],
+            "gridSize": 32,
+            "dimensions": {
+              "width": 300,
+              "height": 300
+            },
+            "hexSize": 80,
+            "orientation": "flat",
+            "hexBounds": {
+              "maxCol": 15,
+              "maxRow": 15,
+              "maxRing": 7
+            },
+            "viewState": {
+              "zoom": 0.30310889132455354,
+              "center": {
+                "x": 0,
+                "y": 0
+              }
+            }
+          },
+          "lastModified": "2026-07-06T00:54:15.854Z"
         }
+      },
+      "backgroundImage": {
+        "path": null,
+        "lockBounds": false,
+        "gridDensity": "medium",
+        "customColumns": 24,
+        "sizingMode": "density",
+        "measurementMethod": "corner",
+        "measurementSize": 86,
+        "fineTuneOffset": 0
       }
     }
   }

@@ -1,12 +1,12 @@
 ---
-destination: Unknown
-hexDistance: 10
-regionModifier: 0
+destination: Springrun
+hexDistance: 8
+regionModifier: 2
 terrainModifier: 0
-currentVP: 5
+currentVP: 16
 currentResonance: 2
 checkResult: 0
-currentPressure: 1
+currentPressure: 3
 currentReadiness: 4
 ---
 
@@ -16,9 +16,9 @@ currentReadiness: 4
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Destination:**                | `INPUT[text:destination]`                                                                                                                                                                                                                                                                                             |
 | **Hex Distance:**               | `INPUT[number:hexDistance]`                                                                                                                                                                                                                                                                                           |
-| **Region Modifier:**            | `INPUT[inlineSelect(option(0, Prismatic Canopy), option(2, Deep Wilds), option(4, Dungeon-Touched)):regionModifier]`                                                                                                                                                                                                  | 
+| **Region Modifier:**            | `INPUT[inlineSelect(option(0, Prismatic Canopy), option(2, Forest), option(4, Dungeon-Touched)):regionModifier]`                                                                                                                                                                                                  | 
 | **Terrain / Weather Modifier:** | `INPUT[inlineSelect(option(0, Normal), option(1, Difficult), option(2, Severe), option(3, Extreme)):terrainModifier]`                                                                                                                                                                                                 |
-| **VP Target:**                  | `VIEW[round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})]`                                                                                                                                                                                                             |
+| **VP Target:**                  | `VIEW[round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + ({regionModifier} * {hexDistance}) + {terrainModifier})]`                                                                                                                                                                                                             |
 | **Current VP:**                 | `INPUT[number:currentVP]`                                                                                                                                                                                                                                                                                             |
 | **Current Pressure:**             | `INPUT[number:currentPressure]`                                                                                                                                                                                                                                                                                         |
 | **Pressure State:**               | `VIEW[string({currentPressure} == 0 ? "Calm" : {currentPressure} == 1 ? "Tense" : {currentPressure} == 2 ? "Perilous" : {currentPressure} == 3 ? "Dire" : "Imminent Danger")]`                                                                                                                                                |
@@ -42,10 +42,12 @@ currentReadiness: 4
 | Expedition Progress |  |
 |---|---|
 | **Destination:** | `VIEW[string({destination})]` |
+| **Readiness:** | `VIEW[string({currentReadiness} >= 4 ? "Ready" : {currentReadiness} == 3 ? "Steady" : {currentReadiness} == 2 ? "Worn" : {currentReadiness} == 1 ? "Strained" : "Compromised")]`|
+| **Pressure:** | `VIEW[string({currentPressure} == 0 ? "Calm" : {currentPressure} == 1 ? "Tense" : {currentPressure} == 2 ? "Perilous" : {currentPressure} == 3 ? "Dire" : "Imminent Danger")]`|
 | **Status:** | `VIEW[string({currentVP} == 0 ? "Preparing Expedition" : {currentVP} >= round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier}) ? "Arrived at Destination" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? "Departed" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? "Making Good Progress" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? "Over Halfway There" : "Destination in Sight")]` |
 | **Route:** | `VIEW[string({currentVP} == 0 ? "🏠 ●──○──○──○──○──○──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.125 ? "🏠 ○──●──○──○──○──○──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? "🏠 ○──○──●──○──○──○──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.375 ? "🏠 ○──○──○──●──○──○──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? "🏠 ○──○──○──○──●──○──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.625 ? "🏠 ○──○──○──○──○──●──○──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? "🏠 ○──○──○──○──○──○──●──○ 💎" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 1 ? "🏠 ○──○──○──○──○──○──○──● 💎" : "🏠 ○──○──○──○──○──○──○──✓ 💎")]` |
 
-## Readiness Adjustments
+# Readiness Adjustments
 
 | Situation                                              | Readiness Change |
 | ------------------------------------------------------ |:----------------:|
@@ -58,7 +60,7 @@ currentReadiness: 4
 | Comfortable/full camp in safe location                 |        +1        |
 | Rest day in secure location                            |    Reset to 4    |
 
-## Pressure Adjustments
+# Pressure Adjustments
 At the end of each successful expedition day, reduce Pressure by 1 (minimum 0), unless an encounter or major complication occurred that day.  Additional adjustments are below.
 
 | Event                                |  Pressure  |
