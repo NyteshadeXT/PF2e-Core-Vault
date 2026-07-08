@@ -3,7 +3,6 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian42-brat",
-  "buttons",
   "calendarium",
   "obsidian-charts",
   "obsidian-chartsview-plugin",
@@ -34,5 +33,7 @@
   "various-complements",
   "image-converter",
   "ttrpg-tools-time",
-  "windrose-md"
+  "windrose-md",
+  "js-engine",
+  "pf2e-statblocks"
 ]

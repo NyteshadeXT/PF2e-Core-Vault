@@ -3,13 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "arboreal-bark-strips"
+aliases: "Arboreal Bark Strips"
+source: "Harvest Compendium"
+pg: ""
 rarity: ""
-trait01: "magical"
-trait02: ""
+trait01: "consumable"
+trait02: "creature-component"
 trait03: ""
 trait04:
 trait05:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 2
 group: 
-bulk: 
-value: "200"
+bulk: "L"
+value: "5"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "This bark is overgrown with moss and is highly flammable."
 activate: ""
 craft: 
 destruction: 
@@ -34,15 +34,15 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: ""
-actionEconomy1: 
-type1: 
+powerTitle1: "Effect"
+actionEconomy1: " `pf2:0`"
+type1: "([[manipulate]])"
 frequency1: 
 requirement1:
-trigger1:
+trigger1: "You cast a spell that requires you to roll fire damage."
 activate1: 
 duration1: 
-mechanics1: ""
+mechanics1: "When you activate the bark and roll damage for the spell, you roll 1 additional die of fire damage."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

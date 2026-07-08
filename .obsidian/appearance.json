@@ -14,7 +14,8 @@
     "pf2e-traits",
     "pf2e-spell",
     "S - Encoded Fonts",
-    "statblock-side-by-side"
+    "statblock-side-by-side",
+    "pf2estatblock extension"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 15
 }

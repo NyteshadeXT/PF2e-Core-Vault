@@ -268,33 +268,45 @@ This region is far from safe, but the most subtle danger to the PCs comes in the
 `dice: 1d100`
 `dice: [[ACT I - FIRST CONTACT#^PrismaticRandom]]`
 
-| Count | Encounter                                                                                                 |
-| ----- | --------------------------------------------------------------------------------------------------------- |
-| 1     | [[#Prismatic Canopy Random Encounter Crystalback Razorboars\|Crystalback Razorboars]]                     |
-| 2     | [[#Prismatic Canopy Random Encounter Prismwing Stalkers\|Prismwing Stalkers]]                             |
-| 3     | [[#Prismatic Canopy Random Encounter Ankhrav Foragers\|Ankhrav Foragers]]                                 |
-| 4     | [[#Prismatic Canopy Random Encounter Razervine Tanglers\|Razervine Tanglers]]                             |
-| 5     | [[#Prismatic Canopy Random Encounter Crystal-Touched Hydra\|Crystal-Touched Hydra]]                       |
-| 6     | [[#Prismatic Canopy Random Encounter Hollow Stalker\|Hollow Stalker]]                                     |
-| 7     | [[#Prismatic Canopy Random Encounter Shimmer Fog\|Shimmer Fog]]                                           |
-| 8     | [[#Prismatic Canopy Random Encounter Glass Rain\|Glass Rain]]                                             |
-| 9     | [[#Prismatic Canopy Random Encounter Crystal Bloom\|Crystal Bloom]]                                       |
-| 10    | [[#Prismatic Canopy Random Encounter Resonant Thunder\|Resonant Thunder]]                                 |
-| 11    | [[#Prismatic Canopy Random Encounter Prismatic Windstorm\|Prismatic Windstorm]]                           |
-| 12    | [[#Prismatic Canopy Random Encounter Abandoned Campsite\|Abandoned Campsite]]                             |
-| 13    | [[#Prismatic Canopy Random Encounter Crystal Cache\|Crystal Cache]]                                       |
-| 14    | [[#Prismatic Canopy Random Encounter Old Caravan Tracks\|Old Caravan Tracks]]                             |
-| 15    | [[#Prismatic Canopy Random Encounter Monster Corpse\|Monster Corpse]]                                     |
-| 16    | [[#Prismatic Canopy Random Encounter Castlemere Patrol\|Castlemere Patrol]] (Canopy Only)                 |
-| 17    | [[#Prismatic Canopy Random Encounter Springrun Surveyors\|Springrun Surveyors]] (Canopy Only)             |
-| 18    | [[#Prismatic Canopy Random Encounter Echo Flowers Repeat Conversation\|Echo Flowers Repeat Conversation]] |
-| 19    | [[#Prismatic Canopy Random Encounter Resonance Wolves\|Resonance Wolves]]                                 |
-| 20    | [[#Prismatic Canopy Random Encounter Prism Widow Nest\|Prism Widow Nest]]                                 |
-| 21    | [[#Prismatic Canopy Random Encounter Resonant Burrower\|Resonant Burrower]]                              |
-| 22    | [[#Prismatic Canopy Random Encounter Gravity Scar\|Gravity Scar]]                                        |
-| 23    | [[#Prismatic Canopy Random Encounter Missing Expedition\|Missing Expedition]]                            | 
-| 24    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive]]                      |
+| Count | Encounter                                                                                                       |
+| ----- | --------------------------------------------------------------------------------------------------------------- |
+| 1     | [[#Prismatic Canopy Random Encounter Crystalback Razorboars\|Crystalback Razorboars (Moderate)]]                |
+| 2     | [[#Prismatic Canopy Random Encounter Prismwing Stalkers\|Prismwing Stalkers (Low)]]                             |
+| 3     | [[#Prismatic Canopy Random Encounter Ankhrav Foragers\|Ankhrav Foragers (Low)]]                                 |
+| 4     | [[#Prismatic Canopy Random Encounter Razervine Tanglers\|Razervine Tanglers (Low)]]                             |
+| 5     | [[#Prismatic Canopy Random Encounter Crystal-Touched Hydra\|Crystal-Touched Hydra (Low)]]                       |
+| 6     | [[#Prismatic Canopy Random Encounter Hollow Stalker\|Hollow Stalker (Moderate]]                                 |
+| 7     | [[#Prismatic Canopy Random Encounter Shimmer Fog\|Shimmer Fog (Low)]]                                           |
+| 8     | [[#Prismatic Canopy Random Encounter Glass Rain\|Glass Rain (Low)]]                                             |
+| 9     | [[#Prismatic Canopy Random Encounter Crystal Bloom\|Crystal Bloom (Low)]]                                       |
+| 10    | [[#Prismatic Canopy Random Encounter Resonant Thunder\|Resonant Thunder (Low)]]                                 |
+| 11    | [[#Prismatic Canopy Random Encounter Prismatic Windstorm\|Prismatic Windstorm (Low)]]                           |
+| 12    | [[#Prismatic Canopy Random Encounter Abandoned Campsite\|Abandoned Campsite (Low)]]                             |
+| 13    | [[#Prismatic Canopy Random Encounter Crystal Cache\|Crystal Cache (Low)]]                                       |
+| 14    | [[#Prismatic Canopy Random Encounter Old Caravan Tracks\|Old Caravan Tracks (Low)]]                             |
+| 15    | [[#Prismatic Canopy Random Encounter Monster Corpse\|Monster Corpse]]                                           |
+| 16    | [[#Prismatic Canopy Random Encounter Castlemere Patrol\|Castlemere Patrol (Low)]] (Canopy Only)                 |
+| 17    | [[#Prismatic Canopy Random Encounter Springrun Surveyors\|Springrun Surveyors (Low)]] (Canopy Only)             |
+| 18    | [[#Prismatic Canopy Random Encounter Echo Flowers Repeat Conversation\|Echo Flowers Repeat Conversation (Low)]] |
+| 19    | [[#Prismatic Canopy Random Encounter Resonance Wolves\|Resonance Wolves (Moderate)]]                            |
+| 20    | [[#Prismatic Canopy Random Encounter Prism Widow Nest\|Prism Widow Nest (Moderate)]]                            |
+| 21    | [[#Prismatic Canopy Random Encounter Resonant Burrower\|Resonant Burrower (Severe)]]                            |
+| 22    | [[#Prismatic Canopy Random Encounter Gravity Scar\|Gravity Scar (Low)]]                                         |
+| 23    | [[#Prismatic Canopy Random Encounter Missing Expedition\|Missing Expedition (Low)]]                             |
+| 24    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive (Low)]]                       |
+| 25    | [[#Prismatic Canopy Random Encounter Crystalhide Ankylosaurus\|Crystalhide Ankylosaurus (Severe)]]              | 
+| 26    | [[#Prismatic Canopy Random Encounter Hollow Grove Treants\|Hollow Grove Treants (Severe)]]                      |
+| 27    | [[#Prismatic Canopy Random Encounter Seeker Gone Obsessive\|Seeker Gone Obsessive (Low)]]                       |
 ^PrismaticRandom
+ 
+#### Prismatic Canopy Story Encounters
+
+| Count | Encounter                                                                  |
+| ----- | -------------------------------------------------------------------------- |
+| 1     | [[#Prismatic Canopy Set Encounter The Crystal Giant\|The Crystal Giant]]   |
+| 2     | [[#Prismatic Canopy Set Encounter The Hollow Market\|The Hollow Market]]   |
+| 3     | [[#Deep Wilds Set Encounter The Heartroot\|The Heartroot]]                 |
+| 4     | [[#Deep Wilds Set Encounter The Crystal Graveyard\|The Crystal Graveyard]] | 
 
 ### Prismatic Canopy Random Encounter: Crystalback Razorboars
 - [ ] Moderate (80 XP) Level 5
@@ -1499,6 +1511,155 @@ On failure, he politely refuses, promising he'll return "after one more observat
 
 [[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
 
+### Prismatic Canopy Random Encounter: Crystalhide Ankylosaurus
+- [ ] Severe (120 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest floor is churned into deep trenches where enormous feet have passed. Several young trees have been snapped cleanly in half, their trunks glittering with fresh crystal splinters. 
+> 
+> A low, vibrating bellow rolls through the woods. Branches explode outward as two massive horned beasts burst from the undergrowth, crystal-encrusted hide shimmering like stained glass in the afternoon sun.
+
+**Description** The Crystalhorn Ankylosaurus are normally peaceful grazers that migrate through the Prismatic Canopy. Recently, the crystal growths along their bony hides have begun resonating with one another, causing entire herds to panic when startled. The party encounters two adults separated from the rest of the herd, frightened and dangerously aggressive.
+
+Unlike predators, these creatures aren't trying to kill the party—they're simply trying to remove a perceived threat.
+
+A DC 20 [[Skills#Nature|Nature]] check reveals that these animals aren't corrupted. They're terrified. 
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[3-Rules/Bestiaries/Monster Core/A/Ankylosaurus|Ankylosaurus]]
+
+```encounter
+name: Random One - Crystalhide Ankylosaurus
+party:  The Shattering
+creatures:
+  - 2: [[Ankylosaurus, Crystalhide Ankylosaurus]]
+```
+
+#### Tactics
+Both creatures Charge immediately. They attempt to separate the party. If one falls, the other fights with reckless determination before attempting to flee.
+
+#### Features of the Area
+**Broken Trees and Fallen Logs** Broken trees provide cover while fallen logs in the area create difficult terrain.
+
+> [!tip]+ Treasure
+> If the Ankylosaurus are harvested check the tables below.
+> 
+> - [[d.#3-Rules/Bestiaries/Monster Core/A/Ankylosaurus Ankylosaurus|Ankylosaurus Harvest]]
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: Hollow Grove Treants
+- [ ] Severe (120 XP) Level 5
+
+> [!note]+ Read Aloud
+> The trees seem unusually symmetrical. Too symmetrical.
+> 
+> As you step farther into the grove, enormous roots slowly pull themselves from the earth. Two towering trees straighten into impossible shapes. Ancient eyes open within the bark. 
+> 
+> It looks as if the forest has decided you do not belong.
+
+**Description** These ancient guardians once watched over a sacred grove long forgotten by civilization. The increasing resonance leaking from the Deep Wilds has made them suspicious of all intruders.
+
+Unlike ordinary arboreals, crystalline veins run through their bark, glowing softly whenever they speak or move.
+
+The players may attempt either [[Skills#Diplomacy|Diplomacy]] or [[Skills#Nature|Nature]] at DC 22 to diffuse the situation. The Wardens will talk about a time when the crystal growths were small. They know the forest is changing. They simply don't understand why.
+
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Arboreal Sapstriker|Arboreal Sapstriker]]
+
+```encounter
+name: Random One - Hollow Grove Treants
+party:  The Shattering
+creatures:
+  - 2: [[Arboreal Sapstriker]]
+```
+
+#### Tactics
+Each Warden controls different sections of the battlefield. They attempt to separate the party with roots and focus attacks on anyone damaging nearby trees.
+
+If reduced below one-third HP, one attempts negotiation rather than continuing the fight.
+
+#### Features of the Area
+**Undergrowth** Dense undergrowth makes the entire combat area difficult terrain.
+**Flowers** Crystal flowers shed a brilliant light increasing all attempts at [[Skills#Stealth|Stealth]] a Hard DC.
+
+> [!tip]+ Treasure
+> If the Arboreal Sapstrikers are slain they may harvested.  Check the table below. If either are spared, the creatures reveal a hidden cache of forgotten explorer supplies.  There the players find the following: [[aeon-stone-azure-briolette|Aeon Stone (Azure Briolette)]], [[healing-potion-moderate|Healing Potion (Moderate)]] x2 and [[crystal-shards-moderate|Crystal Shards (Moderate)]] x2.
+> 
+> - [[d.#3-Rules/Bestiaries/Monster Core/A/Ankylosaurus Ankylosaurus|Ankylosaurus Harvest]]
+> - [ ] permanent::[[aeon-stone-azure-briolette|Aeon Stone (Azure Briolette)]] [ilvl::4] [gp::85] 
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50] 
+> - [ ] consumable::[[healing-potion-moderate|Healing Potion (Moderate)]] [ilvl::6] [gp::50] 
+> - [ ] consumable::[[crystal-shards-moderate|Crystal Shards (Moderate)]] [ilvl::4] [gp::16] 
+> - [ ] consumable::[[crystal-shards-moderate|Crystal Shards (Moderate)]] [ilvl::4] [gp::16] 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
+### Prismatic Canopy Random Encounter: The Glass Garden
+- [ ] Severe (120 XP) Level 5
+
+> [!note]+ Read Aloud
+> The forest gradually falls silent. Birdsong disappears and even the insects seem unwilling to cross the narrow ravine ahead.
+> 
+> Crystal formations blanket the stone walls, catching shafts of sunlight and scattering them into hundreds of shifting rainbows. At first glance, dozens of beautiful crystal statues stand throughout the clearing—deer frozen mid-leap, wolves caught in snarls, birds with wings forever outstretched.
+> 
+> Then you notice... a humanoid figure. Its expression is NOT serene, but terrified.
+
+Give the players an opportunity to examine the area. Careful observation before entering the clearing can reveal the danger. 
+
+A DC 20 [[Skills#Survival|Survival]] check identifies large reptilian tracks entering and leaving the ravine. On a critical success, the player recognizes the tracks as belonging to two separate creatures.
+
+A DC 20 [[Skills#Nature|Nature]] check allows the player to recognize that the statues are not sculptures. They are petrified creatures. On a critical success the player can determine that many of the statues are relatively recent. One even appears to be wearing expedition gear from within the past few months.
+
+After the players have had a chance to reconnoiter the area read the following: 
+> [!note]+ Read Aloud
+> Just then, a faint scraping sound echoes across the crystal floor. Something large moves just beyond the reflected light.
+
+**Description** Deep within the Prismatic Canopy lies a secluded ravine where crystalline growths blanket the surrounding cliffs like sheets of translucent glass. Local hunters avoid the area, referring to it only as The Glass Garden. They claim the stone statues scattered throughout the ravine are not ancient monuments, but the remains of those who ventured too close.
+
+The truth is far stranger.
+
+A mated pair of Crystal Basilisks has claimed the ravine as its territory. Over years of exposure to the Dungeon's resonance, their petrifying gaze has transformed from dull stone into radiant crystal, leaving behind eerily lifelike sculptures that glitter among the trees.
+
+The creatures rarely leave the ravine, but the crystal formations surrounding their lair have become rich sources of valuable Primal Crystals, attracting prospectors despite the danger.
+
+At the start of the encounter, place the following foes on the map: 
+ - 3: [[3-Rules/Bestiaries/Monster Core/B/Basilisk|Basilisk]]
+
+```encounter
+name: Random One - The Glass Garden
+party:  The Shattering
+creatures:
+  - 3: [[Basilisk]]
+```
+
+#### Tactics
+**Crystal Petrification** Rather than dull gray stone, victims slowly become translucent crystal. Veins of shimmering color spread beneath the skin before hardening into brilliant faceted crystal. Recovered victims retain tiny crystalline flecks within their eyes, hair, or skin—a harmless but unsettling reminder of their ordeal.
+
+The basilisks are patient ambush predators. They rarely reveal themselves immediately. During round one, one basilisk remains hidden among crystal formations while the other investigates intruders. It attempts to position enemies where both creatures can threaten them with their gaze.
+
+In round two, the second basilisk emerges, attempting to flank while the first pressures characters already affected by petrification.
+
+If reduced below 30 hp, the wounded basilisk retreats toward a narrow tunnel leading deeper into the ravine. The second attempts to cover its mate's escape rather than fight recklessly.
+
+#### Features of the Area
+**Crystal Formations** The large crystal pillars provide cover. A creature adjacent to one gains **Lesser Cover**.
+**Razor Crystal Fields** Scattered patches of broken crystal count as difficult terrain. Whenever a creature Strides more than half its Speed through a field, it takes `dice: 1d6` slashing damage from razor-sharp fragments.
+**Brilliant Reflections** The crystal walls constantly refract sunlight. A creature that critically fails a Strike against a Crystal Basilisk is [[Dazzled|Dazzled]] until the end of its next turn as reflected light momentarily blinds it.
+
+> [!tip]+ Treasure
+> Once the basilisks are defeated or driven away, the party may safely search the ravine. If the basilisks are slain they may harvested.  Check the table below. If the players explore the creatures lair on a DC 18 [[Skills#Perception|Perception]] check they will find hidden beneath a collapsed crystal shelf is the remains of a previous Seeker expedition. The cache contains a waterproof field journal documenting the discovery of the ravine. A partially completed map marking several nearby crystal deposits, granting the party a circumstance bonus on future exploration checks within this region if they take time to study it and valuable to the Springrun Council. Two [[healing-potion-lesser|Healing Potion (Lesser)]], [[armor-potency-1|+1]] [[3-Rules/Character Building/Equipment/R/ready|Ready]] [[chain-shirt]], [[mirror-goggles-lesser|Mirror Goggles (Lesser)]], 32 gp and 85 sp.
+> 
+> - [[b.#3-Rules/Bestiaries/Monster Core/B/Basilisk Basilisk|Basilisk Harvest]]
+> - [ ] permanent::[[armor-potency-1|+1]] [ilvl::5] [gp::160] 
+> - [ ] permanent::[[3-Rules/Character Building/Equipment/R/ready|Ready]] [ilvl::6] [gp::200] 
+> - [ ] permanent::[[chain-shirt|Chain Shirt]] [ilvl::0] [gp::5] 
+> - [ ] permanent::[[mirror-goggles-lesser|Mirror Goggles (Lesser)]] [ilvl::5] [gp::135] 
+> - [ ] consumable::[[healing-potion-lesser|Healing Potion (Lesser)]] [ilvl::3] [gp::12] 
+> - [ ] consumable::[[healing-potion-lesser|Healing Potion (Lesser)]] [ilvl::3] [gp::12] 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
+
 ### Prismatic Canopy Set Encounter: The Crystal Giant
 - [ ] Low (30 XP) Level 5
 
@@ -1569,6 +1730,8 @@ Characters asking around Springrun or Castlemere may hear one or more of the fol
 |5|The Giant is waiting for someone to finish carving it.|
 |6|Six more Giants exist somewhere in the world, each facing a different direction.|
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Story Encounters|Return to Story Table]]
+
 ### Prismatic Canopy Set Encounter: The Hollow Market
 - [ ] Low (30 XP) Level 5
 
@@ -1638,6 +1801,8 @@ Visitors may learn one rumor after spending at least thirty minutes talking with
 |5|Some merchants have never left the market.|
 |6|Every bargain made here is remembered forever.|
 
+[[ACT I - FIRST CONTACT#Prismatic Canopy Story Encounters|Return to Story Table]]
+
 ### Deep Wilds Set Encounter: The Heartroot
 - [ ] Low (30 XP) Level 5
 
@@ -1701,6 +1866,8 @@ Roll once for every hour the party remains in the clearing.
 > 
 > **Heartroot's Blessing**
 > Once before their next daily preparations, each character may reroll a failed Recovery Check or Treat Wounds check affecting them, taking the better result. This benefit can only be gained once per week. 
+
+[[ACT I - FIRST CONTACT#Prismatic Canopy Story Encounters|Return to Story Table]]
 
 ### Deep Wilds Set Encounter: The Crystal Graveyard
 - [ ] Low (30 XP) Level 5

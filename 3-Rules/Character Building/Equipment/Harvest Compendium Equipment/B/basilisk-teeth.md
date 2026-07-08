@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
-rarity: ""
-trait01: "magical"
-trait02: ""
-trait03: ""
+name: "basilisk-teeth"
+aliases: "Basilisk Teeth"
+source: "Harvest Compendium"
+pg: ""
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "magical"
+trait03: "talisman"
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 2
 group: 
 bulk: 
-value: "200"
+value: "5"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "affixed to armor or a weapon"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "This tooth functions as a [[predators-claw|Predator's Claw]], [[Wolf Fang]] or [[bloody-talon|Bloody Talon]] talisman. You choose which when you affix the talisman."
 activate: ""
 craft: 
 destruction: 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "animal-carapace"
+aliases: "Animal Carapace"
+source: "Harvest Compendium"
+pg: ""
 rarity: ""
-trait01: "magical"
+trait01: "creature-component"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 
 group: 
-bulk: 
-value: "200"
+bulk: 1
+value: "1"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: ""
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "This carapace is taken from an animal and is often used in armor plating. You can use these sections of carapace as raw materials to craft a set of plate armor."
 activate: ""
 craft: 
 destruction: 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

@@ -48,16 +48,15 @@ tags:
 | 1d4 Sections of [[Barguest Rawhide\|Barguest Rawhide]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 
-## [[Monster Core/Basilisk|Basilisk]]
+## [[3-Rules/Bestiaries/Monster Core/B/Basilisk|Basilisk]]
 
-  
-
-| 1d2 [[Basilisk Teeth\|Basilisk Teeth]] |
-| --- |
-| 1d6 Bulk of [[raw-meat\|Raw Meat]] |
-| 1d2 [[Stony Basilisk Eyes\|Stony Basilisk Eyes]] |
-| 1 Vial of [[Basilisk Gullet Oil\|Basilisk Gullet Oil]] |
-| 1d3 Vials of [[Fresh Basilisk Blood\|Fresh Basilisk Blood]] |
+| Harvest Options                                             |
+| ----------------------------------------------------------- |
+| `dice: 1d2` [[basilisk-teeth\|Basilisk Teeth]]                      | 
+| `dice: 1d6` Bulk of [[raw-meat\|Raw Meat]]                          |
+| `dice: 1d2` [[stony-basilisk-eyes\|Stony Basilisk Eyes]]            |
+| 1 Vial of [[basilisk-gullet-oil\|Basilisk Gullet Oil]]      |
+| `dice: 1d3` Vials of [[fresh-basilisk-blood\|Fresh Basilisk Blood]] |
 
 ## Bat
 
@@ -112,7 +111,7 @@ tags:
 
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | --- |
-| 1d4 Sections of [[Animal Carapace\|Animal Carapace]] |
+| 1d4 Sections of [[animal-carapace\|Animal Carapace]] |
 
 ## [[Bestiary 1/Bloodseeker|Bloodseeker]]
 
@@ -124,19 +123,19 @@ tags:
 ## Boar
 #### [[3-Rules/Bestiaries/Monster Core/B/Boar|Boar]]
 
-| Harvest Options                                                           |
-| ------------------------------------------------------------------------- |
-| 1 [[boar-tusk\|Boar Tusk]]                   |
+| Harvest Options                                      | 
+| ---------------------------------------------------- |
+| 1 [[boar-tusk\|Boar Tusk]]                           |
 | `dice: 1d6` Bulk of [[raw-meat\|Raw Meat]]           |
 | `dice: 1d2` Sections of [[animal-hide\|Animal Hide]] |
 
 #### [[3-Rules/Bestiaries/Monster Core/D/Daeodon|Daeodon]]
 
-| Harvest Options |
-| --- |
-| `dice: 1d2` [[boar-tusk\|Boar Tusks]] |
-| `dice: 2d6` Bulk of [[raw-meat\|Raw Meat]] |
-| 1 [[daeodon-heart\|Daeodon Heart]] |
+| Harvest Options                                      |
+| ---------------------------------------------------- |
+| `dice: 1d2` [[boar-tusk\|Boar Tusks]]                |
+| `dice: 2d6` Bulk of [[raw-meat\|Raw Meat]]           | 
+| 1 [[daeodon-heart\|Daeodon Heart]]                   |
 | `dice: 1d4` Sections of [[animal-hide\|Animal Hide]] |
 
 ## Boggard
@@ -203,7 +202,7 @@ tags:
 
 | Harvest Options                                              |
 | ------------------------------------------------------------ |
-| `dice: 1d3+1` [[bulette-sole-patches\|Bulette Sole Patches]] | 
+| `dice: 1d3+1` [[bulette-sole-patches\|Bulette Sole Patches]] |
 | `dice: 1d4` [[bulette-shellplates\|Bulette Shellplates]]     |
 | `dice: 2d4` [[bulette-teeth\|Bulette Teeth]]                 |
 | `dice: 2d6` Bulk of [[raw-meat\|Raw Meat]]                   |

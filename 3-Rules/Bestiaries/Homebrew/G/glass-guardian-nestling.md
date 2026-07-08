@@ -17,7 +17,6 @@ statblock: true
 source: "HB"
 name: "Glass Guardian Nestling"
 level: "Creature 2"
-token: ![[Glass Guardian Nestling.png]]
 alignment: "N"
 size: "Small"
 trait_03: "Aberration"

@@ -4,13 +4,13 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "ready-(greater)"
+name: "ready-greater"
 aliases: "Ready (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "226"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

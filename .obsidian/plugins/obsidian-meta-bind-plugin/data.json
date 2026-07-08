@@ -140,58 +140,96 @@
   ],
   "buttonTemplates": [
     {
-      "label": "New Session",
-      "hidden": false,
+      "label": "Success",
+      "icon": "",
+      "style": "default",
       "class": "",
-      "tooltip": "",
-      "id": "New-Session",
-      "style": "primary",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "+2 VP",
+      "id": "expedition-success",
+      "hidden": false,
       "actions": [
         {
-          "type": "command",
-          "command": "quickadd:choice:816fdc87-bfff-4071-9415-b39920820d96"
+          "type": "updateMetadata",
+          "bindTarget": "currentVP",
+          "evaluate": true,
+          "value": "x + 2"
         }
       ]
     },
     {
-      "label": "New Item",
-      "hidden": false,
+      "label": "Critical success",
+      "icon": "",
+      "style": "default",
       "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
       "tooltip": "",
-      "id": "New-Item",
-      "style": "primary",
+      "id": "expedition-critical-success",
+      "hidden": false,
       "actions": [
         {
-          "type": "command",
-          "command": "quickadd:choice:ace78dd4-2e91-4b01-a409-86c48c1bf7f8"
+          "type": "updateMetadata",
+          "bindTarget": "currentVP",
+          "evaluate": true,
+          "value": "x + 3"
+        },
+        {
+          "type": "updateMetadata",
+          "bindTarget": "currentPressure",
+          "evaluate": true,
+          "value": "x <= 0 ? 0 : x - 1"
         }
       ]
     },
     {
-      "label": "Update Session Note",
-      "hidden": false,
+      "label": "Critical Failure",
+      "icon": "",
+      "style": "destructive",
       "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
       "tooltip": "",
-      "id": "Update-Session",
-      "style": "primary",
+      "id": "expedition-critical-failure",
+      "hidden": false,
       "actions": [
         {
-          "type": "command",
-          "command": "quickadd:choice:958a2479-ba30-41a6-bb89-e649fe7d7c4d"
+          "type": "updateMetadata",
+          "bindTarget": "currentPressure",
+          "evaluate": true,
+          "value": "x >= 12 ? 12 : x + 2"
+        },
+        {
+          "type": "updateMetadata",
+          "bindTarget": "currentReadiness",
+          "evaluate": true,
+          "value": "x <= 0 ? 0 : x - 1"
         }
       ]
     },
     {
-      "label": "Update Adventure",
-      "hidden": false,
+      "label": "Failure",
+      "icon": "",
+      "style": "default",
       "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
       "tooltip": "",
-      "id": "Update-Adventure",
-      "style": "primary",
+      "id": "expedition-failure",
+      "hidden": false,
       "actions": [
         {
-          "type": "command",
-          "command": "quickadd:choice:3bbeb5fd-987e-4ef3-9a1d-7fa986419e95"
+          "type": "updateMetadata",
+          "bindTarget": "currentVP",
+          "evaluate": true,
+          "value": "x + 1"
+        },
+        {
+          "type": "updateMetadata",
+          "bindTarget": "currentPressure",
+          "evaluate": true,
+          "value": "x >= 12 ? 12 : x + 1"
         }
       ]
     }

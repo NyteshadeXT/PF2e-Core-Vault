@@ -3,31 +3,31 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
-rarity: ""
-trait01: "magical"
-trait02: ""
-trait03: ""
+name: "basilisk-gullet-oil"
+aliases: "Basilisk Gullet Oil"
+source: "Harvest Compendium"
+pg: ""
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "magical"
+trait03: "oil"
 trait04:
 trait05:
 trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 4
 group: 
-bulk: 
-value: "200"
+bulk: "L"
+value: "20"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
-activate: ""
+description: "This oil feels grainy when touched, as if filled with grains of sand. The oil can be used to coat a creature that has been petrified, instantly restoring it to flesh."
+activate: "`pf2:2` [[Interact]]"
 craft: 
 destruction: 
 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

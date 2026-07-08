@@ -304,7 +304,7 @@ tags:
 | 1 Section of [[animal-hide\|Animal Hide]] |
 | 1 [[Velociraptor Claw\|Velociraptor Claw]] |
 
-#### [[3-Rules/Bestiaries/Monster Core/D/Deinonychus|Deinonychus]]
+### [[3-Rules/Bestiaries/Monster Core/D/Deinonychus|Deinonychus]]
 
 | Harvest Options                                                           |
 | ------------------------------------------------------------------------- |
@@ -313,15 +313,14 @@ tags:
 | `dice: 1d4` [[dinosaur-teeth\|Dinosaur Teeth]] |
 | `dice: 1d2` Sections of [[animal-hide\|Animal Hide]] |
 
-### [[Monster Core/Ankylosaurus|Ankylosaurus]]
+### [[3-Rules/Bestiaries/Monster Core/A/Ankylosaurus|Ankylosaurus]]
 
-  
-
-| 1 [[Ankylosaurus Tail\|Ankylosaurus Tail]] |
-| --- |
-| 4d6 Bulk of [[raw-meat\|Raw Meat]] |
-| 1d4 Sections of [[Animal Carapace\|Animal Carapace]] |
-| 1d4 Sections of [[animal-hide\|Animal Hide]] |
+| Harvest Options                                                           |
+| ------------------------------------------------------------------------- |
+| 1 [[ankylosaurus-tail\|Ankylosaurus Tail]] |
+| `dice: 4d6` Bulk of [[raw-meat\|Raw Meat]] |
+| `dice: 1d4` Sections of [[animal-carapace\|Animal Carapace]] |
+| `dice: 1d4` Sections of [[animal-hide\|Animal Hide]] |
 
 ### [[Monster Core/Stegosaurus|Stegosaurus]]
 

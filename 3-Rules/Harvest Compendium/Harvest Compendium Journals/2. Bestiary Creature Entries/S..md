@@ -30,7 +30,7 @@ tags:
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | --- |
 | 1 Dose of [[Harvest Compendium Journals/1. Harvest Compendium/Unprocessed\|Unprocessed]] [[Equipment/Giant Scorpion Venom\|Giant Scorpion Venom]] |
-| 1d4 Sections of [[Animal Carapace\|Animal Carapace]] |
+| 1d4 Sections of [[animal-carapace\|Animal Carapace]] |
 
 ### [[Monster Core/Scorpion Swarm|Scorpion Swarm]]
 

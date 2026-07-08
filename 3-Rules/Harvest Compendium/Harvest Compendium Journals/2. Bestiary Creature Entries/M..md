@@ -28,7 +28,7 @@ tags:
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | --- |
 | 1d2 [[Mantis Mandibles\|Giant Mantis Mandibles]] |
-| 1d4 Sections of [[Animal Carapace\|Animal Carapace]] |
+| 1d4 Sections of [[animal-carapace\|Animal Carapace]] |
 
 ### [[Monster Core/Deadly Mantis|Deadly Mantis]]
 
@@ -38,7 +38,7 @@ tags:
 | --- |
 | 2d2 [[Deadly Mantis Leg Tips\|Deadly Mantis Leg Tips]] |
 | 1d2 [[Mantis Mandibles\|Deadly Mantis Mandibles]] |
-| 2d4 Sections of [[Animal Carapace\|Animal Carapace]] |
+| 2d4 Sections of [[animal-carapace\|Animal Carapace]] |
 
 ## [[Monster Core/Medusa|Medusa]]
 
@@ -100,7 +100,7 @@ tags:
 | --- |
 | 1d4 [[Mukradi Legs\|Mukradi Legs]] |
 | 2d6 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
-| 3d4 Sections of [[Animal Carapace\|Animal Carapace]] |
+| 3d4 Sections of [[animal-carapace\|Animal Carapace]] |
 | 2d4 Sections of [[Mukradi Rawhide\|Mukradi Rawhide]] |
 | 2d6 Vials of [[impure-acid\|Impure Acid]] |
 | 2d6 Vials of [[Molten Flame\|Molten Flame]] |

@@ -4,14 +4,14 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "mirror-goggles-(lesser)"
+name: "mirror-goggles-lesser"
 aliases: "Mirror Goggles (Lesser)"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "147"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual Perception checks and to saving throws against visual effects.  **Activate** `pf2:r` Interact  **Trigger** A creature within 60 feet targets you with a visual effect  * * *  **Effect** You turn your head to reflect aspects of the triggering effect back at its creator. The creature must attempt a DC 20 Fortitude check save as it becomes disoriented by this reflection. On a failure, the creature is [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). The creature is temporarily immune for 1 hour."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "These goggles feature highly reflective lenses. While wearing the goggles, you gain a +1 item bonus to visual [[Skills#Perception|Perception]] checks and to saving throws against visual effects."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:r`"
+type1: "([[Interact]])"
+frequency1: 
+trigger1: "A creature within 60 feet targets you with a visual effect"
+mechanics1: "You turn your head to reflect aspects of the triggering effect back at its creator. The creature must attempt a DC 20 Fortitude check save as it becomes disoriented by this reflection. On a failure, the creature is [[Sickened|Sickened 1]] ([[Sickened|Sickened 2]] on a critical failure). The creature is temporarily immune for 1 hour."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

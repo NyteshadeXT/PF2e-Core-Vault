@@ -16,7 +16,6 @@ layout: Basic Pathfinder 2e Layout
 source: "HB"
 name: "Magma Hurler"
 level: "Creature 2"
-token: ![[Magma Hurler.png]]
 alignment: "N"
 size: "Medium"
 trait_03: "Elemental"

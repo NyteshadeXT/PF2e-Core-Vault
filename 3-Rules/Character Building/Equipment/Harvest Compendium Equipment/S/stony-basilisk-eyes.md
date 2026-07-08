@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "stony-basilisk-eyes"
+aliases: "Stony Basilisk Eyes"
+source: "Harvest Compendium"
+pg: ""
 rarity: ""
-trait01: "magical"
+trait01: "ingredient"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 2
 group: 
 bulk: 
-value: "200"
+value: "10"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "other"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "This eye has a hard exterior, as if it were coated in stone. It can be crafted into a [[basilisk-eye|Basilisk Eye]]."
 activate: ""
 craft: 
 destruction: 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

@@ -45,18 +45,14 @@ armorclass:
     desc: "21; __Fort__ +11, __Ref__ +12, __Will__ +10"
 hp: 50
 health:
-  - name: ""
   - name: HP
     desc: "50"
 abilities_top:
-  - name: ""
   - name: "Items"
-    desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Rapier|Rapier]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Backpack|Backpack]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools (Used as "Blessed Items" to Fool Marks)]], [[Equipment/Clothing (Ordinary)|Cloak]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol (Wooden)]], 20x [[Equipment/Bolts|Bolts]], Collection of Fake Relics"
+    desc: "[[Equipment/Hand Crossbow|Hand Crossbow]], [[Equipment/Rapier|Rapier]], [[Equipment/Studded Leather Armor|Studded Leather Armor]], [[Equipment/Backpack|Backpack]], [[Equipment/Alchemist's Toolkit|Alchemist's Tools (Used as Blessed Items to Fool Marks)]], [[Equipment/Clothing (Ordinary)|Cloak]], [[Equipment/Religious Symbol (Wooden)|Religious Symbol (Wooden)]], 20x [[Equipment/Bolts|Bolts]], Collection of Fake Relics"
 abilities_mid:
   - name: ""
 attacks:
-  - name: ""
-
   - name: "**Melee** `pf2:1` Rapier"
     desc: "+12 (deadly d8, disarm, finesse)\n__Damage__  1d6 + 8 piercing"
 

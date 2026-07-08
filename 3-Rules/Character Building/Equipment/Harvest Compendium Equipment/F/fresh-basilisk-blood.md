@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "fresh-basilisk-blood"
+aliases: "Fresh Basilisk Blood"
+source: "Harvest Compendium"
+pg: ""
 rarity: ""
-trait01: "magical"
+trait01: "creature-component"
 trait02: ""
 trait03: ""
 trait04:
@@ -17,17 +17,17 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 1
 group: 
-bulk: 
-value: "200"
+bulk: "L"
+value: "1"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
-activate: ""
+description: "This blood is highly viscous. A vial of basilisk blood can be used to coat a creature that has been turned to stone by a creature's Petrifying Gaze, instantly restoring it to flesh. The blood can only be harvested from a basilisk that has been dead for less than an hour, and it loses its properties 1 hour after it has been harvested."
+activate: "`pf2:2` [[Interact]]"
 craft: 
 destruction: 
 
@@ -142,4 +142,3 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-

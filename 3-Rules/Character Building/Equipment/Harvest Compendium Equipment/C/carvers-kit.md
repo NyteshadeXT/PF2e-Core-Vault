@@ -3,12 +3,12 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "carvers-kit"
+aliases: "Carver's Kit"
+source: "Harvest Compendium"
+pg: ""
 rarity: ""
-trait01: "magical"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
+level: 
 group: 
-bulk: 
-value: "200"
+bulk: "L"
+value: "4"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "held in two hands"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "Without the appropriate tools, only part of a creature’s loot can be obtained. Items such as broken weapons and armor can simply be picked up, but fully harvesting a creature requires skill and finesse. This level of precision requires the use of a type of artisan’s tools called a carver’s kit, a toolkit that consists of scrapers, a mincing blade, bonesaws, and several fine knives."
 activate: ""
 craft: 
 destruction: 

@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "eb56e24421ca1eef",
+            "id": "9449cf9d4f71da48",
             "type": "leaf",
-            "dimension": 16.666666666666668,
             "state": {
               "type": "ttrpg-tools-screen-controller",
               "state": {
                 "payload": {
-                  "kind": "note",
-                  "path": "1-GM Toolkit/Idea Book/Windrose Map Test.md"
+                  "kind": "markdown",
+                  "markdown": "# Expedition Progress\n\n| Expedition Progress |  |\n|---|---|\n| **Destination:** | `VIEW[string({destination})]` |\n| **Readiness:** | `VIEW[string({currentReadiness} >= 4 ? \"Ready\" : {currentReadiness} == 3 ? \"Steady\" : {currentReadiness} == 2 ? \"Worn\" : {currentReadiness} == 1 ? \"Strained\" : \"Compromised\")]`|\n| **Pressure:** | `VIEW[string({currentPressure} == 0 ? \"Calm\" : {currentPressure} == 1 ? \"Tense\" : {currentPressure} == 2 ? \"Perilous\" : {currentPressure} == 3 ? \"Dire\" : \"Imminent Danger\")]`|\n| **Status:** | `VIEW[string({currentVP} == 0 ? \"Preparing Expedition\" : {currentVP} >= round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier}) ? \"Arrived at Destination\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"Departed\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"Making Good Progress\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"Over Halfway There\" : \"Destination in Sight\")]` |\n| **Route:** | `VIEW[string({currentVP} == 0 ? \"🏠 ●──○──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.125 ? \"🏠 ○──●──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"🏠 ○──○──●──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.375 ? \"🏠 ○──○──○──●──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"🏠 ○──○──○──○──●──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.625 ? \"🏠 ○──○──○──○──○──●──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"🏠 ○──○──○──○──○──○──●──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 1 ? \"🏠 ○──○──○──○──○──○──○──● 💎\" : \"🏠 ○──○──○──○──○──○──○──✓ 💎\")]` |\n\n>\n>> [!column | 2 no-t no-i] \n>>> # Expedition Challenge\n>>> | Expedition Challenge            |                                                                                                                                                                                                                                                                                                                       |\n>>> | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n>>> | **Destination:**                | `INPUT[text:destination]` |\n>>> | **Hex Distance:**               | `INPUT[number:hexDistance]` |\n>>> | **Region Modifier:**            | `INPUT[inlineSelect(option(0, Road), option(0, Plains), option(2, Forest), option(3, Hills), option(3, Swamp), option(5, Mountains)):regionModifier]` | \n>>> | **Weather Modifier:** | `INPUT[inlineSelect(option(0, Normal), option(1, Rain), option(2, Storm)):weatherModifier]` |\n>>> | **VP Target:**                  | `VIEW[round((2 + {regionModifier} + {weatherModifier}) * {hexDistance})]` |\n>>> | **Travel Day:** | `VIEW[round((2 + {regionModifier} + {weatherModifier}))]` |\n>>> | **Current VP:**                 | `INPUT[number:currentVP]` |\n>>> | **Current Pressure:**             | `INPUT[number:currentPressure]` |\n>>> | **Pressure State:** | `VIEW[string({currentPressure} <= 2 ? \"Calm\" : {currentPressure} <= 5 ? \"Tense\" : {currentPressure} <= 8 ? \"Perilous\" : {currentPressure} <= 11 ? \"Dire\" : \"Critical\")]` |\n>>> | **Encounter Chance:** | `VIEW[string({currentPressure} <= 2 ? \"0%\" : {currentPressure} <= 5 ? \"20%\" : {currentPressure} <= 8 ? \"40%\" : {currentPressure} <= 11 ? \"60%\" : \"100%\")]` |\n>>> | **Encounter Severity:** | `VIEW[string({currentPressure} <= 2 ? \"None\" : {currentPressure} <= 3 ? \"Low\" : {currentPressure} <= 5 ? \"Moderate\" : {currentPressure} <= 9 ? \"Severe\" : {currentPressure} <= 11 ? \"Severe with Complication\" : \"Signature Encounter\")]` |\n>>> | **Current Readiness:**          | `INPUT[number:currentReadiness]` |\n>>> | **Readiness State:**            | `VIEW[string({currentReadiness} >= 4 ? \"Ready\" : {currentReadiness} == 3 ? \"Steady\" : {currentReadiness} == 2 ? \"Worn\" : {currentReadiness} == 1 ? \"Strained\" : \"Compromised\")]`                                                                                                                                      |\n>>> | **Readiness Effect:**           | `VIEW[string({currentReadiness} >= 4 ? \"Advantage when danger begins.\" : {currentReadiness} == 3 ? \"No modifier.\" : {currentReadiness} == 2 ? \"Minor complication when danger begins.\" : {currentReadiness} == 1 ? \"Disadvantage when danger begins.\" : \"Fatigued, hostile advantage, or increase event severity.\")]` |\n>>> | **Today's VP:** | `INPUT[number:todayVP]`   |\n>>> | **Daily Limit:** | `VIEW[10]`  |\n>>> | **Current Day:**  | `INPUT[number:travelDay]` |\n>>\n>>> # Expedition Check Results\n>>> |Check Result|Progress|Pressure|Readiness|\n>>> |---|:-:|:-:|:-:|\n>>> |**Critical Success**|+3 VP|-1|—|\n>>> |**Success**|+2 VP|—|—|\n>>> |**Failure**|+1 VP|+1|—|\n>>> |**Critical Failure**|—|+2|-1|\n>>\n> \n\n\n\n>\n>> [!column | 2 no-t no-i] \n>>> # Readiness Adjustments\n>>> | Situation                                              | Readiness Change |\n>>> | ------------------------------------------------------ |:----------------:|\n>>> | Critical Success on camp/recovery action               |        +2        |\n>>> | Success on camp/recovery action                        |        +1        |\n>>> | Failure on significant expedition check                |        -1        |\n>>> | Critical Failure on significant expedition check       |        -2        |\n>>> | Forced march, severe weather, major hazard, lost route |        -1        |\n>>> | Severe encounter or major complication                 |        -1        |\n>>> | Comfortable/full camp in safe location                 |        +1        |\n>>> | Rest day in secure location                            |    Reset to 4    |\n>>\n>>> # Pressure Adjustments\n>>> At the end of each successful expedition day, reduce Pressure by 1 (minimum 0), unless an encounter or major complication occurred that day.  Additional adjustments are below.\n>>> \n>>> | Event                                |  Pressure  |\n>>> | ------------------------------------ |:----------:|\n>>> | Critical Success on Expedition Check |     -1     |\n>>> | Success on Expedition Check          |     0      |\n>>> | Failure on Expedition Check          |     +1     |\n>>> | Critical Failure on Expedition Check |     +2     |\n>>> | Forced march                         |     +2     |\n>>> | Loud Combat                         |     +1     |\n>>> | Severe weather                       |     +1     |\n>>> | Poor camp setup             |     +1     |\n>>> | Hidden camp                          |     -1     |\n>>> | Deliberate stealth travel            |     -1     |\n>>> | Spend time scouting                  |     -1     |\n>>> | Take a full rest day                 | Reset to 0 |\n>>> | Pressure Event resolves              | Reset one level of pressure state |\n>>\n>\n",
+                  "sourcePath": "1-GM Toolkit/Expedition_Challenges.md"
                 }
               },
               "icon": "layout-dashboard",
@@ -80,17 +80,33 @@
             }
           },
           {
+            "id": "6e9c40f7026d4ee7",
+            "type": "leaf",
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "markdown",
+                  "markdown": "# Expedition Progress\n| Expedition Progress |  |\n|---|---|\n| **Destination:** | `VIEW[string({destination})]` |\n| **Readiness:** | `VIEW[string({currentReadiness} >= 4 ? \"Ready\" : {currentReadiness} == 3 ? \"Steady\" : {currentReadiness} == 2 ? \"Worn\" : {currentReadiness} == 1 ? \"Strained\" : \"Compromised\")]`|\n| **Pressure:** | `VIEW[string({currentPressure} == 0 ? \"Calm\" : {currentPressure} == 1 ? \"Tense\" : {currentPressure} == 2 ? \"Perilous\" : {currentPressure} == 3 ? \"Dire\" : \"Imminent Danger\")]`|\n| **Status:** | `VIEW[string({currentVP} == 0 ? \"Preparing Expedition\" : {currentVP} >= round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier}) ? \"Arrived at Destination\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"Departed\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"Making Good Progress\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"Over Halfway There\" : \"Destination in Sight\")]` |\n| **Route:** | `VIEW[string({currentVP} == 0 ? \"🏠 ●──○──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.125 ? \"🏠 ○──●──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"🏠 ○──○──●──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.375 ? \"🏠 ○──○──○──●──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"🏠 ○──○──○──○──●──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.625 ? \"🏠 ○──○──○──○──○──●──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"🏠 ○──○──○──○──○──○──●──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 1 ? \"🏠 ○──○──○──○──○──○──○──● 💎\" : \"🏠 ○──○──○──○──○──○──○──✓ 💎\")]` |\n",
+                  "sourcePath": "1-GM Toolkit/Expedition_Challenges.md"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
             "id": "4fdc93b94f491cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Harvesting Creatures"
+              "title": "ToDo List"
             }
           },
           {
@@ -108,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -257,16 +273,6 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "c6ffb7f936edafe6",
-            "type": "leaf",
-            "state": {
-              "type": "time-calendar-view",
-              "state": {},
-              "icon": "calendar",
-              "title": "TTRPG Tools - Time"
-            }
           }
         ],
         "currentTab": 5
@@ -281,7 +287,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_1948d97a4b69",
+                "creatureId": "ID_7968c9da5a19",
                 "creatureName": "Bulette"
               },
               "icon": "initiative-tracker-creature-view",
@@ -319,39 +325,40 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Controls": false,
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline": false,
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false,
-      "calendarium:Open Calendarium": false,
-      "windrose-md:Open Windrose Map": false
+      "windrose-md:Open Windrose map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "6b436a54b344c3df",
+  "active": "4fdc93b94f491cb0",
   "lastOpenFiles": [
-    "zz-Templates/Markdown/Insert Item.md",
     "1-GM Toolkit/DC Calculator.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "1-GM Toolkit/Expedition_Challenges.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
-    "3-Rules/Conditions/Cursebound.md",
-    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
-    "TTRPG/Time/event-source",
-    "3-Rules/Conditions/Controlled.md",
-    "3-Rules/Conditions/Confused.md",
-    "3-Rules/Conditions/Concealed.md",
-    "3-Rules/Conditions/Broken.md",
-    "3-Rules/Conditions/Blinded.md",
-    "3-Rules/Skills.md",
-    "1-GM Toolkit/Idea Book/1-trait_summary.md",
-    "3-Rules/Character Building/Actions/A Challenge for Heroes.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "1-GM Toolkit/AoW Adventure Loot.md",
     "1-GM Toolkit/Idea Book/ToDo List.md",
-    "1-GM Toolkit/Idea Book/The Seer's Fate - Shop Example.md",
     "1-GM Toolkit/Idea Book/Template - NPC.md",
     "1-GM Toolkit/Idea Book/Settlement Template Ideas.md",
     "1-GM Toolkit/Idea Book/Random_Jewelry_Table.md",
     "1-GM Toolkit/Idea Book/Random_Gems_Table.md",
-    "1-GM Toolkit/Idea Book/NPCGen.md",
+    "1-GM Toolkit/Idea Book/NPC_Normal_Templater.md",
+    "1-GM Toolkit/Idea Book/Enhanced Chimeracrafting Ideas.md",
+    "1-GM Toolkit/Idea Book/1-trait_summary.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Types of Loot.md",
+    "3-Rules/Character Building/Equipment/P/potion-of-resistance-(lesser).md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/carvers-kit.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "1-GM Toolkit/Vault Report.md",
+    "3-Rules/Bestiaries/Monster Core/C/Cacodaemon.md",
+    "3-Rules/Bestiaries/Monster Core/Q/Quai Dau To.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "3-Rules/Bestiaries/Bestiary 1/B/Bulette.md",
+    "3-Rules/Character Building/Equipment/R/ready.md",
+    "3-Rules/Character Building/Equipment/R/ready-greater.md",
+    "TTRPG/Time/event-details-legacy-backup",
+    "TTRPG/Time/event-source",
     "windrose-content/fog/fog-parchment.jpg",
     "windrose-content/fog/fog-dark-marble.jpg",
     "windrose-content/fog/fog-watercolor.jpg",
@@ -369,7 +376,6 @@
     "zz-Attachments/multicolored-icons/multicolored-icons",
     "zz-Attachments/multicolored-icons",
     "windrose-content/fog",
-    "windrose-content",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W"
+    "windrose-content"
   ]
 }

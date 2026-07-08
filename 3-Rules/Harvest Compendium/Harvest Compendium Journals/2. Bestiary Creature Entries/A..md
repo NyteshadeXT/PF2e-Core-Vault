@@ -210,11 +210,11 @@ tags:
 
   
 
-| 2d3 [[Arboreal Bark Strips\|Arboreal Bark Strips]] |
+| 2d3 [[arboreal-bark-strips\|Arboreal Bark Strips]] |
 | --- |
 | 1 Broken Large Bark [[Equipment/Wooden Shield\|Shield]] |
 | 1 Broken Stone [[Equipment/Longsword\|Longsword]] |
-| 1d4 Vials of [[Arboreal Sap\|Arboreal Sap]] |
+| 1d4 Vials of [[arboreal-sap\|Arboreal Sap]] |
 
 ### [[Monster Core/Awakened Tree|Awakened Tree]]
 
@@ -227,9 +227,16 @@ tags:
 
   
 
-| 3d6 [[Arboreal Bark Strips\|Arboreal Bark Strips]] |
+| 3d6 [[arboreal-bark-strips\|Arboreal Bark Strips]] |
 | --- |
-| 3d6 Vials of [[Arboreal Sap\|Arboreal Sap]] |
+| 3d6 Vials of [[arboreal-sap\|Arboreal Sap]] |
+
+### [[Arboreal Sapstriker|Arboreal Sapstriker]]
+
+| Harvest Options                                              |
+| ------------------------------------------------------------ |
+| `dice: 3d6` [[arboreal-bark-strips\|Arboreal Bark Strips]] |
+| `dice: 3d6` Vials of [[arboreal-sap\|Arboreal Sap]] |
 
 ## Archon
 

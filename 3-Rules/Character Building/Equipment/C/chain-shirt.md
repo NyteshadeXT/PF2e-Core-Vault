@@ -3,13 +3,13 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "ready"
-aliases: "Ready"
-source: "Pathfinder GM Core"
-pg: "226"
+name: "chain-shirt"
+aliases: "Chain Shirt"
+source: "Pathfinder Player Core"
+pg: "273"
 rarity: ""
-trait01: "magical"
-trait02: ""
+trait01: "flexible"
+trait02: "noisy"
 trait03: ""
 trait04:
 trait05:
@@ -17,16 +17,16 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 6
-group: 
-bulk: 
-value: "200"
+level: 
+group: "Chain"
+bulk: 1
+value: "5"
 subvalue: "gp"
 invest: 
-usage: "etched onto armor"
+usage: "worn armor"
 license: "ORC"
 identify: ""
-description: "A _ready_ rune draws component pieces of a suit of armor toward one another, making it extremely fast to get into. You can don light armor with a _ready_ rune as a single action, or medium or heavy armor with a ready rune as a 2-action activity."
+description: "Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as chain mail. However, it is much lighter than chain mail and protects only the torso, upper arms, and upper legs of its wearer."
 activate: ""
 craft: 
 destruction: 
@@ -100,12 +100,12 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
-strRequirement: ""
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
+baseAC: 2
+dexCap: 3
+strRequirement: "+1"
+checkPenalty: "-1"
+speedPenalty: "-1"
+armorCategory: "Light"
 resist: 
 immunity: 
 conditionImmunity: 
@@ -142,4 +142,19 @@ craftBase:
 ```meta-bind-embed
 [[Item Card Template]]
 ```
+
+
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(armorbase, "Chain Shirt")
+SORT level ASC
+
+```
+
 

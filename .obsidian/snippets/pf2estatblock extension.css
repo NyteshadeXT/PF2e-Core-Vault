@@ -1,0 +1,97 @@
+/*====================================================
+  PF2e Statblock
+====================================================*/
+
+.pf2e-statblock {
+    --pf2e-red: #5b1d1b;
+    --pf2e-gold: #d3b06c;
+    --pf2e-bg: #f7f4ef;
+
+    background: var(--pf2e-bg);
+
+    border: 2px solid var(--pf2e-red);
+    border-radius: 8px;
+
+    padding: 0;
+    margin: 1rem 0;
+
+    overflow: hidden;
+
+    font-size: 0.88rem;
+    line-height: 1.35;
+}
+
+/* Title */
+
+.pf2e-statblock h1,
+.pf2e-statblock h2,
+.pf2e-statblock h3{
+    background: var(--pf2e-red);
+    color: white;
+
+    margin:0;
+    padding:10px 14px;
+    margin-bottom: 0.4rem;
+
+    font-size:1.35rem;
+    font-weight:700;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+}
+
+/* Body */
+
+.pf2e-statblock > *:not(h1):not(h2):not(h3){
+    padding-left:14px;
+    padding-right:14px;
+}
+
+/* Paragraphs */
+
+.pf2e-statblock p{
+    margin:.35rem 0;
+}
+
+/* Lists */
+
+.pf2e-statblock ul{
+    margin:.4rem 0 .6rem 1.1rem;
+}
+
+/* Horizontal Rules */
+
+.pf2e-statblock hr{
+    border:none;
+    border-top:1px solid var(--pf2e-red);
+    margin:.7rem 0;
+}
+
+/* Trait badges */
+
+.pf2e-statblock .trait{
+    font-size:.63rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.4rem;
+}
+
+/* Result Labels */
+
+.pf2e-statblock strong{
+    font-weight:700;
+}
+
+/* Links */
+
+.pf2e-statblock a{
+    color:#00796b;
+    text-decoration:none;
+}
+
+.pf2e-statblock a:hover{
+    text-decoration:underline;
+}
+
+.pf2e-statblock,
+.pf2e-statblock * {
+    font-size: 1.15rem !important;
+}
