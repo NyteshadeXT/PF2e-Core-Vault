@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "lancer"
-aliases: "Lancer"
-source: "Pathfinder Treasure Vault"
-pg: "31"
-rarity: "uncommon"
-trait01: "combination"
-trait02: "critical fusion"
-trait03: "reach"
-trait04: "capacity 2"
+name: "lattice-armor"
+aliases: "Lattice Armor"
+source: "Pathfinder War of Immortals"
+pg: "146"
+rarity: ""
+trait01: ""
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/lancer.png
+image: zz-Attachments/lattice-armor.pn
 level: 
-group: "Spear/Bow"
+group: "Chain"
 bulk: 2
-value: "8"
+value: "6"
 subvalue: "gp"
 invest: 
-usage: "two hands"
+usage: "worn armor"
 license: "ORC"
 identify: ""
-description: "This lance has a heavy grip with two parallel crossbow fixtures built into it, making it a useful weapon for combats who prefer to keep their distance at all times."
+description: "Also known as `varman` in some parts of the Impossible Lands, this armor is made from fine metal cables woven into latticework patterns with plated segments to protect the head, neck, and shoulders. This armor disperses blows much like rings of chain mail but is much tighter in construction, making it quieter."
 activate: ""
 craft: 
 destruction: 
@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization"
+powerTitle1: "Armor Specialization"
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -42,7 +42,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 [[Skills#Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort."
+mechanics1: "The armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of the armor’s potency rune for medium armor, or 6 + the value of the armor’s potency rune for heavy armor. This can’t reduce the damage to less than the damage rolled for the hit before doubling for a critical hit."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -86,26 +86,26 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "60 ft."
-ammoType: "bolts"
-reload: 2
+range:
+ammoType:
+reload:
 damage: 
-dmg1: "1d8"
-dmg1Type: "piercing"
-dmg2: "1d6"
-dmg2Type: "piercing"
-weaponType: "Ranged/Melee"
-weaponCategory: "Martial"
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
-strRequirement: ""
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
+baseAC: 4
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: "-2"
+speedPenalty: "-5 ft."
+armorCategory: "Medium"
 resist: 
 immunity: 
 conditionImmunity: 
@@ -152,7 +152,9 @@ TABLE
   level     AS "Level",
   license   AS "License"
 FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Lancer")
+WHERE contains(armorbase, "Lattice Armor")
 SORT level ASC
 
 ```
+
+

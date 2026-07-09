@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "lancer"
-aliases: "Lancer"
+name: "lamellar-breastplate"
+aliases: "Lamellar Breastplate"
 source: "Pathfinder Treasure Vault"
-pg: "31"
-rarity: "uncommon"
-trait01: "combination"
-trait02: "critical fusion"
-trait03: "reach"
-trait04: "capacity 2"
+pg: "10"
+rarity: ""
+trait01: "hindering"
+trait02: "laminar"
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/lancer.png
+image: zz-Attachments/assets/imageplaceholder.png
 level: 
-group: "Spear/Bow"
+group: "composite"
 bulk: 2
-value: "8"
+value: "7"
 subvalue: "gp"
 invest: 
-usage: "two hands"
+usage: "worn armor"
 license: "ORC"
 identify: ""
-description: "This lance has a heavy grip with two parallel crossbow fixtures built into it, making it a useful weapon for combats who prefer to keep their distance at all times."
+description: "Slats of lacquered steel or other metal held together with cord, whether leather or silk, make up most lamellar breastplates. The lacquering prevents the metal from corroding."
 activate: ""
 craft: 
 destruction: 
@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization"
+powerTitle1: "Armor Specialization"
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -42,7 +42,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 [[Skills#Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort."
+mechanics1: "The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -86,26 +86,26 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "60 ft."
-ammoType: "bolts"
-reload: 2
+range:
+ammoType:
+reload:
 damage: 
-dmg1: "1d8"
-dmg1Type: "piercing"
-dmg2: "1d6"
-dmg2Type: "piercing"
-weaponType: "Ranged/Melee"
-weaponCategory: "Martial"
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC: 
-dexCap: 
-strRequirement: ""
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
+baseAC: 4
+dexCap: 1
+strRequirement: "+3"
+checkPenalty: "-2"
+speedPenalty: "-5 ft."
+armorCategory: "Medium"
 resist: 
 immunity: 
 conditionImmunity: 
@@ -152,7 +152,9 @@ TABLE
   level     AS "Level",
   license   AS "License"
 FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Lancer")
+WHERE contains(armorbase, "Lamellar Breastplate")
 SORT level ASC
 
 ```
+
+

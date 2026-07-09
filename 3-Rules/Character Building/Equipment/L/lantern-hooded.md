@@ -3,30 +3,30 @@
 #                     CORE PROPERTIES                    #
 #========================================================#
 cssclass: pf2e-items, h-line
-name: "lancer"
-aliases: "Lancer"
-source: "Pathfinder Treasure Vault"
-pg: "31"
-rarity: "uncommon"
-trait01: "combination"
-trait02: "critical fusion"
-trait03: "reach"
-trait04: "capacity 2"
+name: "lantern-hooded"
+aliases: "Lantern (Hooded)"
+source: "Pathfinder Player Core"
+pg: "288"
+rarity: ""
+trait01: ""
+trait02: ""
+trait03: ""
+trait04:
 trait05:
 trait06:
 trait07:
 trait08:
-image: zz-Attachments/lancer.png
+image: zz-Attachments/assets/imageplaceholder.png
 level: 
-group: "Spear/Bow"
-bulk: 2
-value: "8"
-subvalue: "gp"
+group: 
+bulk: 1
+value: "7"
+subvalue: "sp"
 invest: 
-usage: "two hands"
+usage: "held in one hand"
 license: "ORC"
 identify: ""
-description: "This lance has a heavy grip with two parallel crossbow fixtures built into it, making it a useful weapon for combats who prefer to keep their distance at all times."
+description: "A lantern sheds bright light and requires 1 pint of oil to function for 6 hours. A hooded lantern sheds light in a 30-foot radius (and dim light in the next 30 feet) and is equipped with shutters, which you can close to block the light. Closing or opening the shutters takes an Interact action."
 activate: ""
 craft: 
 destruction: 
@@ -34,7 +34,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization"
+powerTitle1: ""
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -42,7 +42,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is immobilized and must spend an Interact action to attempt a DC 10 [[Skills#Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort."
+mechanics1: ""
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #
@@ -86,16 +86,16 @@ mechanics4: "**Secondary Effect** "
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: "60 ft."
-ammoType: "bolts"
-reload: 2
+range:
+ammoType:
+reload:
 damage: 
-dmg1: "1d8"
-dmg1Type: "piercing"
-dmg2: "1d6"
-dmg2Type: "piercing"
-weaponType: "Ranged/Melee"
-weaponCategory: "Martial"
+dmg1: 
+dmg1Type: 
+dmg2: 
+dmg2Type: 
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -141,18 +141,4 @@ craftBase:
 
 ```meta-bind-embed
 [[Item Card Template]]
-```
-
-
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
-
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(weaponbase, "Lancer")
-SORT level ASC
-
 ```

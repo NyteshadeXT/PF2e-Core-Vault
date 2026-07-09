@@ -131,7 +131,7 @@ The council is prepared to offer meaningful support despite Springrun’s limite
 Edrik Hollowmere explains that while Springrun cannot promise the wealth of a major city-state, the council understands the value of competent adventurers and intends to compensate the party fairly for tangible results.
 
 The council’s support includes the following:
-- basic provisions sufficient for several days of wilderness travel, including [[Rations|preserved rations]] , [[Waterskin|waterskins]], [[Lantern (Hooded)|hooded lanterns]] fitted with low-grade crystal batteries, [[rope]] and [[climbing-kit|climbing kits]];
+- basic provisions sufficient for several days of wilderness travel, including [[Rations|preserved rations]] , [[Waterskin|waterskins]], [[lantern-hooded|hooded lanterns]] fitted with low-grade crystal batteries, [[rope]] and [[climbing-kit|climbing kits]];
 - copies of the settlement’s current exploration maps showing known trails, abandoned hunter camps, caravan routes, river crossings, and regions considered increasingly dangerous or unstable;
 - a writ granting temporary authority to act in the interests of Springrun beyond the settlement walls, allowing the party to question scouts, organize local guides, requisition minor aid, and speak with the council’s endorsement when dealing with traders or nearby camps.
 
@@ -1375,10 +1375,10 @@ If reduced below one-quarter HP, it may retreat underground if an escape route e
 **Resonance Veins** Large crystal formations protrude from the earth. A successful DC 20 [[Skills#Arcana|Arcana]] or [[Skills#Nature|Nature]] check identifies these as unusually active and yet oddly stable.
 
 > [!tip]+ Treasure
-> If the the Bulette is harvested check the tables below. The players with a successful DC 20 [[Skills#Survival|Survival]] check can make their way back to the creature lair.  There they find the remains of several creatures as well as a pair of humanoid skeletons.  One of them is wearing a serviceable [[Lamellar Breastplate]] and next to the other lays a [[fighters-fork|Fighter's Fork]]
+> If the the Bulette is harvested check the tables below. The players with a successful DC 20 [[Skills#Survival|Survival]] check can make their way back to the creature lair.  There they find the remains of several creatures as well as a pair of humanoid skeletons.  One of them is wearing a serviceable [[lamellar-breastplate]] and next to the other lays a [[fighters-fork|Fighter's Fork]]
 > 
 > - [[B.#3-Rules/Bestiaries/Bestiary 1/B/Bulette Bulette|Bulette Harvest]]
-> - [ ] permanent::[[Lamellar Breastplate|Lamellar Breastplate]] [ilvl::0] [gp::7]
+> - [ ] permanent::[[lamellar-breastplate|Lamellar Breastplate]] [ilvl::0] [gp::7]
 > - [ ] permanent::[[fighters-fork|Fighter's Fork]] [ilvl::3] [gp::50]
 
 [[ACT I - FIRST CONTACT#Prismatic Canopy Random Encounters|Return to Encounter Table]]
