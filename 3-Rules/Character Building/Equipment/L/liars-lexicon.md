@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "liars-lexicon"
 aliases: "Liar's Lexicon"
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
-pg: ""
-rarity: ""
+pg: "184"
+rarity: "rare"
 trait01: "grimoire"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,13 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "The covers of this book are bound in scratchy, purple leather—hide harvested from a mind-manipulating wormlike monster known as a seugathi. The margins of this grimoire contain hundreds of tips and notes to avoid having your lies discovered. When you prepare spells from a _liar's lexicon_, you gain a +2 item bonus to Deception checks to [[Actions/Lie|Lie]].  **Activate** `pf2:1` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to cast a spell that has the emotion trait, your skill at manipulation and exploiting emotion enhance the spell. The spell gains the linguistic trait. Attempt a Deception check to Lie as you cast the spell against the Perception DC of all those observing you. Those you succeed against think you were merely talking, not casting a spell on a creature."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "The covers of this book are bound in scratchy, purple leather—hide harvested from a mind-manipulating wormlike monster known as a seugathi. The margins of this grimoire contain hundreds of tips and notes to avoid having your lies discovered. When you prepare spells from a _liar's lexicon_, you gain a +2 item bonus to [[Skills#Deception|Deception]] checks to [[Lie]].  **Activate**   **Frequency** once per day  * * *  **Effect** "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "[[envision]] ([[spellshape]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "If your next action is to cast a spell that has the [[emotion]] trait, your skill at manipulation and exploiting emotion enhance the spell. The spell gains the [[linguistic]] trait. Attempt a [[Skills#Deception|Deception]] check to [[Lie]] as you cast the spell against the [[Skills#Perception|Perception]] DC of all those observing you. Those you succeed against think you were merely talking, not casting a spell on a creature."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -1,4 +1,3 @@
----
 obsidianUIMode: preview
 cssclass: pf2e,pf2e-trait
 tags:

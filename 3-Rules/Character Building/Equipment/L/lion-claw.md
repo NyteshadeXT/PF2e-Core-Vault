@@ -26,13 +26,14 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:1` Interact  **Requirements** You're undetected by a creature and are a master in Stealth.  * * *  This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You Stride and then Strike with the affixed weapon against one creature you were [[Conditions/Undetected|Undetected]] by. You remain undetected by the creature until after you Strike."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This dried claw from a mighty beast bestows upon you the ability of a predator."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[Interact]])"
 frequency1:
 trigger1:
-mechanics1:
+requirement1: "You're undetected by a creature and are a master in [[Skills#Stealth|Stealth]]."
+mechanics1: "When you activate the claw, you learn to pounce on your prey in one fluid motion. You Stride and then Strike with the affixed weapon against one creature you were [[Undetected]] by. You remain undetected by the creature until after you Strike."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

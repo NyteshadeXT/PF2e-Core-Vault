@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "looters-lethargy"
 aliases: "Looter's Lethargy"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "69"
+rarity: "uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` Interact  The poison known as looter's lethargy ensures no thieves are strong enough to walk off with pilfered treasures. Commonly smeared on locks, chests, and even valuable items themselves, the poison slowly saps the strength of those who touch it. Nearby guardians can then simply follow the resulting trail of discarded valuables to find the weakened trespasser.  **Saving Throw** DC 19 Fortitude check  **Onset** 1 minute  **Maximum Duration** 1 hour  **Stage 1** reduce Bulk limit by 3 (1 minute)  **Stage 2** [[Conditions/Off-Guard|Off-Guard]], reduce Bulk limit by 4 (10 minutes)  **Stage 3** off-guard, reduce Bulk limit by 5 (10 minutes)"
+activate: "`pf2:3` [[Interact]]"
+description: "The poison known as looter's lethargy ensures no thieves are strong enough to walk off with pilfered treasures. Commonly smeared on locks, chests, and even valuable items themselves, the poison slowly saps the strength of those who touch it. Nearby guardians can then simply follow the resulting trail of discarded valuables to find the weakened trespasser.\n\n**Saving Throw** DC 19 Fortitude check  **Onset** 1 minute  **Maximum Duration** 1 hour  **Stage 1** reduce Bulk limit by 3 (1 minute)  **Stage 2** [[Off-Guard]], reduce Bulk limit by 4 (10 minutes)  **Stage 3** [[off-guard]], reduce Bulk limit by 5 (10 minutes)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

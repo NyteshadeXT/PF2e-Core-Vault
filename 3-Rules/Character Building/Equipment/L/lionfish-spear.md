@@ -7,32 +7,33 @@ notetype: pf2e-item
 name: "lionfish-spear"
 aliases: "Lionfish Spear"
 source: "Pathfinder Rage of Elements"
-pg: ""
+pg: "177"
 rarity: ""
 trait01: "magical"
 trait02: "thrown-20"
 trait03: "water"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/lionfish-spear.png
 level: 11
 weight: 1
 value: "3000"
 subvalue: "gp"
+group: "Spear"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Colorful stripes and trailing ribbons give this _+2 striking underwater wounding spear_ an appearance like a poisonous lionfish. While holding the spear, you gain a +2 item bonus to Athletic checks to [[Actions/Swim|Swim]].  * * *  **Activate—Lionfish Poison** `pf2:r` (concentrate)  **Frequency** once per day  **Trigger** You successfully Strike a creature with the _lionfish spear_  **Effect** The spear injects lionfish poison into the target  **Saving Throw** DC 28 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 3d6 poison damage and [[Conditions/Sickened|Sickened 1]] (1 round)  **Stage 2** 5d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)  **Stage 3** [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Colorful stripes and trailing ribbons give this _[[Weapon Potency (+2)|+2]] [[striking]] [[underwater]] [[wounding]] [[spear]]_ an appearance like a poisonous lionfish. While holding the spear, you gain a +2 item bonus to [[Skills#Athletics|Athletic]] checks to [[Swim]]."
+powerTitle1: "Lionfish Poison"
+actionEconomy1: "`pf2:r`"
+type1: "([[concentrate]])"
+frequency1: "once per day"
+trigger1: "You successfully Strike a creature with the _lionfish spear_"
+mechanics1: "The spear injects lionfish poison into the target  **Saving Throw** DC 28 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 3d6` poison damage and [[Sickened|Sickened 1]] (1 round)  **Stage 2** `dice: 5d6` poison damage and [[Sickened|Sickened 2]] (1 round)  **Stage 3** [[Paralyzed]] for `dice: 2d4` hours"
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d6 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d6
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,12 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Spear"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+

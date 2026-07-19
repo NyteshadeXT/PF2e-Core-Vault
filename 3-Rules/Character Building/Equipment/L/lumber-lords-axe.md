@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "lumber-lords-axe"
 aliases: "Lumber Lord's Axe"
 source: "Pathfinder #199: To Bloom Below the Web"
-pg: ""
-rarity: ""
+pg: "297"
+rarity: "uncommon"
 trait01: "magical"
 trait02: "sweep"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,17 +22,18 @@ level: 11
 weight: 1
 value: "900"
 subvalue: "gp"
+group: "Axe"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This unassuming tool wouldn't look out of place on the belt of an industrious laborer. Grooves worn into the wooden handle over years of use and an irregularly sharpened blade give it the distinct impression of being cherished, and the potent scent of freshly chopped wood always clings to the axe's blade despite any attempt to clean it or remove the odor. A creature that holds or carries this _+2 striking cold iron fungus and plant bane battle axe_ feels an obligation to tell the truth and receives a –4 status penalty to its attempts to [[Actions/Lie|Lie]].  **Activate** 1 minute (Interact)  **Frequency** once per day  * * *  **Effect** You polish and sharpen the axe, after which its scent grows even more powerful and the axe's blade transforms into your choice of standard-grade adamantine or standard-grade dawnsilver for 1 hour; then after this duration, the woodcutter's axe reverts to cold iron.  [[Equipment Effects/Effect_ Lumber Lord's Axe|Effect: Lumber Lord's Axe]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This unassuming tool wouldn't look out of place on the belt of an industrious laborer. Grooves worn into the wooden handle over years of use and an irregularly sharpened blade give it the distinct impression of being cherished, and the potent scent of freshly chopped wood always clings to the axe's blade despite any attempt to clean it or remove the odor. A creature that holds or carries this _[[Weapon Potency (+2)|+2]] [[striking]] [[cold-iron-weapon-standard-grade|cold iron]] [[3-Rules/Character Building/Equipment/B/Bane|fungus and plant bane]] [[battle axe]]_ feels an obligation to tell the truth and receives a –4 status penalty to its attempts to [[Lie]]."
+powerTitle1: "Effect"
+actionEconomy1: "1 minute"
+type1: "([[Interact]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You polish and sharpen the axe, after which its scent grows even more powerful and the axe's blade transforms into your choice of [[adamantine-weapon-standard-grade|standard-grade adamantine]] or [[dawnsilver-weapon-standard-grade|standard-grade dawnsilver]] for 1 hour; then after this duration, the woodcutter's axe reverts to cold iron."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 2d8 slashing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 2d8
+dmg1Type: slashing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Battle Axe"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

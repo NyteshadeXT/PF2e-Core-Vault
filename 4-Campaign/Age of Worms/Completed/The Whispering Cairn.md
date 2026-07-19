@@ -581,7 +581,7 @@ When the PCs enter the room, the vermin skittering about the sludge coalesces in
 > 
 > A DC 15 [[Seek]] check in the ruined remains fo the nest turns up a mummified human hand still holding a [[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]]
 > 
-> - [<] permanent::[[Leather Lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
+> - [<] permanent::[[leather-lamellar|Leather Lamellar]] [ilvl::1] [gp::18]
 > - [<] permanent::[[3-Rules/Character Building/Equipment/W/Wayfinder|Wayfinder]] [ilvl::2] [gp::28]
 > - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
 > - [<] consumable::[[Healing Potion (Minor)|Healing Potion (Minor)]] [ilvl::1] [gp::4]
@@ -618,7 +618,7 @@ The fatigued beetles do not respond to the sounds of conflict in area [[#16. Foo
 - [<] Low (10 XP) Level 1
 
 > [!tip]+ Treasure
-> The corpse on the southwest slab wears a suit of [[Leather Lamellar]] emblazoned wit the eight-pointed symbol of [[Kataklysmos]] and has a pouch containing 7 gp.
+> The corpse on the southwest slab wears a suit of [[leather-lamellar]] emblazoned wit the eight-pointed symbol of [[Kataklysmos]] and has a pouch containing 7 gp.
 > 
 > - [<] gp::7
 

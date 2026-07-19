@@ -7,9 +7,9 @@ notetype: pf2e-item
 name: "liars-board"
 aliases: "Liar's Board"
 source: "Pathfinder Lost Omens Highhelm"
-pg: ""
-rarity: ""
-trait01: "uncommon"
+pg: "59"
+rarity: "uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This clockwork game board contains 6 hidden compartments that can be opened by moving the game pieces in specific, preset patterns. Each chamber has a unique combination, and only one chamber can be opened at a time. Once a chamber is opened, a new combination can be set as a 1-minute activity. You can identify a Liar's Board as a clockwork device with a successful DC 25 Perception check check, and you can find an individual hidden compartment with a successful DC 30 Perception check check. The GM rolls a d6 to determine which chamber is discovered, rolling again if the result is one you're already aware of. You can force open a compartment you've identified with a successful DC 30 Thievery check check, but tampering will be obvious unless you critically succeed at the check. If you spend at least 1 hour examining the game board, you can instead attempt to deduce the correct combination to open a compartment with a successful DC 30 Society check or DC 30 Games Lore check check."
+description: "This clockwork game board contains 6 hidden compartments that can be opened by moving the game pieces in specific, preset patterns. Each chamber has a unique combination, and only one chamber can be opened at a time. Once a chamber is opened, a new combination can be set as a 1-minute activity. You can identify a Liar's Board as a clockwork device with a successful DC 25 [[Skills#Perception|Perception]] check check, and you can find an individual hidden compartment with a successful DC 30 [[Skills#Perception|Perception]] check check. The GM rolls a d6 to determine which chamber is discovered, rolling again if the result is one you're already aware of. You can force open a compartment you've identified with a successful DC 30 [[Skills#Thievery|Thievery]] check check, but tampering will be obvious unless you critically succeed at the check. If you spend at least 1 hour examining the game board, you can instead attempt to deduce the correct combination to open a compartment with a successful DC 30 [[Skills#Society|Society]] check or DC 30 [[Skills#Lore|Games Lore]] check check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

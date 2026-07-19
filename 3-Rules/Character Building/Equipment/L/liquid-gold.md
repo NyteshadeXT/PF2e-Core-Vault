@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "liquid-gold"
 aliases: "Liquid Gold"
 source: "Pathfinder #179: Cradle of Quartz"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,13 +26,14 @@ invest:
 usage: "affixed to a one handed firearm or hand crossbow"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` Interact  **Trigger** You roll for initiative  **Requirements** You're an expert in Stealth.  * * *  This glass vial containing liquid gold is fastened to a weapon by a fine gold chain.  You draw the attached weapon as a free action instead of as a reaction."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This glass vial containing liquid gold is fastened to a weapon by a fine gold chain."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[Interact]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You roll for initiative"
+requirement1: "You're an expert in [[Skills#Stealth|Stealth]]"
+mechanics1: "You draw the attached weapon as a free action instead of as a reaction."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

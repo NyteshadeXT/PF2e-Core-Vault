@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "living-leaf-weave"
 aliases: "Living Leaf Weave"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "64"
 rarity: ""
 trait01: "alchemical"
 trait02: "healing"
 trait03: "laminar"
 trait04: "plant"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This suit of leaf weave armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an elixir of life, which takes 3 Interact actions to install. A loaded suit of living leaf weave can be activated to grow slithering vines from the armor, granting an item bonus to Athletics checks to [[Actions/Grapple|Grapple]], to your Fortitude DC to resist Grapple, [[Actions/Disarm|Disarm]], or [[Actions/Shove|Shove]] attempts, and to your Reflex DCs to resist [[Actions/Trip|Trip]] attempts. The effects last for 3 rounds, consuming the elixir of life, and once the reaction has begun it can't be deactivated."
+activate: "`pf2:1` [[Interact]]"
+description: "This suit of [[leaf weave]] armor is specially modified to metabolize the alchemical accelerants in medicinal compounds. A special receptacle in the armor can hold an elixir of life, which takes 3 Interact actions to install. A loaded suit of living leaf weave can be activated to grow slithering vines from the armor, granting an item bonus to [[Skills#Athletics|Athletics]] checks to [[Grapple]], to your Fortitude DC to resist Grapple, [[Disarm]], or [[Shove]] attempts, and to your Reflex DCs to resist [[Trip]] attempts. The effects last for 3 rounds, consuming the elixir of life, and once the reaction has begun it can't be deactivated."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -71,7 +72,12 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
-armorBase:
+weaponBase: 
+armorBase: "Leaf Weave"
 
 ---
+
+
+```meta-bind-embed
+[[Item Card Template]]
+```

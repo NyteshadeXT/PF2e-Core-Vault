@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "light-pick"
 aliases: "Light Pick"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "278"
 rarity: ""
 trait01: "agile"
 trait02: "fatal-d8"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,17 +22,18 @@ level: 0
 weight: L
 value: "4"
 subvalue: "sp"
+group: "Pick"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
 description: "A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks."
-powerTitle1:
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The weapon viciously pierces the target, who takes 2 additional damage per weapon damage die."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -75,3 +76,20 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```dataview
+// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases AS "Aliases",
+  level AS "Level",
+  license AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE weaponbase = "Light Pick"
+SORT level ASC
+
+```

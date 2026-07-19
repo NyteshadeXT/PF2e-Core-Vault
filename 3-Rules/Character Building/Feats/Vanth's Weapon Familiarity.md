@@ -18,7 +18,7 @@ license: OGL
 
 
 
-You seek to emulate vanth reapers' fighting styles. You are trained with [[Bo Staff|Bo Staves]], [[Longbow|Longbows]], [[Composite Longbow|Composite Longbows]], [[Scythe|Scythes]], and [[3-Rules/Character Building/Equipment/S/Staff|Staves]].
+You seek to emulate vanth reapers' fighting styles. You are trained with [[Bo Staff|Bo Staves]], [[longbow|Longbows]], [[Composite Longbow|Composite Longbows]], [[Scythe|Scythes]], and [[3-Rules/Character Building/Equipment/S/Staff|Staves]].
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

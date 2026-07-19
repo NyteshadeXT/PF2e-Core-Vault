@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "luckless-dice"
 aliases: "Luckless Dice"
 source: "Pathfinder Treasure Vault"
-pg: ""
-rarity: ""
+pg: "192"
+rarity: "rare"
 trait01: "cursed"
 trait02: "magical"
 trait03: "misfortune"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Carved of bone, luckless dice appear to be a set of loaded dice. If unsuccessfully identified as cursed, luckless dice seem to hold a minor enchantment that improves your luck. However, they fuse to you when you use them, cursing you with ill fortune. Luckless dice don't grant a bonus on Games Lore checks. Instead, when you use them to gamble, the GM rolls secretly, granting you the lower result. Once you realize the dice are cursed, the GM can instead allow you to roll twice and take the lower result."
+description: "Carved of bone, luckless dice appear to be a set of loaded dice. If unsuccessfully identified as cursed, luckless dice seem to hold a minor enchantment that improves your luck. However, they fuse to you when you use them, cursing you with ill fortune. Luckless dice don't grant a bonus on [[Skills#Lore|Games Lore]] checks. Instead, when you use them to gamble, the GM rolls secretly, granting you the lower result. Once you realize the dice are cursed, the GM can instead allow you to roll twice and take the lower result."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
