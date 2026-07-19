@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "little-love"
 aliases: "Little Love"
 source: "Pathfinder Lost Omens Monsters of Myth"
-pg: ""
-rarity: ""
+pg: "94"
+rarity: "rare"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -22,17 +22,18 @@ level: 3
 weight: L
 value: "60"
 subvalue: "gp"
+group: "Knife"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This steel _+1 dagger_ is chipped and worn but no less deadly for its much-used appearance. When you critically succeed at an attack roll with _Little Love_, you can activate the dagger to spring away from your foes.  **Activate** `pf2:0` (manipulate)  **Frequency** once per 10 minutes  **Trigger** You critically hit a creature with _Little Love_  * * *  **Effect** You [[Actions/Leap|Leap]] (or Vault, if you're Spring-Heeled Jack)."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This steel _[[Weapon Potency (+1)|+1]] [[dagger]]_ is chipped and worn but no less deadly for its much-used appearance. When you critically succeed at an attack roll with _Little Love_, you can activate the dagger to spring away from your foes."
+powerTitle1: "Effect"
+actionEconomy1: "pf2:0`"
+type1: "([[manipulate]])"
+frequency1: "once per 10 minutes"
+trigger1: "You critically hit a creature with _Little Love_"
+mechanics1: "You [[Leap]] (or Vault, if you're Spring-Heeled Jack)."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -46,13 +47,13 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d4 piercing
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Dagger"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

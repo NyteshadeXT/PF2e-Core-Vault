@@ -7,14 +7,14 @@ notetype: pf2e-item
 name: "lodestone-bomb"
 aliases: "Lodestone Bomb"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "44"
 rarity: ""
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "force"
 trait05: "splash"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Lodestone bombs hold reactive ionized minerals preserved in a dormant state until broken. The bomb grants a +2 item bonus to attack rolls and deals 3d4 force damage and 2 force splash damage. In addition, a target made of metal, wearing metal armor, or using metal weapons takes 2d4 persistent force and is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] while taking the persistent damage. The persistent damage can last up to 1 minute."
+activate: "`pf2:1` [[Strike]]"
+description: "Lodestone bombs hold reactive ionized minerals preserved in a dormant state until broken. The bomb grants a +2 item bonus to attack rolls and deals `dice: 3d4` force damage and 2 force splash damage. In addition, a target made of metal, wearing metal armor, or using metal weapons takes `dice: 2d4` persistent force and is [[Clumsy|Clumsy 1]] and [[Enfeebled|Enfeebled 1]] while taking the persistent damage. The persistent damage can last up to 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -45,6 +45,12 @@
 - [ ] Remove instructions-for-lasting-agony as it no longer works following OGL changes.
 - [ ] Replace necklace of fireballs with Eternal Eruption and Frozen Lava items.
 - [ ] Add energy types to Potions of Resistance.
+- [ ] Blank prices: Eight normalized rows—representing five distinct products across shop types—have no price:
+- Elixir of Rejuvenation
+- Philosopher’s Stone
+- Eye of the Mantis
+- Navaratna of the Solar Ruby
+- Skarja’s Heartstone
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

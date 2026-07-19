@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "linguists-dictionary"
 aliases: "Linguist's Dictionary"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "112"
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,13 +26,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Bound in sturdy leather, this thick book has several colorful bookmarks and page dividers. Its title and text shift between numerous languages.  **Activate** `pf2:0` envision  **Frequency** once per day  **Requirements** Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[Spells/Translate|Translate]] or [[Spells/Truespeech|Truespeech]]  * * *  **Effect** The grimoire absorbs knowledge of one language translated this way (caster's choice if more than one), allowing its bearer to communicate on a rudimentary level in that language even after the spell's duration has elapsed. The _linguist's dictionary_ can hold one language at a time."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "Bound in sturdy leather, this thick book has several colorful bookmarks and page dividers. Its title and text shift between numerous languages."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+requirement1: "Your last action was to cast a spell prepared from this grimoire that allows understanding of another language, such as [[Translate]] or [[3-Rules/Character Building/Spells/T/Truespeech|Truespeech]]"
+mechanics1: "The grimoire absorbs knowledge of one language translated this way (caster's choice if more than one), allowing its bearer to communicate on a rudimentary level in that language even after the spell's duration has elapsed. The _linguist's dictionary_ can hold one language at a time."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

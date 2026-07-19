@@ -7,7 +7,7 @@ notetype: pf2e-item
 name: "maelstromic-destabilizer-(major)"
 aliases: "Maelstromic Destabilizer (Major)"
 source: "Pathfinder Lost Omens Rival Academies"
-pg: ""
+pg: "92"
 rarity: ""
 trait01: "consumable"
 trait02: "gadget"
@@ -17,7 +17,7 @@ trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/maelstromic-destabilizer.png
 level: 17
 weight: L
 value: "2750"

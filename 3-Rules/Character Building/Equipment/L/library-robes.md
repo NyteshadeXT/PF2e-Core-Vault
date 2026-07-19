@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "library-robes"
 aliases: "Library Robes"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "15"
 rarity: ""
 trait01: "inscribed"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/library-robes.png
 level: 9
 weight: L
 value: "700"
@@ -26,7 +26,7 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "These _+1 resilient scroll robes_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' inscribed trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to Craft one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in Crafting, nor do you need the Magical Crafting feat. Using this ability erases any scroll already inscribed on the robe."
+description: "These _[[armor-potency-1|+1]] [[resilient]] [[scroll robes]]_ magically store a spell for you. During your daily preparations, choose one spell you know of 5th level or lower. You inscribe that spell on the robes, as though you had done so using the robes' inscribed trait, but without needing to go through the normal scribing process. You must provide the minimum amount of materials to Craft one scroll of that spell (typically half the Price of a scroll of that level plus any extra cost required for the spell). You don't need to be trained in [[Skills#Crafting|Crafting]], nor do you need the [[Magical Crafting]] feat. Using this ability erases any scroll already inscribed on the robe."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -72,6 +72,10 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Scroll Robes"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

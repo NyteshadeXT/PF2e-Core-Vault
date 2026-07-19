@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "lodestone-shield"
 aliases: "Lodestone Shield"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "234"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,13 +26,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This _moderate reinforcing cold iron shield_ (Hardness 10, HP 92, BT 46) is inset with lodestones that draw ammunition toward it.  **Activate—Attract Projectile** `pf2:r` (manipulate)  **Frequency** once per minute  **Trigger** A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker hasn't yet rolled their attack  * * *  **Effect** The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the Shield Block reaction."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This _[[reinforcing-rune-(moderate)|moderate reinforcing]] [[cold-iron-shield-standard-grade|cold iron]] [[Steel Shield|shield]]_ is inset with lodestones that draw ammunition toward it."
+powerTitle1: "Attract Projectile"
+actionEconomy1: "`pf2:r`"
+type1: "([[manipulate]])"
+frequency1: "once per minute"
+trigger1: "A ranged weapon Strike targets a creature within 15 feet of you when you have this shield raised, and the attacker hasn't yet rolled their attack"
+mechanics1: "The triggering Strike targets you instead of its normal target. If it hits, you gain the effects of the [[Shield Block]] reaction."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -57,7 +57,7 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
+baseAC: 2
 modAC:
 dexCap:
 strRequirement:
@@ -67,11 +67,19 @@ armorCategory:
 resist:
 immunity:
 conditionImmunity:
+hardness: 10
+hp: 92
+bt: 46
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: "Steel Shield"
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

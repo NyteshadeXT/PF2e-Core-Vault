@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "linis-leafstick"
 aliases: "Lini's Leafstick"
 source: "Pathfinder Secrets of Magic"
-pg: ""
-rarity: ""
+pg: "165"
+rarity: "unique"
 trait01: "magical"
 trait02: "plant"
 trait03: "staff"
-trait04: "unique"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -22,24 +22,25 @@ level: 15
 weight: 1
 value: "6500"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Moss and winding vines give this gnarled staff of wild wood a vibrant green tinge. You created this staff to aid you in speaking to the plants you met on your adventure and beseeching them to come to your aid.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]] *   **1st** [[Spells/Protector Tree|Protector Tree]], [[Spells/Shillelagh|Shillelagh]] *   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape Wood]] *   **3rd** [[Spells/One with Plants|One with Plants]], [[Spells/Wall of Thorns|Wall of Thorns]] *   **4th** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Speak with Plants|Speak with Plants]] *   **5th** [[Spells/Plant Form|Plant Form]], [[Spells/Wall of Thorns|Wall of Thorns]] *   **6th** [[Spells/Nature's Reprisal|Nature's Reprisal]], [[Spells/Plant Form|Plant Form]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
-powerTitle1:
+description: "Moss and winding vines give this gnarled staff of wild wood a vibrant green tinge. You created this staff to aid you in speaking to the plants you met on your adventure and beseeching them to come to your aid."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.\n\n**Cantrip** [[Tangle Vine]]\n**1st** [[Protector Tree]], [[Shillelagh]]\n**2nd** [[Entangling Flora]], [[Shape Wood]]\n**3rd** [[One with Plants]], [[Wall of Thorns]]\n**4th** [[Oaken Resilience]], [[Speak with Plants]]\n**5th** [[Plant Form]], [[Wall of Thorns]]\n**6th** [[Nature's Reprisal]], [[Plant Form]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -47,12 +48,12 @@ craft:
 range: 
 ammoType:
 damage: 
-dmg1:
-dmg1Type:
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -71,7 +72,11 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

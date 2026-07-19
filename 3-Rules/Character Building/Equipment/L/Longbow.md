@@ -1,32 +1,160 @@
 ---
-obsidianUIMode: preview
-title: "Longbow"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/deadly-d10
-  - trait/volley-30
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.MVAWttmT0QDa7LsV"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: pf2e-items, h-line
+name: "longbow"
+aliases: "Longbow"
+source: "Pathfinder Player Core"
+pg: "280"
+rarity: ""
+trait01: "deadly-d10"
+trait02: "volley-30"
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 
+group: "Bow"
+bulk: 2
+value: "6"
+subvalue: "gp"
+invest: 
+usage: "held in one plus hands"
+license: "ORC"
+identify: ""
+description: "This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: "Critical Specialization"
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: "If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile. The target is [[immobilized]] and must spend an Interact action to attempt a DC 10 [[Skills#Athletics|Athletics]] check to pull the missile free; it can't move from its space until it succeeds. The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort."
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: "100 ft."
+ammoType: "Arrows"
+reload: 0
+damage: 
+dmg1: 1d8
+dmg1Type: piercing 
+dmg2: 
+dmg2Type: 
+weaponType: Ranged
+weaponCategory: Martial
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: ""
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Longbow
-## Item 0
-### [[deadly-d10]][[volley-30]]
-
-|  |  |
-| -- | -- |
-| **Category** martial ranged weapon | **Group** bow |
-| **Price** 6 gp |  |
-| **Bulk** 2 | **Size** med |
-|**Range** 100 ft.| **Reload** 0|
-| **Damage** 1d8 piercing  | **Usage** held-in-one-plus-hands |
 
 
+```meta-bind-embed
+[[Item Card Template]]
+```
 
-This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted.
 
-*Source: Pathfinder Player Core*
-*ORC*
+```dataview
+// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+
+TABLE
+  aliases   AS "Aliases",
+  level     AS "Level",
+  license   AS "License"
+FROM "3-Rules/Character Building/Equipment"
+WHERE contains(weaponbase, "Longbow")
+SORT level ASC
+
+```
+
+

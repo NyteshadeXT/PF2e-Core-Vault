@@ -7,12 +7,12 @@ notetype: pf2e-item
 name: "life-salt"
 aliases: "Life Salt"
 source: "Pathfinder Book of the Dead"
-pg: ""
+pg: "20"
 rarity: ""
 trait01: "consumable"
 trait02: "divine"
 trait03: "vitality"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  This crystal vial contains salts blessed by channeling life-giving energies into waters purified by holy fire. You can activate this vial by throwing it as a Strike. It's a simple thrown ranged weapon with a range increment of 10 feet. Unlike an alchemical bomb, it doesn't add the manipulate trait to the attack made with it. On a hit against an undead, _life salt_ deals 1 persistent vitality damage, and the undead must succeed at a DC 20 Will check or be unable to attack you as long as it continues taking the persistent vitality damage. If you use a hostile action against any undead, this second effect ends, and the undead can attack you normally."
+activate: "`pf2:1` [[Strike]]"
+description: "**Activate**   This crystal vial contains salts blessed by channeling life-giving energies into waters purified by holy fire. You can activate this vial by throwing it as a Strike. It's a simple thrown ranged weapon with a range increment of 10 feet. Unlike an alchemical bomb, it doesn't add the manipulate trait to the attack made with it. On a hit against an undead, _life salt_ deals 1 persistent vitality damage, and the undead must succeed at a DC 20 Will check or be unable to attack you as long as it continues taking the persistent vitality damage. If you use a hostile action against any undead, this second effect ends, and the undead can attack you normally."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

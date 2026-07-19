@@ -7,13 +7,13 @@ notetype: pf2e-item
 name: "longnight-tea"
 aliases: "Longnight Tea"
 source: "Pathfinder #197: Let the Leaves Fall"
-pg: ""
+pg: "uncommon"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
 trait04: "tea"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -26,7 +26,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact or 10 minutes (concentrate, Interact)  * * *  This tea is brewed with a mixture of matcha, turmeric, and 10 drops of morning dew, creating a fragrant but mildly bitter tea. The bitter aftertaste is said to be the most important element of longnight tea, for it's believed that this flavor lingers on the tongue and aids in keeping you awake and alert. The tea is favored by scholars and soldiers alike, although the value to which each attributes the ability to endure long nights without sleeping varies—and is often the subject of unusually impassioned debate. When you drink longnight tea, it grants you a +1 item bonus to saving throws against sleep effects for 1 hour.  [[Equipment Effects/Effect_ Longnight Tea|Effect: Longnight Tea]]  * * *  **Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[Conditions/Fatigued|Fatigued]] condition."
+activate: "`pf2:1` [[Interact]] or 10 minutes ([[concentrate]], [[Interact]])"
+description: "This tea is brewed with a mixture of matcha, turmeric, and 10 drops of morning dew, creating a fragrant but mildly bitter tea. The bitter aftertaste is said to be the most important element of longnight tea, for it's believed that this flavor lingers on the tongue and aids in keeping you awake and alert. The tea is favored by scholars and soldiers alike, although the value to which each attributes the ability to endure long nights without sleeping varies—and is often the subject of unusually impassioned debate. When you drink longnight tea, it grants you a +1 item bonus to saving throws against sleep effects for 1 hour.\n\n**Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[Fatigued]] condition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

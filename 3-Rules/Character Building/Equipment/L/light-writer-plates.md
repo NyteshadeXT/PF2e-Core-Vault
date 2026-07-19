@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "light-writer-plates"
 aliases: "Light Writer Plates"
 source: "Pathfinder Guns & Gears"
-pg: ""
-rarity: ""
+pg: "88"
+rarity: "rare"
 trait01: "clockwork"
 trait02: "light"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -7,17 +7,17 @@ notetype: pf2e-item
 name: "lovers-gloves"
 aliases: "Lover's Gloves"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "emotion"
 trait02: "invested"
 trait03: "magical"
 trait04: "mental"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
+image: zz-Attachments/lovers-gloves.png
 level: 8
 weight: 
 value: "500"
@@ -26,13 +26,13 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward. They buoy your spirit, giving you a +1 item bonus to Diplomacy checks.  **Activate—Bond** `pf2:1` (manipulate)  **Frequency** once per day  * * *  **Effect** You grasp the hands of a willing creature you have strong positive feelings about, regardless of the nature of those feelings. The creature gains a +1 status bonus to saving throws and 10 temporary Hit Points for 10 minutes. If the creature shares your feelings, you gain the same benefits, and for the duration, when you both roll a success on a saving throw against an emotion effect that causes negative emotions, you both get a critical success instead.  [[Equipment Effects/Effect_ Lover's Gloves|Effect: Lover's Gloves]]"
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward. They buoy your spirit, giving you a +1 item bonus to [[Skills#Diplomacy|Diplomacy]] checks."
+powerTitle1: "Bond"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You grasp the hands of a willing creature you have strong positive feelings about, regardless of the nature of those feelings. The creature gains a +1 status bonus to saving throws and 10 temporary Hit Points for 10 minutes. If the creature shares your feelings, you gain the same benefits, and for the duration, when you both roll a success on a saving throw against an emotion effect that causes negative emotions, you both get a critical success instead."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

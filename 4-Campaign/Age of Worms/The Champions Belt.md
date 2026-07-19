@@ -463,12 +463,12 @@ The battle usually resolves in this order:
 
 The PCs typically win, but the spectacle matters more than the danger.
 
-**Development:** When the last of the PCs’ opponents are defeated or surrender, the crowd cheers as Raknian proclaims them the victors. Ekaym is given the awards (the trophy and 150 gp) and the PCs are escorted back down to the Coenoby. You should determine at this point which of the other five gladiator teams also won, since they are now the only other teams housed in the Coenoby. Auric's Warband and Pitch Blade must be two of these five (since they are the teams the PCs will face on day 3 and day 5), but the remaining three can be any teams you choose.
+**Development:** When the last of the PCs’ opponents are defeated or surrender, the crowd cheers as Raknian proclaims them the victors. Ekaym is given the awards (the trophy and 200 gp) and the PCs are escorted back down to the Coenoby. You should determine at this point which of the other five gladiator teams also won, since they are now the only other teams housed in the Coenoby. Auric's Warband and Pitch Blade must be two of these five (since they are the teams the PCs will face on day 3 and day 5), but the remaining three can be any teams you choose.
 
 If the PCs are defeated, the adventure isn't over. Although they're disqualified and escorted from the arena, they can still return as patrons or explore the understructure using stealth or other options.
 
 ### Event 4: Ekyam’s Request 
-At some point after Event 3 but before the PCs have a chance to really start exploring the understructure, [[Ekaym Smallcask.png]] pays them a visit in the Coenoby. Armed with a toothy smile, he offers to pay the PCs their share of the winnings now. He's also more than willing to hold on to their winnings for them for now (although he won't do anything foolish with the money). After he congratulates them, his manner grows more serious. He takes the party aside to their chambers, and in a low voice he tells them he has a confession to make.
+At some point after Event 3 but before the PCs have a chance to really start exploring the understructure, Ekaym Smallcask pays them a visit in the Coenoby. Armed with a toothy smile, he offers to pay the PCs their share of the winnings now. He's also more than willing to hold on to their winnings for them for now (although he won't do anything foolish with the money). After he congratulates them, his manner grows more serious. He takes the party aside to their chambers, and in a low voice he tells them he has a confession to make.
 
 > [!note]+ Read Aloud
 > While it's nice that you turned out to be pretty good gladiators, I must admit that I had a hidden motive for entering you in the games.

@@ -7,10 +7,10 @@ notetype: pf2e-item
 name: "lucky-keepsake"
 aliases: "Lucky Keepsake"
 source: "Pathfinder Lost Omens Character Guide"
-pg: ""
+pg: "69"
 rarity: ""
 trait01: "leshy"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -26,7 +26,7 @@ invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "Obtained from [[Feats/Lucky Keepsake|Lucky Keepsake]]"
+description: "You have a keepsake that grants you luck. You gain a +1 circumstance bonus to saves against spells and magical effects at all times, not just when you use [[Leshy Superstition]]. If you lose the keepsake, you lose the bonus until you designate a new keepsake, typically over the course of a week."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

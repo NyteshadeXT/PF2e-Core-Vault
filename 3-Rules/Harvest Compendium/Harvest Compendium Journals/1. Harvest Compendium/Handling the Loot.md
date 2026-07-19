@@ -34,7 +34,7 @@ If you can craft an item into a weapon or set of armor that has a rune pre-insta
 
 > **Crafting Equipment with Pre-Etched Runes**
 > 
-> Felix is a 5th-level wizard who has the expert rank in Crafting and who is looking at a few weeks of downtime. He has a modifier of +10 and he has the [[Feats/Magical Crafting|Magical Crafting]] feat. He has a [[Brain Collector Claw|Brain Collector Claw]] in his possession and wants to craft a [[Mace]] out of it. The GM secretly sets a DC of 19.
+> Felix is a 5th-level wizard who has the expert rank in Crafting and who is looking at a few weeks of downtime. He has a modifier of +10 and he has the [[Feats/Magical Crafting|Magical Crafting]] feat. He has a [[Brain Collector Claw|Brain Collector Claw]] in his possession and wants to craft a [[mace]] out of it. The GM secretly sets a DC of 19.
 > 
 > Crafting a mace out of the claw means that it comes with a [[Striking]] rune already etched into it when completed, but Felix still needs the formula and the materials for the striking rune. He must spend half the value of the mace (1 gp) and the 4th-level striking rune (65 gp) to attempt to craft the item, coming out to 33 gp. However, the brain collector claw has a material cost of 30 gp, lowering the required investment to 3 gp.
 > 

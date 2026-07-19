@@ -1,0 +1,82 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "lodestone-bomb-greater"
+aliases: "Lodestone Bomb (Greater)"
+source: "Pathfinder Treasure Vault"
+pg: "44"
+rarity: ""
+trait01: "alchemical"
+trait02: "bomb"
+trait03: "consumable"
+trait04: "force"
+trait05: "splash"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 18
+weight: L
+value: "4500"
+subvalue: "gp"
+invest:
+usage: "held in one hand "
+license: "ORC"
+identify:
+activate: "`pf2:1` [[Strike]]"
+description: "Lodestone bombs hold reactive ionized minerals preserved in a dormant state until broken. The bomb grants a +3 item bonus to attack rolls and deals `dice: 4d4` force damage and 3 force splash damage. In addition, a target made of metal, wearing metal armor, or using metal weapons takes `dice: 3d4` persistent force and is [[Clumsy|Clumsy 1]] and [[Enfeebled|Enfeebled 1]] while taking the persistent damage. The persistent damage can last up to 1 minute."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 20 ft
+ammoType:
+damage: 4d4 force
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

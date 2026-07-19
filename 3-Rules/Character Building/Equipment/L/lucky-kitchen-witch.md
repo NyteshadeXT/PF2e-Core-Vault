@@ -7,11 +7,11 @@ notetype: pf2e-item
 name: "lucky-kitchen-witch"
 aliases: "Lucky Kitchen Witch"
 source: "Pathfinder #182: Graveclaw"
-pg: ""
-rarity: ""
+pg: "77"
+rarity: "uncommon"
 trait01: "fortune"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -26,7 +26,7 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This small doll in the shape of a witch is made from sticks and clad in a simple dress, bonnet, and wooden shoes. It sits astride a miniature straw broom. When hung in a kitchen, the witch brings good luck and protects a cook from malicious spirits. The _lucky kitchen witch_ must hang in a kitchen for a week to give any benefit.  When you have a _lucky kitchen witch_ hung in your kitchen, you can reroll a Cooking Lore or Crafting check made during downtime to make food, [[Actions/Earn Income|Earn Income]], or Craft an alchemical item in your kitchen."
+description: "This small doll in the shape of a witch is made from sticks and clad in a simple dress, bonnet, and wooden shoes. It sits astride a miniature straw broom. When hung in a kitchen, the witch brings good luck and protects a cook from malicious spirits. The _lucky kitchen witch_ must hang in a kitchen for a week to give any benefit.  When you have a _lucky kitchen witch_ hung in your kitchen, you can reroll a [[Skills#Lore|Cooking Lore]] or [[Skills#Crafting|Crafting]] check made during downtime to make food, [[Earn Income]], or Craft an alchemical item in your kitchen."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +75,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

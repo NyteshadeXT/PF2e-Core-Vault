@@ -1,0 +1,82 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclass: h-line
+notetype: pf2e-item
+name: "life-boosting-oil-major"
+aliases: "Life-Boosting Oil (Major)"
+source: "Pathfinder Treasure Vault"
+pg: "uncommon"
+rarity: ""
+trait01: "consumable"
+trait02: "healing"
+trait03: "magical"
+trait04: "oil"
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 15
+weight: L
+value: "1300"
+subvalue: "gp"
+invest:
+usage: "held in two hands"
+license: "ORC"
+identify:
+activate: "`pf2:1` [[Interact]]"
+description: "When you apply sticky, stinging life-boosting oil, you gain fast healing 15 that starts the first time you take damage while the oil lasts. Once the fast healing starts, the oil remains effective for 4 rounds. However, the oil lasts only 8 hours, whether it provides fast healing or not."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
