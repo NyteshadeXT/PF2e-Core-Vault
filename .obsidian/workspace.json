@@ -22,22 +22,6 @@
             }
           },
           {
-            "id": "9449cf9d4f71da48",
-            "type": "leaf",
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "markdown",
-                  "markdown": "# Expedition Progress\n\n| Expedition Progress |  |\n|---|---|\n| **Destination:** | `VIEW[string({destination})]` |\n| **Readiness:** | `VIEW[string({currentReadiness} >= 4 ? \"Ready\" : {currentReadiness} == 3 ? \"Steady\" : {currentReadiness} == 2 ? \"Worn\" : {currentReadiness} == 1 ? \"Strained\" : \"Compromised\")]`|\n| **Pressure:** | `VIEW[string({currentPressure} == 0 ? \"Calm\" : {currentPressure} == 1 ? \"Tense\" : {currentPressure} == 2 ? \"Perilous\" : {currentPressure} == 3 ? \"Dire\" : \"Imminent Danger\")]`|\n| **Status:** | `VIEW[string({currentVP} == 0 ? \"Preparing Expedition\" : {currentVP} >= round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier}) ? \"Arrived at Destination\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"Departed\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"Making Good Progress\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"Over Halfway There\" : \"Destination in Sight\")]` |\n| **Route:** | `VIEW[string({currentVP} == 0 ? \"🏠 ●──○──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.125 ? \"🏠 ○──●──○──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.25 ? \"🏠 ○──○──●──○──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.375 ? \"🏠 ○──○──○──●──○──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.50 ? \"🏠 ○──○──○──○──●──○──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.625 ? \"🏠 ○──○──○──○──○──●──○──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 0.75 ? \"🏠 ○──○──○──○──○──○──●──○ 💎\" : ({currentVP} / round((({hexDistance} * 2) < 6 ? 6 : ({hexDistance} * 2)) + {regionModifier} + {terrainModifier})) < 1 ? \"🏠 ○──○──○──○──○──○──○──● 💎\" : \"🏠 ○──○──○──○──○──○──○──✓ 💎\")]` |\n\n>\n>> [!column | 2 no-t no-i] \n>>> # Expedition Challenge\n>>> | Expedition Challenge            |                                                                                                                                                                                                                                                                                                                       |\n>>> | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n>>> | **Destination:**                | `INPUT[text:destination]` |\n>>> | **Hex Distance:**               | `INPUT[number:hexDistance]` |\n>>> | **Region Modifier:**            | `INPUT[inlineSelect(option(0, Road), option(0, Plains), option(2, Forest), option(3, Hills), option(3, Swamp), option(5, Mountains)):regionModifier]` | \n>>> | **Weather Modifier:** | `INPUT[inlineSelect(option(0, Normal), option(1, Rain), option(2, Storm)):weatherModifier]` |\n>>> | **VP Target:**                  | `VIEW[round((2 + {regionModifier} + {weatherModifier}) * {hexDistance})]` |\n>>> | **Travel Day:** | `VIEW[round((2 + {regionModifier} + {weatherModifier}))]` |\n>>> | **Current VP:**                 | `INPUT[number:currentVP]` |\n>>> | **Current Pressure:**             | `INPUT[number:currentPressure]` |\n>>> | **Pressure State:** | `VIEW[string({currentPressure} <= 2 ? \"Calm\" : {currentPressure} <= 5 ? \"Tense\" : {currentPressure} <= 8 ? \"Perilous\" : {currentPressure} <= 11 ? \"Dire\" : \"Critical\")]` |\n>>> | **Encounter Chance:** | `VIEW[string({currentPressure} <= 2 ? \"0%\" : {currentPressure} <= 5 ? \"20%\" : {currentPressure} <= 8 ? \"40%\" : {currentPressure} <= 11 ? \"60%\" : \"100%\")]` |\n>>> | **Encounter Severity:** | `VIEW[string({currentPressure} <= 2 ? \"None\" : {currentPressure} <= 3 ? \"Low\" : {currentPressure} <= 5 ? \"Moderate\" : {currentPressure} <= 9 ? \"Severe\" : {currentPressure} <= 11 ? \"Severe with Complication\" : \"Signature Encounter\")]` |\n>>> | **Current Readiness:**          | `INPUT[number:currentReadiness]` |\n>>> | **Readiness State:**            | `VIEW[string({currentReadiness} >= 4 ? \"Ready\" : {currentReadiness} == 3 ? \"Steady\" : {currentReadiness} == 2 ? \"Worn\" : {currentReadiness} == 1 ? \"Strained\" : \"Compromised\")]`                                                                                                                                      |\n>>> | **Readiness Effect:**           | `VIEW[string({currentReadiness} >= 4 ? \"Advantage when danger begins.\" : {currentReadiness} == 3 ? \"No modifier.\" : {currentReadiness} == 2 ? \"Minor complication when danger begins.\" : {currentReadiness} == 1 ? \"Disadvantage when danger begins.\" : \"Fatigued, hostile advantage, or increase event severity.\")]` |\n>>> | **Today's VP:** | `INPUT[number:todayVP]`   |\n>>> | **Daily Limit:** | `VIEW[10]`  |\n>>> | **Current Day:**  | `INPUT[number:travelDay]` |\n>>\n>>> # Expedition Check Results\n>>> |Check Result|Progress|Pressure|Readiness|\n>>> |---|:-:|:-:|:-:|\n>>> |**Critical Success**|+3 VP|-1|—|\n>>> |**Success**|+2 VP|—|—|\n>>> |**Failure**|+1 VP|+1|—|\n>>> |**Critical Failure**|—|+2|-1|\n>>\n> \n\n\n\n>\n>> [!column | 2 no-t no-i] \n>>> # Readiness Adjustments\n>>> | Situation                                              | Readiness Change |\n>>> | ------------------------------------------------------ |:----------------:|\n>>> | Critical Success on camp/recovery action               |        +2        |\n>>> | Success on camp/recovery action                        |        +1        |\n>>> | Failure on significant expedition check                |        -1        |\n>>> | Critical Failure on significant expedition check       |        -2        |\n>>> | Forced march, severe weather, major hazard, lost route |        -1        |\n>>> | Severe encounter or major complication                 |        -1        |\n>>> | Comfortable/full camp in safe location                 |        +1        |\n>>> | Rest day in secure location                            |    Reset to 4    |\n>>\n>>> # Pressure Adjustments\n>>> At the end of each successful expedition day, reduce Pressure by 1 (minimum 0), unless an encounter or major complication occurred that day.  Additional adjustments are below.\n>>> \n>>> | Event                                |  Pressure  |\n>>> | ------------------------------------ |:----------:|\n>>> | Critical Success on Expedition Check |     -1     |\n>>> | Success on Expedition Check          |     0      |\n>>> | Failure on Expedition Check          |     +1     |\n>>> | Critical Failure on Expedition Check |     +2     |\n>>> | Forced march                         |     +2     |\n>>> | Loud Combat                         |     +1     |\n>>> | Severe weather                       |     +1     |\n>>> | Poor camp setup             |     +1     |\n>>> | Hidden camp                          |     -1     |\n>>> | Deliberate stealth travel            |     -1     |\n>>> | Spend time scouting                  |     -1     |\n>>> | Take a full rest day                 | Reset to 0 |\n>>> | Pressure Event resolves              | Reset one level of pressure state |\n>>\n>\n",
-                  "sourcePath": "1-GM Toolkit/Expedition_Challenges.md"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
             "id": "fbce5160498990a8",
             "type": "leaf",
             "state": {
@@ -52,17 +36,19 @@
             }
           },
           {
-            "id": "2acc4486ba1a55e2",
+            "id": "1bca55c902290d3b",
             "type": "leaf",
+            "dimension": 16.666666666666668,
             "state": {
-              "type": "markdown",
+              "type": "ttrpg-tools-screen-controller",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
-                "mode": "source",
-                "source": true
+                "payload": {
+                  "kind": "note",
+                  "path": "1-GM Toolkit/Idea Book/Windrose Map Test.md"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Insert Item"
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
             }
           },
           {
@@ -80,17 +66,31 @@
             }
           },
           {
+            "id": "2acc4486ba1a55e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
+          },
+          {
             "id": "4fdc93b94f491cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/L/lattice-armor.md",
+                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "lattice-armor"
+              "title": "Handling the Loot"
             }
           },
           {
@@ -108,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,8 +271,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_b91a7ac8d8ab",
-                "creatureName": "Bulette"
+                "creatureId": "ID_d8a9aac878e9",
+                "creatureName": "Assassin Vine"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -282,8 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,12 +313,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4fdc93b94f491cb0",
+  "active": "1bca55c902290d3b",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/L/lastwall-soup-improved.md",
-    "3-Rules/Character Building/Equipment/L/lattice-armor.md",
-    "zz-Attachments/lattice-armor.png",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
     "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Expedition_Challenges.md",
+    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine.md",
+    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine-armor.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
+    "3-Rules/Character Building/Equipment/L/lattice-armor.md",
+    "windrose-tile-metadata.json",
+    "3-Rules/Character Building/Equipment/L/lastwall-soup-improved.md",
+    "zz-Attachments/lattice-armor.png",
     "3-Rules/Character Building/Equipment/L/lastwall-soup-greater.md",
     "3-Rules/Character Building/Equipment/L/lastwall-soup.md",
     "3-Rules/Character Building/Equipment/L/large-bore-modifications.md",
@@ -329,21 +342,9 @@
     "3-Rules/Character Building/Equipment/L/lantern-bulls-eye.md",
     "3-Rules/Character Building/Equipment/L/lancer.md",
     "3-Rules/Character Building/Equipment/L/land-delvers-chair.md",
-    "1-GM Toolkit/Expedition_Challenges.md",
     "zz-Attachments/lancer.png",
     "3-Rules/Character Building/Equipment/L/lance-of-suns-radiance.md",
-    "3-Rules/Character Building/Equipment/L/Lance.md",
-    "3-Rules/Character Building/Equipment/L/lamellar-breastplate.md",
-    "3-Rules/Character Building/Equipment/L/lambent-perfume.md",
-    "3-Rules/Character Building/Equipment/L/ladys-spiral.md",
-    "3-Rules/Character Building/Equipment/L/ladys-knife.md",
-    "3-Rules/Character Building/Equipment/L/ladys-chalice.md",
-    "3-Rules/Character Building/Equipment/L/lacquered-waist-drum.md",
-    "3-Rules/Character Building/Equipment/K/kushtaka-relic.md",
-    "3-Rules/Character Building/Equipment/K/kaiju-fulu.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
     "TTRPG/Time/event-details-legacy-backup",
-    "1-GM Toolkit/DC Calculator.md",
     "TTRPG/Time/event-source",
     "windrose-content/fog/fog-parchment.jpg",
     "windrose-content/fog/fog-dark-marble.jpg",
@@ -359,7 +360,6 @@
     "zz-Attachments/multicolored-icons/multicolored-icons/multicolored.properties",
     "zz-Attachments/multicolored-icons/multicolored-icons",
     "zz-Attachments/multicolored-icons",
-    "windrose-content/fog",
-    "windrose-content"
+    "windrose-content/fog"
   ]
 }

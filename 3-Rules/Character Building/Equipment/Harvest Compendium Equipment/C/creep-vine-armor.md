@@ -28,7 +28,7 @@ license: "ORC"
 identify: ""
 description: "This armor is woven from carefully prepared Creep Vines. Though it resembles supple leather armor, the living fibers retain a measure of their natural flexibility, subtly shifting to prevent entanglement and distribute strain. Creep Vine Armor functions as [[Leather Armor]]. While wearing Creep Vine Armor, you gain a +1 item bonus to checks to [[Escape]] from a [[Grab|Grabbed]], [[Immobilized]], or [[Restrained]] condition caused by plants, vines, roots, or other natural vegetation."
 activate: ""
-craft: "Crafting Creep Vine Armor requires twenty [[creep-vine|Creep Vines]] in addition to the normal materials required to Craft a suit of Leather Armor."
+craft: "Crafting Creep Vine Armor requires at least twenty [[creep-vine|Creep Vines]] in addition to the normal materials required to Craft a suit of Leather Armor."
 destruction:
 
 #========================================================#

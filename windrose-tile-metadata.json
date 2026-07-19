@@ -1,0 +1,513 @@
+{
+  "zz-Attachments/multicolored-icons/multicolored-icons/anchor.png": {
+    "alphaCoverage": 0.14617919921875,
+    "opaqueW": 170,
+    "opaqueH": 221,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/badlands.png": {
+    "alphaCoverage": 0.1185302734375,
+    "opaqueW": 209,
+    "opaqueH": 230,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/battle.png": {
+    "alphaCoverage": 0.16278076171875,
+    "opaqueW": 166,
+    "opaqueH": 180,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/cactus.png": {
+    "alphaCoverage": 0.17578125,
+    "opaqueW": 139,
+    "opaqueH": 191,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/camp.png": {
+    "alphaCoverage": 0.29119873046875,
+    "opaqueW": 158,
+    "opaqueH": 148,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/capital.png": {
+    "alphaCoverage": 0.21282958984375,
+    "opaqueW": 219,
+    "opaqueH": 150,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/castle.png": {
+    "alphaCoverage": 0.36822509765625,
+    "opaqueW": 195,
+    "opaqueH": 148,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/cathedral.png": {
+    "alphaCoverage": 0.29205322265625,
+    "opaqueW": 150,
+    "opaqueH": 230,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/cattle.png": {
+    "alphaCoverage": 0.2410888671875,
+    "opaqueW": 248,
+    "opaqueH": 169,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/cave.png": {
+    "alphaCoverage": 0.39459228515625,
+    "opaqueW": 174,
+    "opaqueH": 176,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/city.png": {
+    "alphaCoverage": 0.25244140625,
+    "opaqueW": 188,
+    "opaqueH": 168,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/crater.png": {
+    "alphaCoverage": 0.21331787109375,
+    "opaqueW": 197,
+    "opaqueH": 136,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/crossbones.png": {
+    "alphaCoverage": 0.12615966796875,
+    "opaqueW": 239,
+    "opaqueH": 141,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/cultivatedfarmland.png": {
+    "alphaCoverage": 0.2677001953125,
+    "opaqueW": 281,
+    "opaqueH": 281,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/deadforest.png": {
+    "alphaCoverage": 0.226318359375,
+    "opaqueW": 217,
+    "opaqueH": 225,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/deadforesthills.png": {
+    "alphaCoverage": 0.302490234375,
+    "opaqueW": 227,
+    "opaqueH": 232,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/deadforestmountain.png": {
+    "alphaCoverage": 0.2884521484375,
+    "opaqueW": 225,
+    "opaqueH": 219,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/deadforestmountains.png": {
+    "alphaCoverage": 0.27301025390625,
+    "opaqueW": 223,
+    "opaqueH": 217,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/dunes.png": {
+    "alphaCoverage": 0.27862548828125,
+    "opaqueW": 227,
+    "opaqueH": 107,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/dungeon.png": {
+    "alphaCoverage": 0.24749755859375,
+    "opaqueW": 133,
+    "opaqueH": 172,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/evergreen.png": {
+    "alphaCoverage": 0.1910400390625,
+    "opaqueW": 117,
+    "opaqueH": 229,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/evergreenhills.png": {
+    "alphaCoverage": 0.276611328125,
+    "opaqueW": 211,
+    "opaqueH": 229,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/evergreenmountain.png": {
+    "alphaCoverage": 0.2420654296875,
+    "opaqueW": 201,
+    "opaqueH": 217,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/evergreenmountains.png": {
+    "alphaCoverage": 0.28729248046875,
+    "opaqueW": 209,
+    "opaqueH": 221,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/fish.png": {
+    "alphaCoverage": 0.140869140625,
+    "opaqueW": 188,
+    "opaqueH": 94,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/forestedhills.png": {
+    "alphaCoverage": 0.3980712890625,
+    "opaqueW": 225,
+    "opaqueH": 234,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/forestedmountain.png": {
+    "alphaCoverage": 0.36297607421875,
+    "opaqueW": 217,
+    "opaqueH": 223,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/forestedmountains.png": {
+    "alphaCoverage": 0.41015625,
+    "opaqueW": 213,
+    "opaqueH": 232,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/fort.png": {
+    "alphaCoverage": 0.33984375,
+    "opaqueW": 188,
+    "opaqueH": 133,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/grapes.png": {
+    "alphaCoverage": 0.28155517578125,
+    "opaqueW": 195,
+    "opaqueH": 272,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/grassland.png": {
+    "alphaCoverage": 0.18890380859375,
+    "opaqueW": 199,
+    "opaqueH": 205,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/grassyhills.png": {
+    "alphaCoverage": 0.21173095703125,
+    "opaqueW": 236,
+    "opaqueH": 141,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/heavycactus.png": {
+    "alphaCoverage": 0.2930908203125,
+    "opaqueW": 238,
+    "opaqueH": 193,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/heavyevergreen.png": {
+    "alphaCoverage": 0.3836669921875,
+    "opaqueW": 211,
+    "opaqueH": 209,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/heavyforest.png": {
+    "alphaCoverage": 0.42657470703125,
+    "opaqueW": 217,
+    "opaqueH": 205,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/hills.png": {
+    "alphaCoverage": 0.36053466796875,
+    "opaqueW": 238,
+    "opaqueH": 143,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/jet.png": {
+    "alphaCoverage": 0.1612548828125,
+    "opaqueW": 380,
+    "opaqueH": 312,
+    "srcW": 512,
+    "srcH": 512
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/jungle.png": {
+    "alphaCoverage": 0.41046142578125,
+    "opaqueW": 232,
+    "opaqueH": 238,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/junglehills.png": {
+    "alphaCoverage": 0.3343505859375,
+    "opaqueW": 227,
+    "opaqueH": 236,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/lightforest.png": {
+    "alphaCoverage": 0.41937255859375,
+    "opaqueW": 195,
+    "opaqueH": 234,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/lighthouse.png": {
+    "alphaCoverage": 0.142333984375,
+    "opaqueW": 176,
+    "opaqueH": 154,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/marsh.png": {
+    "alphaCoverage": 0.28082275390625,
+    "opaqueW": 215,
+    "opaqueH": 213,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/mines.png": {
+    "alphaCoverage": 0.1944580078125,
+    "opaqueW": 215,
+    "opaqueH": 201,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/moderncapital.png": {
+    "alphaCoverage": 0.2645263671875,
+    "opaqueW": 184,
+    "opaqueH": 146,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/moderncity.png": {
+    "alphaCoverage": 0.28790283203125,
+    "opaqueW": 168,
+    "opaqueH": 158,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/monolith.png": {
+    "alphaCoverage": 0.1143798828125,
+    "opaqueW": 47,
+    "opaqueH": 180,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/monument.png": {
+    "alphaCoverage": 0.14990234375,
+    "opaqueW": 123,
+    "opaqueH": 152,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/mountain.png": {
+    "alphaCoverage": 0.20648193359375,
+    "opaqueW": 168,
+    "opaqueH": 152,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/mountains.png": {
+    "alphaCoverage": 0.2720947265625,
+    "opaqueW": 234,
+    "opaqueH": 127,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/oasis.png": {
+    "alphaCoverage": 0.33245849609375,
+    "opaqueW": 234,
+    "opaqueH": 238,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/pyramid.png": {
+    "alphaCoverage": 0.26971435546875,
+    "opaqueW": 234,
+    "opaqueH": 190,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/radiation.png": {
+    "alphaCoverage": 0.20611572265625,
+    "opaqueW": 180,
+    "opaqueH": 168,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/reefs.png": {
+    "alphaCoverage": 0.1185302734375,
+    "opaqueW": 209,
+    "opaqueH": 230,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/rockydesert.png": {
+    "alphaCoverage": 0.1185302734375,
+    "opaqueW": 209,
+    "opaqueH": 230,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/ruins.png": {
+    "alphaCoverage": 0.2567138671875,
+    "opaqueW": 213,
+    "opaqueH": 137,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/sandydesert.png": {
+    "alphaCoverage": 0.05712890625,
+    "opaqueW": 238,
+    "opaqueH": 244,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/shipwreck.png": {
+    "alphaCoverage": 0.20526123046875,
+    "opaqueW": 215,
+    "opaqueH": 203,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/shrine.png": {
+    "alphaCoverage": 0.18853759765625,
+    "opaqueW": 168,
+    "opaqueH": 143,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/spaceship.png": {
+    "alphaCoverage": 0.1141357421875,
+    "opaqueW": 192,
+    "opaqueH": 209,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/spacestation.png": {
+    "alphaCoverage": 0.1571044921875,
+    "opaqueW": 113,
+    "opaqueH": 148,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/star.png": {
+    "alphaCoverage": 0.35382080078125,
+    "opaqueW": 202,
+    "opaqueH": 199,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/statue.png": {
+    "alphaCoverage": 0.12811279296875,
+    "opaqueW": 146,
+    "opaqueH": 170,
+    "srcW": 237,
+    "srcH": 237
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/steppedpyramid.png": {
+    "alphaCoverage": 0.20574951171875,
+    "opaqueW": 202,
+    "opaqueH": 143,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/sun.png": {
+    "alphaCoverage": 0.26275634765625,
+    "opaqueW": 160,
+    "opaqueH": 158,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/swamp.png": {
+    "alphaCoverage": 0.322998046875,
+    "opaqueW": 225,
+    "opaqueH": 219,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/tank.png": {
+    "alphaCoverage": 0.1766357421875,
+    "opaqueW": 232,
+    "opaqueH": 108,
+    "srcW": 300,
+    "srcH": 300
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/temple.png": {
+    "alphaCoverage": 0.2850341796875,
+    "opaqueW": 195,
+    "opaqueH": 156,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/tower.png": {
+    "alphaCoverage": 0.32342529296875,
+    "opaqueW": 133,
+    "opaqueH": 199,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/town.png": {
+    "alphaCoverage": 0.20941162109375,
+    "opaqueW": 199,
+    "opaqueH": 86,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/village.png": {
+    "alphaCoverage": 0.20245361328125,
+    "opaqueW": 227,
+    "opaqueH": 104,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/volcano.png": {
+    "alphaCoverage": 0.2415771484375,
+    "opaqueW": 168,
+    "opaqueH": 180,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/volcanodormant.png": {
+    "alphaCoverage": 0.1964111328125,
+    "opaqueW": 168,
+    "opaqueH": 121,
+    "srcW": 250,
+    "srcH": 250
+  },
+  "zz-Attachments/multicolored-icons/multicolored-icons/whaling.png": {
+    "alphaCoverage": 0.13031005859375,
+    "opaqueW": 225,
+    "opaqueH": 150,
+    "srcW": 250,
+    "srcH": 250
+  }
+}

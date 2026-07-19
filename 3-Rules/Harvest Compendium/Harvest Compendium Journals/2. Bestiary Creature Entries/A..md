@@ -284,8 +284,8 @@ tags:
 
 | Harvest Options                            |
 | ------------------------------------------ |
-| 1d6 [[entangling-vines\|Entangling Vines]] |
-| 1d12 [[creep-vine\|Creep Vine]]                                           |
+| `dice: 1d6` [[entangling-vines\|Entangling Vines]] |
+| `dice: 1d12` [[creep-vine\|Creep Vine]]                                           |
 
 ## Azata
 

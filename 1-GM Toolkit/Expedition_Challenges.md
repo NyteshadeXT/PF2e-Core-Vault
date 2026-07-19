@@ -1,16 +1,16 @@
 ---
 destination: Springrun
-hexDistance: 8
+hexDistance: 10
 regionModifier: 2
-currentPressure: 3
+currentPressure: 5
 currentReadiness: 4
 weatherModifier: 0
-todayVP: 0
+todayVP: 5
 travelDay: 4
-currentVP: 16
+currentVP: 37
 hexVP: 4
-vpTarget: 32
-currentDay: 3
+vpTarget: 40
+currentDay: 5
 dailyVP: 8
 ---
 
