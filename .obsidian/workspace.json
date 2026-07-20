@@ -22,6 +22,23 @@
             }
           },
           {
+            "id": "72fed7d08fc7bc8c",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://2ab5b780d6d9b31f7eb0cd21f71f498831d7/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp?1727629979358",
+                  "filePath": "zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
+            }
+          },
+          {
             "id": "fbce5160498990a8",
             "type": "leaf",
             "state": {
@@ -33,22 +50,6 @@
               },
               "icon": "lucide-file",
               "title": "ACT I - FIRST CONTACT"
-            }
-          },
-          {
-            "id": "1bca55c902290d3b",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "note",
-                  "path": "1-GM Toolkit/Idea Book/Windrose Map Test.md"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
             }
           },
           {
@@ -271,8 +272,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_d8a9aac878e9",
-                "creatureName": "Assassin Vine"
+                "creatureId": "ID_680b8a6aca6a",
+                "creatureName": "Ankylosaurus"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -313,15 +314,118 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1bca55c902290d3b",
+  "floating": {
+    "id": "3d6aa391e7726f15",
+    "type": "floating",
+    "children": [
+      {
+        "id": "96cf4bae71809c22",
+        "type": "window",
+        "children": [
+          {
+            "id": "bb8c4d8c8a324eb5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e1806da829cb563",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -640,
+        "y": 144,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "d0371c164f7534c0",
+        "type": "window",
+        "children": [
+          {
+            "id": "200ab1287f5fce27",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "901bb3c504d5331d",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://2ab5b780d6d9b31f7eb0cd21f71f498831d7/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp?1727629979358",
+                      "filePath": "zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 144,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "dccba76ff5eb383f",
+        "type": "window",
+        "children": [
+          {
+            "id": "a7ab2d78aa15d3dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a919fae5e4d01aad",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1-GM Toolkit/Expedition_Challenges.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Expedition_Challenges"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "3037111778f5e453",
   "lastOpenFiles": [
+    "1-GM Toolkit/Expedition_Challenges.md",
     "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
     "zz-Templates/Markdown/Insert Item.md",
     "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Expedition_Challenges.md",
-    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine.md",
     "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine-armor.md",
     "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
