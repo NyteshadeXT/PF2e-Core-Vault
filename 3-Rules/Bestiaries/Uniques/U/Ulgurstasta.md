@@ -2,19 +2,19 @@
 id: apostle-kyuss-l12  
 obsidianUIMode: preview  
 noteType: pf2eMonster  
-aliases: "Apostle of Kyuss"  
+aliases: "Ulgurstasta"  
 tags:  
 - pf2e/creature/type/undead  
 - pf2e/creature/level/12  
 statblock: inline  
-name: "Apostle of Kyuss"  
+name: "Ulgurstasta"  
 level: 12
 ---
 
 ```statblock
 layout: Basic Pathfinder 2e Layout
 source: "Converted from D&D 3e"
-name: "Apostle of Kyuss"
+name: "Ulgurstasta"
 level: "Creature 12"
 size: "Gargantuan"
 rare_01: "Unique"
@@ -39,7 +39,6 @@ abilities_top:
 
 abilities_mid:
 
-
 abilities_bot:
   - name: "Bite"
     desc: "⬻ Bite +25 ([[reach|reach 20 feet]], [[magical]]); __Damage__ `dice: 2d12+14` piercing plus `dice: 2d6` void and [[Grabbed]]"
@@ -56,7 +55,7 @@ abilities_bot:
   - name: "Swallow Whole"
     desc: "⬻  Medium or smaller, DC 31 Reflex.\n__Failure__ Swallowed; takes `dice: 3d6` acid + `dice: 2d6` void each round.\nEscape DC 31; Cut Out 25 damage vs AC 30. A swallowed creature that dies rises as a Spawn of Kyuss 1 round later."
 
-speed: 35 feet, burrow 20 feet
+speed: 25 feet, burrow 20 feet
 
 ac: 31
 armorclass:

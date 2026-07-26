@@ -17,6 +17,7 @@ ownedlocation:
   - "[[Tidwod's]]"
 location:
   - "[[Tidwod's]]"
+  - "[[Diamond Lake]]"
 condition: Healthy
 party1relation: Dislike
 ---

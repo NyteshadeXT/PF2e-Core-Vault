@@ -55,15 +55,17 @@
       "travelPerDay": {
         "value": 8,
         "unit": "h"
-      }
+      },
+      "terrains": []
     }
   ],
   "defaultScaleLikeSticker": false,
-  "enableDrawing": false,
+  "enableDrawing": true,
   "preferActiveLayerInEditor": false,
   "enableTextLayers": false,
   "enableMeasurePro": false,
   "enableSessionImageCache": false,
+  "showZoomButtonsHud": false,
   "sessionImageCacheMb": 512,
   "keepOverlaysLoaded": false,
   "preferCanvasImagesWhenCaching": false,

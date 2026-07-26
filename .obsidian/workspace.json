@@ -22,34 +22,17 @@
             }
           },
           {
-            "id": "72fed7d08fc7bc8c",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://2ab5b780d6d9b31f7eb0cd21f71f498831d7/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp?1727629979358",
-                  "filePath": "zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
             "id": "fbce5160498990a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-                "mode": "preview",
+                "file": "2-Party/Shattering/Jaina BeautyNoodles.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ACT I - FIRST CONTACT"
+              "title": "Jaina BeautyNoodles"
             }
           },
           {
@@ -100,16 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
+                "file": "1-GM Toolkit/Travel Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DC Calculator"
+              "title": "Travel Calculator"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,8 +255,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_680b8a6aca6a",
-                "creatureName": "Ankylosaurus"
+                "creatureId": "ID_6869fb9819c9",
+                "creatureName": "Ulgurstasta"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -283,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,156 +297,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "3d6aa391e7726f15",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96cf4bae71809c22",
-        "type": "window",
-        "children": [
-          {
-            "id": "bb8c4d8c8a324eb5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7e1806da829cb563",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -640,
-        "y": 144,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "d0371c164f7534c0",
-        "type": "window",
-        "children": [
-          {
-            "id": "200ab1287f5fce27",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "901bb3c504d5331d",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://2ab5b780d6d9b31f7eb0cd21f71f498831d7/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp?1727629979358",
-                      "filePath": "zz-Attachments/modules/pf2e-tokens-bestiaries/portraits/bestial/reptilian/ankylosaurus.webp"
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": 144,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "dccba76ff5eb383f",
-        "type": "window",
-        "children": [
-          {
-            "id": "a7ab2d78aa15d3dc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a919fae5e4d01aad",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1-GM Toolkit/Expedition_Challenges.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Expedition_Challenges"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "3037111778f5e453",
+  "active": "fbce5160498990a8",
   "lastOpenFiles": [
-    "1-GM Toolkit/Expedition_Challenges.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
+    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/U..md",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "4-Campaign/Age of Worms/A Gathering of Winds.md",
     "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "zz-Templates/Markdown/Insert Custom Encounter (Initiative Tracker).md",
+    "2-Party/Shattering/Xevious.md",
+    "zz-Attachments/shard-of-the-star-postdungeon.png",
+    "5-World/Settlements/Diamond Lake.md",
+    "1-GM Toolkit/Idea Book/Untitled.md",
+    "zz-Attachments/Assets/ImagePlaceholder.png",
+    "zz-Attachments/Assets/MapPlaceholder.png",
+    "zz-Attachments/deep-wilds-dungeon.png",
+    "zz-Attachments/deep-wilds-heartroot.png",
+    "zz-Attachments/image-2.png",
+    "zz-Attachments/image-3.png",
+    "zz-Attachments/image-4.png",
+    "zz-Attachments/windrose_objects/dungeon_door.svg",
+    "zz-Attachments/image-1.png",
+    "zz-Attachments/image-1.png.markers.json",
     "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/A..md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine.md",
-    "3-Rules/Character Building/Equipment/Harvest Compendium Equipment/C/creep-vine-armor.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
-    "3-Rules/Character Building/Equipment/L/lattice-armor.md",
+    "1-GM Toolkit/Expedition_Challenges.md",
+    "5-World/NPCs/Diamond Lake/Zalmandra.md",
+    "5-World/NPCs/Ardentia City/Wilryn Whistlesnatch.md",
+    "5-World/NPCs/Diamond Lake/Venelle.md",
+    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
+    "5-World/NPCs/Diamond Lake/Tirra.md",
+    "5-World/NPCs/Diamond Lake/Tidwoad.md",
+    "5-World/NPCs/Diamond Lake/Taggin.md",
+    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
+    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
+    "5-World/NPCs/Diamond Lake/Marzena.md",
+    "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
+    "5-World/NPCs/Diamond Lake/Lazare.md",
+    "5-World/NPCs/Diamond Lake/Lanod Neff.md",
+    "5-World/NPCs/Diamond Lake/Kullen.md",
+    "3-Rules/Bestiaries/Uniques/U",
     "windrose-tile-metadata.json",
-    "3-Rules/Character Building/Equipment/L/lastwall-soup-improved.md",
-    "zz-Attachments/lattice-armor.png",
-    "3-Rules/Character Building/Equipment/L/lastwall-soup-greater.md",
-    "3-Rules/Character Building/Equipment/L/lastwall-soup.md",
-    "3-Rules/Character Building/Equipment/L/large-bore-modifications.md",
-    "3-Rules/Character Building/Equipment/L/lantern-of-empty-light.md",
-    "3-Rules/Character Building/Equipment/L/lantern-hooded.md",
-    "3-Rules/Character Building/Equipment/L/Lantern Implement.md",
-    "3-Rules/Character Building/Equipment/L/lantern-bulls-eye.md",
-    "3-Rules/Character Building/Equipment/L/lancer.md",
-    "3-Rules/Character Building/Equipment/L/land-delvers-chair.md",
-    "zz-Attachments/lancer.png",
-    "3-Rules/Character Building/Equipment/L/lance-of-suns-radiance.md",
     "TTRPG/Time/event-details-legacy-backup",
     "TTRPG/Time/event-source",
-    "windrose-content/fog/fog-parchment.jpg",
-    "windrose-content/fog/fog-dark-marble.jpg",
-    "windrose-content/fog/fog-watercolor.jpg",
-    "zz-Attachments/image.png",
-    "zz-Attachments/Age of Worms-20241013135345875.webp",
-    "zz-Attachments/Aegis Holy Symbol.png",
-    "zz-Attachments/windrose_objects/dungeon_door.svg",
-    "zz-Attachments/windrose_objects/aetheria_fracta_dungeon_door.svg",
     "zz-Attachments/windrose_objects",
     "zz-Attachments/New folder",
     "windrose-md-data.json",
     "zz-Attachments/multicolored-icons/multicolored-icons/multicolored.properties",
-    "zz-Attachments/multicolored-icons/multicolored-icons",
-    "zz-Attachments/multicolored-icons",
-    "windrose-content/fog"
+    "zz-Attachments/multicolored-icons/multicolored-icons"
   ]
 }

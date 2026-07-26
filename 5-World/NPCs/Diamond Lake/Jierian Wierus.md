@@ -13,6 +13,7 @@ language:
   - Common
 location:
   - "[[Church of Aegis - Diamond Lake]]"
+  - "[[Diamond Lake]]"
 condition: Healthy
 religion:
   - "[[Aegis]]"

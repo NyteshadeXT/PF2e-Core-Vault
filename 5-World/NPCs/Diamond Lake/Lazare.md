@@ -13,6 +13,7 @@ language:
   - Common
 occupation:
   - Tavern Keeper
+  - "[[Diamond Lake]]"
 ownedlocation:
   - "[[Lazare's House]]"
 location:

@@ -16,7 +16,8 @@ ownedlocation:
   - "[[The Captain's Blade]]"
 location:
   - "[[The Captain's Blade]]"
-condition: Healthy
+  - "[[Diamond Lake]]"
+condition: Dead
 party1relation: Like
 ---
 

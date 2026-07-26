@@ -54,7 +54,7 @@ adventure_level: 7th to 9th
 > [!kirk|info] Prompt (Remove me) 
 > Provide an overarching overview of this adventure. What is the central theme or conflict driving the narrative? Outline the potential quests or objectives that the players may embark on. Consider the variety of challenges, encounters, or tasks they might face. Additionally, describe how the adventure begins. What inciting incident or call to action propels the players into the unfolding storyline? Use this section to set the stage, introduce key elements, and establish the initial motivations that will guide the players throughout the adventure.
 
-## Chapter 1 — The Verdant Hollow
+## Chapter 1 — The Deep Hallow Dungeon
 
 
 

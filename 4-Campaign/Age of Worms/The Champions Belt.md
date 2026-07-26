@@ -7,7 +7,7 @@ aliases:
 quicknote: The Champion’s Games are here! Gladiators from around the world converge in the Free City! Yet this year, something dire festers in the arena’s foundations, for its director plots one of the final omens heralding the Age of Worms.
 whichparty: "[[Age of Worms Party Dashboard]]"
 adventure_status: Not Started
-adventure_level: 9th to ???
+adventure_level: 9th to 11
 ---
 
 > [!metadata|metadata]- Metadata 
@@ -1074,7 +1074,7 @@ The ulgurstasta within the sphere has already achieved its full growth—all tha
 name: Bloodstone Arena - Ulgurstasta Chamber
 party: Age of Worms
 creatures:
-  - 1: Apostle of Kyuss
+  - 1: Ulgurstasta
 ```
 
 ## Tactics
@@ -1100,6 +1100,9 @@ If the PCs defeat Bozal but leave the ulgurstasta in its sphere of force, Raknia
 
 The best solution to this adventure is for the PCs to destroy both Bozal and the ulgurstasta before the final games. If the PCs manage this, Raknian morosely carries through with the rest of the games, but his actions are noticeably subdued and depressed. The evening after the final games, he retreats to his personal chambers, gathers his gear, and slips out of the city to start a new life elsewhere.
 
+> [!warning]
+> **Advance players to level 11!**
+
 ## Concluding the Adventure
 As long as the PCs prevent the tragedy of the mass sacrifice from occurring, they still have a chance to win the final prize money. Raknian is likely not the one to hand out the award, but Talabir Welik is only too happy to honor the PCs with their rightful prize.
 
@@ -1109,7 +1112,7 @@ Yet despite the PCs’ successes (or in addition to their failures) one last tra
 
 At some point during the Champion's Games, Raknian learns troubling news. It seems that a notable sage named Eligos has been asking around about Kyuss, the Apostolic Scrolls, and the Age of Woms. At Bozal’s urging, Raknian sends his cohort Okoral on an assassination mission against the sage. Okoral takes along a couple of elite guards to help with the job, and has little trouble invading the sage’s home the night before the Final Battle and murders him in his sleep. Should the PCs return to Eligos’s house they find both Eligos and Pollard are quite dead—their killers are nowhere to be found. Okoral himself fades into the shadows once Raknian falls from prominence, and may hold a grudge against the PGs in the future.
 
-A search of the estate turns up one item of interest. With a DC 28 Search check, the party discovers a bundle of notes and observations that catalog what Eligos has learned of the Age of Worms. This bundle is kept in a small coffer on the shelf of Eligos's study and was simply overlooked by Okoral in his rush to do the job and get out. A note on the top of this bundle is addressed to Allustan, and reads, “My dear friend Allustan—What your adventurers have stumbled into sickens me to my soul, Every new leaf I turn reveals an even darker secret. Here are my notes. You must take them to our one-time master—although I fear that even he may be ill-equipped for what writhes in all of our futures. Until then...” The note is not finished.
+A search of the estate turns up one item of interest. With a DC 28 [[Search]] check, the party discovers a bundle of notes and observations that catalog what Eligos has learned of the Age of Worms. This bundle is kept in a small coffer on the shelf of Eligos's study and was simply overlooked by Okoral in his rush to do the job and get out. A note on the top of this bundle is addressed to Allustan, and reads, “My dear friend Allustan—What your adventurers have stumbled into sickens me to my soul, Every new leaf I turn reveals an even darker secret. Here are my notes. You must take them to our one-time master—although I fear that even he may be ill-equipped for what writhes in all of our futures. Until then...” The note is not finished.
 
 For now, the PCs should be able to rest easy. They've likely not only prevented a terrible tragedy from striking the heart of Ardentia City, but may have become Champions themselves. Certainly, the events at this year’s Champion's Games are on the tongues of everyone in the city. Give the PCs some time to bask in their newfound fame and glory. They may feel that they've come to a dead end in their investigations into the truth behind the Age of Worms, but this is not the case. If they don't find the package of notes Eligos prepared for Allustan, the PCs soon learn of another reason to return to Diamond Lake.
 

@@ -9,6 +9,8 @@ gender: Male
 age: Mature Adult
 sexuality: Straight
 alignment: True Neutral
+location:
+  - "[[Diamond Lake]]"
 ---
 
 > [!metadata|metadata]- Metadata 

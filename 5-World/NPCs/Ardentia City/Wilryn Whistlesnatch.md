@@ -10,6 +10,8 @@ age: Adult
 sexuality: Straight
 alignment: Lawful Neutral
 condition: Healthy
+location:
+  - "[[Ardentia City]]"
 ---
 
 > [!metadata|metadata]- Metadata 

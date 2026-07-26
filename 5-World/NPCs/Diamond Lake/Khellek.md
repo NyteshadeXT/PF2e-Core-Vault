@@ -15,6 +15,7 @@ language:
   - Elven
 organization:
   - "[[Dungeon Seekers Guild]]"
+  - "[[Diamond Lake]]"
 occupation:
   - Mage
 location:
