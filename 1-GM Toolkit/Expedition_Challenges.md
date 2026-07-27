@@ -2,7 +2,7 @@
 destination: Springrun
 hexDistance: 10
 regionModifier: 2
-currentPressure: 5
+currentPressure: 7
 currentReadiness: 4
 weatherModifier: 0
 todayVP: 5

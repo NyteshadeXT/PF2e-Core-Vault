@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2fcdc8b7bb2af52",
+            "id": "4904fc433b616762",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ttrpg-tools-screen-controller",
               "state": {
-                "file": "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-                "mode": "preview",
-                "source": true
+                "payload": {
+                  "kind": "image",
+                  "source": "app://6987cb4473c32edbfbcebb22750975596a7f/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/deep-wilds-dungeon.png?1782080101112",
+                  "filePath": "zz-Attachments/deep-wilds-dungeon.png"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Windrose Map Test"
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
             }
           },
           {
@@ -27,26 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Party/Shattering/Jaina BeautyNoodles.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jaina BeautyNoodles"
-            }
-          },
-          {
-            "id": "6b436a54b344c3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/Expedition_Challenges.md",
+                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Expedition_Challenges"
+              "title": "ACT I - FIRST CONTACT"
             }
           },
           {
@@ -69,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
+                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Handling the Loot"
+              "title": "Harvesting Creatures"
             }
           },
           {
@@ -83,16 +71,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Travel Calculator.md",
+                "file": "1-GM Toolkit/DC Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Travel Calculator"
+              "title": "DC Calculator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,8 +242,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_6869fb9819c9",
-                "creatureName": "Ulgurstasta"
+                "creatureId": "ID_3839382988c8",
+                "creatureName": "Ankylosaurus"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -266,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 484.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,14 +284,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fbce5160498990a8",
+  "active": "4904fc433b616762",
   "lastOpenFiles": [
+    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
+    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "1-GM Toolkit/Expedition_Challenges.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "1-GM Toolkit/Travel Calculator.md",
+    "2-Party/Shattering/Jaina BeautyNoodles.md",
     "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
     "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
     "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/U..md",
     "4-Campaign/Age of Worms/The Champions Belt.md",
     "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
     "zz-Templates/Markdown/Insert Custom Encounter (Initiative Tracker).md",
     "2-Party/Shattering/Xevious.md",
     "zz-Attachments/shard-of-the-star-postdungeon.png",
@@ -320,22 +319,10 @@
     "zz-Attachments/windrose_objects/dungeon_door.svg",
     "zz-Attachments/image-1.png",
     "zz-Attachments/image-1.png.markers.json",
-    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "1-GM Toolkit/Expedition_Challenges.md",
     "5-World/NPCs/Diamond Lake/Zalmandra.md",
     "5-World/NPCs/Ardentia City/Wilryn Whistlesnatch.md",
     "5-World/NPCs/Diamond Lake/Venelle.md",
     "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
-    "5-World/NPCs/Diamond Lake/Tirra.md",
-    "5-World/NPCs/Diamond Lake/Tidwoad.md",
-    "5-World/NPCs/Diamond Lake/Taggin.md",
-    "5-World/NPCs/Diamond Lake/Shag Soloman.md",
-    "5-World/NPCs/Diamond Lake/Ragnolin Dourstone.md",
-    "5-World/NPCs/Diamond Lake/Marzena.md",
-    "5-World/NPCs/Diamond Lake/Manlin Osgood.md",
-    "5-World/NPCs/Diamond Lake/Lazare.md",
-    "5-World/NPCs/Diamond Lake/Lanod Neff.md",
-    "5-World/NPCs/Diamond Lake/Kullen.md",
     "3-Rules/Bestiaries/Uniques/U",
     "windrose-tile-metadata.json",
     "TTRPG/Time/event-details-legacy-backup",
