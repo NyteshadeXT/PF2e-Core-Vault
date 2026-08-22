@@ -2,10 +2,10 @@
   "userAdmonitions": {
     "embed-feat": {
       "type": "embed-feat",
-      "color": "48, 245, 56",
+      "color": "rgb(48, 245, 56)",
       "icon": {
         "name": "star",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
@@ -14,7 +14,7 @@
     },
     "embed-ability": {
       "type": "embed-ability",
-      "color": "0, 0, 0",
+      "color": "rgb(0, 0, 0)",
       "icon": {
         "type": "obsidian",
         "name": "lucide-swords"
@@ -26,10 +26,10 @@
     },
     "inline-affliction": {
       "type": "inline-affliction",
-      "color": "94, 0, 0",
+      "color": "rgb(94, 0, 0)",
       "icon": {
         "name": "viruses",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": true,
@@ -38,10 +38,10 @@
     },
     "embed-avatar": {
       "type": "embed-avatar",
-      "color": "240, 61, 61",
+      "color": "rgb(240, 61, 61)",
       "icon": {
         "name": "monument",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
@@ -50,10 +50,10 @@
     },
     "embed-action": {
       "type": "embed-action",
-      "color": "101, 83, 153",
+      "color": "rgb(101, 83, 153)",
       "icon": {
         "name": "wolf-pack-battalion",
-        "type": "font-awesome"
+        "type": "fab"
       },
       "command": false,
       "injectColor": false,
@@ -62,10 +62,10 @@
     },
     "embed-disease": {
       "type": "embed-disease",
-      "color": "41, 102, 0",
+      "color": "rgb(41, 102, 0)",
       "icon": {
         "name": "disease",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": true,
@@ -74,10 +74,10 @@
     },
     "embed-item": {
       "type": "embed-item",
-      "color": "39, 134, 134",
+      "color": "rgb(39, 134, 134)",
       "icon": {
         "name": "coins",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
@@ -86,7 +86,7 @@
     },
     "embed-ritual": {
       "type": "embed-ritual",
-      "color": "202, 155, 128",
+      "color": "rgb(202, 155, 128)",
       "icon": {
         "name": "praying-hands",
         "type": "font-awesome"
@@ -98,7 +98,7 @@
     },
     "inline-attack": {
       "type": "inline-attack",
-      "color": "187, 78, 105",
+      "color": "rgb(187, 78, 105)",
       "icon": {
         "type": "obsidian",
         "name": "lucide-sword"
@@ -110,10 +110,10 @@
     },
     "pf2-note": {
       "type": "pf2-note",
-      "color": "26, 105, 152",
+      "color": "rgb(26, 105, 152)",
       "icon": {
         "name": "scroll",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": false,
@@ -122,10 +122,10 @@
     },
     "pf2-summary": {
       "type": "pf2-summary",
-      "color": "192, 135, 135",
+      "color": "rgb(192, 135, 135)",
       "icon": {
         "name": "book-open",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": true,
@@ -134,10 +134,10 @@
     },
     "statblock-pf2e": {
       "type": "statblock-pf2e",
-      "color": "184, 157, 157",
+      "color": "rgb(184, 157, 157)",
       "icon": {
         "name": "dragon",
-        "type": "font-awesome"
+        "type": "fas"
       },
       "command": false,
       "injectColor": true,
@@ -147,19 +147,21 @@
   },
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "11.0.3",
+  "version": "12.0.5",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
   "dropShadow": false,
   "hideEmpty": false,
-  "icons": [],
-  "useFontAwesome": true,
+  "icons": [
+    "fas",
+    "fab"
+  ],
   "rpgDownloadedOnce": false,
-  "msDocConverted": false,
   "useSnippet": false,
   "snippetPath": "custom-admonitions.08b167",
+  "useFontAwesome": false,
   "open": {
     "admonitions": true,
     "icons": true,

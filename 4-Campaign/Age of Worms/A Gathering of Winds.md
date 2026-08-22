@@ -88,716 +88,99 @@ The black dragon Ilthane had already planned to assault the PCs for ruining her 
 
 **Creature:** The reduction of Ithane’s glorious hunt to a drawn-out wait outside a glorified mousehole wasn't what the dragon pictured when she took this job. She’s a bit impatient and more than a little annoyed at the failure of her first venture into killing-for-hire. She’s also smart enough to be wary of the PCs, and she prefers to attack on ground of her own choosing, Ilthane considers the area around the Whispering Cairn open enough for an aerial assault, and free of the complications that would accompany an attack in or near the town of Diamond Lake. She has memorized the terrain and awaits her opportunity. A party in disguise offering to help her “get the wizard out of the tunnel” might secure IIthane’s cooperation, but it would require quite a good [[Skills#Diplomacy|Diplomacy]] check (opposing IIthane’s +21 [[Sense Motive]] check).
 
-Iithane is a bit more dangerous than the average adult black dragon. She's a gifted alchemist, and under Dragotha’s tutelage has developed several potent elixirs that infuse the living with draconic power. The PCs may have already tangled with some of the results of Ilthane’s elixirs (several of the lizardfolk and kobolds from [[Encounter at Blackwall Keep]] were augmented in this manner). Now, they'll be confronted with the results of her greatest discoveries—
-elixirs she has used on herself to gain persistent enhancement bonuses to her ability scores, immunity to poison, and a dangerous augmentation to her breath weapon.
+Ilthane is a bit more dangerous than the average adult black dragon. She's a gifted alchemist, and under Dragotha’s tutelage has developed several potent elixirs that infuse the living with draconic power. The PCs may have already tangled with some of the results of Ilthane’s elixirs (several of the lizardfolk and kobolds from [[Encounter at Blackwall Keep]] were augmented in this manner). Now, they'll be confronted with the results of her greatest discoveries—elixirs she has used on herself to gain persistent enhancement bonuses to her ability scores, immunity to poison, and a dangerous augmentation to her breath weapon.
 
-ІШТНАМЕ THE BLACK
-Female adult black dragon
-CE Large dragon (water)
-Init +1; Senses blindsense 60 ft., darkvision
-120 ft., keen senses, low-light vision;
-Listen +16, Spot +20
-Aura frightful presence (DC 20, 180 ft., HD 18 or fewer)
-СR 13
-Languages Common, Draconic, Aquan
-AC 29, touch 10, flat-footed 28
-hp 218 (19d12+95 HD); DR 5/magic
-Immune acid, paralysis, poison, sleep
-SR18
-Fort +16, Ref +12, Will +12
-Spd 60 ft., fly 150 ft. (poor), swim 60 ft.
-Melee* bite +20 (3d6+13) and
-	2 claws +17 (1d8+9) and
-	2 wings +17 (1d6+9) and
-	tail slap +17 (208+16)
-Space 10 ft.; Reach 5 ft. (10 ft. with bite)
-Base Atk +19; Grp +30
-Atk Options Flyby Attack, Power Attack
-Special Atk breath weapon (80 ft. line of acid; 12d4 plus poison; Ref DC 23 half; 1d4 rounds between uses)
-Spells Prepared (CL 3rd, +19 ranged touch)
-1st (6/day}—alarm, charm person (DC 12), mage armor
-0 (6/day}—daze (DC 11), detect magic, flare (DC 11), open/close, ray of frost
-Spell-Like Abilities (CL 6th)
-3/day—darkness
-1/day—corrupt water (DC 20)
-Abilities Str 25, Dex 12, Con 21, Int 12, Wis 13, Cha 12
-SQ water breathing
-Feats Flyby Attack, Improved Natural Armor, Improved Natural Attack (bite), Multiattack, Power Attack, Weapon Focus (bite), Wingover
-Skills Bluff +15, Climb +21, Diplomacy +5, Hide +17, Intimidate +14, Listen +16, Move Silently +21, Search +10, Sense Motive +22, Spot +20, Swim +26
-Breath Weapon (Su): IIthane’s breath weapon exudes toxic fumes in addition to inflicting acid damage, Anyone who suffers damage from IIthane's breath weapon must make a DC 23 Fortitude save or take 1d4 points of Strength damage. One minute later, the character must make another DC 23 Fortitude save or take another 144 poirits of Strength damage.
-*Includes adjustments for 6-point Power Attack.
+```encounter
+name: Return to Diamondlake
+party:  Age of Worms
+creatures:
+  - 1: [[Ilthane the Black]]
+```
 
-**Tactics:** Ilthane watches the entrance to the Whispering Cairn from a small copse of trees on a hilltop 100 feet from the tomb's entrance. Even after dark, her senses are keen enough that she automatically notices anyone who attempts to approach the cairn without bothering to hide. Since she's 100 feet away, she takes а —10 penalty on [[Skills#Perception|Perception]] checks to notice anyone else approach the cairn entrance. She sleeps twice a day in six-hour shifts (from noon to dusk and from midnight to dawn), relying on an alarm spell she casts on the cairn entrance to alert her to intruders during these hours.
 
-As soon as she notices anyone approaching the cairn, she casts mage armor and leaps into the air, flying low around the backside of the hill and as quietly as she can to approach the party from behind. Characters who make a [[Skills#Perception|Perception]] check (opposed by her [[Skills#Stealth]] check but penalized by —5 for distance) catch a glimpse of her approach, or hear the beating of her wings.
+**Tactics:** Ilthane watches the entrance to the Whispering Cairn from a small cluster of trees on a hilltop 100 feet from the tomb's entrance. Even after dark, her senses are keen enough that she automatically notices anyone who attempts to approach the cairn without bothering to hide. Since she's 100 feet away, she takes а -10 penalty on [[Skills#Perception|Perception]] checks to notice anyone else approach the cairn entrance. She sleeps twice a day in six-hour shifts (from noon to dusk and from midnight to dawn), relying on an alarm spell she casts on the cairn entrance to alert her to intruders during these hours.
+
+As soon as she notices anyone approaching the cairn, she leaps into the air, flying low around the backside of the hill and as quietly as she can to approach the party from behind. Characters who make a [[Skills#Perception|Perception]] check (opposed by her [[Skills#Stealth]] check but penalized by -5 for distance) catch a glimpse of her approach, or hear the beating of her wings.
 
 On the first round of combat, Ilthапе tries to catch as many of the PCs as she can with her breath weapon. She then lands between the party and the cairn entrance, perhaps perching right above it, attacking anyone in reach. As she fights, she roars out in Common, “Dragotha take you all! The wizard is mine!” Ilthane pursues the PCs into the Whispering Cairn, but does not follow them into Icosiol’s Tomb if they make it that far. She instead waits outside for up to another week, planning to ambush the PCs as they exit the tomb.
 
 **Development:** Ithane's lair is hidden far to the north near the town of Alhaster. The PCs may get a chance to find it (and the strange alchemical treasures it contains) in part 8 of the Age of Worms Adventure Path.
 
-PART TWO:
+## Part II: Icosiol's Tomb
+Once they defeat or escape from Ilthane, the party can enter the Whispering Cairn unopposed. It’s possible to track Allustan’s progress through the Whispering Cairn and Icosiol's tomb with a DC 24 Survival check.
 
-ICOSIOL’S
+Even if the PCs can’t track him, it should be obvious to those who have visited the Whispering Cairn before where he went. The last time the PCs were in the Cairn, one of the passageways to the east had been collapsed. Allustan has cleared this passageway out, revealing the Black Seal at area 1.
 
-TOMB
+Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic and playful gusts of wind haunt the halls, keeping dust from accumulating and filling the tomb with a constant rustling sound. Walls are of reinforced masonry, and doors are of basalt. A DC 29 [[Skills#Crafting|Crafting]] check is enough to establish the fact that the tomb is incredibly ancient, but was built to last eons and has weathered the passage of time well.
 
-Once they defeat Папе,
+![[icosiols-tomb-upper-level.png]]
 
-the party can enter
+### Location 1. The Black Seal
+> [!note]+ Read Aloud
+> The walls of this passageway are scarred and dented, indicating that this whole area has been, until recently, collapsed. At the end of the tunnel stands a glossy black surface with a raised sphere in the center, like the boss in the center of a shield. The glossy black surface resembles a heavily lacquered door.
 
-the Whispering Cairn
+The strange black doorway appears solid, but objects striking it make it shiver and ripple as if it were a vertical wall of water or soft gelatin. A DC 29 [[Skills#Arcana|Arcana]] check identifies the object as a portal. The doorway can be passed through by simply walking through it—doing so is like walking through a particularly viscous wall of warm mud. Passing through the portal is a full-round action, and only one creature may do so at a time. Unfortunately, doing so provokes attacks of opportunity from the door’s guardian.
 
-unopposed. It’s possible
+**Portal to Icosiol’s Tomb:** Hardness 16; hp 60; Break DC 28; Caster Level 20.
 
-to track Allustan’s
+**Creature:** Anyone who touches the portal is immediately subject to the attack of the door’s guardian, an ghoul gnawer. Magically bound into the door ages ago by the Wind Dukes, the ghoul was activated from its long sleep when Allustan first used the portal. The ghoul effectively occupies the square the portal is in; in order to pass through the portal and into Icosiol’s Tomb beyond, a character must [[Tumble Through]] (DC 27) or overrun the ghoul to move through the its space. Becoming ethereal also allows free passage by the ghoul. A dimension door, teleport, or similar spell cast while a character is touching the door also allows free passage through the portal into Icosiol’s Tomb (this is how Allustan entered the tomb without destroying the ghoul). The ghoul cannot be moved out of the doorway with bull tush or similar tactics.
 
-progress through the
+The ghoul can be attacked without penalty by anyone who is in contact with the portal—the ghoul gains total concealment and cover from all other attackers, gaining a +4 bonus to its Armor Class and а 50% miss chance. In addition, the portal's hardness 16 applies to attacks against the ghoul from sources not in contact with the portal. Any attack directed at the ghoul from someone not in contact with the portal also damages the portal. If the portal is destroyed, it shuts down immediately and releases the ghoul into the Whispering Cairn or Icosiol’s Tomb (50% chance of either location). If the ghoul is slain or banished, the portal can be passed through freely. A successful turn undead check forces the ghoul out of the portal (equal chances of ending up on either side). Rebuke undead does not have this result, but does render the ghoul docile enough to allow passage through the portal without opposition.
 
-Whispering Cairn and
+The ghoul can attack anyone within 5 feet of the portal; since it has total concealment against targets not in contact with the door, it applies its sneak attack damage automatically. If no one is in reach, the ghoul can withdraw completely into the portal, at which point it cannot be targeted or harmed (the portal itself can still be damaged, of course).
 
-Icosiol's tomb with a
+```encounter
+name: The Black Seal
+party:  Age of Worms
+creatures:
+  - 1: [[Ghoul Gnawer]]
+```
 
-DC 24 Survival check Бу someone with
+#### Development
+The ghoul gnawer is mildly insane and can offer few clues if captured. If the party releases the ghoul and then leaves or rests to heal after defeating Ilthane, they may find the ghoul cleaning up after them. (It eats the dragon's corpse from the inside out.) The ghoul spends at least a week scavenging dragon meat before moving on to explore Diamond Lake.
 
-the Track feat.
+If the portal is destroyed, the PCs will have a bit of trouble reaching Icosiol’s Tomb. The portal can be repaired with the Awaken Portal ritual. Because the portal has been physically damaged rather than merely rendered dormant, the repair requires rare planar reagents and replacement components worth 2,000 gp, as well as 50 days of downtime. The primary caster must be master in Arcana or Occultism and know the _Awaken Portal_ ritual. No XP expenditure is required. At the end of the work, the caster attempts the ritual’s primary check against DC 31. On a success, the portal is restored and functions normally.. Since Allustan is currently trapped in stasis and the Age of Worms campaign is not on a countdown, there's really no repercussions (apart from the expenditure of resources) on the PCs if they choose this route. Of course, the PCs have no way of knowing this, and likely balk at the prospect of taking 50 days and thousands of gp and XP to repair the portal.
 
-Even if the PCs can’t track him, it
+Fortunately, there is an alternative. A character who studies the ruined portal with a detect magic (or a similar spell) and makes a DC 29 [[Skills#Arcana|Arcana]] or [[Skills#Occultism|Occultism]] check notices that, while the portal itself is destroyed, the portal at the far side still operates, and its magic is still linked to the ruined portal. As a result, a character that touches the ruined portal and casts a plane shift, teleport, or greater teleport spell can transport himself (along with however many other characters the spell allows) to the far portal, as if the current portal were still functional.
 
-should be obvious to those who have vis-
+Characters who step through the portal are transported to area 2, Although shown on the map as if the two points are physically connected (and to the PCs’ perception, this is how it should seem), Icosiol’s Tomb is in fact deep under the ancient Fields of Pesh, in a region about 500 miles northeast of Diamond Lake. If the PCs somehow manage to travel up from the tomb through 1,000 feet of bedrock, they emerge iп а barren stretch of plains. To the north, a single volcano looms, a plume of steam drifting from its peak. A DC 30 [[Skills#Society|Society]] check correctly identifies this volcano as the legendary White Plume Mountain. There is no physical entrance to Icosiol’s Tomb from this region, and if the PCs decide to explore the area, you'll need to develop additional adventures as you see fit.
 
-ited the Whispering Cairn before where
+### Location 2. The Howling Gallery
+> [!note]+ Read Aloud
+> This sharply sloped hallway is filled with rushing, screaming wind and smoke. Small hollow projections in the hallway seem to be making the noise, but it’s obvious that air inside is being pushed out at an unusual rate. The noise makes hearing and speaking difficult.
 
-he went. The last time the PCs were in
+This tunnel was meant to purify visitors with blasts of elemental air. The screaming winds in the first tunnel are created by the tunnel architecture itself as air moves over the projections. The tunnel magnifies the sounds, making communication almost impossible (DC 35 [[Skills#Perception|Perception]] check to hear and under stand someone) and forcing a DC 15 flat check to cast spells with verbal components.
 
-the Cairn, one of the passageways to the
+The small noisemaking projections in the hall can be broken off relatively easily with blunt weapons (hp 5, hardness 3). If all twelve stone noisemakers are broken, the noise stops. For each once broken, reduce the DCs listed above by опе.
 
-east had been collapsed. Allustan has
+This tunnel is delightful terrain for 4 Veiled Current, ancient protectors of the tomb who enjoy the fresh outside air that filters into this chamber. The elementals are invisible to begin with and use that form to quickly appear all around the party. They attack any non-elemental creatures entering the hall. The wind itself, while loud, isn't particularly strong. It does reduce the fly speed of a Veiled Current by 20 feet, however.
 
-cleared this passageway out, revealing
+```encounter
+name: The Howling Gallery
+party:  Age of Worms
+creatures:
+  - 4: [[Veiled Current]]
+```
 
-the Black Seal at area 1.
+### Location 3. The Hall of Poison Winds
+> [!note]+ Read Aloud
+> This tall, temple-like chamber has a forty-foot-high ceiling. Carved stone pillars reach up to the ceiling in elegant lines, but strange clusters of spikes stick up from the floor in two distinct areas, like barricades.
+> 
+> Near the doors to the north, south, and east stand carved stone images of tall, elongated humanoid forms. A series of small openings, each about one inch in diameter, festoon the wall between these forms. Beneath these openings are small basins, each about the size of an apple. Strange undulations make the doors and nearby walls seem more like a curtain than a level surface. Twisting runes wind over the walls. The floor has channels carved in it, as if to transport water, but nothing flows there now.
 
-Once the PCs reach Icosiol’s tomb,
+The wall runes are written in an ancient language called Vaati, considered by many to be the original written form of Auran. A DC 28 [[Decipher Writing]] check made by someone who speaks Auran allows translation of these runes. The runes mention “glorious Icosiol,” an “Incomparable Army,” and similar terms of praise as part of a general description of the Battle of Pesh. Speaking Icosiol’s name aloud in this room deactivates both traps for one hour.
 
-the atmosphere is dry and cool. Periodic
+The doors to the north are false doors, two of many in the tomb placed to confound and confuse tomb robbers.
 
-and playful gusts of wind haunt the halls,
+**Trap:** Two traps, one wind-based and one using poisonous, magical gas, guard this chamber.
 
-keeping dust from accumulating and
+The first trap is linked to the blade barricades. Anyone stepping on a square marked with a “Т” triggers the trap, causing a powerful blast of wind to strike that character and hurl him onto the spikes. There were once many more pressure plates to activate this trap, but time has ruined most of them.
 
-filling the tomb with a constant susur-
+The second trap is linked to the tiny holes in the walls and the small basins along the floor. The basins radiate faint transmutation magic, and when triggered by someone standing оп a square marked “GT,” they generate a plume of white vapor that looks like fog. When this vapor is created, it runs up along and melds with the bas-reliefs on the wall, generating a fluid image that shows Icosiol at the battle of Pesh, fighting twisted creatures of chaos. The last image is rendered in some detail, and depicts Icosiol forming an alliance with a powerful marut inevitable. At the end of the display, the gas fountains show Icosiol holding a large square seal in one hand and a long rod or staff in the other, as if to display them to the viewer. The vapor that animates these images is poisonous, affecting any creature within 10 feet of the room’s walls.
 
-rus, Walls are of reinforced masonry, and
+Windpsike Trap: CR 5; magic device; location trigger; automatic reset; blast of hurricane-force wind (DC 20 Fort, Huge or larger creatures unaffected, Large creatures knocked prone, smaller creatures thrown onto spikes for 4d6 points of piercing damage); Search DC 32; Dis- able Device DC 32.
 
-doors are of basalt. A DC 20 Knowledge
-
-(architecture and engineering) check
-
-is enough to establish the fact that the
-
-tomb is incredibly ancient, but was built
-
-to last eons and has weathered the pas-
-
-sage of time well.
-
-1. The Black Seal (EL 10)
-
-The walls of this passageway are scarred
-
-and dented, indicating that this whole area
-
-has been, until recently, collapsed. At the
-
-end of the tunnel stands a glossy black
-
-surface with a raised sphere in the center,
-
-like the boss in the center of a shield. The
-
-glossy black surface resembles a heavily
-
-lacquered door.
-
-The strange black doorway appears
-
-solid, but objects striking it make it
-
-shiver and ripple as if it were a verti-
-
-cal wall of water or soft gelatin. A DC
-
-20 Knowledge (arcana) check identifies
-
-the object as a portal. The doorway can
-
-be passed through by simply walking
-
-through it—doing so is like walking
-
-through a particularly viscous wall of
-
-warm mud. Passing through the portal
-
-is a full-round action, and only one crea-
-
-ture may do so at a time. Unfortunately,
-
-doing so provokes attacks of opportunity
-
-from the door’s guardian.
-
-Portal to Icosiol’s Tomb: Hardness 16;
-
-hp 60; Break DC 28; Caster Level 20.
-
-Creature: Anyone who touches the por-
-
-tal is immediately subject to the attack
-
-of the door’s guardian, an abyssal ghoul.
-
-Magically bound into the door ages ago
-
-by the Wind Dukes, the ghoul was acti-
-
-vated from its long sleep when Allustan
-
-first used the portal. The ghoul effectively
-
-occupies the square the portal is in; in
-
-order to pass through the portal and
-
-into Icosiol’s Tomb beyond, a character
-
-must Tumble or overrun the ghoul to
-
-move through the its space. Becoming
-
-ethereal also allows free passage by the
-
-ghoul. A dimension door, teleport, or similar
-
-spell cast while a character is touching
-
-the door also allows free passage through
-
-the portal into Icosiol’s Tomb (this is
-
-how Allustan entered the tomb without
-
-destroying the ghoul). The ghoul cannot
-
-be moved out of the doorway with bull
-
-tush or similar tactics.
-
-The ghoul can be attacked without
-
-penalty by anyone who is in contact with
-
-the portal—the ghoul gains total conceal-
-
-ment and cover from all other attackers,
-
-gaining a +4 bonus to its Armor Class and
-
-а 50% miss chance. In addition, the por-
-
-tal's hardness 16 applies to attacks against
-
-the ghoul from sources not in contact
-
-with the portal. Any attack directed at the
-
-ghoul from someone not in contact with
-
-the portal also damages the portal. If the
-
-portal is destroyed, it shuts down imme-
-
-diately and releases the ghoul into the
-
-Whispering Cairn or Icosiol’s Tomb (50%
-
-chance of either location). If the ghoul is
-
-slain or banished, the portal can be passed
-
-through freely. A successful turn undead
-
-check forces the ghoul out of the portal
-
-(equal chances of ending up on either
-
-side). Rebuke undead does not have this
-
-result, but does render the ghoul docile
-
-enough to allow passage through the por-
-
-tal without opposition.
-
-The ghoul can attack anyone within
-
-5 feet of the portal; since it has total
-
-concealment against targets not in con-
-
-tact with the door, it applies its sneak
-
-attack damage automatically. If no one
-
-is in reach, the ghoul can withdraw com-
-
-pletely into the portal, at which point it
-
-cannot be targeted or harmed (the portal
-
-itself can still be damaged, of course).
-
-Asyssat GHOUL
-
-CE Medium undead (extraplanar)
-
-Init +7; Senses blindsight 90 ft, deathwatch
-
-90 ft, Listen +2, Spot +2
-
-Languages Abyssal
-
-Fiend Folio 13
-
-CR 10
-
-AC 27, touch 13, flat-footed 27; Dodge,
-
-Mobility, uncanny dodge
-
-hp 104 (16 HD)
-
-Immune electricity; undead traits
-
-Resist acid 10, cold 10, fire 10; SR 20
-
-Fort +5, Ref +10, Will +12
-
-Spd 40 ft.
-
-Melee 2 front claws +15 (194+7 plus disease) and
-
-rear claws +13 (204+3 plus disease)
-
-Base Atk +8; Grp +15 (drain 1d6 Wis ona
-
-successful pin)
-
-Atk Options sneak attack +5d6, improved
-
-grab (if both front claws hit)
-
-Special Atk wisdom drain
-
-Abilities Str 25, Dex 16, Con —, Int 14, Wis
-
-15, Cha 18
-
-Feats Dodge, Improved Initiative, Lightning
-
-Reflexes, Mobility, Multiattack, Spring Attack
-
-Skills Balance +20, Climb +20, Hide +20,
-
-Jump +23, Move Silently +20, Tumble +20
-
-Disease (Ex): Fortitude DC 18, incubation
-
-period 1 day, 1d6 Constitution. Each time
-
-a creature suffers Constitution damage,
-
-it must make a DC 18 Fortitude save or
-
-1 point of the damage taken becomes
-
-Constitution drain instead.
-
-Development: The abyssal ghoul is
-
-mildly insane and can offer few clues
-
-if captured. If the party releases the
-
-ghoul and then leaves or rests to heal
-
-after defeating Папе, they may find the
-
-ghoul cleaning up after them. (It eats the
-
-dragon's corpse from the inside out.) The
-
-ghoul spends at least a week scaveng-
-
-ing dragon meat before moving on to
-
-explore Diamond Lake.
-
-If the portal is destroyed, the PCs will
-
-have a bit of trouble reaching Icosiol’s
-
-Tomb. The portal can be repaired by any
-
-character that has Craft Wondrous Item
-
-and knows gate, greater teleport, plane shift,
-
-teleport, or teleportation circle—doing so
-
-requires an expenditure of 25,000 gp,
-
-2,000 XP, and 50 days of work. Since
-
-Allustan is currently trapped in stasis
-
-and the Age of Worms campaign is not
-
-on a countdown, there's really no reper-
-
-cussions (apart from the expenditure of
-
-resources) on the PCs if they choose this
-
-route. Of course, the PCs have no way
-
-of knowing this, and likely balk at the
-
-prospect of taking 50 days and thousands
-
-of gp and XP to repair the portal.
-
-Fortunately, there is an alternative. A
-
-character who studies the ruined portal
-
-44 DUNGEON DECEMBER 2005
-
-with a detect magic (or a similar spell)
-
-and makes a DC 20 Knowledge (arcana),
-
-Spellcraft, or bardic knowledge check
-
-notices that, while the portal itself is
-
-destroyed, the portal at the far side still
-
-operates, and its magic is still linked to
-
-the ruined portal. As a result, a character
-
-that touches the ruined portal and casts
-
-a plane shift, teleport, or greater teleport
-
-spell can transport himself (along with
-
-however many other characters the spell
-
-allows) to the far portal, as if the current
-
-portal were still functional.
-
-Characters who step through the por-
-
-tal are transported to area 2, Although
-
-shown on the map as if the two points
-
-are physically connected (and to the PCs’
-
-perception, this is how it should seem),
-
-Icosiol’s Tomb is in fact deep under the
-
-ancient Fields of Pesh, in a region about
-
-500 miles northeast of Diamond Lake.
-
-If the PCs somehow manage to travel
-
-up from the tomb through 1,000 feet of
-
-bedrock, they emerge їп а barren stretch
-
-of plains. To the north, a single volcano
-
-looms, a plume of steam drifting from
-
-its peak. A DC 20 Knowledge (geography)
-
-FGANG BAUR
-
-check correctly identifies this volcano
-
-as the legendary White Plume Moun-
-
-tain. There is no physical entrance to
-
-Icosiol’s Tomb from this region, and if
-
-the PCs decide to explore the area, you'll
-
-need to develop additional adventures
-
-as you see fit.
-
-2. The Howling Gallery
-
-(EL 11)
-
-This sharply sloped hallway is filled with
-
-rushing, screaming wind and smoke. Small
-
-hollow projections in the hallway seem to
-
-be making the noise, but it’s obvious that
-
-air inside is being pushed out at an unusual
-
-rate. The noise makes hearing and speak-
-
-ing difficult.
-
-This tunnel was meant to purify vis-
-
-itors with blasts of elemental air. The
-
-screaming winds in the first tunnel
-
-are created by the tunnel architecture
-
-itself as air moves over the projections.
-
-The tunnel magnifies the sounds, mak-
-
-ing communication almost impossible
-
-(DC 25 Listen check to hear and under-
-
-Gani | уу مجح‎
-
-stand someone) and forcing a DC 25
-
-Concentration check to cast spells
-
-with verbal components.
-
-The small noisemaking projections
-
-in the hall can be broken off relatively
-
-easily with blunt weapons (hp 5, hard-
-
-ness 3). If all twelve stone noisemakers
-
-are broken, the noise stops. For each
-
-once broken, reduce the DCs listed
-
-above by опе.
-
-Creatures: This tunnel is delightful
-
-terrain for six belkers, ancient protec-
-
-tors of the tomb who enjoy the fresh
-
-outside air that filters into this cham-
-
-ber. The belkers are in smoke form to
-
-begin with and use that form to quickly
-
-appear all around the party. They attack
-
-any non-elemental creatures entering
-
-the hall. The wind itself, while loud,
-
-isn't particularly strong. It does reduce
-
-the fly speed of a belker in smoke form
-
-by 20 feet, however.
-
-Belkers (6); hp 38 each; Monster Manual 27.
-
-3. The Hall of Poison
-
-Winds (EL 11)
-
-This tall, temple-like chamber has a forty-
-
-foot-high ceiling. Carved stone pillars
-
-reach up to the ceiling in elegant lines, but
-
-strange clusters of spikes stick up from the
-
-floor in two distinct areas, like barricades.
-
-Near the doors to the north, south, and
-
-east stand carved stone images of tall,
-
-elongated humanoid forms. A series of
-
-small openings, each about one inch in
-
-diameter, festoon the wall between these
-
-forms. Beneath these openings are small
-
-basins, each about the size of an apple.
-
-Strange undulations make the doors and
-
-nearby walls seem more like a curtain than
-
-a level surface. Twisting runes wind over
-
-the walls. The floor has channels carved
-
-in it, as if to transport water, but nothing
-
-flows there now.
-
-The wall runes are written in an ancient
-
-language called Vaati, considered by many
-
-to be the original written form of Auran.
-
-A DC 25 Decipher Script check made by
-
-someone who speaks Auran allows trans-
-
-lation of these runes, as does comprehend
-
-langauges. The runes mention “glorious
-
-Icosiol,” an “Incomparable Army,” and
-
-similar terms of praise as part ofa general
-
-description of the Battle of Pesh. Speak-
-
-ing Icosiol’s name aloud in this room
-
-deactivates both traps for one hour.
-
-The doors to the north are false doors,
-
-two of many in the tomb placed to con-
-
-found and confuse tomb robbers.
-
-Trap: Two traps, one wind-based and
-
-one using poisonous, magical gas, guard
-
-this chamber.
-
-The first trap is linked to the blade
-
-barricades. Anyone stepping on a square
-
-marked witha “Т” triggers the trap, caus-
-
-ing a powerful blast of wind to strike that
-
-character and hurl him onto the spikes.
-
-There were once many more pressure
-
-plates to activate this trap, but time has
-
-tuined most of them.
-
-The second trap is linked to the tiny holes
-
-in the walls and the small basins along the
-
-floor. The basins radiate faint transmuta-
-
-tion magic, and when triggered by some-
-
-one standing оп a square marked “GT,” they
-
-generate a plume of white vapor that looks
-
-like fog. When this vapor is created, it runs
-
-up along and melds with the bas-reliefs
-
-on the wall, generating a fluid image that
-
-shows Icosiol at the battle of Pesh, fighting
-
-twisted creatures of chaos. The last image is
-
-rendered in some detail, and depicts Icosiol
-
-forming an alliance with a powerful marut
-
-inevitable. At the end of the display, the
-
-gas fountains show Icosiol holding a large
-
-square seal in one hand and a long rod or
-
-staff in the other, as if to display them to
-
-the viewer. The vapor that animates these
-
-images is poisonous, affecting any creature
-
-within 10 feet of the room’s walls.
-
-Windpsike Trap: CR 5; magic device;
-
-location trigger; automatic reset; blast of
-
-hurricane-force wind (DC 20 Fort, Huge
-
-or larger creatures unaffected, Large
-
-creatures knocked prone, smaller crea-
-
-tures thrown onto spikes for 4d6 points
-
-of piercing damage); Search DC 32; Dis-
-
-able Device DC 32.
-
-Poison Gas Trap: CR 10; magic device;
-
-location trigger; automatic reset; gas; never
-
-miss; onset delay 1 round; poison (DC 18
-
-Fortitude save resists, 144 Dex/2d6 Dex);
-
-Search DC 32; Disable Device DC 32.
-
-DECEMBER 2005 DUNGEON
-
-45
-
-А GATHERING OF WINDS
+Poison Gas Trap: CR 10; magic device; location trigger; automatic reset; gas; never miss; onset delay 1 round; poison (DC 18 Fortitude save resists, 144 Dex/2d6 Dex); Search DC 32; Disable Device DC 32.
 
 4. Collapsing Pillar Hall
 
@@ -827,7 +210,7 @@ marked with the arrow symbol of Law.
 
 If a chaotically aligned creature steps
 
-within five feet of a pillar, it immedi-
+within five feet of a pillar, it immedi- 
 
 ately topples down onto that character.
 

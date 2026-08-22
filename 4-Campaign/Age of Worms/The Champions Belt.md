@@ -42,8 +42,6 @@ adventure_level: 9th to 11
 > **Status** | `VIEW[{adventure_status}]` |
 > **Adventure Level** | `VIEW[{adventure_level}]` |
 
-# **`=this.file.name`**
-
 ## Background
 Twelve years ago, the mighty gladiator [[Loris Raknian]] retired after a brilliant career in the [[Bloodstone Arena]]. He used his influence to gain control of the arena became a manager for promising gladiators and invested most of the wealth amassed thus far in successful business activities. Today, Raknian's star is ascendant. He loved by the citizens of [[Ardentia City]] and his creation of the Champion's Games has created a solid flow of income into the cities coffers since it's inception. This year's games mark the 10-year anniversary of their creation, and Raknian has promised Ardentia City an event that even the gods themselves will remember.
 
@@ -153,9 +151,9 @@ The first day of the Champion's Games begins with the Free Dinner, a sumptuous o
 
 After the Free Dinner, the gladiators are escorted to a huge underground cave below the arena. This is the Coenoby (pronounced see-no-bie), and it is home for the gladiators until their elimination from the competition or the end of the Games. During the time the gladiators are confined to the Coenoby, they are allowed meetings with their managers every other day. Any team not responding to a fight's roll call or found guilty of violating any rules of the tournament is immediately disqualified and expelled from the Coenoby by Raknian’s elite guards.
 
-### The Arena Grounds
 ![[loris-raknian.png|hs-med left]]
 
+### The Arena Grounds
 The [[Bloodstone Arena]] stands in the northern part of the [[Seekers Quarter]] Ardentia City. During his time as director, Loris Raknian has purchased many of the buildings surrounding the arena, and has seen to the renovation of the ancient structure's watchtowers, creating an effective cordon around the arena itself, Raknian built a large barracks for his guards into a section of the arena terraces and has chosen a nearby building as his personal residence, expanding it and connecting it to the arena's main tribune (see the Arena Grounds map).
 
 The arena can seat 18,000 spectators if they squeeze, but the Champion's Games usually draws (still respectable) crowds of about 10,000. Seating occurs in 12 banks of 1,500 seats.  All of the seats offer splendid views of the field. During the Champions Games, there are three types of seats for sale. The majority of the seats are high in the tiers and sell for 1 sp per day. The lower seats closest to the action sell for 1 gp a day. The 500 most expensive seats are situated in the section nearest Raknian’s palace. These seats are cushioned, shaded and well-staffed by vendors; they sell for 50 gp a day.

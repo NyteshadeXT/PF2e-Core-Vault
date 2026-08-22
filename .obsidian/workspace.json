@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "fbce5160498990a8",
+            "id": "ff383d679f999860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+                "file": "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ACT I - FIRST CONTACT"
+              "title": "Ilthane the Black"
             }
           },
           {
@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "The Champions Belt"
             }
           },
           {
@@ -57,16 +57,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Harvesting Creatures"
+              "title": "The Champions Belt"
             }
           },
           {
             "id": "7c6fc22e0df45aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Gathering of Winds"
+            }
+          },
+          {
+            "id": "63e1f12fd7f49ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +93,8 @@
               "title": "DC Calculator"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -136,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.50484466552734
+    "width": 320.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -233,17 +250,17 @@
         "currentTab": 5
       },
       {
-        "id": "5b7dff7ad016ea39",
+        "id": "f973bac8bf98a63e",
         "type": "tabs",
         "children": [
           {
-            "id": "9357a9fa2451bae6",
+            "id": "17cd0f408392d0f5",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_3839382988c8",
-                "creatureName": "Ankylosaurus"
+                "creatureId": "ID_3868a8890b7a",
+                "creatureName": "Ilthane the Black"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -253,10 +270,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "windrose-md:Open map view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
@@ -279,36 +297,39 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Event editor": false,
       "ttrpg-tools-time:Open TTRPG Tools - Time: Controls": false,
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline": false,
-      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false,
-      "windrose-md:Open Windrose map": false,
-      "calendarium:Open Calendarium": false
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "4904fc433b616762",
+  "active": "7c6fc22e0df45aa3",
   "lastOpenFiles": [
-    "1-GM Toolkit/Idea Book/Windrose Map Test.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "1-GM Toolkit/Expedition_Challenges.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Cure Food.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Process Item.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Hyper-Focused Craft.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Actions/Harvest Creature.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Handling the Loot.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "1-GM Toolkit/Travel Calculator.md",
-    "2-Party/Shattering/Jaina BeautyNoodles.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
-    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/2. Bestiary Creature Entries/U..md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "4-Campaign/Age of Worms/Completed/Diamond Lake Mining Office.md",
+    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
     "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "zz-Templates/Markdown/Insert Custom Encounter (Initiative Tracker).md",
-    "2-Party/Shattering/Xevious.md",
+    "zz-Attachments/icosiols-tomb-upper-level.png",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
+    "3-Rules/Bestiaries/Homebrew/G/ghast-lvl5.md",
+    "3-Rules/Bestiaries/Monster Core/H/Horned Dragon (Adult).md",
+    "3-Rules/Character Building/Equipment/M/Man-Feller.md",
+    "4-Campaign/Age of Worms/Completed/The Hall of Harsh Reflections.md",
+    "4-Campaign/Age of Worms/Completed/Encounter at Blackwall Keep.md",
+    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "zz-Templates/GM Templates/Characters/Template - Deity.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Trap.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Flavor.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - GM Direction.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Magic Item.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Read Aloud.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Right Section.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Treasure.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Message.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Left Section.md",
+    "zz-Templates/Markdown/Call Out Boxes/Call Out - Call Out Box.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/W/wroggi.md",
+    "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
     "zz-Attachments/shard-of-the-star-postdungeon.png",
-    "5-World/Settlements/Diamond Lake.md",
-    "1-GM Toolkit/Idea Book/Untitled.md",
     "zz-Attachments/Assets/ImagePlaceholder.png",
     "zz-Attachments/Assets/MapPlaceholder.png",
     "zz-Attachments/deep-wilds-dungeon.png",
@@ -317,12 +338,7 @@
     "zz-Attachments/image-3.png",
     "zz-Attachments/image-4.png",
     "zz-Attachments/windrose_objects/dungeon_door.svg",
-    "zz-Attachments/image-1.png",
     "zz-Attachments/image-1.png.markers.json",
-    "5-World/NPCs/Diamond Lake/Zalmandra.md",
-    "5-World/NPCs/Ardentia City/Wilryn Whistlesnatch.md",
-    "5-World/NPCs/Diamond Lake/Venelle.md",
-    "5-World/NPCs/Diamond Lake/Tyrol Ebberly.md",
     "3-Rules/Bestiaries/Uniques/U",
     "windrose-tile-metadata.json",
     "TTRPG/Time/event-details-legacy-backup",
