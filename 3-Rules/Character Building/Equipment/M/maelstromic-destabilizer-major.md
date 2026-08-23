@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "maestros-chair"
-aliases: "Maestro's Chair"
-source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
-rarity: ""
-trait01: "magical"
-trait02: "common"
-trait03: ""
+name: "maelstromic-destabilizer-(major)"
+aliases: "Maelstromic Destabilizer (Major)"
+source: "Pathfinder Lost Omens Rival Academies"
+pg: "92"
+rarity: "uncommon"
+trait01: "consumable"
+trait02: "gadget"
+trait03: "spirit"
 trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
-image: zz-Attachments/assets/imageplaceholder.png
-level: 7
-weight: 6
-value: "350"
+image: zz-Attachments/maelstromic-destabilizer.png
+level: 17
+weight: L
+value: "2750"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A _maestro's chair_ is a traveler's chair with the [[Equipment/Impulse Control|Impulse Control]] upgrade and a small pipe organ installed into the frame. You can use the maestro's chair to make Performance checks in the same manner that you could use any mundane instrument, using both of your hands. When you make a Performance check using your chair, you gain a +1 item bonus to the check.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per 10 minutes  * * *  **Effect** You use your chair to Stride up to your chair's speed. If you have a composition cantrip that is currently active, you Sustain it as a free action."
+activate: "`pf2:1` (manipulate)"
+description: "A maelstromic destabilizer is a whirling gyroscope of burnished bronze and glass. It strengthens the bonds that hold a creature to this world by weakening those same bonds to every other nearby creature. When activated, the destabilizer emits a constant pleasant chime as it spins. For the next minute, the creature holding the gadget gains resistance 10 to spirit damage, while all creatures not immune to spirit damage in a 10-foot emanation gains weakness 10 to spirit damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

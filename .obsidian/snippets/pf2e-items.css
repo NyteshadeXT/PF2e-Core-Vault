@@ -194,3 +194,236 @@ hr.pf2e-divider {
   font-weight: 600;
   margin-left: 4px;
 }
+
+/* =========================================================
+   PF2E ITEM CARD — RELATED ITEMS BASE
+   ========================================================= */
+
+/* Hide Bases controls */
+.pf2e-item-base .bases-header,
+.pf2e-item-base .bases-toolbar {
+    display: none !important;
+}
+
+/* Remove outer Bases chrome */
+.pf2e-item-base .bases-embed,
+.pf2e-item-base .bases-view {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
+/* =========================================================
+   HEADER
+   ========================================================= */
+
+.pf2e-item-base .bases-thead {
+    margin-top: 1rem !important;
+
+    background: linear-gradient(
+        180deg,
+        var(--pf2e-gold-100),
+        color-mix(in srgb, var(--pf2e-gold-100) 75%, white)
+    ) !important;
+
+    border: 1px solid var(--pf2e-gold-400) !important;
+    border-bottom: 1px solid rgba(139,30,30,.35) !important;
+
+    border-radius: 8px 8px 0 0 !important;
+
+    overflow: hidden !important;
+}
+
+
+/* Header cells */
+.pf2e-item-base .bases-thead .bases-td,
+.pf2e-item-base .bases-table-header-cell {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+
+    padding: 8px 14px !important;
+
+    color: var(--pf2e-red) !important;
+    font-weight: 700 !important;
+    text-transform: uppercase;
+}
+
+
+/* Header text */
+.pf2e-item-base .bases-table-header-name,
+.pf2e-item-base .bases-table-header-label {
+    color: var(--pf2e-red) !important;
+    font-weight: 700 !important;
+}
+
+
+/* Hide property icons */
+.pf2e-item-base .bases-table-header-icon {
+    display: none !important;
+}
+
+
+/* Hide resize handles */
+.pf2e-item-base .bases-table-header-resizer {
+    opacity: 0 !important;
+}
+
+
+/* =========================================================
+   BODY CARD
+   ========================================================= */
+
+.pf2e-item-base .bases-table-container {
+    margin-top: 0 !important;
+
+    background: linear-gradient(
+        180deg,
+        var(--pf2e-gold-100),
+        var(--pf2e-gold-200)
+    ) !important;
+
+    border: 1px solid var(--pf2e-gold-400) !important;
+    border-top: none !important;
+
+    border-radius: 0 0 8px 8px !important;
+
+    overflow: hidden !important;
+
+    box-shadow:
+        0 1px 0 rgba(255,255,255,.35) inset,
+        0 1px 8px rgba(0,0,0,.12);
+
+    color: var(--pf2e-gold-ink);
+}
+
+
+/* Remove internal backgrounds */
+.pf2e-item-base .bases-table,
+.pf2e-item-base .bases-tbody {
+    background: transparent !important;
+}
+
+
+/* =========================================================
+   ROWS
+   ========================================================= */
+
+.pf2e-item-base .bases-tbody .bases-tr {
+    background: transparent !important;
+
+    border-bottom:
+        1px solid rgba(58,42,18,.15) !important;
+}
+
+
+.pf2e-item-base .bases-tbody .bases-tr:last-child {
+    border-bottom: none !important;
+}
+
+
+/* Body cells */
+.pf2e-item-base .bases-tbody .bases-td {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+
+    padding: 8px 14px !important;
+
+    color: var(--pf2e-gold-ink) !important;
+}
+
+
+/* Hover */
+.pf2e-item-base .bases-tbody .bases-tr:hover,
+.pf2e-item-base .bases-tbody .bases-tr:hover .bases-td {
+    background: rgba(139,30,30,.06) !important;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+.pf2e-item-base .bases-tbody a,
+.pf2e-item-base .bases-tbody .internal-link {
+    color: var(--pf2e-gold-ink) !important;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.pf2e-item-base .bases-tbody a:hover,
+.pf2e-item-base .bases-tbody .internal-link:hover {
+    color: var(--pf2e-red) !important;
+}
+
+/* =========================================================
+   DARK MODE
+   ========================================================= */
+
+.theme-dark .pf2e-item-base .bases-thead {
+    background: #4a3a1d !important;
+    border-color: #d7b66a !important;
+}
+
+
+.theme-dark .pf2e-item-base .bases-table-container {
+    background: linear-gradient(
+        180deg,
+        #4a3a1d,
+        #3b2d16
+    ) !important;
+
+    border-color: #d7b66a !important;
+}
+
+
+.theme-dark .pf2e-item-base .bases-tbody .bases-td,
+.theme-dark .pf2e-item-base .bases-tbody a,
+.theme-dark .pf2e-item-base .bases-tbody .internal-link {
+    color: #f2e8cf !important;
+}
+
+/* =========================================================
+   PF2E BASE — VERTICAL CELL ALIGNMENT
+   ========================================================= */
+
+/* Make every body cell use flex centering */
+.pf2e-item-base .bases-tbody .bases-td {
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* Normalize the inner rendered value */
+.pf2e-item-base .bases-tbody .bases-table-cell {
+    display: flex !important;
+    align-items: center !important;
+    min-height: 100% !important;
+    width: 100%;
+}
+
+/* Item name stays left aligned */
+.pf2e-item-base
+.bases-tbody
+.bases-td[data-property="formula.itemName"]
+.bases-table-cell {
+    justify-content: flex-start !important;
+}
+
+/* Level */
+.pf2e-item-base
+.bases-tbody
+.bases-td[data-property="note.level"]
+.bases-table-cell {
+    justify-content: center !important;
+}
+
+/* License stays left aligned */
+.pf2e-item-base
+.bases-tbody
+.bases-td[data-property="note.license"]
+.bases-table-cell {
+    justify-content: flex-start !important;
+}

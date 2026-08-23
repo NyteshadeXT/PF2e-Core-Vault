@@ -38,31 +38,17 @@
             }
           },
           {
-            "id": "2acc4486ba1a55e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "The Champions Belt"
-            }
-          },
-          {
             "id": "4fdc93b94f491cb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
-                "mode": "preview",
+                "file": "3-Rules/Character Building/Equipment/M/Machete.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Champions Belt"
+              "title": "Machete"
             }
           },
           {
@@ -92,9 +78,23 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
+          },
+          {
+            "id": "4403477b5ca326d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-Templates/Markdown/Insert Item.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Item"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -259,7 +259,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_3868a8890b7a",
+                "creatureId": "ID_9a0bb9693ad9",
                 "creatureName": "Ilthane the Black"
               },
               "icon": "initiative-tracker-creature-view",
@@ -270,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 514.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,35 +301,35 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "7c6fc22e0df45aa3",
+  "active": "4fdc93b94f491cb0",
   "lastOpenFiles": [
-    "4-Campaign/Age of Worms/Completed/Diamond Lake Mining Office.md",
-    "4-Campaign/Age of Worms/Completed/The Whispering Cairn.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "zz-Attachments/icosiols-tomb-upper-level.png",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
-    "3-Rules/Bestiaries/Homebrew/G/ghast-lvl5.md",
-    "3-Rules/Bestiaries/Monster Core/H/Horned Dragon (Adult).md",
-    "3-Rules/Character Building/Equipment/M/Man-Feller.md",
-    "4-Campaign/Age of Worms/Completed/The Hall of Harsh Reflections.md",
-    "4-Campaign/Age of Worms/Completed/Encounter at Blackwall Keep.md",
-    "3-Rules/Harvest Compendium/Harvest Compendium Journals/1. Harvest Compendium/Harvesting Creatures.md",
+    "3-Rules/Character Building/Equipment/M/Mace.md",
+    "3-Rules/Character Building/Equipment/M/Machete.md",
     "zz-Templates/Markdown/Insert Item.md",
-    "zz-Templates/GM Templates/Characters/Template - Deity.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Trap.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Flavor.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - GM Direction.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Magic Item.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Read Aloud.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Right Section.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Treasure.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Message.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Left Section.md",
-    "zz-Templates/Markdown/Call Out Boxes/Call Out - Call Out Box.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/W/wroggi.md",
-    "3-Rules/Bestiaries/Monster Hunter Varients/T/tetranadon.md",
+    "zz-Templates/Markdown/Insert Item Metabind.md",
+    "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
+    "zz-Templates/Markdown/Item Card Template.md",
+    "3-Rules/Character Building/Equipment/M/mace-multipistol.md",
+    "3-Rules/Character Building/Equipment/M/macuahuitl.md",
+    "3-Rules/Character Building/Equipment/M/madcap-top.md",
+    "3-Rules/Character Building/Equipment/M/maelstromic-destabilizer-moderate.md",
+    "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "3-Rules/Character Building/Equipment/M/maestros-instrument-greater.md",
+    "3-Rules/Character Building/Equipment/M/maestros-instrument-lesser.md",
+    "3-Rules/Character Building/Equipment/M/maestros-instrument-moderate.md",
+    "3-Rules/Character Building/Equipment/M/mage-bane.md",
+    "3-Rules/Character Building/Equipment/M/Magazine with 5 Bolts.md",
+    "3-Rules/Character Building/Equipment/M/Magazine with 6 Pellets.md",
+    "3-Rules/Character Building/Equipment/M/Magazine with 8 Pellets.md",
+    "3-Rules/Character Building/Equipment/M/maestros-chair.md",
+    "3-Rules/Character Building/Equipment/M/maelstromic-destabilizer-major.md",
+    "3-Rules/Character Building/Equipment/M/maelstromic-destabilizer-lesser.md",
+    "3-Rules/Character Building/Equipment/M/mad-mammoths-juke.md",
+    "3-Rules/Character Building/Equipment/M/magic-wand-(7th-rank-spell).md",
+    "3-Rules/Character Building/Equipment/M/mirror-of-sorshen.md",
+    "3-Rules/Character Building/Equipment/M/miter-of-communion.md",
+    "3-Rules/Character Building/Equipment/M/mistranslators-draft.md",
+    "zz-Attachments/icosiols-tomb-upper-level.png",
     "zz-Attachments/shard-of-the-star-postdungeon.png",
     "zz-Attachments/Assets/ImagePlaceholder.png",
     "zz-Attachments/Assets/MapPlaceholder.png",

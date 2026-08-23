@@ -1,415 +1,457 @@
 ---
 #========================================================#
-#                     CORE PROPERTIES                    #
-#========================================================#
-cssclass: pf2e-items, h-line
-name: ""
-aliases:
-source: ""
-pg: ""
-rarity: ""
-trait01: ""
-trait02: ""
-trait03:
-trait04:
-trait05:
-trait06:
-trait07:
-trait08:
-image: zz-Attachments/assets/imageplaceholder.png
-level: 
-group: 
-weight: 
-value: ""
-subvalue: ""
-invest:
-usage: ""
-license: ""
-identify: ""
-description: ""
-activate: ""
-craft: 
-destruction: 
+
+# CORE PROPERTIES
+
+#========================================================#  
+cssclass: pf2e-items, h-line  
+name: ""  
+aliases:  
+source: ""  
+pg: ""  
+rarity: ""  
+trait01: ""  
+trait02: ""  
+trait03:  
+trait04:  
+trait05:  
+trait06:  
+trait07:  
+trait08:  
+image: zz-Attachments/assets/imageplaceholder.png  
+level:  
+group:  
+weight:  
+value: ""  
+subvalue: ""  
+invest:  
+usage: ""  
+license: ""  
+identify: ""  
+description: ""  
+activate: ""  
+craft:  
+destruction:
 
 #========================================================#
-#                  Ability #1 PROPERTIES                 #
-#========================================================#
-powerTitle1: "Effect"
-actionEconomy1: 
-type1: 
-frequency1: 
-requirement1:
-trigger1:
-activate1: 
-duration1: 
+
+# Ability #1 PROPERTIES
+
+#========================================================#  
+powerTitle1: "Effect"  
+actionEconomy1:  
+type1:  
+frequency1:  
+requirement1:  
+trigger1:  
+activate1:  
+duration1:  
 mechanics1: ""
 
 #========================================================#
-#                  Ability #2 PROPERTIES                 #
-#========================================================#
-powerTitle2: ""
-actionEconomy2: 
-type2: 
-frequency2: 
-requirement2:
-trigger2: 
-activate2: 
-duration2: 
+
+# Ability #2 PROPERTIES
+
+#========================================================#  
+powerTitle2: ""  
+actionEconomy2:  
+type2:  
+frequency2:  
+requirement2:  
+trigger2:  
+activate2:  
+duration2:  
 mechanics2: "**Secondary Effect** "
 
 #========================================================#
-#                  Ability #3 PROPERTIES                 #
-#========================================================#
-powerTitle3: ""
-actionEconomy3: 
-type3: 
-frequency3: 
-requirement3:
-trigger3: 
-activate3: 
-duration3: 
+
+# Ability #3 PROPERTIES
+
+#========================================================#  
+powerTitle3: ""  
+actionEconomy3:  
+type3:  
+frequency3:  
+requirement3:  
+trigger3:  
+activate3:  
+duration3:  
 mechanics3: "**Secondary Effect** "
 
 #========================================================#
-#                  Ability #4 PROPERTIES                 #
-#========================================================#
-powerTitle4: ""
-actionEconomy4: 
-type4: 
-frequency4: 
-requirement4:
-trigger4: 
-activate4: 
-duration4: 
+
+# Ability #4 PROPERTIES
+
+#========================================================#  
+powerTitle4: ""  
+actionEconomy4:  
+type4:  
+frequency4:  
+requirement4:  
+trigger4:  
+activate4:  
+duration4:  
 mechanics4: "**Secondary Effect** "
 
 #========================================================#
-#                   WEAPON PROPERTIES                    #
-#========================================================#
-range:
-ammoType:
-reload:
-damage: 
-dmg1: 
-dmg1Type: 
-dmg2: 
-dmg2Type: 
-weaponType: 
-weaponCategory: 
+
+# WEAPON PROPERTIES
+
+#========================================================#  
+range:  
+ammoType:  
+reload:  
+damage:  
+dmg1:  
+dmg1Type:  
+dmg2:  
+dmg2Type:  
+weaponType:  
+weaponCategory:
 
 #========================================================#
-#                ARMOR/SHIELD PROPERTIES                 #
-#========================================================#
-baseAC: 
-modAC:
-dexCap: 
-strRequirement: 
-checkPenalty: 
-speedPenalty: 
-armorCategory: 
-resist: 
-immunity: 
-conditionImmunity:
-weaknesses:
-hardness: 
-hp: 
-bt: 
+
+# ARMOR/SHIELD PROPERTIES
+
+#========================================================#  
+baseAC:  
+modAC:  
+dexCap:  
+strRequirement:  
+checkPenalty:  
+speedPenalty:  
+armorCategory:  
+resist:  
+immunity:  
+conditionImmunity:  
+weaknesses:  
+hardness:  
+hp:  
+bt:
 
 #========================================================#
-#              INTELLIGENT ITEM PROPERTIES               #
-#========================================================#
-perception:
-communication:
-skill1:
-skill2:
-skill3:
-skill4:
-skill5: 
-int:
-wis:
-cha:
+
+# INTELLIGENT ITEM PROPERTIES
+
+#========================================================#  
+perception:  
+communication:  
+skill1:  
+skill2:  
+skill3:  
+skill4:  
+skill5:  
+int:  
+wis:  
+cha:  
 will:
 
 #========================================================#
-#                 OTHER ITEM PROPERTIES                  #
-#========================================================#
-fort:
-reflex:
+
+# OTHER ITEM PROPERTIES
+
+#========================================================#  
+fort:  
+reflex:  
 speed:
 
 #========================================================#
-#                   DATAVIEW PROPERTIES                  #
-#========================================================#
-weaponBase:
-armorBase:
-shieldBase:
-craftBase: 
 
+# ITEM BASE PROPERTIES
+
+#========================================================#  
+weaponBase:  
+armorBase:  
+shieldBase:  
+craftBase:
 ---
 
+```js-engine
+// JS Engine version: no Dataview / dv dependency.
+const file = context.file;
+const d = context.metadata?.frontmatter
+  ?? (file ? app.metadataCache.getFileCache(file)?.frontmatter : undefined)
+  ?? {};
 
-```dataviewjs
-const name = dv.current().aliases || dv.current().name || dv.current().file.name;
-const level = dv.current().level ?? 0;
-const rarity = dv.current().rarity;
-const traitFields = [
-  dv.current().trait01,
-  dv.current().trait02,
-  dv.current().trait03,
-  dv.current().trait04,
-  dv.current().trait05,
-  dv.current().trait06,
-  dv.current().trait07,
-  dv.current().trait08
-].filter(Boolean);
+const firstValue = (value) => Array.isArray(value) ? value[0] : value;
+const displayName = firstValue(d.aliases) || d.name || file?.basename || "Unnamed Item";
+const level = d.level ?? 0;
+const rarity = d.rarity ?? "";
 
+const traitFields = Array.from({ length: 8 }, (_, i) => d[`trait0${i + 1}`])
+  .filter(Boolean)
+  .map(t => t.toString().trim());
 
 const identifySkills = [];
+const lowerTraits = traitFields.map(t => t.toLowerCase());
 
-if (traitFields.includes("arcane") || traitFields.includes("Arcane")) {
-  identifySkills.push("Arcana");
-}
-if (traitFields.includes("nature") || traitFields.includes("Nature")) {
-  identifySkills.push("Primal");
-}
-if (traitFields.includes("occult") || traitFields.includes("Occult")) {
-  identifySkills.push("Occultism");
-}
-if (traitFields.includes("divine") || traitFields.includes("Divine")) {
-  identifySkills.push("Religion");
-}
+if (lowerTraits.includes("arcane")) identifySkills.push("Arcana");
+if (lowerTraits.includes("nature")) identifySkills.push("Primal");
+if (lowerTraits.includes("occult")) identifySkills.push("Occultism");
+if (lowerTraits.includes("divine")) identifySkills.push("Religion");
 
 const rarityMap = {
-  "Common": 0,
-  "Uncommon": 2,
-  "Rare": 5,
-  "Unique": 10
+  Common: 0,
+  Uncommon: 2,
+  Rare: 5,
+  Unique: 10
 };
 
-const rarityModifier = rarityMap[rarity] ?? 0;
+const rarityModifier = rarityMap[rarity] ?? rarityMap[rarity?.toString()] ?? 0;
+const numericLevel = Number(level) || 0;
 const identifyDC = Math.round(
-  (level < 20 ? (level + 14 + (level / 3)) : (level * 2)) + rarityModifier
+  (numericLevel < 20
+    ? numericLevel + 14 + numericLevel / 3
+    : numericLevel * 2) + rarityModifier
 );
 
-let identifySection = "";
+// JS Engine lets us render directly into its container. When doing that,
+// the block should return nothing/undefined.
+container.empty();
 
-if (identifySkills.length > 0) {
-  identifySection = `<div class="pf2e-item-identify"><h4>Identify Magic: ${identifySkills.join(", ")}; DC ${identifyDC}</h4></div>`;
-} else {
-  identifySection = `<div class="pf2e-item-identify"><h4>Identify Magic: Any; DC ${identifyDC}</h4></div>`;
-}
+const item = container.createDiv({ cls: "pf2e-item" });
+const header = item.createDiv({ cls: "pf2e-item-header" });
+header.createEl("h1", { text: displayName.toString() });
+header.createEl("h2", { text: `Item ${level}` });
 
-dv.span(`
-<div class="pf2e-item">
-  <div class="pf2e-item-header">
-    <h1>${name}</h1>
-    <h2>Item ${level}</h2>
-  </div>
-  ${identifySection}
-</div>
-`);
-
+const identify = item.createDiv({ cls: "pf2e-item-identify" });
+identify.createEl("h4", {
+  text: `Identify Magic: ${identifySkills.length ? identifySkills.join(", ") : "Any"}; DC ${identifyDC}`
+});
 ```
 
-> [!infobox|ttl-c txt-c alt-line]+
-> # `= this.aliases`
-> `= "<img src='" + this.image + "' width='300'>"`
+```js-engine
+// JS Engine replacement for the former Dataview inline infobox expressions.
+const file = context.file;
+const d = context.metadata?.frontmatter
+  ?? (file ? app.metadataCache.getFileCache(file)?.frontmatter : undefined)
+  ?? {};
 
-```dataviewjs
-const d = dv.current();
+const firstValue = (value) => Array.isArray(value) ? value[0] : value;
+const displayName = firstValue(d.aliases) || d.name || file?.basename || "Unnamed Item";
+const image = d.image?.toString().trim();
+
+let infobox = `> [!infobox|ttl-c txt-c alt-line]+
+> # ${displayName}`;
+if (image) infobox += `
+> ![[${image}|300]]`;
+
+return engine.markdown.create(infobox);
+```
+
+```js-engine
+// JS Engine version: reads frontmatter through Obsidian and renders through
+// Obsidian's MarkdownRenderer instead of Dataview's dv.* rendering helpers.
+const file = context.file;
+const d = context.metadata?.frontmatter
+  ?? (file ? app.metadataCache.getFileCache(file)?.frontmatter : undefined)
+  ?? {};
+
+const sourcePath = file?.path ?? "";
+const { MarkdownRenderer } = obsidian;
+
+container.empty();
+
+async function renderMarkdown(markdown, parent = container) {
+  if (!markdown?.toString().trim()) return;
+  await MarkdownRenderer.render(
+    app,
+    markdown.toString(),
+    parent,
+    sourcePath,
+    component
+  );
+}
+
+const hasText = (value) => value !== undefined && value !== null && value.toString().trim() !== "";
+const clean = (value) => hasText(value) ? value.toString().trim() : "";
 
 // ─── CORE PROPERTIES & TRAITS ─────────────────────────────────
 let coreOut = [];
-if (d.rarity?.trim()) {
+if (hasText(d.rarity)) {
+  const rarity = clean(d.rarity);
   coreOut.push(
-    `<span class="pf2e-rarity ${d.rarity.toLowerCase()}">${d.rarity.toUpperCase()}</span>`
+    `<span class="pf2e-rarity ${rarity.toLowerCase()}">${rarity.toUpperCase()}</span>`
   );
 }
+
 let traitList = [];
 for (let i = 1; i <= 8; i++) {
-  let t = d[`trait0${i}`]?.trim();
+  const t = clean(d[`trait0${i}`]);
   if (t) {
-    traitList.push(`<span class="pf2e-blocktrait">[[${t.toLowerCase()}|${t.toUpperCase()}]]</span>`);
+    traitList.push(
+      `<span class="pf2e-blocktrait">[[${t.toLowerCase()}|${t.toUpperCase()}]]</span>`
+    );
   }
 }
 if (traitList.length) coreOut.push(traitList.join(" "));
-if (coreOut.length) dv.paragraph(coreOut.join(" "));
+if (coreOut.length) await renderMarkdown(coreOut.join(" "));
 
 // ─── STATS & PROPERTIES ────────────────────────────────────────
 let stats = [];
 
 // Price / Damage / Bulk
 let line1 = [];
-if (d.value?.toString().trim()) {
-  let p = `**Price** ${d.value}` + (d.subvalue ? ` ${d.subvalue}` : "");
+if (hasText(d.value)) {
+  let p = `**Price** ${d.value}` + (hasText(d.subvalue) ? ` ${d.subvalue}` : "");
   line1.push(p);
 }
-if (d.dmg1 && d.dmg1Type) {
+if (hasText(d.dmg1) && hasText(d.dmg1Type)) {
   let dm = `**Damage** ${d.dmg1} ${d.dmg1Type}` +
-           (d.dmg2 && d.dmg2Type ? `, ${d.dmg2} ${d.dmg2Type}` : "");
+    (hasText(d.dmg2) && hasText(d.dmg2Type) ? `, ${d.dmg2} ${d.dmg2Type}` : "");
   line1.push(dm);
 }
-if (d.weight?.toString().trim()) line1.push(`**Bulk** ${d.weight}`);
+if (hasText(d.weight)) line1.push(`**Bulk** ${d.weight}`);
 if (line1.length) stats.push(line1.join("; "));
 
 // Hands / Range / Reload
 let line2 = [];
-if (d.hands)   line2.push(`**Hands** ${d.hands}`);
-if (d.range)   line2.push(`**Range** ${d.range}`);
-if (d.reload !== undefined && d.reload !== null && d.reload !== "")
-  line2.push(`**Reload** ${d.reload}`);
+if (hasText(d.hands)) line2.push(`**Hands** ${d.hands}`);
+if (hasText(d.range)) line2.push(`**Range** ${d.range}`);
+if (hasText(d.reload)) line2.push(`**Reload** ${d.reload}`);
 if (line2.length) stats.push(line2.join("; "));
 
 // Type / Category / Group
 let line3 = [];
-if (d.weaponType)           line3.push(`**Type** ${d.weaponType}`);
-let cats = [d.weaponCategory, d.armorCategory].filter(x => x).join(" – ");
-if (cats)                   line3.push(`**Category** ${cats}`);
-if (d.group)                line3.push(`**Group** ${d.group}`);
-if (line3.length)           stats.push(line3.join("; "));
+if (hasText(d.weaponType)) line3.push(`**Type** ${d.weaponType}`);
+const cats = [d.weaponCategory, d.armorCategory].filter(hasText).join(" – ");
+if (cats) line3.push(`**Category** ${cats}`);
+if (hasText(d.group)) line3.push(`**Group** ${d.group}`);
+if (line3.length) stats.push(line3.join("; "));
 
-// Ammo
-if (d.ammoType) stats.push(`**Ammo** ${d.ammoType}`);
-
-// Str Requirement
-if (d.strRequirement) stats.push(`**Str** ${d.strRequirement}`);
+if (hasText(d.ammoType)) stats.push(`**Ammo** ${d.ammoType}`);
+if (hasText(d.strRequirement)) stats.push(`**Str** ${d.strRequirement}`);
 
 // Base Armor / Weapon
-if (d.armorBase || d.weaponBase) {
+if (hasText(d.armorBase) || hasText(d.weaponBase)) {
   let b = [];
-  if (d.armorBase)  b.push(`**Base Armor** ${d.armorBase}`);
-  if (d.weaponBase) b.push(`**Base Weapon** ${d.weaponBase}`);
+  if (hasText(d.armorBase)) b.push(`**Base Armor** ${d.armorBase}`);
+  if (hasText(d.weaponBase)) b.push(`**Base Weapon** ${d.weaponBase}`);
   stats.push(b.join("; "));
 }
 
 // AC / Dex Cap / Penalties
 let arm = [];
-
 if (d.baseAC != null || d.modAC != null) {
-  const totalAC = (d.baseAC ?? 0) + (d.modAC ?? 0);
-  arm.push(`**AC** +${totalAC} (base ${d.baseAC ?? 0}, mod ${d.modAC ?? 0})`);
+  const baseAC = Number(d.baseAC ?? 0) || 0;
+  const modAC = Number(d.modAC ?? 0) || 0;
+  const totalAC = baseAC + modAC;
+  arm.push(`**AC** +${totalAC} (base ${baseAC}, mod ${modAC})`);
 }
-
-if (d.dexCap      != null) arm.push(`**Dex Cap** +${d.dexCap}`);
-if (d.checkPenalty!= null) arm.push(`**Check Penalty** ${d.checkPenalty}`);
-if (d.speedPenalty!= null) arm.push(`**Speed Penalty** ${d.speedPenalty}`);
-
+if (d.dexCap != null) arm.push(`**Dex Cap** +${d.dexCap}`);
+if (d.checkPenalty != null) arm.push(`**Check Penalty** ${d.checkPenalty}`);
+if (d.speedPenalty != null) arm.push(`**Speed Penalty** ${d.speedPenalty}`);
 if (arm.length) stats.push(arm.join("; "));
 
-// Armor/Shield: Resistances / Immunities / Condition Immunities / Weaknesses
+// Resistances / Immunities / Condition Immunities / Weaknesses
 {
   const parts = [];
-  const str = (x) => x?.toString().trim();
-
-  if (str(d.resist))            parts.push(`**Resistances** ${str(d.resist)}`);
-  if (str(d.immunity))          parts.push(`**Immunities** ${str(d.immunity)}`);
-  if (str(d.conditionImmunity)) parts.push(`**Condition Immunities** ${str(d.conditionImmunity)}`);
-  if (str(d.weaknesses))        parts.push(`**Weaknesses** ${str(d.weaknesses)}`);
-
+  if (hasText(d.resist)) parts.push(`**Resistances** ${clean(d.resist)}`);
+  if (hasText(d.immunity)) parts.push(`**Immunities** ${clean(d.immunity)}`);
+  if (hasText(d.conditionImmunity)) parts.push(`**Condition Immunities** ${clean(d.conditionImmunity)}`);
+  if (hasText(d.weaknesses)) parts.push(`**Weaknesses** ${clean(d.weaknesses)}`);
   if (parts.length) stats.push(parts.join("; "));
 }
 
-// ─── Usage / Shield / Activate / Craft / License / Invest ─────────────
-if (d.usage) stats.push(`**Usage** ${d.usage}`);
+if (hasText(d.usage)) stats.push(`**Usage** ${d.usage}`);
 
-// ─── Shield fields in one line ─────────────────────────────────────────
-if (d.hardness || d.hp || d.bt) {
+// Shield fields
+if (hasText(d.hardness) || hasText(d.hp) || hasText(d.bt)) {
   const shieldParts = [];
-  if (d.hardness) shieldParts.push(`**Hardness** ${d.hardness}`);
-  if (d.hp)       shieldParts.push(`**HP** ${d.hp}`);
-  if (d.bt)       shieldParts.push(`**BT** ${d.bt}`);
-  stats.push(shieldParts.join('; '));
+  if (hasText(d.hardness)) shieldParts.push(`**Hardness** ${d.hardness}`);
+  if (hasText(d.hp)) shieldParts.push(`**HP** ${d.hp}`);
+  if (hasText(d.bt)) shieldParts.push(`**BT** ${d.bt}`);
+  stats.push(shieldParts.join("; "));
 }
 
-// ─── OTHER ITEM PROPERTIES (Fort / Reflex / Speed) ─────────────
+// Fort / Reflex / Speed
 {
   const otherParts = [];
+  const fmtPlus = (n) => {
+    if (!hasText(n)) return null;
+    const s = n.toString().trim();
+    return s.startsWith("+") || s.startsWith("-") ? s : `+${s}`;
+  };
 
-  // fort/reflex are integers in YAML but should show with a leading "+"
-  const fmtPlus = (n) =>
-    (typeof n === "number" ? `+${n}` :
-     (n?.toString().trim() ? (n.toString().trim().startsWith('+') ? n.toString().trim() : `+${n.toString().trim()}`) : null));
-
-  const fortStr   = fmtPlus(d.fort);
+  const fortStr = fmtPlus(d.fort);
   const reflexStr = fmtPlus(d.reflex);
 
-  if (fortStr)   otherParts.push(`**Fort** ${fortStr}`);
+  if (fortStr) otherParts.push(`**Fort** ${fortStr}`);
   if (reflexStr) otherParts.push(`**Reflex** ${reflexStr}`);
-  if (d.speed?.toString().trim()) otherParts.push(`**Speed** ${d.speed.toString().trim()}`);
+  if (hasText(d.speed)) otherParts.push(`**Speed** ${clean(d.speed)}`);
 
   if (otherParts.length) stats.push(otherParts.join("; "));
 }
 
-// ─── Activate / Craft / License / Invest ─────────────────────────────────
-const rawActivate = d.file.frontmatter.activate;
-if (rawActivate?.toString().trim()) {
-  stats.push(`**Activate** ${rawActivate}`);
+// Activate / Craft / License / Invest
+if (hasText(d.activate)) stats.push(`**Activate** ${d.activate}`);
+if (hasText(d.craft)) stats.push(`**Craft** ${d.craft}`);
+if (hasText(d.license)) stats.push(`**License** ${d.license}`);
+if (hasText(d.invest)) stats.push(`**Invest** ${d.invest}`);
+
+if (stats.length) {
+  await renderMarkdown(stats.map(x => `- ${x}`).join("\n"));
 }
-if (d.craft)   stats.push(`**Craft** ${d.craft}`);
-if (d.license) stats.push(`**License** ${d.license}`);
-if (d.invest)  stats.push(`**Invest** ${d.invest}`);
 
-if (stats.length) dv.list(stats);
+// ─── INTELLIGENT ITEM BOX ─────────────────────────────────────
+const skills = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5, d.skill6]
+  .filter(hasText)
+  .map(clean);
 
-// ─── INTELLIGENT ITEM BOX ───────────────────────────────────────
-const hasIntel = !!d.perception?.trim() || !!d.communication?.trim() || !!d.skill1?.trim() || !!d.skill2?.trim() || !!d.skill3?.trim() || !!d.skill4?.trim() || !!d.skill5?.trim() || !!d.skill6?.trim() || typeof d.int === "number" || typeof d.wis === "number" || typeof d.cha === "number" || !!d.will?.trim();
+const hasIntel =
+  hasText(d.perception) || hasText(d.communication) || skills.length > 0 ||
+  d.int != null || d.wis != null || d.cha != null || hasText(d.will);
 
 if (hasIntel) {
-  const box = document.createElement("div");
-  box.classList.add("pf2e-intelligent-item");
+  const box = container.createDiv({ cls: "pf2e-intelligent-item" });
+  box.createEl("h2", { text: "Intelligent Item" });
 
-  const h2 = document.createElement("h2");
-  h2.textContent = "Intelligent Item";
-  box.appendChild(h2);
-
-  function mkLine(pairs) {
-    const row = document.createElement("div");
+  function addLine(pairs) {
+    if (!pairs.length) return;
+    const row = box.createDiv();
     pairs.forEach((x, i) => {
-      const s = document.createElement("strong");
-      s.textContent = x.label + " ";
-      row.appendChild(s);
-      row.appendChild(document.createTextNode(x.value));
-      if (i < pairs.length - 1) row.appendChild(document.createTextNode("; "));
+      row.createEl("strong", { text: `${x.label} ` });
+      row.appendText(x.value.toString());
+      if (i < pairs.length - 1) row.appendText("; ");
     });
-    return row;
   }
 
-  let L1 = [];
-  if (d.perception?.trim())    L1.push({ label: "Perception",    value: d.perception.trim() });
-  if (d.communication?.trim()) L1.push({ label: "Communication", value: d.communication.trim() });
-  if (L1.length)               box.appendChild(mkLine(L1));
+  const perceptionLine = [];
+  if (hasText(d.perception)) perceptionLine.push({ label: "Perception", value: clean(d.perception) });
+  if (hasText(d.communication)) perceptionLine.push({ label: "Communication", value: clean(d.communication) });
+  addLine(perceptionLine);
 
-  let SK = [d.skill1, d.skill2, d.skill3, d.skill4, d.skill5, d.skill6].filter(x => x?.trim()).map(x => x.trim());
-  if (SK.length) box.appendChild(mkLine([{ label: "Skills", value: SK.join("; ") }]));
+  if (skills.length) addLine([{ label: "Skills", value: skills.join("; ") }]);
 
-  let MS = [];
-  if (typeof d.int === "number") MS.push({ label: "INT", value: d.int });
-  if (typeof d.wis === "number") MS.push({ label: "WIS", value: d.wis });
-  if (typeof d.cha === "number") MS.push({ label: "CHA", value: d.cha });
-  if (MS.length) box.appendChild(mkLine(MS));
+  const mentalStats = [];
+  if (d.int != null && hasText(d.int)) mentalStats.push({ label: "INT", value: d.int });
+  if (d.wis != null && hasText(d.wis)) mentalStats.push({ label: "WIS", value: d.wis });
+  if (d.cha != null && hasText(d.cha)) mentalStats.push({ label: "CHA", value: d.cha });
+  addLine(mentalStats);
 
-  if (d.will?.trim()) box.appendChild(mkLine([{ label: "Will", value: d.will.trim() }]));
-
-  dv.paragraph("");
-  dv.el("div", box, {});
+  if (hasText(d.will)) addLine([{ label: "Will", value: clean(d.will) }]);
 }
 
-// ─── DESCRIPTION ────────────────────────────────────────────────
-if (d.description?.trim()) {
-  dv.paragraph(d.description);
-}
+// ─── DESCRIPTION ───────────────────────────────────────────────
+if (hasText(d.description)) await renderMarkdown(d.description);
 
-// ─── DRAWBACK ────────────────────────────────────────────────
-if (d.drawback?.trim()) {
-  dv.paragraph(`**Drawback:** ${d.drawback}`);
-}
+// ─── DRAWBACK ──────────────────────────────────────────────────
+if (hasText(d.drawback)) await renderMarkdown(`**Drawback:** ${d.drawback}`);
 
-// ─── ABILITIES #1–4 ────────────────────────────────────────────
+// ─── CLEAR INFOBOX FLOAT ────────────────────────────────────────
+// The infobox callout floats on the right. Let the item's descriptive text
+// wrap beside it, then force all boxed abilities/source material below it so
+// short item entries cannot overlap the image.
+const clearInfobox = container.createDiv({ cls: "pf2e-clear-infobox" });
+clearInfobox.style.clear = "both";
+clearInfobox.style.width = "100%";
+clearInfobox.style.height = "0";
+
+// ─── ABILITIES #1–4 ───────────────────────────────────────────
 function getActionDisplay(ae) {
-  if (!ae) return "";
+  if (!hasText(ae)) return "";
 
-  let val = ae.toString().trim().toLowerCase();
-
+  const val = ae.toString().trim().toLowerCase();
   const map = {
     "1": "`pf2:1`",
     "2": "`pf2:2`",
@@ -427,24 +469,23 @@ function getActionDisplay(ae) {
     "pf2:f": "`pf2:f`"
   };
 
-  // Return icon if known, otherwise return raw text (like "10 minutes")
   return map[val] || `<span class="pf2e-time">${ae}</span>`;
 }
 
 function createPowerBlock(title, action, type, frequency, activate, requirement, trigger, duration, mechanics) {
-  let actionDisplay = getActionDisplay(action);
-  let headerParts = [`### **${title}**`];
+  const actionDisplay = getActionDisplay(action);
+  const headerParts = [`### **${title}**`];
 
   if (actionDisplay) headerParts.push(actionDisplay);
-  if (type?.toString().trim()) headerParts.push(type.toString().trim());
+  if (hasText(type)) headerParts.push(clean(type));
 
-  let block = headerParts.join(" ") + `\n\n`;
+  let block = headerParts.join(" ") + "\n\n";
 
-  if (frequency?.toString().trim())   block += `**Frequency:** ${frequency}\n\n`;
-  if (activate?.toString().trim())    block += `**Activate:** ${activate}\n\n`;
-  if (requirement?.toString().trim()) block += `**Requirements:** ${requirement}\n\n`;
-  if (trigger?.toString().trim())     block += `**Trigger:** ${trigger}\n\n`;
-  if (duration?.toString().trim())    block += `**Duration:** ${duration}\n\n`;
+  if (hasText(frequency)) block += `**Frequency:** ${frequency}\n\n`;
+  if (hasText(activate)) block += `**Activate:** ${activate}\n\n`;
+  if (hasText(requirement)) block += `**Requirements:** ${requirement}\n\n`;
+  if (hasText(trigger)) block += `**Trigger:** ${trigger}\n\n`;
+  if (hasText(duration)) block += `**Duration:** ${duration}\n\n`;
   block += `${mechanics || ""}\n`;
 
   return block;
@@ -452,38 +493,40 @@ function createPowerBlock(title, action, type, frequency, activate, requirement,
 
 let abilities = [];
 for (let i = 1; i <= 4; i++) {
-  let title = d[`powerTitle${i}`]?.trim();
+  const title = clean(d[`powerTitle${i}`]);
   if (!title) continue;
-  if (i > 1) abilities.push("<hr class='pf2e-divider'>");
+
+  if (abilities.length) abilities.push("<hr class='pf2e-divider'>");
   abilities.push(
-	createPowerBlock(  
-		d[`powerTitle${i}`],  
-		d.file.frontmatter[`actionEconomy${i}`],  
-		d[`type${i}`],  
-		d[`frequency${i}`],  
-		d.file.frontmatter[`activate${i}`],  
-		d[`requirement${i}`],  
-		d[`trigger${i}`],  
-		d.file.frontmatter[`duration${i}`],  
-		d[`mechanics${i}`]  
-	)
+    createPowerBlock(
+      d[`powerTitle${i}`],
+      d[`actionEconomy${i}`],
+      d[`type${i}`],
+      d[`frequency${i}`],
+      d[`activate${i}`],
+      d[`requirement${i}`],
+      d[`trigger${i}`],
+      d[`duration${i}`],
+      d[`mechanics${i}`]
+    )
   );
 }
 
 if (abilities.length) {
-  dv.paragraph(`<div class="pf2e-ability-textbox">\n\n` + abilities.join("\n\n") + `\n\n</div>`);
+  const abilityBox = container.createDiv({ cls: "pf2e-ability-textbox" });
+  await renderMarkdown(abilities.join("\n\n"), abilityBox);
 }
 
-// ─── DESTRUCTION & SOURCE ───────────────────────────────────────
-if (d.destruction?.trim()) dv.paragraph(`**Destruction:** ${d.destruction.trim()}`);
-if (d.source?.trim() || d.pg?.toString().trim()) dv.paragraph(`*Source: ${d.source || "Unknown"}${d.pg ? `, pg. ${d.pg}` : ""}*`);
+// ─── DESTRUCTION & SOURCE ──────────────────────────────────────
+if (hasText(d.destruction)) await renderMarkdown(`**Destruction:** ${clean(d.destruction)}`);
+if (hasText(d.source) || hasText(d.pg)) {
+  await renderMarkdown(`*Source: ${hasText(d.source) ? d.source : "Unknown"}${hasText(d.pg) ? `, pg. ${d.pg}` : ""}*`);
+}
 
-// ─── MAGIC ITEM PROPERTIES ───────────────────────────────────────
+// ─── MAGIC ITEM PROPERTIES ─────────────────────────────────────
 let mg = [];
-if (d.weaponBase?.trim()) mg.push(`**Weapon Base** ${d.weaponBase}`);
-if (d.armorBase?.trim())  mg.push(`**Armor Base** ${d.armorBase}`);
-if (d.shieldBase?.trim()) mg.push(`**Shield Base** ${d.shieldBase}`);
-if (mg.length) dv.list(mg);
-
+if (hasText(d.weaponBase)) mg.push(`**Weapon Base** ${d.weaponBase}`);
+if (hasText(d.armorBase)) mg.push(`**Armor Base** ${d.armorBase}`);
+if (hasText(d.shieldBase)) mg.push(`**Shield Base** ${d.shieldBase}`);
+if (mg.length) await renderMarkdown(mg.map(x => `- ${x}`).join("\n"));
 ```
-

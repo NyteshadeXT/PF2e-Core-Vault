@@ -4,29 +4,30 @@
 #========================================================#
 cssclass: h-line
 notetype: pf2e-item
-name: "maelstromic-destabilizer-(lesser)"
-aliases: "Maelstromic Destabilizer (Lesser)"
+name: "maelstromic-destabilizer-moderate"
+aliases: "Maelstromic Destabilizer (Moderate)"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: "92"
-rarity: ""
+rarity: "uncommon"
 trait01: "consumable"
 trait02: "gadget"
 trait03: "spirit"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/maelstromic-destabilizer.png
-level: 2
+level: 7
 weight: L
-value: "6"
+value: "65"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A maelstromic destabilizer is a whirling gyroscope of burnished bronze and glass. It strengthens the bonds that hold a creature to this world by weakening those same bonds to every other nearby creature. When activated, the destabilizer emits a constant pleasant chime as it spins. For the next minute, the creature holding the gadget gains resistance 2 to spirit damage, while all creatures not immune to spirit damage in a 10-foot emanation gains weakness 2 to spirit damage."
+activate: "`pf2:1` (manipulate)"
+description: "A maelstromic destabilizer is a whirling gyroscope of burnished bronze and glass. It strengthens the bonds that hold a creature to this world by weakening those same bonds to every other nearby creature. When activated, the destabilizer emits a constant pleasant chime as it spins. For the next minute, the creature holding the gadget gains resistance 5 to spirit damage, while all creatures not immune to spirit damage in a 10-foot emanation gains weakness 5 to spirit damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -75,3 +76,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
