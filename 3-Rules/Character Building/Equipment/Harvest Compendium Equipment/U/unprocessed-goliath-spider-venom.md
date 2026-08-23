@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "unprocessed-goliath-spider-venom"
 aliases: "Unprocessed Goliath Spider Venom"
 source: "Harvest Compendium"

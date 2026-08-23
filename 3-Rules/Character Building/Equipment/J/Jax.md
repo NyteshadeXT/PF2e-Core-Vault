@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "jax"
 aliases: "Jax"
 source: "Pathfinder #179: Cradle of Quartz"

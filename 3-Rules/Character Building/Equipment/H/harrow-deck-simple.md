@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "harrow-deck-simple"
 aliases: "Harrow Deck (Simple)"
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"

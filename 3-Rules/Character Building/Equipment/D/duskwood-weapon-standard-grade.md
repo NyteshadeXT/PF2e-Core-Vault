@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "duskwood-weapon-standard-grade"
 aliases: "Duskwood Weapon (Standard Grade)"
 source: "Pathfinder GM Core"

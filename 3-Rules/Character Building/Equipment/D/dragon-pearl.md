@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "dragon-pearl"
 aliases: "Dragon Pearl"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"

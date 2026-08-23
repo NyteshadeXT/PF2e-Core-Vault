@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "incense-of-distilled-death"
 aliases: "Incense of Distilled Death"

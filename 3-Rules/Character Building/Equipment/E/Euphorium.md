@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "euphorium"
 aliases: "Euphorium"
 source: "Pathfinder #205: Singer, Stalker, Skinsaw Man"

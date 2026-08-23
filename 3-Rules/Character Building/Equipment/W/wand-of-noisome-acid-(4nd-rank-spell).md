@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-noisome-acid-(4nd-rank-spell)"
 aliases: "Wand of Noisome Acid (4nd-Rank Spell)"

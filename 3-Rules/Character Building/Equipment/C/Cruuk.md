@@ -1,5 +1,8 @@
 ---
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "cruuk"
 aliases: "cruuk"
 source: "Pathfinder Player Core 2"

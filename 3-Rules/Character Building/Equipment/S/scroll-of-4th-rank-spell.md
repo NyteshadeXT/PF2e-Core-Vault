@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "scroll-of-4th-rank-spell"
 aliases: "Scroll of 4th-rank Spell"

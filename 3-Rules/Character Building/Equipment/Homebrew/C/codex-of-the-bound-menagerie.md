@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "codex-of-the-bound-menagerie"
 aliases: "Codex of the Bound Menagerie"
 source: "Homebrew"

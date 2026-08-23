@@ -1,5 +1,8 @@
 ---
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: clear-cutters-axe
 aliases: Clear Cutter's Axe

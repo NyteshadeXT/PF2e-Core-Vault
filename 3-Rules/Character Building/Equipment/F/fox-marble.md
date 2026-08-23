@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "fox-marble"
 aliases: "Fox Marble"
 source: "Pathfinder Adventure Path #168: King of the Mountain"

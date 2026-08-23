@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "mace-multipistol"
 aliases: "Mace Multipistol"
@@ -81,15 +84,38 @@ armorBase:
 [[Item Card Template]]
 ```
 
-```dataview
-// change weaponbase to armorbase or shieldbase as needed and the update the equals as appropriate to the new typing
+```base
+formulas:
+  itemName: link(file, aliases)
 
-TABLE
-  aliases AS "Aliases",
-  level AS "Level",
-  license AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE weaponbase = "Mace Multipistol"
-SORT level ASC
+properties:
+  formula.itemName:
+    displayName: "Item Name"
+  note.level:
+    displayName: Level
+  note.license:
+    displayName: License
+
+views:
+  - type: table
+    name: Related Items
+    filters:
+      and:
+        - file.inFolder("3-Rules/Character Building/Equipment")
+        - or:
+            - weaponbase == this.aliases
+            - armorbase == this.aliases
+            - shieldbase == this.aliases
+            - craftbase == this.aliases
+    order:
+      - formula.itemName
+      - level
+      - license
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      formula.itemName: 300
+      note.level: 109
 
 ```

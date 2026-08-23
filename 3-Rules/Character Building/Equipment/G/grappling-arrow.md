@@ -1,5 +1,8 @@
 ---
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: grappling-arrow
 aliases: Grappling Arrow
 source: Pathfinder Lost Omens Pathfinder Society Guide

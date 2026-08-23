@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-splintered-sorrows-(rank-6)"
 aliases: "Wand Of Splintered Sorrows (Rank 6)"

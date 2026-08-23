@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "keep-stone-armor-high-grade"
 aliases: "Keep Stone Armor (High Grade)"
 source: "Pathfinder Lost Omens Highhelm"

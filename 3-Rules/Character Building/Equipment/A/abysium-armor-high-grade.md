@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "abysium-armor-high-grade"
 aliases: "Abysium Armor (High Grade)"
 source: "Pathfinder Lost Omens Grand Bazaar"

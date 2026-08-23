@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "inubrix-shield-standard-grade"
 aliases: "Inubrix Shield (Standard Grade)"
 source: "Pathfinder Lost Omens The Grand Bazaar"

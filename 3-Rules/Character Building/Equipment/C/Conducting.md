@@ -1,5 +1,8 @@
 ---
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "conducting"
 aliases: "Conducting"
 source: "Pathfinder Lost Omens Ancestry Guide"

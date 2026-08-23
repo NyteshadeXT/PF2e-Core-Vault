@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "abysium-buckler-standard-grade"
 aliases: "Abysium Buckler (Standard Grade)"
 source: "Pathfinder Lost Omens Grand Bazaar"

@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "abysium-object-high-grade"
 aliases: "Abysium Object (High Grade)"
 source: "Pathfinder Lost Omens Grand Bazaar"

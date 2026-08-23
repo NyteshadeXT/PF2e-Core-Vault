@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "cold-iron-armor-low-grade"
 aliases: "Cold Iron Armor (Low Grade)"
 source: "Pathfinder GM Core"

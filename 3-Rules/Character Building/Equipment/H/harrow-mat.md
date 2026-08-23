@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "harrow-mat"
 aliases: "Harrow Mat"
 source: "Source: Pathfinder #160: Assault on Hunting Lodge Seven"

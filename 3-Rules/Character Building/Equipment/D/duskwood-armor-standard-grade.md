@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "duskwood-armor-standard-grade"
 aliases: "Duskwood Armor (Standard Grade)"
 source: "Pathfinder GM Core"

@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "alpha-venom-sac-catalyst"
 aliases: "Alpha Venom Sac Catalyst"
 source: "Chimeracrafting"

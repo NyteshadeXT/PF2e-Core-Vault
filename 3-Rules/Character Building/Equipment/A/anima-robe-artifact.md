@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line, pf2e-items
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base, pf2e-items
 notetype: pf2e-item
 name: "anima-robe-artifact"
 aliases: "Anima Robe (Artifact)"

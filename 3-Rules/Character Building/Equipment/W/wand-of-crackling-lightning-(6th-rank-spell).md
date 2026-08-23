@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-crackling-lightning-(6th-rank-spell)"
 aliases: "Wand of Crackling Lightning (6th-Rank Spell)"

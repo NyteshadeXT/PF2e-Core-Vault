@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-thundering-echoes-(3rd-rank-spell)"
 aliases: "Wand of Thundering Echoes (3rd-Rank Spell)"

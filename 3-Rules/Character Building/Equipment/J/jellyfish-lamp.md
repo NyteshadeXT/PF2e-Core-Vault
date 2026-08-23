@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "jellyfish-lamp"
 aliases: "Jellyfish Lamp"
 source: "Pathfinder Lost Omens World Guide"

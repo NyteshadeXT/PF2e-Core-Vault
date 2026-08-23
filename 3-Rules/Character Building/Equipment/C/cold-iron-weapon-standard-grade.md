@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "cold-iron-weapon-standard-grade"
 aliases: "Cold Iron Weapon (Stadard Grade)"
 source: "Pathfinder GM Core"

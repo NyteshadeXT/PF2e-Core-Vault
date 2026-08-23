@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "light-barding-small-or-medium"
 aliases: "Light Barding (Small or Medium)"
 source: "Pathfinder Player Core"

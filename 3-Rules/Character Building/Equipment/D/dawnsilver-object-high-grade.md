@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "dawnsilver-object-high-grade"
 aliases: "Dawnsilver Object (High Grade)"
 source: "Pathfinder GM Core"

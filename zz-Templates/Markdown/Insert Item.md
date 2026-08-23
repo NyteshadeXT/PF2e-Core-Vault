@@ -138,11 +138,9 @@ craftBase:
 
 ---
 
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```
-
 
 ```base
 formulas:
@@ -158,11 +156,15 @@ properties:
 
 views:
   - type: table
-    name: Maces
+    name: Related Items
     filters:
       and:
         - file.inFolder("3-Rules/Character Building/Equipment")
-        - weaponbase.contains("Mace")
+        - or:
+            - weaponbase == this.aliases
+            - armorbase == this.aliases
+            - shieldbase == this.aliases
+            - craftbase == this.aliases
     order:
       - formula.itemName
       - level

@@ -2,7 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclass: pf2e-items, h-line
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
 name: "codex-of-the-eidolonic-tapestry"
 aliases: "Codex of the Eidolonic Tapestry"
 source: "Homebrew"
