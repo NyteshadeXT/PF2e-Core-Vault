@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silvered-marp-fur"
 aliases: "Silvered Marp Fur"
@@ -15,21 +15,24 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "110"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  A marp that gnaws on silver rather than gold grows fur tipped with silver that can be further processed into a versatile spell catalyst. A spellcaster who uses _silvered marp fur_ with an [[Spells/Impaling Spike|Impaling Spike]] spell creates a silver spike rather than a cold iron one."
+description: "**Activate** Cast a Spell  * * *  A marp that gnaws on silver rather
+  than gold grows fur tipped with silver that can be further processed into a versatile
+  spell catalyst. A spellcaster who uses _silvered marp fur_ with an [[Spells/Impaling
+  Spike|Impaling Spike]] spell creates a silver spike rather than a cold iron one."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

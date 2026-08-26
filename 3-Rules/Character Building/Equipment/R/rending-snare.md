@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rending-snare"
 aliases: "Rending Snare"
 source: "Pathfinder Player Core 2"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "kobold"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
-weight: 
+weight:
 value: "700"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process. The snare deals 10d8 piercing damage to the first creature to enter the square; that creature must attempt a DC 34 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.  **Failure** The creature takes full damage plus 2d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round.  **Critical Failure** The creature takes double damage plus 4d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy 2]] for 1 minute."
+description: "Sharp metal jaws wind tightly into the pressure plate mechanism of this
+  snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process.
+  The snare deals 10d8 piercing damage to the first creature to enter the square;
+  that creature must attempt a DC 34 Reflex check save.  * * *  **Critical Success**
+  The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]]
+  until the end of its next turn.  **Failure** The creature takes full damage plus
+  2d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy 2]] for 1 round.  **Critical
+  Failure** The creature takes double damage plus 4d6 bleed, and it becomes [[Conditions/Clumsy|Clumsy
+  2]] for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

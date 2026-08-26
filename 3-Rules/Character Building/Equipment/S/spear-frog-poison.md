@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spear-frog-poison"
 aliases: "Spear Frog Poison"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A single spear frog yields enough toxin to Craft 1 dose of spear frog poison.  * * *  **Activate** `pf2:2` Interact (Injury)  **Saving Throw** DC 15 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage 2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
+description: "A single spear frog yields enough toxin to Craft 1 dose of spear frog
+  poison.  * * *  **Activate** `pf2:2` Interact (Injury)  **Saving Throw** DC 15 Fortitude
+  check  **Maximum Duration** 6 rounds  **Stage 1** 1d4 poison damage (1 round)  **Stage
+  2** 1d6 poison damage and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

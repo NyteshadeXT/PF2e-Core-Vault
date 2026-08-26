@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "statue-skin-salve"
 aliases: "Statue Skin Salve"
 source: "Pathfinder Adventure: The Enmity Cycle"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` Interact  * * *  This gritty salve can be applied to the skin of a creature to form a thin layer of smooth stone on its body for 20 minutes. During this time, it gains resistance 3 to piercing and slashing damage. Further, the creature gains a +2 item bonus to [[Actions/Impersonate|Impersonate]] a statue or creature made of stone for 8 hours, or until its body is fully submersed in water.  [[Equipment Effects/Effect_ Statue Skin Salve|Effect: Statue Skin Salve]]"
+description: "**Activate** `pf2:3` Interact  * * *  This gritty salve can be applied
+  to the skin of a creature to form a thin layer of smooth stone on its body for 20
+  minutes. During this time, it gains resistance 3 to piercing and slashing damage.
+  Further, the creature gains a +2 item bonus to [[Actions/Impersonate|Impersonate]]
+  a statue or creature made of stone for 8 hours, or until its body is fully submersed
+  in water.  [[Equipment Effects/Effect_ Statue Skin Salve|Effect: Statue Skin Salve]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

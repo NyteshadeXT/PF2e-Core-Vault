@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ration-tonic-(greater)"
 aliases: "Ration Tonic (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a week's worth of food and water, distributing the nourishment in a constant and healthy flow across the week. The tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This slender vial appears
+  to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic
+  magically nourishes you with the equivalent of a week's worth of food and water,
+  distributing the nourishment in a constant and healthy flow across the week. The
+  tonic has a subtle, pleasant taste, its particulars chosen when the potion is crafted."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

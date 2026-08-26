@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rhoka-sword"
 aliases: "Rhoka Sword"
 source: "Pathfinder #165: Eyes of Empty Death"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "deadly-d8"
 trait02: "two-hand-d10"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The rhoka sword is the preferred weapon of urdefhan soldiers, though all urdefhans know how to wield these instruments of war."
+description: "The rhoka sword is the preferred weapon of urdefhan soldiers, though
+  all urdefhans know how to wield these instruments of war."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d8 slashing
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

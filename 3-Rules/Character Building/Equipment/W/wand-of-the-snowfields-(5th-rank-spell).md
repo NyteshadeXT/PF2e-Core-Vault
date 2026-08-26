@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-the-snowfields-(5th-rank-spell)"
 aliases: "Wand of the Snowfields (5th-Rank Spell)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "cold"
 trait02: "magical"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This wand is a slender length of ice-blue glass.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Howling Blizzard|Howling Blizzard]] at 5th-rank. Snow lingers in the spell's area, remaining as difficult terrain for 1 minute.  * * *  **Craft Requirements** Supply a casting of _howling blizzard_ at 5th-rank."
+description: "This wand is a slender length of ice-blue glass.  * * *  **Activate**
+  Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Howling
+  Blizzard|Howling Blizzard]] at 5th-rank. Snow lingers in the spell's area, remaining
+  as difficult terrain for 1 minute.  * * *  **Craft Requirements** Supply a casting
+  of _howling blizzard_ at 5th-rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

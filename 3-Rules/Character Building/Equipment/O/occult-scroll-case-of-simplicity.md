@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "occult-scroll-case-of-simplicity"
 aliases: "Occult Scroll Case of Simplicity"
 source: "Pathfinder Lost Omens Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,26 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "100"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The four different types of _scroll cases of simplicity_ often bear adornments appropriate to their magical tradition, such as angelic wings or otherworldly lettering. On the inside, intricate runic diagrams spiral out to surround the scroll stored within. A scroll placed within the case can be converted into energy to cast consistently useful spells depending on its type. You must be able to cast spells of a given tradition to use a _scroll case of simplicity_ of a corresponding type.  **Activate** `pf2:1` Interact  **Requirements** The scroll case contains a single scroll of a 1st-rank spell  * * *  **Effect** You transfer the scroll's energy into the scroll case, consuming the scroll, and you can immediately begin casting one of the scroll case's spells. If you use any action other than to Cast a Spell from the scroll case after activating the _scroll case of simplicity_, the scroll and its energy are lost.  The scroll case can be used to cast [[Spells/Illusory Disguise|Illusory Disguise]] or [[Spells/Soothe|Soothe]]"
+description: "The four different types of _scroll cases of simplicity_ often bear
+  adornments appropriate to their magical tradition, such as angelic wings or otherworldly
+  lettering. On the inside, intricate runic diagrams spiral out to surround the scroll
+  stored within. A scroll placed within the case can be converted into energy to cast
+  consistently useful spells depending on its type. You must be able to cast spells
+  of a given tradition to use a _scroll case of simplicity_ of a corresponding type.\
+  \  **Activate** `pf2:1` Interact  **Requirements** The scroll case contains a single
+  scroll of a 1st-rank spell  * * *  **Effect** You transfer the scroll's energy into
+  the scroll case, consuming the scroll, and you can immediately begin casting one
+  of the scroll case's spells. If you use any action other than to Cast a Spell from
+  the scroll case after activating the _scroll case of simplicity_, the scroll and
+  its energy are lost.  The scroll case can be used to cast [[Spells/Illusory Disguise|Illusory
+  Disguise]] or [[Spells/Soothe|Soothe]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

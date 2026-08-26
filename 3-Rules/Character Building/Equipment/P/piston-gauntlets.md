@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "piston-gauntlets"
 aliases: "Piston Gauntlets"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "deadly-d6"
 trait03: "magical"
 trait04: "monk"
 trait05: "reach"
 trait06: "shove"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 13
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The striking surface of this _+2 greater striking flaming pantograph gauntlet_ releases a puff of fire each time it reaches the end of its linkage.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  **Effect** You supercharge the gauntlet's attack. Make a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an extra two dice of weapon damage."
+description: "The striking surface of this _+2 greater striking flaming pantograph
+  gauntlet_ releases a puff of fire each time it reaches the end of its linkage. \
+  \ * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  **Effect**
+  You supercharge the gauntlet's attack. Make a melee Strike. This counts as two attacks
+  when calculating your multiple attack penalty. If this Strike hits, you deal an
+  extra two dice of weapon damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +52,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d4 bludgeoning
 dmg1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

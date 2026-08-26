@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tanglefoot-extruder"
 aliases: "Tanglefoot Extruder"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "alchemical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This portable nozzle-and-trigger assembly based on spider spinnerets can extrude and weave alchemical adhesives into temporary constructions. As an Interact action, you can attach a tanglefoot bag to the extruder. A loaded tanglefoot extruder can be activated to consume the attached tanglefoot bag and convert it into a 30-foot rope, whip, or net, depending on the nozzle die you choose when activating the device. The created object lasts for 1 hour. The DC to [[Actions/Escape|Escape]] a created rope (if used to bind a creature) or net is equal to the consumed tanglefoot bag's DC and Escaping destroys the created object."
+description: "**Activate** `pf2:1` Interact  This portable nozzle-and-trigger assembly
+  based on spider spinnerets can extrude and weave alchemical adhesives into temporary
+  constructions. As an Interact action, you can attach a tanglefoot bag to the extruder.
+  A loaded tanglefoot extruder can be activated to consume the attached tanglefoot
+  bag and convert it into a 30-foot rope, whip, or net, depending on the nozzle die
+  you choose when activating the device. The created object lasts for 1 hour. The
+  DC to [[Actions/Escape|Escape]] a created rope (if used to bind a creature) or net
+  is equal to the consumed tanglefoot bag's DC and Escaping destroys the created object."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

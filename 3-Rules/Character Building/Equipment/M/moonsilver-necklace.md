@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "moonsilver-necklace"
 aliases: "Moonsilver Necklace"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "1000"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Those who are in tune with nature understand well the transience of life and the migration of souls. Just as the moon waxes and wanes, so too are the candles of life lit and extinguished. The ritual for creating this item requires an animal sacrifice in direct moonlight, the belief being that creatures sacrificed in this way are blessed to reincarnate into better lives. While wearing this silver, crescent-shaped necklace, your unarmed melee Strikes are silver weapons with the properties of the [[Equipment/Ghost Touch|Ghost Touch]] rune."
+description: "Those who are in tune with nature understand well the transience of
+  life and the migration of souls. Just as the moon waxes and wanes, so too are the
+  candles of life lit and extinguished. The ritual for creating this item requires
+  an animal sacrifice in direct moonlight, the belief being that creatures sacrificed
+  in this way are blessed to reincarnate into better lives. While wearing this silver,
+  crescent-shaped necklace, your unarmed melee Strikes are silver weapons with the
+  properties of the [[Equipment/Ghost Touch|Ghost Touch]] rune."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

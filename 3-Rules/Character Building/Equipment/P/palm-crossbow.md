@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "palm-crossbow"
 aliases: "Palm Crossbow"
 source: "Pathfinder Lost Omens Legends"
 pg: ""
-rarity: ""
-trait01: "rare"
+rarity: "Rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. Recognizing the bracelet's nature requires a successful DC 25 Perception check check.  **Activate** `pf2:2` Interact  * * *  **Effect** You expand the bracelet into a [[Equipment/Hand Crossbow|Hand Crossbow]]. The bracelet has enough pieces to assemble up to three bolts, but the bolts contain necessary components for the bracelet. Without all of the bolt pieces, you cannot collapse the crossbow back into a bracelet."
+description: "This thick, elegant bracelet conceals a specialized firing mechanism
+  that can hold a single blowgun dart. You can fire the dart normally from the bracelet.
+  Recognizing the bracelet's nature requires a successful DC 25 Perception check check.\
+  \  **Activate** `pf2:2` Interact  * * *  **Effect** You expand the bracelet into
+  a [[Equipment/Hand Crossbow|Hand Crossbow]]. The bracelet has enough pieces to assemble
+  up to three bolts, but the bolts contain necessary components for the bracelet.
+  Without all of the bolt pieces, you cannot collapse the crossbow back into a bracelet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

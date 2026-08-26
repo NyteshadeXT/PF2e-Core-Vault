@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "malleable-mixture-(lesser)"
 aliases: "Malleable Mixture (Lesser)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Your bones, muscles, and organs become vastly softer and more pliable. You can fit into and through small or narrow spaces as though you were 1 size smaller than your normal size (minimum small), and you gain a +2 item bonus to your Fortitude and Reflex DCs against attempts to Grapple, Shove, or Trip you for 1 minute.  [[Equipment Effects/Effect_ Malleable Mixture (Lesser)|Effect: Malleable Mixture (Lesser)]]"
+description: "Your bones, muscles, and organs become vastly softer and more pliable.
+  You can fit into and through small or narrow spaces as though you were 1 size smaller
+  than your normal size (minimum small), and you gain a +2 item bonus to your Fortitude
+  and Reflex DCs against attempts to Grapple, Shove, or Trip you for 1 minute.  [[Equipment
+  Effects/Effect_ Malleable Mixture (Lesser)|Effect: Malleable Mixture (Lesser)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

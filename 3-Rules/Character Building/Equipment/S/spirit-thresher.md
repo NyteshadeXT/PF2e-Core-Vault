@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spirit-thresher"
 aliases: "Spirit Thresher"
 source: "Pathfinder Player Core 2"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "gnoll"
 trait02: "sweep"
 trait03: "versatile-s"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "Bones, some solid and others splintered, are affixed to metal chains at the end of a long stick to form a powerful flail. Many kholo warriors insist the vicious crack the weapon makes as it strikes loosens fragments of the soul like husks struck from grains."
+description: "Bones, some solid and others splintered, are affixed to metal chains
+  at the end of a long stick to form a powerful flail. Many kholo warriors insist
+  the vicious crack the weapon makes as it strikes loosens fragments of the soul like
+  husks struck from grains."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d12 slashing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

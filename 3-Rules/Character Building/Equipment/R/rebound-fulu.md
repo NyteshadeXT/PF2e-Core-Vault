@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rebound-fulu"
 aliases: "Rebound Fulu"
@@ -16,20 +16,26 @@ trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "125"
 subvalue: "gp"
 invest:
 usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a shield  **Activate** `pf2:0` envision  **Trigger** You use the Shield Block reaction with the shield to which this fulu is affixed.  * * *  The bronze-colored ink on this pale, silvery talisman sharply reflects light, enough that it seems to glow. When you activate the fulu, it reflects your foe's violence back against them. The foe that triggered the Shield Block reaction takes damage equal to your shield's Hardness or the damage they would have dealt before the Shield Block reaction, whichever is less."
+description: "**Usage** affixed to a shield  **Activate** `pf2:0` envision  **Trigger**
+  You use the Shield Block reaction with the shield to which this fulu is affixed.\
+  \  * * *  The bronze-colored ink on this pale, silvery talisman sharply reflects
+  light, enough that it seems to glow. When you activate the fulu, it reflects your
+  foe's violence back against them. The foe that triggered the Shield Block reaction
+  takes damage equal to your shield's Hardness or the damage they would have dealt
+  before the Shield Block reaction, whichever is less."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mirror-ball-snare"
 aliases: "Mirror-Ball Snare"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
 trait05: "visual"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
-weight: 
+weight:
 value: "40"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A mixture of metal shavings and flash powder inside this small, mirrored sphere ignites when disturbed, causing the ball to flash and spin. When a creature enters the square, the ball pops into the air, and all creatures within 10 feet who can see the mirror ball must succeed at a DC 22 Fortitude check save or become [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical failure, affected creatures are instead dazzled for 1 minute."
+description: "A mixture of metal shavings and flash powder inside this small, mirrored
+  sphere ignites when disturbed, causing the ball to flash and spin. When a creature
+  enters the square, the ball pops into the air, and all creatures within 10 feet
+  who can see the mirror ball must succeed at a DC 22 Fortitude check save or become
+  [[Conditions/Dazzled|Dazzled]] for 1 round. On a critical failure, affected creatures
+  are instead dazzled for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

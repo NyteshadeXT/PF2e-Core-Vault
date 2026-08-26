@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "quicksilver-mutagen-(major)"
 aliases: "Quicksilver Mutagen (Major)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You become swifter and nimbler but also fragile.  **Benefit** You gain a +4 item bonus to Acrobatics checks, Stealth checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you gain a +20 foot status bonus to your Speed.  **Drawback** You take damage equal to twice your level; you can't recover Hit Points lost this way by any means while the mutagen lasts. You take a -2 penalty to Fortitude saves.  **Duration** 1 hour.  [[Equipment Effects/Effect_ Quicksilver Mutagen (Major)|Effect: Quicksilver Mutagen (Major)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  You become swifter and nimbler
+  but also fragile.  **Benefit** You gain a +4 item bonus to Acrobatics checks, Stealth
+  checks, Thievery checks, Reflex saves, and Dexterity-based attack rolls, and you
+  gain a +20 foot status bonus to your Speed.  **Drawback** You take damage equal
+  to twice your level; you can't recover Hit Points lost this way by any means while
+  the mutagen lasts. You take a -2 penalty to Fortitude saves.  **Duration** 1 hour.\
+  \  [[Equipment Effects/Effect_ Quicksilver Mutagen (Major)|Effect: Quicksilver Mutagen
+  (Major)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

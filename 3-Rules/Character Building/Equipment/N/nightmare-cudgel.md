@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nightmare-cudgel"
 aliases: "Nightmare Cudgel"
 source: "Pathfinder #161: Belly of the Black Whale"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "thrown-10"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Crafted from polished wood, this seemingly mundane _+1 striking [[Equipment/Club|Club]]_ comes with a red leather strap near the handle. The mere sight of the cudgel in a guard's hand fills prisoners with dread.  Good creatures are [[Conditions/Enfeebled|Enfeebled 2]] while carrying, wielding, or wearing this item crafted by the sea-witches.  * * *  **Activate** `pf2:2` Interact (emotion, mental)  **Frequency** once per day  * * *  **Effect** You initiate an intimidating walk, thumping the cudgel menacingly against your palm. As part of activating this item, you can Stride twice. For the next minute, whenever you successfully Strike a creature with the _nightmare cudgel_, you can use a free action to attempt an Intimidation check to [[Actions/Demoralize|Demoralize]] the struck creature."
+description: "Crafted from polished wood, this seemingly mundane _+1 striking [[Equipment/Club|Club]]_
+  comes with a red leather strap near the handle. The mere sight of the cudgel in
+  a guard's hand fills prisoners with dread.  Good creatures are [[Conditions/Enfeebled|Enfeebled
+  2]] while carrying, wielding, or wearing this item crafted by the sea-witches. \
+  \ * * *  **Activate** `pf2:2` Interact (emotion, mental)  **Frequency** once per
+  day  * * *  **Effect** You initiate an intimidating walk, thumping the cudgel menacingly
+  against your palm. As part of activating this item, you can Stride twice. For the
+  next minute, whenever you successfully Strike a creature with the _nightmare cudgel_,
+  you can use a free action to attempt an Intimidation check to [[Actions/Demoralize|Demoralize]]
+  the struck creature."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d6 bludgeoning
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

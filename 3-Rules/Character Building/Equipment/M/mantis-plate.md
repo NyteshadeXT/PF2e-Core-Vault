@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mantis-plate"
 aliases: "Mantis Plate"
 source: "Pathfinder Howl of the Wild"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "bulwark"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "The beautiful plates of this _+2 resilient [[Equipment/Ready (Greater)|Greater Ready]] full plate_ armor are shaped from the carapace of a deadly mantis, providing excellent protection with added flexibility. When wearing a suit of mantis plate, you gain a +2 item bonus to your Athletics DC.  * * *  **Activate—Mandible Vambraces** `pf2:2` (concentrate, manipulate)  **Effect** Make a melee Strike. If you succeed, the target is caught by the spikes on the armor's forearms, taking an additional 6d6 piercing damage (DC 30 Reflex check save).  * * *  **Craft Requirements** The initial raw materials must include the arms and carapace of a deadly mantis."
+description: "The beautiful plates of this _+2 resilient [[Equipment/Ready (Greater)|Greater
+  Ready]] full plate_ armor are shaped from the carapace of a deadly mantis, providing
+  excellent protection with added flexibility. When wearing a suit of mantis plate,
+  you gain a +2 item bonus to your Athletics DC.  * * *  **Activate—Mandible Vambraces**
+  `pf2:2` (concentrate, manipulate)  **Effect** Make a melee Strike. If you succeed,
+  the target is caught by the spikes on the armor's forearms, taking an additional
+  6d6 piercing damage (DC 30 Reflex check save).  * * *  **Craft Requirements** The
+  initial raw materials must include the arms and carapace of a deadly mantis."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

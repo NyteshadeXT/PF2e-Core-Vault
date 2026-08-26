@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "murderers-knot"
 aliases: "Murderer's Knot"
@@ -15,21 +15,27 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "66"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You damage an [[Conditions/Off-Guard|Off-Guard]] creature with a Strike using the affixed weapon  * * *  This black strand of leather is tied to look like a peace knot when the weapon is worn, but it doesn't hamper drawing the weapon. When you activate the knot, the creature you damaged takes 1d6 bleed damage and is off-guard until the bleed ends.  If you have the [[Feats/Twist the Knife|Twist the Knife]] feat, the talisman instead deals persistent bleed damage equal to your sneak attack damage."
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You damage an [[Conditions/Off-Guard|Off-Guard]]
+  creature with a Strike using the affixed weapon  * * *  This black strand of leather
+  is tied to look like a peace knot when the weapon is worn, but it doesn't hamper
+  drawing the weapon. When you activate the knot, the creature you damaged takes 1d6
+  bleed damage and is off-guard until the bleed ends.  If you have the [[Feats/Twist
+  the Knife|Twist the Knife]] feat, the talisman instead deals persistent bleed damage
+  equal to your sneak attack damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "prismatic-dust"
 aliases: "Prismatic Dust"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "1"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This pigmented dust is often used to add color to the lights of a performance. Prismatic dust can be activated while you are adjacent to a source of magical bright light. When activated, the dust is sprinkled into the light, changing the light's color into the color of the dust for 1 hour. The color of the dust is determined upon the dust's creation."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This pigmented dust is often
+  used to add color to the lights of a performance. Prismatic dust can be activated
+  while you are adjacent to a source of magical bright light. When activated, the
+  dust is sprinkled into the light, changing the light's color into the color of the
+  dust for 1 hour. The color of the dust is determined upon the dust's creation."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

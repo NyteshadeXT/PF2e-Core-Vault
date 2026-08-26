@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "unmemorable-mantle-(greater)"
 aliases: "Unmemorable Mantle (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "illusion"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,23 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This long, shoddy cloak bears a hood and a simple brass clasp. While wearing the cloak, you gain a +2 item bonus to Deception checks to Impersonate an individual and to Lie while in character as that individual.  * * *  **Activate** 1 minute (envision, Interact)  **Frequency** once per day  **Requirements** You are Impersonating someone else  * * *  **Effect** While conversing or otherwise casually interacting with other creatures, you can adjust the mantle's clasp to modify those creatures' recollections of the last 5 minutes of their interaction with you. Each creature must attempt a DC 28 Will check save.  * * *  **Critical Success** The creature recalls the interaction clearly and realizes you were trying to alter their memory.  **Success** The creature recalls the interaction clearly.  **Failure** You decide whether or not the creature recalls the interaction. You can also alter minor details the creature recalls about the interaction, such as the time, place, and whether the interaction was favorable, as determined by the GM.  **Critical Failure** You decide whether or not the creature recalls the interaction. You can also alter major details the creature recalls about the interaction, such as believing you to be another individual or that the creature agreed to a favor, as determined by the GM."
+description: "This long, shoddy cloak bears a hood and a simple brass clasp. While
+  wearing the cloak, you gain a +2 item bonus to Deception checks to Impersonate an
+  individual and to Lie while in character as that individual.  * * *  **Activate**
+  1 minute (envision, Interact)  **Frequency** once per day  **Requirements** You
+  are Impersonating someone else  * * *  **Effect** While conversing or otherwise
+  casually interacting with other creatures, you can adjust the mantle's clasp to
+  modify those creatures' recollections of the last 5 minutes of their interaction
+  with you. Each creature must attempt a DC 28 Will check save.  * * *  **Critical
+  Success** The creature recalls the interaction clearly and realizes you were trying
+  to alter their memory.  **Success** The creature recalls the interaction clearly.\
+  \  **Failure** You decide whether or not the creature recalls the interaction. You
+  can also alter minor details the creature recalls about the interaction, such as
+  the time, place, and whether the interaction was favorable, as determined by the
+  GM.  **Critical Failure** You decide whether or not the creature recalls the interaction.
+  You can also alter major details the creature recalls about the interaction, such
+  as believing you to be another individual or that the creature agreed to a favor,
+  as determined by the GM."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +63,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +92,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

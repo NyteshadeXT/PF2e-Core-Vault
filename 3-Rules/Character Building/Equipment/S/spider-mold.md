@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spider-mold"
 aliases: "Spider Mold"
 source: "Pathfinder One-Shot #2: Dinner at Lionlodge"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This gray mold can be found growing on the remains of venomous arachnids - particularly, giant spiders. Its lack of color and faint taste make it particularly suited for mixing into meals meant to poison an unwary feaster.  * * *  **Activate** `pf2:3` Interact  **Saving Throw** DC 20 Fortitude check  **Onset** 10 minutes  **Maximum Duration** 8 hours  * * *  **Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)  **Stage 3** [[Conditions/Paralyzed|Paralyzed]] and Stupefied 1 (1 round)  **Stage 4** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1d4 hours)."
+description: "This gray mold can be found growing on the remains of venomous arachnids
+  - particularly, giant spiders. Its lack of color and faint taste make it particularly
+  suited for mixing into meals meant to poison an unwary feaster.  * * *  **Activate**
+  `pf2:3` Interact  **Saving Throw** DC 20 Fortitude check  **Onset** 10 minutes \
+  \ **Maximum Duration** 8 hours  * * *  **Stage 1** [[Conditions/Slowed|Slowed 1]]
+  (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and [[Conditions/Stupefied|Stupefied
+  1]] (1 round)  **Stage 3** [[Conditions/Paralyzed|Paralyzed]] and Stupefied 1 (1
+  round)  **Stage 4** [[Conditions/Unconscious|Unconscious]] with no Perception check
+  to wake up (1d4 hours)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

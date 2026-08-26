@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stiletto-pen"
 aliases: "Stiletto Pen"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "concealable"
 trait03: "finesse"
 trait04: "thrown-10"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This weapon is a fully functional, lavish ink pen with a clip that can be attached to a pocket or bandoleer and easily retrieved as a free action. Using an action to Interact with the pen allows its wielder to disengage a stiletto blade that slides free of the upper body or reattach the previously removed blade."
+description: "This weapon is a fully functional, lavish ink pen with a clip that can
+  be attached to a pocket or bandoleer and easily retrieved as a free action. Using
+  an action to Interact with the pen allows its wielder to disengage a stiletto blade
+  that slides free of the upper body or reattach the previously removed blade."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

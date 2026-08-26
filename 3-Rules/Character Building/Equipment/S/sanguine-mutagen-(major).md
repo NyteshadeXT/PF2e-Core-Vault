@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sanguine-mutagen-(major)"
 aliases: "Sanguine Mutagen (Major)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  For 1 hour you gain greatly increased blood production, filtering out contagions and boosting your endurance but causing your body to bloat with blood.  **Benefit** You gain a +4 item bonus to Fortitude and Reflex saves. When you roll a success on a save against a disease, poison, or effect that would give you the [[Conditions/Fatigued|Fatigued]] condition, you get a critical success instead and your critical failures on such saves become failures instead.  **Drawback** Whenever you take piercing or slashing damage, you take 1d6 bleed.  [[Equipment Effects/Effect_ Sanguine Mutagen (Major)|Effect: Sanguine Mutagen (Major)]]"
+description: "**Activate** `pf2:1` Interact  For 1 hour you gain greatly increased
+  blood production, filtering out contagions and boosting your endurance but causing
+  your body to bloat with blood.  **Benefit** You gain a +4 item bonus to Fortitude
+  and Reflex saves. When you roll a success on a save against a disease, poison, or
+  effect that would give you the [[Conditions/Fatigued|Fatigued]] condition, you get
+  a critical success instead and your critical failures on such saves become failures
+  instead.  **Drawback** Whenever you take piercing or slashing damage, you take 1d6
+  bleed.  [[Equipment Effects/Effect_ Sanguine Mutagen (Major)|Effect: Sanguine Mutagen
+  (Major)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

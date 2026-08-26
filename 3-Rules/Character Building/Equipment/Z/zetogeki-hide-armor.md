@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "zetogeki-hide-armor"
 aliases: "Zetogeki Hide Armor"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "earth"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+1 fire-resistant hide armor_ is adorned with the shale-like scales of the zetogeki, a giant reptile that dwells near sites of volcanic activity. Like the armor's namesake, you can adjust the scales to better absorb kinetic energy at the cost of some mobility.  * * *  **Activate—Shift Scales** `pf2:1`  **Frequency** once per day  **Effect** Until the end of your next turn, you gain resistance 5 to bludgeoning, piercing, and slashing damage, but your Speeds are reduced by 10 feet (minimum 5 feet).  [[Equipment Effects/Effect_ Shift Scales|Effect: Shift Scales]]"
+description: "This _+1 fire-resistant hide armor_ is adorned with the shale-like scales
+  of the zetogeki, a giant reptile that dwells near sites of volcanic activity. Like
+  the armor's namesake, you can adjust the scales to better absorb kinetic energy
+  at the cost of some mobility.  * * *  **Activate—Shift Scales** `pf2:1`  **Frequency**
+  once per day  **Effect** Until the end of your next turn, you gain resistance 5
+  to bludgeoning, piercing, and slashing damage, but your Speeds are reduced by 10
+  feet (minimum 5 feet).  [[Equipment Effects/Effect_ Shift Scales|Effect: Shift Scales]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

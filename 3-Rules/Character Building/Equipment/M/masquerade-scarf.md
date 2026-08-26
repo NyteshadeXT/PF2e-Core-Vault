@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "masquerade-scarf"
 aliases: "Masquerade Scarf"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "30"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This delicately embroidered scarf matches with every outfit and can even complete a costume or disguise with illusions.  * * *  **Activate—Masquerade** 1 minute (manipulate)  **Frequency** once per day  **Effect** You arrange the scarf over your lower face, and it casts a 1st-rank [[Spells/Illusory Disguise|Illusory Disguise]] spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it invisible as part of the _illusory disguise_, but it can still be felt if touched."
+description: "This delicately embroidered scarf matches with every outfit and can
+  even complete a costume or disguise with illusions.  * * *  **Activate—Masquerade**
+  1 minute (manipulate)  **Frequency** once per day  **Effect** You arrange the scarf
+  over your lower face, and it casts a 1st-rank [[Spells/Illusory Disguise|Illusory
+  Disguise]] spell on you, which ends immediately if the scarf is removed. You can
+  alter the scarf's appearance or make it invisible as part of the _illusory disguise_,
+  but it can still be felt if touched."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

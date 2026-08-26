@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thrasher-tail"
 aliases: "Thrasher Tail"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "clockwork"
 trait02: "kobold"
 trait03: "mechanical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Kobolds admire well-designed objects, especially if it gives them an opportunity to pack it with traps and surprises. This prosthetic tail hides numerous blades and spikes, tensioned and wound around a spring-loaded trigger at the base of the prosthesis. Resetting and reattaching a sprung thrasher tail takes 10 minutes.  **Activate** `pf2:r`  **Trigger** You're [[Conditions/Grabbed|Grabbed]]  * * *  **Effect** Your tail comes off in your opponent's hand, and the mechanism unwinds, causing the blades and spikes to protrude and the tail to spin and thrash. The tail deals 8d6 slashing to the opponent who has you grabbed with a DC 25 Reflex check. Regardless of the result of their save, you're no longer grabbed."
+description: "Kobolds admire well-designed objects, especially if it gives them an
+  opportunity to pack it with traps and surprises. This prosthetic tail hides numerous
+  blades and spikes, tensioned and wound around a spring-loaded trigger at the base
+  of the prosthesis. Resetting and reattaching a sprung thrasher tail takes 10 minutes.\
+  \  **Activate** `pf2:r`  **Trigger** You're [[Conditions/Grabbed|Grabbed]]  * *
+  *  **Effect** Your tail comes off in your opponent's hand, and the mechanism unwinds,
+  causing the blades and spikes to protrude and the tail to spin and thrash. The tail
+  deals 8d6 slashing to the opponent who has you grabbed with a DC 25 Reflex check.
+  Regardless of the result of their save, you're no longer grabbed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

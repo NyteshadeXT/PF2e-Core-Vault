@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silvertongue-mutagen-(moderate)"
 aliases: "Silvertongue Mutagen (Moderate)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Your features become striking, and your voice becomes musical and commanding, though emotion clouds your reason.  **Benefit** You gain a +2 item bonus to Deception, Diplomacy, Intimidation and Performance checks. Your critical failures with any of these skills become failures instead.  **Drawback** You take a -2 item penalty to Arcana, Crafting, Lore, Occultism, and Society checks. Choose one skill in which you are trained; for the duration, you become untrained in that skill. All your failures to [[Actions/Recall Knowledge|Recall Knowledge]] become critical failures.  **Duration** 10 minutes.  [[Equipment Effects/Effect_ Silvertongue Mutagen (Moderate)|Effect: Silvertongue Mutagen (Moderate)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Your features become striking,
+  and your voice becomes musical and commanding, though emotion clouds your reason.\
+  \  **Benefit** You gain a +2 item bonus to Deception, Diplomacy, Intimidation and
+  Performance checks. Your critical failures with any of these skills become failures
+  instead.  **Drawback** You take a -2 item penalty to Arcana, Crafting, Lore, Occultism,
+  and Society checks. Choose one skill in which you are trained; for the duration,
+  you become untrained in that skill. All your failures to [[Actions/Recall Knowledge|Recall
+  Knowledge]] become critical failures.  **Duration** 10 minutes.  [[Equipment Effects/Effect_
+  Silvertongue Mutagen (Moderate)|Effect: Silvertongue Mutagen (Moderate)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

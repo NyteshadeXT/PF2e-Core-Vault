@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sword-cane"
 aliases: "Sword Cane"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "agile"
 trait02: "concealable"
 trait03: "finesse"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This slender, rapier-like sword is concealed within a wooden or metal cane that serves as a sheath, making it an inconspicuous weapon easy to slip past inspections or into high-society events. A sword cane is typically 4 feet long when sheathed, and its hilt is usually capped with a wooden or metal decoration."
+description: "This slender, rapier-like sword is concealed within a wooden or metal
+  cane that serves as a sheath, making it an inconspicuous weapon easy to slip past
+  inspections or into high-society events. A sword cane is typically 4 feet long when
+  sheathed, and its hilt is usually capped with a wooden or metal decoration."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 piercing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

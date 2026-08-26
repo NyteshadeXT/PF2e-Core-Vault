@@ -2,40 +2,47 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "fiendish-teleportation"
 aliases: "Fiendish Teleportation"
 source: "Pathfinder Lost Omens Legends"
 pg: "10"
-rarity: ""
+rarity: "Rare"
 trait01: "contract"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You tap into the fiendish ability to slip through space. When you Stride, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become _[[Paralyzed|paralyzed]]_ for 1 hour or until Abrogail releases you, whichever comes first."
+description: "You tap into the fiendish ability to slip through space. When you Stride,
+  you gain a +3 item bonus to Armor Class against reactions triggered by your movement.
+  Once per day, from any distance, Abrogail Thrune II can call on a provision in your
+  Thrune contract as a single action, causing you to become _[[Paralyzed|paralyzed]]_
+  for 1 hour or until Abrogail releases you, whichever comes first."
 powerTitle1: "Effect"
 actionEconomy1: 2
 type1: "([[command]])"
 frequency1: "once per day"
 trigger1:
-mechanics1: "You recite a subclause of your contract regarding change in venue. You cast [[Translocate]]. The space you leave and the one you appear in are filled with the scent of brimstone, dealing `dice: 2d6` spirit damage to creatures adjacent to both spaces."
+mechanics1: "You recite a subclause of your contract regarding change in venue. You
+  cast [[Translocate]]. The space you leave and the one you appear in are filled with
+  the scent of brimstone, dealing `dice: 2d6` spirit damage to creatures adjacent
+  to both spaces."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +83,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

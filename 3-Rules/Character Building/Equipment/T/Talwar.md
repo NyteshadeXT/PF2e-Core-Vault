@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "talwar"
 aliases: "Talwar"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "forceful"
 trait02: "two-hand-d10"
 trait03: "versatile-p"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Longer, and with less curve than a scimitar, this blade is ubiquitous in guard and mercenary groups throughout Casmaron."
+description: "Longer, and with less curve than a scimitar, this blade is ubiquitous
+  in guard and mercenary groups throughout Casmaron."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

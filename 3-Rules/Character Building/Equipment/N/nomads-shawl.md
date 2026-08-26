@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nomads-shawl"
 aliases: "Nomad's Shawl"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "The intricate beading of this shawl subtly guides you. While you wear the shawl, you always know which direction is north and gain a +1 item bonus to Survival checks.  **Activate—Mind's Map** `pf2:1` (concentrate)  You focus your mind's eye on a location you've been to previously. The beads on the shawl shift colors to create a map of the area based on your memories. You can dismiss this effect as a free action."
+description: "The intricate beading of this shawl subtly guides you. While you wear
+  the shawl, you always know which direction is north and gain a +1 item bonus to
+  Survival checks.  **Activate—Mind's Map** `pf2:1` (concentrate)  You focus your
+  mind's eye on a location you've been to previously. The beads on the shawl shift
+  colors to create a map of the area based on your memories. You can dismiss this
+  effect as a free action."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-dumbfounding-doom-(5th-level)"
 aliases: "Wand of Dumbfounding Doom (5th-level)"
@@ -19,7 +19,7 @@ trait04: "magical"
 trait05: "mental"
 trait06: "prediction"
 trait07: "wand"
-trait08: "common"
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
 weight: L
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Carvings of skulls, monsters, and all manner of violence decorate this wand of blackened bone, but it makes absurd sounds when Activated, such as a honking horn, a manic giggle, or a daydreamy sigh.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 5th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.  * * *  **Craft Requirements** Supply a casting of [[Spells/Impending Doom|Impending Doom]] of the appropriate rank."
+description: "Carvings of skulls, monsters, and all manner of violence decorate this
+  wand of blackened bone, but it makes absurd sounds when Activated, such as a honking
+  horn, a manic giggle, or a daydreamy sigh.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You cast 5th-rank [[Spells/Impending
+  Doom|Impending Doom]], showing the target a potential death that's gruesome and
+  absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell,
+  it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the
+  frightened value. This lasts for the duration of the spell.  * * *  **Craft Requirements**
+  Supply a casting of [[Spells/Impending Doom|Impending Doom]] of the appropriate
+  rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

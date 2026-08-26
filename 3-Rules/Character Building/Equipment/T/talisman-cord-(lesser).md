@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "talisman-cord-(lesser)"
 aliases: "Talisman Cord (Lesser)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "85"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This thin leather cord bears delicate runic markings and threads through an item that can bear affixed talismans.  When you Affix a Talisman to that item, you can thread the talisman onto the cord, activating the cord's preserving effects. The cord is attuned to a particular school of magic, chosen when the cord was created. It gains the corresponding trait for that school. When you activate a talisman threaded through a cord with the same magic school trait that's also the cord's level or lower, attempt a DC 16 Flat check. On a success, that talisman is not consumed and can be used again."
+description: "This thin leather cord bears delicate runic markings and threads through
+  an item that can bear affixed talismans.  When you Affix a Talisman to that item,
+  you can thread the talisman onto the cord, activating the cord's preserving effects.
+  The cord is attuned to a particular school of magic, chosen when the cord was created.
+  It gains the corresponding trait for that school. When you activate a talisman threaded
+  through a cord with the same magic school trait that's also the cord's level or
+  lower, attempt a DC 16 Flat check. On a success, that talisman is not consumed and
+  can be used again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "subtle-armor"
 aliases: "Subtle Armor"
 source: "Pathfinder Lost Omens Firebrands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "adjustment"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "5"
 subvalue: "gp"
 invest:
 usage: "applied to armor"
 license: "ORC"
 identify:
-description: "Using fabrics and fashion accessories, you disguise your armor to look like everyday clothing. After applying this adjustment, you can attempt a Stealth check to [[Actions/Conceal an Object|Conceal an Object]] to hide the nature of your armor. You gain a +1 item bonus to this check. The added weight and care make it more difficult to move around in the armor, increasing the armor's check penalty by 1, its Strength entry value by 2, and its Bulk by 1."
+description: "Using fabrics and fashion accessories, you disguise your armor to look
+  like everyday clothing. After applying this adjustment, you can attempt a Stealth
+  check to [[Actions/Conceal an Object|Conceal an Object]] to hide the nature of your
+  armor. You gain a +1 item bonus to this check. The added weight and care make it
+  more difficult to move around in the armor, increasing the armor's check penalty
+  by 1, its Strength entry value by 2, and its Bulk by 1."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

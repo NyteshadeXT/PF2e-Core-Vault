@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sluggish-bracelet"
 aliases: "Sluggish Bracelet"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "A silver charm bracelet, a sluggish bracelet appears to be a bracelet of dashing, granting you a +1 item bonus to Acrobatics checks. If the curse goes unrecognized, you think you can Activate it to gain a +10-foot status bonus to your Speed for 1 minute. Instead, its activation is as follows.  **Activate** `pf2:1` command  * * *  **Effect** You take a –10-foot penalty to your Speed for 1 minute, and the bracelet fuses to you. Thereafter, it grants you no bonus to Acrobatics checks, and it imposes a –5-foot status penalty to your Speed."
+description: "A silver charm bracelet, a sluggish bracelet appears to be a bracelet
+  of dashing, granting you a +1 item bonus to Acrobatics checks. If the curse goes
+  unrecognized, you think you can Activate it to gain a +10-foot status bonus to your
+  Speed for 1 minute. Instead, its activation is as follows.  **Activate** `pf2:1`
+  command  * * *  **Effect** You take a –10-foot penalty to your Speed for 1 minute,
+  and the bracelet fuses to you. Thereafter, it grants you no bonus to Acrobatics
+  checks, and it imposes a –5-foot status penalty to your Speed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

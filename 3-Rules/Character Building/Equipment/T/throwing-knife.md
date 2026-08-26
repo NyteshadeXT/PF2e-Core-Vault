@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "throwing-knife"
 aliases: "Throwing Knife"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "agile"
 trait02: "finesse"
 trait03: "thrown-20"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This light knife is optimally balanced to be thrown accurately at a greater distance than a common dagger. While this comes at the cost of a significant cutting edge, the difference is worth it for throwing specialists."
+description: "This light knife is optimally balanced to be thrown accurately at a
+  greater distance than a common dagger. While this comes at the cost of a significant
+  cutting edge, the difference is worth it for throwing specialists."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

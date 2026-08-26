@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "war-lance"
 aliases: "War Lance"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "deadly-d8"
 trait02: "jousting-d6"
 trait03: "parry"
 trait04: "shove"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This lance appears shorter and stockier in comparison to other weapons of its type. The war lance most notably features shielding integrated into its vamplate, exchanging its reach for a sturdier base when defending against attacks or attempting to overpower an opponent."
+description: "This lance appears shorter and stockier in comparison to other weapons
+  of its type. The war lance most notably features shielding integrated into its vamplate,
+  exchanging its reach for a sturdier base when defending against attacks or attempting
+  to overpower an opponent."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d8 piercing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

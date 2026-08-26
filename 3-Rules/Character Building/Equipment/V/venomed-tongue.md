@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "venomed-tongue"
 aliases: "Venomed Tongue"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "333"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Secrets must be unraveled, no matter how painful. This tattoo of braided tongues provides a +1 item bonus to Deception checks.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** Abraxas fills your tongue with venom, causing your deceptions to poison your foes. You use Deception to [[Actions/Create a Diversion|Create a Diversion]], [[Actions/Feint|Feint]], or [[Actions/Lie|Lie]]. Choose one target against whom your Deception check succeeded; that target takes 2d6 persistent poison damage."
+description: "Secrets must be unraveled, no matter how painful. This tattoo of braided
+  tongues provides a +1 item bonus to Deception checks.  **Activate** `pf2:1` envision\
+  \  **Frequency** once per day  * * *  **Effect** Abraxas fills your tongue with
+  venom, causing your deceptions to poison your foes. You use Deception to [[Actions/Create
+  a Diversion|Create a Diversion]], [[Actions/Feint|Feint]], or [[Actions/Lie|Lie]].
+  Choose one target against whom your Deception check succeeded; that target takes
+  2d6 persistent poison damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

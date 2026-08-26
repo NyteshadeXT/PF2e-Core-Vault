@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spellguard-blade"
 aliases: "Spellguard Blade"
@@ -18,7 +18,7 @@ trait03: "finesse"
 trait04: "magical"
 trait05: "parry"
 trait06: "versatile-s"
-trait07: "common"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The guard of this _+1 striking main-gauche_ is inscribed with eldritch glyphs that guard against magic.  When you are benefiting from the +1 circumstance bonus to AC from this weapon's parry trait, you also apply that circumstance bonus to your saving throws against spells that target you.  [[Equipment Effects/Effect_ Spellguard Blade|Effect: Spellguard Blade]]"
+description: "The guard of this _+1 striking main-gauche_ is inscribed with eldritch
+  glyphs that guard against magic.  When you are benefiting from the +1 circumstance
+  bonus to AC from this weapon's parry trait, you also apply that circumstance bonus
+  to your saving throws against spells that target you.  [[Equipment Effects/Effect_
+  Spellguard Blade|Effect: Spellguard Blade]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +51,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 piercing
 dmg1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

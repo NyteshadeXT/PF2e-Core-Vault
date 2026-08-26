@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "climbing-bolt"
 aliases: "Climbing Bolt"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "15"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The shaft of this bolt is wrapped with fine twine. When the bolt strikes a solid surface, the twine unwinds and enlarges into a 50-foot-long rope, securely fastened to the surface the bolt struck. The rope can be pulled free with an Interact action and a successful DC 20 Athletics check check."
+description: "The shaft of this bolt is wrapped with fine twine. When the bolt strikes
+  a solid surface, the twine unwinds and enlarges into a 50-foot-long rope, securely
+  fastened to the surface the bolt struck. The rope can be pulled free with an Interact
+  action and a successful DC 20 Athletics check check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

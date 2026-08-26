@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-splintered-sorrows-(rank-6)"
 aliases: "Wand Of Splintered Sorrows (Rank 6)"
 source: "Pathfinder #202: Severed at the Root"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "attack"
 trait02: "concentrate"
 trait03: "magical"
 trait04: "manipulate"
 trait05: "wand"
 trait06: "wood"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This wooden wand is roughly cut, as if it had been crudely chopped from a tree and left forgotten. When held, the wand imparts feelings of deep sorrow.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[Conditions/Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[Conditions/Slowed|Slowed 1]] for the same duration.  * * *  **Craft Requirements** Supply a casting of _splinter volley_ of the appropriate rank."
+description: "This wooden wand is roughly cut, as if it had been crudely chopped from
+  a tree and left forgotten. When held, the wand imparts feelings of deep sorrow.\
+  \  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *\
+  \  **Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated
+  rank. Each splinter contains some of the despair felt by cruelly harvested trees,
+  causing any creature damaged by this spell to become [[Conditions/Stupefied|Stupefied
+  2]] for a number of rounds equal to the spell rank. On a critical success on the
+  attack roll, the target also weeps, becoming [[Conditions/Slowed|Slowed 1]] for
+  the same duration.  * * *  **Craft Requirements** Supply a casting of _splinter
+  volley_ of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

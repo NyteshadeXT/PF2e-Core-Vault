@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sloughing-toxin"
 aliases: "Sloughing Toxin"
 source: "Pathfinder #164: Hands of the Devil"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  This complex toxin makes the muscles beneath a creature's skin loose and malleable, which fleshwarpers find useful in their work. Rough or jerky movements the victim performs concentrate the toxin in subdermal muscles and eventually cause skin and muscle to slough away.  * * *  **Saving Throw** DC 25 Fortitude check  **Onset** 1 round  **Maximum Duration** 1 hour  **Stage 1** 1d6 poison damage for each action with the attack or move trait the victim uses (1 round)  **Stage 2** 1d6 poison damage and 1d6 slashing damage for each action with the attack, manipulate, or move trait the victim uses (1 round)  **Stage 3** as Stage 2, but 1d6 poison damage and 2d6 slashing damage, and forced movement also causes damage (1 hour)"
+description: "**Activate** `pf2:2` Interact  This complex toxin makes the muscles
+  beneath a creature's skin loose and malleable, which fleshwarpers find useful in
+  their work. Rough or jerky movements the victim performs concentrate the toxin in
+  subdermal muscles and eventually cause skin and muscle to slough away.  * * *  **Saving
+  Throw** DC 25 Fortitude check  **Onset** 1 round  **Maximum Duration** 1 hour  **Stage
+  1** 1d6 poison damage for each action with the attack or move trait the victim uses
+  (1 round)  **Stage 2** 1d6 poison damage and 1d6 slashing damage for each action
+  with the attack, manipulate, or move trait the victim uses (1 round)  **Stage 3**
+  as Stage 2, but 1d6 poison damage and 2d6 slashing damage, and forced movement also
+  causes damage (1 hour)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

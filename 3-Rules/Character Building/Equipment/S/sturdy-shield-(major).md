@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sturdy-shield-(major)"
 aliases: "Sturdy Shield (Major)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "With a superior design and excellent craftsmanship, this steel shield has higher Hardness than its non-magical counterparts, making it harder to break and destroy.  The shield has Hardness 17, HP 136, and BT 68."
+description: "With a superior design and excellent craftsmanship, this steel shield
+  has higher Hardness than its non-magical counterparts, making it harder to break
+  and destroy.  The shield has Hardness 17, HP 136, and BT 68."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

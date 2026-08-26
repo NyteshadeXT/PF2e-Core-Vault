@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ooze-skin"
 aliases: "Ooze Skin"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "alchemical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,16 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This leather armor has been treated with extract from oozes, which can be reactivated in the presence of a strong acid. A receptacle in the armor can hold an acid flask, which takes 3 Interact actions to install. A loaded suit of ooze skin can be activated to cause the leather to weep slippery protoplasm, granting an item bonus to [[Actions/Escape|Escape]] and [[Actions/Squeeze|Squeeze]] checks equal to the acid flask's item bonus. The protoplasm also irritates the skin on prolonged contact, causing any creature that grapples or swallows you to take acid damage equal to the acid flask's splash damage. Ooze skin remains activated for a number of rounds equal to the level of the acid flask installed. The effects consume the acid flask, and once the reaction has begun it can't be deactivated."
+description: "**Activate** `pf2:1` Interact  This leather armor has been treated with
+  extract from oozes, which can be reactivated in the presence of a strong acid. A
+  receptacle in the armor can hold an acid flask, which takes 3 Interact actions to
+  install. A loaded suit of ooze skin can be activated to cause the leather to weep
+  slippery protoplasm, granting an item bonus to [[Actions/Escape|Escape]] and [[Actions/Squeeze|Squeeze]]
+  checks equal to the acid flask's item bonus. The protoplasm also irritates the skin
+  on prolonged contact, causing any creature that grapples or swallows you to take
+  acid damage equal to the acid flask's splash damage. Ooze skin remains activated
+  for a number of rounds equal to the level of the acid flask installed. The effects
+  consume the acid flask, and once the reaction has begun it can't be deactivated."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "magic-wand-(6th-rank-spell)"
 aliases: "Magic Wand (6th-Rank Spell)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This baton is about a foot long and contains a single spell. The appearance typically relates to the spell within.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You Cast the Spell at the indicated rank.  **Craft Requirements** Supply a casting of the spell at the listed rank.  * * *  _Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor._"
+description: "This baton is about a foot long and contains a single spell. The appearance
+  typically relates to the spell within.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You Cast the Spell at the indicated
+  rank.  **Craft Requirements** Supply a casting of the spell at the listed rank.\
+  \  * * *  _Note: To create a scroll or wand of a specific spell, drag the spell
+  from the compendium or compendium browser into the inventory of a PC, NPC, or loot
+  actor._"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

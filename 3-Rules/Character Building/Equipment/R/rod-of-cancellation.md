@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rod-of-cancellation"
 aliases: "Rod of Cancellation"
 source: "Pathfinder Advanced Player's Guide"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This powerful magic rod is inimical to all magic.  * * *  **Activate** `pf2:2` Interact  * * *  **Effect** You touch the rod to a magical effect or magic item and attempt to counteract the effect or item. Regardless of the result, the rod of cancellation can't be activated again for 2d6 hours.  On a success, the effect or item is deactivated for the same amount of time, and its duration, if any, continues to expire during that time. If you choose, you can instead completely drain the rod of cancellation's magic on a success in order to completely drain the magic from the effect or item. If you do, both become completely non-magical and their magic can't be recovered, even by the [[Spells/Remake|Remake]] spell.  The rod of cancellation automatically fails to counteract most artifacts and similarly powerful items, but it reacts explosively when activated against a [[Equipment/Sphere of Annihilation|Sphere of Annihilation]] without a counteract check."
+description: "This powerful magic rod is inimical to all magic.  * * *  **Activate**
+  `pf2:2` Interact  * * *  **Effect** You touch the rod to a magical effect or magic
+  item and attempt to counteract the effect or item. Regardless of the result, the
+  rod of cancellation can't be activated again for 2d6 hours.  On a success, the effect
+  or item is deactivated for the same amount of time, and its duration, if any, continues
+  to expire during that time. If you choose, you can instead completely drain the
+  rod of cancellation's magic on a success in order to completely drain the magic
+  from the effect or item. If you do, both become completely non-magical and their
+  magic can't be recovered, even by the [[Spells/Remake|Remake]] spell.  The rod of
+  cancellation automatically fails to counteract most artifacts and similarly powerful
+  items, but it reacts explosively when activated against a [[Equipment/Sphere of
+  Annihilation|Sphere of Annihilation]] without a counteract check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

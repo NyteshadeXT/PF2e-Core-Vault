@@ -2,34 +2,43 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "the-hidden-truth"
 aliases: "The Hidden Truth"
 source: "Pathfinder #191: The Destiny War"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "harrow-court"
 trait03: "invested"
 trait04: "magical"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "**Suit** Books (Int)  **Alignment** lawful good  * * *  _The Hidden Truth_ represents the act of observing something beyond the obvious to gain obscure lore. As long as this card is invested, you gain a +2 item bonus to Lore checks made to Recall Knowledge, and to all checks made to Research while using the Research subsystem from the Gamemastery Guide. This increases to a +3 bonus if you are at least 17th level.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Truesight|Truesight]]. The rank of the spell is one-half your level, rounded down (minimum 6th level). If you're at least 17th-level, you can affect up to three adjacent willing targets with this spell at the same time as you cast it."
+description: "**Suit** Books (Int)  **Alignment** lawful good  * * *  _The Hidden
+  Truth_ represents the act of observing something beyond the obvious to gain obscure
+  lore. As long as this card is invested, you gain a +2 item bonus to Lore checks
+  made to Recall Knowledge, and to all checks made to Research while using the Research
+  subsystem from the Gamemastery Guide. This increases to a +3 bonus if you are at
+  least 17th level.  **Activate** `pf2:2` envision, Interact  **Frequency** once per
+  day  * * *  **Effect** You cast [[Spells/Truesight|Truesight]]. The rank of the
+  spell is one-half your level, rounded down (minimum 6th level). If you're at least
+  17th-level, you can affect up to three adjacent willing targets with this spell
+  at the same time as you cast it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

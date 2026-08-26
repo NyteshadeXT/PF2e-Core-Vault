@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-the-desert-winds-(greater)"
 aliases: "Staff of the Desert Winds (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This crooked staff is made from twisting acacia wood and has a sphere of rough sandstone embedded in the top, to channel the magic of the desert. When wielding this staff in deserts, you gain a +1 circumstance bonus to Survival checks to Subsist, Track, and Cover Tracks.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from the staff's list.  * * *  *   **Cantrip** [[Spells/Know the Way|Know the Way]] *   **1st** [[Spells/Create Water|Create Water]], [[Spells/Vanishing Tracks|Vanishing Tracks]] *   **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Enhance Victuals|Enhance Victuals]] *   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Wall of Wind|Wall of Wind]] *   **4th** [[Spells/Air Walk|Air Walk]] *   **5th** [[Spells/Elemental Form|Elemental Form]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells"
+description: "This crooked staff is made from twisting acacia wood and has a sphere
+  of rough sandstone embedded in the top, to channel the magic of the desert. When
+  wielding this staff in deserts, you gain a +1 circumstance bonus to Survival checks
+  to Subsist, Track, and Cover Tracks.  **Activate** Cast a Spell  * * *  **Effect**
+  You expend a number of charges from the staff to cast a spell from the staff's list.\
+  \  * * *  *   **Cantrip** [[Spells/Know the Way|Know the Way]] *   **1st** [[Spells/Create
+  Water|Create Water]], [[Spells/Vanishing Tracks|Vanishing Tracks]] *   **2nd** [[Spells/Environmental
+  Endurance|Environmental Endurance]], [[Spells/Enhance Victuals|Enhance Victuals]]
+  *   **3rd** [[Spells/Cleanse Affliction|Cleanse Affliction]], [[Spells/Wall of Wind|Wall
+  of Wind]] *   **4th** [[Spells/Air Walk|Air Walk]] *   **5th** [[Spells/Elemental
+  Form|Elemental Form]]  * * *  **Craft Requirements** Supply one casting of all listed
+  levels of all listed spells"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +58,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

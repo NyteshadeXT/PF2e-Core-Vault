@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nyctessas-staff"
 aliases: "Nyctessa's Staff"
 source: "Pathfinder Wake the Dead #5"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "magical"
 trait02: "monk"
 trait03: "staff"
 trait04: "two-hand-d8"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This macabre staff is crafted from gleaming white bone, a spinal column spiraling out of its base with a skull swinging from the spine's tip. It was handcrafted for Nyctessa by her father, a powerful Blood Lord, from her mortal mother's bones.  When you damage a creature with Nyctessa's staff, that creature gains weakness 2 to void damage until the end of your next turn.  [[Bestiary Effects/Effect_ Sepulchral Drain|Effect: Sepulchral Drain]]  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Void Warp|Void Warp]] *   **1st** [[Spells/Summon Undead|Summon Undead]], [[Spells/Fear|Fear]]"
+description: "This macabre staff is crafted from gleaming white bone, a spinal column
+  spiraling out of its base with a skull swinging from the spine's tip. It was handcrafted
+  for Nyctessa by her father, a powerful Blood Lord, from her mortal mother's bones.\
+  \  When you damage a creature with Nyctessa's staff, that creature gains weakness
+  2 to void damage until the end of your next turn.  [[Bestiary Effects/Effect_ Sepulchral
+  Drain|Effect: Sepulchral Drain]]  **Activate** Cast a Spell  * * *  **Effect** You
+  expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip**
+  [[Spells/Void Warp|Void Warp]] *   **1st** [[Spells/Summon Undead|Summon Undead]],
+  [[Spells/Fear|Fear]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +55,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

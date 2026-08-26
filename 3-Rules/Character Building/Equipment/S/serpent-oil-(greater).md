@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "serpent-oil-(greater)"
 aliases: "Serpent Oil (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This glistening oil has a green hue and tiny snake scales floating within. If you slather serpent oil on a Medium object that is snakelike in shape, from a stick to a scarf, the object transforms into a [[Monster Core/Giant Viper|Giant Viper]], keeping some of the same colors and patterns of the original item. If placed on other objects, the oil fails and is wasted. This false snake has the minion trait. It remains in snake form for 1 minute before returning to its object state. If slain, the item returns to its original form, unharmed."
+description: "**Activate** `pf2:1` Interact  This glistening oil has a green hue and
+  tiny snake scales floating within. If you slather serpent oil on a Medium object
+  that is snakelike in shape, from a stick to a scarf, the object transforms into
+  a [[Monster Core/Giant Viper|Giant Viper]], keeping some of the same colors and
+  patterns of the original item. If placed on other objects, the oil fails and is
+  wasted. This false snake has the minion trait. It remains in snake form for 1 minute
+  before returning to its object state. If slain, the item returns to its original
+  form, unharmed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

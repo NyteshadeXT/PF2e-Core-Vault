@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "hydra-mutagen"
 aliases: "Hydra Mutagen"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "mutagen"
 trait04: "polymorph"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -30,7 +30,13 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 activate: "`pf2:1` ([[manipulate]])"
-description: "You sprout a second head, increasing your awareness, intuition, and cognitive ability but also causing your physical capabilities to be impaired as both minds struggle to control a single body.\n\n**Benefit** For 10 minutes, you gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based skill checks. Once during the mutagen's effect, if you fail or critically fail a Will saving throw against a mental effect, you can treat the result as one degree of success better.\n\n**Drawback** You are [[Clumsy|Clumsy 1]] for 10 minutes."
+description: "You sprout a second head, increasing your awareness, intuition, and
+  cognitive ability but also causing your physical capabilities to be impaired as
+  both minds struggle to control a single body.\n\n**Benefit** For 10 minutes, you
+  gain all-around vision and a +3 item bonus to all Intelligence- and Wisdom-based
+  skill checks. Once during the mutagen's effect, if you fail or critically fail a
+  Will saving throw against a mental effect, you can treat the result as one degree
+  of success better.\n\n**Drawback** You are [[Clumsy|Clumsy 1]] for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -48,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -77,9 +83,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

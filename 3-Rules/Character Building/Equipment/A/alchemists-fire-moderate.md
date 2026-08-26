@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "alchemists-fire-moderate"
 aliases: "Alchemist's Fire (Moderate)"
@@ -17,7 +17,7 @@ trait02: "bomb"
 trait03: "consumable"
 trait04: "fire"
 trait05: "splash"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,13 +29,15 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Alchemist's fire is a combination of volatile liquids that ignite when exposed to air. "
+description: "Alchemist's fire is a combination of volatile liquids that ignite when
+  exposed to air. "
 powerTitle1: "Effect"
 actionEconomy1: 1
 type1: "([[Strike]])"
 frequency1:
 trigger1:
-mechanics1: "Alchemist's fire deals 'dice: 2d8' 2d8 fire damage, 2 persistent fire damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls."
+mechanics1: "Alchemist's fire deals 'dice: 2d8' 2d8 fire damage, 2 persistent fire
+  damage, and 2 fire splash damage. You gain a +1 item bonus to attack rolls."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -76,9 +78,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

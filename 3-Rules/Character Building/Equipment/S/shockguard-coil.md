@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shockguard-coil"
 aliases: "Shockguard Coil"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "175"
 subvalue: "gp"
 invest:
 usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a shield  **Activate** `pf2:0` (concentrate)  **Trigger** You Shield Block a foe's melee attack with the affixed shield.  * * *  This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and battle magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 Reflex check save). On a failed save, the foe is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn."
+description: "**Usage** affixed to a shield  **Activate** `pf2:0` (concentrate)  **Trigger**
+  You Shield Block a foe's melee attack with the affixed shield.  * * *  This miniature
+  Stasian coil talisman emits small sparks when jostled. It uses a combination of
+  Stasian technology and battle magic to erupt in electricity when discharged. When
+  you activate the coil, the foe takes 2d12 electricity damage (DC 27 Reflex check
+  save). On a failed save, the foe is [[Conditions/Off-Guard|Off-Guard]] until the
+  start of its next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

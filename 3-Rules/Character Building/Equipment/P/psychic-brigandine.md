@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "psychic-brigandine"
 aliases: "Psychic Brigandine"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Transparent crystals as hard as steel take the place of metal plates on this suit of +2 greater invisibility splint mail. Also known as a coat of a thousand thoughts in Vudra and Jalmeray, where it was first developed by psychic warriors, it makes your mind an indomitable fortress. You gain resistance 5 to mental damage.  Whenever you use the armor to become invisible, you also become psychically invisible. Each time you would be affected by an effect with the mental trait while you are invisible, attempt a DC 17 Flat check check. On a success, it doesn't affect you."
+description: "Transparent crystals as hard as steel take the place of metal plates
+  on this suit of +2 greater invisibility splint mail. Also known as a coat of a thousand
+  thoughts in Vudra and Jalmeray, where it was first developed by psychic warriors,
+  it makes your mind an indomitable fortress. You gain resistance 5 to mental damage.\
+  \  Whenever you use the armor to become invisible, you also become psychically invisible.
+  Each time you would be affected by an effect with the mental trait while you are
+  invisible, attempt a DC 17 Flat check check. On a success, it doesn't affect you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

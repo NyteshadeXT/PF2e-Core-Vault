@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tamchal-chakram"
 aliases: "Tamchal Chakram"
 source: "Pathfinder #164: Hands of the Devil"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "deadly-d6"
 trait03: "finesse"
 trait04: "thrown-20"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "These circular weapons are among the many strange weapons used by urdefhans. The sharp metal circle contains numerous protruding blades, while an angled central handle provides a decent grip that spins the weapon as it's thrown."
+description: "These circular weapons are among the many strange weapons used by urdefhans.
+  The sharp metal circle contains numerous protruding blades, while an angled central
+  handle provides a decent grip that spins the weapon as it's thrown."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "the-beating"
 aliases: "The Beating"
 source: "Pathfinder #191: The Destiny War"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "harrow-court"
 trait03: "invested"
 trait04: "magical"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "**Suit** Hammers (Str)  **Alignment** neutral evil  * * *  _The Beating_ symbolizes attack from all sides. If you have _The Beating_ invested, whenever you and an ally are flanking a foe, your melee Strikes gain a +2 item bonus to damage. This increases to a +3 item bonus at 17th level.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You wave the card to conjure up dozens of violent ghostly figures; you cast [[Spells/Pernicious Poltergeist|Pernicious Poltergeist]], and the area of the spell is treated as difficult terrain in addition to its normal effects. The rank of the spell is one-half your level, rounded down (minimum 6th level), and the save DC is your class DC or spell DC.  Will check  Reflex check  Fortitude check"
+description: "**Suit** Hammers (Str)  **Alignment** neutral evil  * * *  _The Beating_
+  symbolizes attack from all sides. If you have _The Beating_ invested, whenever you
+  and an ally are flanking a foe, your melee Strikes gain a +2 item bonus to damage.
+  This increases to a +3 item bonus at 17th level.  **Activate** `pf2:2` envision,
+  Interact  **Frequency** once per day  * * *  **Effect** You wave the card to conjure
+  up dozens of violent ghostly figures; you cast [[Spells/Pernicious Poltergeist|Pernicious
+  Poltergeist]], and the area of the spell is treated as difficult terrain in addition
+  to its normal effects. The rank of the spell is one-half your level, rounded down
+  (minimum 6th level), and the save DC is your class DC or spell DC.  Will check \
+  \ Reflex check  Fortitude check"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

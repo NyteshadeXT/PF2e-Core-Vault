@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shapespeak-mask"
 aliases: "Shapespeak Mask"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "80"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "A _shapespeak mask_ is carved into the shape of an animal, usually tailored to a species of beast that the user favors. While wearing this mask, you can speak even when polymorphed into an animal. The shapespeak mask removes no other limitations, such as the inability to cast spells when transformed."
+description: "A _shapespeak mask_ is carved into the shape of an animal, usually tailored
+  to a species of beast that the user favors. While wearing this mask, you can speak
+  even when polymorphed into an animal. The shapespeak mask removes no other limitations,
+  such as the inability to cast spells when transformed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thieves-tools-(concealable)"
 aliases: "Thieves' Tools (Concealable)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "You need thieves' tools to [[Actions/Pick a Lock|Pick Locks]] or [[Actions/Disable a Device|Disable Devices]] (of some types) using the Thievery skill. Infiltrator thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.  Smaller and made of stronger materials than most sets of thieves' tools, the items in this kit are much easier to conceal. You gain a +1 item bonus to Stealth checks to [[Actions/Conceal an Object|Conceal]] these tools.  If your thieves' tools are broken, you can repair them by replacing the lock picks with [[Equipment/Thieves' Tools (Concealable Picks)|Replacement Picks]] appropriate to your tools; this doesn't require using the Repair action."
+description: "You need thieves' tools to [[Actions/Pick a Lock|Pick Locks]] or [[Actions/Disable
+  a Device|Disable Devices]] (of some types) using the Thievery skill. Infiltrator
+  thieves' tools add a +1 item bonus to checks to Pick Locks and Disable Devices.\
+  \  Smaller and made of stronger materials than most sets of thieves' tools, the
+  items in this kit are much easier to conceal. You gain a +1 item bonus to Stealth
+  checks to [[Actions/Conceal an Object|Conceal]] these tools.  If your thieves' tools
+  are broken, you can repair them by replacing the lock picks with [[Equipment/Thieves'
+  Tools (Concealable Picks)|Replacement Picks]] appropriate to your tools; this doesn't
+  require using the Repair action."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

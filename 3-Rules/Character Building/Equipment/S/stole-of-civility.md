@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stole-of-civility"
 aliases: "Stole of Civility"
 source: "Pathfinder #152: Legacy of the Lost God"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders.  While wearing a stole of civility, you receive a +2 item bonus to Diplomacy checks to [[Actions/Make an Impression|Make an Impression]] with humans or [[Actions/Request|Make a Request]] of humans, and a +2 item bonus to Intimidation checks against humans.  The stole also grants you full understanding of the Azlanti language.  * * *  **Activate** `pf2:1` envision  **Frequency** once per day  **Requirements** you are a human  * * *  **Effect** You gain 10 temporary Hit Points, which last for 10 minutes.  [[Equipment Effects/Effect_ Stole of Civility|Effect: Stole of Civility]]"
+description: "Woven from swaths of rich brocade silk and embroidered with ancient
+  Azlanti script in golden thread, this stole imparts a noble appearance to even the
+  homeliest of individuals when draped over the shoulders.  While wearing a stole
+  of civility, you receive a +2 item bonus to Diplomacy checks to [[Actions/Make an
+  Impression|Make an Impression]] with humans or [[Actions/Request|Make a Request]]
+  of humans, and a +2 item bonus to Intimidation checks against humans.  The stole
+  also grants you full understanding of the Azlanti language.  * * *  **Activate**
+  `pf2:1` envision  **Frequency** once per day  **Requirements** you are a human \
+  \ * * *  **Effect** You gain 10 temporary Hit Points, which last for 10 minutes.\
+  \  [[Equipment Effects/Effect_ Stole of Civility|Effect: Stole of Civility]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

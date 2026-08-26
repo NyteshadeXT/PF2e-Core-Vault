@@ -2,16 +2,16 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vexing-vapor-(moderate)"
 aliases: "Vexing Vapor (Moderate)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
@@ -19,7 +19,7 @@ trait04: "inhaled"
 trait05: "mental"
 trait06: "poison"
 trait07: "splash"
-trait08: "uncommon"
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
 weight: L
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This flask contains a fine red powder made from toxic berries. You gain a +1 item bonus to attack rolls. A moderate vexing vapor bomb deals 2d6 mental damage and 2 mental splash damage. On a hit, the target must succeed at a DC 5 Flat check check before taking actions with the concentrate trait. This lasts until the end of its next turn (1 minute on a critical hit)."
+description: "**Activate** `pf2:1` Strike  * * *  This flask contains a fine red powder
+  made from toxic berries. You gain a +1 item bonus to attack rolls. A moderate vexing
+  vapor bomb deals 2d6 mental damage and 2 mental splash damage. On a hit, the target
+  must succeed at a DC 5 Flat check check before taking actions with the concentrate
+  trait. This lasts until the end of its next turn (1 minute on a critical hit)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

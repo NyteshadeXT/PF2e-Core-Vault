@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "olfactory-stimulators"
 aliases: "Olfactory Stimulators"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "5"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This cluster of sensitive wire whiskers fits over the nose or snout to provide sensory information as it reacts to nearby odors and other scents. A creature wearing olfactory stimulators gains a sense of smell, which is as precise as an average member of its species, as well as the scent special ability if members of its species typically have that ability. Olfactory stimulators can be fitted to animal companions as well as sapient creatures; stimulators produced for companion use have the companion trait."
+description: "This cluster of sensitive wire whiskers fits over the nose or snout
+  to provide sensory information as it reacts to nearby odors and other scents. A
+  creature wearing olfactory stimulators gains a sense of smell, which is as precise
+  as an average member of its species, as well as the scent special ability if members
+  of its species typically have that ability. Olfactory stimulators can be fitted
+  to animal companions as well as sapient creatures; stimulators produced for companion
+  use have the companion trait."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

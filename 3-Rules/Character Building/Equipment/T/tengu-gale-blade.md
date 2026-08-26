@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tengu-gale-blade"
 aliases: "Tengu Gale Blade"
 source: "Pathfinder Player Core 2"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "disarm"
 trait03: "finesse"
 trait04: "tengu"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This fan-shaped sword designed by tengu smiths has five broad blades that join at its hilt. Tengu sailors use them as makeshift weather vanes, for the sword spins in the wind's direction when loosely held aloft."
+description: "This fan-shaped sword designed by tengu smiths has five broad blades
+  that join at its hilt. Tengu sailors use them as makeshift weather vanes, for the
+  sword spins in the wind's direction when loosely held aloft."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

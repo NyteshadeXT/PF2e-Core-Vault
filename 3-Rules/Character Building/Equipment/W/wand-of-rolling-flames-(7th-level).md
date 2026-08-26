@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-rolling-flames-(7th-level)"
 aliases: "Wand of Rolling Flames (7th-level)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "fire"
 trait02: "magical"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The luminous design of red-orange cracks on this black obsidian wand suggests cooling lava.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 7th-rank [[Spells/Floating Flame|Floating Flame]]. The ground in the sphere's square and all adjacent squares are coated in rolling flames until the start of your next turn. These are difficult terrain and hazardous terrain. A creature that moves on the ground takes 6 fire damage for every square of rolling flames it moves into. If a creature in the flames doesn't move on its turn, it takes the damage for each of the squares it's in at the end of its turn. The first time you Sustain the Spell each round, the sphere creates rolling flames again in its new location (or the same location if you chose not to move it).  * * *  **Craft Requirements** Supply a casting of [[Spells/Floating Flame|Floating Flame]] of the appropriate rank."
+description: "The luminous design of red-orange cracks on this black obsidian wand
+  suggests cooling lava.  **Activate** Cast a Spell  **Frequency** once per day, plus
+  overcharge  * * *  **Effect** You cast 7th-rank [[Spells/Floating Flame|Floating
+  Flame]]. The ground in the sphere's square and all adjacent squares are coated in
+  rolling flames until the start of your next turn. These are difficult terrain and
+  hazardous terrain. A creature that moves on the ground takes 6 fire damage for every
+  square of rolling flames it moves into. If a creature in the flames doesn't move
+  on its turn, it takes the damage for each of the squares it's in at the end of its
+  turn. The first time you Sustain the Spell each round, the sphere creates rolling
+  flames again in its new location (or the same location if you chose not to move
+  it).  * * *  **Craft Requirements** Supply a casting of [[Spells/Floating Flame|Floating
+  Flame]] of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

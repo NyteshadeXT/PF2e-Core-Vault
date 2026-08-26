@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "moonlit-chain"
 aliases: "Moonlit Chain"
@@ -16,7 +16,7 @@ trait01: "flexible"
 trait02: "invested"
 trait03: "magical"
 trait04: "noisy"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,12 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+1 silver chain_ shirt has a collar adorned with stitched images of the phases of the moon. You can see in moonlight as though you had low-light vision.  **Activate—Dim Sight** `pf2:1` (manipulate)  **Frequency** one per day  * * *  **Effect** You touch the stitched image of the new moon on the armor's collar and suppress the dazzled condition for 1 minute.  **Craft Requirements** The initial raw materials must include 33 gp of silver."
+description: "This _+1 silver chain_ shirt has a collar adorned with stitched images
+  of the phases of the moon. You can see in moonlight as though you had low-light
+  vision.  **Activate—Dim Sight** `pf2:1` (manipulate)  **Frequency** one per day\
+  \  * * *  **Effect** You touch the stitched image of the new moon on the armor's
+  collar and suppress the dazzled condition for 1 minute.  **Craft Requirements**
+  The initial raw materials must include 33 gp of silver."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

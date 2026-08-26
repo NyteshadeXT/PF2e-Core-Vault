@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "skyfisher-vapors"
 aliases: "Skyfisher Vapors"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  _Skyfisher vapors_ are only visible via their effect on a [[Spells/Toxic Cloud|Toxic Cloud]] spell, or apparent lack thereof. These gases cause the conjured cloud to be as transparent as a skyfisher. The cloud is invisible, meaning it does not provide concealment, but it requires a successful Perception check check against your spell DC to notice the cloud by faint distortions in the air. Your magical connection to the cloud means you always know where it is. This has no effect on its damage."
+description: "**Activate** Cast a Spell  * * *  _Skyfisher vapors_ are only visible
+  via their effect on a [[Spells/Toxic Cloud|Toxic Cloud]] spell, or apparent lack
+  thereof. These gases cause the conjured cloud to be as transparent as a skyfisher.
+  The cloud is invisible, meaning it does not provide concealment, but it requires
+  a successful Perception check check against your spell DC to notice the cloud by
+  faint distortions in the air. Your magical connection to the cloud means you always
+  know where it is. This has no effect on its damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

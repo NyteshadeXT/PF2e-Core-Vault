@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "necklace-of-fireballs-ii"
 aliases: "Necklace of Fireballs II"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,25 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "115"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This string of beads appears to be a hemp string with lustrous red beads of various sizes hanging from it. When activated, it briefly appears in its true form: a golden chain with golden spheres attached by fine threads.  This necklace has one 8d6 fire damage, one 6d6 fire damage and two 4d6 fire damage beads with a DC 25 Reflex check save. When all the beads are gone, the necklace becomes a non-magical hemp string.  **Activate** `pf2:1` Interact  * * *  **Effect** You detach a sphere from the necklace, causing it to glow with orange light. After you activate a sphere, if you or anyone else hurls it (an Interact action with the ranged trait), it detonates as a [[Spells/Fireball|Fireball]] where it lands. Your toss can place the center of the fireball anywhere within 70 feet, though at the GM's discretion you might need to make an attack roll if the throw is unusually challenging. If no one hurls the sphere by the start of your next turn, it turns into a non-magical red bead."
+description: "This string of beads appears to be a hemp string with lustrous red beads
+  of various sizes hanging from it. When activated, it briefly appears in its true
+  form: a golden chain with golden spheres attached by fine threads.  This necklace
+  has one 8d6 fire damage, one 6d6 fire damage and two 4d6 fire damage beads with
+  a DC 25 Reflex check save. When all the beads are gone, the necklace becomes a non-magical
+  hemp string.  **Activate** `pf2:1` Interact  * * *  **Effect** You detach a sphere
+  from the necklace, causing it to glow with orange light. After you activate a sphere,
+  if you or anyone else hurls it (an Interact action with the ranged trait), it detonates
+  as a [[Spells/Fireball|Fireball]] where it lands. Your toss can place the center
+  of the fireball anywhere within 70 feet, though at the GM's discretion you might
+  need to make an attack roll if the throw is unusually challenging. If no one hurls
+  the sphere by the start of your next turn, it turns into a non-magical red bead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ommatophoric-mutagen"
 aliases: "Ommatophoric Mutagen"
 source: "Pathfinder Howl of the Wild"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Your eyes bulge from their sockets and extend upwards from your head on long, prehensile stalks, greatly enhancing your eyesight and field of view but leaving you unable to close your eyes, increasing your vulnerability to harmful visual effects.  **Benefit** You gain all-around vision, a +2 item bonus to visual Perception checks, and low-light vision if you don't already have it. These effects last for 1 minute.  **Drawback** For 1 minute, you take a –2 penalty to saving throws against effects that have the visual trait.  [[Equipment Effects/Effect_ Ommatophoric Mutagen|Effect: Ommatophoric Mutagen]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Your eyes bulge from their
+  sockets and extend upwards from your head on long, prehensile stalks, greatly enhancing
+  your eyesight and field of view but leaving you unable to close your eyes, increasing
+  your vulnerability to harmful visual effects.  **Benefit** You gain all-around vision,
+  a +2 item bonus to visual Perception checks, and low-light vision if you don't already
+  have it. These effects last for 1 minute.  **Drawback** For 1 minute, you take a
+  –2 penalty to saving throws against effects that have the visual trait.  [[Equipment
+  Effects/Effect_ Ommatophoric Mutagen|Effect: Ommatophoric Mutagen]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

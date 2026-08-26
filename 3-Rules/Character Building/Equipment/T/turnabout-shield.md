@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "turnabout-shield"
 aliases: "Turnabout Shield"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "deflecting-physical-ranged"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The face of this standard-grade silver salvo shield (Hardness 7, HP 28, BT 14) is polished to a mirror finish.  **Activate** `pf2:r` command  **Frequency** once per 10 minutes  **Trigger** A ranged Strike using ammunition such as arrows, bolts, or bullets (but not siege rounds or larger projectiles) misses you  **Requirements** You have the turnabout shield raised  * * *  **Effect** The ammunition enters the shield and is redirected with the same force with which it was originally fired. Make a ranged Strike using the ammunition with an attack modifier of +19, targeting a creature within 60 feet."
+description: "The face of this standard-grade silver salvo shield (Hardness 7, HP
+  28, BT 14) is polished to a mirror finish.  **Activate** `pf2:r` command  **Frequency**
+  once per 10 minutes  **Trigger** A ranged Strike using ammunition such as arrows,
+  bolts, or bullets (but not siege rounds or larger projectiles) misses you  **Requirements**
+  You have the turnabout shield raised  * * *  **Effect** The ammunition enters the
+  shield and is redirected with the same force with which it was originally fired.
+  Make a ranged Strike using the ammunition with an attack modifier of +19, targeting
+  a creature within 60 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

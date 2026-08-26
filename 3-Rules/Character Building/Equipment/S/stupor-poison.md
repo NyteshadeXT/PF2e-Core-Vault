@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stupor-poison"
 aliases: "Stupor Poison"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "incapacitation"
 trait04: "injury"
 trait05: "poison"
 trait06: "sleep"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  Stupor poison is a more potent distillation of lethargy poison. Further exposure to stupor poison doesn't require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.  **Saving Throw** DC 20 Fortitude check  **Maximum Duration** 6 hours  **Stage 1** [[Conditions/Slowed|Slowed 1]] and [[Conditions/Off-Guard|Off-Guard]] (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and off-guard (1 round)  **Stage 3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1 round)  **Stage 4** unconscious with no Perception check to wake up (1d6 hours)"
+description: "**Activate** `pf2:2` Interact  Stupor poison is a more potent distillation
+  of lethargy poison. Further exposure to stupor poison doesn't require the target
+  to attempt additional saving throws; only failing a saving throw against an ongoing
+  exposure can progress its stage.  **Saving Throw** DC 20 Fortitude check  **Maximum
+  Duration** 6 hours  **Stage 1** [[Conditions/Slowed|Slowed 1]] and [[Conditions/Off-Guard|Off-Guard]]
+  (1 round)  **Stage 2** [[Conditions/Slowed|Slowed 2]] and off-guard (1 round)  **Stage
+  3** [[Conditions/Unconscious|Unconscious]] with no Perception check to wake up (1
+  round)  **Stage 4** unconscious with no Perception check to wake up (1d6 hours)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

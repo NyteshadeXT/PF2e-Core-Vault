@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stonethroat-ammunition"
 aliases: "Stonethroat Ammunition"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,24 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "325"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` Interact  * * *  Each piece of stonethroat ammunition is tipped with an unusual yellow stone. When an activated piece of stonethroat ammunition hits a target, the target must attempt a DC 30 Fortitude check.  * * *  **Critical Success** The creature is unaffected.  **Success** The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs, and to Athletics checks.  [[Equipment Effects/Effect_ Stonethroat Ammunition (Success)|Effect: Stonethroat Ammunition (Success)]]  **Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the Swallow Whole ability until the end of its next turn.  **Critical Failure** As failure, and the target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 round."
+description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` Interact  * * *  Each
+  piece of stonethroat ammunition is tipped with an unusual yellow stone. When an
+  activated piece of stonethroat ammunition hits a target, the target must attempt
+  a DC 30 Fortitude check.  * * *  **Critical Success** The creature is unaffected.\
+  \  **Success** The ammunition lodges itself loosely into the target's throat. For
+  1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs,
+  and to Athletics checks.  [[Equipment Effects/Effect_ Stonethroat Ammunition (Success)|Effect:
+  Stonethroat Ammunition (Success)]]  **Failure** The ammunition embeds itself deep
+  in the target's throat. The target can't use its jaws or fangs Strike (if it has
+  one) or the Swallow Whole ability until the end of its next turn.  **Critical Failure**
+  As failure, and the target is [[Conditions/Enfeebled|Enfeebled 2]] for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

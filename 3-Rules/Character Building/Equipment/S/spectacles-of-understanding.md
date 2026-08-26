@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spectacles-of-understanding"
 aliases: "Spectacles of Understanding"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "130"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These folding, wood-framed spectacles hold flat discs of cut crystal as lenses and are held in place with thin cords that wrap around each ear, with another strap holding them around the neck while not in use. While you are wearing the spectacles, you gain a +1 item bonus to checks to Decipher Writing.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** Unfolding the spectacles onto the bridge of the nose, you gain the effects of 2nd-rank [[Spells/Translate|Translate]] for one hour except that it applies to all languages you see rather than a single language, and it does not apply to language you hear."
+description: "These folding, wood-framed spectacles hold flat discs of cut crystal
+  as lenses and are held in place with thin cords that wrap around each ear, with
+  another strap holding them around the neck while not in use. While you are wearing
+  the spectacles, you gain a +1 item bonus to checks to Decipher Writing.  * * * \
+  \ **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** Unfolding
+  the spectacles onto the bridge of the nose, you gain the effects of 2nd-rank [[Spells/Translate|Translate]]
+  for one hour except that it applies to all languages you see rather than a single
+  language, and it does not apply to language you hear."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

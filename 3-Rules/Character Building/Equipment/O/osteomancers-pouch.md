@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "osteomancers-pouch"
 aliases: "Osteomancer's Pouch"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "480"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This leather pouch holds a pair of six-sided dice carved from actual knucklebones. When rolled, the dice grant you a vision of a distant location, though their power is unreliable.  **Activate—Roll the Bones** `pf2:2` (concentrate, manipulate)  **Frequency** once per day  * * *  **Effect** You roll the dice. If you roll two 1s, the activation fails with no effect. Otherwise, the dice cast [[Spells/Clairvoyance|Clairvoyance]] for you. When cast in this way, the spell's range becomes 100 feet × the result of your roll."
+description: "This leather pouch holds a pair of six-sided dice carved from actual
+  knucklebones. When rolled, the dice grant you a vision of a distant location, though
+  their power is unreliable.  **Activate—Roll the Bones** `pf2:2` (concentrate, manipulate)\
+  \  **Frequency** once per day  * * *  **Effect** You roll the dice. If you roll
+  two 1s, the activation fails with no effect. Otherwise, the dice cast [[Spells/Clairvoyance|Clairvoyance]]
+  for you. When cast in this way, the spell's range becomes 100 feet × the result
+  of your roll."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

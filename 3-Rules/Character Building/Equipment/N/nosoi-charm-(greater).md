@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nosoi-charm-(greater)"
 aliases: "Nosoi Charm (Greater)"
 source: "Pathfinder Adventure: Night of the Gray Death"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,26 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "19000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +3 item bonus to Performance checks to play an instrument, orate, or sing. You can cast [[Spells/Sending|Sending]] once per day as a divine innate spell.  You gain lifesense as an imprecise sense with a range of 30 feet as long as you continue holding the charm. This allows you to sense the life force that animates living creatures and the perverse force that animates the dead, though you can't distinguish between the two.  * * *  **Activate** `pf2:3` Interact  * * *  **Effect** You twist the base of the charm, and the twittering it emits becomes helpful words to boost your arguments. You lose the item bonus to Performance checks and gain a +3 item bonus to Diplomacy checks to make Requests until you use this activation again."
+description: "Nosois serve as scribes and messengers to psychopomps. They are rare
+  outside of the Boneyard, so it's common for psychopomps venturing to other planes
+  to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven
+  emits twittering sounds in perfect accompaniment to your performances. You gain
+  a +3 item bonus to Performance checks to play an instrument, orate, or sing. You
+  can cast [[Spells/Sending|Sending]] once per day as a divine innate spell.  You
+  gain lifesense as an imprecise sense with a range of 30 feet as long as you continue
+  holding the charm. This allows you to sense the life force that animates living
+  creatures and the perverse force that animates the dead, though you can't distinguish
+  between the two.  * * *  **Activate** `pf2:3` Interact  * * *  **Effect** You twist
+  the base of the charm, and the twittering it emits becomes helpful words to boost
+  your arguments. You lose the item bonus to Performance checks and gain a +3 item
+  bonus to Diplomacy checks to make Requests until you use this activation again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

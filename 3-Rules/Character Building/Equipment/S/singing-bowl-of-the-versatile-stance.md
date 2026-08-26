@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "singing-bowl-of-the-versatile-stance"
 aliases: "Singing Bowl of the Versatile Stance"
 source: "Pathfinder Lost Omens Gods & Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "In true Iroran form, the simplicity of this small, inverted copper bell belies its flawlessness. When struck with a mallet (included with the singing bowl), it emits a harmonious tone that inspires bodily perfection in those who know how to hear it.  **Activate** `pf2:1` Interact (auditory)  * * *  **Effect** While holding the _singing bowl of the versatile stance_ with one hand, you strike the lip of it with a mallet held in the other. Anyone within 60 feet currently in a stance can spend a reaction to use one of their stance actions in order to change to a different stance."
+description: "In true Iroran form, the simplicity of this small, inverted copper bell
+  belies its flawlessness. When struck with a mallet (included with the singing bowl),
+  it emits a harmonious tone that inspires bodily perfection in those who know how
+  to hear it.  **Activate** `pf2:1` Interact (auditory)  * * *  **Effect** While holding
+  the _singing bowl of the versatile stance_ with one hand, you strike the lip of
+  it with a mallet held in the other. Anyone within 60 feet currently in a stance
+  can spend a reaction to use one of their stance actions in order to change to a
+  different stance."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

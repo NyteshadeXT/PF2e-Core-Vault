@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stanching-(true)"
 aliases: "Stanching (True)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,16 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 17
-weight: 
+weight:
 value: "12500"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end persistent bleed damage from 15 to 5 (particularly effective assistance automatically removes persistent bleed damage)."
+description: "These symbols close bloody wounds. Armor with this rune reduces the
+  DC of the flat check to end persistent bleed damage from 15 to 5 (particularly effective
+  assistance automatically removes persistent bleed damage)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-grounding"
 aliases: "Potion of Grounding"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "electricity"
 trait03: "magical"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Sparks flash within this amber syrup. Drinking this potion turns you into a living lightning rod for 1 minute, drawing nearby electricity to strike you instead of allies. You gain the [[Actions/Divert Lightning|Divert Lightning]] reaction while the effect lasts."
+description: "**Activate** `pf2:1` Interact  * * *  Sparks flash within this amber
+  syrup. Drinking this potion turns you into a living lightning rod for 1 minute,
+  drawing nearby electricity to strike you instead of allies. You gain the [[Actions/Divert
+  Lightning|Divert Lightning]] reaction while the effect lasts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

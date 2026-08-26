@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "surging-serum-(greater)"
 aliases: "Surging Serum (Greater)"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "healing"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Involuntary jolts and surges of energy move through the drinker's body as it restores normal muscle control. When you drink this elixir, it counteracts at 6th-rank and has a +19 Counteract Modifier to remove the [[Conditions/Clumsy|Clumsy]] or [[Conditions/Enfeebled|Enfeebled]] condition from a single source, using the source of that condition to determine the counteract rank and DC."
+description: "**Activate** `pf2:1` (manipulate)  * * *  Involuntary jolts and surges
+  of energy move through the drinker's body as it restores normal muscle control.
+  When you drink this elixir, it counteracts at 6th-rank and has a +19 Counteract
+  Modifier to remove the [[Conditions/Clumsy|Clumsy]] or [[Conditions/Enfeebled|Enfeebled]]
+  condition from a single source, using the source of that condition to determine
+  the counteract rank and DC."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

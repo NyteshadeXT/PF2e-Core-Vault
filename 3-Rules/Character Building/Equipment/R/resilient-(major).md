@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "resilient-(major)"
 aliases: "Resilient (Major)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "49440"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "_Resilient_ runes imbue armor with additional protective magic. This grants the wearer a +3 item bonus to saving throws.  You can upgrade the _resilient_ rune already etched on a suit of armor using the normal process for upgrading items and runes."
+description: "_Resilient_ runes imbue armor with additional protective magic. This
+  grants the wearer a +3 item bonus to saving throws.  You can upgrade the _resilient_
+  rune already etched on a suit of armor using the normal process for upgrading items
+  and runes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thunder-snare"
 aliases: "Thunder Snare"
@@ -17,19 +17,25 @@ trait02: "consumable"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "6"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The snare makes a thunderous noise when a creature enters the snare's square, which can be heard up to 1,000 feet away. The creature must attempt a DC 18 Fortitude check saving throw.  * * *  **Critical Success** The target is unaffected.  **Success** The target is deafened until the end of its next turn.  **Failure** As success, and the target also takes 1 sonic damage.  **Critical Failure** As success, and the target also takes 1d4 sonic damage.  * * *  **Craft Requirements** 1 lesser thunderstone"
+description: "The snare makes a thunderous noise when a creature enters the snare's
+  square, which can be heard up to 1,000 feet away. The creature must attempt a DC
+  18 Fortitude check saving throw.  * * *  **Critical Success** The target is unaffected.\
+  \  **Success** The target is deafened until the end of its next turn.  **Failure**
+  As success, and the target also takes 1 sonic damage.  **Critical Failure** As success,
+  and the target also takes 1d4 sonic damage.  * * *  **Craft Requirements** 1 lesser
+  thunderstone"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

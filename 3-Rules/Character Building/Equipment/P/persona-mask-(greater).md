@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "persona-mask-(greater)"
 aliases: "Persona Mask (Greater)"
@@ -15,21 +15,29 @@ rarity: ""
 trait01: "fortune"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "650"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "Despite covering the entire face, this alabaster mask does not hinder vision or other senses. Wearing the mask grants a +2 item bonus to Performance checks while acting, orating, performing comedy, or singing.  * * *  **Activate—Assume Role** `pf2:1` (concentrate)  **Effect** You change the mask's appearance into an artistic rendition of a dramatic character of your choice.  * * *  **Activate—Sacrifice Role** `pf2:r` (concentrate, fortune)  **Frequency** once per day  **Trigger** You fail a Performance check that benefits from the mask's bonus  * * *  **Effect** You change the mask's character and reroll the Performance check, using the second result."
+description: "Despite covering the entire face, this alabaster mask does not hinder
+  vision or other senses. Wearing the mask grants a +2 item bonus to Performance checks
+  while acting, orating, performing comedy, or singing.  * * *  **Activate—Assume
+  Role** `pf2:1` (concentrate)  **Effect** You change the mask's appearance into an
+  artistic rendition of a dramatic character of your choice.  * * *  **Activate—Sacrifice
+  Role** `pf2:r` (concentrate, fortune)  **Frequency** once per day  **Trigger** You
+  fail a Performance check that benefits from the mask's bonus  * * *  **Effect**
+  You change the mask's character and reroll the Performance check, using the second
+  result."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,37 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rune-of-sin-(wrath)"
 aliases: "Rune of Sin (Wrath)"
 source: "Pathfinder Secrets of Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "arcane"
 trait02: "invested"
 trait03: "tattoo"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "1700"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "This jagged glyph, the wrath Thassilonian rune of sin, reacts to evocation magic. When you Cast an evocation Spell, you gain resistance 5 to damage from spells until the start of your next turn. This resistance is increased to 7 against evocation spells."
+description: "This jagged glyph, the wrath Thassilonian rune of sin, reacts to evocation
+  magic. When you Cast an evocation Spell, you gain resistance 5 to damage from spells
+  until the start of your next turn. This resistance is increased to 7 against evocation
+  spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

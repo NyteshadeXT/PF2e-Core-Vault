@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "piercing-wind"
 aliases: "Piercing Wind"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "combination"
 trait02: "concussive"
 trait03: "fatal-aim-d10"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Favored by caravan guards who traverse the Mana Wastes, a piercing wind is similar to a [[Equipment/Jezail|Jezail]], in that you can carry it in one hand as long as the other hand's free, by holding it under one arm. Additionally, it's fitted with an underslung curved blade."
+description: "Favored by caravan guards who traverse the Mana Wastes, a piercing wind
+  is similar to a [[Equipment/Jezail|Jezail]], in that you can carry it in one hand
+  as long as the other hand's free, by holding it under one arm. Additionally, it's
+  fitted with an underslung curved blade."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

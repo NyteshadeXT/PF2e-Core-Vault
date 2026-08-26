@@ -2,34 +2,37 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thumper-snare"
 aliases: "Thumper Snare"
 source: "Pathfinder #194: Cult of the Cave Worm"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "auditory"
 trait02: "clockwork"
 trait03: "consumable"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "rare"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small box contains a clockwork mechanism that rhythmically thumps the ground, allowing creatures with tremorsense to detect it at up to double their usual range. The mechanism can be wound to thump anywhere from 1 round to 1 minute before falling into useless components."
+description: "This small box contains a clockwork mechanism that rhythmically thumps
+  the ground, allowing creatures with tremorsense to detect it at up to double their
+  usual range. The mechanism can be wound to thump anywhere from 1 round to 1 minute
+  before falling into useless components."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "marvelous-medicines-(greater)"
 aliases: "Marvelous Medicines (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This healer's toolkit contains a seemingly endless supply of bandages, herbs, and healing items of impeccable quality, granting you a +3 item bonus to Medicine checks.  If you use the _marvelous medicines_ when you [[Actions/Treat Poison|Treat Poison]] or [[Actions/Treat Disease|Treat Disease]], before you roll your check, the medicines attempt to counteract the poison or disease you're treating, with a counteract rank of 8 and a counteract modifier of +30. This is a healing effect.  The medicines can't be used to treat the same affliction for that patient again"
+description: "This healer's toolkit contains a seemingly endless supply of bandages,
+  herbs, and healing items of impeccable quality, granting you a +3 item bonus to
+  Medicine checks.  If you use the _marvelous medicines_ when you [[Actions/Treat
+  Poison|Treat Poison]] or [[Actions/Treat Disease|Treat Disease]], before you roll
+  your check, the medicines attempt to counteract the poison or disease you're treating,
+  with a counteract rank of 8 and a counteract modifier of +30. This is a healing
+  effect.  The medicines can't be used to treat the same affliction for that patient
+  again"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

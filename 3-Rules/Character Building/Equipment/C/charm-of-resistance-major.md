@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "charm-of-resistance-major"
 aliases: "Charm of Resistance (Major)"
@@ -14,7 +14,7 @@ pg: "287"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
-weight: 
+weight:
 value: "4400"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This charm, normally hung from the belt or worn around the neck, grants you resistance 15 against one type of energy damage: acid, cold, electricity, fire, or sonic. Each charm is crafted to protect against a particular type of energy damage, and its design usually embodies the type of energy it protects the wearer from in some way. For instance, a _charm of cold resistance_ could be carved in the shape of a yeti, whereas a _charm of fire resistance_ would be made from volcanic glass."
+description: "This charm, normally hung from the belt or worn around the neck, grants
+  you resistance 15 against one type of energy damage: acid, cold, electricity, fire,
+  or sonic. Each charm is crafted to protect against a particular type of energy damage,
+  and its design usually embodies the type of energy it protects the wearer from in
+  some way. For instance, a _charm of cold resistance_ could be carved in the shape
+  of a yeti, whereas a _charm of fire resistance_ would be made from volcanic glass."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,10 +81,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "venomous-cure-fulu"
 aliases: "Venomous Cure Fulu"
@@ -16,20 +16,24 @@ trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You attempt a saving throw against an injected poison.  * * *  This green fulu depicts venomous creatures and vermin. When activated, the venom from the fulu fights against the venom in your system, granting you a +2 status bonus to the triggering saving throw."
+description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger**
+  You attempt a saving throw against an injected poison.  * * *  This green fulu depicts
+  venomous creatures and vermin. When activated, the venom from the fulu fights against
+  the venom in your system, granting you a +2 status bonus to the triggering saving
+  throw."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

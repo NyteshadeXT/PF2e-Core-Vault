@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tangle-root-toxin"
 aliases: "Tangle Root Toxin"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Tangle root toxin sees use to impede opponents in athletic competitions, in addition to espionage and tracking.  **Saving Throw** DC 26 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Conditions/Clumsy|Clumsy 1]] and -10-foot status penalty to all Speeds (1 minute)  **Stage 2** [[Conditions/Clumsy|Clumsy 2]] and -20-foot status penalty to all Speeds (1 minute)  **Stage 3** [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Off-Guard|Off-Guard]], and -30-foot status penalty to all Speeds"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Tangle root toxin sees use
+  to impede opponents in athletic competitions, in addition to espionage and tracking.\
+  \  **Saving Throw** DC 26 Fortitude check  **Onset** 1 minute  **Maximum Duration**
+  6 minutes  **Stage 1** [[Conditions/Clumsy|Clumsy 1]] and -10-foot status penalty
+  to all Speeds (1 minute)  **Stage 2** [[Conditions/Clumsy|Clumsy 2]] and -20-foot
+  status penalty to all Speeds (1 minute)  **Stage 3** [[Conditions/Clumsy|Clumsy
+  3]], [[Conditions/Off-Guard|Off-Guard]], and -30-foot status penalty to all Speeds"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

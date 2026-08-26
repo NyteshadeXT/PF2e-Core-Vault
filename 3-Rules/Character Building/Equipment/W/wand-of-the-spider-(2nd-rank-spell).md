@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-the-spider-(2nd-rank-spell)"
 aliases: "Wand of the Spider (2nd-Rank Spell)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "poison"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The length of this wand is a pair of twisted giant spider legs.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Web|Web]] at 2nd-rank, but the strands of webbing are toxic. Any creature that fails its Athletics check or Reflex save to navigate the web takes 1d6 poison damage.  * * *  **Craft Requirements** Supply a casting of _web_ at 2nd-rank."
+description: "The length of this wand is a pair of twisted giant spider legs.  * *
+  *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect**
+  You cast [[Spells/Web|Web]] at 2nd-rank, but the strands of webbing are toxic. Any
+  creature that fails its Athletics check or Reflex save to navigate the web takes
+  1d6 poison damage.  * * *  **Craft Requirements** Supply a casting of _web_ at 2nd-rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stunning-snare"
 aliases: "Stunning Snare"
@@ -16,20 +16,28 @@ trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "320"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You rig a snare to disorient a creature with a quick bash, leaving it with little ability to defend itself. The trap deals 10d6 bludgeoning damage to the first creature to enter its square; that creature must attempt a DC 32 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] for 1 round and [[Conditions/Stunned|Stunned 1]].  **Failure** The creature takes full damage and is off-guard for 1 round and [[Conditions/Stunned|Stunned 2]].  **Critical Failure** The creature takes double damage and is off-guard for 1 minute and [[Conditions/Stunned|Stunned 4]]."
+description: "You rig a snare to disorient a creature with a quick bash, leaving it
+  with little ability to defend itself. The trap deals 10d6 bludgeoning damage to
+  the first creature to enter its square; that creature must attempt a DC 32 Reflex
+  check save.  * * *  **Critical Success** The creature is unaffected.  **Success**
+  The creature takes half damage and is [[Conditions/Off-Guard|Off-Guard]] for 1 round
+  and [[Conditions/Stunned|Stunned 1]].  **Failure** The creature takes full damage
+  and is off-guard for 1 round and [[Conditions/Stunned|Stunned 2]].  **Critical Failure**
+  The creature takes double damage and is off-guard for 1 minute and [[Conditions/Stunned|Stunned
+  4]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

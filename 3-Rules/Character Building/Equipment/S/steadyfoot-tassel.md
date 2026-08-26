@@ -2,34 +2,36 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "steadyfoot-tassel"
 aliases: "Steadyfoot Tassel"
 source: "Pathfinder #193: Mantle of Gold"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "30"
 subvalue: "gp"
 invest:
 usage: "affixed to a creature"
 license: "ORC"
 identify:
-description: "This handsome tassel comes in a variety of colors to match your companion's collar or bridle. While attached, the tassel gives the companion a +1 item bonus to Acrobatics checks to Balance, and to their Reflex DC against Trip attacks."
+description: "This handsome tassel comes in a variety of colors to match your companion's
+  collar or bridle. While attached, the tassel gives the companion a +1 item bonus
+  to Acrobatics checks to Balance, and to their Reflex DC against Trip attacks."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

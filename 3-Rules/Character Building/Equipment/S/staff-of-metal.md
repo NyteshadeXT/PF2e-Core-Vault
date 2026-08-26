@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-metal"
 aliases: "Staff of Metal"
@@ -16,7 +16,7 @@ trait01: "magical"
 trait02: "metal"
 trait03: "staff"
 trait04: "two-hand-d8"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This cylindrical iron staff has colored segments on both ends, one red and one blue. When you Strike with the staff, you gain a +1 circumstance bonus to the attack roll if the target is wearing metal armor or is primarily made of metal.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrips** [[Spells/Detect Metal|Detect Metal]] *   **1st** [[Spells/Conductive Weapon|Conductive Weapon]], [[Spells/Shielded Arm|Shielded Arm]] *   **2nd** [[Spells/Magnetic Attraction|Magnetic Attraction]], [[Spells/Magnetic Repulsion|Magnetic Repulsion]]"
+description: "This cylindrical iron staff has colored segments on both ends, one red
+  and one blue. When you Strike with the staff, you gain a +1 circumstance bonus to
+  the attack roll if the target is wearing metal armor or is primarily made of metal.\
+  \  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from
+  the staff to cast a spell from its list.  *   **Cantrips** [[Spells/Detect Metal|Detect
+  Metal]] *   **1st** [[Spells/Conductive Weapon|Conductive Weapon]], [[Spells/Shielded
+  Arm|Shielded Arm]] *   **2nd** [[Spells/Magnetic Attraction|Magnetic Attraction]],
+  [[Spells/Magnetic Repulsion|Magnetic Repulsion]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spiced-demonade"
 aliases: "Spiced Demonade"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "8"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  There are some who claim that the original version of this tart red drink contained the ground skin of actual demons, but in truth, spiced demonade was created by a first-year academy student desperate to look awake and alert after a night of carousing.  After consuming spiced demonade, you ignore all effects and penalties from the consumption of alcohol and lack of sleep for 1 hour. These effects resume when the spiced demonade wears off, and you become temporarily immune to spiced demonade for 24 hours."
+description: "**Activate** `pf2:1` (manipulate)  * * *  There are some who claim that
+  the original version of this tart red drink contained the ground skin of actual
+  demons, but in truth, spiced demonade was created by a first-year academy student
+  desperate to look awake and alert after a night of carousing.  After consuming spiced
+  demonade, you ignore all effects and penalties from the consumption of alcohol and
+  lack of sleep for 1 hour. These effects resume when the spiced demonade wears off,
+  and you become temporarily immune to spiced demonade for 24 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

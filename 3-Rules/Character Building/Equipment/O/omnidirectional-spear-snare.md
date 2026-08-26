@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "omnidirectional-spear-snare"
 aliases: "Omnidirectional Spear Snare"
@@ -16,20 +16,22 @@ trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 16
-weight: 
+weight:
 value: "1500"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "As soon as a creature enters the snare's square, the snare unleashes wickedly powerful spears at the creature from all directions, dealing 15d8 piercing damage (DC 37 Reflex check save)."
+description: "As soon as a creature enters the snare's square, the snare unleashes
+  wickedly powerful spears at the creature from all directions, dealing 15d8 piercing
+  damage (DC 37 Reflex check save)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

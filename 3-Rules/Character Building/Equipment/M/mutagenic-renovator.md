@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mutagenic-renovator"
 aliases: "Mutagenic Renovator"
 source: "Pathfinder #180: The Smoking Gun"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This sludgy concoction is said to be derived from liquefied mutant scales. For 1 hour after you imbibe the potion, your skin warps and mutates to grant you resistance 5 to one type of energy damage. When you first drink the potion, choose either acid, cold, electricity, fire, or sonic damage. The potion starts by granting you resistance against this type of damage. Each time you take damage from one of these listed energy types other than the one you currently resist, your skin mutates, causing you to lose the energy resistance previously granted by this potion and gain resistance to the type of energy by which you were most recently damaged, and the potion's duration decreases by 10 minutes. The resistance shifts only after you take the damage, so it doesn't apply to the first instance of damage"
+description: "**Activate** `pf2:1` Interact  * * *  This sludgy concoction is said
+  to be derived from liquefied mutant scales. For 1 hour after you imbibe the potion,
+  your skin warps and mutates to grant you resistance 5 to one type of energy damage.
+  When you first drink the potion, choose either acid, cold, electricity, fire, or
+  sonic damage. The potion starts by granting you resistance against this type of
+  damage. Each time you take damage from one of these listed energy types other than
+  the one you currently resist, your skin mutates, causing you to lose the energy
+  resistance previously granted by this potion and gain resistance to the type of
+  energy by which you were most recently damaged, and the potion's duration decreases
+  by 10 minutes. The resistance shifts only after you take the damage, so it doesn't
+  apply to the first instance of damage"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

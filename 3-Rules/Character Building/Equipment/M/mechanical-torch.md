@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mechanical-torch"
 aliases: "Mechanical Torch"
@@ -13,7 +13,7 @@ source: "Pathfinder Guns & Gears"
 pg: ""
 rarity: ""
 trait01: "clockwork"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Powered by electricity, you can turn a mechanical torch on and off by toggling a lever on the torch with an Interact action. When active, the torch sheds bright light in either a 20-foot radius (and dim light to the next 40 feet) or a 40-foot cone (and dim light to the next 40 feet). Changing this area requires a single Interact action to flip a switch. The torch carries sufficient charge to operate for ten minutes. You can recharge the torch in 1 minute via an integrated crank-charging mechanism, turning the clockwork gears and generating sparks to power the torch, though doing so requires two hands."
+description: "Powered by electricity, you can turn a mechanical torch on and off by
+  toggling a lever on the torch with an Interact action. When active, the torch sheds
+  bright light in either a 20-foot radius (and dim light to the next 40 feet) or a
+  40-foot cone (and dim light to the next 40 feet). Changing this area requires a
+  single Interact action to flip a switch. The torch carries sufficient charge to
+  operate for ten minutes. You can recharge the torch in 1 minute via an integrated
+  crank-charging mechanism, turning the clockwork gears and generating sparks to power
+  the torch, though doing so requires two hands."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

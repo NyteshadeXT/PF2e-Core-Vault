@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sturdy-satchel"
 aliases: "Sturdy Satchel"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "30"
 subvalue: "gp"
 invest:
 usage: "wornbackpack"
 license: "ORC"
 identify:
-description: "This heavy backpack of alchemically treated cloth layered over a metal mesh protects its contents from water damage and other harmful effects.  It holds up to 4 Bulk of items, and the first 2 Bulk contained within the sturdy satchel do not count against your Bulk limits.  The bag has Hardness 5 and 20 Hit Points. As long as the bag remains closed and is not broken, water and other liquids can't seep into it."
+description: "This heavy backpack of alchemically treated cloth layered over a metal
+  mesh protects its contents from water damage and other harmful effects.  It holds
+  up to 4 Bulk of items, and the first 2 Bulk contained within the sturdy satchel
+  do not count against your Bulk limits.  The bag has Hardness 5 and 20 Hit Points.
+  As long as the bag remains closed and is not broken, water and other liquids can't
+  seep into it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

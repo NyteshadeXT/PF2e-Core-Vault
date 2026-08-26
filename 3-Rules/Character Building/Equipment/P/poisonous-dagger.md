@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "poisonous-dagger"
 aliases: "Poisonous Dagger"
@@ -18,7 +18,7 @@ trait03: "magical"
 trait04: "poison"
 trait05: "thrown-10"
 trait06: "versatile-s"
-trait07: "common"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This +1 striking dagger has an image of a snake emblazoned on its blade. When you critically succeed at an attack roll with the dagger, magical fangs emerge and poison the target, dealing 1d4 persistent poison."
+description: "This +1 striking dagger has an image of a snake emblazoned on its blade.
+  When you critically succeed at an attack roll with the dagger, magical fangs emerge
+  and poison the target, dealing 1d4 persistent poison."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 piercing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

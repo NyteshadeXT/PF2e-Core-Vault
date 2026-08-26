@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "flying-broomstick"
 aliases: "Flying Broomstick"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,13 +29,28 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This broom has a tenuous connection to gravity, and it tends to drift even while stowed. You can ride on the broom using one hand to guide it, and the broom can carry up to one passenger in addition to you.  The broom moves at a fly Speed of 20 feet. The broom can carry only so much, taking a -10-foot penalty to its Speed if laden with more than 20 Bulk, and crashing to the ground if it carries more than 30 Bulk."
+description: "This broom has a tenuous connection to gravity, and it tends to drift
+  even while stowed. You can ride on the broom using one hand to guide it, and the
+  broom can carry up to one passenger in addition to you.  The broom moves at a fly
+  Speed of 20 feet. The broom can carry only so much, taking a -10-foot penalty to
+  its Speed if laden with more than 20 Bulk, and crashing to the ground if it carries
+  more than 30 Bulk."
 powerTitle1: "Lift Off"
 actionEconomy1: "`pf2:2`"
 type1: "([[concentrate]], [[manipulate]])"
 frequency1:
 trigger1:
-mechanics1: "You name a destination on the same plane, and the broom speeds toward it at a fly Speed of 40 feet. You must either clutch the broom with two hands in order to ride it, or you need to release the broom to send it off with no rider. If you don't have a good idea of the location, layout, and general direction of the destination, or if your named destination is on another plane, the broom wanders aimlessly, circling back to its starting location after 30 minutes.  If the broom carries a rider, this activation lasts until 4 hours pass (typically 16 miles of travel), the broom reaches its destination, or you Dismiss the activation. If the broom doesn't have a rider, the activation lasts until the broom reaches its destination. When the activation ends, the broom floats to the ground and can't be activated again for 1 hour."
+mechanics1: "You name a destination on the same plane, and the broom speeds toward
+  it at a fly Speed of 40 feet. You must either clutch the broom with two hands in
+  order to ride it, or you need to release the broom to send it off with no rider.
+  If you don't have a good idea of the location, layout, and general direction of
+  the destination, or if your named destination is on another plane, the broom wanders
+  aimlessly, circling back to its starting location after 30 minutes.  If the broom
+  carries a rider, this activation lasts until 4 hours pass (typically 16 miles of
+  travel), the broom reaches its destination, or you Dismiss the activation. If the
+  broom doesn't have a rider, the activation lasts until the broom reaches its destination.
+  When the activation ends, the broom floats to the ground and can't be activated
+  again for 1 hour."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -47,9 +62,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +91,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

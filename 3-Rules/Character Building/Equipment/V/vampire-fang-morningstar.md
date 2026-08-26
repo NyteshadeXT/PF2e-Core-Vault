@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vampire-fang-morningstar"
 aliases: "Vampire-Fang Morningstar"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "versatile-p"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+1 striking wounding morningstar_ is studded with teeth pulled from a vampire, which usually requires an animate donor, given vampires' tendency to turn to dust when destroyed.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per minute  **Requirements** Your last action was a successful Strike with this weapon and you're not in direct sunlight  **Effect** The _vampire-fang morningstar_ absorbs blood from the target, healing the wielder for 10 healing Hit Points.  * * *  **Craft Requirements** The initial raw materials must include teeth from a vampire."
+description: "This _+1 striking wounding morningstar_ is studded with teeth pulled
+  from a vampire, which usually requires an animate donor, given vampires' tendency
+  to turn to dust when destroyed.  * * *  **Activate** `pf2:1` Interact  **Frequency**
+  once per minute  **Requirements** Your last action was a successful Strike with
+  this weapon and you're not in direct sunlight  **Effect** The _vampire-fang morningstar_
+  absorbs blood from the target, healing the wielder for 10 healing Hit Points.  *
+  * *  **Craft Requirements** The initial raw materials must include teeth from a
+  vampire."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d6 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

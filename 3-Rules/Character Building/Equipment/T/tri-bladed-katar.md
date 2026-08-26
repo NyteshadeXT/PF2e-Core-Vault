@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tri-bladed-katar"
 aliases: "Tri-bladed Katar"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "disarm"
 trait02: "fatal-d8"
 trait03: "monk"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This punching dagger resembles the standard katar, save that a pair of blades can be folded out from the center blade, transforming the weapon into a starburst shape well suited to catching foes' weapons."
+description: "This punching dagger resembles the standard katar, save that a pair
+  of blades can be folded out from the center blade, transforming the weapon into
+  a starburst shape well suited to catching foes' weapons."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

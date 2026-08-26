@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rainbow-vinegar-(moderate)"
 aliases: "Rainbow Vinegar (Moderate)"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *  Black swill with multicolored ribbons makes this vinegar look like an oil spill.  Ingesting a dose of rainbow vinegar makes your sweat acidic and nonconductive for 10 minutes. During this time, your unarmed attacks deal an additional 1d4 acid damage, and you have resistance 10 to electricity. Vampires find this vinegar particularly harmful and take an additional 2d4 acid damage instead.  [[Equipment Effects/Effect_ Rainbow Vinegar|Effect: Rainbow Vinegar]]  Taking more than one dose of rainbow vinegar in a single day gives you weakness 5 to acid until your next daily preparations.  [[Equipment Effects/Effect_ Rainbow Vinegar Weakness|Effect: Rainbow Vinegar Weakness]]"
+description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *\
+  \  Black swill with multicolored ribbons makes this vinegar look like an oil spill.\
+  \  Ingesting a dose of rainbow vinegar makes your sweat acidic and nonconductive
+  for 10 minutes. During this time, your unarmed attacks deal an additional 1d4 acid
+  damage, and you have resistance 10 to electricity. Vampires find this vinegar particularly
+  harmful and take an additional 2d4 acid damage instead.  [[Equipment Effects/Effect_
+  Rainbow Vinegar|Effect: Rainbow Vinegar]]  Taking more than one dose of rainbow
+  vinegar in a single day gives you weakness 5 to acid until your next daily preparations.\
+  \  [[Equipment Effects/Effect_ Rainbow Vinegar Weakness|Effect: Rainbow Vinegar
+  Weakness]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

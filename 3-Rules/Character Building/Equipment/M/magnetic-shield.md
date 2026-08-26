@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "magnetic-shield"
 aliases: "Magnetic Shield"
 source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Copper rings spiral around this steel shield. Twin electrical probes near the grip can socket into a jar of moderate (or higher leveled) bottled lightning, which takes 3 Interact actions to install. A loaded magnetic shield can be activated to convert it into an electromagnet. When an activated magnetic shield is raised, the circumstance bonus increases by 1 against attacks made with weapons primarily made of metal. If you use a Shield Block against a creature attacking you with such a weapon, you also gain a +1 item bonus to [[Actions/Disarm|Disarm]] attempts against that weapon until the end of your next turn. The shield remains charged for 3 rounds, consuming the bottled lightning, and once the reaction has begun it can't be deactivated."
+description: "**Activate** `pf2:1` Interact  Copper rings spiral around this steel
+  shield. Twin electrical probes near the grip can socket into a jar of moderate (or
+  higher leveled) bottled lightning, which takes 3 Interact actions to install. A
+  loaded magnetic shield can be activated to convert it into an electromagnet. When
+  an activated magnetic shield is raised, the circumstance bonus increases by 1 against
+  attacks made with weapons primarily made of metal. If you use a Shield Block against
+  a creature attacking you with such a weapon, you also gain a +1 item bonus to [[Actions/Disarm|Disarm]]
+  attempts against that weapon until the end of your next turn. The shield remains
+  charged for 3 rounds, consuming the bottled lightning, and once the reaction has
+  begun it can't be deactivated."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scizore-of-the-crab"
 aliases: "Scizore of the Crab"
@@ -16,7 +16,7 @@ trait01: "disarm"
 trait02: "grapple"
 trait03: "magical"
 trait04: "parry"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A _scizore of the crab_ is a _+1 scizore_ that has the grapple trait in addition to its normal weapon traits.  **Activate** `pf2:1` Interact  **Requirements** Your last action was a successful Strike with this weapon, or you have a creature [[Conditions/Grabbed|Grabbed]] with this weapon  * * *  **Effect** The target is grabbed until the end of your next turn. A grabbed creature can use the [[Actions/Escape|Escape]] action to get out of the Grab, and the Grab ends for a grabbed creature if you move away from it. This functions as the Grab creature ability.  **Activate** `pf2:1` Interact  **Frequency** once per round  **Requirements** You have a creature grabbed with this weapon  * * *  **Effect** The crab claw animates and pinches open and shut, dealing slashing damage equal to the scizore of the crab's number of damage dice.  * * *  **Craft Requirements** The initial raw materials must include a claw from a giant crab or similar creature."
+description: "A _scizore of the crab_ is a _+1 scizore_ that has the grapple trait
+  in addition to its normal weapon traits.  **Activate** `pf2:1` Interact  **Requirements**
+  Your last action was a successful Strike with this weapon, or you have a creature
+  [[Conditions/Grabbed|Grabbed]] with this weapon  * * *  **Effect** The target is
+  grabbed until the end of your next turn. A grabbed creature can use the [[Actions/Escape|Escape]]
+  action to get out of the Grab, and the Grab ends for a grabbed creature if you move
+  away from it. This functions as the Grab creature ability.  **Activate** `pf2:1`
+  Interact  **Frequency** once per round  **Requirements** You have a creature grabbed
+  with this weapon  * * *  **Effect** The crab claw animates and pinches open and
+  shut, dealing slashing damage equal to the scizore of the crab's number of damage
+  dice.  * * *  **Craft Requirements** The initial raw materials must include a claw
+  from a giant crab or similar creature."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +58,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

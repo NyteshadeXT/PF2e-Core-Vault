@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "toad-tears"
 aliases: "Toad Tears"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Toad tears can be mixed with any other foodstuff or drink, but the poison can also be ingested as is. The process of refining giant toad poison lessens its deadly qualities, and as a result, toad tears are rarely directly fatal. Yet those who are exposed to toad tears often lose control of their actions, making it a dangerous poison nevertheless.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving Throw** DC 19 Fortitude check  **Onset** 5 minutes  **Maximum Duration** 30 minutes  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** stupefied 1 and [[Conditions/Confused|Confused]] (1 minute)"
+description: "Toad tears can be mixed with any other foodstuff or drink, but the poison
+  can also be ingested as is. The process of refining giant toad poison lessens its
+  deadly qualities, and as a result, toad tears are rarely directly fatal. Yet those
+  who are exposed to toad tears often lose control of their actions, making it a dangerous
+  poison nevertheless.  * * *  **Activate** `pf2:1` Interact (Ingested)  **Saving
+  Throw** DC 19 Fortitude check  **Onset** 5 minutes  **Maximum Duration** 30 minutes\
+  \  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (10 minutes)  **Stage 2** stupefied
+  1 and [[Conditions/Confused|Confused]] (1 minute)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

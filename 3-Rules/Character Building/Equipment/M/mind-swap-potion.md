@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mind-swap-potion"
 aliases: "Mind-Swap Potion"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "possession"
 trait05: "potion"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Small bolts of brightly colored electricity flicker through the cloudy mind-swap potion. The potion often comes in a double-chambered flask, because when you drink it, you consume half the contents. If another creature of the same ancestry consumes the remainder of the contents within 1 minute, your minds swap per the effect of a critical success on a [[Spells/Mind Swap|Mind Swap]] ritual. The effects last for 24 hours or until one of you Dismisses the activation."
+description: "**Activate** `pf2:1` Interact  Small bolts of brightly colored electricity
+  flicker through the cloudy mind-swap potion. The potion often comes in a double-chambered
+  flask, because when you drink it, you consume half the contents. If another creature
+  of the same ancestry consumes the remainder of the contents within 1 minute, your
+  minds swap per the effect of a critical success on a [[Spells/Mind Swap|Mind Swap]]
+  ritual. The effects last for 24 hours or until one of you Dismisses the activation."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

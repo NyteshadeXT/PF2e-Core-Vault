@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "taljjaes-mask-(the-hermit)"
 aliases: "Taljjae's Mask (The Hermit)"
 source: "Pathfinder Lost Omens Monsters of Myth"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "invested"
 trait02: "magical"
-trait03: "unique"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,22 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "Those who gain one of Taljjae's masks, either by defeating Taljjae or some other means, are known as its understudies and gain a fraction of its power. Each of Taljjae's masks is an 18th-level unique item with the invested and magical traits; if broken, they're automatically repaired to full HP when invested during daily preparations. The effect of a mask on a PC is noted in the mask's Understudy entry. Wearing one of Taljjae's masks also imposes Taljjae's jelly sense and jelly gluttony on the creature as long as it wears the mask.  The _Hermit_ allows its wearer to cast 8th-rank [[Spells/Spirit Blast|Spirit Blast]] and 7th-rank [[Spells/Flame Strike|Flame Strike]], each as a divine innate spell, once per day."
+description: "Those who gain one of Taljjae's masks, either by defeating Taljjae or
+  some other means, are known as its understudies and gain a fraction of its power.
+  Each of Taljjae's masks is an 18th-level unique item with the invested and magical
+  traits; if broken, they're automatically repaired to full HP when invested during
+  daily preparations. The effect of a mask on a PC is noted in the mask's Understudy
+  entry. Wearing one of Taljjae's masks also imposes Taljjae's jelly sense and jelly
+  gluttony on the creature as long as it wears the mask.  The _Hermit_ allows its
+  wearer to cast 8th-rank [[Spells/Spirit Blast|Spirit Blast]] and 7th-rank [[Spells/Flame
+  Strike|Flame Strike]], each as a divine innate spell, once per day."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

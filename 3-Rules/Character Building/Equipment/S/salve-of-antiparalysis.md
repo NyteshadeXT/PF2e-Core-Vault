@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "salve-of-antiparalysis"
 aliases: "Salve of Antiparalysis"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "healing"
 trait03: "magical"
 trait04: "oil"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Applying this filmy salve to a creature helps it overcome magical paralysis. The salve attempts to counteract the paralysis (counteract rank 3rd, counteract modifier +22)"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Applying this filmy salve
+  to a creature helps it overcome magical paralysis. The salve attempts to counteract
+  the paralysis (counteract rank 3rd, counteract modifier +22)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

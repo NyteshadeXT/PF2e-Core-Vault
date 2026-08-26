@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nightmare-salt"
 aliases: "Nightmare Salt"
 source: "Pathfinder #149: Against the Scarlet Triad"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This potent poison consists of crystals whose flavor and appearance mimics edible salt but whose effects are deadly: victims experience periods of waking nightmares that overload the senses and eventually result in death through a combination of shock and exhaustion.  * * *  **Activate** `pf2:3` Interact (Ingested)  **Saving Throw** DC 43 Fortitude check  **Onset** 1 hour  **Maximum Duration** 5 days  **Stage 1** [[Conditions/Frightened|Frightened 2]] once every 1d4 hours, plus [[Conditions/Fatigued|Fatigued]] (1 day)  **Stage 2** [[Conditions/Confused|Confused]] for 1 minute once every 1d4 hours, plus [[Conditions/Frightened|Frightened 3]] and fatigued (1 day)  **Stage 3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued (1 day)  **Stage 4** death"
+description: "This potent poison consists of crystals whose flavor and appearance
+  mimics edible salt but whose effects are deadly: victims experience periods of waking
+  nightmares that overload the senses and eventually result in death through a combination
+  of shock and exhaustion.  * * *  **Activate** `pf2:3` Interact (Ingested)  **Saving
+  Throw** DC 43 Fortitude check  **Onset** 1 hour  **Maximum Duration** 5 days  **Stage
+  1** [[Conditions/Frightened|Frightened 2]] once every 1d4 hours, plus [[Conditions/Fatigued|Fatigued]]
+  (1 day)  **Stage 2** [[Conditions/Confused|Confused]] for 1 minute once every 1d4
+  hours, plus [[Conditions/Frightened|Frightened 3]] and fatigued (1 day)  **Stage
+  3** frightened 3, plus confused for 1d4 minutes, once every hour, plus fatigued
+  (1 day)  **Stage 4** death"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

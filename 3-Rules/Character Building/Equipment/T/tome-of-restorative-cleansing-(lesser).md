@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tome-of-restorative-cleansing-(lesser)"
 aliases: "Tome of Restorative Cleansing (Lesser)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This book is dark blue on the night of the new moon, gradually shifting to bright red as the moon waxes.  * * *  **Activate** `pf2:0` envision (healing, necromancy, vitality)  **Frequency** once per day  **Requirements** Your last action was to cast a spell prepared from this grimoire, and the spell removed a harmful condition or affliction from yourself or an ally  **Effect** Choose one creature whose condition was removed by the required spell. That creature gains 1d8 temporary Hit Points that last for 1 hour.  [[Equipment Effects/Effect_ Tome of Restorative Cleansing|Effect: Tome of Restorative Cleansing]]"
+description: "This book is dark blue on the night of the new moon, gradually shifting
+  to bright red as the moon waxes.  * * *  **Activate** `pf2:0` envision (healing,
+  necromancy, vitality)  **Frequency** once per day  **Requirements** Your last action
+  was to cast a spell prepared from this grimoire, and the spell removed a harmful
+  condition or affliction from yourself or an ally  **Effect** Choose one creature
+  whose condition was removed by the required spell. That creature gains 1d8 temporary
+  Hit Points that last for 1 hour.  [[Equipment Effects/Effect_ Tome of Restorative
+  Cleansing|Effect: Tome of Restorative Cleansing]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

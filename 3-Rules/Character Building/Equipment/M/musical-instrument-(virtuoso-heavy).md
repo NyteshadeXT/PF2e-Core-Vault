@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "musical-instrument-(virtuoso-heavy)"
 aliases: "Musical Instrument (Virtuoso heavy)"
 source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Handheld instruments include bagpipes, a small set of chimes, small drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and similarly sized instruments. The GM might rule that an especially large handheld instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums, a full set of chimes, and keyboard instruments are less portable and generally need to be stationary while played.  A virtuoso instrument is more finely made and gives a +1 item bonus to Performance checks using that instrument."
+description: "Handheld instruments include bagpipes, a small set of chimes, small
+  drums, fiddles and viols, flutes and recorders, small harps, lutes, trumpets, and
+  similarly sized instruments. The GM might rule that an especially large handheld
+  instrument (like a tuba) has greater Bulk. Heavy instruments such as large drums,
+  a full set of chimes, and keyboard instruments are less portable and generally need
+  to be stationary while played.  A virtuoso instrument is more finely made and gives
+  a +1 item bonus to Performance checks using that instrument."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

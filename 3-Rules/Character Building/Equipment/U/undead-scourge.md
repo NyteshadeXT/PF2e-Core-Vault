@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "undead-scourge"
 aliases: "Undead Scourge"
@@ -17,7 +17,7 @@ trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-10"
 trait05: "versatile-s"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "An _undead scourge_ is a _+1 striking disrupting dagger_ with a bluish-white metal blade that emits a faint glow. These used to be weapons of Pharasmin undead slayers only, but the slayers have since shared these daggers with the Knights of Lastwall.  * * *  **Activate** `pf2:0` Interact  **Frequency** once per hour  **Trigger** You damage an undead creature with the undead scourge  * * *  **Effect** You disrupt the undead's connection to void energy. For 1 minute, the undead damaged with the dagger can't be healed by void energy unless the effect attempting to heal the undead first counteracts the undead scourge's effect, with a counteract rank of 4 and DC of 25. Vitality energy still has the usual effects on the undead."
+description: "An _undead scourge_ is a _+1 striking disrupting dagger_ with a bluish-white
+  metal blade that emits a faint glow. These used to be weapons of Pharasmin undead
+  slayers only, but the slayers have since shared these daggers with the Knights of
+  Lastwall.  * * *  **Activate** `pf2:0` Interact  **Frequency** once per hour  **Trigger**
+  You damage an undead creature with the undead scourge  * * *  **Effect** You disrupt
+  the undead's connection to void energy. For 1 minute, the undead damaged with the
+  dagger can't be healed by void energy unless the effect attempting to heal the undead
+  first counteracts the undead scourge's effect, with a counteract rank of 4 and DC
+  of 25. Vitality energy still has the usual effects on the undead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +55,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 piercing
 dmg1:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

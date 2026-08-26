@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "searing-suture-(lesser)"
 aliases: "Searing Suture (Lesser)"
 source: "Pathfinder #178: Punks in a Powder Keg"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "fire"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Activating this black powder-infused alchemical bandage cauterizes wounds. You can apply a searing suture to yourself or an adjacent willing creature as you activate it. The target creature takes 1d6 fire damage and can immediately attempt a DC 15 Flat check to remove the persistent bleed damage. When applied against a bleed effect that is lower level than the searing suture, the flat check is automatically successful."
+description: "**Activate** `pf2:1` Interact  * * *  Activating this black powder-infused
+  alchemical bandage cauterizes wounds. You can apply a searing suture to yourself
+  or an adjacent willing creature as you activate it. The target creature takes 1d6
+  fire damage and can immediately attempt a DC 15 Flat check to remove the persistent
+  bleed damage. When applied against a bleed effect that is lower level than the searing
+  suture, the flat check is automatically successful."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

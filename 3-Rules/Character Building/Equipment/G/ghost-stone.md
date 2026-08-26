@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-stone"
 aliases: "Ghost Stone"
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "magical"
-trait02: "unique"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -47,9 +47,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +76,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "returning-starknife"
 aliases: "Returning Starknife"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "thrown-20"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _returning throwing knife_ is specially made for Lyrune-Quah hunters, and its blade is carved with constellations.  **Ribbon Wrap** `pf2:r` (concentrate)  **Frequency** once per hour  **Trigger** You deal damage to a target with the starknife  * * *  **Effect** Silver ribbons of starlight entangle the target, dealing 4d6 spirit damage. This is silver damage for the purposes of weaknesses, resistances, and the like. The target must attempt a DC 24 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage and is [[Conditions/Clumsy|Clumsy 1]].  **Failure** The creature takes full damage and is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure** The creature takes full damage and is [[Conditions/Restrained|Restrained]] with an [[Actions/Escape|Escape]] DC of 24."
+description: "This _returning throwing knife_ is specially made for Lyrune-Quah hunters,
+  and its blade is carved with constellations.  **Ribbon Wrap** `pf2:r` (concentrate)\
+  \  **Frequency** once per hour  **Trigger** You deal damage to a target with the
+  starknife  * * *  **Effect** Silver ribbons of starlight entangle the target, dealing
+  4d6 spirit damage. This is silver damage for the purposes of weaknesses, resistances,
+  and the like. The target must attempt a DC 24 Reflex check save.  * * *  **Critical
+  Success** The creature is unaffected.  **Success** The creature takes half damage
+  and is [[Conditions/Clumsy|Clumsy 1]].  **Failure** The creature takes full damage
+  and is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure**
+  The creature takes full damage and is [[Conditions/Restrained|Restrained]] with
+  an [[Actions/Escape|Escape]] DC of 24."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +57,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

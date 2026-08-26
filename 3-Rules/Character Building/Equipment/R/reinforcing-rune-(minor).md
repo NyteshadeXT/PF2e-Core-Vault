@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reinforcing-rune-(minor)"
 aliases: "Reinforcing Rune (Minor)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "75"
 subvalue: "gp"
 invest:
 usage: "etched onto a shield"
 license: "ORC"
 identify:
-description: "Reinforcing runes make a shield significantly more durable, allowing it to effectively block more powerful attacks.  * * *  The shield's Hardness increases by 3, it gains an additional 44 Hit Points, and its BT increases by 22 (maximum 8 Hardness, 64 HP, and 32 BT)."
+description: "Reinforcing runes make a shield significantly more durable, allowing
+  it to effectively block more powerful attacks.  * * *  The shield's Hardness increases
+  by 3, it gains an additional 44 Hit Points, and its BT increases by 22 (maximum
+  8 Hardness, 64 HP, and 32 BT)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

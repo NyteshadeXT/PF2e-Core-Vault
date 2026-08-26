@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scalding-gauntlets-(greater)"
 aliases: "Scalding Gauntlets (Greater)"
@@ -17,7 +17,7 @@ trait02: "fire"
 trait03: "free-hand"
 trait04: "invested"
 trait05: "magical"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Prized by naari geniekin who prefer to fight with their fists, _greater scalding gauntlets_ are a pair of _+2 greater striking flaming spiked gauntlets_. The intricate golden gauntlets are engraved with Pyric writing praising the glories of the Dominion of Flame and embellished with shimmering black and red gemstones. A creature you grab or restrain while wearing the gauntlets must succeed at a DC 28 Fortitude check save or take 2d6 persistent fire damage and be [[Conditions/Sickened|Sickened 1]] from the pain; it's temporarily immune to being sickened by _scalding gauntlets_ for 1 hour."
+description: "Prized by naari geniekin who prefer to fight with their fists, _greater
+  scalding gauntlets_ are a pair of _+2 greater striking flaming spiked gauntlets_.
+  The intricate golden gauntlets are engraved with Pyric writing praising the glories
+  of the Dominion of Flame and embellished with shimmering black and red gemstones.
+  A creature you grab or restrain while wearing the gauntlets must succeed at a DC
+  28 Fortitude check save or take 2d6 persistent fire damage and be [[Conditions/Sickened|Sickened
+  1]] from the pain; it's temporarily immune to being sickened by _scalding gauntlets_
+  for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d4 piercing
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

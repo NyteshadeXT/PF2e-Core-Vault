@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sharkskin-robe"
 aliases: "Sharkskin Robe"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "water"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "This sandy-textured robe comes with sleeves that resemble dorsal fins. It's believed to have been developed by frustrated alchemists from the Universe for trips to the Plane of Water. The _sharkskin robe_ grants you a swim Speed equal to your land Speed and a +2 item bonus to Athletics checks.  * * *  **Activate—Shark's Elegance** `pf2:2` (concentrate, manipulate)  **Frequency** once per hour  **Effect** For 1 minute, any time you make a Strike, your weapon or unarmed attack gains the benefit of the _underwater_ weapon property rune.  [[Equipment Effects/Effect_ Sharkskin Robe|Effect: Sharkskin Robe]]"
+description: "This sandy-textured robe comes with sleeves that resemble dorsal fins.
+  It's believed to have been developed by frustrated alchemists from the Universe
+  for trips to the Plane of Water. The _sharkskin robe_ grants you a swim Speed equal
+  to your land Speed and a +2 item bonus to Athletics checks.  * * *  **Activate—Shark's
+  Elegance** `pf2:2` (concentrate, manipulate)  **Frequency** once per hour  **Effect**
+  For 1 minute, any time you make a Strike, your weapon or unarmed attack gains the
+  benefit of the _underwater_ weapon property rune.  [[Equipment Effects/Effect_ Sharkskin
+  Robe|Effect: Sharkskin Robe]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

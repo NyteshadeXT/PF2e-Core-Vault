@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-storing-shield-(true)"
 aliases: "Staff-Storing Shield (True)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,22 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "55000"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This magically _reinforced wooden shield_ normally has a blank face. It can absorb a staff and transform between a shield and staff. When you prepare a staff, you can hold it up to the shield, at which point the items will merge, and the shield's face becomes an image corresponding to the type of magic, such as a skull for a staff of necromancy.  * * *  **Activate** `pf2:1` Interact  * * *  **Effect** You change the staff-storing shield from its shield form into the stored staff, which has an image of the shield on it, or change it from the stored staff back into a shield.  * * *      | Hardness | HP | BT | | --- | --- | --- | | 16 | 96 | 48 |"
+description: "This magically _reinforced wooden shield_ normally has a blank face.
+  It can absorb a staff and transform between a shield and staff. When you prepare
+  a staff, you can hold it up to the shield, at which point the items will merge,
+  and the shield's face becomes an image corresponding to the type of magic, such
+  as a skull for a staff of necromancy.  * * *  **Activate** `pf2:1` Interact  * *
+  *  **Effect** You change the staff-storing shield from its shield form into the
+  stored staff, which has an image of the shield on it, or change it from the stored
+  staff back into a shield.  * * *      | Hardness | HP | BT | | --- | --- | --- |
+  | 16 | 96 | 48 |"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

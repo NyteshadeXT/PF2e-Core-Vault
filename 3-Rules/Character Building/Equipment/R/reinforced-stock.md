@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reinforced-stock"
 aliases: "Reinforced Stock"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "attached-to-crossbow-or-firearm"
 trait02: "finesse"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A reinforced stock is a weighted crossbow, firearm haft, or grip customized for striking in melee."
+description: "A reinforced stock is a weighted crossbow, firearm haft, or grip customized
+  for striking in melee."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shauth-blade"
 aliases: "Shauth Blade"
 source: "Pathfinder #165: Eyes of Empty Death"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "deadly-d8"
 trait03: "finesse"
 trait04: "versatile-p"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "These strange curved blades are jagged and deadly weapons made from the alchemically strengthened teeth of dead urdefhans. Each weapon is typically named for the urdefhan whose teeth were forged into the weapon, which are often carried (and revered) by that urdefhan's descendants. Magical shauth blades allow an urdefhan wielder to channel their Wicked Bite ability through shauth blade Strikes."
+description: "These strange curved blades are jagged and deadly weapons made from
+  the alchemically strengthened teeth of dead urdefhans. Each weapon is typically
+  named for the urdefhan whose teeth were forged into the weapon, which are often
+  carried (and revered) by that urdefhan's descendants. Magical shauth blades allow
+  an urdefhan wielder to channel their Wicked Bite ability through shauth blade Strikes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +51,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 slashing
 dmg1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "repeating-crossbow"
 aliases: "Repeating Crossbow"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "repeating"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This crossbow has an internal chamber that can be loaded with up to five bolts. An automated catch mechanism at the top of the flight groove, just in front of the latch, locks the bowstring and launches bolts with the pull of a trigger."
+description: "This crossbow has an internal chamber that can be loaded with up to
+  five bolts. An automated catch mechanism at the top of the flight groove, just in
+  front of the latch, locks the bowstring and launches bolts with the pull of a trigger."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "summoning-handscroll"
 aliases: "Summoning Handscroll"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Classic summoning circles are engraved into the batons of this massive papyrus scroll.  * * *  **Activate** `pf2:0` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to Cast a Spell prepared from this spellbook that summons one or more creatures, you infuse one of the summoned creatures with the spell's energies, causing it to arrive with 10 temporary Hit Points that last for up to 1 minute."
+description: "Classic summoning circles are engraved into the batons of this massive
+  papyrus scroll.  * * *  **Activate** `pf2:0` envision (spellshape)  **Frequency**
+  once per day  * * *  **Effect** If your next action is to Cast a Spell prepared
+  from this spellbook that summons one or more creatures, you infuse one of the summoned
+  creatures with the spell's energies, causing it to arrive with 10 temporary Hit
+  Points that last for up to 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

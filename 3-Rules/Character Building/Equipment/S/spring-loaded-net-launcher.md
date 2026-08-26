@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spring-loaded-net-launcher"
 aliases: "Spring-Loaded Net Launcher"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "gadget"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This small bronze cylinder is about the size of a potion bottle. When you activate the launcher, it fires an unattached net requiring only a single hand, and at a greater distance. As normal, you make a ranged attack roll against a Medium or smaller creature, but you can target a creature up to 60 feet away, instead of only 20 feet away. The net trap otherwise functions as an unattached [[Equipment/Net|Net]]."
+description: "**Activate** `pf2:1` Interact  * * *  This small bronze cylinder is
+  about the size of a potion bottle. When you activate the launcher, it fires an unattached
+  net requiring only a single hand, and at a greater distance. As normal, you make
+  a ranged attack roll against a Medium or smaller creature, but you can target a
+  creature up to 60 feet away, instead of only 20 feet away. The net trap otherwise
+  functions as an unattached [[Equipment/Net|Net]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

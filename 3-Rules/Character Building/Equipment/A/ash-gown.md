@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ash-gown"
 aliases: "Ash Gown"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "fire"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,13 +29,25 @@ invest:
 usage: "wornclothing"
 license: "ORC"
 identify:
-description: "_Ash gowns_ are formal wear spun from smoke, ash, and char collected from the Plane of Fire. Typically, they're voluminous floor-length dresses or three-piece suits, but regardless of their specific tailoring, _ash gowns_ are always an ostentatious display of wealth and loyalty to the powers of the Plane of Fire. They're exceptionally popular in the courts of the Elemental Lords and among the high society of Medina Mudii'a. The gown grants you resistance 5 to fire and a +1 item bonus to [[Skills#Intimidation|Intimidation]] checks."
+description: "_Ash gowns_ are formal wear spun from smoke, ash, and char collected
+  from the Plane of Fire. Typically, they're voluminous floor-length dresses or three-piece
+  suits, but regardless of their specific tailoring, _ash gowns_ are always an ostentatious
+  display of wealth and loyalty to the powers of the Plane of Fire. They're exceptionally
+  popular in the courts of the Elemental Lords and among the high society of Medina
+  Mudii'a. The gown grants you resistance 5 to fire and a +1 item bonus to [[Skills#Intimidation|Intimidation]]
+  checks."
 powerTitle1: "Blazing Promenade"
 actionEconomy1: 2
 type1: "([[manipulate]])"
 frequency1: "once per day"
 trigger1:
-mechanics1: "The _ash gown_ ignites in a ferocious blaze, flames licking the floor and trailing behind you like a dancing cape. You Stride and make a Strike at the end of your movement. During the Stride, your flames incinerate minor obstacles in your path; you ignore non-magical difficult terrain, and any you move through is destroyed. Creatures that are adjacent to you at any point during your movement take `dice: 2d6` 2d6 fire damage with a DC 23 Reflex check save. A creature doesn't need to attempt this save more than once, even if you move past it multiple times."
+mechanics1: "The _ash gown_ ignites in a ferocious blaze, flames licking the floor
+  and trailing behind you like a dancing cape. You Stride and make a Strike at the
+  end of your movement. During the Stride, your flames incinerate minor obstacles
+  in your path; you ignore non-magical difficult terrain, and any you move through
+  is destroyed. Creatures that are adjacent to you at any point during your movement
+  take `dice: 2d6` 2d6 fire damage with a DC 23 Reflex check save. A creature doesn't
+  need to attempt this save more than once, even if you move past it multiple times."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +88,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

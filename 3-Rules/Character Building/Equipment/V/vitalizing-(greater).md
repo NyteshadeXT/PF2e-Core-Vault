@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vitalizing-(greater)"
 aliases: "Vitalizing (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
-weight: 
+weight:
 value: "4300"
 subvalue: "gp"
 invest:
 usage: "etched onto melee weapon"
 license: "ORC"
 identify:
-description: "A _greater vitalizing_ weapon pulses with vital energy, dealing an extra 2d6 persistent vitality damage to undead.  On a critical hit, the undead creature is [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]] as long as it has the persistent damage from this rune."
+description: "A _greater vitalizing_ weapon pulses with vital energy, dealing an extra
+  2d6 persistent vitality damage to undead.  On a critical hit, the undead creature
+  is [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Stupefied|Stupefied 1]]
+  as long as it has the persistent damage from this rune."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

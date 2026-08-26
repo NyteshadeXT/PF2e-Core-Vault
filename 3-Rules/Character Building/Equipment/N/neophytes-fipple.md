@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "neophytes-fipple"
 aliases: "Neophyte's Fipple"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` [[Actions/Perform|Perform]]  **Requirements** You are untrained in Performance.  * * *  Made of polished wood, a neophyte's fipple is a block flute enchanted to guarantee melodic sound. When you Perform a song on the fipple to Activate it, your ability modifier, proficiency bonus, and item bonus for the Performance check total +7, regardless of what they would normally be. Add other bonuses and penalties to the check normally. Once the magic is used, the fipple remains as a mundane instrument."
+description: "**Activate** `pf2:1` [[Actions/Perform|Perform]]  **Requirements** You
+  are untrained in Performance.  * * *  Made of polished wood, a neophyte's fipple
+  is a block flute enchanted to guarantee melodic sound. When you Perform a song on
+  the fipple to Activate it, your ability modifier, proficiency bonus, and item bonus
+  for the Performance check total +7, regardless of what they would normally be. Add
+  other bonuses and penalties to the check normally. Once the magic is used, the fipple
+  remains as a mundane instrument."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

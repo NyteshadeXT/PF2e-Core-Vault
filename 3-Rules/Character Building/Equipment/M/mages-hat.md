@@ -10,11 +10,11 @@ notetype: pf2e-item
 name: "mages-hat"
 aliases: "Mage's Hat"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "arcane"
 trait02: "invested"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,7 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and is adorned with symbols or runes. It grants you a +1 item bonus to Arcana checks and allows you to cast the [[Spells/Prestidigitation|Prestidigitation]] cantrip as an arcane innate cantrip."
+description: "This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and is adorned with symbols or runes. It grants you a +1 item bonus to [[Skills#Arcana|Arcana]] checks and allows you to cast the [[Prestidigitation]] cantrip as an arcane innate cantrip."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -78,3 +78,7 @@ weaponBase:
 armorBase:
 
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

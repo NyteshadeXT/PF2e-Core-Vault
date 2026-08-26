@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "taletellers-ring"
 aliases: "Taleteller's Ring"
@@ -15,21 +15,28 @@ rarity: ""
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "wornring"
 license: "ORC"
 identify:
-description: "Smiling faces are inscribed about this silver band. You become a fluent weaver of fictions, gaining a +2 item bonus to Deception checks to [[Actions/Lie|Lie]], Deception DCs against [[Actions/Sense Motive|Sense Motive]], and Performance checks for storytelling. Whenever you're under suspicion or being questioned by an authority figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing that they make you look guilty even when you're innocent. The ring's bonuses vanish, and any listener can quickly determine you're lying. Nevertheless, you're completely unable to be honest in such situations."
+description: "Smiling faces are inscribed about this silver band. You become a fluent
+  weaver of fictions, gaining a +2 item bonus to Deception checks to [[Actions/Lie|Lie]],
+  Deception DCs against [[Actions/Sense Motive|Sense Motive]], and Performance checks
+  for storytelling. Whenever you're under suspicion or being questioned by an authority
+  figure, you find yourself compulsively spinning absurd, tall tales that are so unconvincing
+  that they make you look guilty even when you're innocent. The ring's bonuses vanish,
+  and any listener can quickly determine you're lying. Nevertheless, you're completely
+  unable to be honest in such situations."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

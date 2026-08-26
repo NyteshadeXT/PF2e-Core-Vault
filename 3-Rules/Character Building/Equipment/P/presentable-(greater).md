@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "presentable-(greater)"
 aliases: "Presentable (Greater)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "900"
 subvalue: "gp"
 invest:
 usage: "applied to any visible article of clothing"
 license: "ORC"
 identify:
-description: "A garment with this rune is always clean, as though it had just been affected by [[Spells/Prestidigitation|Prestidigitation]]. You gain a +2 item bonus to [[Actions/Make an Impression|Make an Impression]] on those who would be impressed by a particular _presentable_ outfit while wearing this garment.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Suggestion|Suggestion]]."
+description: "A garment with this rune is always clean, as though it had just been
+  affected by [[Spells/Prestidigitation|Prestidigitation]]. You gain a +2 item bonus
+  to [[Actions/Make an Impression|Make an Impression]] on those who would be impressed
+  by a particular _presentable_ outfit while wearing this garment.  * * *  **Activate**
+  `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You cast
+  [[Spells/Suggestion|Suggestion]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "twigjack-sack-(lesser)"
 aliases: "Twigjack Sack (Lesser)"
 source: "Pathfinder #175: Broken Tusk Moon"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Sharp, flexible brambles poke from this sack made of intricately intertwined plant fibers. The sack's contents creak under the strain of the tightly compressed bundle.  When thrown, a twigjack sack bursts open, spraying brambles in all directions that gouge and slash nearby creatures. A twigjack sack deals the listed piercing damage, persistent bleed damage, and splash damage.  The bomb deals 1d6 piercing damage, 1 persistent bleed damage, and 1 piercing splash damage."
+description: "**Activate** `pf2:1` Strike  * * *  Sharp, flexible brambles poke from
+  this sack made of intricately intertwined plant fibers. The sack's contents creak
+  under the strain of the tightly compressed bundle.  When thrown, a twigjack sack
+  bursts open, spraying brambles in all directions that gouge and slash nearby creatures.
+  A twigjack sack deals the listed piercing damage, persistent bleed damage, and splash
+  damage.  The bomb deals 1d6 piercing damage, 1 persistent bleed damage, and 1 piercing
+  splash damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

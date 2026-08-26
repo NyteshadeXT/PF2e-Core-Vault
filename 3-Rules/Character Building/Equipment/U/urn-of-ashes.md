@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "urn-of-ashes"
 aliases: "Urn of Ashes"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "void"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,25 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "700"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.  **Activate—Doom the Urn** `pf2:r` (concentrate)  **Trigger** You would become [[Conditions/Doomed|Doomed]], or your doomed value would increase  **Requirements** The ashes aren't doomed  * * *  **Effect** The ashes in the urn intervene, taking the doomed condition in your place, and you don't gain or increase the value of your doomed condition. Each night when you get a full night's rest, you can reduce your own doomed condition or that of the urn, but not both.  * * *  **Activate—Spirit's Wrath** `pf2:1` (attack, concentrate, manipulate)  **Frequency** once per round  * * *  **Effect** The urn shoots a bolt of void energy at a foe within 30 feet. Attempt a spell attack roll against the target's AC, using a modifier of +15 or your own spell attack modifier, whichever is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success)."
+description: "This sealed pewter urn contains the ashes of a benevolent ancestor,
+  with a sliver of lingering spirit that strives to protect you.  **Activate—Doom
+  the Urn** `pf2:r` (concentrate)  **Trigger** You would become [[Conditions/Doomed|Doomed]],
+  or your doomed value would increase  **Requirements** The ashes aren't doomed  *
+  * *  **Effect** The ashes in the urn intervene, taking the doomed condition in your
+  place, and you don't gain or increase the value of your doomed condition. Each night
+  when you get a full night's rest, you can reduce your own doomed condition or that
+  of the urn, but not both.  * * *  **Activate—Spirit's Wrath** `pf2:1` (attack, concentrate,
+  manipulate)  **Frequency** once per round  * * *  **Effect** The urn shoots a bolt
+  of void energy at a foe within 30 feet. Attempt a spell attack roll against the
+  target's AC, using a modifier of +15 or your own spell attack modifier, whichever
+  is higher. On a success, the bolt deals 4d4 void damage (doubled on a critical success)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

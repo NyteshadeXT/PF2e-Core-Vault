@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "portable-weapon-mount-(shielded-tripod)"
 aliases: "Portable Weapon Mount (Shielded Tripod)"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Powerful firearms like the arquebus were originally used to defend fortifications or ships, mounted on casements or pintles to steady their aim and offset their recoil. More mobile means of stabilizing weapons with kickback were developed as firearms began to spread across the Inner Sea. The standard tripod takes an Interact action to deploy using one hand.  A shielded tripod resembles a squat shield on a tripod. You can deploy and retrieve a shielded tripod with an Interact action, as normal, but while a shielded tripod is in your square, you can use the [[Actions/Take Cover|Take Cover]] action to gain standard cover behind the tripod's shield. You can't use this cover to Hide or [[Actions/Sneak|Sneak]], as normal for times when your cover still leaves your position obvious."
+description: "Powerful firearms like the arquebus were originally used to defend fortifications
+  or ships, mounted on casements or pintles to steady their aim and offset their recoil.
+  More mobile means of stabilizing weapons with kickback were developed as firearms
+  began to spread across the Inner Sea. The standard tripod takes an Interact action
+  to deploy using one hand.  A shielded tripod resembles a squat shield on a tripod.
+  You can deploy and retrieve a shielded tripod with an Interact action, as normal,
+  but while a shielded tripod is in your square, you can use the [[Actions/Take Cover|Take
+  Cover]] action to gain standard cover behind the tripod's shield. You can't use
+  this cover to Hide or [[Actions/Sneak|Sneak]], as normal for times when your cover
+  still leaves your position obvious."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

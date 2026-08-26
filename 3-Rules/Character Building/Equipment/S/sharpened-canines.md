@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sharpened-canines"
 aliases: "Sharpened Canines"
@@ -15,21 +15,23 @@ rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "50"
 subvalue: "gp"
 invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "Some of your teeth have been replaced with those of a larger meat-eating predator. You gain a jaws unarmed attack that deals 1d6 piercing damage. These jaws are in the brawling group."
+description: "Some of your teeth have been replaced with those of a larger meat-eating
+  predator. You gain a jaws unarmed attack that deals 1d6 piercing damage. These jaws
+  are in the brawling group."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

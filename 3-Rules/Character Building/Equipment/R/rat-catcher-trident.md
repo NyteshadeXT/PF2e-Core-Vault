@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rat-catcher-trident"
 aliases: "Rat-Catcher Trident"
 source: "Pathfinder Lost Omens Gods & Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "thrown-20"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The haft of this +2 striking trident is carved with intricate designs of swarming rodents sacred to Hanspur, the drowned god of the Sellen River.  When used against a swarm, it ignores the swarm's resistance to piercing damage, if any.  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** While floating down a river on a raft or boat, you plunge the _rat-catcher trident_ into the water. The trident casts a 5th-rank [[Spells/Control Water|Control Water]] spell on the body of water."
+description: "The haft of this +2 striking trident is carved with intricate designs
+  of swarming rodents sacred to Hanspur, the drowned god of the Sellen River.  When
+  used against a swarm, it ignores the swarm's resistance to piercing damage, if any.\
+  \  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect**
+  While floating down a river on a raft or boat, you plunge the _rat-catcher trident_
+  into the water. The trident casts a 5th-rank [[Spells/Control Water|Control Water]]
+  spell on the body of water."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +53,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d8 piercing
 dmg1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "navigators-star"
 aliases: "Navigator's Star"
@@ -15,21 +15,24 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "18"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "A star inked on the back of the hand, usually between the thumb and forefinger, keeps you on the right path.  **Activate** `pf2:2` envision, Interact  * * *  **Effect** As you hold up your hand and align the star in view, you learn which direction you're facing."
+description: "A star inked on the back of the hand, usually between the thumb and
+  forefinger, keeps you on the right path.  **Activate** `pf2:2` envision, Interact\
+  \  * * *  **Effect** As you hold up your hand and align the star in view, you learn
+  which direction you're facing."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

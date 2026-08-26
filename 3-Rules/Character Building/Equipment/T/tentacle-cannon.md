@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tentacle-cannon"
 aliases: "Tentacle Cannon"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "capacity-5"
 trait02: "concussive"
 trait03: "fatal-d12"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,31 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "A _tentacle cannon_ is a _+1 striking_ weapon, built using components from squids, krakens, and sometimes even stranger tentacled creatures like alghollthu. It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the capacity 5, concussive, and fatal d12 traits, a range increment of 30 feet, and reload 2. The weapon itself resembles a five-barreled handheld cannon with each barrel made from a hollowed out tentacle.  * * *  **Activate—Grasping Deep Shot** `pf2:2` (manipulate)  **Effect** You cause one of the tentacles forming the weapon's five barrels to stretch out and attempt to pull and grab a creature within 15 feet. The tentacle attempts to [[Actions/Grapple|Grapple]] with a +13 bonus. It can attempt to Grapple any creature, regardless of size. On a success, the tentacle pulls the creature up to 10 feet directly towards you, until it's in a square adjacent to you.  * * *  **Activate—Unrelenting Grasp** `pf2:1` Interact  **Requirements** The tentacle cannon has a creature [[Conditions/Grabbed|Grabbed]]  **Effect** You continue to keep the tentacle cannon's hold on one creature it has grabbed. Attempt another check to [[Actions/Grapple|Grapple]] the creature with a +13 bonus.  * * *  **Activate—Ink Spray** `pf2:2` Interact  **Frequency** once per hour  **Effect** The cannon fires a spray of ink in a 15-foot cone. Creatures in the area must attempt a DC 23 Reflex check save. On a failure, the creature is covered in ink and becomes [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Dazzled|Dazzled]] for 1 minute or until it removes the ink. On a critical failure, the creature becomes blinded and dazzled; both conditions last for 1 minute or until it removes the ink. The creature, or an adjacent creature, can use an Interact action to remove the ink from its eyes to remove the blinded and dazzled conditions.  * * *  **Craft Requirements** The initial raw materials must include the tentacles and ink glands of a creature with a tentacle Strike and ink."
+description: "A _tentacle cannon_ is a _+1 striking_ weapon, built using components
+  from squids, krakens, and sometimes even stranger tentacled creatures like alghollthu.
+  It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the
+  capacity 5, concussive, and fatal d12 traits, a range increment of 30 feet, and
+  reload 2. The weapon itself resembles a five-barreled handheld cannon with each
+  barrel made from a hollowed out tentacle.  * * *  **Activate—Grasping Deep Shot**
+  `pf2:2` (manipulate)  **Effect** You cause one of the tentacles forming the weapon's
+  five barrels to stretch out and attempt to pull and grab a creature within 15 feet.
+  The tentacle attempts to [[Actions/Grapple|Grapple]] with a +13 bonus. It can attempt
+  to Grapple any creature, regardless of size. On a success, the tentacle pulls the
+  creature up to 10 feet directly towards you, until it's in a square adjacent to
+  you.  * * *  **Activate—Unrelenting Grasp** `pf2:1` Interact  **Requirements** The
+  tentacle cannon has a creature [[Conditions/Grabbed|Grabbed]]  **Effect** You continue
+  to keep the tentacle cannon's hold on one creature it has grabbed. Attempt another
+  check to [[Actions/Grapple|Grapple]] the creature with a +13 bonus.  * * *  **Activate—Ink
+  Spray** `pf2:2` Interact  **Frequency** once per hour  **Effect** The cannon fires
+  a spray of ink in a 15-foot cone. Creatures in the area must attempt a DC 23 Reflex
+  check save. On a failure, the creature is covered in ink and becomes [[Conditions/Blinded|Blinded]]
+  for 1 round and [[Conditions/Dazzled|Dazzled]] for 1 minute or until it removes
+  the ink. On a critical failure, the creature becomes blinded and dazzled; both conditions
+  last for 1 minute or until it removes the ink. The creature, or an adjacent creature,
+  can use an Interact action to remove the ink from its eyes to remove the blinded
+  and dazzled conditions.  * * *  **Craft Requirements** The initial raw materials
+  must include the tentacles and ink glands of a creature with a tentacle Strike and
+  ink."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +100,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

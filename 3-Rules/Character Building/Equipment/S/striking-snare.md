@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "striking-snare"
 aliases: "Striking Snare"
@@ -16,20 +16,23 @@ trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "75"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You affix a trip line or other trigger to a group of either stones or wooden stakes to strike a creature that enters the snare's square. The creature must attempt a DC 26 Reflex check saving throw. If you choose stones, the snare deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage."
+description: "You affix a trip line or other trigger to a group of either stones or
+  wooden stakes to strike a creature that enters the snare's square. The creature
+  must attempt a DC 26 Reflex check saving throw. If you choose stones, the snare
+  deals 9d8 bludgeoning damage; if you choose spikes, it deals 9d8 piercing damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

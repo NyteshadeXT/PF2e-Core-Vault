@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-electricity-resistance-(lesser)"
 aliases: "Potion of Electricity Resistance (Lesser)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this thick, fortifying potion grants resistance 5 against electrical damage for 1 hour.  [[Equipment Effects/Effect_ Potion of Electricity Resistance|Effect: Potion of Electricity Resistance]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this thick, fortifying
+  potion grants resistance 5 against electrical damage for 1 hour.  [[Equipment Effects/Effect_
+  Potion of Electricity Resistance|Effect: Potion of Electricity Resistance]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "refined-pesh"
 aliases: "Refined Pesh"
@@ -18,7 +18,7 @@ trait03: "drug"
 trait04: "ingested"
 trait05: "inhaled"
 trait06: "poison"
-trait07: "common"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When eaten or smoked, pesh gives users a sense of well-being, sometimes with hallucinations, aggression, and exhaustion.  * * *  **Activate** `pf2:1` Interact (Ingested, Inhaled)  **Saving Throw** DC 12 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 hours  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)  **Stage 2** 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, [[Conditions/Clumsy|Clumsy 1]], and stupefied 1 (1 minute)  **Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 hour)"
+description: "When eaten or smoked, pesh gives users a sense of well-being, sometimes
+  with hallucinations, aggression, and exhaustion.  * * *  **Activate** `pf2:1` Interact
+  (Ingested, Inhaled)  **Saving Throw** DC 12 Fortitude check  **Onset** 1 minute\
+  \  **Maximum Duration** 6 hours  **Stage 1** [[Conditions/Stupefied|Stupefied 1]]
+  and a +2 item bonus to saves versus fear effects (1 minute)  **Stage 2** 1 temporary
+  Hit Point per level (first time you reach this stage only), +2 item bonus to saves
+  versus fear effects, [[Conditions/Clumsy|Clumsy 1]], and stupefied 1 (1 minute)\
+  \  **Stage 3** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied
+  2]] (1 hour)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

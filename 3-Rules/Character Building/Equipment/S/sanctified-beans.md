@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sanctified-beans"
 aliases: "Sanctified Beans"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "divine"
 trait03: "magical"
 trait04: "vitality"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,20 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  * * *  These roasted soybeans are blessed by a priest to ward against all various forms of otherworldly influence but are most effective against incorporeal evils, such as specters or path maidens. They can be safely eaten by living creatures and taste delicious when paired with rice wine. When you activate this item, choose an adjacent square to exhale into. You fill that square with soothing vapors that harm any fiend, fey, ghost, spirit, or undead creature that ends their turn in that square for the next minute, causing them to take 4d8+4 spirit (holy) damage (DC 28 Will check save). An incorporeal creature that takes this damage must also attempt a DC 28 Fortitude check save to resist being affected as follows.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.  **Failure** The creature becomes [[Conditions/Slowed|Slowed 1]] for 1 round.  **Critical Failure** The creature becomes [[Conditions/Stunned|Stunned 1]] and is then slowed 1 for 1 round."
+description: "**Activate** `pf2:2` Interact  * * *  These roasted soybeans are blessed
+  by a priest to ward against all various forms of otherworldly influence but are
+  most effective against incorporeal evils, such as specters or path maidens. They
+  can be safely eaten by living creatures and taste delicious when paired with rice
+  wine. When you activate this item, choose an adjacent square to exhale into. You
+  fill that square with soothing vapors that harm any fiend, fey, ghost, spirit, or
+  undead creature that ends their turn in that square for the next minute, causing
+  them to take 4d8+4 spirit (holy) damage (DC 28 Will check save). An incorporeal
+  creature that takes this damage must also attempt a DC 28 Fortitude check save to
+  resist being affected as follows.  * * *  **Critical Success** The creature is unaffected.\
+  \  **Success** The creature becomes [[Conditions/Off-Guard|Off-Guard]] until the
+  start of your next turn.  **Failure** The creature becomes [[Conditions/Slowed|Slowed
+  1]] for 1 round.  **Critical Failure** The creature becomes [[Conditions/Stunned|Stunned
+  1]] and is then slowed 1 for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

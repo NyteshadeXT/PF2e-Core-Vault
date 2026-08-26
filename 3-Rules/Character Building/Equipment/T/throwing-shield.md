@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "throwing-shield"
 aliases: "Throwing Shield"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "adjustment"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "5"
 subvalue: "gp"
 invest:
 usage: "applied to buckler shield"
 license: "ORC"
 identify:
-description: "These special straps and weightings fit over a shield or buckler, but not a tower shield. They are designed to let you doff and throw the shield in one swift movement. You can quickly remove the shield by spending a free action as part of the Strike to throw the shield. When thrown in this way, the shield is a martial thrown weapon that deals 1d6 bludgeoning damage and has the thrown 20 feet trait. A shield with the throwing shield attachment can't have any attached weapons, such as shield spikes or a shield boss, and the adjustments to make it more aerodynamic make it slightly less sturdy, reducing its Hardness by 1."
+description: "These special straps and weightings fit over a shield or buckler, but
+  not a tower shield. They are designed to let you doff and throw the shield in one
+  swift movement. You can quickly remove the shield by spending a free action as part
+  of the Strike to throw the shield. When thrown in this way, the shield is a martial
+  thrown weapon that deals 1d6 bludgeoning damage and has the thrown 20 feet trait.
+  A shield with the throwing shield attachment can't have any attached weapons, such
+  as shield spikes or a shield boss, and the adjustments to make it more aerodynamic
+  make it slightly less sturdy, reducing its Hardness by 1."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

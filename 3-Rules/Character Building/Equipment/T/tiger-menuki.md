@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tiger-menuki"
 aliases: "Tiger Menuki"
@@ -15,21 +15,25 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "30"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You Strike with the affixed weapon  * * *  This tiger formed of pewter snarls viciously from your weapon's grip. When you activate the tiger, the weapon gains the forceful and sweep traits on the triggering Strike and all other Strikes for 1 minute.  [[Equipment Effects/Effect_ Tiger Menuki|Effect: Tiger Menuki]]"
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You Strike with the
+  affixed weapon  * * *  This tiger formed of pewter snarls viciously from your weapon's
+  grip. When you activate the tiger, the weapon gains the forceful and sweep traits
+  on the triggering Strike and all other Strikes for 1 minute.  [[Equipment Effects/Effect_
+  Tiger Menuki|Effect: Tiger Menuki]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

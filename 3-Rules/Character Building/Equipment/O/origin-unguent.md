@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "origin-unguent"
 aliases: "Origin Unguent"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This shimmering, violet unguent forms mild chemical bonds between objects with a matching composition. You apply the adhesive to two objects, or to an object and a creature. You can check if the two share an origin (such as if they were broken from the same whole, or if a poison sample or body part came from the same creature) by holding them together with the unguent between; if they match, the unguent becomes sticky."
+description: "**Activate** `pf2:1` Interact  This shimmering, violet unguent forms
+  mild chemical bonds between objects with a matching composition. You apply the adhesive
+  to two objects, or to an object and a creature. You can check if the two share an
+  origin (such as if they were broken from the same whole, or if a poison sample or
+  body part came from the same creature) by holding them together with the unguent
+  between; if they match, the unguent becomes sticky."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

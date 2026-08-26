@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "menacing-(greater)"
 aliases: "Menacing (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "900"
 subvalue: "gp"
 invest:
 usage: "applied to any visible article of clothing"
 license: "ORC"
 identify:
-description: "Common among brutes who use the magic to scare others into compliance, menacing runes lend you a formidable appearance, granting you a +2 item bonus to Intimidation checks to [[Actions/Coerce|Coerce]] others.  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** The rune casts a 3rd-rank [[Spells/Fear|Fear]]spell (DC 25)."
+description: "Common among brutes who use the magic to scare others into compliance,
+  menacing runes lend you a formidable appearance, granting you a +2 item bonus to
+  Intimidation checks to [[Actions/Coerce|Coerce]] others.  **Activate** `pf2:2` command,
+  Interact  **Frequency** once per day  * * *  **Effect** The rune casts a 3rd-rank
+  [[Spells/Fear|Fear]]spell (DC 25)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

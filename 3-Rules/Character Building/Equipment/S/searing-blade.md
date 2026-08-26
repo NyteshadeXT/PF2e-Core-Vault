@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "searing-blade"
 aliases: "Searing Blade"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "fire"
 trait02: "magical"
 trait03: "versatile-p"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+2 greater striking [[Equipment/Flaming|Flaming]] longsword_ has an ornate brass hilt and a blade shaped like stylized flames. When wielded, the blade projects illumination resembling shimmering firelight, emitting dim light in a 10-foot radius.  **Activate—Shoot Fire** `pf2:2` (concentrate, manipulate)  * * *  **Effect** You cast the [[Spells/Ignition|Ignition]] cantrip from the sword as a 7th-rank arcane spell, using your melee attack modifier with _searing blade_ as your spell attack modifier."
+description: "This _+2 greater striking [[Equipment/Flaming|Flaming]] longsword_ has
+  an ornate brass hilt and a blade shaped like stylized flames. When wielded, the
+  blade projects illumination resembling shimmering firelight, emitting dim light
+  in a 10-foot radius.  **Activate—Shoot Fire** `pf2:2` (concentrate, manipulate)\
+  \  * * *  **Effect** You cast the [[Spells/Ignition|Ignition]] cantrip from the
+  sword as a 7th-rank arcane spell, using your melee attack modifier with _searing
+  blade_ as your spell attack modifier."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +53,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d8 slashing
 dmg1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

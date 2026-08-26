@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sticky-algae-bomb-(lesser)"
 aliases: "Sticky Algae Bomb (Lesser)"
@@ -17,7 +17,7 @@ trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
 trait05: "water"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  These bombs have been mixed with sticky algae that glow and emit poison. Attacks with this bomb don't take the normal penalties and restrictions for being used in water or underwater. The bomb deals 1d8 poison damage and 1 poison splash damage. In addition, the target is tagged by the bioluminescent substance and leaves a highly visible trail for the next hour. The DC to [[Actions/Track|Track]] a creature using this trail is 19, but the trail appears only in water."
+description: "**Activate** `pf2:1` Strike  * * *  These bombs have been mixed with
+  sticky algae that glow and emit poison. Attacks with this bomb don't take the normal
+  penalties and restrictions for being used in water or underwater. The bomb deals
+  1d8 poison damage and 1 poison splash damage. In addition, the target is tagged
+  by the bioluminescent substance and leaves a highly visible trail for the next hour.
+  The DC to [[Actions/Track|Track]] a creature using this trail is 19, but the trail
+  appears only in water."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

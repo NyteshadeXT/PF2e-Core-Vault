@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-air"
 aliases: "Staff of Air"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Carved from white ash wood, a _staff of air_ crackles with electrical sparks, and a breeze always follows the wielder. While wielding a staff of air, you feel lighter on your feet, and you can Step into difficult terrain once per round.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gale Blast|Gale Blast]] *   **1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gust of Wind|Gust of Wind]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+description: "Carved from white ash wood, a _staff of air_ crackles with electrical
+  sparks, and a breeze always follows the wielder. While wielding a staff of air,
+  you feel lighter on your feet, and you can Step into difficult terrain once per
+  round.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number
+  of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Gale
+  Blast|Gale Blast]] *   **1st** [[Spells/Air Bubble|Air Bubble]], [[Spells/Gust of
+  Wind|Gust of Wind]]  * * *  **Craft Requirements** Supply one casting of all listed
+  levels of all listed spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

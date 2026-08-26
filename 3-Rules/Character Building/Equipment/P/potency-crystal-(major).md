@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potency-crystal-(major)"
 aliases: "Potency Crystal (Major)"
@@ -15,21 +15,26 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 15
-weight: 
+weight:
 value: "1300"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You make an attack with the affixed weapon, but you haven't rolled yet  * * *  This fluorite crystal glows with a strange phosphorescence. When you activate the crystal, the weapon becomes a _+3 major striking weapon_ on the Strike and until the end of this turn, gaining a +3 item bonus to the attack roll and increasing the damage to four weapon damage dice.  [[Equipment Effects/Effect_ Potency Crystal|Effect: Potency Crystal]]"
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You make an attack with
+  the affixed weapon, but you haven't rolled yet  * * *  This fluorite crystal glows
+  with a strange phosphorescence. When you activate the crystal, the weapon becomes
+  a _+3 major striking weapon_ on the Strike and until the end of this turn, gaining
+  a +3 item bonus to the attack roll and increasing the damage to four weapon damage
+  dice.  [[Equipment Effects/Effect_ Potency Crystal|Effect: Potency Crystal]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

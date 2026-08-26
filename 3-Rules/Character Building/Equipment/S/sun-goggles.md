@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sun-goggles"
 aliases: "Sun Goggles"
 source: "Pathfinder NPC Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "20"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These goggles are usually fitted with a polished piece of yellowtoned crystal, allowing the wearer some protection against the brightness of the sun. Near the Crown of the World, a version of these goggles exists where the crystal is replaced by thin slits, mitigating the effects of the sun's reflection on snow.  When wearing these goggles, you gain a +1 item bonus to saving throws against effects that could inflict the [[Conditions/Dazzled|Dazzled]] condition."
+description: "These goggles are usually fitted with a polished piece of yellowtoned
+  crystal, allowing the wearer some protection against the brightness of the sun.
+  Near the Crown of the World, a version of these goggles exists where the crystal
+  is replaced by thin slits, mitigating the effects of the sun's reflection on snow.\
+  \  When wearing these goggles, you gain a +1 item bonus to saving throws against
+  effects that could inflict the [[Conditions/Dazzled|Dazzled]] condition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

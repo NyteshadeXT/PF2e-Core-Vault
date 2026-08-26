@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-spell-turning"
 aliases: "Ring of Spell Turning"
 source: "Pathfinder Core Rulebook"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "67000"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This golden ring has three diamonds set into its face.  **Activate** `pf2:r` envision  **Trigger** You are targeted by a spell  * * *  **Effect** The ring replicates the effects of an 8th-rank [[Spells/Spell Turning|Spell Turning]] with a counteract modifier of 1d20+35, possibly causing the triggering spell to reflect back on its caster.  The ring can reflect no more than 9 total ranks of spells per day. If you activate the ring to reflect a spell that would exceed this limit, the attempt fails, but the attempted usage of the ring does not count toward the daily limit."
+description: "This golden ring has three diamonds set into its face.  **Activate**
+  `pf2:r` envision  **Trigger** You are targeted by a spell  * * *  **Effect** The
+  ring replicates the effects of an 8th-rank [[Spells/Spell Turning|Spell Turning]]
+  with a counteract modifier of 1d20+35, possibly causing the triggering spell to
+  reflect back on its caster.  The ring can reflect no more than 9 total ranks of
+  spells per day. If you activate the ring to reflect a spell that would exceed this
+  limit, the attempt fails, but the attempted usage of the ring does not count toward
+  the daily limit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "repeating-hand-crossbow"
 aliases: "Repeating Hand Crossbow"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "repeating"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This handheld crossbow features an ingeniously designed catch mechanism at the top of the flight groove, just in front of the latch, which automatically loads a bolt from a magazine and resets the string each time the weapon is fired. A typical repeating hand crossbow magazine holds five bolts."
+description: "This handheld crossbow features an ingeniously designed catch mechanism
+  at the top of the flight groove, just in front of the latch, which automatically
+  loads a bolt from a magazine and resets the string each time the weapon is fired.
+  A typical repeating hand crossbow magazine holds five bolts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

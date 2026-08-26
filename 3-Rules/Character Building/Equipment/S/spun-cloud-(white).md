@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spun-cloud-(white)"
 aliases: "Spun Cloud (White)"
@@ -16,7 +16,7 @@ trait01: "air"
 trait02: "bottled-breath"
 trait03: "consumable"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  On the Elemental Plane of Air, small clouds of differing colors can sometimes float separately from other cloud formations. Clever people can spin these clouds into small handfuls, creating a magical bundle of elemental power. Unlike most bottled breath, _spun clouds_ don't have any effect on you while you hold them in your lungs, but you can exhale the cloud as a single action. When exhaled, the cloud flows out and expands into a 20-foot burst within 60 feet of you. The cloud dissipates after 1 minute.  A white cloud swirls with winds that speed up travel. A creature that starts its turn in the cloud gains a +10-foot item bonus to its land Speed and fly Speed (if it has one) until the end of its turn.  [[Equipment Effects/Effect_ Spun Cloud (White)|Effect: Spun Cloud (White)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  On the Elemental Plane of
+  Air, small clouds of differing colors can sometimes float separately from other
+  cloud formations. Clever people can spin these clouds into small handfuls, creating
+  a magical bundle of elemental power. Unlike most bottled breath, _spun clouds_ don't
+  have any effect on you while you hold them in your lungs, but you can exhale the
+  cloud as a single action. When exhaled, the cloud flows out and expands into a 20-foot
+  burst within 60 feet of you. The cloud dissipates after 1 minute.  A white cloud
+  swirls with winds that speed up travel. A creature that starts its turn in the cloud
+  gains a +10-foot item bonus to its land Speed and fly Speed (if it has one) until
+  the end of its turn.  [[Equipment Effects/Effect_ Spun Cloud (White)|Effect: Spun
+  Cloud (White)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

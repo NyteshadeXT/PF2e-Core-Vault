@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shuan-ji"
 aliases: "Shuan Ji"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "backswing"
 trait02: "forceful"
 trait03: "reach"
 trait04: "versatile-p"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The shuan ji is a polearm featuring a long spear point on one end and two crescent-shaped blades that allow the wielder to strike with either side of the weapon."
+description: "The shuan ji is a polearm featuring a long spear point on one end and
+  two crescent-shaped blades that allow the wielder to strike with either side of
+  the weapon."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "red-thread-knot"
 aliases: "Red Thread Knot"
 source: "Pathfinder #197: Let the Leaves Fall"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "360"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This small length of red thread is knotted six times, with a loop at each end so it can either be worn as a bracelet or anklet, or hung from a strap.  * * *  **Activate** `pf2:r` envision  **Trigger** You critically fail a save  **Effect** The knot unties one of its six knots, altering your fate in the process. Treat your saving throw as if you failed the check rather than critically failed the check. This is a fortune effect. Once the sixth knot unties, it becomes a non-magical red thread."
+description: "This small length of red thread is knotted six times, with a loop at
+  each end so it can either be worn as a bracelet or anklet, or hung from a strap.\
+  \  * * *  **Activate** `pf2:r` envision  **Trigger** You critically fail a save\
+  \  **Effect** The knot unties one of its six knots, altering your fate in the process.
+  Treat your saving throw as if you failed the check rather than critically failed
+  the check. This is a fortune effect. Once the sixth knot unties, it becomes a non-magical
+  red thread."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

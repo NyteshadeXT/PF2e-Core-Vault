@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "taljjae-tassel"
 aliases: "Taljjae Tassel"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "160"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed weapon was a critical success.  * * *  The bright red tassels of the creature known as Taljjae are a ubiquitous motif in Hwanggot and are used as charms to pray for good fortune and reward for great effort. They adorn clothing, weapons, and even drinking gourds. These particular tassels carry within them a potent fraction of the mysterious fey's power. When you activate a Taljjae tassel, your weapon gains the properties of the [[Equipment/Grievous|Grievous]] rune for the duration of the triggering attack."
+description: "**Activate** `pf2:0` envision  **Trigger** Your Strike with the affixed
+  weapon was a critical success.  * * *  The bright red tassels of the creature known
+  as Taljjae are a ubiquitous motif in Hwanggot and are used as charms to pray for
+  good fortune and reward for great effort. They adorn clothing, weapons, and even
+  drinking gourds. These particular tassels carry within them a potent fraction of
+  the mysterious fey's power. When you activate a Taljjae tassel, your weapon gains
+  the properties of the [[Equipment/Grievous|Grievous]] rune for the duration of the
+  triggering attack."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

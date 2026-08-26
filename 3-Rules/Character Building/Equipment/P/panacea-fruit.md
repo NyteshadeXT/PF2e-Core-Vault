@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "panacea-fruit"
 aliases: "Panacea Fruit"
 source: "Pathfinder #156: The Apocalypse Prophet"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "healing"
 trait03: "primal"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This fruit is slowly, constantly changing shape, transforming from one fruit into another, but always appearing at the peak of ripeness.  When you consume the fruit, it attempts to counteract all curses, diseases, and poisons affecting you, and you immediately regain 8d8+30 Hit Points. The fruit has a counteract rank of 9 and a 1d20+30 modifier for the rolls against each condition.  The fruit's seed remains after consumption and can be planted later, becoming a seed-shaped [[Equipment/Feather Token (Tree)|Feather Token (Tree)]] that sprouts a tree bearing many kinds of mundane fruit."
+description: "This fruit is slowly, constantly changing shape, transforming from one
+  fruit into another, but always appearing at the peak of ripeness.  When you consume
+  the fruit, it attempts to counteract all curses, diseases, and poisons affecting
+  you, and you immediately regain 8d8+30 Hit Points. The fruit has a counteract rank
+  of 9 and a 1d20+30 modifier for the rolls against each condition.  The fruit's seed
+  remains after consumption and can be planted later, becoming a seed-shaped [[Equipment/Feather
+  Token (Tree)|Feather Token (Tree)]] that sprouts a tree bearing many kinds of mundane
+  fruit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

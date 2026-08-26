@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "persistent-lodestone"
 aliases: "Persistent Lodestone"
@@ -15,21 +15,26 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "55"
 subvalue: "gp"
 invest:
 usage: "affixed to firearm with a reload of 1"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a firearm with a reload of 1  **Activate** `pf2:0` (concentrate)  **Trigger** You miss on a ranged Strike with the affixed weapon using an ordinary 0-level piece of ammunition.  * * *  This small magnetite block is attached to the barrel of the firearm by a thin metal wire drilled through a hole in its center. When you activate the lodestone, the ammunition from your missed shot is immediately recalled to your firearm, allowing you to fire again without reloading."
+description: "**Usage** affixed to a firearm with a reload of 1  **Activate** `pf2:0`
+  (concentrate)  **Trigger** You miss on a ranged Strike with the affixed weapon using
+  an ordinary 0-level piece of ammunition.  * * *  This small magnetite block is attached
+  to the barrel of the firearm by a thin metal wire drilled through a hole in its
+  center. When you activate the lodestone, the ammunition from your missed shot is
+  immediately recalled to your firearm, allowing you to fire again without reloading."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

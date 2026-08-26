@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "toxic-effluence"
 aliases: "Toxic Effluence"
 source: "Pathfinder #195: Heavy is the Crown"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  * * *  This dark green sludge has a caustic scent and gritty texture. Capable of entering the body through contact with flesh, toxic effluence becomes harmful once it hits the bloodstream, where it causes internal chemical burns, intense pain, and muscle spasms.  * * *  **Saving Throw** DC 29 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 3d6 poison damage, 3d6 fire damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 4d6 poison damage, 4d6 fire damage, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** 5d6 poison damage, 5d6 fire damage, [[Conditions/Clumsy|Clumsy 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 round)"
+description: "**Activate** `pf2:2` Interact  * * *  This dark green sludge has a caustic
+  scent and gritty texture. Capable of entering the body through contact with flesh,
+  toxic effluence becomes harmful once it hits the bloodstream, where it causes internal
+  chemical burns, intense pain, and muscle spasms.  * * *  **Saving Throw** DC 29
+  Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 3d6 poison damage, 3d6
+  fire damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Enfeebled|Enfeebled
+  1]] (1 round)  **Stage 2** 4d6 poison damage, 4d6 fire damage, [[Conditions/Clumsy|Clumsy
+  2]], and [[Conditions/Enfeebled|Enfeebled 2]] (1 round)  **Stage 3** 5d6 poison
+  damage, 5d6 fire damage, [[Conditions/Clumsy|Clumsy 3]], and [[Conditions/Enfeebled|Enfeebled
+  3]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

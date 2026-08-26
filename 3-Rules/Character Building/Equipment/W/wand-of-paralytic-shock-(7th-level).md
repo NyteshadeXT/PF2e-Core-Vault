@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-paralytic-shock-(7th-level)"
 aliases: "Wand of Paralytic Shock (7th-level)"
@@ -16,7 +16,7 @@ trait01: "electricity"
 trait02: "magical"
 trait03: "mental"
 trait04: "wand"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A two-pronged metal rod, this wand has a handle coated in thick rubber. Each prong ends in a copper coil. When Activated, the wand produces a loud zapping sound.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 7th-rank [[Spells/Paralyze|Paralyze]], electrocuting the target into immobility. Each target takes 2d12 electricity damage at the start of its turns while it remains stunned or [[Conditions/Paralyzed|Paralyzed]] due to the spell.  * * *  **Craft Requirements** Supply a casting of [[Spells/Paralyze|Paralyze]]of the appropriate rank."
+description: "A two-pronged metal rod, this wand has a handle coated in thick rubber.
+  Each prong ends in a copper coil. When Activated, the wand produces a loud zapping
+  sound.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge \
+  \ * * *  **Effect** You cast 7th-rank [[Spells/Paralyze|Paralyze]], electrocuting
+  the target into immobility. Each target takes 2d12 electricity damage at the start
+  of its turns while it remains stunned or [[Conditions/Paralyzed|Paralyzed]] due
+  to the spell.  * * *  **Craft Requirements** Supply a casting of [[Spells/Paralyze|Paralyze]]of
+  the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

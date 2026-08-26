@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tome-of-scintillating-sleet"
 aliases: "Tome of Scintillating Sleet"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "cold"
 trait02: "grimoire"
 trait03: "primal"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The first 12 pages of this tome tell the same story in two languages: 6 pages in Skald and 6 pages in the ancient Jotun dialect used by saumen kar, a species of ice-dwelling humanoids. The story is a tale of a saumen kar stricken with snow blindness after spending too long under the sun building snow giants.  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  **Effect** If your next action is to cast a cold spell that deals damage, all creatures damaged by the spell are also [[Conditions/Dazzled|Dazzled]] for 3 rounds by light refracting and reflecting within and around the spell's chilling effects. If an affected creature critically failed its save against the required spell, or if you critically succeeded on your spell attack roll against the creature, it's instead [[Conditions/Blinded|Blinded]] for 1 round and then dazzled for 3 rounds."
+description: "The first 12 pages of this tome tell the same story in two languages:
+  6 pages in Skald and 6 pages in the ancient Jotun dialect used by saumen kar, a
+  species of ice-dwelling humanoids. The story is a tale of a saumen kar stricken
+  with snow blindness after spending too long under the sun building snow giants.\
+  \  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  **Effect**
+  If your next action is to cast a cold spell that deals damage, all creatures damaged
+  by the spell are also [[Conditions/Dazzled|Dazzled]] for 3 rounds by light refracting
+  and reflecting within and around the spell's chilling effects. If an affected creature
+  critically failed its save against the required spell, or if you critically succeeded
+  on your spell attack roll against the creature, it's instead [[Conditions/Blinded|Blinded]]
+  for 1 round and then dazzled for 3 rounds."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

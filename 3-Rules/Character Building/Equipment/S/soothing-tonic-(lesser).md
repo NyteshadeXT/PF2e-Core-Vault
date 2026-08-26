@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "soothing-tonic-(lesser)"
 aliases: "Soothing Tonic (Lesser)"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "healing"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Soothing tonic is a pleasantly savory concoction that speeds your natural healing, so your wounds recover faster over time. You gain fast healing 1 for 1 minute.  [[Equipment Effects/Effect_ Soothing Tonic|Effect: Soothing Tonic]]"
+description: "**Activate** `pf2:1` Interact  Soothing tonic is a pleasantly savory
+  concoction that speeds your natural healing, so your wounds recover faster over
+  time. You gain fast healing 1 for 1 minute.  [[Equipment Effects/Effect_ Soothing
+  Tonic|Effect: Soothing Tonic]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

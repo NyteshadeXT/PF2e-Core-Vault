@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shard-of-the-third-seal"
 aliases: "Shard of the Third Seal"
 source: "Pathfinder Adventure: Crown of the Kobold King"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "magical"
-trait02: "unique"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This stone fragment from the Third Seal retains a tiny sliver of that legendary item's power. The shard sheds light constantly, with the effects of a torch requiring no oxygen and generating no heat. The flame can be covered or [[Conditions/Hidden|Hidden]], but it can't be smothered or quenched.  * * *  **Activate** `pf2:2` envision, Interact  **Effect** You generate the effects of a [[Spells/Vitality Lash|Vitality Lash]] cantrip, heightened to 3rd level.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  **Effect** By passing the shard over a creature or object, you can produce the effects of a [[Spells/Veil of Privacy|Veil of Privacy]] spell on that target.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  **Effect** By gripping the shard tightly and waving it before you, you can produce the effects of a [[Spells/Levitate|Levitate]] spell on yourself."
+description: "This stone fragment from the Third Seal retains a tiny sliver of that
+  legendary item's power. The shard sheds light constantly, with the effects of a
+  torch requiring no oxygen and generating no heat. The flame can be covered or [[Conditions/Hidden|Hidden]],
+  but it can't be smothered or quenched.  * * *  **Activate** `pf2:2` envision, Interact\
+  \  **Effect** You generate the effects of a [[Spells/Vitality Lash|Vitality Lash]]
+  cantrip, heightened to 3rd level.  * * *  **Activate** `pf2:2` envision, Interact\
+  \  **Frequency** once per day  **Effect** By passing the shard over a creature or
+  object, you can produce the effects of a [[Spells/Veil of Privacy|Veil of Privacy]]
+  spell on that target.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency**
+  once per day  **Effect** By gripping the shard tightly and waving it before you,
+  you can produce the effects of a [[Spells/Levitate|Levitate]] spell on yourself."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

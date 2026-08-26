@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "plate-armor-of-the-deep"
 aliases: "Plate Armor of the Deep"
 source: "Pathfinder Core Rulebook"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "bulwark"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This suit of +2 greater resilient full plate is decorated with swirling, ornate motifs of waves and fish scales.  While wearing it, you take no Speed reduction or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks to Swim, can breathe underwater, and can speak Thalassic."
+description: "This suit of +2 greater resilient full plate is decorated with swirling,
+  ornate motifs of waves and fish scales.  While wearing it, you take no Speed reduction
+  or check penalty from armor when Swimming, gain a +2 item bonus to Athletics checks
+  to Swim, can breathe underwater, and can speak Thalassic."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

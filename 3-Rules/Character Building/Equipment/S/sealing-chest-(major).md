@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sealing-chest-(major)"
 aliases: "Sealing Chest (Major)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Vigilant Seal members use these containers when transporting samples and relics.  The containers are soundproof, airtight, and studded with lead sheets, mistletoe, and other materials that block magical auras. Up to 1 Bulk of objects can be placed inside a sealing chest; the magic auras and curses of any objects placed within the chest cannot extend beyond the box unless they are of a greater level than the chest. Artifacts and similarly powerful items are unaffected regardless of level. Many cursed items prevent their bearer from removing them, but a successful remove curse gives enough time to stash the item in the chest."
+description: "Vigilant Seal members use these containers when transporting samples
+  and relics.  The containers are soundproof, airtight, and studded with lead sheets,
+  mistletoe, and other materials that block magical auras. Up to 1 Bulk of objects
+  can be placed inside a sealing chest; the magic auras and curses of any objects
+  placed within the chest cannot extend beyond the box unless they are of a greater
+  level than the chest. Artifacts and similarly powerful items are unaffected regardless
+  of level. Many cursed items prevent their bearer from removing them, but a successful
+  remove curse gives enough time to stash the item in the chest."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

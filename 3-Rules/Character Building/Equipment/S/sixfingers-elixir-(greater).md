@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sixfingers-elixir-(greater)"
 aliases: "Sixfingers Elixir (Greater)"
 source: "Pathfinder Adventure: The Slithering"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "polymorph"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activation** `pf2:1` Interact  This gritty, spicy fluid causes you to grow a sixth finger on each hand and gives you a spiderlike grip.  You gain a +2 item bonus to your Reflex DC to keep from being [[Actions/Disarm|Disarmed]] and a [[Actions/Climb|Climb]] Speed of 20 feet for the listed duration.  * * *  **Duration** 8 hours.  [[Equipment Effects/Effect_ Sixfingers Elixir (Greater)|Effect: Sixfingers Elixir (Greater)]]"
+description: "**Activation** `pf2:1` Interact  This gritty, spicy fluid causes you
+  to grow a sixth finger on each hand and gives you a spiderlike grip.  You gain a
+  +2 item bonus to your Reflex DC to keep from being [[Actions/Disarm|Disarmed]] and
+  a [[Actions/Climb|Climb]] Speed of 20 feet for the listed duration.  * * *  **Duration**
+  8 hours.  [[Equipment Effects/Effect_ Sixfingers Elixir (Greater)|Effect: Sixfingers
+  Elixir (Greater)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

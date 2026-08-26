@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "puff-dragon"
 aliases: "Puff Dragon"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "mechanical"
 trait04: "poison"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "120"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This cute and unassuming dragon toy activates once a creature moves into its square. It then unleashes a rapid burst of toxic gas in a 10-foot emanation. Those within the emanation when the snare is activated must attempt a DC 25 Fortitude check Fortitude saving throw or take 3d6 poison damage.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].  **Critical Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened 2]]."
+description: "This cute and unassuming dragon toy activates once a creature moves
+  into its square. It then unleashes a rapid burst of toxic gas in a 10-foot emanation.
+  Those within the emanation when the snare is activated must attempt a DC 25 Fortitude
+  check Fortitude saving throw or take 3d6 poison damage.  * * *  **Critical Success**
+  The creature is unaffected.  **Success** The creature takes half damage.  **Failure**
+  The creature takes full damage and is [[Conditions/Sickened|Sickened 1]].  **Critical
+  Failure** The creature takes double damage and is [[Conditions/Sickened|Sickened
+  2]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

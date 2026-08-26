@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tekko-kagi"
 aliases: "Tekko-Kagi"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "disarm"
 trait03: "finesse"
 trait04: "free-hand"
 trait05: "monk"
 trait06: "parry"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of [[Deities/Bastet|Bastet]] favor the tekko-kagi for catching their foes off guard."
+description: "Four curved blades attached to a sturdy handlebar give the wielder of
+  this close-combat weapon the illusion of having claws that extend from their fist.
+  Adherents of [[Deities/Bastet|Bastet]] favor the tekko-kagi for catching their foes
+  off guard."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 slashing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

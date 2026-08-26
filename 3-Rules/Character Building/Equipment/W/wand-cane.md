@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-cane"
 aliases: "Wand Cane"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Though it appears to be a basic cane, the inner workings of the _wand cane_ are an intricate network of lenses and magical circuits, with a slot at the top to insert a wand. The _wand cane_ then spends 1 minute attuning to the wand, after which the wand can be used through the cane."
+description: "Though it appears to be a basic cane, the inner workings of the _wand
+  cane_ are an intricate network of lenses and magical circuits, with a slot at the
+  top to insert a wand. The _wand cane_ then spends 1 minute attuning to the wand,
+  after which the wand can be used through the cane."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

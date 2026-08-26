@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warcallers-chime-of-dread"
 aliases: "Warcaller's Chime of Dread"
 source: "Pathfinder #170: Spoken on the Song Wind"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This chime's carvings depict skulls and other grim icons. When activated, it creates an aura of [[Spells/Fear|Fear]] in a 5-foot emanation for 1 round. Creatures in the aura must attempt a DC 27 Will check save. On a failure, they become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). Affected creatures can't reduce their frightened condition below frightened 1 while the chime is ringing. You can Sustain the Activation to sustain the aura, up to a total of 5 rounds. This chime can be used only once per day, whether or not you Sustain the aura."
+description: "This chime's carvings depict skulls and other grim icons. When activated,
+  it creates an aura of [[Spells/Fear|Fear]] in a 5-foot emanation for 1 round. Creatures
+  in the aura must attempt a DC 27 Will check save. On a failure, they become [[Conditions/Frightened|Frightened
+  1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure). Affected creatures
+  can't reduce their frightened condition below frightened 1 while the chime is ringing.
+  You can Sustain the Activation to sustain the aura, up to a total of 5 rounds. This
+  chime can be used only once per day, whether or not you Sustain the aura."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

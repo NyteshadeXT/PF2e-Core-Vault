@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "orc-skewermaul"
 aliases: "Orc Skewermaul"
 source: "Pathfinder #207: The Resurrection Flood"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "brace"
 trait02: "orc"
 trait03: "two-hand-d10"
 trait04: "versatile-p"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "As dwarves poured out of the Darklands following their Quest for Sky, the orcs driven before them adapted to their tactics—including dwarves' heavily armored infantry charges. Surviving orcs developed a response: a weapon that combines a spear and maul to crush heavy armor and skewer charging foes. Although rarely seen today, the weapon is remarkably effective in the right situation."
+description: "As dwarves poured out of the Darklands following their Quest for Sky,
+  the orcs driven before them adapted to their tactics—including dwarves' heavily
+  armored infantry charges. Surviving orcs developed a response: a weapon that combines
+  a spear and maul to crush heavy armor and skewer charging foes. Although rarely
+  seen today, the weapon is remarkably effective in the right situation."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +51,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 bludgeoning
 dmg1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

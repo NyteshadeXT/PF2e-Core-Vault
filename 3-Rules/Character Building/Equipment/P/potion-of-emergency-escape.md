@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-emergency-escape"
 aliases: "Potion of Emergency Escape"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  The stopper for a _potion of emergency escape_ is crafted to easily snap open in dire circumstances. When you drink this potion, for 1 minute you become [[Conditions/Fleeing|Fleeing]] from all hostile creatures you're aware of. You gain a +40-foot status bonus to all Speeds as long as this fleeing condition lasts. You immediately Stride.  [[Equipment Effects/Effect_ Potion of Emergency Escape|Effect: Potion of Emergency Escape]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  The stopper for a _potion
+  of emergency escape_ is crafted to easily snap open in dire circumstances. When
+  you drink this potion, for 1 minute you become [[Conditions/Fleeing|Fleeing]] from
+  all hostile creatures you're aware of. You gain a +40-foot status bonus to all Speeds
+  as long as this fleeing condition lasts. You immediately Stride.  [[Equipment Effects/Effect_
+  Potion of Emergency Escape|Effect: Potion of Emergency Escape]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

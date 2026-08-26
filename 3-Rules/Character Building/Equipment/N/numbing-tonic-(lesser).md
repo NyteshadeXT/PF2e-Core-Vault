@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "numbing-tonic-(lesser)"
 aliases: "Numbing Tonic (Lesser)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain 5 temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.  [[Equipment Effects/Effect_ Numbing Tonic|Effect: Numbing Tonic]]"
+description: "**Activate** `pf2:1` Interact  Numbing tonic makes it easier to push
+  through the pain of battle and shrug off otherwise debilitating blows. You gain
+  5 temporary Hit Points when you drink the elixir, and again at the start of each
+  of your turns for 1 minute.  [[Equipment Effects/Effect_ Numbing Tonic|Effect: Numbing
+  Tonic]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

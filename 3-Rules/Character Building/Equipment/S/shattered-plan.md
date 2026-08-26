@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shattered-plan"
 aliases: "Shattered Plan"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "recovery"
 trait03: "thrown"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Though the body of this _+2 striking impactful boomerang_ is riddled with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If you damage a target that has been struck by a _rime foil_ within the last round, you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds, or a –10-foot penalty on a critical hit.  * * *  **Special** The shattered plan pairs with the _rime foil_."
+description: "Though the body of this _+2 striking impactful boomerang_ is riddled
+  with glowing hairline cracks, the weapon feels reassuringly solid in the hand. If
+  you damage a target that has been struck by a _rime foil_ within the last round,
+  you bruise its chilled body, and the target takes a –5-foot penalty to all its Speeds,
+  or a –10-foot penalty on a critical hit.  * * *  **Special** The shattered plan
+  pairs with the _rime foil_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

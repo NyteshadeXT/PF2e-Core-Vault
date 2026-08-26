@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "the-dance"
 aliases: "The Dance"
 source: "Pathfinder #192: Worst of All Possible Worlds"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "harrow-court"
 trait03: "invested"
 trait04: "magical"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "**Suit** Keys (Dex)  **Alignment** lawful good  * * *  _The Dance_ represents the delicately balanced rhythms of the universe and the ability stay in step with existence. As long as _The Dance_ is invested, you gain a +2 item bonus on Performance checks. This increases to a +3 item bonus if you are at least 17th level.  **Activate** `pf2:0` envision  **Frequency** once per day  **Trigger** You are about to roll initiative  * * *  **Effect** Your body begins to move with anticipation, creating a trail of afterimages for a moment. You can roll initiative with a Performance check. Regardless of what skill you use to roll for initiative, roll the check three times and take the result of your choice. This is a fortune effect."
+description: "**Suit** Keys (Dex)  **Alignment** lawful good  * * *  _The Dance_ represents
+  the delicately balanced rhythms of the universe and the ability stay in step with
+  existence. As long as _The Dance_ is invested, you gain a +2 item bonus on Performance
+  checks. This increases to a +3 item bonus if you are at least 17th level.  **Activate**
+  `pf2:0` envision  **Frequency** once per day  **Trigger** You are about to roll
+  initiative  * * *  **Effect** Your body begins to move with anticipation, creating
+  a trail of afterimages for a moment. You can roll initiative with a Performance
+  check. Regardless of what skill you use to roll for initiative, roll the check three
+  times and take the result of your choice. This is a fortune effect."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

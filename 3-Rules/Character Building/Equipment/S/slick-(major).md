@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slick-(major)"
 aliases: "Slick (Major)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,15 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 16
-weight: 
+weight:
 value: "9000"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "This property makes armor slippery, as though it were coated with a thin film of oil. You gain a +3 item bonus to Acrobatics checks to Escape and Squeeze."
+description: "This property makes armor slippery, as though it were coated with a
+  thin film of oil. You gain a +3 item bonus to Acrobatics checks to Escape and Squeeze."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +48,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

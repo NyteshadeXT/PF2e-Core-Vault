@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snare-kit-(specialist)"
 aliases: "Snare Kit (Specialist)"
 source: "Pathfinder Core Rulebook"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This kit contains tools and materials for creating snares. A snare kit allows you to Craft snares using the Crafting skill. A specialist snare kit gives you a +1 item bonus to the check."
+description: "This kit contains tools and materials for creating snares. A snare kit
+  allows you to Craft snares using the Crafting skill. A specialist snare kit gives
+  you a +1 item bonus to the check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

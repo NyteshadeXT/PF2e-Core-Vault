@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "soaring-wings-(major)"
 aliases: "Soaring Wings (Major)"
@@ -15,21 +15,25 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 19
-weight: 
+weight:
 value: "38000"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Wings, normally tattooed on the upper back, enable you to fly when activated. The visual manifestation is typically a slight glow or ripple in the ink, but some artists make it so the tattoo creates a glowing aura or lines of light in the shape of wings.  **Activate** `pf2:2` command, envision  * * *  **Effect** Until dismissed, you gain a fly Speed equal to either your land Speed or 20 feet, whichever is greater."
+description: "Wings, normally tattooed on the upper back, enable you to fly when activated.
+  The visual manifestation is typically a slight glow or ripple in the ink, but some
+  artists make it so the tattoo creates a glowing aura or lines of light in the shape
+  of wings.  **Activate** `pf2:2` command, envision  * * *  **Effect** Until dismissed,
+  you gain a fly Speed equal to either your land Speed or 20 feet, whichever is greater."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

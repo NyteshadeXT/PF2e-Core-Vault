@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mirror-goggles-(moderate)"
 aliases: "Mirror Goggles (Moderate)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1200"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These goggles feature highly reflective lenses. While wearing the goggles, you gain a +2 item bonus to visual Perception checks and to saving throws against visual effects.  **Activate** `pf2:r` Interact  **Trigger** A creature within 60 feet targets you with a visual effect  * * *  **Effect** You turn your head to reflect aspects of the triggering effect back at its creator. The creature must attempt a DC 30 Fortitude check save as it becomes disoriented by this reflection. On a failure, the creature is [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened 2]] on a critical failure). The creature is temporarily immune for 1 hour."
+description: "These goggles feature highly reflective lenses. While wearing the goggles,
+  you gain a +2 item bonus to visual Perception checks and to saving throws against
+  visual effects.  **Activate** `pf2:r` Interact  **Trigger** A creature within 60
+  feet targets you with a visual effect  * * *  **Effect** You turn your head to reflect
+  aspects of the triggering effect back at its creator. The creature must attempt
+  a DC 30 Fortitude check save as it becomes disoriented by this reflection. On a
+  failure, the creature is [[Conditions/Sickened|Sickened 1]] ([[Conditions/Sickened|Sickened
+  2]] on a critical failure). The creature is temporarily immune for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

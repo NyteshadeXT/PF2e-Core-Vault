@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spell-duelists-siphon"
 aliases: "Spell Duelist's Siphon"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Metal clasps line the spine of this book, and diagrams displaying proper somatic casting forms are etched into its cover.  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You're targeted with an arcane spell attack and you have this grimoire raised  **Requirements** You have the [[Feats/Raise a Tome|Raise a Tome]] feat  * * *  **Effect** The grimoire attempts to absorb knowledge of the spell targeting you. You attempt to counteract the triggering spell. If you succeed, the spell is absorbed into the grimoire, and the diagrams on the cover change to indicate the somatic gestures and sigils for the counteracted spell. While the grimoire contains a spell, you can spend a spell slot of the same or higher level as the spell in the grimoire to cast that spell instead, heightened to the appropriate level (if you spent a higher-rank spell slot). After you cast the spell, it's expended from the grimoire."
+description: "Metal clasps line the spine of this book, and diagrams displaying proper
+  somatic casting forms are etched into its cover.  **Activate** `pf2:r` envision\
+  \  **Frequency** once per day  **Trigger** You're targeted with an arcane spell
+  attack and you have this grimoire raised  **Requirements** You have the [[Feats/Raise
+  a Tome|Raise a Tome]] feat  * * *  **Effect** The grimoire attempts to absorb knowledge
+  of the spell targeting you. You attempt to counteract the triggering spell. If you
+  succeed, the spell is absorbed into the grimoire, and the diagrams on the cover
+  change to indicate the somatic gestures and sigils for the counteracted spell. While
+  the grimoire contains a spell, you can spend a spell slot of the same or higher
+  level as the spell in the grimoire to cast that spell instead, heightened to the
+  appropriate level (if you spent a higher-rank spell slot). After you cast the spell,
+  it's expended from the grimoire."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

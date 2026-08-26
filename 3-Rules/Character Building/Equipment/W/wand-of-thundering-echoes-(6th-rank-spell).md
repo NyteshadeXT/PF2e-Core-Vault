@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-thundering-echoes-(6th-rank-spell)"
 aliases: "Wand of Thundering Echoes (6th-Rank Spell)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "sonic"
 trait03: "wand"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A forked, lightning-like crack runs down the length of this ornate stone wand, which rumbles slightly with the peals of distant thunder.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Noise Blast|Noise Blast]] of the indicated level. After you Cast the Spell, at the start of each of your turns, the sound echoes in the same area as if you had cast it again, though it deals one fewer d10. This effect lasts until the damage is reduced to below 2d10. The echoes don't affect structures or other items.  * * *  **Craft Requirements** Supply a casting of _sound burst_ of the appropriate rank."
+description: "A forked, lightning-like crack runs down the length of this ornate stone
+  wand, which rumbles slightly with the peals of distant thunder.  * * *  **Activate**
+  Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You
+  cast [[Spells/Noise Blast|Noise Blast]] of the indicated level. After you Cast the
+  Spell, at the start of each of your turns, the sound echoes in the same area as
+  if you had cast it again, though it deals one fewer d10. This effect lasts until
+  the damage is reduced to below 2d10. The echoes don't affect structures or other
+  items.  * * *  **Craft Requirements** Supply a casting of _sound burst_ of the appropriate
+  rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

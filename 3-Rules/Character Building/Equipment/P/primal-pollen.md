@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "primal-pollen"
 aliases: "Primal Pollen"
@@ -17,7 +17,7 @@ trait02: "inhaled"
 trait03: "magical"
 trait04: "poison"
 trait05: "primal"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  This magical flower immediately grows and blooms when planted, showering the area with intoxicating pollen. Insects take a –4 penalty on Fortitude saves to resist this poison.  **Saving Throw** DC 20 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Fascinated|Fascinated]] and [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** [[Conditions/Confused|Confused]] and slowed 1 (1 round)  **Stage 3** confused (1 round)  **Stage 4** [[Conditions/Unconscious|Unconscious]]"
+description: "**Activate** `pf2:1` (manipulate)  This magical flower immediately grows
+  and blooms when planted, showering the area with intoxicating pollen. Insects take
+  a –4 penalty on Fortitude saves to resist this poison.  **Saving Throw** DC 20 Fortitude
+  check  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Fascinated|Fascinated]]
+  and [[Conditions/Slowed|Slowed 1]] (1 round)  **Stage 2** [[Conditions/Confused|Confused]]
+  and slowed 1 (1 round)  **Stage 3** confused (1 round)  **Stage 4** [[Conditions/Unconscious|Unconscious]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

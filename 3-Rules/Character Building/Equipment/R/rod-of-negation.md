@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rod-of-negation"
 aliases: "Rod of Negation"
@@ -13,7 +13,7 @@ source: "Pathfinder Core Rulebook"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This long, plain, leaden rod can disrupt magic.  **Activate** `pf2:2` Interact  * * *  **Effect** This rod emits a thin, gray beam that negates a spell or magic item, casting a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with a counteract modifier of 1d20+23. Once activated, the rod can't be activated again for 2d6 hours."
+description: "This long, plain, leaden rod can disrupt magic.  **Activate** `pf2:2`
+  Interact  * * *  **Effect** This rod emits a thin, gray beam that negates a spell
+  or magic item, casting a 6th-rank [[Spells/Dispel Magic|Dispel Magic]] spell with
+  a counteract modifier of 1d20+23. Once activated, the rod can't be activated again
+  for 2d6 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

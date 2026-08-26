@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "quill-of-passage"
 aliases: "Quill of Passage"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1200"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This black-feathered quill has a glowing nib with a small amount of glowing ink inside it.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** Placing the tip of the quill against a wall of wood, plaster, or stone and speaking a command word causes the ink to flow from the nib onto the wall in the shape of a glowing doorway, casting [[Spells/Magic Passage|Magic Passage]] on the touched surface."
+description: "This black-feathered quill has a glowing nib with a small amount of
+  glowing ink inside it.  * * *  **Activate** `pf2:2` command, Interact  **Frequency**
+  once per day  * * *  **Effect** Placing the tip of the quill against a wall of wood,
+  plaster, or stone and speaking a command word causes the ink to flow from the nib
+  onto the wall in the shape of a glowing doorway, casting [[Spells/Magic Passage|Magic
+  Passage]] on the touched surface."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-truth"
 aliases: "Ring of Truth"
 source: "Pathfinder Gamemastery Guide"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This ring appears to be a ring of lies, but when invested, close investigation reveals angelic wings and divine creatures hidden on the face of the ring. When you invest the ring, you are rendered unable to tell a deliberate lie, in either speech or writing. If you attempt to omit the truth or phrase things truthfully but deceptively, roll a DC 11 Flat check; on a failure, the ring itself blurts out the entire truth (as you believe it) as an answer. Keeping silent does not activate the ring's curse. Once the curse has activated for the first time, the ring fuses to you."
+description: "This ring appears to be a ring of lies, but when invested, close investigation
+  reveals angelic wings and divine creatures hidden on the face of the ring. When
+  you invest the ring, you are rendered unable to tell a deliberate lie, in either
+  speech or writing. If you attempt to omit the truth or phrase things truthfully
+  but deceptively, roll a DC 11 Flat check; on a failure, the ring itself blurts out
+  the entire truth (as you believe it) as an answer. Keeping silent does not activate
+  the ring's curse. Once the curse has activated for the first time, the ring fuses
+  to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

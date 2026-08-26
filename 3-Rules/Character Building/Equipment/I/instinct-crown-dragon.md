@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "instinct-crown-dragon"
 aliases: "Instinct Crown (Dragon)"
@@ -14,7 +14,7 @@ pg: "152"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "An _instinct crown_ is a magical headpiece imbued with the essence of instincts that barbarians draw upon in combat. Each crown is fashioned to represent the instinct it's tied to, such as a wolf's head for an animal instinct crown or a simple helmet with Jotun runes for a _giant instinct crown_. When worn, the crown allows you to tap further into your instincts, granting you even greater benefits if the crown's essence matches your instinct. You must be able to Rage to use the crown's activations."
+description: "An _instinct crown_ is a magical headpiece imbued with the essence of
+  instincts that barbarians draw upon in combat. Each crown is fashioned to represent
+  the instinct it's tied to, such as a wolf's head for an animal instinct crown or
+  a simple helmet with Jotun runes for a _giant instinct crown_. When worn, the crown
+  allows you to tap further into your instincts, granting you even greater benefits
+  if the crown's essence matches your instinct. You must be able to Rage to use the
+  crown's activations."
 powerTitle1: "Effect"
 actionEconomy1: "`pf2:0`"
 type1: "([[envision]])"
@@ -41,15 +47,20 @@ actionEconomy2: "pf2:2`"
 type2: "([[command]], [[envision]])"
 frequency2: "once per day"
 trigger2:
-mechanics2: "You Rage and draw upon your instinct to gain a boon. The might of dragons surrounds you in the form of dancing flames, whirling ice, or another appropriate manifestation. Until the end of your rage, adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take `dice: 2d6` damage each time they do. The damage type is that of your dragon's breath weapon."
+mechanics2: "You Rage and draw upon your instinct to gain a boon. The might of dragons
+  surrounds you in the form of dancing flames, whirling ice, or another appropriate
+  manifestation. Until the end of your rage, adjacent creatures that hit you with
+  a melee attack, as well as creatures that touch you or hit you with an unarmed attack,
+  take `dice: 2d6` damage each time they do. The damage type is that of your dragon's
+  breath weapon."
 craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +87,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

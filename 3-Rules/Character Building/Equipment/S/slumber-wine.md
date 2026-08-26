@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slumber-wine"
 aliases: "Slumber Wine"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
 trait05: "sleep"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Slumber wine sees its greatest use in games of intrigue, where an absence can be more devastating than injury. Characters unconscious from slumber wine can't wake up by any means while the poison lasts, don't need to eat or drink while unconscious in this way, and appear to be recently dead unless an examiner succeeds at a DC 40 Medicine check check.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 32 Fortitude check  **Onset** 1 hour  **Maximum Duration** 7 days  **Stage 1** [[Conditions/Unconscious|Unconscious]] (1 day)  **Stage 2** [[Conditions/Unconscious|Unconscious]] (2 days)  **Stage 3** [[Conditions/Unconscious|Unconscious]] (3 days)"
+description: "Slumber wine sees its greatest use in games of intrigue, where an absence
+  can be more devastating than injury. Characters unconscious from slumber wine can't
+  wake up by any means while the poison lasts, don't need to eat or drink while unconscious
+  in this way, and appear to be recently dead unless an examiner succeeds at a DC
+  40 Medicine check check.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw**
+  DC 32 Fortitude check  **Onset** 1 hour  **Maximum Duration** 7 days  **Stage 1**
+  [[Conditions/Unconscious|Unconscious]] (1 day)  **Stage 2** [[Conditions/Unconscious|Unconscious]]
+  (2 days)  **Stage 3** [[Conditions/Unconscious|Unconscious]] (3 days)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

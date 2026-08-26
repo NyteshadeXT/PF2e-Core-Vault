@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rust-scrub"
 aliases: "Rust Scrub"
 source: "Pathfinder Adventure: Rusthenge"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  * * *  This salt scrub is infused with citron juice and alchemical ingredients that allow it to fight rust on metallic equipment. One application can be used to restore 2d4 Hit Points to an item that has been damaged by rust. The GM determines what portion of damage to an item was caused by rust if that value isn't known."
+description: "**Activate** 10 minutes (Interact)  * * *  This salt scrub is infused
+  with citron juice and alchemical ingredients that allow it to fight rust on metallic
+  equipment. One application can be used to restore 2d4 Hit Points to an item that
+  has been damaged by rust. The GM determines what portion of damage to an item was
+  caused by rust if that value isn't known."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ventriloquists-ring"
 aliases: "Ventriloquist's Ring"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "60"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This elegant copper ring has miniature images of songbirds engraved around its circumference. You gain a +1 item bonus to Deception checks.  **Activate—Throw Voice** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Twisting the ring around your finger allows you to magically throw your voice, with the effects of a [[Spells/Ventriloquism|Ventriloquism]] spell (DC 19 Perception check)."
+description: "This elegant copper ring has miniature images of songbirds engraved
+  around its circumference. You gain a +1 item bonus to Deception checks.  **Activate—Throw
+  Voice** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Twisting
+  the ring around your finger allows you to magically throw your voice, with the effects
+  of a [[Spells/Ventriloquism|Ventriloquism]] spell (DC 19 Perception check)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

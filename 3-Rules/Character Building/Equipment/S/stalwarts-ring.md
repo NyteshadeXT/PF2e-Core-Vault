@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stalwarts-ring"
 aliases: "Stalwart's Ring"
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "160"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This fairly simple ring has no gemstone inlaid, but the band is cast to resembled a fanged wolf's head.  Once per day, during your daily preparations, you can meditate on this ring to grant yourself 5 temporary Hit Points. These last until your next daily preparation, as long as you are wearing the ring.  [[Equipment Effects/Effect_ Stalwart's Ring|Effect: Stalwart's Ring]]"
+description: "This fairly simple ring has no gemstone inlaid, but the band is cast
+  to resembled a fanged wolf's head.  Once per day, during your daily preparations,
+  you can meditate on this ring to grant yourself 5 temporary Hit Points. These last
+  until your next daily preparation, as long as you are wearing the ring.  [[Equipment
+  Effects/Effect_ Stalwart's Ring|Effect: Stalwart's Ring]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

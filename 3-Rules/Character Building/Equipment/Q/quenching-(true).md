@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "quenching-(true)"
 aliases: "Quenching (True)"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "24000"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "This rune counters burning and corrosive agents. Armor with this rune reduces the DC of the flat check to end persistent acid or fire damage affecting you from 15 to 5 (particularly effective assistance automatically removes the persistent acid or fire damage)."
+description: "This rune counters burning and corrosive agents. Armor with this rune
+  reduces the DC of the flat check to end persistent acid or fire damage affecting
+  you from 15 to 5 (particularly effective assistance automatically removes the persistent
+  acid or fire damage)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

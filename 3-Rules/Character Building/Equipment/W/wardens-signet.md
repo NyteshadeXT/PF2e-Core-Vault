@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wardens-signet"
 aliases: "Warden's Signet"
@@ -15,21 +15,28 @@ rarity: ""
 trait01: "focused"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1250"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This symbol shows your dedication to the magic practiced by some rangers. Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to Nature checks.  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden spell. When you use this Focus Point, the warden's signet also casts a 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]]spell on you. If not used by the end of your turn, this Focus Point is lost.  * * *  **Craft Requirements** You are a ranger with at least one warden spell."
+description: "This symbol shows your dedication to the magic practiced by some rangers.
+  Most rangers wear it on an amulet, ring, or piercing. You gain a +2 item bonus to
+  Nature checks.  **Activate** `pf2:0` envision  **Frequency** once per day  * * *\
+  \  **Effect** You gain 1 Focus Point, which you can use only to cast a ranger warden
+  spell. When you use this Focus Point, the warden's signet also casts a 4th-rank
+  [[Spells/Oaken Resilience|Oaken Resilience]]spell on you. If not used by the end
+  of your turn, this Focus Point is lost.  * * *  **Craft Requirements** You are a
+  ranger with at least one warden spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

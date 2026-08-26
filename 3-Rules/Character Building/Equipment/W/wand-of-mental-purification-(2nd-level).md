@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-mental-purification-(2nd-level)"
 aliases: "Wand of Mental Purification (2nd-level)"
@@ -17,7 +17,7 @@ trait02: "healing"
 trait03: "magical"
 trait04: "mental"
 trait05: "wand"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Red feathers hang from the handle of this ivory wand. Holding it brings a sense of gentle calm.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 2nd-rank [[Spells/Soothe|Soothe]], and can attempt to counteract one mental effect on the same target. Treat the [[Spells/Soothe|Soothe]] spell's rank as 1 higher for this counteract check.  * * *  **Craft Requirements** Supply a casting of _soothe_ of the appropriate rank."
+description: "Red feathers hang from the handle of this ivory wand. Holding it brings
+  a sense of gentle calm.  **Activate** Cast a Spell  **Frequency** once per day,
+  plus overcharge  * * *  **Effect** You cast 2nd-rank [[Spells/Soothe|Soothe]], and
+  can attempt to counteract one mental effect on the same target. Treat the [[Spells/Soothe|Soothe]]
+  spell's rank as 1 higher for this counteract check.  * * *  **Craft Requirements**
+  Supply a casting of _soothe_ of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

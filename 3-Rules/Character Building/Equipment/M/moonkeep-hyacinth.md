@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "moonkeep-hyacinth"
 aliases: "Moonkeep Hyacinth"
 source: "Pathfinder #213: Thirst for Blood"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "plant"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These magical flowers are infused with the power to counteract the curse of the werecreature. Intentionally growing these flowers is nearly impossible, as they don't produce seeds, and the primal magic required to produce them has been lost to time. They occasionally grow in places where a particular powerful werecreature is buried, though if an exact process to guarantee their growth exists, it remains a mystery.  This long hyacinth features round buds that bloom into brilliant white petals. When you eat the flower, you immediately become cured of the curse of the werecreature."
+description: "These magical flowers are infused with the power to counteract the curse
+  of the werecreature. Intentionally growing these flowers is nearly impossible, as
+  they don't produce seeds, and the primal magic required to produce them has been
+  lost to time. They occasionally grow in places where a particular powerful werecreature
+  is buried, though if an exact process to guarantee their growth exists, it remains
+  a mystery.  This long hyacinth features round buds that bloom into brilliant white
+  petals. When you eat the flower, you immediately become cured of the curse of the
+  werecreature."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

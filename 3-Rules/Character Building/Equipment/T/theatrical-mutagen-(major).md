@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "theatrical-mutagen-(major)"
 aliases: "Theatrical Mutagen (Major)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Developed and widely used by students at the Kitharodian Academy in Oppara, the theatrical mutagen stimulates the creative centers of your brain. This causes your movements to become exaggerated and your voice to become clear. However, the erratic surges of inspiration overload your senses, making it difficult to focus on mundane tasks. This lasts for 1 hour.  Benefit You gain a +4 item bonus to Acrobatics checks, Crafting checks, and Performance checks. If you're untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain a +10 feet status bonus to your Speed.  Drawback You take a –1 penalty to Perception checks and Will saves. After any round where you don't spend at least 1 action to Interact with an object, [[Actions/Perform|Perform]], Step, or Stride, you're [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.  [[Equipment Effects/Effect_ Theatrical Mutagen (Major)|Effect: Theatrical Mutagen (Major)]]"
+description: "**Activate** `pf2:1` Interact  Developed and widely used by students
+  at the Kitharodian Academy in Oppara, the theatrical mutagen stimulates the creative
+  centers of your brain. This causes your movements to become exaggerated and your
+  voice to become clear. However, the erratic surges of inspiration overload your
+  senses, making it difficult to focus on mundane tasks. This lasts for 1 hour.  Benefit
+  You gain a +4 item bonus to Acrobatics checks, Crafting checks, and Performance
+  checks. If you're untrained in any of these skills, your proficiency bonus is equal
+  to your level instead of +0. You also gain a +10 feet status bonus to your Speed.\
+  \  Drawback You take a –1 penalty to Perception checks and Will saves. After any
+  round where you don't spend at least 1 action to Interact with an object, [[Actions/Perform|Perform]],
+  Step, or Stride, you're [[Conditions/Off-Guard|Off-Guard]] until the start of your
+  next turn.  [[Equipment Effects/Effect_ Theatrical Mutagen (Major)|Effect: Theatrical
+  Mutagen (Major)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

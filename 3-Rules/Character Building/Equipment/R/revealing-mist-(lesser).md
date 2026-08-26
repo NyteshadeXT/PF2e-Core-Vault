@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "revealing-mist-(lesser)"
 aliases: "Revealing Mist (Lesser)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Kept in an airtight spray bottle, revealing mist is an alchemical concoction that creates a sticky and clinging mist of chemicals in a 15-foot cone when sprayed. It doesn't affect visibility but causes [[Conditions/Invisible|Invisible]] creatures in the area to be [[Conditions/Concealed|Concealed]] rather than undetected. Revealing mist is ineffective in water or in areas with other factors affecting the spread of the mist, as determined by the GM. It remains in the area for 1 minute or until any significant wind disperses it, whichever comes first."
+description: "**Activate** `pf2:1` Interact  Kept in an airtight spray bottle, revealing
+  mist is an alchemical concoction that creates a sticky and clinging mist of chemicals
+  in a 15-foot cone when sprayed. It doesn't affect visibility but causes [[Conditions/Invisible|Invisible]]
+  creatures in the area to be [[Conditions/Concealed|Concealed]] rather than undetected.
+  Revealing mist is ineffective in water or in areas with other factors affecting
+  the spread of the mist, as determined by the GM. It remains in the area for 1 minute
+  or until any significant wind disperses it, whichever comes first."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

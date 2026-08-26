@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "steadfast-sentinel"
 aliases: "Steadfast Sentinel"
 source: "Pathfinder Wake the Dead #5"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` envision  * * *  This catalyst is a bird's claw soaked in a mixture of blood and grave dirt. A [[Spells/Shadow Spy|Shadow Spy]] spell empowered by it creates an unusually long-lasting homunculus. Instead of the spell expiring when you next make your daily preparations, you can renew it by expending a spell slot for shadow spy again, maintaining the same homunculus so it can continue its observations. Steadfast sentinels are often used by powerful spellcasters of Geb to covertly monitor their rivals."
+description: "**Activate** `pf2:1` envision  * * *  This catalyst is a bird's claw
+  soaked in a mixture of blood and grave dirt. A [[Spells/Shadow Spy|Shadow Spy]]
+  spell empowered by it creates an unusually long-lasting homunculus. Instead of the
+  spell expiring when you next make your daily preparations, you can renew it by expending
+  a spell slot for shadow spy again, maintaining the same homunculus so it can continue
+  its observations. Steadfast sentinels are often used by powerful spellcasters of
+  Geb to covertly monitor their rivals."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

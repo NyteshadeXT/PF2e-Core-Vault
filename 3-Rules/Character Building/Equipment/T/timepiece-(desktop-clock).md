@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "timepiece-(desktop-clock)"
 aliases: "Timepiece (Desktop Clock)"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Clockwork timepieces come in a variety of sizes and aesthetic styles, but they're all designed to display the accurate time of day down to the second.  Clockwork timepieces have a 24-hour activation cycle, after which they must wound in a process that takes 1 minute to complete.  Desktop clocks have been designed to be small enough to only take up a quarter of a typical writing desk's surface area, but they're still too bulky and heavy to be lugged around casually."
+description: "Clockwork timepieces come in a variety of sizes and aesthetic styles,
+  but they're all designed to display the accurate time of day down to the second.\
+  \  Clockwork timepieces have a 24-hour activation cycle, after which they must wound
+  in a process that takes 1 minute to complete.  Desktop clocks have been designed
+  to be small enough to only take up a quarter of a typical writing desk's surface
+  area, but they're still too bulky and heavy to be lugged around casually."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

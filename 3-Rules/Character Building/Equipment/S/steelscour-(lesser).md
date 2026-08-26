@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "steelscour-(lesser)"
 aliases: "Steelscour (Lesser)"
 source: "Pathfinder Wake the Dead #5"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "acid"
 trait02: "alchemical"
 trait03: "bomb"
 trait04: "consumable"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact or Strike  * * *  A viscous acidic goo fills this glass vial, specially designed to eat through metallic objects. You can throw the steelscour as an alchemical bomb, targeting a metal creature or metal object held by a creature. It deals 1d8 persistent acid damage that ignores up to 5 hardness from metal. Steelscour has no effect on living or undead flesh and deals half damage to objects constructed of non-metal materials.  Instead of using steelscour as a bomb, you can pour it on an adjacent unattended metal object with an Interact action, automatically dealing the listed persistent acid damage for 5 rounds with no flat check to end the condition. When used this way, steelscour loses the bomb trait."
+description: "**Activate** `pf2:1` Interact or Strike  * * *  A viscous acidic goo
+  fills this glass vial, specially designed to eat through metallic objects. You can
+  throw the steelscour as an alchemical bomb, targeting a metal creature or metal
+  object held by a creature. It deals 1d8 persistent acid damage that ignores up to
+  5 hardness from metal. Steelscour has no effect on living or undead flesh and deals
+  half damage to objects constructed of non-metal materials.  Instead of using steelscour
+  as a bomb, you can pour it on an adjacent unattended metal object with an Interact
+  action, automatically dealing the listed persistent acid damage for 5 rounds with
+  no flat check to end the condition. When used this way, steelscour loses the bomb
+  trait."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

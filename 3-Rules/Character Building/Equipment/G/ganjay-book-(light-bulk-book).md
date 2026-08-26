@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ganjay-book-(light-bulk-book)"
 aliases: "Ganjay Book (Light bulk book)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This item is a formula book, religious text, or spellbook that has been creased-possibly by Princess Ganjay herself-to fold up into an impossibly small shape. When folded up, the book can't be read or used, but its Bulk is reduced by 1 (a book that is 1 Bulk becomes light Bulk, and a book that is light Bulk becomes negligible in weight).  * * *  **Activate** 1 minute (Interact) You fold or unfold the Ganjay book, manipulating the cunning creases."
+description: "This item is a formula book, religious text, or spellbook that has been
+  creased-possibly by Princess Ganjay herself-to fold up into an impossibly small
+  shape. When folded up, the book can't be read or used, but its Bulk is reduced by
+  1 (a book that is 1 Bulk becomes light Bulk, and a book that is light Bulk becomes
+  negligible in weight).  * * *  **Activate** 1 minute (Interact) You fold or unfold
+  the Ganjay book, manipulating the cunning creases."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

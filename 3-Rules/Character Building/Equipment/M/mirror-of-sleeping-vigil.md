@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mirror-of-sleeping-vigil"
 aliases: "Mirror of Sleeping Vigil"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "illusion"
 trait02: "invested"
 trait03: "magical"
 trait04: "sleep"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This jeweled mirror grants you gain greater control over your dreaming self. While invested, you can watch over your sleeping body from the Dreamlands, letting you see your own body and a 5-foot emanation around you, though you can't hear, smell, or use other senses from your dreaming self. You do not take the -4 status penalty to visual Perception checks in that area or gain the [[Conditions/Blinded|Blinded]] condition from being [[Conditions/Unconscious|Unconscious]] against creatures in that area. As long as you fell asleep voluntarily and not from a sleep effect, you can automatically wake up from sleep if there is visible activity around you."
+description: "This jeweled mirror grants you gain greater control over your dreaming
+  self. While invested, you can watch over your sleeping body from the Dreamlands,
+  letting you see your own body and a 5-foot emanation around you, though you can't
+  hear, smell, or use other senses from your dreaming self. You do not take the -4
+  status penalty to visual Perception checks in that area or gain the [[Conditions/Blinded|Blinded]]
+  condition from being [[Conditions/Unconscious|Unconscious]] against creatures in
+  that area. As long as you fell asleep voluntarily and not from a sleep effect, you
+  can automatically wake up from sleep if there is visible activity around you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

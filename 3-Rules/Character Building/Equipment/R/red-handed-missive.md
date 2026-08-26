@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "red-handed-missive"
 aliases: "Red-Handed Missive"
@@ -16,20 +16,24 @@ trait01: "consumable"
 trait02: "curse"
 trait03: "magical"
 trait04: "missive"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "60"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` envision, Interact  Composed to look like an important document, a red-handed missive is a trap used by those who suspect someone has been going through their correspondence. If activated, the missive dissolves into red dye that coats anything touching the missive. Magic in the dye prevents it from washing off for 1 week."
+description: "**Activate** `pf2:2` envision, Interact  Composed to look like an important
+  document, a red-handed missive is a trap used by those who suspect someone has been
+  going through their correspondence. If activated, the missive dissolves into red
+  dye that coats anything touching the missive. Magic in the dye prevents it from
+  washing off for 1 week."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

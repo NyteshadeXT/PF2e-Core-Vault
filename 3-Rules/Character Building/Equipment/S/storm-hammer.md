@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "storm-hammer"
 aliases: "Storm Hammer"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "electricity"
 trait02: "magical"
 trait03: "shove"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Sparks of crackling electricity arc from this +1 magic warhammer, and the head thrums with distant thunder. Any hit with this hammer deals 1 electricity damage. You can use a special action while holding the hammer to transform the sparks into lightning bolts.  **Electrify** `pf2:1` (concentrate) Until the end of your turn, the hammer deals 1d6 electricity damage instead of just 1. After you use this action, you can't use it again for 10 minutes."
+description: "Sparks of crackling electricity arc from this +1 magic warhammer, and
+  the head thrums with distant thunder. Any hit with this hammer deals 1 electricity
+  damage. You can use a special action while holding the hammer to transform the sparks
+  into lightning bolts.  **Electrify** `pf2:1` (concentrate) Until the end of your
+  turn, the hammer deals 1d6 electricity damage instead of just 1. After you use this
+  action, you can't use it again for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +52,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d8 bludgeoning
 dmg1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

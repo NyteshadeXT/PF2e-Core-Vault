@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snake-oil"
 aliases: "Snake Oil"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You can apply snake oil onto a wound or other outward symptom of an affliction or condition (such as sores from a disease or discoloration from a poison). For the next hour, the symptom disappears and the wounded or afflicted creature doesn't feel as if it still has the wound or affliction, though all effects remain. A creature can uncover the ruse by succeeding at a DC 17 Perception check check, but only if it uses a Seek action to specifically examine the snake oil's effects."
+description: "**Activate** `pf2:1` (manipulate)  * * *  You can apply snake oil onto
+  a wound or other outward symptom of an affliction or condition (such as sores from
+  a disease or discoloration from a poison). For the next hour, the symptom disappears
+  and the wounded or afflicted creature doesn't feel as if it still has the wound
+  or affliction, though all effects remain. A creature can uncover the ruse by succeeding
+  at a DC 17 Perception check check, but only if it uses a Seek action to specifically
+  examine the snake oil's effects."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

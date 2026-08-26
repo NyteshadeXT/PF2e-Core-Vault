@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "the-bear"
 aliases: "The Bear"
 source: "Pathfinder #191: The Destiny War"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "harrow-court"
 trait03: "invested"
 trait04: "magical"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,18 @@ invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "**Suit** Hammers (Str)  **Alignment** neutral  * * *  _The Bear_ represents brute force applied to solve unusual problems. As long as you have _The Bear_ invested, you can use Athletics checks to [[Actions/Tumble Through|Tumble Through]] or [[Actions/Squeeze|Squeeze]].  **Activate** `pf2:1` Interact  **Frequency** once per minute  **Requirements** Your last action was a successful melee Strike  * * *  **Effect** You attempt to [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] the creature you hit with the successful Strike, even if you have no hand free. You gain a +2 status bonus to your check. If you Grapple using a weapon, you can Strike with the weapon only if it has the grapple trait and you Strike the [[Conditions/Grabbed|Grabbed]] target, or if you cease Grabbing with the weapon. After the effect of the initial Grapple ends, you can't keep a target grabbed with a weapon that lacks the grapple trait. The status bonus increases to +3 if you're at least 17th level."
+description: "**Suit** Hammers (Str)  **Alignment** neutral  * * *  _The Bear_ represents
+  brute force applied to solve unusual problems. As long as you have _The Bear_ invested,
+  you can use Athletics checks to [[Actions/Tumble Through|Tumble Through]] or [[Actions/Squeeze|Squeeze]].\
+  \  **Activate** `pf2:1` Interact  **Frequency** once per minute  **Requirements**
+  Your last action was a successful melee Strike  * * *  **Effect** You attempt to
+  [[Actions/Grapple|Grapple]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] the
+  creature you hit with the successful Strike, even if you have no hand free. You
+  gain a +2 status bonus to your check. If you Grapple using a weapon, you can Strike
+  with the weapon only if it has the grapple trait and you Strike the [[Conditions/Grabbed|Grabbed]]
+  target, or if you cease Grabbing with the weapon. After the effect of the initial
+  Grapple ends, you can't keep a target grabbed with a weapon that lacks the grapple
+  trait. The status bonus increases to +3 if you're at least 17th level."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

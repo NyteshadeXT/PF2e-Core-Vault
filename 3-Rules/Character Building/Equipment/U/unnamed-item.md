@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "unnamed-item"
 aliases: "unnamed-item"
 source: "Pathfinder Gamemastery Guide"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -21,8 +21,8 @@ trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
-weight: 
+level:
+weight:
 value: "25"
 subvalue: "sp"
 invest:
@@ -47,9 +47,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +76,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

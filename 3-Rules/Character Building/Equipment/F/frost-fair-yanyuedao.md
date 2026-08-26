@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "frost-fair-yanyuedao"
 aliases: "Frost Fair Yanyuedao"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "cold"
 trait03: "deadly-d8"
 trait04: "forceful"
 trait05: "magical"
 trait06: "reach"
-trait07: "unique"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
@@ -29,7 +29,17 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The _Frost Fair Yanyuedao_ is a _+2 greater striking yanyuedao_ (use statistics for glaive) once wielded by a legendary military general from Goka. This weapon was constructed from pieces harvested from a dragon's body. When in an area of severe cold or colder, the _Frost Fair Yanyuedao_ becomes a _+3 major striking yanyuedao_ with a glowing blue cutting edge and the following ability.  * * *  **Activate—Dragon Chill** `pf2:1` (manipulate)  **Effect** Until the end of your turn, the _Frost Fair Yanyuedao_ gains the effects of a _[[Equipment/Frost (Greater)|Greater Frost]]_ rune. While under this effect, if you critically succeed at a Strike using this weapon against a creature who has resistance or immunity to cold, that creature must attempt a DC 31 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 minute.  [[Equipment Effects/Effect_ Dragon Chill|Effect: Dragon Chill]]"
+description: "The _Frost Fair Yanyuedao_ is a _+2 greater striking yanyuedao_ (use
+  statistics for glaive) once wielded by a legendary military general from Goka. This
+  weapon was constructed from pieces harvested from a dragon's body. When in an area
+  of severe cold or colder, the _Frost Fair Yanyuedao_ becomes a _+3 major striking
+  yanyuedao_ with a glowing blue cutting edge and the following ability.  * * *  **Activate—Dragon
+  Chill** `pf2:1` (manipulate)  **Effect** Until the end of your turn, the _Frost
+  Fair Yanyuedao_ gains the effects of a _[[Equipment/Frost (Greater)|Greater Frost]]_
+  rune. While under this effect, if you critically succeed at a Strike using this
+  weapon against a creature who has resistance or immunity to cold, that creature
+  must attempt a DC 31 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for
+  1 minute.  [[Equipment Effects/Effect_ Dragon Chill|Effect: Dragon Chill]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +57,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d8 slashing
 dmg1:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

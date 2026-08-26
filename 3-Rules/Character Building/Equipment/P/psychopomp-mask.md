@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "psychopomp-mask"
 aliases: "Psychopomp Mask"
 source: "Pathfinder #169: Kindled Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "5"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "These minor magic items are painted to resemble your face, or some metaphorical depiction thereof, to encourage the ushers of death to take the mask in your place. If you begin your turn with a dying value of 3 or greater, instead of making your recovery check, you lose the dying condition but remain unconscious at 0 Hit Points. The mask then cracks in half and is destroyed. The psychopomps won't be so easily fooled again-you are temporarily immune to the effects of any psychopomp mask for 1 year."
+description: "These minor magic items are painted to resemble your face, or some metaphorical
+  depiction thereof, to encourage the ushers of death to take the mask in your place.
+  If you begin your turn with a dying value of 3 or greater, instead of making your
+  recovery check, you lose the dying condition but remain unconscious at 0 Hit Points.
+  The mask then cracks in half and is destroyed. The psychopomps won't be so easily
+  fooled again-you are temporarily immune to the effects of any psychopomp mask for
+  1 year."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

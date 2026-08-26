@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nevercold-(refined)"
 aliases: "Nevercold (Refined)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell (add 1 action)  Nevercold, sometimes mistakenly referred to as nevercoal, is the charcoal left after wildfires in the First World. True to its name, nevercold remains warm to the touch. If you use nevercold to cast [[Spells/Fire Shield|Fire Shield]], the spell's duration increases by 1 minute, the cold resistance you gain from it lasts 1 hour, and you're protected from the effects of severe cold for 8 hours.  The catalyst affects 8th-rank or lower _fire shield_, and the protection from severe cold lasts 24 hours."
+description: "**Activate** Cast a Spell (add 1 action)  Nevercold, sometimes mistakenly
+  referred to as nevercoal, is the charcoal left after wildfires in the First World.
+  True to its name, nevercold remains warm to the touch. If you use nevercold to cast
+  [[Spells/Fire Shield|Fire Shield]], the spell's duration increases by 1 minute,
+  the cold resistance you gain from it lasts 1 hour, and you're protected from the
+  effects of severe cold for 8 hours.  The catalyst affects 8th-rank or lower _fire
+  shield_, and the protection from severe cold lasts 24 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

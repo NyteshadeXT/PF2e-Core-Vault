@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-corpse-restoration"
 aliases: "Oil of Corpse Restoration"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (Interact)  Adlet spiritual leaders create this thick purple gel so that the dead can temporarily assume their appearance in life during ancestral worship ceremonies. Spreading it over the bones of an undead creature or a lifeless corpse causes the gel to congeal, forming a cosmetic layer that covers or restores any missing or compromised flesh until the body mimics its appearance in life. The dead creature's flesh looks healthy and whole. It gains a +2 circumstance bonus on Deception checks to look like a living creature. The gel does not restore life or Hit Points and the flesh quickly rots away 8 hours after application.  [[Equipment Effects/Effect_ Oil of Corpse Restoration|Effect: Oil of Corpse Restoration]]"
+description: "**Activate** 1 minute (Interact)  Adlet spiritual leaders create this
+  thick purple gel so that the dead can temporarily assume their appearance in life
+  during ancestral worship ceremonies. Spreading it over the bones of an undead creature
+  or a lifeless corpse causes the gel to congeal, forming a cosmetic layer that covers
+  or restores any missing or compromised flesh until the body mimics its appearance
+  in life. The dead creature's flesh looks healthy and whole. It gains a +2 circumstance
+  bonus on Deception checks to look like a living creature. The gel does not restore
+  life or Hit Points and the flesh quickly rots away 8 hours after application.  [[Equipment
+  Effects/Effect_ Oil of Corpse Restoration|Effect: Oil of Corpse Restoration]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

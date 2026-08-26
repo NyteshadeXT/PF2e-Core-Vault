@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stone-of-weight"
 aliases: "Stone of Weight"
 source: "Pathfinder Gamemastery Guide"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "cursed"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Also known as a loadstone, this small stone appears nonmagical and has a lovely sheen, giving the impression that it could be a valuable or a notable item or a magic stone of some kind. When you've carried the stone on your person for 1 minute, its curse activates: the stone's size does not change, but it suddenly increases in weight to 5 Bulk. This additional weight does not cause the stone to deal more damage if thrown or used as a weapon. It reappears in your possessions within 1 minute if you discard it, and can't be destroyed or thrown away permanently, or even placed in a container that would reduce or negate its Bulk (like a bag of holding), until it is subject to a remove curse spell or similar magic effect. Once the curse has activated for the first time, the stone fuses to you."
+description: "Also known as a loadstone, this small stone appears nonmagical and has
+  a lovely sheen, giving the impression that it could be a valuable or a notable item
+  or a magic stone of some kind. When you've carried the stone on your person for
+  1 minute, its curse activates: the stone's size does not change, but it suddenly
+  increases in weight to 5 Bulk. This additional weight does not cause the stone to
+  deal more damage if thrown or used as a weapon. It reappears in your possessions
+  within 1 minute if you discard it, and can't be destroyed or thrown away permanently,
+  or even placed in a container that would reduce or negate its Bulk (like a bag of
+  holding), until it is subject to a remove curse spell or similar magic effect. Once
+  the curse has activated for the first time, the stone fuses to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

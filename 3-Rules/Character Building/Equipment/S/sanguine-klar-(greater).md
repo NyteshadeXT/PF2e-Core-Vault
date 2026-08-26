@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sanguine-klar-(greater)"
 aliases: "Sanguine Klar (Greater)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "integrated-1d6-s-versatile-p"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This _+2 greater striking wounding klar_ (Hardness 13, HP 100, BT 50) is built with spikes made of beasts' fangs.  **Activate** `pf2:0` envision  **Frequency** once per round  **Trigger** You or a creature within 30 feet of you suffers bleed damage  * * *  **Effect** The sanguine klar regains a number of Hit Points equal to the bleed damage, up to an amount equal to its Hardness."
+description: "This _+2 greater striking wounding klar_ (Hardness 13, HP 100, BT 50)
+  is built with spikes made of beasts' fangs.  **Activate** `pf2:0` envision  **Frequency**
+  once per round  **Trigger** You or a creature within 30 feet of you suffers bleed
+  damage  * * *  **Effect** The sanguine klar regains a number of Hit Points equal
+  to the bleed damage, up to an amount equal to its Hardness."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

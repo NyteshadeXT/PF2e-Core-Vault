@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mycoweave-shield-(major)"
 aliases: "Mycoweave Shield (Major)"
 source: "Pathfinder #193: Mantle of Gold"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This shield is grown entirely of specially treated fungi, giving it the appearance of a frilly disc. The shield has Hardness 6, HP 110, and BT 55.  When left atop at least 1 bulk of organic matter, it gains fast healing 1; after 10 minutes 1 Bulk of the organic matter has been consumed by the shield. This shield doubles its hardness against bludgeoning, electricity, and sonic damage.  **Activate** `pf2:r` manipulate  **Trigger** The shield is broken  * * *  **Effect** The shield spews spores into one adjacent square, dealing 3d6 persistent poison damage to all creatures in within it; a successful DC 35 Fortitude check save negates the damage.  * * *  **Craft Requirements** You are trained in Nature, and can cast a fungus spell or are fungus."
+description: "This shield is grown entirely of specially treated fungi, giving it
+  the appearance of a frilly disc. The shield has Hardness 6, HP 110, and BT 55. \
+  \ When left atop at least 1 bulk of organic matter, it gains fast healing 1; after
+  10 minutes 1 Bulk of the organic matter has been consumed by the shield. This shield
+  doubles its hardness against bludgeoning, electricity, and sonic damage.  **Activate**
+  `pf2:r` manipulate  **Trigger** The shield is broken  * * *  **Effect** The shield
+  spews spores into one adjacent square, dealing 3d6 persistent poison damage to all
+  creatures in within it; a successful DC 35 Fortitude check save negates the damage.\
+  \  * * *  **Craft Requirements** You are trained in Nature, and can cast a fungus
+  spell or are fungus."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

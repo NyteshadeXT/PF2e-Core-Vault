@@ -2,34 +2,37 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "open-mind"
 aliases: "Open Mind"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "900"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Abraxas teaches knowledge is the only power that matters. This tattoo of a stylized eye provides a +1 item bonus to Lore checks.  **Activate** `pf2:1` envision  **Frequency** once per hour  * * *  **Effect** Abraxas opens your inner eye; you gain the effects of [[Spells/Hypercognition|Hypercognition]]."
+description: "Abraxas teaches knowledge is the only power that matters. This tattoo
+  of a stylized eye provides a +1 item bonus to Lore checks.  **Activate** `pf2:1`
+  envision  **Frequency** once per hour  * * *  **Effect** Abraxas opens your inner
+  eye; you gain the effects of [[Spells/Hypercognition|Hypercognition]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

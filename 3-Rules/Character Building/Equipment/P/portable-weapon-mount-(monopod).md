@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "portable-weapon-mount-(monopod)"
 aliases: "Portable Weapon Mount (Monopod)"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Powerful firearms like the arquebus were originally used to defend fortifications or ships, mounted on casements or pintles to steady their aim and offset their recoil. More mobile means of stabilizing weapons with kickback were developed as firearms began to spread across the Inner Sea. The standard tripod takes an Interact action to deploy using one hand.  Monopods are lighter and can be deployed with a single hand using the same action as drawing the firearm. They still require an Interact action to retrieve. Monopods are less stable than a tripod, and firing a kickback weapon from a monopod without the necessary Strength reduces the penalty to a -1 circumstance penalty instead of removing it entirely."
+description: "Powerful firearms like the arquebus were originally used to defend fortifications
+  or ships, mounted on casements or pintles to steady their aim and offset their recoil.
+  More mobile means of stabilizing weapons with kickback were developed as firearms
+  began to spread across the Inner Sea. The standard tripod takes an Interact action
+  to deploy using one hand.  Monopods are lighter and can be deployed with a single
+  hand using the same action as drawing the firearm. They still require an Interact
+  action to retrieve. Monopods are less stable than a tripod, and firing a kickback
+  weapon from a monopod without the necessary Strength reduces the penalty to a -1
+  circumstance penalty instead of removing it entirely."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

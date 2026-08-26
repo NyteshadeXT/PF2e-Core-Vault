@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "retrieval-prism"
 aliases: "Retrieval Prism"
@@ -15,21 +15,29 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "12"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` command  **Requirements** You have a free hand.  * * *  This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of Affixing this Talisman, you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand.  The retrieval prism can't retrieve an item that's not on your plane, including one that's in an extradimensional space like a bag of holding. If you haven't expended the talisman, you can attune it to a different item by Affixing the Talisman again."
+description: "**Usage** affixed to armor  **Activate** `pf2:0` command  **Requirements**
+  You have a free hand.  * * *  This triangular prism showing swirling black patterns
+  inside constantly moves around on your armor, no matter where you affix it. As part
+  of the process of Affixing this Talisman, you attune it to a single item of 1 Bulk
+  or less. When you activate this talisman, the attuned item immediately teleports
+  into your hand.  The retrieval prism can't retrieve an item that's not on your plane,
+  including one that's in an extradimensional space like a bag of holding. If you
+  haven't expended the talisman, you can attune it to a different item by Affixing
+  the Talisman again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

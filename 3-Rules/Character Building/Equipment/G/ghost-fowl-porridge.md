@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-fowl-porridge"
 aliases: "Ghost Fowl Porridge"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *  This robust porridge—made from a cockatrice distilled into a broth, hot peppers from a demonic source, and various toppings—causes diners to utter a ghostly wail from the intense heat.  Consuming the porridge grants you a +2 item bonus to saving throws against being [[Conditions/Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.  [[Equipment Effects/Effect_ Ghost Fowl Porridge|Effect: Ghost Fowl Porridge]]"
+description: "**Activate** `pf2:1` (manipulate)  **Access** Tian Xia origin  * * *\
+  \  This robust porridge—made from a cockatrice distilled into a broth, hot peppers
+  from a demonic source, and various toppings—causes diners to utter a ghostly wail
+  from the intense heat.  Consuming the porridge grants you a +2 item bonus to saving
+  throws against being [[Conditions/Petrified|Petrified]] for 1 hour. You also gain
+  resistance 3 against physical damage for the duration.  [[Equipment Effects/Effect_
+  Ghost Fowl Porridge|Effect: Ghost Fowl Porridge]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

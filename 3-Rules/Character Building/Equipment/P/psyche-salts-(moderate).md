@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "psyche-salts-(moderate)"
 aliases: "Psyche Salts (Moderate)"
 source: "Pathfinder #214: The Broken Palace"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A dose of psyche salts is kept in a small, corked vial. When you activate psyche salts, you uncork and pass the open end of the vial near the head of an adjacent creature. The salts within fizz and evaporate, creating a sour-smelling cloud that envelops the creature's head before fading. As they do, the vapors attempt to clear harmful influences from the creature's mind. The creature gains the effect of a 4th-rank [[Spells/Clear Mind|Clear Mind]] spell with a +17 counteract check modifier and a +2 item bonus to saving throws against mental effects for 10 minutes."
+description: "**Activate** `pf2:1` (manipulate)  * * *  A dose of psyche salts is
+  kept in a small, corked vial. When you activate psyche salts, you uncork and pass
+  the open end of the vial near the head of an adjacent creature. The salts within
+  fizz and evaporate, creating a sour-smelling cloud that envelops the creature's
+  head before fading. As they do, the vapors attempt to clear harmful influences from
+  the creature's mind. The creature gains the effect of a 4th-rank [[Spells/Clear
+  Mind|Clear Mind]] spell with a +17 counteract check modifier and a +2 item bonus
+  to saving throws against mental effects for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

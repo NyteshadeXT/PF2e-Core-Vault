@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "psychic-colors-elixir"
 aliases: "Psychic Colors Elixir"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This orange liquid lets you visibly detect the psychic energies that enable telekinesis and telepathy. For the next minute, you can sense if a creature you can see is using a telepathic or telekinetic ability, such as the telepathy monster ability, spells like [[Spells/Telekinetic Projectile|Telekinetic Projectile]] or [[Spells/Telepathic Bond|Telepathic Bond]], or similar abilities. You also can sense if an object or creature you can see is being manipulated or contacted by such an ability. Both the user and the target of the ability are outlined in faint shimmers of matching color."
+description: "**Activate** `pf2:1` Interact  This orange liquid lets you visibly detect
+  the psychic energies that enable telekinesis and telepathy. For the next minute,
+  you can sense if a creature you can see is using a telepathic or telekinetic ability,
+  such as the telepathy monster ability, spells like [[Spells/Telekinetic Projectile|Telekinetic
+  Projectile]] or [[Spells/Telepathic Bond|Telepathic Bond]], or similar abilities.
+  You also can sense if an object or creature you can see is being manipulated or
+  contacted by such an ability. Both the user and the target of the ability are outlined
+  in faint shimmers of matching color."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

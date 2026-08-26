@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-chromatic-burst-(4th-level)"
 aliases: "Wand of Chromatic Burst (4th-level)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This intricately carved quartz wand changes color, cycling through the colors of the rainbow.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 4th-rank [[Spells/Chromatic Armor|Chromatic Armor]]. Additionally, the target can use the Chromatic Armor Burst action.  * * *  **Chromatic Armor Burst** `pf2:1` (concentrate, evocation, light, magical)  **Requirements** You're affected by [[Spells/Chromatic Armor|Chromatic Armor]] created by the _wand of chromatic burst_  * * *  **Effect** Choose one color of the [[Spells/Chromatic Armor|Chromatic Armor]] the wand created for you. The spell ends and light of that color flashes brightly in a 20-foot emanation. Creatures in the area take 4d6 damage of the type associated with the color you chose, with a basic Reflex save against your spell DC. This action has the trait corresponding to the damage type you chose.  * * *  **Craft Requirements** Supply a casting of [[Spells/Chromatic Armor|Chromatic Armor]] of the appropriate rank."
+description: "This intricately carved quartz wand changes color, cycling through the
+  colors of the rainbow.  **Activate** Cast a Spell  **Frequency** once per day, plus
+  overcharge  * * *  **Effect** You cast 4th-rank [[Spells/Chromatic Armor|Chromatic
+  Armor]]. Additionally, the target can use the Chromatic Armor Burst action.  * *
+  *  **Chromatic Armor Burst** `pf2:1` (concentrate, evocation, light, magical)  **Requirements**
+  You're affected by [[Spells/Chromatic Armor|Chromatic Armor]] created by the _wand
+  of chromatic burst_  * * *  **Effect** Choose one color of the [[Spells/Chromatic
+  Armor|Chromatic Armor]] the wand created for you. The spell ends and light of that
+  color flashes brightly in a 20-foot emanation. Creatures in the area take 4d6 damage
+  of the type associated with the color you chose, with a basic Reflex save against
+  your spell DC. This action has the trait corresponding to the damage type you chose.\
+  \  * * *  **Craft Requirements** Supply a casting of [[Spells/Chromatic Armor|Chromatic
+  Armor]] of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

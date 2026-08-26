@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-choking-mist-(solid-fog)"
 aliases: "Wand of Choking Mist (Solid Fog)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "wand"
 trait03: "water"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This blackened wood wand has a smoldering tip, emitting a slight trail of steam.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Solid Fog|Solid Fog]] but the mist prevents creatures from being able to breathe in its area. They must hold their breath or start suffocating.  * * *  **Craft Requirements** Supply a casting of [[Spells/Solid Fog|Solid Fog]]."
+description: "This blackened wood wand has a smoldering tip, emitting a slight trail
+  of steam.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge\
+  \  * * *  **Effect** You cast [[Spells/Solid Fog|Solid Fog]] but the mist prevents
+  creatures from being able to breathe in its area. They must hold their breath or
+  start suffocating.  * * *  **Craft Requirements** Supply a casting of [[Spells/Solid
+  Fog|Solid Fog]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

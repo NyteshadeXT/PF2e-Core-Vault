@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scorpion-whip"
 aliases: "Scorpion Whip"
 source: "Pathfinder #151: The Show Must Go On"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "disarm"
 trait02: "finesse"
 trait03: "reach"
 trait04: "trip"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A scorpion whip has a series of razor-sharp blades set along its tip. Unlike ordinary whips, a scorpion whip doesn't have the nonlethal trait, making it deadlier in combat but less effective when the wielder seeks to bring in foes alive."
+description: "A scorpion whip has a series of razor-sharp blades set along its tip.
+  Unlike ordinary whips, a scorpion whip doesn't have the nonlethal trait, making
+  it deadlier in combat but less effective when the wielder seeks to bring in foes
+  alive."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 slashing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

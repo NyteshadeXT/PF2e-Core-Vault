@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snagging-hook-snare"
 aliases: "Snagging Hook Snare"
@@ -16,20 +16,24 @@ trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "180"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC 29 Reflex check save.  On a critical failure, the hooks piercing its flesh make the creature [[Conditions/Immobilized|Immobilized]] until it successfully [[Actions/escape dc=29|escape dc=29]]{Escapes} (DC 29)."
+description: "This snare snags a creature with its wicked metal hooks. The first creature
+  to enter the square takes 5d8 piercing damage and 5d8 slashing damage, with a DC
+  29 Reflex check save.  On a critical failure, the hooks piercing its flesh make
+  the creature [[Conditions/Immobilized|Immobilized]] until it successfully [[Actions/escape
+  dc=29|escape dc=29]]{Escapes} (DC 29)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

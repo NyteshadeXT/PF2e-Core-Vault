@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "uzunjati-storytelling-amulet"
 aliases: "Uzunjati Storytelling Amulet"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,25 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "145"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This round, flat amulet can be made of metal, clay, or leather and is usually highly personalized with runes, sigils, lines of poetry, or a depiction of a storyteller at work. In Azimbye's case, their gold-rimmed metal amulet boasts fine dwarven workmanship, and bears lines from one of the oldest epic poems of the legendary folk hero Kgalaserke on one side and a stylized portrait of a storytelling event in Ranage's Circle on the other. While wearing the amulet, you gain a +1 item bonus to Performance checks.  * * *  **Activate—Enamoring Story** `pf2:0` (concentrate)  **Frequency** once per day  **Trigger** The perfect anecdote or story to impress your interlocutor comes floating to your memory.  * * *  You attempt to [[Actions/make-an-impression skill=performance|make-an-impression skill=performance]]{Make an Impression} or [[Actions/request skill=performance|request skill=performance]]{Request}, using a Performance check instead of a Diplomacy check."
+description: "This round, flat amulet can be made of metal, clay, or leather and is
+  usually highly personalized with runes, sigils, lines of poetry, or a depiction
+  of a storyteller at work. In Azimbye's case, their gold-rimmed metal amulet boasts
+  fine dwarven workmanship, and bears lines from one of the oldest epic poems of the
+  legendary folk hero Kgalaserke on one side and a stylized portrait of a storytelling
+  event in Ranage's Circle on the other. While wearing the amulet, you gain a +1 item
+  bonus to Performance checks.  * * *  **Activate—Enamoring Story** `pf2:0` (concentrate)\
+  \  **Frequency** once per day  **Trigger** The perfect anecdote or story to impress
+  your interlocutor comes floating to your memory.  * * *  You attempt to [[Actions/make-an-impression
+  skill=performance|make-an-impression skill=performance]]{Make an Impression} or
+  [[Actions/request skill=performance|request skill=performance]]{Request}, using
+  a Performance check instead of a Diplomacy check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

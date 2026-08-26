@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "knights-maintenance-kit"
 aliases: "Knight's Maintenance Kit"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This set of gear contains a repair kit, cloth rolls for storing or covering equipment, and specialized mixtures developed by the Knights of Lastwall to clean and treat armaments for continued use. This kit gives you a +1 item bonus to checks to Repair weapons, shields, and armor using the Crafting skill, and you restore an additional 5 Hit Points when you successfully Repair such items using it."
+description: "This set of gear contains a repair kit, cloth rolls for storing or covering
+  equipment, and specialized mixtures developed by the Knights of Lastwall to clean
+  and treat armaments for continued use. This kit gives you a +1 item bonus to checks
+  to Repair weapons, shields, and armor using the Crafting skill, and you restore
+  an additional 5 Hit Points when you successfully Repair such items using it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

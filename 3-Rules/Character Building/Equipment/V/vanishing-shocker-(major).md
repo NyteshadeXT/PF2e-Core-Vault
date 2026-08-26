@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vanishing-shocker-(major)"
 aliases: "Vanishing Shocker (Major)"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "electricity"
 trait03: "gadget"
 trait04: "illusion"
 trait05: "magical"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  The vanishing shocker is a cube with extruding spikes at each corner. This inscrutable device channels occult energy through the electricity it produces, creating the result of invisible lighting. When activated, the cube floats above your head, creating a field of invisible electricity in a 10-foot emanation that lasts for 1 round. You and creatures within the emanation are [[Conditions/Concealed|Concealed]]. Creatures that enter or start their turn within the area must attempt a DC 38 Reflex check save.  * * *  **Success** The target is unaffected.  **Failure** The target is [[Conditions/Off-Guard|Off-Guard]] for 1 round.  **Critical Failure** The target is [[Conditions/Clumsy|Clumsy 1]] and off-guard for 1 round."
+description: "**Activate** `pf2:1` (manipulate)  * * *  The vanishing shocker is a
+  cube with extruding spikes at each corner. This inscrutable device channels occult
+  energy through the electricity it produces, creating the result of invisible lighting.
+  When activated, the cube floats above your head, creating a field of invisible electricity
+  in a 10-foot emanation that lasts for 1 round. You and creatures within the emanation
+  are [[Conditions/Concealed|Concealed]]. Creatures that enter or start their turn
+  within the area must attempt a DC 38 Reflex check save.  * * *  **Success** The
+  target is unaffected.  **Failure** The target is [[Conditions/Off-Guard|Off-Guard]]
+  for 1 round.  **Critical Failure** The target is [[Conditions/Clumsy|Clumsy 1]]
+  and off-guard for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

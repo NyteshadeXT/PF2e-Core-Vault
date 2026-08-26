@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "magnifying-scope-(major)"
 aliases: "Magnifying Scope (Major)"
@@ -13,7 +13,7 @@ source: "Pathfinder Guns & Gears"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "attached to crossbow or firearm scope"
 license: "ORC"
 identify:
-description: "These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +3 item bonus to visual Perception checks to [[Actions/Seek|Seek]] creatures through the scope.  **Activate—Zoom In** `pf2:1` (manipulate)  * * *  **Effect** You zoom in on your targets to make it easier to hit them at a distance. You increase the range increment of the weapon to which the scope is attached by 20 feet until the beginning of your next turn or until you're no longer wielding the weapon, whichever comes first."
+description: "These scopes use magically enhanced lenses to extend the range of your
+  weapon and help spot distant foes. The scope grants you a +3 item bonus to visual
+  Perception checks to [[Actions/Seek|Seek]] creatures through the scope.  **Activate—Zoom
+  In** `pf2:1` (manipulate)  * * *  **Effect** You zoom in on your targets to make
+  it easier to hit them at a distance. You increase the range increment of the weapon
+  to which the scope is attached by 20 feet until the beginning of your next turn
+  or until you're no longer wielding the weapon, whichever comes first."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

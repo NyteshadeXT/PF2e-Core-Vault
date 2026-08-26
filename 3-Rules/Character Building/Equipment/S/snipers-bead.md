@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snipers-bead"
 aliases: "Sniper's Bead"
@@ -15,21 +15,27 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "16"
 subvalue: "gp"
 invest:
 usage: "affixed to a two handed firearm or crossbow"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a ranged Strike with the affixed weapon before rolling;  **Requirements** You're a master with the affixed weapon.  * * *  This plain wooden bead dangles from a string attached to the stock of the affixed weapon. When you activate the bead, its magic greatly lessens the effect of distance on your triggering attack.  You take no range increment penalty on your attack, as long as the attack is against a target within the affixed weapon's first two range increments."
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a ranged
+  Strike with the affixed weapon before rolling;  **Requirements** You're a master
+  with the affixed weapon.  * * *  This plain wooden bead dangles from a string attached
+  to the stock of the affixed weapon. When you activate the bead, its magic greatly
+  lessens the effect of distance on your triggering attack.  You take no range increment
+  penalty on your attack, as long as the attack is against a target within the affixed
+  weapon's first two range increments."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warcallers-chime-of-refuge"
 aliases: "Warcaller's Chime of Refuge"
 source: "Pathfinder #170: Spoken on the Song Wind"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This chime's carvings depict a series of warding runes that evoke feelings of serene protection. When activated, you touch the chime to yourself or a willing creature. The target gains the effects of [[Spells/Sanctuary|Sanctuary]] (DC 20 Will check save). You can use this chime up to five times per day, but each use must target a different creature."
+description: "This chime's carvings depict a series of warding runes that evoke feelings
+  of serene protection. When activated, you touch the chime to yourself or a willing
+  creature. The target gains the effects of [[Spells/Sanctuary|Sanctuary]] (DC 20
+  Will check save). You can use this chime up to five times per day, but each use
+  must target a different creature."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

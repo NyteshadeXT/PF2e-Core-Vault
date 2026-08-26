@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sea-touch-elixir-(lesser)"
 aliases: "Sea Touch Elixir (Lesser)"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "polymorph"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for 10 minutes.  [[Equipment Effects/Effect_ Sea Touch Elixir (Lesser)|Effect: Sea Touch Elixir (Lesser)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  This briny concoction alters
+  the skin on your hands and feet. The spaces between your fingers and toes become
+  webbed, granting you a swim Speed of 20 feet for 10 minutes.  [[Equipment Effects/Effect_
+  Sea Touch Elixir (Lesser)|Effect: Sea Touch Elixir (Lesser)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

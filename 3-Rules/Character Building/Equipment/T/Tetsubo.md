@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tetsubo"
 aliases: "Tetsubo"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "razing"
 trait02: "shove"
 trait03: "sweep"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The tetsubo is a war club constructed out of heavy wood shod with iron studs, designed for smashing through armor and defenses. A tetsubo made entirely out of metal might also be referred to as a kanabo."
+description: "The tetsubo is a war club constructed out of heavy wood shod with iron
+  studs, designed for smashing through armor and defenses. A tetsubo made entirely
+  out of metal might also be referred to as a kanabo."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d10 bludgeoning
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

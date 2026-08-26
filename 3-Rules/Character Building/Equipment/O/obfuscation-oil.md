@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "obfuscation-oil"
 aliases: "Obfuscation Oil"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You can spread this blue-gray gel on a single item with a Bulk of 3 or less to ward it against magical detection. It becomes immune to divination magic of 8th rank or lower (such as [[Spells/Locate|Locate]]). This oil is permanent, but it can be removed with acid. Removing the oil in this way usually takes 1 minute for objects with Bulk of 1 or less, or a number of minutes equal to the item's Bulk."
+description: "**Activate** `pf2:1` (manipulate)  * * *  You can spread this blue-gray
+  gel on a single item with a Bulk of 3 or less to ward it against magical detection.
+  It becomes immune to divination magic of 8th rank or lower (such as [[Spells/Locate|Locate]]).
+  This oil is permanent, but it can be removed with acid. Removing the oil in this
+  way usually takes 1 minute for objects with Bulk of 1 or less, or a number of minutes
+  equal to the item's Bulk."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

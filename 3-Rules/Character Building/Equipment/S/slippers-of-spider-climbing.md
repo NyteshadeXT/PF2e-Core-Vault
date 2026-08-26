@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slippers-of-spider-climbing"
 aliases: "Slippers of Spider Climbing"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,15 @@ invest:
 usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These soft slippers are made of fine gray silk. If the slippers are left unattended for a while, they tend to attract spiders that nest inside.  **Activate** `pf2:1` command  **Frequency** once per hour  * * *  **Effect** Tiny, hairlike tendrils extend from the slippers' soles, allowing you to walk on vertical surfaces or even to move upside down along ceilings.  For 1 minute, you gain a 20-foot climb Speed and you don't need to use your hands to Climb. However, the slippers require decent traction for you to walk on a wall, so they provide no benefit when you're moving across greased, icy, or oiled surfaces.  [[Equipment Effects/Effect_ Slippers of Spider Climbing|Effect: Slippers of Spider Climbing]]"
+description: "These soft slippers are made of fine gray silk. If the slippers are
+  left unattended for a while, they tend to attract spiders that nest inside.  **Activate**
+  `pf2:1` command  **Frequency** once per hour  * * *  **Effect** Tiny, hairlike tendrils
+  extend from the slippers' soles, allowing you to walk on vertical surfaces or even
+  to move upside down along ceilings.  For 1 minute, you gain a 20-foot climb Speed
+  and you don't need to use your hands to Climb. However, the slippers require decent
+  traction for you to walk on a wall, so they provide no benefit when you're moving
+  across greased, icy, or oiled surfaces.  [[Equipment Effects/Effect_ Slippers of
+  Spider Climbing|Effect: Slippers of Spider Climbing]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

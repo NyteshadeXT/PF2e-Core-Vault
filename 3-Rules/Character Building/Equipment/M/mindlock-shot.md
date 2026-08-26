@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mindlock-shot"
 aliases: "Mindlock Shot"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "250"
 subvalue: "gp"
 invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:2` command, envision  _Mindlock shot_ is made of luminous ectoplasm in a crystalline form. When you command this ammunition, you pick a Stride or Strike. If you hit a creature with the ammunition, it falls under a mental effect that makes it use its first action on its next turn to take the action you picked. It chooses exactly how to use that action, and if you choose Stride, the target can Step if doing so is beneficial for it. On a critical hit, the target must use its next 2 actions to do as you chose, within the same parameters."
+description: "**Ammunition** any  **Activate** `pf2:2` command, envision  _Mindlock
+  shot_ is made of luminous ectoplasm in a crystalline form. When you command this
+  ammunition, you pick a Stride or Strike. If you hit a creature with the ammunition,
+  it falls under a mental effect that makes it use its first action on its next turn
+  to take the action you picked. It chooses exactly how to use that action, and if
+  you choose Stride, the target can Step if doing so is beneficial for it. On a critical
+  hit, the target must use its next 2 actions to do as you chose, within the same
+  parameters."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

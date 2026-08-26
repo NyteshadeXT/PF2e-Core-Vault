@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reading-ring"
 aliases: "Reading Ring"
@@ -13,7 +13,7 @@ source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,23 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "15"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "A _reading ring_ is personalized to its user and capable of reading only languages in which the user is fluent. Each ring is unique and can't be used by anyone other than its specific bonded user. A _reading ring_ is bonded to its user in a process that taps into the user's inner potential, similar to an invested item, except the process takes 10 minutes, is permanent, and doesn't count toward your number of invested items. You can wear the ring in various ways, often either on a finger or a chain worn about your person if you can't have it on a digit. You can use the _reading ring_ to read text by taking an Interact action, and you read with the ring at roughly the same rate as a visual reader. There is no limit to how often you can use the ring to read in this manner."
+description: "A _reading ring_ is personalized to its user and capable of reading
+  only languages in which the user is fluent. Each ring is unique and can't be used
+  by anyone other than its specific bonded user. A _reading ring_ is bonded to its
+  user in a process that taps into the user's inner potential, similar to an invested
+  item, except the process takes 10 minutes, is permanent, and doesn't count toward
+  your number of invested items. You can wear the ring in various ways, often either
+  on a finger or a chain worn about your person if you can't have it on a digit. You
+  can use the _reading ring_ to read text by taking an Interact action, and you read
+  with the ring at roughly the same rate as a visual reader. There is no limit to
+  how often you can use the ring to read in this manner."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

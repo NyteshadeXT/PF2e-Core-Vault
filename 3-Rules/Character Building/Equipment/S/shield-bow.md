@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shield-bow"
 aliases: "Shield Bow"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "deadly-d8"
 trait02: "parry"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "As the name implies, a shield bow is a bow with an integrated shielding surface. While versatile and effective, a shield bow's architecture limits its flexibility somewhat, decreasing its total draw strength and penetrating power."
+description: "As the name implies, a shield bow is a bow with an integrated shielding
+  surface. While versatile and effective, a shield bow's architecture limits its flexibility
+  somewhat, decreasing its total draw strength and penetrating power."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

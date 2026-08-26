@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mantis-embrace"
 aliases: "Mantis Embrace"
 source: "Pathfinder Adventure: Prey for Death"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These stylized red gloves are constructed from plates of leather that have been treated to resemble insect chitin. The gloves grant the wearer a +2 item bonus to Athletics checks to [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]].  **Activate—Crushing Embrace** `pf2:1` (manipulate)  **Frequency** once per hour  **Requirements** You are grappling a creature  * * *  **Effect** You Strike the creature you are grappling with a melee weapon or unarmed attack. This Strike deals an additional 3d6 precision damage and gains the death trait. The body of a creature that is slain by Crushing Embrace is so gruesomely damaged that the creature's body cannot be affected by any effect that requires an intact body to function, such as the [[Spells/Talking Corpse|Talking Corpse]] spell."
+description: "These stylized red gloves are constructed from plates of leather that
+  have been treated to resemble insect chitin. The gloves grant the wearer a +2 item
+  bonus to Athletics checks to [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]].\
+  \  **Activate—Crushing Embrace** `pf2:1` (manipulate)  **Frequency** once per hour\
+  \  **Requirements** You are grappling a creature  * * *  **Effect** You Strike the
+  creature you are grappling with a melee weapon or unarmed attack. This Strike deals
+  an additional 3d6 precision damage and gains the death trait. The body of a creature
+  that is slain by Crushing Embrace is so gruesomely damaged that the creature's body
+  cannot be affected by any effect that requires an intact body to function, such
+  as the [[Spells/Talking Corpse|Talking Corpse]] spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

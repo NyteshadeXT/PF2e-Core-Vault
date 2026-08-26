@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sages-bloom"
 aliases: "Sage's Bloom"
 source: "Pathfinder #202: Severed at the Root"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "affixed to headgear"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a Nature check to [[Actions/Recall Knowledge|Recall Knowledge]] but haven't rolled  **Requirements** You're trained in Nature.  * * *  This simple white flower is placed into a hat or worn braided into your hair. When activated, it releases a soothing scent, which helps you focus your mind. When you activate the talisman, you Recall Knowledge three times, rather than once. If you use Nature for any of these checks and get a critical failure, that check is instead a failure."
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt a Nature
+  check to [[Actions/Recall Knowledge|Recall Knowledge]] but haven't rolled  **Requirements**
+  You're trained in Nature.  * * *  This simple white flower is placed into a hat
+  or worn braided into your hair. When activated, it releases a soothing scent, which
+  helps you focus your mind. When you activate the talisman, you Recall Knowledge
+  three times, rather than once. If you use Nature for any of these checks and get
+  a critical failure, that check is instead a failure."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

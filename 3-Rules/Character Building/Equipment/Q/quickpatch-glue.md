@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "quickpatch-glue"
 aliases: "Quickpatch Glue"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (Interact)  * * *  Quickpatch glue is a fast-setting adhesive designed for rapid but temporary repairs.  When applied to a broken item, the glue adheres the item's pieces back together. This does not restore the item's hit points, but it allows the item to be used for its normal function and removes the broken condition. The glue is fragile and degrades over time. An item repaired by quickpatch glue regains the broken condition after it takes damage or 1 hour passes (whichever comes first). In order to apply a new vial of quickpatch glue to or repair the item, the item's holder must first remove the glue residue, a process that requires 10 minutes of effort and a set of alchemist's tools."
+description: "**Activate** 1 minute (Interact)  * * *  Quickpatch glue is a fast-setting
+  adhesive designed for rapid but temporary repairs.  When applied to a broken item,
+  the glue adheres the item's pieces back together. This does not restore the item's
+  hit points, but it allows the item to be used for its normal function and removes
+  the broken condition. The glue is fragile and degrades over time. An item repaired
+  by quickpatch glue regains the broken condition after it takes damage or 1 hour
+  passes (whichever comes first). In order to apply a new vial of quickpatch glue
+  to or repair the item, the item's holder must first remove the glue residue, a process
+  that requires 10 minutes of effort and a set of alchemist's tools."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

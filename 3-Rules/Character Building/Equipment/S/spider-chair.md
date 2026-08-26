@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spider-chair"
 aliases: "Spider Chair"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,15 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This clockwork traveler's chair has spinnerets and spider legs that allow it to roll up walls, fire web lines to pull you to a location, and obstruct foes with webs. While using the chair, you gain a climb Speed equal to your Speed.  * * *  **Activate—Web Swing** `pf2:1` (manipulate)  **Frequency** once per minute  **Effect** The chair shoots a web line at a solid wall, floor, or ceiling up to 60 feet away and then pulls itself and you to that location.  * * *  **Activate—Web** `pf2:3` (manipulate)  **Frequency** once per hour  **Effect** You cause the chair to launch an enormous web to hinder your foes, with the effects of a 4th-rank [[Spells/Web|Web]] spell."
+description: "This clockwork traveler's chair has spinnerets and spider legs that
+  allow it to roll up walls, fire web lines to pull you to a location, and obstruct
+  foes with webs. While using the chair, you gain a climb Speed equal to your Speed.\
+  \  * * *  **Activate—Web Swing** `pf2:1` (manipulate)  **Frequency** once per minute\
+  \  **Effect** The chair shoots a web line at a solid wall, floor, or ceiling up
+  to 60 feet away and then pulls itself and you to that location.  * * *  **Activate—Web**
+  `pf2:3` (manipulate)  **Frequency** once per hour  **Effect** You cause the chair
+  to launch an enormous web to hinder your foes, with the effects of a 4th-rank [[Spells/Web|Web]]
+  spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

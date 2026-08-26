@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "skeleton-key-(greater)"
 aliases: "Skeleton Key (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1250"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A grinning skull tops the bow of this macabre key. This key can be used in place of thieves' toolkit when attempting to Pick a Lock, and it grants a +2 item bonus to the Thievery check.  If the _skeleton key_ becomes broken due to a critical failure on the check, it works as normal thieves' toolkit and loses its benefits until repaired.  **Activate—Loosen Lock** `pf2:0` (manipulate)  **Frequency** once per hour  **Trigger** You attempt to Pick a Lock but haven't rolled yet  * * *  **Effect** The key casts [[Spells/Knock|Knock]] on the lock you're trying to pick."
+description: "A grinning skull tops the bow of this macabre key. This key can be used
+  in place of thieves' toolkit when attempting to Pick a Lock, and it grants a +2
+  item bonus to the Thievery check.  If the _skeleton key_ becomes broken due to a
+  critical failure on the check, it works as normal thieves' toolkit and loses its
+  benefits until repaired.  **Activate—Loosen Lock** `pf2:0` (manipulate)  **Frequency**
+  once per hour  **Trigger** You attempt to Pick a Lock but haven't rolled yet  *
+  * *  **Effect** The key casts [[Spells/Knock|Knock]] on the lock you're trying to
+  pick."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

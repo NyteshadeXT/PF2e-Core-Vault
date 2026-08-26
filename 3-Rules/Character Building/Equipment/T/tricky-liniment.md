@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tricky-liniment"
 aliases: "Tricky Liniment"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This greenish, persistent grease can be applied to armor to make it extremely slippery for 8 hours, granting the wearer a +2 item bonus to Acrobatics checks to [[Actions/Escape|Escape]] or to [[Actions/Squeeze|Squeeze]].  [[Equipment Effects/Effect_ Tricky Liniment|Effect: Tricky Liniment]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  This greenish, persistent
+  grease can be applied to armor to make it extremely slippery for 8 hours, granting
+  the wearer a +2 item bonus to Acrobatics checks to [[Actions/Escape|Escape]] or
+  to [[Actions/Squeeze|Squeeze]].  [[Equipment Effects/Effect_ Tricky Liniment|Effect:
+  Tricky Liniment]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

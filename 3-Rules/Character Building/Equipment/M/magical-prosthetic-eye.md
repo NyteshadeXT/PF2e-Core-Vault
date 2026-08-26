@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "magical-prosthetic-eye"
 aliases: "Magical Prosthetic Eye"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This prosthetic eye converts visible light into a telepathic signal that is relayed to the wearer's mind using divination magic. As the wearer's mind must process the telepathic signal in the same way as it would a nerve impulse, the acuity and other abilities related to the vision provided by the magical prosthetic eye matches that of other members of your ancestry (for instance, a goblin with a magical prosthetic eye would be able to see in darkvision, while a human wearing the same prosthetic would need illumination). You can remove or replace a magical prosthetic eye using an Interact action."
+description: "This prosthetic eye converts visible light into a telepathic signal
+  that is relayed to the wearer's mind using divination magic. As the wearer's mind
+  must process the telepathic signal in the same way as it would a nerve impulse,
+  the acuity and other abilities related to the vision provided by the magical prosthetic
+  eye matches that of other members of your ancestry (for instance, a goblin with
+  a magical prosthetic eye would be able to see in darkvision, while a human wearing
+  the same prosthetic would need illumination). You can remove or replace a magical
+  prosthetic eye using an Interact action."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tales-in-timber-(major)"
 aliases: "Tales in Timber (Major)"
@@ -15,21 +15,36 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "wood"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "22000"
 subvalue: "gp"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Dozens of pictorial stories—told in wood carvings, painting, or pyrography—adorn every outer surface of this _+2 greater resilient wooden breastplate_. All are old, and many truly ancient, depicting tales set eons ago on the Plane of Wood. You gain a +3 item bonus to Nature checks to Recall Knowledge. If you know the [[Spells/Collective Memories|Collective Memories]] ritual, you can use Nature instead of Occultism if you're the primary caster.  * * *  **Activate—Statue Disguise** `pf2:2`  **Frequency** once per day  **Effect** The armor makes you look like a wooden statue version of one of the creatures depicted on the armor for 1 hour. This is a 3rd-rank [[Spells/Illusory Disguise|Illusory Disguise]], but it can make you look like any creature depicted on the armor. This doesn't change your size or the capabilities of your body, and it scales the appearance of the creature to match yours. You can Dismiss the activation. This disguise is just real enough to make you somewhat closer to a creature of wood. You're affected by two spells while it lasts: 6th-rank [[Spells/Oaken Resilience|Oaken Resilience]] and [[Spells/Speak with Plants|Speak with Plants]]. If you stand still, you gain a +2 item bonus to Deception checks and DCs to appear as an inanimate wooden statue, in addition to the status bonus to Deception from _illusory disguise_."
+description: "Dozens of pictorial stories—told in wood carvings, painting, or pyrography—adorn
+  every outer surface of this _+2 greater resilient wooden breastplate_. All are old,
+  and many truly ancient, depicting tales set eons ago on the Plane of Wood. You gain
+  a +3 item bonus to Nature checks to Recall Knowledge. If you know the [[Spells/Collective
+  Memories|Collective Memories]] ritual, you can use Nature instead of Occultism if
+  you're the primary caster.  * * *  **Activate—Statue Disguise** `pf2:2`  **Frequency**
+  once per day  **Effect** The armor makes you look like a wooden statue version of
+  one of the creatures depicted on the armor for 1 hour. This is a 3rd-rank [[Spells/Illusory
+  Disguise|Illusory Disguise]], but it can make you look like any creature depicted
+  on the armor. This doesn't change your size or the capabilities of your body, and
+  it scales the appearance of the creature to match yours. You can Dismiss the activation.
+  This disguise is just real enough to make you somewhat closer to a creature of wood.
+  You're affected by two spells while it lasts: 6th-rank [[Spells/Oaken Resilience|Oaken
+  Resilience]] and [[Spells/Speak with Plants|Speak with Plants]]. If you stand still,
+  you gain a +2 item bonus to Deception checks and DCs to appear as an inanimate wooden
+  statue, in addition to the status bonus to Deception from _illusory disguise_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +62,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +91,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

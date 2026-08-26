@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-stable-form"
 aliases: "Potion of Stable Form"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This aromatic potion is brewed from the white flowers and black roots of the magical herb moly. When you drink this potion, it immediately attempts to counteract all hostile transmutation effects affecting you (counteract rank 5, counteract check modifier +17). For the next hour, you gain a +2 item bonus against transmutation effects, which is +3 against polymorph effects. If you roll a success against a polymorph effect during that time, you get a critical success instead.  [[Equipment Effects/Effect_ Potion of Stable Form|Effect: Potion of Stable Form]]"
+description: "This aromatic potion is brewed from the white flowers and black roots
+  of the magical herb moly. When you drink this potion, it immediately attempts to
+  counteract all hostile transmutation effects affecting you (counteract rank 5, counteract
+  check modifier +17). For the next hour, you gain a +2 item bonus against transmutation
+  effects, which is +3 against polymorph effects. If you roll a success against a
+  polymorph effect during that time, you get a critical success instead.  [[Equipment
+  Effects/Effect_ Potion of Stable Form|Effect: Potion of Stable Form]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

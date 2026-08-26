@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "navaratna-of-the-solar-ruby"
 aliases: "Navaratna of the Solar Ruby"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "divine"
-trait03: "unique"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,21 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "These nine flawless gems are set within a golden necklace, their centerpiece a holy ruby pulled from the center of a sun. So long as you are wearing the navaratna, you ignore all environmental effects due to temperature, do not take penalties due to wind, and ignore all damage and effects from droughts, floods, and earthquakes. You are also immune to damage from starvation. The navaratna does not otherwise grant you resistance against damage (such as fire or cold damage).  **Activate—Sutra of the Flawless Servant** `pf2:r` (concentrate, divine, fortune)  **Frequency** once per hour  **Trigger** An ally within 30 feet fails a saving throw against an environmental effect or a spell with the air, earth, fire, or water trait  * * *  **Effect** You offer a prayer for your divine protection to extend to your companion. The creature rerolls the triggering saving throw with a +2 item bonus. They must take the new result, even if it is worse.  * * *  **Destruction** The navaratna must be swallowed by a fiendish divine lion; the lion must then by killed by drowning in a lake of naga venom and left to rot for a year. At the stroke of midnight on the final day, the artifact is destroyed."
+description: "These nine flawless gems are set within a golden necklace, their centerpiece
+  a holy ruby pulled from the center of a sun. So long as you are wearing the navaratna,
+  you ignore all environmental effects due to temperature, do not take penalties due
+  to wind, and ignore all damage and effects from droughts, floods, and earthquakes.
+  You are also immune to damage from starvation. The navaratna does not otherwise
+  grant you resistance against damage (such as fire or cold damage).  **Activate—Sutra
+  of the Flawless Servant** `pf2:r` (concentrate, divine, fortune)  **Frequency**
+  once per hour  **Trigger** An ally within 30 feet fails a saving throw against an
+  environmental effect or a spell with the air, earth, fire, or water trait  * * *\
+  \  **Effect** You offer a prayer for your divine protection to extend to your companion.
+  The creature rerolls the triggering saving throw with a +2 item bonus. They must
+  take the new result, even if it is worse.  * * *  **Destruction** The navaratna
+  must be swallowed by a fiendish divine lion; the lion must then by killed by drowning
+  in a lake of naga venom and left to rot for a year. At the stroke of midnight on
+  the final day, the artifact is destroyed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +61,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +90,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

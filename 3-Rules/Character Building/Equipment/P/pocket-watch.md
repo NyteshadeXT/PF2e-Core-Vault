@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pocket-watch"
 aliases: "Pocket Watch"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a clockwork dial, except it has a maximum duration of 24 hours and is available to characters from Alkenstar."
+description: "This timepiece is a marvel of clockwork and miniaturization; its gears,
+  arbor, and mainspring are immaculately crafted and tuned to maximize precision and
+  reduce time loss. This pocket watch has the properties of a clockwork dial, except
+  it has a maximum duration of 24 hours and is available to characters from Alkenstar."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

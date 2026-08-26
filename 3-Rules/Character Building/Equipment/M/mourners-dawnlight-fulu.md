@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mourners-dawnlight-fulu"
 aliases: "Mourner's Dawnlight Fulu"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "120"
 subvalue: "gp"
 invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` command, envision, Interact  A _mourner's dawnlight fulu_ is a stack of pages that resembles joss paper, used to locate the remains of the lost. When you Activate the fulu, you envision a specific object or deceased creature you're familiar with and want to find. You then rip the fulu into pieces and let them drift in the wind. If the item or creature you seek is within 500 feet, the pieces flutter through the air and land on the target, or on the surface closest to a buried or otherwise obscured target. If the torn fulu lands or fails to locate the desired target, its magic ends."
+description: "**Activate** `pf2:3` command, envision, Interact  A _mourner's dawnlight
+  fulu_ is a stack of pages that resembles joss paper, used to locate the remains
+  of the lost. When you Activate the fulu, you envision a specific object or deceased
+  creature you're familiar with and want to find. You then rip the fulu into pieces
+  and let them drift in the wind. If the item or creature you seek is within 500 feet,
+  the pieces flutter through the air and land on the target, or on the surface closest
+  to a buried or otherwise obscured target. If the torn fulu lands or fails to locate
+  the desired target, its magic ends."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

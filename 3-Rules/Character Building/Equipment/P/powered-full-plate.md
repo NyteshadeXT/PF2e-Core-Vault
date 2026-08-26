@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "powered-full-plate"
 aliases: "Powered Full Plate"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "bulwark"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Stasian actuators help the limbs of this full plate move of their own accord, as long as they're supplied with power. A chamber in the chest plate can hold a single bottled lightning, which takes 3 Interact actions to install. A loaded suit of powered full plate can be activated to lower the armor's Strength requirement by 1 plus the item bonus of the loaded bomb. The armor's normal penalties still apply, based on this altered Strength. However, add the bottled lightning's item bonus to your Athletics checks to [[Actions/Force Open|Force Open]], [[Actions/High Jump|High Jump]], [[Actions/Long Jump|Long Jump]], and [[Actions/Shove|Shove]]. These effects last for 10 minutes. The armor uses up the bottled lightning during the duration and can't be activated again until a new one is installed."
+description: "**Activate** `pf2:1` Interact  Stasian actuators help the limbs of this
+  full plate move of their own accord, as long as they're supplied with power. A chamber
+  in the chest plate can hold a single bottled lightning, which takes 3 Interact actions
+  to install. A loaded suit of powered full plate can be activated to lower the armor's
+  Strength requirement by 1 plus the item bonus of the loaded bomb. The armor's normal
+  penalties still apply, based on this altered Strength. However, add the bottled
+  lightning's item bonus to your Athletics checks to [[Actions/Force Open|Force Open]],
+  [[Actions/High Jump|High Jump]], [[Actions/Long Jump|Long Jump]], and [[Actions/Shove|Shove]].
+  These effects last for 10 minutes. The armor uses up the bottled lightning during
+  the duration and can't be activated again until a new one is installed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

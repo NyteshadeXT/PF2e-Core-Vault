@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thundering"
 aliases: "Thundering"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "sonic"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "500"
 subvalue: "gp"
 invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "A _thundering_ weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target must succeed at a DC 24 Fortitude check save or be [[Conditions/Deafened|Deafened]] for 1 minute (or 1 hour on a critical failure)."
+description: "A _thundering_ weapon lets out a peal of thunder when it hits, dealing
+  an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target
+  must succeed at a DC 24 Fortitude check save or be [[Conditions/Deafened|Deafened]]
+  for 1 minute (or 1 hour on a critical failure)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

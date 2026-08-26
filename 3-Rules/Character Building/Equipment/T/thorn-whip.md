@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thorn-whip"
 aliases: "Thorn Whip"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "disarm"
 trait02: "finesse"
 trait03: "ghoran"
 trait04: "reach"
 trait05: "trip"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Carefully woven from plant fibers, the thorn whip sports small spikes that protrude from various locations."
+description: "Carefully woven from plant fibers, the thorn whip sports small spikes
+  that protrude from various locations."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oathlamp-of-accord"
 aliases: "Oathlamp of Accord"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "light"
 trait02: "magical"
 trait03: "mental"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This hooded lantern takes the form of a translucent prism. It functions as a normal [[Equipment/Lantern (Hooded)|Hooded Lantern]], except that it isn't fueled by oil, but by oaths. While you're holding the lantern, you gain a +1 item bonus to Diplomacy checks.  **Activate—Announce Oath** `pf2:r` (light, mental)  **Trigger** You make a promise in good faith  * * *  **Effect** The _oathlamp of accord_ sheds light without consuming fuel until the promise you made is broken or fulfilled. The GM adjudicates whether a spoken promise is broken or fulfilled. This light and the shutters to conceal it work as normal for a hooded lantern. Any creature in the light of the oathlamp becomes aware of the contents of the oath, along with who made it and how long ago."
+description: "This hooded lantern takes the form of a translucent prism. It functions
+  as a normal [[Equipment/Lantern (Hooded)|Hooded Lantern]], except that it isn't
+  fueled by oil, but by oaths. While you're holding the lantern, you gain a +1 item
+  bonus to Diplomacy checks.  **Activate—Announce Oath** `pf2:r` (light, mental) \
+  \ **Trigger** You make a promise in good faith  * * *  **Effect** The _oathlamp
+  of accord_ sheds light without consuming fuel until the promise you made is broken
+  or fulfilled. The GM adjudicates whether a spoken promise is broken or fulfilled.
+  This light and the shutters to conceal it work as normal for a hooded lantern. Any
+  creature in the light of the oathlamp becomes aware of the contents of the oath,
+  along with who made it and how long ago."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

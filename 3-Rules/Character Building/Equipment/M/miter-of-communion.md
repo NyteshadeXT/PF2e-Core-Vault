@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "miter-of-communion"
 aliases: "Miter of Communion"
 source: "Pathfinder Lost Omens Gods & Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity's servitors, granting you a +2 item bonus to Religion checks.  **Activate** 1 minute (command)  **Frequency** once per week  * * *  **Effect** You chant for a minute about a task at hand for the coming week to cast a 4th-rank [[Spells/Read Omens|Read Omens]] spell that grants you cryptic but useful advice."
+description: "This ornate headgear comes in many different shapes and sizes, though
+  most are elaborately decorated with motifs of the deity whose honor in which it
+  was made. The miter brings you spiritually closer to your deity's servitors, granting
+  you a +2 item bonus to Religion checks.  **Activate** 1 minute (command)  **Frequency**
+  once per week  * * *  **Effect** You chant for a minute about a task at hand for
+  the coming week to cast a 4th-rank [[Spells/Read Omens|Read Omens]] spell that grants
+  you cryptic but useful advice."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

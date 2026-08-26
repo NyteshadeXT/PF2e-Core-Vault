@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mythic-armor-potency"
 aliases: "Mythic Armor Potency"
 source: "Pathfinder War of Immortals"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "mythic"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,22 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "70000"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "This armor is etched with a mythical ward providing unparalleled defense. Increase the armor's item bonus to AC by 4, and the armor can be etched with four property runes.  * * *  **Activate—Survive Devastation** `pf2:r` (concentration)  **Trigger** An enemy critically succeeds against you with a weapon or unarmed Strike  **Effect** Spend a Mythic Point; if the triggering Strike was made by a mythic creature, it's a normal success instead. If it was made by a non-mythic creature, it's a failure.  * * *  **Craft Requirements** _Mythic armor potency_ runes can only be crafted, etched, or transferred by a mythic character capable of making a Crafting check at mythic proficiency (such as by having the Artisan's Calling)."
+description: "This armor is etched with a mythical ward providing unparalleled defense.
+  Increase the armor's item bonus to AC by 4, and the armor can be etched with four
+  property runes.  * * *  **Activate—Survive Devastation** `pf2:r` (concentration)\
+  \  **Trigger** An enemy critically succeeds against you with a weapon or unarmed
+  Strike  **Effect** Spend a Mythic Point; if the triggering Strike was made by a
+  mythic creature, it's a normal success instead. If it was made by a non-mythic creature,
+  it's a failure.  * * *  **Craft Requirements** _Mythic armor potency_ runes can
+  only be crafted, etched, or transferred by a mythic character capable of making
+  a Crafting check at mythic proficiency (such as by having the Artisan's Calling)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

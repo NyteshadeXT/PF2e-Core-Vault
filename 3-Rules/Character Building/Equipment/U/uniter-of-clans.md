@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "uniter-of-clans"
 aliases: "Uniter of Clans"
 source: "Pathfinder #193: Mantle of Gold"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "invested"
 trait02: "magical"
 trait03: "relic"
-trait04: "unique"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "125"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Resembling two hands clasped in friendship, this diplomat's badge is designed to be woven into the wearer's braided beard. When the wearer befriends others, one of the hands briefly transforms to resemble the befriended creature's own.  * * *  **Activate** `pf2:1` Recall Knowledge  **Frequency** once per day  * * *  **Effect** Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.  [[Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]"
+description: "Resembling two hands clasped in friendship, this diplomat's badge is
+  designed to be woven into the wearer's braided beard. When the wearer befriends
+  others, one of the hands briefly transforms to resemble the befriended creature's
+  own.  * * *  **Activate** `pf2:1` Recall Knowledge  **Frequency** once per day \
+  \ * * *  **Effect** Attempt a DC 20 check to Recall Knowledge about people of a
+  human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines
+  what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy
+  checks with creatures of that group for the rest of the day.  [[Equipment Effects/Effect_
+  Diplomat's Badge|Effect: Diplomat's Badge]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

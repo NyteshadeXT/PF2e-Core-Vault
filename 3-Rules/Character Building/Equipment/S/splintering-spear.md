@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "splintering-spear"
 aliases: "Splintering Spear"
@@ -16,7 +16,7 @@ trait01: "magical"
 trait02: "monk"
 trait03: "thrown-20"
 trait04: "wood"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The entirety of this _+2 duskwood greater striking spear_ is made of worn, cracked, splintered wood, including the spearhead. These splinters never harm you when you hold the weapon, but when you hit with the spear, splinters break off in the target, dealing 1d6 bleed damage.  * * *  **Activate—Shatter** `pf2:2`  **Frequency** once per day  **Effect** You smash the spear into the ground or another nearby surface, shattering it into thousands of duskwood splinters in your choice of a 30-foot cone or a 10-foot emanation. Each creature in the area takes 12d6 piercing damage with a DC 30 Reflex check save. A creature that fails also takes the same amount of persistent bleed damage as the spear deals on a hit. The spear regrows into its full form at the end of this turn."
+description: "The entirety of this _+2 duskwood greater striking spear_ is made of
+  worn, cracked, splintered wood, including the spearhead. These splinters never harm
+  you when you hold the weapon, but when you hit with the spear, splinters break off
+  in the target, dealing 1d6 bleed damage.  * * *  **Activate—Shatter** `pf2:2`  **Frequency**
+  once per day  **Effect** You smash the spear into the ground or another nearby surface,
+  shattering it into thousands of duskwood splinters in your choice of a 30-foot cone
+  or a 10-foot emanation. Each creature in the area takes 12d6 piercing damage with
+  a DC 30 Reflex check save. A creature that fails also takes the same amount of persistent
+  bleed damage as the spear deals on a hit. The spear regrows into its full form at
+  the end of this turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d6 piercing
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-continuation-(2nd-rank-spell)"
 aliases: "Wand of Continuation (2nd-Rank Spell)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This wand increases a spell's duration. Yellow embers spiral over its surface until the spell ends.  **Activate** Cast a Spell; The activation takes `pf2:2` if the spell normally takes `pf2:1` to cast, or `pf2:3` if the spell normally takes `pf2:2`  **Frequency** Once per day, plus overcharge  * * *  **Effect** You Cast the Spell, and its duration is increased by half.  * * *  **Craft Requirements** Supply a casting of a spell of the appropriate rank. The spell must have a casting time of `pf2:1` or `pf2:2` and a duration no less than 10 minutes and no greater than 1 hour."
+description: "This wand increases a spell's duration. Yellow embers spiral over its
+  surface until the spell ends.  **Activate** Cast a Spell; The activation takes `pf2:2`
+  if the spell normally takes `pf2:1` to cast, or `pf2:3` if the spell normally takes
+  `pf2:2`  **Frequency** Once per day, plus overcharge  * * *  **Effect** You Cast
+  the Spell, and its duration is increased by half.  * * *  **Craft Requirements**
+  Supply a casting of a spell of the appropriate rank. The spell must have a casting
+  time of `pf2:1` or `pf2:2` and a duration no less than 10 minutes and no greater
+  than 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

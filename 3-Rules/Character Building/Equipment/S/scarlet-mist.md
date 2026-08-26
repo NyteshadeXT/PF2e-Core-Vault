@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scarlet-mist"
 aliases: "Scarlet Mist"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  Derived from a mixture of krooth venom and an agitating agent, scarlet mist causes bleeding that turns into a foaming mist. When a creature under the effects of scarlet mist takes persistent bleed damage from the toxin, creatures within 5 feet take the splash damage. The persistent damage can't be staunched until the poison's effects end. A creature that can't bleed doesn't take the bleed damage or cause the splash damage but can still take the poison damage.  **Saving Throw** DC 25 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** 3d6 poison, 1d4 bleed, and 1 poison splash damage (1 round)  **Stage 2** 3d6 poison, 2d4 bleed, and 2 poison splash damage (1 round)  **Stage 3** 3d6 poison, 3d4 bleed, and 3 poison splash damage (1 round)"
+description: "**Activate** `pf2:2` Interact  Derived from a mixture of krooth venom
+  and an agitating agent, scarlet mist causes bleeding that turns into a foaming mist.
+  When a creature under the effects of scarlet mist takes persistent bleed damage
+  from the toxin, creatures within 5 feet take the splash damage. The persistent damage
+  can't be staunched until the poison's effects end. A creature that can't bleed doesn't
+  take the bleed damage or cause the splash damage but can still take the poison damage.\
+  \  **Saving Throw** DC 25 Fortitude check  **Maximum Duration** 6 rounds  **Stage
+  1** 3d6 poison, 1d4 bleed, and 1 poison splash damage (1 round)  **Stage 2** 3d6
+  poison, 2d4 bleed, and 2 poison splash damage (1 round)  **Stage 3** 3d6 poison,
+  3d4 bleed, and 3 poison splash damage (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

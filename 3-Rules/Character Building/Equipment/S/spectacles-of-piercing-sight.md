@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spectacles-of-piercing-sight"
 aliases: "Spectacles of Piercing Sight"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "24000"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "With lenses set in a silver frame, spectacles of piercing sight grant you a +3 item bonus to visual Perception checks.  **Activate** `pf2:1` command  **Frequency** once per hour  * * *  **Effect** You can see into and through solid matter for 1 minute. This vision can pierce through solid materials up to 20 feet away as if looking at something in normal light even if no illumination is available. You can see through up to 1 foot of stone, 1 inch of metal, or 3 feet of wood or dirt. A thin sheet of lead blocks this vision entirely."
+description: "With lenses set in a silver frame, spectacles of piercing sight grant
+  you a +3 item bonus to visual Perception checks.  **Activate** `pf2:1` command \
+  \ **Frequency** once per hour  * * *  **Effect** You can see into and through solid
+  matter for 1 minute. This vision can pierce through solid materials up to 20 feet
+  away as if looking at something in normal light even if no illumination is available.
+  You can see through up to 1 foot of stone, 1 inch of metal, or 3 feet of wood or
+  dirt. A thin sheet of lead blocks this vision entirely."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

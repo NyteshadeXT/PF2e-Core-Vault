@@ -2,34 +2,44 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "netherwalk-incense"
 aliases: "Netherwalk Incense"
 source: "Pathfinder #204: Stage Fright"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "shadow"
 trait04: "teleportation"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "300"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (concentrate, manipulate)  * * *  This stick of dark-gray incense carries a faint, strange odor that's different for any creature that smells it—mimicking a scent that evokes feelings of nostalgia or homesickness. You begin the activation of a stick of netherwalk incense by lighting it on fire as a single Interact action, at which point you designate up to 10 willing creatures within 20 feet of you. After spending a minute concentrating on the smoke and its scent, you and the affected creatures move into the Netherworld and can use its warped nature to speed travel. Each hour, your travel covers a distance of 50 miles, during which landmarks appear as vague and symbolic images rather than concrete visuals. You arrive within a mile of your intended destination when you Dismiss the effect or after 8 hours have passed."
+description: "**Activate** 1 minute (concentrate, manipulate)  * * *  This stick of
+  dark-gray incense carries a faint, strange odor that's different for any creature
+  that smells it—mimicking a scent that evokes feelings of nostalgia or homesickness.
+  You begin the activation of a stick of netherwalk incense by lighting it on fire
+  as a single Interact action, at which point you designate up to 10 willing creatures
+  within 20 feet of you. After spending a minute concentrating on the smoke and its
+  scent, you and the affected creatures move into the Netherworld and can use its
+  warped nature to speed travel. Each hour, your travel covers a distance of 50 miles,
+  during which landmarks appear as vague and symbolic images rather than concrete
+  visuals. You arrive within a mile of your intended destination when you Dismiss
+  the effect or after 8 hours have passed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

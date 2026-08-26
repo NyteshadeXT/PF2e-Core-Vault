@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "magical-lock-fulu"
 aliases: "Magical Lock Fulu"
@@ -15,21 +15,26 @@ rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "15"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a door, window, or container  **Duration** 1 hour  * * *  The symbols on this fulu depict a lock and winding chains. Affixing this fulu over the seam or frame of the target locks it, even if it has no latch or existing lock. As many as nine fulus can be applied to the same target. One fulu equates a [[Equipment/Lock (Poor)|Poor Lock]] (DC 15), three a [[Equipment/Lock (Simple)|Simple Lock]] (DC 20), and nine an [[Equipment/Lock (Average)|Average Lock]] (DC 25)."
+description: "**Usage** affixed to a door, window, or container  **Duration** 1 hour\
+  \  * * *  The symbols on this fulu depict a lock and winding chains. Affixing this
+  fulu over the seam or frame of the target locks it, even if it has no latch or existing
+  lock. As many as nine fulus can be applied to the same target. One fulu equates
+  a [[Equipment/Lock (Poor)|Poor Lock]] (DC 15), three a [[Equipment/Lock (Simple)|Simple
+  Lock]] (DC 20), and nine an [[Equipment/Lock (Average)|Average Lock]] (DC 25)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

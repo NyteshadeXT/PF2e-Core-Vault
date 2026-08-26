@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "skull-bomb"
 aliases: "Skull Bomb"
 source: "Pathfinder #180: The Smoking Gun"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "fire"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a [[Spells/Create Undead|Create Undead]] ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the humanoid trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.  * * *  Throw Skull `pf2:2` (manipulate)  The creature detaches its skull bomb and hurls the volatile explosive at a point within 30 feet. The skull explodes, dealing 7d6 fire damage to creatures within a 15-foot burst (DC 24 Reflex check save). The skull is permanently destroyed and can't be used again, and the throwing creature is permanently [[Conditions/Blinded|Blinded]] and headless."
+description: "This device is a human-sized skull crafted entirely from metal plating
+  and clockwork gears, which slots easily into a human skeleton in the spot where
+  an ordinary skull would normally be located. While performing a [[Spells/Create
+  Undead|Create Undead]] ritual, you can attach this skull bomb to the target creature
+  in place of its own head. In order to do so, the target creature must be Medium
+  and have the humanoid trait. The target creature can have only one skull bomb attached
+  in this fashion. The creature gains the following ability.  * * *  Throw Skull `pf2:2`
+  (manipulate)  The creature detaches its skull bomb and hurls the volatile explosive
+  at a point within 30 feet. The skull explodes, dealing 7d6 fire damage to creatures
+  within a 15-foot burst (DC 24 Reflex check save). The skull is permanently destroyed
+  and can't be used again, and the throwing creature is permanently [[Conditions/Blinded|Blinded]]
+  and headless."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sportlebore-capsule"
 aliases: "Sportlebore Capsule"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This tiny capsule of soluble material is filled with a flavorless clear powder mixed with thousands of microscopic eggs laid by insidious parasites known as sportlebores. If the capsule or its contents are swallowed by an unwitting victim, the eggs rapidly hatch inside their unfortunate host, causing great abdominal pain. The target can't recover from the poison's enfeebled or sickened condition except by magic. After stage 3, the target returns to stage 1, but if it progresses to stage 3 a second time, the damage is doubled.  **Saving Throw** DC 22 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes  **Stage 1** [[Conditions/Sickened|Sickened 1]] (1 minute)  **Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and sickened 1 (1 minute)  **Stage 3** 4d6 bludgeoning damage (DC 23 Fortitude check save) and [[Conditions/Enfeebled|Enfeebled 2]] as the affected target painfully vomits (1 minute)"
+description: "**Activate** `pf2:1` (manipulate)  * * *  This tiny capsule of soluble
+  material is filled with a flavorless clear powder mixed with thousands of microscopic
+  eggs laid by insidious parasites known as sportlebores. If the capsule or its contents
+  are swallowed by an unwitting victim, the eggs rapidly hatch inside their unfortunate
+  host, causing great abdominal pain. The target can't recover from the poison's enfeebled
+  or sickened condition except by magic. After stage 3, the target returns to stage
+  1, but if it progresses to stage 3 a second time, the damage is doubled.  **Saving
+  Throw** DC 22 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 minutes\
+  \  **Stage 1** [[Conditions/Sickened|Sickened 1]] (1 minute)  **Stage 2** [[Conditions/Enfeebled|Enfeebled
+  1]] and sickened 1 (1 minute)  **Stage 3** 4d6 bludgeoning damage (DC 23 Fortitude
+  check save) and [[Conditions/Enfeebled|Enfeebled 2]] as the affected target painfully
+  vomits (1 minute)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

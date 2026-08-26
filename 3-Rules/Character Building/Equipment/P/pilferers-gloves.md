@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pilferers-gloves"
 aliases: "Pilferer's Gloves"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "Made of soft and subtle black leather, these gloves fit tightly but aren't uncomfortable and don't impede your sense of touch. As long as you're trained in Thievery while wearing these gloves, you're always considered one skill rank higher than your actual rank. If you possess a Legendary skill rank in Thievery, you gain a +2 item bonus to Thievery checks instead. When you invest the gloves, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** You fail or critically fail a Thievery skill check  * * *  **Effect** If you failed the Thievery skill check, you succeed at that check instead. If you critically failed, you fail instead."
+description: "Made of soft and subtle black leather, these gloves fit tightly but
+  aren't uncomfortable and don't impede your sense of touch. As long as you're trained
+  in Thievery while wearing these gloves, you're always considered one skill rank
+  higher than your actual rank. If you possess a Legendary skill rank in Thievery,
+  you gain a +2 item bonus to Thievery checks instead. When you invest the gloves,
+  you either increase your Dexterity score by 2 or increase it to 18, whichever is
+  higher.  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger**
+  You fail or critically fail a Thievery skill check  * * *  **Effect** If you failed
+  the Thievery skill check, you succeed at that check instead. If you critically failed,
+  you fail instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shield-pistol"
 aliases: "Shield Pistol"
 source: "Pathfinder Lost Omens Firebrands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "attached-to-shield"
 trait02: "concussive"
 trait03: "fatal-d8"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "These unique firearms are designed to attach to shields while still firing normally. Shield pistols are popular among Firebrands in the Shackles as they allow them to hold a blade and a firearm in each hand without giving up on defense. As is normal with firearms, a character doesn't have access to shield pistols unless they separately have access to firearms."
+description: "These unique firearms are designed to attach to shields while still
+  firing normally. Shield pistols are popular among Firebrands in the Shackles as
+  they allow them to hold a blade and a firearm in each hand without giving up on
+  defense. As is normal with firearms, a character doesn't have access to shield pistols
+  unless they separately have access to firearms."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

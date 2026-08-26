@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rite-of-reinforcement-exoskeleton"
 aliases: "Rite of Reinforcement Exoskeleton"
 source: "Pathfinder Lost Omens The Mwangi Expanse"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "comfort"
-trait02: "rare"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "**Note** Conrasu Rite of Reinforcement Heritage Only  * * *  Your woven exoskeleton rivals the hardest armors that can be found. Your exoskeleton is medium armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of -2, a speed penalty of -5 feet, and a Strength value of +3, and has the comfort trait. You can never wear other armor or remove your exoskeleton. You can etch armor runes onto your exoskeleton as normal."
+description: "**Note** Conrasu Rite of Reinforcement Heritage Only  * * *  Your woven
+  exoskeleton rivals the hardest armors that can be found. Your exoskeleton is medium
+  armor in the plate armor group that grants a +4 item bonus to AC, a Dex cap of +1,
+  a check penalty of -2, a speed penalty of -5 feet, and a Strength value of +3, and
+  has the comfort trait. You can never wear other armor or remove your exoskeleton.
+  You can etch armor runes onto your exoskeleton as normal."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

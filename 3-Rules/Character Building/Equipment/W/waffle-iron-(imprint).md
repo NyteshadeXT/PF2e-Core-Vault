@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "waffle-iron-(imprint)"
 aliases: "Waffle Iron (Imprint)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This set of hinged metal plates features studs on the inside of each plate to provide a texture for the pastry cakes you cook with it. You pour batter on the plates, close the device, and place it on a fire or stove to cook.  The plates of this waffle iron feature a noble insignia, a religious symbol, or other design to imprint onto the pastry."
+description: "This set of hinged metal plates features studs on the inside of each
+  plate to provide a texture for the pastry cakes you cook with it. You pour batter
+  on the plates, close the device, and place it on a fire or stove to cook.  The plates
+  of this waffle iron feature a noble insignia, a religious symbol, or other design
+  to imprint onto the pastry."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

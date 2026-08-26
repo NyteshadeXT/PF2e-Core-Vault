@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "onslaught-hide"
 aliases: "Onslaught Hide"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,10 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+1 resilient hide armor_ is decorated with the horns of many slain beasts. It has an armor check penalty of –1 instead of –2. When you use the [[Feats/Sudden Charge|Sudden Charge]] class feat while wearing this armor, your Strike deals an additional 1d8 untyped damage."
+description: "This _+1 resilient hide armor_ is decorated with the horns of many slain
+  beasts. It has an armor check penalty of –1 instead of –2. When you use the [[Feats/Sudden
+  Charge|Sudden Charge]] class feat while wearing this armor, your Strike deals an
+  additional 1d8 untyped damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

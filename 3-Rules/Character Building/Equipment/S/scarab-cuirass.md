@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scarab-cuirass"
 aliases: "Scarab Cuirass"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "The cuirass of this _+1 deathless resilient leather armor_, stitched to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance 5 to void damage.  * * *  **Activate** `pf2:2` command, Interact  * * *  **Effect** You cast a 1st-rank [[Spells/Pest Form|Pest Form]]. You can only become a scarab beetle.  * * *  **Craft Requirements** Supply one casting of _pest form_."
+description: "The cuirass of this _+1 deathless resilient leather armor_, stitched
+  to resemble an Osiriani scarab beetle, feels strangely chitinous. You gain resistance
+  5 to void damage.  * * *  **Activate** `pf2:2` command, Interact  * * *  **Effect**
+  You cast a 1st-rank [[Spells/Pest Form|Pest Form]]. You can only become a scarab
+  beetle.  * * *  **Craft Requirements** Supply one casting of _pest form_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

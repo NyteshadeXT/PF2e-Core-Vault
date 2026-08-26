@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vat-grown-brain"
 aliases: "Vat-Grown Brain"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:3` Interact  A malformed, artificial brain pulses with alchemical life inside a nutrient-rich vat. When the vat-grown brain is activated, it attempts to counteract one condition of your choice that was gained from an ability with the mental trait, which it does by drawing the negative mental impressions into itself. However, the artificial brain is not robust, and the strain of the transfer quickly destroys it. The vat-grown brain has a counteract rank of 5 and a +17 modifier on the roll."
+description: "**Activate** `pf2:3` Interact  A malformed, artificial brain pulses
+  with alchemical life inside a nutrient-rich vat. When the vat-grown brain is activated,
+  it attempts to counteract one condition of your choice that was gained from an ability
+  with the mental trait, which it does by drawing the negative mental impressions
+  into itself. However, the artificial brain is not robust, and the strain of the
+  transfer quickly destroys it. The vat-grown brain has a counteract rank of 5 and
+  a +17 modifier on the roll."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

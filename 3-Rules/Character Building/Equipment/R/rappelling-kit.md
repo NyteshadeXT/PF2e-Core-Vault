@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rappelling-kit"
 aliases: "Rappelling Kit"
 source: "Pathfinder Lost Omens Firebrands"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,10 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This satchel contains all the basic equipment found in a climbing kit plus the specialized equipment—including a harness, belay device, and locking clips—needed for descents. When Climbing down with a rappelling kit, you move twice as fast as usual based on your check result."
+description: "This satchel contains all the basic equipment found in a climbing kit
+  plus the specialized equipment—including a harness, belay device, and locking clips—needed
+  for descents. When Climbing down with a rappelling kit, you move twice as fast as
+  usual based on your check result."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

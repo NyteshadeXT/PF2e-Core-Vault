@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "twisting-twine-(moderate)"
 aliases: "Twisting Twine (Moderate)"
@@ -13,7 +13,7 @@ source: "Pathfinder Player Core 2"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This ball of hempen twine resists efforts to unravel it by hand.  **Activate—Unravel Twine** `pf2:1` (manipulate)  **Frequency** once per hour  * * *  **Effect** You toss the ball of twine into a square within 20 feet. The twine then unravels and animates, attempting to [[Actions/Disarm|Disarm]] or [[Actions/Trip|Trip]] (your choice) a creature in the square with a total of +12 to the Athletics check. At the end of your turn, the twine winds itself back into a ball and returns to your hand; if you don't have a free hand, it returns to your space instead."
+description: "This ball of hempen twine resists efforts to unravel it by hand.  **Activate—Unravel
+  Twine** `pf2:1` (manipulate)  **Frequency** once per hour  * * *  **Effect** You
+  toss the ball of twine into a square within 20 feet. The twine then unravels and
+  animates, attempting to [[Actions/Disarm|Disarm]] or [[Actions/Trip|Trip]] (your
+  choice) a creature in the square with a total of +12 to the Athletics check. At
+  the end of your turn, the twine winds itself back into a ball and returns to your
+  hand; if you don't have a free hand, it returns to your space instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

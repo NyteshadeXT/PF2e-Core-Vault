@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pepper-poultice"
 aliases: "Pepper Poultice"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "55"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This mash of Cinderlands peppers has been fermented into a potent poultice to expel toxins from the body. When you have the sickened condition, you can slather this poultice onto your skin to reduce your [[Conditions/Sickened|Sickened]] value by 1."
+description: "**Activate** `pf2:1` Interact  * * *  This mash of Cinderlands peppers
+  has been fermented into a potent poultice to expel toxins from the body. When you
+  have the sickened condition, you can slather this poultice onto your skin to reduce
+  your [[Conditions/Sickened|Sickened]] value by 1."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

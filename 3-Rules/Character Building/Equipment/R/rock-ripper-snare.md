@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rock-ripper-snare"
 aliases: "Rock Ripper Snare"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "9"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You weave plant matter among loose stones in an area with trees or a ceiling overhead. When a creature enters the square, the snare's square and each adjacent square becomes difficult terrain, and the triggering creature must attempt a DC 19 Reflex check saving throw.  * * *  **Success** The target is unaffected.  **Failure** The target takes 1d6 bludgeoning damage.  **Critical Failure** The target takes 2d6 bludgeoning damage."
+description: "You weave plant matter among loose stones in an area with trees or a
+  ceiling overhead. When a creature enters the square, the snare's square and each
+  adjacent square becomes difficult terrain, and the triggering creature must attempt
+  a DC 19 Reflex check saving throw.  * * *  **Success** The target is unaffected.\
+  \  **Failure** The target takes 1d6 bludgeoning damage.  **Critical Failure** The
+  target takes 2d6 bludgeoning damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

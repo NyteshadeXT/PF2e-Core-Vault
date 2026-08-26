@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sanitizing-pin"
 aliases: "Sanitizing Pin"
 source: "Pathfinder Adventure: Rusthenge"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "7"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` command  **Trigger** You attempt a saving throw against a disease or poison.  * * *  This pin includes a piece of gauze wrapped around a dried herbal poultice. When you activate the sanitizing pin, the poultice dissolves and bolsters your body's defense against poison or disease. You gain a +2 status bonus on your Fortitude save against the initial exposure to the affliction. If you roll a critical failure on the triggering attempt, you get a failure instead."
+description: "**Activate** `pf2:0` command  **Trigger** You attempt a saving throw
+  against a disease or poison.  * * *  This pin includes a piece of gauze wrapped
+  around a dried herbal poultice. When you activate the sanitizing pin, the poultice
+  dissolves and bolsters your body's defense against poison or disease. You gain a
+  +2 status bonus on your Fortitude save against the initial exposure to the affliction.
+  If you roll a critical failure on the triggering attempt, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "panaceatic-salve"
 aliases: "Panaceatic Salve"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "oil"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This pungent herbal ointment was originally only intended for use as an analgesic. That being said, popular folklore around this salve claims it can do anything from curing fevers to repelling vampires, a reputation that, if nothing else, is easy to get swept up in. When you activate a dose of panaceatic salve by rubbing it on your skin, you gain 4d8+10 temporary Hit Points for 10 minutes. At the end of this duration, if you still retain at least 1 of these temporary Hit Points, you can attempt a new saving throw against an ongoing disease or poison affliction you're afflicted with; if you fail or critically fail this saving throw, you don't increase the affliction's stage.  [[Equipment Effects/Effect_ Panaceatic Salve|Effect: Panaceatic Salve]]"
+description: "**Activate** `pf2:1` Interact  * * *  This pungent herbal ointment was
+  originally only intended for use as an analgesic. That being said, popular folklore
+  around this salve claims it can do anything from curing fevers to repelling vampires,
+  a reputation that, if nothing else, is easy to get swept up in. When you activate
+  a dose of panaceatic salve by rubbing it on your skin, you gain 4d8+10 temporary
+  Hit Points for 10 minutes. At the end of this duration, if you still retain at least
+  1 of these temporary Hit Points, you can attempt a new saving throw against an ongoing
+  disease or poison affliction you're afflicted with; if you fail or critically fail
+  this saving throw, you don't increase the affliction's stage.  [[Equipment Effects/Effect_
+  Panaceatic Salve|Effect: Panaceatic Salve]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

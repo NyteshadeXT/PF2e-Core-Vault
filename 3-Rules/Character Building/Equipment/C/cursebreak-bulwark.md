@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "cursebreak-bulwark"
 aliases: "Cursebreak Bulwark"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,14 +29,20 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This [[tower shield]] is composed of interlocking hexagonal wooden tiles lined with metal. The tiles are painted a verdant green, and each is marked with a faded rune that protects against curses. While you have this shield raised, you gain a +1 circumstance bonus to saving throws against spells that target you, increasing to a +2 circumstance bonus against curses. You can unleash the energy stored in the shield to destroy a curse before it can affect you."
+description: "This [[tower shield]] is composed of interlocking hexagonal wooden tiles
+  lined with metal. The tiles are painted a verdant green, and each is marked with
+  a faded rune that protects against curses. While you have this shield raised, you
+  gain a +1 circumstance bonus to saving throws against spells that target you, increasing
+  to a +2 circumstance bonus against curses. You can unleash the energy stored in
+  the shield to destroy a curse before it can affect you."
 powerTitle1: "Effect"
 actionEconomy1: r
 type1: "([[command]])"
 frequency1: "once per day"
 trigger1: "You are targeted with a curse spell"
 requirement1: "The _cursebreak bulwark_ is raised"
-mechanics1: "You activate the shield's countermeasures. It casts 8th-rank [[Cleanse Affliction]] with a counteract modifier of +27 against the triggering curse."
+mechanics1: "You activate the shield's countermeasures. It casts 8th-rank [[Cleanse
+  Affliction]] with a counteract modifier of +27 against the triggering curse."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -48,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -81,9 +87,7 @@ bt: 28
 weaponBase:
 armorBase:
 shieldBase: "Tower Shield"
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

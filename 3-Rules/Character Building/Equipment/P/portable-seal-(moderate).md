@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "portable-seal-(moderate)"
 aliases: "Portable Seal (Moderate)"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "gadget"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  A portable seal is a stiff framework of copper wires and strategically placed hinges, so that when the device is snapped open it forms an instant geometric design. A tiny Stasian coil is attached, which when activated runs a mixture of occult energy and high-voltage electricity through the wire. The design covers a 5-foot burst when unfolded and must be unfolded into an area free of major obstructions such as rocks or hostile creatures. When a creature with the summoned trait attempts to enter the seal's area or make a melee Strike against a creature in that area, the summoned creature must attempt a DC 28 Will check save.  * * *  **Success** The action occurs normally, and the creature is immune to the effects of this portable seal this round.  **Failure** The movement or Strike is disrupted, but the creature is immune to further effects of the portable seal this round.  **Critical Failure** The movement or Strike is disrupted."
+description: "**Activate** `pf2:2` (manipulate)  * * *  A portable seal is a stiff
+  framework of copper wires and strategically placed hinges, so that when the device
+  is snapped open it forms an instant geometric design. A tiny Stasian coil is attached,
+  which when activated runs a mixture of occult energy and high-voltage electricity
+  through the wire. The design covers a 5-foot burst when unfolded and must be unfolded
+  into an area free of major obstructions such as rocks or hostile creatures. When
+  a creature with the summoned trait attempts to enter the seal's area or make a melee
+  Strike against a creature in that area, the summoned creature must attempt a DC
+  28 Will check save.  * * *  **Success** The action occurs normally, and the creature
+  is immune to the effects of this portable seal this round.  **Failure** The movement
+  or Strike is disrupted, but the creature is immune to further effects of the portable
+  seal this round.  **Critical Failure** The movement or Strike is disrupted."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

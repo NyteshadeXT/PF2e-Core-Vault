@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "puzzle-box-(complex)"
 aliases: "Puzzle Box (Complex)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A puzzle box features moving parts, locking mechanisms, and other components designed to confound the user. Solving a puzzle box typically requires three successful DC 20 Games Lore or DC 20 Thievery check checks to Open a Lock, though puzzle boxes come in countless configurations and themes, and the GM can determine which skills are appropriate."
+description: "A puzzle box features moving parts, locking mechanisms, and other components
+  designed to confound the user. Solving a puzzle box typically requires three successful
+  DC 20 Games Lore or DC 20 Thievery check checks to Open a Lock, though puzzle boxes
+  come in countless configurations and themes, and the GM can determine which skills
+  are appropriate."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

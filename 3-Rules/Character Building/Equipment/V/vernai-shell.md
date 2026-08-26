@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vernai-shell"
 aliases: "Vernai Shell"
 source: "Pathfinder Adventure: Prey for Death"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "adjusted"
 trait02: "extradimensional"
 trait03: "invested"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,21 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Made from the finest plates of monstrous insect chitin, this _+2 greater resilient mantis shell_ offers superior protection from Mediogalti's hot weather while also allowing the wearer to blend into almost any situation and strike with hidden blades. While wearing this armor, you are protected from extreme heat and severe heat effects. _Vernai shell_ armor includes two extradimensional spaces built into each of the armor's gloves, granting the wearer two places to store items. Each glove can hold one item of 1 Bulk or less. While an item is stored in one of the two gloves, there is nothing to indicate that an item is being held inside it.  * * *  **Activate—Store Item** `pf2:1` (manipulate)  **Requirements** At least one of the _Vernai shell's_ two extradimensional spaces is empty  **Effect** One item you're holding with a Bulk of 1 or less vanishes into one of the armor's extradimensional spaces.  * * *  **Activate—Retrieve Item** `pf2:0` (manipulate)  **Requirements** An item is stored in at least one of the _Vernai shell's_ extradimensional spaces, and you have a free hand  **Effect** One item of your choice in either extradimensional space appears in your hand. You can't Retrieve Item again for 1 minute."
+description: "Made from the finest plates of monstrous insect chitin, this _+2 greater
+  resilient mantis shell_ offers superior protection from Mediogalti's hot weather
+  while also allowing the wearer to blend into almost any situation and strike with
+  hidden blades. While wearing this armor, you are protected from extreme heat and
+  severe heat effects. _Vernai shell_ armor includes two extradimensional spaces built
+  into each of the armor's gloves, granting the wearer two places to store items.
+  Each glove can hold one item of 1 Bulk or less. While an item is stored in one of
+  the two gloves, there is nothing to indicate that an item is being held inside it.\
+  \  * * *  **Activate—Store Item** `pf2:1` (manipulate)  **Requirements** At least
+  one of the _Vernai shell's_ two extradimensional spaces is empty  **Effect** One
+  item you're holding with a Bulk of 1 or less vanishes into one of the armor's extradimensional
+  spaces.  * * *  **Activate—Retrieve Item** `pf2:0` (manipulate)  **Requirements**
+  An item is stored in at least one of the _Vernai shell's_ extradimensional spaces,
+  and you have a free hand  **Effect** One item of your choice in either extradimensional
+  space appears in your hand. You can't Retrieve Item again for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +61,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +90,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "privacy-ward-fulu-(hallway)"
 aliases: "Privacy Ward Fulu (Hallway)"
 source: "Pathfinder #196: The Summer That Never Was"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "4"
 subvalue: "gp"
 invest:
 usage: "affixed to wall"
 license: "ORC"
 identify:
-description: "This fulu seeks to keep thieves, spies, and unwanted attention away from a room. A depiction of a lock appears in the center of this fulu, which is in turn surrounded by circles of broken keys. When applied to a wall inside a room, all creatures within the room gain an item bonus to Stealth checks against creatures outside the room.  The privacy ward fulu can shield a room of up to 10 square feet, grants a +1 item bonus, and has a duration of 1 hour."
+description: "This fulu seeks to keep thieves, spies, and unwanted attention away
+  from a room. A depiction of a lock appears in the center of this fulu, which is
+  in turn surrounded by circles of broken keys. When applied to a wall inside a room,
+  all creatures within the room gain an item bonus to Stealth checks against creatures
+  outside the room.  The privacy ward fulu can shield a room of up to 10 square feet,
+  grants a +1 item bonus, and has a duration of 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

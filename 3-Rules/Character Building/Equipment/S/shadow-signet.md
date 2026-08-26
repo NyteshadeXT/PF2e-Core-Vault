@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shadow-signet"
 aliases: "Shadow Signet"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "1000"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This obsidian ring allows you to partially warp your spells through the Netherworld, allowing them to strike directly at a target's body.  **Activate** `pf2:0` (concentrate, spellshape)  * * *  **Effect** If your next action is to Cast a Spell that requires a spell attack roll against Armor Class, choose Fortitude DC or Reflex DC. You make your spell attack roll against that defense instead of AC. If the spell has multiple targets, the choice of DC applies to all of them."
+description: "This obsidian ring allows you to partially warp your spells through
+  the Netherworld, allowing them to strike directly at a target's body.  **Activate**
+  `pf2:0` (concentrate, spellshape)  * * *  **Effect** If your next action is to Cast
+  a Spell that requires a spell attack roll against Armor Class, choose Fortitude
+  DC or Reflex DC. You make your spell attack roll against that defense instead of
+  AC. If the spell has multiple targets, the choice of DC applies to all of them."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

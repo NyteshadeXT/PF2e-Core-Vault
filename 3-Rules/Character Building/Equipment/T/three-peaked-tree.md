@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "three-peaked-tree"
 aliases: "Three-peaked Tree"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "combination"
 trait02: "concussive"
 trait03: "elf"
 trait04: "fatal-d10"
 trait05: "parry"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "A recently developed weapon created for an elven champion from Jinin, the three-peaked tree can be used as both a [[Equipment/Trident|Trident]] and a [[Equipment/Dawnsilver Tree|Dawnsilver Tree]]. A three-peaked tree has a length of silken rope attached to the butt of its haft, allowing it to be quickly retrieved after thrown."
+description: "A recently developed weapon created for an elven champion from Jinin,
+  the three-peaked tree can be used as both a [[Equipment/Trident|Trident]] and a
+  [[Equipment/Dawnsilver Tree|Dawnsilver Tree]]. A three-peaked tree has a length
+  of silken rope attached to the butt of its haft, allowing it to be quickly retrieved
+  after thrown."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

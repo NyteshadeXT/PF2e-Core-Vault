@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mythic-striking"
 aliases: "Mythic Striking"
 source: "Pathfinder War of Immortals"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "mythic"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "70000"
 subvalue: "gp"
 invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "This weapon is filled with unmatched destructive power. The weapon deals five weapon damage dice.  * * *  **Activate—Unstoppable Devastation** `pf2:r` (concentration)  **Trigger** You roll the weapon damage dice for a Strike with this weapon and do not like the result  **Effect** Spend a Mythic Point and reroll your weapon damage dice, taking the higher of the two results.  * * *  **Craft Requirements** _Mythic striking_ runes can only be crafted, etched, or transferred by a mythic character capable of making a Crafting check at mythic proficiency (such as by having the Artisan's Calling)."
+description: "This weapon is filled with unmatched destructive power. The weapon deals
+  five weapon damage dice.  * * *  **Activate—Unstoppable Devastation** `pf2:r` (concentration)\
+  \  **Trigger** You roll the weapon damage dice for a Strike with this weapon and
+  do not like the result  **Effect** Spend a Mythic Point and reroll your weapon damage
+  dice, taking the higher of the two results.  * * *  **Craft Requirements** _Mythic
+  striking_ runes can only be crafted, etched, or transferred by a mythic character
+  capable of making a Crafting check at mythic proficiency (such as by having the
+  Artisan's Calling)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

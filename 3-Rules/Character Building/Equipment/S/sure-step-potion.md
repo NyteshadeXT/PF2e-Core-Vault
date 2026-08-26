@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sure-step-potion"
 aliases: "Sure-Step Potion"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  The light-brown liquid of a sure-step potion helps you find your footing. After drinking it, you gain a +1 item bonus to Acrobatics checks to [[Actions/Balance|Balance]] for 1 hour. In addition, you can Step into difficult terrain, and you aren't [[Conditions/Off-Guard|Off-Guard]] on uneven ground."
+description: "**Activate** `pf2:1` Interact  The light-brown liquid of a sure-step
+  potion helps you find your footing. After drinking it, you gain a +1 item bonus
+  to Acrobatics checks to [[Actions/Balance|Balance]] for 1 hour. In addition, you
+  can Step into difficult terrain, and you aren't [[Conditions/Off-Guard|Off-Guard]]
+  on uneven ground."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ogre-spider-filament"
 aliases: "Ogre Spider Filament"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  This delicate strand of spiderweb sticks to the target of a [[Spells/Spider Sting|Spider Sting]] spell, hampering their movement. Using this catalyst causes a creature afflicted with spider venom to become [[Conditions/Clumsy|Clumsy]] instead of [[Conditions/Enfeebled|Enfeebled]]."
+description: "**Activate** Cast a Spell  * * *  This delicate strand of spiderweb
+  sticks to the target of a [[Spells/Spider Sting|Spider Sting]] spell, hampering
+  their movement. Using this catalyst causes a creature afflicted with spider venom
+  to become [[Conditions/Clumsy|Clumsy]] instead of [[Conditions/Enfeebled|Enfeebled]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

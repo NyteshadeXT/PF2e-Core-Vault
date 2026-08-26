@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "passage-charm"
 aliases: "Passage Charm"
 source: "Pathfinder #202: Severed at the Root"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "shadow"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This glossy black brooch is made of solidified shadows and is a gift, given by Avathrael Realmshaper to their allies to allow them to navigate the heart of the forest within Gloaming Arbor. While wearing a _passage charm_, you can cast [[Spells/Darkness|Darkness]] as an innate occult spell twice per day.  **Activate—Shape the Shadows** `pf2:3` (manipulate)  **Frequency** once per day  **Requirements** You're in an area that's dark or dim light  * * *  **Effect** You command the shadows to do your bidding, forming a path, a ramp, a wall, or stairs. The _passage charm_ casts 5th-rank [[Spells/Wall of Stone|Wall of Stone]], except the spell loses the earth trait, gains the shadow trait, and has a duration of 24 hours, and the wall is created from solid shadows, rather than stone. If any section of the wall is exposed to bright light, that portion of the wall has its Hardness temporarily reduced by half (to Hardness 7)."
+description: "This glossy black brooch is made of solidified shadows and is a gift,
+  given by Avathrael Realmshaper to their allies to allow them to navigate the heart
+  of the forest within Gloaming Arbor. While wearing a _passage charm_, you can cast
+  [[Spells/Darkness|Darkness]] as an innate occult spell twice per day.  **Activate—Shape
+  the Shadows** `pf2:3` (manipulate)  **Frequency** once per day  **Requirements**
+  You're in an area that's dark or dim light  * * *  **Effect** You command the shadows
+  to do your bidding, forming a path, a ramp, a wall, or stairs. The _passage charm_
+  casts 5th-rank [[Spells/Wall of Stone|Wall of Stone]], except the spell loses the
+  earth trait, gains the shadow trait, and has a duration of 24 hours, and the wall
+  is created from solid shadows, rather than stone. If any section of the wall is
+  exposed to bright light, that portion of the wall has its Hardness temporarily reduced
+  by half (to Hardness 7)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

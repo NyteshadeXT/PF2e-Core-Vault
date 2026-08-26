@@ -42,7 +42,7 @@ adventure_level: 11th to 13
 > **Status** | `VIEW[{adventure_status}]` |
 > **Adventure Level** | `VIEW[{adventure_level}]` |
 
-# **`=this.file.name`**
+# **A Gathering of Winds**
 
 ## Background
 In ages long past, before the rise of elves, dwarves, or humans, the legendary Wind Dukes of Aaga ruled a vast empire, bringing Law and elemental magic to many barbaric worlds. Air and lightning powered the their magic, and their ties to the Plane of Elemental Air were very strong. In time, they mastered other elements as well, and as they grew more and more powerful, dozens of other elemental and lawful races swore fealty to them, from the lofty djinn and the proud salamanders to the least of the mud sorcerer cults and the inevitables, servants of the Wind Dukes. At its peak, the empire of the Wind Dukes comprised most of the elemental planes, from the oceanic palaces of the marid to the City of Brass. The Inner Planes were harmonious, united under one rule, and their civilization thrived—until forces led by the demonic Queen of Chaos rallied slaad, demons, and others against them. 
@@ -178,125 +178,30 @@ The first trap is linked to the blade barricades. Anyone stepping on a square ma
 
 The second trap is linked to the tiny holes in the walls and the small basins along the floor. The basins radiate faint transmutation magic, and when triggered by someone standing оп a square marked “GT,” they generate a plume of white vapor that looks like fog. When this vapor is created, it runs up along and melds with the bas-reliefs on the wall, generating a fluid image that shows Icosiol at the battle of Pesh, fighting twisted creatures of chaos. The last image is rendered in some detail, and depicts Icosiol forming an alliance with a powerful marut inevitable. At the end of the display, the gas fountains show Icosiol holding a large square seal in one hand and a long rod or staff in the other, as if to display them to the viewer. The vapor that animates these images is poisonous, affecting any creature within 10 feet of the room’s walls.
 
-Windpsike Trap: CR 5; magic device; location trigger; automatic reset; blast of hurricane-force wind (DC 20 Fort, Huge or larger creatures unaffected, Large creatures knocked prone, smaller creatures thrown onto spikes for 4d6 points of piercing damage); Search DC 32; Dis- able Device DC 32.
+> [!danger]- Trap
+> ![[windspike-trap|Windspike Trap]]
 
-Poison Gas Trap: CR 10; magic device; location trigger; automatic reset; gas; never miss; onset delay 1 round; poison (DC 18 Fortitude save resists, 144 Dex/2d6 Dex); Search DC 32; Disable Device DC 32.
+> [!danger]- Trap
+> ![[poison-gas-trap|Poison Gas Trap]]
 
-4. Collapsing Pillar Hall
+### Location 4. Collapsing Pillar Hall
+> [!note]+ Read Aloud
+> This long hall contains a twin set of pillars, leading to a large set of doors at the far end. These are columns made of large marble blocks shaped like drums; not all have aged quite the same, so their colors vary from gray to white to tan.
 
-(EL 8)
+Trap: This hall is little more than a dead end and a trap against chaotic intruders. The doors at the far end are false and open onto a blank stone wall marked with the arrow symbol of Law. If a chaotically aligned creature steps within five feet of a pillar, it immediately topples down onto that character. Opening the false doors at the north end of the hall cause all of the pillars to col- lapse, potentially affecting everyone in the room.
 
-This long hall contains a twin set of pil-
+> [!danger]- Trap
+> ![[falling-pillar-trap|Falling Pillar Trap]]
 
-lars, leading to a large set of doors at the
+**Development:** The shadow spider Flycatcher (see area 9) may also attack here, grabbing a PC and immediately retreating,
 
-far end. These are columns made of large
+### 5. The Earl of Coalchester
+> [!note]+ Read Aloud
+> A rush of superheated air flows from this room like the heat from a forge. Glowing hot coals cover the room’s floor. A pair of copper double doors stand at the far end of the room. A small chest of black stone sits in the far corner of the room.
 
-marble blocks shaped like drums; not all
+The temperature here is extreme; creatures inside take 1d6 fire damage per minute. In addition, creatures must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 144 points of nonlethal damage. Creatures wearing heavy clothing or armor take a -4 penalty on their saves. Those wearing metal armor or touching metal are affected as if by heat metal.
 
-have aged quite the same, so their colors
-
-vary from gray to white to tan.
-
-Trap: This hall is little more than a
-
-dead end and a trap against chaotic
-
-intruders. The doors at the far end are
-
-false and open onto a blank stone wall
-
-marked with the arrow symbol of Law.
-
-If a chaotically aligned creature steps
-
-within five feet of a pillar, it immedi- 
-
-ately topples down onto that character.
-
-Opening the false doors at the north end
-
-of the hall cause all of the pillars to col-
-
-lapse, potentially affecting everyone in
-
-the room.
-
-Falling Pillar Trap: CR 8; magic device;
-
-proximity trigger (detect chaos); repair
-
-reset; multiple targets (all within 5 feet
-
-of pillar); 846 crushing damage; DC 22
-
-Reflex half; Search DC 32; Disable Device
-
-DC 32.
-
-Development: The shadow spider Fly-
-
-catcher (see area 9) may also attack here,
-
-grabbing a PC and immediately retreating,
-
-5. The Earl of
-
-Coalchester (EL 13)
-
-A rush of superheated air flows from this
-
-room like the heat from a forge. Glowing
-
-hot coals cover the room’s floor. A pair of
-
-copper double doors stand at the far end of
-
-the room. A small chest of black stone sits
-
-in the far corner of the room.
-
-The temperature here is extreme;
-
-creatures inside take 1d6 fire damage
-
-per minute. In addition, creatures must
-
-make a Fortitude save every 5 minutes
-
-(DC 15, +1 per previous check) or take 144
-
-points of nonlethal damage. Creatures
-
-wearing heavy clothing or armor take a
-
--4 penalty on their saves. Those wear-
-
-ing metal armor or touching metal are
-
-affected as if by heat metal.
-
-Creatures; A noble salamander and his
-
-fire elemental servant have been bound
-
-here by ancient elemental vows to serve
-
-the Wind Dukes as tomb guardians. The
-
-current guardian is Antyress Redpike of
-
-Coalchester, and he is bored by his duty
-
-and by the lack of visitors. He remains in
-
-this room unless he hears the sound of
-
-combat or traps being triggered nearby,
-
-in which case he begrudgingly slithers
-
-out to investigate.
+Creatures; A noble salamander and his fire elemental servant have been bound here by ancient elemental vows to serve the Wind Dukes as tomb guardians. The current guardian is Antyress Redpike of Coalchester, and he is bored by his duty and by the lack of visitors. He remains in this room unless he hears the sound of combat or traps being triggered nearby, in which case he begrudgingly slithers out to investigate.
 
 Antyress and his elemental bodyguard
 

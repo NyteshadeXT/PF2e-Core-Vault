@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "torrent-spellgun-(moderate)"
 aliases: "Torrent Spellgun (Moderate)"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "magical"
 trait03: "spellgun"
 trait04: "water"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact, Strike  * * *  Carved of seashell, a _torrent spellgun_ is damp to the touch, and seaweed wraps around its grip. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target's AC. This spellgun has a range increment of 30 feet. The spellgun blasts a powerful jet of water that deals 7d6 bludgeoning, then disintegrates into sand.  * * *  **Critical Success** The target takes double damage and is knocked back 10 feet.  **Success** The target takes full damage and is knocked back 5 feet."
+description: "**Activate** `pf2:2` Interact, Strike  * * *  Carved of seashell, a
+  _torrent spellgun_ is damp to the touch, and seaweed wraps around its grip. You
+  Activate the spellgun by aiming it at one creature and making your choice of a spell
+  attack roll or a firearm attack roll against the target's AC. This spellgun has
+  a range increment of 30 feet. The spellgun blasts a powerful jet of water that deals
+  7d6 bludgeoning, then disintegrates into sand.  * * *  **Critical Success** The
+  target takes double damage and is knocked back 10 feet.  **Success** The target
+  takes full damage and is knocked back 5 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

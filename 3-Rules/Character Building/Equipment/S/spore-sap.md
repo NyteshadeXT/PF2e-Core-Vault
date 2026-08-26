@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spore-sap"
 aliases: "Spore Sap"
 source: "Pathfinder #154: Siege of the Dinosaurs"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "fungus"
 trait03: "magical"
 trait04: "nonlethal"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This flexible +2 striking sap is crafted from the stalks of cave fungi and bound around a mesh of spore-infused gills. Demon-worshipping xulgaths use spore saps to capture spellcasters alive for later sacrifice.  **Activate** `pf2:r` Interact (poison)  **Frequency** three times per day  **Trigger** You successfully Strike a creature with the _spore sap_  * * *  **Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 Fortitude check or become stupefied 1 for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical failure)."
+description: "This flexible +2 striking sap is crafted from the stalks of cave fungi
+  and bound around a mesh of spore-infused gills. Demon-worshipping xulgaths use spore
+  saps to capture spellcasters alive for later sacrifice.  **Activate** `pf2:r` Interact
+  (poison)  **Frequency** three times per day  **Trigger** You successfully Strike
+  a creature with the _spore sap_  * * *  **Effect** The _spore sap_ releases a puff
+  of stupefying fungal spores. The target must succeed at a DC 28 Fortitude check
+  or become stupefied 1 for 1 minute ([[Conditions/Stupefied|Stupefied 2]] on a critical
+  failure)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d6 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "telekinetic-converters"
 aliases: "Telekinetic Converters"
 source: "Pathfinder #189: Dreamers of the Nameless Spires"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,20 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "Copper cables run from these thick leather gloves to nodes that attach to the wearer's temples, allowing a spellcaster to convert the magic they normally cast to pure psychic intention. When you Cast a Spell using the telekinetic converters, you substitute any verbal spellcasting components for mental components of simple thought, granting the concentrate trait to the spell you're casting.  **Activate** `pf2:2` Interact  **Requirements** You have a spellcasting class feature and you can cast cantrips  **Effect** You cast [[Spells/Telekinetic Projectile|Telekinetic Projectile]] as an occult cantrip, heightened to a spell rank equal to half your level rounded up.  * * *  **Activate** `pf2:2` Interact  **Requirements** You have a spellcasting class feature and have an unexpended spell slot of 5th level or higher  **Effect** You cast your choice of [[Spells/Telekinetic Haul|Telekinetic Haul]] or [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]] as a 5th-rank occult spell, consuming one of your unexpended spell slots of the same rank as if you had used it to cast the spell."
+description: "Copper cables run from these thick leather gloves to nodes that attach
+  to the wearer's temples, allowing a spellcaster to convert the magic they normally
+  cast to pure psychic intention. When you Cast a Spell using the telekinetic converters,
+  you substitute any verbal spellcasting components for mental components of simple
+  thought, granting the concentrate trait to the spell you're casting.  **Activate**
+  `pf2:2` Interact  **Requirements** You have a spellcasting class feature and you
+  can cast cantrips  **Effect** You cast [[Spells/Telekinetic Projectile|Telekinetic
+  Projectile]] as an occult cantrip, heightened to a spell rank equal to half your
+  level rounded up.  * * *  **Activate** `pf2:2` Interact  **Requirements** You have
+  a spellcasting class feature and have an unexpended spell slot of 5th level or higher\
+  \  **Effect** You cast your choice of [[Spells/Telekinetic Haul|Telekinetic Haul]]
+  or [[Spells/Telekinetic Maneuver|Telekinetic Maneuver]] as a 5th-rank occult spell,
+  consuming one of your unexpended spell slots of the same rank as if you had used
+  it to cast the spell."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

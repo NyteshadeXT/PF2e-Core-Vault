@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "starless-scope-lens"
 aliases: "Starless Scope Lens"
 source: "Pathfinder Adventure: Malevolence"
 pg: ""
-rarity: ""
-trait01: "rare"
+rarity: "Rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "100"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A replacement lens for a [[Equipment/Starless Scope|Starless Scope]]. If you know the formula for the _starless scope_, you can Craft a new lens with a DC 25 Crafting check (master) check.  * * *  **Activate** `pf2:2` Interact (manipulate); You can replace a broken lens in a _starless scope_ with an undamaged one."
+description: "A replacement lens for a [[Equipment/Starless Scope|Starless Scope]].
+  If you know the formula for the _starless scope_, you can Craft a new lens with
+  a DC 25 Crafting check (master) check.  * * *  **Activate** `pf2:2` Interact (manipulate);
+  You can replace a broken lens in a _starless scope_ with an undamaged one."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "special-ingredient"
 aliases: "Special Ingredient"
 source: "Pathfinder Kingmaker"
 pg: ""
-rarity: ""
-trait01: "rare"
+rarity: "Rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Special ingredients are exceptionally rare or dangerous to gather.  Used for cooking meals during camping."
+description: "Special ingredients are exceptionally rare or dangerous to gather. \
+  \ Used for cooking meals during camping."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +48,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

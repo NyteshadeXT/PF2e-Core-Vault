@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slippery-ribbon"
 aliases: "Slippery Ribbon"
 source: "Pathfinder Adventure: The Slithering"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "12"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activation** `pf2:0` envision  **Trigger** You succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space  **Requirements** You are an expert in Acrobatics.  * * *  This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the slippery ribbon, your Speed increases by an amount necessary for you to move all the way through the enemy's space."
+description: "**Usage** affixed to armor  **Activation** `pf2:0` envision  **Trigger**
+  You succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]],
+  but you don't have enough Speed to move all the way through the enemy's space  **Requirements**
+  You are an expert in Acrobatics.  * * *  This ribbon is constantly greasy to the
+  touch and stains the armor it's affixed to. When you activate the slippery ribbon,
+  your Speed increases by an amount necessary for you to move all the way through
+  the enemy's space."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-mending"
 aliases: "Oil of Mending"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (manipulate)  * * *  A vial of oil of mending appears to have countless translucent threads swirling within. Applying this oil to an item casts a 2nd-rank [[Spells/Mending|Mending]] spell to repair the item."
+description: "**Activate** 1 minute (manipulate)  * * *  A vial of oil of mending
+  appears to have countless translucent threads swirling within. Applying this oil
+  to an item casts a 2nd-rank [[Spells/Mending|Mending]] spell to repair the item."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

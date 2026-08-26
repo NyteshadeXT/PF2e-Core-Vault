@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "yarrow-root-bandage"
 aliases: "Yarrow-Root Bandage"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** [[Actions/Administer First Aid|Administer First Aid]]  * * *  This root is often infused into bandages for life-threatening bleeding. Activating the item is part of the same activity you use to Administer First Aid to stop bleeding on a creature who's also dying. When you do, you can Administer First Aid to stop bleeding and dying as part of the same activity with only one Medicine check. However, the DC for the Medicine check is equal to the 5 + the higher of the two DCs to Administer First Aid."
+description: "**Activate** [[Actions/Administer First Aid|Administer First Aid]] \
+  \ * * *  This root is often infused into bandages for life-threatening bleeding.
+  Activating the item is part of the same activity you use to Administer First Aid
+  to stop bleeding on a creature who's also dying. When you do, you can Administer
+  First Aid to stop bleeding and dying as part of the same activity with only one
+  Medicine check. However, the DC for the Medicine check is equal to the 5 + the higher
+  of the two DCs to Administer First Aid."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reapers-crescent"
 aliases: "Reaper's Crescent"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "finesse"
 trait03: "light"
 trait04: "magical"
 trait05: "trip"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The blade of this alabaster +1 striking sickle grows thick and pitted as the moon waxes, and it thins to a sharp sliver as the moon wanes. Moonlight also causes a second rune on the blade to change shape with the moon's phases: during the new and crescent moon, the weapon has the ghost touch rune; during the quarter moon, the fearsome rune; and during the gibbous and full moon, the wounding rune.  When wielded under moonlight of any strength, the reaper's crescent deals additional cold damage equal to the number of damage dice."
+description: "The blade of this alabaster +1 striking sickle grows thick and pitted
+  as the moon waxes, and it thins to a sharp sliver as the moon wanes. Moonlight also
+  causes a second rune on the blade to change shape with the moon's phases: during
+  the new and crescent moon, the weapon has the ghost touch rune; during the quarter
+  moon, the fearsome rune; and during the gibbous and full moon, the wounding rune.\
+  \  When wielded under moonlight of any strength, the reaper's crescent deals additional
+  cold damage equal to the number of damage dice."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +53,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 slashing
 dmg1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

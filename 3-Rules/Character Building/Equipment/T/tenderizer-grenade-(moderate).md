@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tenderizer-grenade-(moderate)"
 aliases: "Tenderizer Grenade (Moderate)"
 source: "Pathfinder #203: Shepherd of Decay"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "acid"
 trait02: "alchemical"
 trait03: "bomb"
 trait04: "consumable"
 trait05: "plant"
 trait06: "splash"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Made from the acidic flesh of an especially astringent fruit found on the Plane of Wood, this bomb's contents soften, oxidize, and season whatever they touch. You gain a +1 item bonus to attack rolls.  On a successful Strike, a tenderizer grenade deals the 2d6 acid damage to the target and the 2 acid splash damage. Any resistances the target has against bludgeoning, piercing, and slashing damage are reduced by an amount based on the bomb's type. In addition, the target is showered with appetizing esters, oils, and salts, making them [[Conditions/Off-Guard|Off-Guard]] against jaws Strikes, fangs Strikes, or similar Strikes with a creature's mouth. These additional effects last until the end of your next turn, or for 1 minute on a critical hit."
+description: "**Activate** `pf2:1` Strike  * * *  Made from the acidic flesh of an
+  especially astringent fruit found on the Plane of Wood, this bomb's contents soften,
+  oxidize, and season whatever they touch. You gain a +1 item bonus to attack rolls.\
+  \  On a successful Strike, a tenderizer grenade deals the 2d6 acid damage to the
+  target and the 2 acid splash damage. Any resistances the target has against bludgeoning,
+  piercing, and slashing damage are reduced by an amount based on the bomb's type.
+  In addition, the target is showered with appetizing esters, oils, and salts, making
+  them [[Conditions/Off-Guard|Off-Guard]] against jaws Strikes, fangs Strikes, or
+  similar Strikes with a creature's mouth. These additional effects last until the
+  end of your next turn, or for 1 minute on a critical hit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

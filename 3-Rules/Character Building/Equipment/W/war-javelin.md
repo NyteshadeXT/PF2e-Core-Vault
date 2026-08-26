@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "war-javelin"
 aliases: "War Javelin"
 source: "Pathfinder War of Immortals"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "tethered"
 trait02: "thrown-30"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A war javelin is similar to a standard javelin, but made of sturdier woods with additional leather grips to make it suitable as a melee weapon and a leather thong to retrieve it after it's thrown."
+description: "A war javelin is similar to a standard javelin, but made of sturdier
+  woods with additional leather grips to make it suitable as a melee weapon and a
+  leather thong to retrieve it after it's thrown."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 piercing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

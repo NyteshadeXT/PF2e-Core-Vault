@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-hawthorn-(4th-level)"
 aliases: "Wand of Hawthorn (4th-level)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Carved from a hawthorn branch, this wand has a smooth handle, but the shaft remains covered in bark and long thorns. Polished red stones, arranged like a cluster of berries, decorate the pommel.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 4th-rank [[Spells/Oaken Resilience|Oaken Resilience]], and the target sprouts long thorns like those of a hawthorn tree. While [[Spells/Oaken Resilience|Oaken Resilience]] lasts, any creature that hits the target with an unarmed Strike or otherwise touches it takes 2d4 piercing damage from the thorns. A creature that has engulfed or swallowed the target takes this damage as well at the start of each of the target's turns.  * * *  **Craft Requirements** Supply a casting of [[Spells/Oaken Resilience|Oaken Resilience]] of the appropriate rank."
+description: "Carved from a hawthorn branch, this wand has a smooth handle, but the
+  shaft remains covered in bark and long thorns. Polished red stones, arranged like
+  a cluster of berries, decorate the pommel.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You cast 4th-rank [[Spells/Oaken
+  Resilience|Oaken Resilience]], and the target sprouts long thorns like those of
+  a hawthorn tree. While [[Spells/Oaken Resilience|Oaken Resilience]] lasts, any creature
+  that hits the target with an unarmed Strike or otherwise touches it takes 2d4 piercing
+  damage from the thorns. A creature that has engulfed or swallowed the target takes
+  this damage as well at the start of each of the target's turns.  * * *  **Craft
+  Requirements** Supply a casting of [[Spells/Oaken Resilience|Oaken Resilience]]
+  of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

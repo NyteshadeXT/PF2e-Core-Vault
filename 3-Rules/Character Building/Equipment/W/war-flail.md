@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "war-flail"
 aliases: "War Flail"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "disarm"
 trait02: "sweep"
 trait03: "trip"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This large flail has a long shaft connected to a shorter piece of stout wood or metal that's sometimes inlaid with spikes."
+description: "This large flail has a long shaft connected to a shorter piece of stout
+  wood or metal that's sometimes inlaid with spikes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d10 bludgeoning
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

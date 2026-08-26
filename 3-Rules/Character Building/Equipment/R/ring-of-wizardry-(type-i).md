@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-wizardry-(type-i)"
 aliases: "Ring of Wizardry (Type I)"
 source: "Pathfinder Core Rulebook"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "arcane"
 trait02: "invested"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,26 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "360"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This ring is made from the purest platinum and is covered in esoteric arcane symbols. It does nothing unless you have a spellcasting class feature with the arcane tradition. While wearing the ring of wizardry, you gain a +1 item bonus to Arcana checks and have two additional 1st-rank arcane spell slots each day. You prepare spells in these slots or cast from them spontaneously, just as you normally cast your spells.  If you take off the ring for any reason, you lose the additional spell slots. You can't gain spell slots from more than one ring of wizardry per day, nor can a single ring of wizardry grant spell slots more than once per day.  If you can cast arcane spells in a variety of different ways (such as if you are a draconic bloodline sorcerer with the wizard multiclass archetype), you can divide the spell slots as you wish among your various sources of arcane spells.  **Craft Requirements** You have a spellcasting class feature with the arcane tradition."
+description: "This ring is made from the purest platinum and is covered in esoteric
+  arcane symbols. It does nothing unless you have a spellcasting class feature with
+  the arcane tradition. While wearing the ring of wizardry, you gain a +1 item bonus
+  to Arcana checks and have two additional 1st-rank arcane spell slots each day. You
+  prepare spells in these slots or cast from them spontaneously, just as you normally
+  cast your spells.  If you take off the ring for any reason, you lose the additional
+  spell slots. You can't gain spell slots from more than one ring of wizardry per
+  day, nor can a single ring of wizardry grant spell slots more than once per day.\
+  \  If you can cast arcane spells in a variety of different ways (such as if you
+  are a draconic bloodline sorcerer with the wizard multiclass archetype), you can
+  divide the spell slots as you wish among your various sources of arcane spells.\
+  \  **Craft Requirements** You have a spellcasting class feature with the arcane
+  tradition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

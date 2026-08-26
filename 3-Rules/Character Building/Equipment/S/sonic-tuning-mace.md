@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sonic-tuning-mace"
 aliases: "Sonic Tuning Mace"
@@ -17,19 +17,23 @@ trait02: "finesse"
 trait03: "magical"
 trait04: "shove"
 trait05: "sonic"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "700"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+1 striking thundering light mace_ has twin tips, perfectly spaced to resonate when striking foes.  * * *  **Activate** `pf2:2` command, Interact  **Frequency** once per day  * * *  **Effect** You tap the tuning mace against a nearby surface to cast 4th-rank [[Spells/Noise Blast|Noise Blast]] with a DC of 25."
+description: "This _+1 striking thundering light mace_ has twin tips, perfectly spaced
+  to resonate when striking foes.  * * *  **Activate** `pf2:2` command, Interact \
+  \ **Frequency** once per day  * * *  **Effect** You tap the tuning mace against
+  a nearby surface to cast 4th-rank [[Spells/Noise Blast|Noise Blast]] with a DC of
+  25."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +51,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 bludgeoning
 dmg1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

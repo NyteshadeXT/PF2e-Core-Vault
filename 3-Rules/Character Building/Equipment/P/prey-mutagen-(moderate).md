@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "prey-mutagen-(moderate)"
 aliases: "Prey Mutagen (Moderate)"
 source: "Pathfinder #194: Cult of the Cave Worm"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  A mixture of fey blood and rare ingredients give you incredible speed but also cause you to become particularly attractive to predators.  **Benefit** You gain a +20 status bonus to your speed and are able to use the following reaction:  **Timely Dodge** `pf2:r`  **Trigger** You are targeted by a Strike  **Effect** You dart aside, gaining a +2 circumstance bonus to AC, then Step after the Strike resolves.  **Drawback** The range at which creatures can detect you with scent or tremorsense doubles. Animals and beasts gain a +2 circumstance bonus to attack rolls against you.  The duration is 10 minute.  [[Equipment Effects/Effect_ Prey Mutagen (Moderate)|Effect: Prey Mutagen (Moderate)]]"
+description: "**Activate** `pf2:1` Interact  * * *  A mixture of fey blood and rare
+  ingredients give you incredible speed but also cause you to become particularly
+  attractive to predators.  **Benefit** You gain a +20 status bonus to your speed
+  and are able to use the following reaction:  **Timely Dodge** `pf2:r`  **Trigger**
+  You are targeted by a Strike  **Effect** You dart aside, gaining a +2 circumstance
+  bonus to AC, then Step after the Strike resolves.  **Drawback** The range at which
+  creatures can detect you with scent or tremorsense doubles. Animals and beasts gain
+  a +2 circumstance bonus to attack rolls against you.  The duration is 10 minute.\
+  \  [[Equipment Effects/Effect_ Prey Mutagen (Moderate)|Effect: Prey Mutagen (Moderate)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

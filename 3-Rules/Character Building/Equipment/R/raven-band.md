@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "raven-band"
 aliases: "Raven Band"
 source: "Pathfinder #175: Broken Tusk Moon"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "primal"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "60"
 subvalue: "gp"
 invest:
 usage: "wornarmbands"
 license: "ORC"
 identify:
-description: "This armband is woven from overlapping raven feathers, including one large feather from a kadlaka. As long as you wear it, you understand what ravens are saying, but you can't speak to ravens unless you activate the _raven band_.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect** When you stroke the kadlaka feather, the raven band gives you the effects of [[Spells/Speak with Animals|Speak with Animals]], except that you can speak with and understand only birds, not other animals."
+description: "This armband is woven from overlapping raven feathers, including one
+  large feather from a kadlaka. As long as you wear it, you understand what ravens
+  are saying, but you can't speak to ravens unless you activate the _raven band_.\
+  \  * * *  **Activate** `pf2:1` Interact  **Frequency** once per day  * * *  **Effect**
+  When you stroke the kadlaka feather, the raven band gives you the effects of [[Spells/Speak
+  with Animals|Speak with Animals]], except that you can speak with and understand
+  only birds, not other animals."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

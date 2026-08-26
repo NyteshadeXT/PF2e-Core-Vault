@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spring-heel"
 aliases: "Spring Heel"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "mechanical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Fitted into each of these prosthetic legs is a large spring, tightly bound around a collapsible shaft. When released, the spring unspools rapidly and the shaft telescopes out and back, returning to its compressed form and catapulting you forward.  * * *  **Activate** `pf2:1` envision, Interact  **Frequency** once per hour  * * *  **Effect** You Stride up to twice your speed or [[Actions/Leap|Leap]] up to 20 feet horizontally and 5 feet vertically."
+description: "Fitted into each of these prosthetic legs is a large spring, tightly
+  bound around a collapsible shaft. When released, the spring unspools rapidly and
+  the shaft telescopes out and back, returning to its compressed form and catapulting
+  you forward.  * * *  **Activate** `pf2:1` envision, Interact  **Frequency** once
+  per hour  * * *  **Effect** You Stride up to twice your speed or [[Actions/Leap|Leap]]
+  up to 20 feet horizontally and 5 feet vertically."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

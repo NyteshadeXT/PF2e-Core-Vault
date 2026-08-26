@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-natures-cunning-(greater)"
 aliases: "Staff of Nature's Cunning (Greater)"
@@ -16,7 +16,7 @@ trait01: "magical"
 trait02: "plant"
 trait03: "staff"
 trait04: "two-hand-d8"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Moss and winding vines give this gnarled staff of wild wood a vibrant green tinge. You created this staff to aid you in speaking to the plants you met on your adventure and beseeching them to come to your aid.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]] *   **1st** [[Spells/Protector Tree|Protector Tree]], [[Spells/Shillelagh|Shillelagh]] *   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape Wood]] *   **3rd** [[Spells/One with Plants|One with Plants]], [[Spells/Wall of Thorns|Wall of Thorns]] *   **4th** [[Spells/Oaken Resilience|Oaken Resilience]], [[Spells/Speak with Plants|Speak with Plants]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+description: "Moss and winding vines give this gnarled staff of wild wood a vibrant
+  green tinge. You created this staff to aid you in speaking to the plants you met
+  on your adventure and beseeching them to come to your aid.  * * *  **Activate**
+  Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to
+  cast a spell from its list.  *   **Cantrip** [[Spells/Tangle Vine|Tangle Vine]]
+  *   **1st** [[Spells/Protector Tree|Protector Tree]], [[Spells/Shillelagh|Shillelagh]]
+  *   **2nd** [[Spells/Entangling Flora|Entangling Flora]], [[Spells/Shape Wood|Shape
+  Wood]] *   **3rd** [[Spells/One with Plants|One with Plants]], [[Spells/Wall of
+  Thorns|Wall of Thorns]] *   **4th** [[Spells/Oaken Resilience|Oaken Resilience]],
+  [[Spells/Speak with Plants|Speak with Plants]]  * * *  **Craft Requirements** Supply
+  one casting of all listed levels of all listed spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +57,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

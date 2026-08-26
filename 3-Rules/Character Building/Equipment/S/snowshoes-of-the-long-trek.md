@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snowshoes-of-the-long-trek"
 aliases: "Snowshoes of the Long Trek"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,22 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "550"
 subvalue: "gp"
 invest:
 usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These magically enhanced snowshoes are practically a necessity when traversing the gelid tundra and snow-drenched taiga of the Saga Lands.  The snowshoes of the long trek allow their wearer to walk across ice and snow with the same surety as dry earth, ignoring the uneven ground and difficult terrain caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to ordinary difficult terrain).  In addition, a character wearing snowshoes of the long trek gains a +5-foot status bonus to their Speed while moving across snow or ice and is never at risk of breaking through naturally-occurring loose or soft snow."
+description: "These magically enhanced snowshoes are practically a necessity when
+  traversing the gelid tundra and snow-drenched taiga of the Saga Lands.  The snowshoes
+  of the long trek allow their wearer to walk across ice and snow with the same surety
+  as dry earth, ignoring the uneven ground and difficult terrain caused by ice and
+  the difficult terrain caused by snow (reducing greater difficult terrain from ice
+  or snow to ordinary difficult terrain).  In addition, a character wearing snowshoes
+  of the long trek gains a +5-foot status bonus to their Speed while moving across
+  snow or ice and is never at risk of breaking through naturally-occurring loose or
+  soft snow."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

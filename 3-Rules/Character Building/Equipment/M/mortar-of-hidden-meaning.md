@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mortar-of-hidden-meaning"
 aliases: "Mortar of Hidden Meaning"
@@ -13,7 +13,7 @@ source: "Pathfinder Lost Omens Gods & Magic"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This matching mortar and pestle are made from immaculate duskwood that looks nearly olive in the right light.  **Activate** 1 minute (Interact)  **Frequency** once per hour  * * *  **Effect** You use the _mortar of hidden meaning_ to grind tea leaves (or another suitable substance for making a hot beverage). While grinding the tea leaves, which takes no less than 1 minute, you can speak a message into the mortar. After the leaves are steeped in hot water, the first person who drinks from the resulting brew hears the message whispered in their ear."
+description: "This matching mortar and pestle are made from immaculate duskwood that
+  looks nearly olive in the right light.  **Activate** 1 minute (Interact)  **Frequency**
+  once per hour  * * *  **Effect** You use the _mortar of hidden meaning_ to grind
+  tea leaves (or another suitable substance for making a hot beverage). While grinding
+  the tea leaves, which takes no less than 1 minute, you can speak a message into
+  the mortar. After the leaves are steeped in hot water, the first person who drinks
+  from the resulting brew hears the message whispered in their ear."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rope-dart"
 aliases: "Rope Dart"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "disarm"
 trait02: "finesse"
 trait03: "sweep"
 trait04: "tethered"
 trait05: "thrown-20"
 trait06: "trip"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "A deceptively simple weapon made from a length of cord attached to a weighted, conical metal spike. A rope dart can be whirled and manipulated at great speeds to attack in unexpected ways and from unexpected angles."
+description: "A deceptively simple weapon made from a length of cord attached to a
+  weighted, conical metal spike. A rope dart can be whirled and manipulated at great
+  speeds to attack in unexpected ways and from unexpected angles."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

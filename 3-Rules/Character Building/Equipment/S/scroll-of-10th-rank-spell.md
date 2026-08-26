@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scroll-of-10th-rank-spell"
 aliases: "Scroll of 10th-rank Spell"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "scroll"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.  The spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack modifier and spell DC. The spell also gains the appropriate trait for your tradition (arcane, divine, occult, or primal).  Any physical costs are provided when a scroll is created, so you don't need to provide them when casting from a scroll. If the spell requires a locus, you must have that locus to Cast the Spell from a scroll.  * * *  _Note: To create a scroll or wand of a specific spell, drag the spell from the compendium or compendium browser into the inventory of a PC, NPC, or loot actor._"
+description: "Casting a Spell from a scroll requires holding the scroll in one hand
+  and activating it with a Cast a Spell activity using the normal number of actions
+  for that spell.  The spell must appear on your spell list. Because you're the one
+  Casting the Spell, use your spell attack modifier and spell DC. The spell also gains
+  the appropriate trait for your tradition (arcane, divine, occult, or primal).  Any
+  physical costs are provided when a scroll is created, so you don't need to provide
+  them when casting from a scroll. If the spell requires a locus, you must have that
+  locus to Cast the Spell from a scroll.  * * *  _Note: To create a scroll or wand
+  of a specific spell, drag the spell from the compendium or compendium browser into
+  the inventory of a PC, NPC, or loot actor._"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "clockwork-cloak"
 aliases: "Clockwork Cloak"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "invested"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,19 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "Paper-thin interlocking gears and winding cogs make up this bronze cloak.  * * *  **Activate** `pf2:r` Interact  **Frequency** once per day  **Trigger** You're struck by a melee attack with a held weapon  * * *  **Effect** The folds of the cloak attempt to divert the attack and catch the weapon in the cloak's gears. Make an Athletics check to [[Actions/Disarm|Disarm]] the attacking creature.  * * *  **Activate** `pf2:2` Interact  * * *  **Effect** You wrap the cloak around yourself and the winding gears decelerate your body, causing you to enter standby mode. While in standby mode you don't need to eat, drink, or sleep. You remain aware of your surroundings but take a -4 penalty to Perception checks. You can stay in standby mode indefinitely, although your body ages normally. You can leave standby mode as a `pf2:0`. If you do so to initiate combat, you gain a +2 item bonus to your initiative roll.  [[Equipment Effects/Effect_ Clockwork Cloak|Effect: Clockwork Cloak]]"
+description: "Paper-thin interlocking gears and winding cogs make up this bronze cloak.\
+  \  * * *  **Activate** `pf2:r` Interact  **Frequency** once per day  **Trigger**
+  You're struck by a melee attack with a held weapon  * * *  **Effect** The folds
+  of the cloak attempt to divert the attack and catch the weapon in the cloak's gears.
+  Make an Athletics check to [[Actions/Disarm|Disarm]] the attacking creature.  *
+  * *  **Activate** `pf2:2` Interact  * * *  **Effect** You wrap the cloak around
+  yourself and the winding gears decelerate your body, causing you to enter standby
+  mode. While in standby mode you don't need to eat, drink, or sleep. You remain aware
+  of your surroundings but take a -4 penalty to Perception checks. You can stay in
+  standby mode indefinitely, although your body ages normally. You can leave standby
+  mode as a `pf2:0`. If you do so to initiate combat, you gain a +2 item bonus to
+  your initiative roll.  [[Equipment Effects/Effect_ Clockwork Cloak|Effect: Clockwork
+  Cloak]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shock-(greater)"
 aliases: "Shock (Greater)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "electricity"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 15
-weight: 
+weight:
 value: "6500"
 subvalue: "gp"
 invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "Electric arcs crisscross _shock_ weapons, dealing an extra 1d6 electricity damage on a hit. On a critical hit, electricity arcs out to deal an equal amount of electricity damage to up to two other creatures of your choice within 10 feet of the target.  Electricity damage dealt by this weapon ignores the target's electricity resistance (and the other creatures' on a critical hit)."
+description: "Electric arcs crisscross _shock_ weapons, dealing an extra 1d6 electricity
+  damage on a hit. On a critical hit, electricity arcs out to deal an equal amount
+  of electricity damage to up to two other creatures of your choice within 10 feet
+  of the target.  Electricity damage dealt by this weapon ignores the target's electricity
+  resistance (and the other creatures' on a critical hit)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

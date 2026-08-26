@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "savior-spike"
 aliases: "Savior Spike"
@@ -16,20 +16,25 @@ trait01: "consumable"
 trait02: "force"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "7"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt to [[Actions/Grab an Edge|Grab an Edge]] but haven't rolled  * * *  This pyramid-shaped spike is attached to an armor's chest piece. When you activate the spike, it shoots a strand of force to help you gain purchase, giving you a +1 item bonus to the check. If you roll a success on the triggering attempt, you get a critical success instead. If you roll a critical failure, you get a failure instead."
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You attempt to [[Actions/Grab
+  an Edge|Grab an Edge]] but haven't rolled  * * *  This pyramid-shaped spike is attached
+  to an armor's chest piece. When you activate the spike, it shoots a strand of force
+  to help you gain purchase, giving you a +1 item bonus to the check. If you roll
+  a success on the triggering attempt, you get a critical success instead. If you
+  roll a critical failure, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

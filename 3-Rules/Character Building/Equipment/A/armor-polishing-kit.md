@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "armor-polishing-kit"
 aliases: "Armor Polishing Kit"
 source: "Pathfinder Adventure: Rusthenge"
 pg: "59"
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -30,7 +30,11 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 activate: "10 minutes ([[Interact]])"
-description: "This kit can be used to clean and polish armor. Creatures wearing armor that has been maintained by this kit gain a +1 circumstance bonus on Diplomacy checks to [[Make an Impression]] on soldiers, guards, Gorumites, and other martially minded characters. This bonus expires after 24 hours, or if the armor is soiled in some way, such as by walking through a sewer or falling in a mud pit."
+description: "This kit can be used to clean and polish armor. Creatures wearing armor
+  that has been maintained by this kit gain a +1 circumstance bonus on Diplomacy checks
+  to [[Make an Impression]] on soldiers, guards, Gorumites, and other martially minded
+  characters. This bonus expires after 24 hours, or if the armor is soiled in some
+  way, such as by walking through a sewer or falling in a mud pit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -48,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -77,9 +81,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

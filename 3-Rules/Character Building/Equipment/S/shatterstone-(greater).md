@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shatterstone-(greater)"
 aliases: "Shatterstone (Greater)"
@@ -17,7 +17,7 @@ trait02: "bomb"
 trait03: "consumable"
 trait04: "sonic"
 trait05: "splash"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A shatterstone is a small ceramic orb, much like a thunderstone. Inside are reactive agents that set up an intense field of sonic vibration when the stone breaks. The bomb grants a +3 item bonus to attack rolls and deals 4d6 sonic damage and 4 sonic splash damage. Much of the sound is ultrasonic, and creatures with sonic weakness that take damage from the bomb must succeed at a DC 40 Fortitude check save or be [[Conditions/Deafened|Deafened]] until the end of their next turn."
+description: "**Activate** `pf2:1` Strike  * * *  A shatterstone is a small ceramic
+  orb, much like a thunderstone. Inside are reactive agents that set up an intense
+  field of sonic vibration when the stone breaks. The bomb grants a +3 item bonus
+  to attack rolls and deals 4d6 sonic damage and 4 sonic splash damage. Much of the
+  sound is ultrasonic, and creatures with sonic weakness that take damage from the
+  bomb must succeed at a DC 40 Fortitude check save or be [[Conditions/Deafened|Deafened]]
+  until the end of their next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

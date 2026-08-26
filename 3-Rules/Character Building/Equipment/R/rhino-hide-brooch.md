@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rhino-hide-brooch"
 aliases: "Rhino Hide Brooch"
 source: "Pathfinder #170: Spoken on the Song Wind"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "28"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:r` envision  **Trigger** You would take physical damage.  * * *  This thick brooch is carved from a single piece of rhino hide. It's lacquered and covered in a thin layer of silver dust. When activated, the talisman grants you resistance 5 to physical damage until the end of the current creature's turn. This resistance applies to the triggering attack.  [[Equipment Effects/Effect_ Rhino Hide Brooch|Effect: Rhino Hide Brooch]]"
+description: "**Usage** affixed to armor  **Activate** `pf2:r` envision  **Trigger**
+  You would take physical damage.  * * *  This thick brooch is carved from a single
+  piece of rhino hide. It's lacquered and covered in a thin layer of silver dust.
+  When activated, the talisman grants you resistance 5 to physical damage until the
+  end of the current creature's turn. This resistance applies to the triggering attack.\
+  \  [[Equipment Effects/Effect_ Rhino Hide Brooch|Effect: Rhino Hide Brooch]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

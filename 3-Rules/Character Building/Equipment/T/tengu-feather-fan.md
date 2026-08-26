@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tengu-feather-fan"
 aliases: "Tengu Feather Fan"
 source: "Pathfinder Lost Omens Ancestry Guide"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "primal"
-trait02: "unique"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Activate** Interact  **Frequency** once per day  * * *  **Effect** You cast one of the spells contained in your _tengu feather fan_. Activating the fan takes the spell's normal number of actions. You can also Activate the fan to cast a cantrip you've gained from a heritage or ancestry feat; this activation doesn't count against the fan's uses per day.  The DC for spells you cast with your _tengu feather fan_ is your class DC or spell DC, whichever is higher.  You can cast the 1st-rank [[Spells/Gust of Wind|Gust of Wind]] spell by activating your _tengu feather fan_. Fortitude saving throw"
+description: "**Activate** Interact  **Frequency** once per day  * * *  **Effect**
+  You cast one of the spells contained in your _tengu feather fan_. Activating the
+  fan takes the spell's normal number of actions. You can also Activate the fan to
+  cast a cantrip you've gained from a heritage or ancestry feat; this activation doesn't
+  count against the fan's uses per day.  The DC for spells you cast with your _tengu
+  feather fan_ is your class DC or spell DC, whichever is higher.  You can cast the
+  1st-rank [[Spells/Gust of Wind|Gust of Wind]] spell by activating your _tengu feather
+  fan_. Fortitude saving throw"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "travelers-fulu"
 aliases: "Traveler's Fulu"
 source: "Pathfinder #196: The Summer That Never Was"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "7"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You critically fail an attempt to Sense Direction  **Requirements** You're trained in Survival.  * * *  This fulu shows a series of constellations and arrows depicting astronomical movements through the night sky. When you activate a traveler's fulu, the magic infuses your mind with sensations of deja vu, as if you'd been in this region before. You gain a success on the triggering check."
+description: "**Activate** `pf2:0` envision  **Trigger** You critically fail an attempt
+  to Sense Direction  **Requirements** You're trained in Survival.  * * *  This fulu
+  shows a series of constellations and arrows depicting astronomical movements through
+  the night sky. When you activate a traveler's fulu, the magic infuses your mind
+  with sensations of deja vu, as if you'd been in this region before. You gain a success
+  on the triggering check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "versatile-vial"
 aliases: "Versatile Vial"
@@ -18,18 +18,19 @@ trait03: "bomb"
 trait04: "consumable"
 trait05: "infused"
 trait06: "splash"
-trait07: "common"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This tiny glass flask contains volatile chemicals that can be used offensively in a pinch. The bomb deals acid damage and acid splash damage."
+description: "This tiny glass flask contains volatile chemicals that can be used offensively
+  in a pinch. The bomb deals acid damage and acid splash damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

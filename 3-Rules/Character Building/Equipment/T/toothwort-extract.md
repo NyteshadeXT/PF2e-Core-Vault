@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "toothwort-extract"
 aliases: "Toothwort Extract"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "additive1"
 trait02: "alchemical"
 trait03: "consumable"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0`  **Trigger** You use Quick Alchemy to craft an alchemical poison that's at least 1 level lower than your advanced alchemy level.  Originally used in dental procedures, toothwort numbs the gums by deadening nerves. When the oils are extracted and distilled, toothwort has a secondary reputation among alchemists for enhancing the duration of poisons. When adding toothwort extract to an alchemical poison, you can extend the maximum duration of the poison by 1 round."
+description: "**Activate** `pf2:0`  **Trigger** You use Quick Alchemy to craft an
+  alchemical poison that's at least 1 level lower than your advanced alchemy level.\
+  \  Originally used in dental procedures, toothwort numbs the gums by deadening nerves.
+  When the oils are extracted and distilled, toothwort has a secondary reputation
+  among alchemists for enhancing the duration of poisons. When adding toothwort extract
+  to an alchemical poison, you can extend the maximum duration of the poison by 1
+  round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

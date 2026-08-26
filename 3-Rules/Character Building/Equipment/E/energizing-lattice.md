@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "energizing-lattice"
 aliases: "Energizing Lattice"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "invested"
 trait02: "light"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -30,14 +30,22 @@ usage: "wornarmor"
 group: "Chain"
 license: "ORC"
 identify:
-description: "This suit of _[[armor-potency-2|+2]] [[resilient]] [[fortification]] [[lattice armor]]_ has latticework of fine golden wire. After negating a critical hit with its _fortification_ rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light."
+description: "This suit of _[[armor-potency-2|+2]] [[resilient]] [[fortification]]
+  [[lattice armor]]_ has latticework of fine golden wire. After negating a critical
+  hit with its _fortification_ rune, the latticework glows for 1 minute, shedding
+  bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss
+  this light."
 powerTitle1: "Effect"
 actionEconomy1: 2
 type1: "([[envision]] ([[force]]))"
 frequency1:
-requirement1: "The _energizing lattice_ is glowing because it negated an enemy's critical hit"
+requirement1: "The _energizing lattice_ is glowing because it negated an enemy's critical
+  hit"
 trigger1:
-mechanics1: "You release the lattice's energy and make a weapon or unarmed attack Strike that deals `dice: 6d6` additional force damage. If your Strike fails, but doesn't critically fail, the target still takes half the force damage. The latticework ceases glowing after the Strike."
+mechanics1: "You release the lattice's energy and make a weapon or unarmed attack
+  Strike that deals `dice: 6d6` additional force damage. If your Strike fails, but
+  doesn't critically fail, the target still takes half the force damage. The latticework
+  ceases glowing after the Strike."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -49,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -68,21 +76,19 @@ strRequirement: "+3"
 checkPenalty: -2
 speedPenalty: "-5 ft."
 armorCategory: Medium
-resist: 
-immunity: 
-conditionImmunity: 
-hardness: 
-hp: 
-bt: 
+resist:
+immunity:
+conditionImmunity:
+hardness:
+hp:
+bt:
 
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
 armorBase: "Lattice Armor"
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

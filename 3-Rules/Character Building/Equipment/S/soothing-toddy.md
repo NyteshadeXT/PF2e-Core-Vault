@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "soothing-toddy"
 aliases: "Soothing Toddy"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Hot tea with a comforting, flowery aroma, a soothing toddy grants you a +1 item bonus to saving throws against emotion effects and against effects with a trait determined by the liquor mixed into the tea when it's created. These benefits last for 1 hour.  *   **Amaretto** Auditory *   **Limoncello** Olfactory *   **Whiskey** Visual  [[Equipment Effects/Effect_ Soothing Toddy|Effect: Soothing Toddy]]"
+description: "**Activate** `pf2:1` Interact  Hot tea with a comforting, flowery aroma,
+  a soothing toddy grants you a +1 item bonus to saving throws against emotion effects
+  and against effects with a trait determined by the liquor mixed into the tea when
+  it's created. These benefits last for 1 hour.  *   **Amaretto** Auditory *   **Limoncello**
+  Olfactory *   **Whiskey** Visual  [[Equipment Effects/Effect_ Soothing Toddy|Effect:
+  Soothing Toddy]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

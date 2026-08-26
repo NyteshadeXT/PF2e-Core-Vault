@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-dazzling-rays-(4th-level)"
 aliases: "Wand of Dazzling Rays (4th-level)"
@@ -16,7 +16,7 @@ trait01: "fire"
 trait02: "light"
 trait03: "magical"
 trait04: "wand"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Solidified radiance comprises this slender, featureless wand. It sheds bright light in a 20-foot radius and dim light for the next 20 feet. After you Activate the wand, the light fades, so it only sheds dim light in a 20-foot radius. The wand returns to its original brightness each dawn.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast 4th-rank [[Spells/Holy Light|Holy Light]], dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Dazzled|Dazzled]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude check saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).  * * *  **Craft Requirements** Supply a casting of [[Spells/Holy Light|Holy Light]] of the appropriate rank."
+description: "Solidified radiance comprises this slender, featureless wand. It sheds
+  bright light in a 20-foot radius and dim light for the next 20 feet. After you Activate
+  the wand, the light fades, so it only sheds dim light in a 20-foot radius. The wand
+  returns to its original brightness each dawn.  * * *  **Activate** Cast a Spell\
+  \  **Frequency** once per day, plus overcharge  **Effect** You cast 4th-rank [[Spells/Holy
+  Light|Holy Light]], dazzling your target with the beam's intensity. A creature that
+  takes damage from the spell is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Dazzled|Dazzled]]
+  for a number of rounds equal to the spell rank. On a critical success on the attack
+  roll, the target is also blinded for as long as it's dazzled from the spell. However,
+  it can attempt a Fortitude check saving throw against your spell DC at the end of
+  each of its turns, ending the blinded condition on a success (but remaining dazzled).\
+  \  * * *  **Craft Requirements** Supply a casting of [[Spells/Holy Light|Holy Light]]
+  of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

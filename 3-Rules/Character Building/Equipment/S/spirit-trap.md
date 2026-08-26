@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spirit-trap"
 aliases: "Spirit Trap"
 source: "Pathfinder #196: The Summer That Never Was"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "snare"
 trait04: "trap"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A spirit trap consists of a net dipped in water that has been steeped with sacred herbs to better combat phantoms. This snare's components function as a net when not set up. You set this snare up in a 10-foot-by-10-foot area. The first creature with the spirit trait that steps into the area must attempt a DC 16 Fortitude check save.  * * *  **Critical Success** The creature is unaffected  **Success** The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.  **Failure** The creature is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure** The creature is immobilized until it Escapes (DC 16)."
+description: "A spirit trap consists of a net dipped in water that has been steeped
+  with sacred herbs to better combat phantoms. This snare's components function as
+  a net when not set up. You set this snare up in a 10-foot-by-10-foot area. The first
+  creature with the spirit trait that steps into the area must attempt a DC 16 Fortitude
+  check save.  * * *  **Critical Success** The creature is unaffected  **Success**
+  The creature is [[Conditions/Off-Guard|Off-Guard]] for 1 round.  **Failure** The
+  creature is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure**
+  The creature is immobilized until it Escapes (DC 16)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

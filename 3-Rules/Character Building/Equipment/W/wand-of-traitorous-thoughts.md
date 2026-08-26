@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-traitorous-thoughts"
 aliases: "Wand of Traitorous Thoughts"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "mental"
 trait03: "wand"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When you hold this sleek, shiny gray wand, you hear a faint chorus of overlapping whispers.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Mind Probe|Mind Probe]]. The first time the target rolls a success at a Deception check to mislead your probe, it gets a result one step worse than it rolled. This means you learn the answer if the target's Deception check would have succeeded, and you learn nothing rather than believing a falsehood if the check would have been a critical success.  * * *  **Craft Requirements** Supply a casting of [[Spells/Mind Probe|Mind Probe]]."
+description: "When you hold this sleek, shiny gray wand, you hear a faint chorus of
+  overlapping whispers.  **Activate** Cast a Spell  **Frequency** once per day, plus
+  overcharge  * * *  **Effect** You cast [[Spells/Mind Probe|Mind Probe]]. The first
+  time the target rolls a success at a Deception check to mislead your probe, it gets
+  a result one step worse than it rolled. This means you learn the answer if the target's
+  Deception check would have succeeded, and you learn nothing rather than believing
+  a falsehood if the check would have been a critical success.  * * *  **Craft Requirements**
+  Supply a casting of [[Spells/Mind Probe|Mind Probe]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

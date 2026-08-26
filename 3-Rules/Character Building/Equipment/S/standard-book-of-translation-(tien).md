@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "standard-book-of-translation-(tien)"
 aliases: "Standard Book of Translation (Tien)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The book is leather-bound and decorated with the symbol of the Lantern Lodge. Red and gold cords wrap around the book and tie to keep it shut. Each volume offers translation for a different language. When working with a book of translation, you can attempt Diplomacy checks to Gather Information or to Make an Impression with creatures that speak the language featured in the book, even if you do not speak the language. Such checks take 10 times longer to complete and you take a -2 circumstance penalty to the check due to your limited communication capabilities."
+description: "The book is leather-bound and decorated with the symbol of the Lantern
+  Lodge. Red and gold cords wrap around the book and tie to keep it shut. Each volume
+  offers translation for a different language. When working with a book of translation,
+  you can attempt Diplomacy checks to Gather Information or to Make an Impression
+  with creatures that speak the language featured in the book, even if you do not
+  speak the language. Such checks take 10 times longer to complete and you take a
+  -2 circumstance penalty to the check due to your limited communication capabilities."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

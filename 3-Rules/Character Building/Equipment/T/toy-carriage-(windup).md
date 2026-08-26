@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "toy-carriage-(windup)"
 aliases: "Toy Carriage (Windup)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "A miniature toy carriage is carved from wood and has fully functioning wheels. It can vary in size from 2 to 8 inches long, too small for even Tiny creatures to ride. If pushed or propelled, obstacles and terrain might slow, stop, tip, or divert the carriage's course.  * * *  A tiny crank protrudes from the side of this carriage. If the crank is wound and the carriage is released on the ground, the carriage propels in a straight line at a Speed of 10 feet. Each Interact action spent winding the crank propels the carriage for 1 round. A windup toy carriage can be wound for a maximum of 9 actions total, at which point it's too tight to wind further."
+description: "A miniature toy carriage is carved from wood and has fully functioning
+  wheels. It can vary in size from 2 to 8 inches long, too small for even Tiny creatures
+  to ride. If pushed or propelled, obstacles and terrain might slow, stop, tip, or
+  divert the carriage's course.  * * *  A tiny crank protrudes from the side of this
+  carriage. If the crank is wound and the carriage is released on the ground, the
+  carriage propels in a straight line at a Speed of 10 feet. Each Interact action
+  spent winding the crank propels the carriage for 1 round. A windup toy carriage
+  can be wound for a maximum of 9 actions total, at which point it's too tight to
+  wind further."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

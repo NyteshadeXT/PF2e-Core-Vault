@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tattletale-orb-(clear-quartz)"
 aliases: "Tattletale Orb (Clear Quartz)"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "cursed"
 trait02: "magical"
 trait03: "scrying"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A tattletale orb is a polished crystal sphere that appears to function as a [[Equipment/Crystal Ball (Clear Quartz)|Crystal Ball (Clear Quartz)]]. If those whom you use the orb to scry on roll better than a critical failure on their saving throw, they receive a telepathic message alerting them to the scrying. A success or better at the save allows the target to choose to allow you to scry anyway, knowing they can use an aspect of the orb against you, according to the orb's type. A creature that rolls a critical success on the saving throw also learns your name and location. Once you Activate a tattletale orb or use it to cast one of your scrying spells, it fuses to you. You must succeed at a Will save, using the scrying Will DC of a crystal ball of the orb's type, to use another such device.  Tattletale orbs come in the same types as crystal balls, with the same activations and powers. However, your target must roll a critical failure on the saving throw for the orb to function as normal for that type of crystal ball."
+description: "A tattletale orb is a polished crystal sphere that appears to function
+  as a [[Equipment/Crystal Ball (Clear Quartz)|Crystal Ball (Clear Quartz)]]. If those
+  whom you use the orb to scry on roll better than a critical failure on their saving
+  throw, they receive a telepathic message alerting them to the scrying. A success
+  or better at the save allows the target to choose to allow you to scry anyway, knowing
+  they can use an aspect of the orb against you, according to the orb's type. A creature
+  that rolls a critical success on the saving throw also learns your name and location.
+  Once you Activate a tattletale orb or use it to cast one of your scrying spells,
+  it fuses to you. You must succeed at a Will save, using the scrying Will DC of a
+  crystal ball of the orb's type, to use another such device.  Tattletale orbs come
+  in the same types as crystal balls, with the same activations and powers. However,
+  your target must roll a critical failure on the saving throw for the orb to function
+  as normal for that type of crystal ball."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

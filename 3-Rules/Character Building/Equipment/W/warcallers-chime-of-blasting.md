@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warcallers-chime-of-blasting"
 aliases: "Warcaller's Chime of Blasting"
 source: "Pathfinder #170: Spoken on the Song Wind"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This chime features carvings of destructive runes. When activated, it creates the effects of a 3rd-rank [[Spells/Noise Blast|Noise Blast]] centered on you (DC 20 Fortitude check save). Instead of the spell's normal range, it has a 5-foot emanation. In addition, creatures that critically fail their save are knocked [[Conditions/Prone|Prone]] by the chime's effect. You can use this chime once per day."
+description: "This chime features carvings of destructive runes. When activated, it
+  creates the effects of a 3rd-rank [[Spells/Noise Blast|Noise Blast]] centered on
+  you (DC 20 Fortitude check save). Instead of the spell's normal range, it has a
+  5-foot emanation. In addition, creatures that critically fail their save are knocked
+  [[Conditions/Prone|Prone]] by the chime's effect. You can use this chime once per
+  day."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "seventh-prism-(pentagonal)"
 aliases: "Seventh Prism (Pentagonal)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  Beloved by the church of the Seventh Veil, a _seventh prism_ is a crystal that disperses its internal light, casting an aurora of color. If you use a seventh prism to cast [[Spells/Dizzying Colors|Dizzying Colors]], targets are [[Conditions/Dazzled|Dazzled]] for twice as long as their saving throw indicates. On a critical failure, the target is dazzled for 1 minute after its [[Conditions/Blinded|Blinded]] condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult to see details.  The area increases to a 20-foot cone, and the DC for the flat check against the target being [[Conditions/Concealed|Concealed]] increases to DC 7 Flat check.  [[Equipment Effects/Effect_ Seventh Prism (Pentagonal)|Effect: Seventh Prism (Pentagonal)]]"
+description: "**Activate** Cast a Spell  Beloved by the church of the Seventh Veil,
+  a _seventh prism_ is a crystal that disperses its internal light, casting an aurora
+  of color. If you use a seventh prism to cast [[Spells/Dizzying Colors|Dizzying Colors]],
+  targets are [[Conditions/Dazzled|Dazzled]] for twice as long as their saving throw
+  indicates. On a critical failure, the target is dazzled for 1 minute after its [[Conditions/Blinded|Blinded]]
+  condition ends. Motes of shifting rainbow hues cloud the eyes, making it difficult
+  to see details.  The area increases to a 20-foot cone, and the DC for the flat check
+  against the target being [[Conditions/Concealed|Concealed]] increases to DC 7 Flat
+  check.  [[Equipment Effects/Effect_ Seventh Prism (Pentagonal)|Effect: Seventh Prism
+  (Pentagonal)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

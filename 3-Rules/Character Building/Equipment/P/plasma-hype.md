@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "plasma-hype"
 aliases: "Plasma Hype"
 source: "Pathfinder Lost Omens Legends"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "drug"
 trait04: "ingested"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A synthetic adrenaline supplement that increases awareness and reaction time. Plasma hype has been infused with a specific mixture of Numerian fluids and other alchemical reagents to improve upon the original hype formula.  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 1 minute  **Stage 1** +10-foot status bonus to speed, quickened and can use the additional action to Step, Stride, Climb, or Swim (1 round)  **Stage 2** quickened and can use the additional action to Step or Stride (1 round)  **Stage 3** [[Conditions/Drained|Drained 2]] and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
+description: "**Activate** `pf2:1` Interact  A synthetic adrenaline supplement that
+  increases awareness and reaction time. Plasma hype has been infused with a specific
+  mixture of Numerian fluids and other alchemical reagents to improve upon the original
+  hype formula.  **Saving Throw** DC 30 Fortitude check  **Maximum Duration** 1 minute\
+  \  **Stage 1** +10-foot status bonus to speed, quickened and can use the additional
+  action to Step, Stride, Climb, or Swim (1 round)  **Stage 2** quickened and can
+  use the additional action to Step or Stride (1 round)  **Stage 3** [[Conditions/Drained|Drained
+  2]] and [[Conditions/Stupefied|Stupefied 2]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tough-skin"
 aliases: "Tough Skin"
@@ -13,7 +13,7 @@ source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
 rarity: ""
 trait01: "comfort"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "**Note** Tough Skin ancestry feat only  * * *  Your skin is medium armor in the plate armor group that grants a +4 item bonus to AC, and has a Dex cap of +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and the comfort trait. You can never wear other armor or remove your hide. You can etch armor runes onto your hide."
+description: "**Note** Tough Skin ancestry feat only  * * *  Your skin is medium armor
+  in the plate armor group that grants a +4 item bonus to AC, and has a Dex cap of
+  +1, a check penalty of –2, a Speed penalty of –5 feet, a Strength value of +3, and
+  the comfort trait. You can never wear other armor or remove your hide. You can etch
+  armor runes onto your hide."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

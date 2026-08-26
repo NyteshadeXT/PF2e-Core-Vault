@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stage-fright-missive"
 aliases: "Stage Fright Missive"
@@ -17,19 +17,27 @@ trait02: "curse"
 trait03: "magical"
 trait04: "mental"
 trait05: "missive"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "22"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` envision, Interact  Composing a stage fright missive usually involves creating a scathing review, insulting letter, or embarrassing image that ridicules the recipient. The activating creature must succeed at a DC 20 Will check save or be overcome with embarrassment for 1 hour, taking a –1 status penalty to Deception, Diplomacy, Intimidation, and Performance checks. During this time, if the creature attempts to speak or perform in front of an audience, they become [[Conditions/Sickened|Sickened 1]]. When they recover from this sickened condition, the missive's effects end. You choose when composing the missive whether it remains as a non-magical document or burns to ash after imparting its magic."
+description: "**Activate** `pf2:2` envision, Interact  Composing a stage fright missive
+  usually involves creating a scathing review, insulting letter, or embarrassing image
+  that ridicules the recipient. The activating creature must succeed at a DC 20 Will
+  check save or be overcome with embarrassment for 1 hour, taking a –1 status penalty
+  to Deception, Diplomacy, Intimidation, and Performance checks. During this time,
+  if the creature attempts to speak or perform in front of an audience, they become
+  [[Conditions/Sickened|Sickened 1]]. When they recover from this sickened condition,
+  the missive's effects end. You choose when composing the missive whether it remains
+  as a non-magical document or burns to ash after imparting its magic."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-protection"
 aliases: "Staff of Protection"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This wooden staff is remarkably sturdy and unyielding. While wielding the staff, you gain a +1 circumstance bonus to your DC to avoid being shoved or tripped.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Shield|Shield]] *   **1st** [[Spells/Alarm|Alarm]], [[Spells/Mystic Armor|Mystic Armor]] *   **2nd** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Resist Energy|Resist Energy]]  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
+description: "This wooden staff is remarkably sturdy and unyielding. While wielding
+  the staff, you gain a +1 circumstance bonus to your DC to avoid being shoved or
+  tripped.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges
+  from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Shield|Shield]]
+  *   **1st** [[Spells/Alarm|Alarm]], [[Spells/Mystic Armor|Mystic Armor]] *   **2nd**
+  [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Environmental Endurance|Environmental
+  Endurance]], [[Spells/Resist Energy|Resist Energy]]  **Craft Requirements** Supply
+  one casting of all listed ranks of all listed spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

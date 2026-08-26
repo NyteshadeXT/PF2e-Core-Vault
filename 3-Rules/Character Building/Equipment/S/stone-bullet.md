@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stone-bullet"
 aliases: "Stone Bullet"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 15
-weight: 
+weight:
 value: "1300"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This sling bullet looks like a petrified serpent's eye. A creature hit by an activated _stone bullet_ is subject to the effects of a 6th-rank [[Spells/Petrify|Petrify]] spell (DC 34 Fortitude check).  * * *  **Craft Requirements** Supply one casting of [[Spells/Petrify|Petrify]]."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This sling bullet looks like
+  a petrified serpent's eye. A creature hit by an activated _stone bullet_ is subject
+  to the effects of a 6th-rank [[Spells/Petrify|Petrify]] spell (DC 34 Fortitude check).\
+  \  * * *  **Craft Requirements** Supply one casting of [[Spells/Petrify|Petrify]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

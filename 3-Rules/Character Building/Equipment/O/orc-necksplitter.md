@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "orc-necksplitter"
 aliases: "Orc Necksplitter"
 source: "Pathfinder Player Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "forceful"
 trait02: "orc"
 trait03: "sweep"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This single-bladed bearded axe has a jagged blade that's perfect for separating bone from tendon and cartilage."
+description: "This single-bladed bearded axe has a jagged blade that's perfect for
+  separating bone from tendon and cartilage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +48,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d8 slashing
 dmg1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

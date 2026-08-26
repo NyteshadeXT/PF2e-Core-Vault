@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "trackless"
 aliases: "Trackless"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
-weight: 
+weight:
 value: "225"
 subvalue: "gp"
 invest:
 usage: "applied to footwear"
 license: "ORC"
 identify:
-description: "Trackless runes are common among hunters and trappers, as well as thieves and anyone [[Conditions/Fleeing|Fleeing]] pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from [[Spells/Vanishing Tracks|Vanishing Tracks]]."
+description: "Trackless runes are common among hunters and trappers, as well as thieves
+  and anyone [[Conditions/Fleeing|Fleeing]] pursuit. While wearing trackless footwear,
+  you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack
+  with the status bonus from [[Spells/Vanishing Tracks|Vanishing Tracks]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

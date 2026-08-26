@@ -342,7 +342,7 @@ A skeleton lies in a heap on the floor here.  A DC 15 [[Skills#Medicine|Medicine
 **Indigo:** The chain at the end of this passage ends in a simple hook, as the indigo lantern was stolen years ago and eventually ended up in a backpack in [[The Whispering Cairn#5. Wolf Den]].  If the arrow platform points at this tunnel, a metal arcane elevator identical in appearance to the described in the yellow passage above rises from the floor under the dangling chain.  Characters inspecting the apparatus notice numerous crushed bones and moldy clothes upon the floor of the cylinder, an obvious clue that all is not as it should be with this arcane elevator.  Two rounds after a character stands within the cylinder the doors close and the contraption utterly crushes everything within it, sinking back into the ground until the arrow structure once more points at the indigo corridor.
 
 > [!danger]+ Trap
-> [[false-elevator-hb|False Elevator]]
+> [[false-elevator|False Elevator]]
 - [<] Trap (4 XP)
 
 > [!tip]+ Treasure
@@ -726,7 +726,7 @@ Areas 23-25 represent Zosiel's true tomb.  Very few explorers have penetrated as
 This room represents Nadroc's last attempt to dispense with unwanted tomb robbers, so the beam and walls combine to make a devious trap.  Note the side view of this room provided in the map of the True Tomb.
 
 > [!danger]+ Trap
-> [[hail-of-iron-spheres-hb|Hail of Iron Spheres]]
+> [[hail-of-iron-spheres|Hail of Iron Spheres]]
 - [<] Moderate (8 XP) Level 2
 
 **Encounter Difficulty:**   

@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "scroll-belt"
 aliases: "Scroll Belt"
 source: "Pathfinder Lost Omens Firebrands"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These belts are specially designed to allow for writing along the inside surface. You can scribe a spell to a scroll belt, Crafting the scroll as normal. A scroll belt can only hold a single spell, and you must Cast the Spell before you can scribe another spell to the belt. You can't Cast a Spell from the belt while wearing it; you must remove the belt with an Interact action. A scroll belt acts as a mundane belt, but when a spell is scribed on it, any creature can immediately discern that an unattended belt holds magic. If you're wearing the belt, a creature can notice the belt holds a spell with a successful Perception check check against your Stealth DC."
+description: "These belts are specially designed to allow for writing along the inside
+  surface. You can scribe a spell to a scroll belt, Crafting the scroll as normal.
+  A scroll belt can only hold a single spell, and you must Cast the Spell before you
+  can scribe another spell to the belt. You can't Cast a Spell from the belt while
+  wearing it; you must remove the belt with an Interact action. A scroll belt acts
+  as a mundane belt, but when a spell is scribed on it, any creature can immediately
+  discern that an unattended belt holds magic. If you're wearing the belt, a creature
+  can notice the belt holds a spell with a successful Perception check check against
+  your Stealth DC."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

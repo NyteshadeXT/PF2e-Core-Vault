@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-flying-(standard)"
 aliases: "Potion of Flying (Standard)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 minute.  [[Equipment Effects/Effect_ Potion of Flying (Standard)|Effect: Potion of Flying (Standard)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  Upon drinking this effervescent
+  concoction, you gain a fly Speed of 40 feet for 1 minute.  [[Equipment Effects/Effect_
+  Potion of Flying (Standard)|Effect: Potion of Flying (Standard)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sampling-ammunition"
 aliases: "Sampling Ammunition"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "22"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** arrow, bolt  * * *  The head of this arrow or bolt is a pointed glass cylinder with a hollow core. Upon hitting a corporeal creature, sampling ammunition captures a small portion of the target's skin, blood, and flesh. The sample falls to the ground below wherever the creature was hit. This sample is sealed and magically preserved inside its chamber, although it deteriorates normally once the cylinder is opened. Sampling ammunition can't collect samples from creatures made entirely of metal, stone, or other hard substances."
+description: "**Ammunition** arrow, bolt  * * *  The head of this arrow or bolt is
+  a pointed glass cylinder with a hollow core. Upon hitting a corporeal creature,
+  sampling ammunition captures a small portion of the target's skin, blood, and flesh.
+  The sample falls to the ground below wherever the creature was hit. This sample
+  is sealed and magically preserved inside its chamber, although it deteriorates normally
+  once the cylinder is opened. Sampling ammunition can't collect samples from creatures
+  made entirely of metal, stone, or other hard substances."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

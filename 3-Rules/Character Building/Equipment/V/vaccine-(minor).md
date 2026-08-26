@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vaccine-(minor)"
 aliases: "Vaccine (Minor)"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "healing"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine's level, and a +2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to filth fever inflicted by otyughs, but would only grant a +2 saving throw bonus against filth fever inflicted by a giant rat.  **Craft Requirements** Creating a vaccine requires a sample of the disease in question.  **Duration** 1 hour.  **Special** A vaccine is the same rarity as the disease it's designed to prevent, or as the creature who inflicts the disease if the disease itself doesn't list a rarity."
+description: "**Activate** `pf2:1` Interact  * * *  A vaccine grants a creature immunity
+  to a specific strain of disease of a level equal to or less than the vaccine's level,
+  and a +2 item bonus on all saving throws against other strains of the same disease.
+  For example, a vaccine could grant immunity to filth fever inflicted by otyughs,
+  but would only grant a +2 saving throw bonus against filth fever inflicted by a
+  giant rat.  **Craft Requirements** Creating a vaccine requires a sample of the disease
+  in question.  **Duration** 1 hour.  **Special** A vaccine is the same rarity as
+  the disease it's designed to prevent, or as the creature who inflicts the disease
+  if the disease itself doesn't list a rarity."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

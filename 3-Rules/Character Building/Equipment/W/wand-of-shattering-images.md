@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-shattering-images"
 aliases: "Wand of Shattering Images"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "visual"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Shattered pieces of a glass mirror, formed into a reflective mosaic, comprise the irregular shaft of this wand. The handle is black and polished smooth, the pommel capped with a tiny reflective orb.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Mirror Image|Mirror Image]]. Each time an image is destroyed, the image shatters into sharp fragments of glass. If the creature that destroyed the image is adjacent to you, it takes 5 slashing.  * * *  **Craft Requirements** Supply a casting of [[Spells/Mirror Image|Mirror Image]]"
+description: "Shattered pieces of a glass mirror, formed into a reflective mosaic,
+  comprise the irregular shaft of this wand. The handle is black and polished smooth,
+  the pommel capped with a tiny reflective orb.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Mirror Image|Mirror
+  Image]]. Each time an image is destroyed, the image shatters into sharp fragments
+  of glass. If the creature that destroyed the image is adjacent to you, it takes
+  5 slashing.  * * *  **Craft Requirements** Supply a casting of [[Spells/Mirror Image|Mirror
+  Image]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "merciful-charm"
 aliases: "Merciful Charm"
 source: "Pathfinder #176: Lost Mammoth Valley"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "talisman"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "9"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You Strike with the affixed weapon  **Requirements** You're trained in the affixed weapon.  * * *  This small limestone pendant is typically carved in the shape of clasped hands. When activated, the affixed weapon gains the nonlethal trait for the triggering attack and all other attacks for 1 minute.  [[Equipment Effects/Effect_ Merciful Charm|Effect: Merciful Charm]]"
+description: "**Activate** `pf2:0` envision  **Trigger** You Strike with the affixed
+  weapon  **Requirements** You're trained in the affixed weapon.  * * *  This small
+  limestone pendant is typically carved in the shape of clasped hands. When activated,
+  the affixed weapon gains the nonlethal trait for the triggering attack and all other
+  attacks for 1 minute.  [[Equipment Effects/Effect_ Merciful Charm|Effect: Merciful
+  Charm]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

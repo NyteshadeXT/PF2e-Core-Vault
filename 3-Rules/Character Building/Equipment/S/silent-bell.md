@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silent-bell"
 aliases: "Silent Bell"
 source: "Pathfinder Dark Archive"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "illusion"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Access** Member of a secret society  * * *  This large handbell is made from cast bronze and has a wooden handle. The outside of the bell is covered in fine etchings, showing a group of varied people sitting around a table with clouds obscuring anyone in the background. The clapper is curiously absent from this bell and, when idly rung, it produces no audible sound.  * * *  **Activate** `pf2:3` envision, Interact  **Frequency** once per day  * * *  **Effect** The silent bell creates an [[Conditions/Invisible|Invisible]] wall surrounding a cube, 20 feet to a side, that prevents sound from passing into or from the cube for 10 minutes. The wall isn't solid and doesn't prevent anything but sound from passing through. Since the cube is invisible, creatures can still read lips and body language through the wall."
+description: "**Access** Member of a secret society  * * *  This large handbell is
+  made from cast bronze and has a wooden handle. The outside of the bell is covered
+  in fine etchings, showing a group of varied people sitting around a table with clouds
+  obscuring anyone in the background. The clapper is curiously absent from this bell
+  and, when idly rung, it produces no audible sound.  * * *  **Activate** `pf2:3`
+  envision, Interact  **Frequency** once per day  * * *  **Effect** The silent bell
+  creates an [[Conditions/Invisible|Invisible]] wall surrounding a cube, 20 feet to
+  a side, that prevents sound from passing into or from the cube for 10 minutes. The
+  wall isn't solid and doesn't prevent anything but sound from passing through. Since
+  the cube is invisible, creatures can still read lips and body language through the
+  wall."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

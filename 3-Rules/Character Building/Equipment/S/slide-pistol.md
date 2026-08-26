@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slide-pistol"
 aliases: "Slide Pistol"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "capacity-5"
 trait02: "concussive"
 trait03: "fatal-d10"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Also known as a harmonica gun, this weapon is essentially a stock, trigger, and firing mechanism attached to a sliding brace of barrels that can each hold a round of ammunition."
+description: "Also known as a harmonica gun, this weapon is essentially a stock, trigger,
+  and firing mechanism attached to a sliding brace of barrels that can each hold a
+  round of ammunition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

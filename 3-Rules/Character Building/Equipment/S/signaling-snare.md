@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "signaling-snare"
 aliases: "Signaling Snare"
@@ -16,20 +16,26 @@ trait01: "consumable"
 trait02: "mechanical"
 trait03: "snare"
 trait04: "trap"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "3"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A subtle snare used in hunting or tracking, a signaling snare often consists of carefully prepared earth, piled sand or stones, specific arrangements of vegetation, and so forth. When a creature enters a square of a signaling snare, nothing happens to the creature, but instead it causes a small, unobtrusive disruption to the terrain that allows the snare's creator or another creature who knows what to look for to determine whether a creature of the appropriate size entered the square."
+description: "A subtle snare used in hunting or tracking, a signaling snare often
+  consists of carefully prepared earth, piled sand or stones, specific arrangements
+  of vegetation, and so forth. When a creature enters a square of a signaling snare,
+  nothing happens to the creature, but instead it causes a small, unobtrusive disruption
+  to the terrain that allows the snare's creator or another creature who knows what
+  to look for to determine whether a creature of the appropriate size entered the
+  square."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

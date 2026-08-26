@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rapier-pistol"
 aliases: "Rapier Pistol"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "backstabber"
 trait02: "combination"
 trait03: "concussive"
 trait04: "fatal-d8"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,8 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This elegant weapon is shaped similarly to a rapier with a pistol down the length of the blade."
+description: "This elegant weapon is shaped similarly to a rapier with a pistol down
+  the length of the blade."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

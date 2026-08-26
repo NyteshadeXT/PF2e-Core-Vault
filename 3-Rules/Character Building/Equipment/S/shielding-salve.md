@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shielding-salve"
 aliases: "Shielding Salve"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This shimmering paste has many properties of a [[Spells/Shield|Shield]] spell. When you slather it onto a creature or object, the target gains a +1 circumstance bonus to AC for 1 round. The first time a physical attack or a force barrage hits the target during that round, the oil prevents 5 damage from that attack or spell, and then the oil's effect ends.  [[Equipment Effects/Effect_ Shielding Salve|Effect: Shielding Salve]]"
+description: "**Activate** `pf2:1` Interact  This shimmering paste has many properties
+  of a [[Spells/Shield|Shield]] spell. When you slather it onto a creature or object,
+  the target gains a +1 circumstance bonus to AC for 1 round. The first time a physical
+  attack or a force barrage hits the target during that round, the oil prevents 5
+  damage from that attack or spell, and then the oil's effect ends.  [[Equipment Effects/Effect_
+  Shielding Salve|Effect: Shielding Salve]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

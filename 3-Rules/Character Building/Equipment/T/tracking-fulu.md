@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tracking-fulu"
 aliases: "Tracking Fulu"
@@ -15,21 +15,28 @@ rarity: ""
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "25"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Usage** affixed to creature or object  **Activate** `pf2:0` envision  * * *  Used covertly by assassins and spies, this pair of fulus stick to one another when created but can be easily separated. Affix one fulu to a target before activating its pair. When activated, the unaffixed fulu flutters toward the affixed one at a speed of 30 feet per round, traveling for up to 1 hour and fluttering more rapidly the closer it comes to its pair. The unaffixed fulu always moves in a straight line towards the affixed fulu; it can't solve mazes or find its way through winding paths"
+description: "**Usage** affixed to creature or object  **Activate** `pf2:0` envision\
+  \  * * *  Used covertly by assassins and spies, this pair of fulus stick to one
+  another when created but can be easily separated. Affix one fulu to a target before
+  activating its pair. When activated, the unaffixed fulu flutters toward the affixed
+  one at a speed of 30 feet per round, traveling for up to 1 hour and fluttering more
+  rapidly the closer it comes to its pair. The unaffixed fulu always moves in a straight
+  line towards the affixed fulu; it can't solve mazes or find its way through winding
+  paths"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

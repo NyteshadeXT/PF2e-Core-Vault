@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "setup-snare"
 aliases: "Setup Snare"
 source: "Pathfinder #193: Mantle of Gold"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "kobold"
 trait03: "mechanical"
 trait04: "snare"
 trait05: "trap"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "8"
 subvalue: "gp"
 invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This snare is designed to divert a target's movement towards another snare or hazard. You may choose to have the target attempt a Will saving throw instead of a Reflex saving throw; if you do, add the fear and mental traits plus add either the visual or auditory trait.  When a Small or larger creature enters the square, the snare Pushes the creature 5 feet and the target becomes [[Conditions/Clumsy|Clumsy 1]] until the end of their next turn. On a critical failure the snare Pushes the target 10 feet and the target becomes [[Conditions/Clumsy|Clumsy 2]] until the end of their next turn."
+description: "This snare is designed to divert a target's movement towards another
+  snare or hazard. You may choose to have the target attempt a Will saving throw instead
+  of a Reflex saving throw; if you do, add the fear and mental traits plus add either
+  the visual or auditory trait.  When a Small or larger creature enters the square,
+  the snare Pushes the creature 5 feet and the target becomes [[Conditions/Clumsy|Clumsy
+  1]] until the end of their next turn. On a critical failure the snare Pushes the
+  target 10 feet and the target becomes [[Conditions/Clumsy|Clumsy 2]] until the end
+  of their next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

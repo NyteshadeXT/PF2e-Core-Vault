@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shauth-lash"
 aliases: "Shauth Lash"
 source: "Pathfinder #165: Eyes of Empty Death"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "deadly-d10"
 trait02: "finesse"
 trait03: "trip"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This metal chain bears hook-like barbs made of alchemically strengthened urdefhan teeth. Magical shauth lashes have the same ability to channel an urdefhan wielder's Wicked Bite as magical shauth blades, and urdefhans hold these weapons with the same reverence as they do shauth blades."
+description: "This metal chain bears hook-like barbs made of alchemically strengthened
+  urdefhan teeth. Magical shauth lashes have the same ability to channel an urdefhan
+  wielder's Wicked Bite as magical shauth blades, and urdefhans hold these weapons
+  with the same reverence as they do shauth blades."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

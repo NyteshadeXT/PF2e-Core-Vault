@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "venom-glands"
 aliases: "Venom Glands"
@@ -16,20 +16,23 @@ trait01: "graft"
 trait02: "invested"
 trait03: "magical"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "55"
 subvalue: "gp"
 invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "Your salivary glands are modified to be capable of spraying a deadly venom. You gain a poison spray unarmed ranged attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target is also [[Conditions/Sickened|Sickened 1]]."
+description: "Your salivary glands are modified to be capable of spraying a deadly
+  venom. You gain a poison spray unarmed ranged attack with a range increment of 10
+  feet that deals 1d4 poison damage. On a critical hit, the target is also [[Conditions/Sickened|Sickened
+  1]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

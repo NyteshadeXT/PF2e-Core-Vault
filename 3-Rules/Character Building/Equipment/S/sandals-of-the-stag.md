@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sandals-of-the-stag"
 aliases: "Sandals of the Stag"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "apex"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "wornsandles"
 license: "ORC"
 identify:
-description: "These sturdy leather sandals feature straps that wrap up to the knees. Etched in the leather are intricate patterns of stags leaping through the forest. You gain a +5-foot item bonus to your land Speed and a +3 item bonus on Athletics checks when attempting to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]]. When you invest the sandals, you either increase your Strength modifier by 1 or increase it to +4, whichever is higher.  **Activate** `pf2:r` envision  **Frequency** once per minute  **Trigger** You attempt a High Jump or Long Jump but you didn't Stride at least 10 feet  * * *  **Effect** You can attempt the jump normally. It doesn't automatically fail."
+description: "These sturdy leather sandals feature straps that wrap up to the knees.
+  Etched in the leather are intricate patterns of stags leaping through the forest.
+  You gain a +5-foot item bonus to your land Speed and a +3 item bonus on Athletics
+  checks when attempting to [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long
+  Jump]]. When you invest the sandals, you either increase your Strength modifier
+  by 1 or increase it to +4, whichever is higher.  **Activate** `pf2:r` envision \
+  \ **Frequency** once per minute  **Trigger** You attempt a High Jump or Long Jump
+  but you didn't Stride at least 10 feet  * * *  **Effect** You can attempt the jump
+  normally. It doesn't automatically fail."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

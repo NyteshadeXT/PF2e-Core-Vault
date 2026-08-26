@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-shared-memories"
 aliases: "Potion of Shared Memories"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A potion of _shared memories_ can transfer recollections from one creature to another. To place a memory in the potion, you must hold the vial and focus on a particular memory for 1 minute. This memory must be of a single event, location, person, or otherwise encompass a span of about 1 minute. The clear fluid takes on a shimmering hue reminiscent of the stored memory and gains a slightly sweet taste.  Upon consuming the potion, the drinker vividly recalls the memory, and thereafter can remember it as easily as a memory they actually experienced. An unwilling drinker can refuse to absorb the memory."
+description: "**Activate** `pf2:1` (manipulate)  * * *  A potion of _shared memories_
+  can transfer recollections from one creature to another. To place a memory in the
+  potion, you must hold the vial and focus on a particular memory for 1 minute. This
+  memory must be of a single event, location, person, or otherwise encompass a span
+  of about 1 minute. The clear fluid takes on a shimmering hue reminiscent of the
+  stored memory and gains a slightly sweet taste.  Upon consuming the potion, the
+  drinker vividly recalls the memory, and thereafter can remember it as easily as
+  a memory they actually experienced. An unwilling drinker can refuse to absorb the
+  memory."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

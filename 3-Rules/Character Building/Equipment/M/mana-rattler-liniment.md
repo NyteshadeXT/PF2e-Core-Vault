@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mana-rattler-liniment"
 aliases: "Mana-Rattler Liniment"
 source: "Pathfinder #180: The Smoking Gun"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "morph"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  According to reports, as well as Emelett's own marketing pitches, this lotion is derived from rare mana rattlesnakes whose oils ward against poison and disease. When applied, you can attempt to counteract a poison or disease effect currently afflicting you. The potion has a counteract rank of 5 and a +15 modifier for the roll. You also acquire a serpentine appearance, growing fangs and scaly skin. For 1 hour, you gain a fangs unarmed attack that deals 1d6 piercing damage plus 1 poison damage.  [[Equipment Effects/Effect_ Mana-Rattler Liniment|Effect: Mana-Rattler Liniment]]"
+description: "**Activate** `pf2:1` Interact  * * *  According to reports, as well
+  as Emelett's own marketing pitches, this lotion is derived from rare mana rattlesnakes
+  whose oils ward against poison and disease. When applied, you can attempt to counteract
+  a poison or disease effect currently afflicting you. The potion has a counteract
+  rank of 5 and a +15 modifier for the roll. You also acquire a serpentine appearance,
+  growing fangs and scaly skin. For 1 hour, you gain a fangs unarmed attack that deals
+  1d6 piercing damage plus 1 poison damage.  [[Equipment Effects/Effect_ Mana-Rattler
+  Liniment|Effect: Mana-Rattler Liniment]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

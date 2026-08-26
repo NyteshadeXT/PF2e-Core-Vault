@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-climbing"
 aliases: "Ring of Climbing"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "1750"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Claw-like prongs on his thick golden band bears extend to dig deep into sheer surfaces when you are Climbing. This ring grants you a climb Speed equal to half your land Speed. Penalties to your Speed (including those from your armor) apply before halving."
+description: "Claw-like prongs on his thick golden band bears extend to dig deep into
+  sheer surfaces when you are Climbing. This ring grants you a climb Speed equal to
+  half your land Speed. Penalties to your Speed (including those from your armor)
+  apply before halving."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

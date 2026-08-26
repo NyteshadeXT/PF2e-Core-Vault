@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-undetectability"
 aliases: "Potion of Undetectability"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this dull-black liquid makes you undetectable to detection effects.  This grants the same effects as [[Spells/Hidden Mind|Hidden Mind]] but without the bonus against mental effects. You also gain the effects of a 4th-rank [[Spells/Invisibility|Invisibility]] spell, which protects against [[Spells/See the Unseen|See the Unseen]] spells of 8th rank and lower and has a DC of 36 against [[Spells/Truesight|Truesight]].  The potion's effects last for 10 minutes."
+description: "**Activate** `pf2:1` (manipulate)  * * *  Drinking this dull-black liquid
+  makes you undetectable to detection effects.  This grants the same effects as [[Spells/Hidden
+  Mind|Hidden Mind]] but without the bonus against mental effects. You also gain the
+  effects of a 4th-rank [[Spells/Invisibility|Invisibility]] spell, which protects
+  against [[Spells/See the Unseen|See the Unseen]] spells of 8th rank and lower and
+  has a DC of 36 against [[Spells/Truesight|Truesight]].  The potion's effects last
+  for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

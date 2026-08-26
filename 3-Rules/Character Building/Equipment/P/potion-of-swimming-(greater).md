@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-swimming-(greater)"
 aliases: "Potion of Swimming (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This potion tastes like salt water, and sandy grit settles to the bottom of its container. When you drink it, you gain a swim Speed equal to your land Speed for 1 hour.  [[Equipment Effects/Effect_ Potion of Swimming (Greater)|Effect: Potion of Swimming (Greater)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  This potion tastes like salt
+  water, and sandy grit settles to the bottom of its container. When you drink it,
+  you gain a swim Speed equal to your land Speed for 1 hour.  [[Equipment Effects/Effect_
+  Potion of Swimming (Greater)|Effect: Potion of Swimming (Greater)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

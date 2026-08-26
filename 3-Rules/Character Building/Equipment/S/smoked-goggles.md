@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "smoked-goggles"
 aliases: "Smoked Goggles"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "20"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be [[Actions/Avert Gaze|Averting Your Gaze]], but all creatures have [[Conditions/Concealed|Concealment]] from you.  The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the concealment from the smoked goggles, you no longer gain the benefit, either."
+description: "These goggles use lenses made out of smoked glass to protect against
+  creatures with gaze attacks. While wearing smoked goggles, you're always considered
+  to be [[Actions/Avert Gaze|Averting Your Gaze]], but all creatures have [[Conditions/Concealed|Concealment]]
+  from you.  The fact that the goggles conceal creatures is part of what grants the
+  wearer the item's benefits. If you have a way to negate the concealment from the
+  smoked goggles, you no longer gain the benefit, either."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

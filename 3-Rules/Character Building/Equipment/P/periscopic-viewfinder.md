@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "periscopic-viewfinder"
 aliases: "Periscopic Viewfinder"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "gadget"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This bronze, spherical device slowly rotates around a cluster of angled mirrors and a light-filled orb. When you activate the viewfinder, it spins rapidly and reflects light into the orb at the center. This reveals the area around you up to 30 feet in a burst of light, including objects and areas that aren't in your line of sight. This doesn't grant you any additional information that couldn't otherwise be gathered by your senses."
+description: "**Activate** `pf2:1` Interact  * * *  This bronze, spherical device
+  slowly rotates around a cluster of angled mirrors and a light-filled orb. When you
+  activate the viewfinder, it spins rapidly and reflects light into the orb at the
+  center. This reveals the area around you up to 30 feet in a burst of light, including
+  objects and areas that aren't in your line of sight. This doesn't grant you any
+  additional information that couldn't otherwise be gathered by your senses."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

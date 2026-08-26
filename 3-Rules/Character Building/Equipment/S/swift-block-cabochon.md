@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "swift-block-cabochon"
 aliases: "Swift Block Cabochon"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "70"
 subvalue: "gp"
 invest:
 usage: "affixed to a shield"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:r` (concentrate)  **Trigger** You would take damage from a physical attack while you are wielding the affixed shield  * * *  This clear quartz cabochon attaches to the center of your shield. When you activate the cabochon, use the [[Feats/Shield Block|Shield Block]] reaction even if you don't have the shield raised and even if you don't normally have that reaction. Increase the shield's Hardness by 5 against the triggering attack. The shield remains raised after the block.  [[Equipment Effects/Effect_ Swift Block Cabochon|Effect: Swift Block Cabochon]]"
+description: "**Activate** `pf2:r` (concentrate)  **Trigger** You would take damage
+  from a physical attack while you are wielding the affixed shield  * * *  This clear
+  quartz cabochon attaches to the center of your shield. When you activate the cabochon,
+  use the [[Feats/Shield Block|Shield Block]] reaction even if you don't have the
+  shield raised and even if you don't normally have that reaction. Increase the shield's
+  Hardness by 5 against the triggering attack. The shield remains raised after the
+  block.  [[Equipment Effects/Effect_ Swift Block Cabochon|Effect: Swift Block Cabochon]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

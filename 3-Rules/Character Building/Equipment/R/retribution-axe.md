@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "retribution-axe"
 aliases: "Retribution Axe"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "sweep"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The blade of this _+1 greataxe_ bears a design of a human skull.  Whenever a creature damages you with an attack, the skull changes its appearance to look like the face of that creature. You gain a +2 circumstance bonus to your next damage roll against that creature before the end of your next turn.  Because the face reshapes each time you're damaged, you get the additional damage only if you attack the creature that damaged you most recently."
+description: "The blade of this _+1 greataxe_ bears a design of a human skull.  Whenever
+  a creature damages you with an attack, the skull changes its appearance to look
+  like the face of that creature. You gain a +2 circumstance bonus to your next damage
+  roll against that creature before the end of your next turn.  Because the face reshapes
+  each time you're damaged, you get the additional damage only if you attack the creature
+  that damaged you most recently."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +52,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d12 slashing
 dmg1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-wearing-dance"
 aliases: "Wand of Wearing Dance"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "mental"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This colorfully painted wand has a few jingling bells tied to the pommel.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Conditions/Fatigued|Fatigued]].  * * *  **Craft Requirements** Supply a casting of [[Spells/Uncontrollable Dance|Uncontrollable Dance]]."
+description: "This colorfully painted wand has a few jingling bells tied to the pommel.\
+  \  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *\
+  \  **Effect** You cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]]. When
+  the spell's duration ends, if the target was forced to dance for 1 minute, it becomes
+  [[Conditions/Fatigued|Fatigued]].  * * *  **Craft Requirements** Supply a casting
+  of [[Spells/Uncontrollable Dance|Uncontrollable Dance]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "monkey-pin"
 aliases: "Monkey Pin"
@@ -15,21 +15,25 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "6"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  * * *  This small brass pin is shaped like a monkey climbing a tree. When you activate this talisman, use a [[Actions/Climb|Climb]] action with a +1 item bonus on the check. On this check and until the end of your turn, if you succeed on an Athletics check to Climb, you move your full Speed during the Climb. If you roll a critical failure, you get a failure instead."
+description: "**Activate** `pf2:1` (concentrate)  * * *  This small brass pin is shaped
+  like a monkey climbing a tree. When you activate this talisman, use a [[Actions/Climb|Climb]]
+  action with a +1 item bonus on the check. On this check and until the end of your
+  turn, if you succeed on an Athletics check to Climb, you move your full Speed during
+  the Climb. If you roll a critical failure, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

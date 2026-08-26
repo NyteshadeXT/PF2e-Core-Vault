@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "phoenix-flask"
 aliases: "Phoenix Flask"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "fire"
 trait03: "magical"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Once you ingest this strongly spiced, glowing red potion, blazing wings of a phoenix sprout from your back and carry you through the air. For 1 minute, you gain a Fly speed of 40 feet. The first time each round that you Fly (including to hover in place), you shed burning feathers that deal 3d4 fire damage to all creatures in a 10-foot emanation at the end of your movement (DC 29 Reflex check save).  [[Equipment Effects/Effect_ Phoenix Flask|Effect: Phoenix Flask]]"
+description: "**Activate** `pf2:1` Interact  * * *  Once you ingest this strongly
+  spiced, glowing red potion, blazing wings of a phoenix sprout from your back and
+  carry you through the air. For 1 minute, you gain a Fly speed of 40 feet. The first
+  time each round that you Fly (including to hover in place), you shed burning feathers
+  that deal 3d4 fire damage to all creatures in a 10-foot emanation at the end of
+  your movement (DC 29 Reflex check save).  [[Equipment Effects/Effect_ Phoenix Flask|Effect:
+  Phoenix Flask]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

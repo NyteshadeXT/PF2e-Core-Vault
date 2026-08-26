@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mesmerizing-opal"
 aliases: "Mesmerizing Opal"
@@ -15,21 +15,24 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "7"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  * * *  This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a Deception check to [[Actions/Feint|Feint]]. If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead."
+description: "**Activate** `pf2:1` (concentrate)  * * *  This silver-bound opal pendant
+  is afire with iridescence. When you activate it, attempt a Deception check to [[Actions/Feint|Feint]].
+  If the outcome is a success, you get a critical success instead. If the outcome
+  is a critical failure, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

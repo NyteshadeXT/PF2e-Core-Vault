@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "peachwood-talisman"
 aliases: "Peachwood Talisman"
 source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
-weight: 
+weight:
 value: "40"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Access** Tian Xia origin  **Activate** `pf2:1` (concentrate)  * * *  Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank."
+description: "**Access** Tian Xia origin  **Activate** `pf2:1` (concentrate)  * *
+  *  Symbols of good fortune and luck are carved on this thin, square wooden plaque.
+  It smells of sandalwood from the blessings placed upon it. After activation, for
+  the next minute, you can sense attacks from undead. You aren't [[Conditions/Off-Guard|Off-Guard]]
+  to [[Conditions/Hidden|Hidden]], [[Conditions/Undetected|Undetected]], or flanking
+  undead of your level or lower, or undead of your level or lower using surprise attack.
+  However, they can still help their allies flank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "seed-pod-of-rooted-wisdom"
 aliases: "Seed Pod of Rooted Wisdom"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "plant"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This tiny magic item looks like a ripe brown fruit from a kapok tree. Inside the fruit are three seeds. Each magical seed releases an effect when swallowed. The first grants you a +1 status bonus on Will saves against fear effects for 10 minutes. The second makes your next 10 words comprehensible to any creature that understands any language. The third lets you recall precisely how to get from where you are to any other place you've stayed for more than an hour within the past day. Once the seeds are removed, the fruit is edible, if chewed slowly, and quite tasty, being much sweeter than the non-magical version."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This tiny magic item looks
+  like a ripe brown fruit from a kapok tree. Inside the fruit are three seeds. Each
+  magical seed releases an effect when swallowed. The first grants you a +1 status
+  bonus on Will saves against fear effects for 10 minutes. The second makes your next
+  10 words comprehensible to any creature that understands any language. The third
+  lets you recall precisely how to get from where you are to any other place you've
+  stayed for more than an hour within the past day. Once the seeds are removed, the
+  fruit is edible, if chewed slowly, and quite tasty, being much sweeter than the
+  non-magical version."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

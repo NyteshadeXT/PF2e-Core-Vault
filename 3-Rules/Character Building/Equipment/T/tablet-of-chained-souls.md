@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tablet-of-chained-souls"
 aliases: "Tablet of Chained Souls"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "cursed"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Half-formed, unreadable runes drift across this weathered stone tablet, which resembles a tombstone too eroded to be legible. Created by a long-dead order of scholars dedicated to Pharasma, the tablet of chained souls can be a powerful tool in laying uneasy spirits to rest, but its magic exacts a heavy cost.  * * *  **Activate** `pf2:3` envision, Interact  **Effect** You present the tablet to a ghost, or lay it on a haunted site. The tablet's words resolve into a cryptic but accurate clue about the unfinished business that keeps this spirit from rest. Upon reading the tablet's words, you are subject to a [[Spells/Geas|Geas]] that requires you to right that wrong and lay the ghost to rest. If you die without completing the task, you become a ghost, cursed to remain until another recovers the tablet and discharges your duty."
+description: "Half-formed, unreadable runes drift across this weathered stone tablet,
+  which resembles a tombstone too eroded to be legible. Created by a long-dead order
+  of scholars dedicated to Pharasma, the tablet of chained souls can be a powerful
+  tool in laying uneasy spirits to rest, but its magic exacts a heavy cost.  * * *\
+  \  **Activate** `pf2:3` envision, Interact  **Effect** You present the tablet to
+  a ghost, or lay it on a haunted site. The tablet's words resolve into a cryptic
+  but accurate clue about the unfinished business that keeps this spirit from rest.
+  Upon reading the tablet's words, you are subject to a [[Spells/Geas|Geas]] that
+  requires you to right that wrong and lay the ghost to rest. If you die without completing
+  the task, you become a ghost, cursed to remain until another recovers the tablet
+  and discharges your duty."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

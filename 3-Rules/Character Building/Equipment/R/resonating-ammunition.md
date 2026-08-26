@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "resonating-ammunition"
 aliases: "Resonating Ammunition"
@@ -15,21 +15,26 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "sonic"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "300"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` Interact  * * *  The end of this ammunition is a metallic tuning fork with magical etchings. When an activated resonating arrow hits its target, the tuning fork resonates with residual energy from the shot, transforming it into dangerous sound waves. This deals 5d10 sonic damage to the target and each creature within 10 feet of it with a DC 28 Fortitude check save."
+description: "**Ammunition** arrow, bolt  **Activate** `pf2:1` Interact  * * *  The
+  end of this ammunition is a metallic tuning fork with magical etchings. When an
+  activated resonating arrow hits its target, the tuning fork resonates with residual
+  energy from the shot, transforming it into dangerous sound waves. This deals 5d10
+  sonic damage to the target and each creature within 10 feet of it with a DC 28 Fortitude
+  check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

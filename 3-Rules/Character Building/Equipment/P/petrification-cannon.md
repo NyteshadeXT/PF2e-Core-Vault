@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "petrification-cannon"
 aliases: "Petrification Cannon"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "concussive"
 trait02: "double-barrel"
 trait03: "fatal-d10"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "Built from the taxidermic body of a basilisk, a _petrification cannon_ functions as a _+2 greater striking double-barreled musket_. A _petrification cannon_ can be activated to fire a beam of energy that transforms flesh into stone.  * * *  **Activate—Basilisk Beam** `pf2:2` (manipulate, visual)  **Frequency** once per hour  **Effect** A beam of coiling energy leaps from the petrification cannon at a target within 60 feet. The target must attempt a Fortitude save against DC 34 with the effects of [[Spells/Petrify|Petrify]].  * * *  **Craft Requirements** The initial raw materials must include the body of a basilisk."
+description: "Built from the taxidermic body of a basilisk, a _petrification cannon_
+  functions as a _+2 greater striking double-barreled musket_. A _petrification cannon_
+  can be activated to fire a beam of energy that transforms flesh into stone.  * *
+  *  **Activate—Basilisk Beam** `pf2:2` (manipulate, visual)  **Frequency** once per
+  hour  **Effect** A beam of coiling energy leaps from the petrification cannon at
+  a target within 60 feet. The target must attempt a Fortitude save against DC 34
+  with the effects of [[Spells/Petrify|Petrify]].  * * *  **Craft Requirements** The
+  initial raw materials must include the body of a basilisk."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

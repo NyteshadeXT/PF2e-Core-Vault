@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "trackers-goggles-(greater)"
 aliases: "Tracker's Goggles (Greater)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "660"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These lenses of forest-green glass are bound in rough leather stitched with crude twine.  While wearing these goggles, you gain a +2 bonus to Survival checks to Sense Direction and Track.  If you fail a check to Track, you can try again after 15 minutes rather than an hour."
+description: "These lenses of forest-green glass are bound in rough leather stitched
+  with crude twine.  While wearing these goggles, you gain a +2 bonus to Survival
+  checks to Sense Direction and Track.  If you fail a check to Track, you can try
+  again after 15 minutes rather than an hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

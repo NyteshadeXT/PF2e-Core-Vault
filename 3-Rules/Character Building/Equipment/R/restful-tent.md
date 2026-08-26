@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "restful-tent"
 aliases: "Restful Tent"
@@ -13,7 +13,7 @@ source: "Pathfinder Secrets of Magic"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This four-person tent provides several benefits for those who rest within. The climate inside the tent is comfortable and allows creatures inside it to withstand most hostile weather conditions, but incredible heat or cold, powerful storms, and winds of hurricane force or greater can still damage or destroy the tent. Mundane pests such as solitary ordinary insects avoid the tent, though swarms and giant insects can attack the tent as normal. Once you pitch the tent, only you can easily move it; any other creatures must succeed at a DC 20 Athletics check check to do so. Finally, the tent automatically camouflages with its surroundings, requiring a Searching creature to succeed at a DC 22 Perception check check to notice it."
+description: "This four-person tent provides several benefits for those who rest within.
+  The climate inside the tent is comfortable and allows creatures inside it to withstand
+  most hostile weather conditions, but incredible heat or cold, powerful storms, and
+  winds of hurricane force or greater can still damage or destroy the tent. Mundane
+  pests such as solitary ordinary insects avoid the tent, though swarms and giant
+  insects can attack the tent as normal. Once you pitch the tent, only you can easily
+  move it; any other creatures must succeed at a DC 20 Athletics check check to do
+  so. Finally, the tent automatically camouflages with its surroundings, requiring
+  a Searching creature to succeed at a DC 22 Perception check check to notice it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

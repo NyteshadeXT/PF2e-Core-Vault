@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spry-sinews-(greater)"
 aliases: "Spry Sinews (Greater)"
@@ -15,21 +15,23 @@ rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1300"
 subvalue: "gp"
 invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "The tendons in your legs are uncommonly stretchy. When you [[Actions/Leap|Leap]], you increase the horizontal distance of your Leap by 10 feet and the vertical distance by 6 feet."
+description: "The tendons in your legs are uncommonly stretchy. When you [[Actions/Leap|Leap]],
+  you increase the horizontal distance of your Leap by 10 feet and the vertical distance
+  by 6 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

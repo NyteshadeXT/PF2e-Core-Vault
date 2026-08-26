@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "razmiri-wayfinder"
 aliases: "Razmiri Wayfinder"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "illusion"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,26 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "900"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Worn on a chain around the neck, a Razmiri wayfinder functions as a compass and provides its wearer a +1 item bonus to Deception checks to Lie or Impersonate. Razmiri wayfinders can also be used to grant temporary healing, making it easier for the wearer to impersonate a divine spellcaster.  * * *  **Activate** `pf2:1` envision  **Frequency** three times per day  * * *  **Effect** You touch an adjacent creature, granting them 3d8 temporary Hit Points for 1 hour.  * * *  **Activate** `pf2:1` manipulate  **Frequency** once per day  * * *  **Effect** You touch an adjacent creature and attempt a counteract check against one poison or disease afflicting the creature. On a success, you halt the effects of the poison or disease for 1 day, rather than removing it. This temporarily relieves any penalties imposed by the affliction but doesn't cure the effect or count against its duration; the poison or disease is merely halted for a time, and it resumes where it left off once this effect ends."
+description: "Worn on a chain around the neck, a Razmiri wayfinder functions as a
+  compass and provides its wearer a +1 item bonus to Deception checks to Lie or Impersonate.
+  Razmiri wayfinders can also be used to grant temporary healing, making it easier
+  for the wearer to impersonate a divine spellcaster.  * * *  **Activate** `pf2:1`
+  envision  **Frequency** three times per day  * * *  **Effect** You touch an adjacent
+  creature, granting them 3d8 temporary Hit Points for 1 hour.  * * *  **Activate**
+  `pf2:1` manipulate  **Frequency** once per day  * * *  **Effect** You touch an adjacent
+  creature and attempt a counteract check against one poison or disease afflicting
+  the creature. On a success, you halt the effects of the poison or disease for 1
+  day, rather than removing it. This temporarily relieves any penalties imposed by
+  the affliction but doesn't cure the effect or count against its duration; the poison
+  or disease is merely halted for a time, and it resumes where it left off once this
+  effect ends."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

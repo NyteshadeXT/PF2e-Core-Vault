@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pipe-of-dancing-smoke"
 aliases: "Pipe of Dancing Smoke"
 source: "Pathfinder Lost Omens Firebrands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "fire"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This ornate pipe is chiseled from a single bloodstone piece with wooden accents. When in use, the pipe gives off a vibrant red smoke that floats lazily in the air. These pipes are popular among bards and braggarts who like the ostentatious smoke it gives off—and who often use it to create raucous diversions or send indiscreet signals.  **Activate** `pf2:2` Interact  **Frequency** once per day  * * *  **Effect** The smoke forms a bird that flies up to 120 feet in a direction of your choice. When it collides with a solid object or travels the full range, whichever is shorter, it explodes in a 20-foot burst of smoke with the effects of [[Spells/Mist|Mist]]."
+description: "This ornate pipe is chiseled from a single bloodstone piece with wooden
+  accents. When in use, the pipe gives off a vibrant red smoke that floats lazily
+  in the air. These pipes are popular among bards and braggarts who like the ostentatious
+  smoke it gives off—and who often use it to create raucous diversions or send indiscreet
+  signals.  **Activate** `pf2:2` Interact  **Frequency** once per day  * * *  **Effect**
+  The smoke forms a bird that flies up to 120 feet in a direction of your choice.
+  When it collides with a solid object or travels the full range, whichever is shorter,
+  it explodes in a 20-foot burst of smoke with the effects of [[Spells/Mist|Mist]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

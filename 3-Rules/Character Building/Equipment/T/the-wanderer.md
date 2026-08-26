@@ -2,34 +2,43 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "the-wanderer"
 aliases: "The Wanderer"
 source: "Pathfinder #192: Worst of All Possible Worlds"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "artifact"
 trait02: "harrow-court"
 trait03: "invested"
 trait04: "magical"
-trait05: "unique"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 20
-weight: 
+weight:
 value: "0"
 subvalue: "gp"
 invest:
 usage: "carried"
 license: "ORC"
 identify:
-description: "**Suit** Books (Int)  **Alignment** neutral good  * * *  _The Wanderer_ represents the art of collecting and finding the value in even the simplest items. As long as _The Wanderer_ is invested, you don't trigger reactions when you Interact to draw or use an item.  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You do a quick bit of legerdemain with _The Wanderer_. As the card appears to disappear from your hand, it's immediately replaced by an object of Light bulk in your hand. The object can be any Common permanent magic item, weapon, or piece of gear of a level no higher than your level –2. The item exists for 1 minute, or until it is no longer attended by you, at which point the item vanishes and The Wanderer reappears in your possession."
+description: "**Suit** Books (Int)  **Alignment** neutral good  * * *  _The Wanderer_
+  represents the art of collecting and finding the value in even the simplest items.
+  As long as _The Wanderer_ is invested, you don't trigger reactions when you Interact
+  to draw or use an item.  **Activate** `pf2:2` envision, Interact  **Frequency**
+  once per day  * * *  **Effect** You do a quick bit of legerdemain with _The Wanderer_.
+  As the card appears to disappear from your hand, it's immediately replaced by an
+  object of Light bulk in your hand. The object can be any Common permanent magic
+  item, weapon, or piece of gear of a level no higher than your level –2. The item
+  exists for 1 minute, or until it is no longer attended by you, at which point the
+  item vanishes and The Wanderer reappears in your possession."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

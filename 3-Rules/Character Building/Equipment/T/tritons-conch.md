@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tritons-conch"
 aliases: "Triton's Conch"
@@ -13,7 +13,7 @@ source: "Pathfinder Core Rulebook"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "If you put this large opalescent conch shell to your ear, you can hear the sound of the roaring sea crashing against the shore.  **Activate** `pf2:1` Interact (auditory)  * * *  **Effect** You can raise the conch to your lips and blow into it, letting out a long, rumbling note. For the next minute, you and all allies who were within 30 feet of you when you activated the conch gain a +2 item bonus to Athletics checks to Swim and can breathe under water.  [[Equipment Effects/Effect_ Triton's Conch|Effect: Triton's Conch]]"
+description: "If you put this large opalescent conch shell to your ear, you can hear
+  the sound of the roaring sea crashing against the shore.  **Activate** `pf2:1` Interact
+  (auditory)  * * *  **Effect** You can raise the conch to your lips and blow into
+  it, letting out a long, rumbling note. For the next minute, you and all allies who
+  were within 30 feet of you when you activated the conch gain a +2 item bonus to
+  Athletics checks to Swim and can breathe under water.  [[Equipment Effects/Effect_
+  Triton's Conch|Effect: Triton's Conch]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "grappling-gun-(clockwork)"
 aliases: "Grappling Gun (Clockwork)"
 source: "Pathfinder Guns & Gears"
 pg: "64"
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This wooden, pistol-like device features a large reel coiled with 100 feet of thin metal cord and can fire a grappling hook up to 100 feet. To reload the grappling gun, you must manually recoil the cord by turning the reel's crank, and then lock in the grappling hook. Reloading a grappling gun takes 1 minute.  Clockwork controls the reel on this grappling gun, reeling the grappling hook back in when you pull a lever. Reloading a clockwork grappling gun takes three Interact actions."
+description: "This wooden, pistol-like device features a large reel coiled with 100
+  feet of thin metal cord and can fire a grappling hook up to 100 feet. To reload
+  the grappling gun, you must manually recoil the cord by turning the reel's crank,
+  and then lock in the grappling hook. Reloading a grappling gun takes 1 minute. \
+  \ Clockwork controls the reel on this grappling gun, reeling the grappling hook
+  back in when you pull a lever. Reloading a clockwork grappling gun takes three Interact
+  actions."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +82,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

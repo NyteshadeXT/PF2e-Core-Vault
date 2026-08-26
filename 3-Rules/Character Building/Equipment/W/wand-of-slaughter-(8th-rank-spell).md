@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-slaughter-(8th-rank-spell)"
 aliases: "Wand of Slaughter (8th-Rank Spell)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "void"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This polished black wand has a green gem at the tip, and anyone who looks into it sees a reflection of a grinning skull.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Execute|Execute]] at 8th-rank. If the spell slays a living target, the corpse releases grim energy in a 20-foot emanation, dealing 16 void damage.  * * *  **Craft Requirements** Supply a casting of _execute_ at 8th-rank."
+description: "This polished black wand has a green gem at the tip, and anyone who
+  looks into it sees a reflection of a grinning skull.  * * *  **Activate** Cast a
+  Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Execute|Execute]]
+  at 8th-rank. If the spell slays a living target, the corpse releases grim energy
+  in a 20-foot emanation, dealing 16 void damage.  * * *  **Craft Requirements** Supply
+  a casting of _execute_ at 8th-rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

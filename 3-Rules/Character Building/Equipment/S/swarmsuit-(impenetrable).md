@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "swarmsuit-(impenetrable)"
 aliases: "Swarmsuit (Impenetrable)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,11 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "An impenetrable swarmsuit is made of expensive, finely crafted mesh designed to completely prevent swarms from getting inside. You gain resistance 10 to physical damage from swarms. Explorer's clothing altered in this way has a Dexterity cap of +2, check penalty of -1, and Speed penalty of -5 feet regardless of your Strength."
+description: "An impenetrable swarmsuit is made of expensive, finely crafted mesh
+  designed to completely prevent swarms from getting inside. You gain resistance 10
+  to physical damage from swarms. Explorer's clothing altered in this way has a Dexterity
+  cap of +2, check penalty of -1, and Speed penalty of -5 feet regardless of your
+  Strength."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

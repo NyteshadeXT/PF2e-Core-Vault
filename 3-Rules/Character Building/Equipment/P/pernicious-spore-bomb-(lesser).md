@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pernicious-spore-bomb-(lesser)"
 aliases: "Pernicious Spore Bomb (Lesser)"
 source: "Pathfinder #176: Lost Mammoth Valley"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "poison"
 trait05: "splash"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This flask contains fast-growing mold spores, which quickly take root but just as quickly rot away. The bomb deals 1 poison damage, 1d4 persistent piercing damage, and 1 poison splash damage. Except on a critical failure, one square of the target creature's space is coated in vegetation, becoming difficult terrain for 1 round."
+description: "**Activate** `pf2:1` Strike  * * *  This flask contains fast-growing
+  mold spores, which quickly take root but just as quickly rot away. The bomb deals
+  1 poison damage, 1d4 persistent piercing damage, and 1 poison splash damage. Except
+  on a critical failure, one square of the target creature's space is coated in vegetation,
+  becoming difficult terrain for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

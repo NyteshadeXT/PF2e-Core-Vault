@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sulfur-bomb-(moderate)"
 aliases: "Sulfur Bomb (Moderate)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "acid"
 trait02: "alchemical"
 trait03: "bomb"
 trait04: "consumable"
 trait05: "olfactory"
 trait06: "splash"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A thick, sulfurous, irritating gas fills this golden-yellow flask. You gain a +1 item bonus to attack rolls. The bomb deals 2d4 acid damage and 2 acid splash damage. On a hit, the target takes a -1 status penalty to Perception checks and attack rolls until the end of its next turn, or becomes [[Conditions/Sickened|Sickened 1]] on a critical hit. Creatures hit with this bomb are temporarily immune to the effects of the bomb for 1 minute.  [[Equipment Effects/Effect_ Sulfur Bomb|Effect: Sulfur Bomb]]"
+description: "**Activate** `pf2:1` Strike  * * *  A thick, sulfurous, irritating gas
+  fills this golden-yellow flask. You gain a +1 item bonus to attack rolls. The bomb
+  deals 2d4 acid damage and 2 acid splash damage. On a hit, the target takes a -1
+  status penalty to Perception checks and attack rolls until the end of its next turn,
+  or becomes [[Conditions/Sickened|Sickened 1]] on a critical hit. Creatures hit with
+  this bomb are temporarily immune to the effects of the bomb for 1 minute.  [[Equipment
+  Effects/Effect_ Sulfur Bomb|Effect: Sulfur Bomb]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

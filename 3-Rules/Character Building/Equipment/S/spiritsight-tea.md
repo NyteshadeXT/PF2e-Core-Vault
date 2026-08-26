@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spiritsight-tea"
 aliases: "Spiritsight Tea"
 source: "Pathfinder #197: Let the Leaves Fall"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
 trait04: "tea"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact or 10 minutes (concentrate, Interact)  * * *  Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[Conditions/Invisible|Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[Conditions/Concealed|Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal creatures.  [[Equipment Effects/Effect_ Spiritsight Tea|Effect: Spiritsight Tea]]  * * *  **Tea Ceremony** The duration of being able to see invisible creatures and objects increases to 30 minutes, and the duration of the item bonus increases to 8 hours."
+description: "**Activate** `pf2:1` Interact or 10 minutes (concentrate, Interact)\
+  \  * * *  Spiritsight tea exudes a soft blue glow, creating illumination equal to
+  that of a candle. When consumed, your eyes take on a soft glow as well, and you
+  can see [[Conditions/Invisible|Invisible]] creatures and objects for 10 minutes;
+  such creatures appear to you as translucent shapes, and they're [[Conditions/Concealed|Concealed]]
+  to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal
+  creatures.  [[Equipment Effects/Effect_ Spiritsight Tea|Effect: Spiritsight Tea]]\
+  \  * * *  **Tea Ceremony** The duration of being able to see invisible creatures
+  and objects increases to 30 minutes, and the duration of the item bonus increases
+  to 8 hours."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

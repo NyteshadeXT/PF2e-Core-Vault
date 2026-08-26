@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spike-launcher"
 aliases: "Spike Launcher"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "backstabber"
 trait02: "fatal-aim-d12"
 trait03: "kickback"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,22 @@ invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "Built from the spiked tail of a manticore, a _spike launcher_ is designed to launch large, spear-like projectiles. A _spike launcher_ is a _+1 striking_ weapon. It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the backstabber, fatal aim d12, and kickback traits with a range increment of 120 feet and reload 2. It uses the critical specialization of the bow weapon group, rather than the firearm critical specialization.  * * *  **Activate—Spike Shot** `pf2:3` (manipulate)  **Frequency** once per day  **Requirements** The _spike launcher_ is loaded  **Effect** The _spike launcher_ fires a volley of spikes in a 10-foot burst centered anywhere within its range. Make a Strike with the _spike launcher_ against each creature in the area; your multiple attack penalty does not increase until after you have resolved all these attacks. On a success, the spike causes the creature to take a –5-foot status penalty to their Speed. On a critical success, the creature becomes [[Conditions/Immobilized|Immobilized]] instead. In either case, the creature, or an adjacent creature, can use an Interact action to remove the spike and end the penalty or immobilized condition.  * * *  **Craft Requirements** The initial raw materials must include the tail of a manticore."
+description: "Built from the spiked tail of a manticore, a _spike launcher_ is designed
+  to launch large, spear-like projectiles. A _spike launcher_ is a _+1 striking_ weapon.
+  It's a distinct type of martial firearm that deals 1d8 piercing damage. It has the
+  backstabber, fatal aim d12, and kickback traits with a range increment of 120 feet
+  and reload 2. It uses the critical specialization of the bow weapon group, rather
+  than the firearm critical specialization.  * * *  **Activate—Spike Shot** `pf2:3`
+  (manipulate)  **Frequency** once per day  **Requirements** The _spike launcher_
+  is loaded  **Effect** The _spike launcher_ fires a volley of spikes in a 10-foot
+  burst centered anywhere within its range. Make a Strike with the _spike launcher_
+  against each creature in the area; your multiple attack penalty does not increase
+  until after you have resolved all these attacks. On a success, the spike causes
+  the creature to take a –5-foot status penalty to their Speed. On a critical success,
+  the creature becomes [[Conditions/Immobilized|Immobilized]] instead. In either case,
+  the creature, or an adjacent creature, can use an Interact action to remove the
+  spike and end the penalty or immobilized condition.  * * *  **Craft Requirements**
+  The initial raw materials must include the tail of a manticore."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +91,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

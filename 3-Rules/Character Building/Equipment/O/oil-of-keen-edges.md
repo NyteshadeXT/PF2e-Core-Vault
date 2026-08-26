@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-keen-edges"
 aliases: "Oil of Keen Edges"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  When this silvery salve is applied to a melee weapon that deals piercing or slashing damage, the weapon grows sharper and more dangerous for 1 minute, granting it the benefits of the _[[Equipment/Keen|Keen]]_ rune.  [[Equipment Effects/Effect_ Oil of Keen Edges|Effect: Oil of Keen Edges]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  When this silvery salve is
+  applied to a melee weapon that deals piercing or slashing damage, the weapon grows
+  sharper and more dangerous for 1 minute, granting it the benefits of the _[[Equipment/Keen|Keen]]_
+  rune.  [[Equipment Effects/Effect_ Oil of Keen Edges|Effect: Oil of Keen Edges]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

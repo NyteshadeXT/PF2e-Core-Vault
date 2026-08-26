@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sprite-apple-(teal)"
 aliases: "Sprite Apple (Teal)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "light"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (Interact)  A sparkling candy coating covers a sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light in a 20-foot emanation (and dim light for the next 20 feet). While shedding this light, you can't be [[Conditions/Concealed|Concealed]] if you're visible, and if you're [[Conditions/Invisible|Invisible]], you're concealed instead rather than being undetected. The light matches the vibrant color of the apple's candy coating. Creatures in the bright light are subject to another effect, depending on the type of apple.  Creatures in the bright light feel a sense of calm, gaining a +1 item bonus to saving throws against fear effects."
+description: "**Activate** 1 minute (Interact)  A sparkling candy coating covers a
+  sprite apple. For 10 minutes after consuming a sprite apple, you shed bright light
+  in a 20-foot emanation (and dim light for the next 20 feet). While shedding this
+  light, you can't be [[Conditions/Concealed|Concealed]] if you're visible, and if
+  you're [[Conditions/Invisible|Invisible]], you're concealed instead rather than
+  being undetected. The light matches the vibrant color of the apple's candy coating.
+  Creatures in the bright light are subject to another effect, depending on the type
+  of apple.  Creatures in the bright light feel a sense of calm, gaining a +1 item
+  bonus to saving throws against fear effects."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

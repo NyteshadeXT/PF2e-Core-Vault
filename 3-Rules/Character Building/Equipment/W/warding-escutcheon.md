@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warding-escutcheon"
 aliases: "Warding Escutcheon"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "An image of a keyhole adorns the coat of arms of this stone tower shield (Hardness 10, HP 40, BT 20).  **Activate** `pf2:2` Interact  **Frequency** once per day  **Effect** The shield becomes a locked door in an empty, adjacent space no wider than 5 feet, becoming flush with the surrounding structure so it blocks all passage. The door has the same Hardness, HP, and Broken Threshold as the shield, with DC 25 Athletics check and DC 25 Thievery check to open. The door remains in place for 1 hour, until it's opened or broken, or until you spend an action to end this effect, at which point the shield returns to your hand (or falls to the ground in your space if your hands are full).  * * *  **Activate** 1 minute (command)  **Frequency** once per day  **Effect** The shield floats lazily in the air as bricks quickly fly from it to form a squat stone tower around it. You cast [[Spells/Cozy Cabin|Cozy Cabin]], with the shield becoming the door."
+description: "An image of a keyhole adorns the coat of arms of this stone tower shield
+  (Hardness 10, HP 40, BT 20).  **Activate** `pf2:2` Interact  **Frequency** once
+  per day  **Effect** The shield becomes a locked door in an empty, adjacent space
+  no wider than 5 feet, becoming flush with the surrounding structure so it blocks
+  all passage. The door has the same Hardness, HP, and Broken Threshold as the shield,
+  with DC 25 Athletics check and DC 25 Thievery check to open. The door remains in
+  place for 1 hour, until it's opened or broken, or until you spend an action to end
+  this effect, at which point the shield returns to your hand (or falls to the ground
+  in your space if your hands are full).  * * *  **Activate** 1 minute (command) \
+  \ **Frequency** once per day  **Effect** The shield floats lazily in the air as
+  bricks quickly fly from it to form a squat stone tower around it. You cast [[Spells/Cozy
+  Cabin|Cozy Cabin]], with the shield becoming the door."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

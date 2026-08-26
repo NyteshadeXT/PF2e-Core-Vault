@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "memory-guitar"
 aliases: "Memory Guitar"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "mental"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This simple guitar appears worn and battered from use, but upon close observation, the damage seems to be intentional. From the correct angle, the guitar's scratches and marks seem to form a simple picture, such as an environmental scene or a crude face.  * * *  **Activate** `pf2:3` Interact  **Effect** You play music with the guitar and the instrument's power shares a memory with your audience. When sharing with an audience, you share a memory of yours with anyone within 30 feet. This has the effects of [[Spells/Mindlink|Mindlink]] for anyone that can hear the music.  * * *  **Activate** `pf2:3` Interact  **Frequency** once per month  **Effect** You play the guitar and the instrument attempts to help you recover a lost memory. You can either have a specific memory in mind, such as trying to remember a childhood event, or let the guitar find a memory for you. You recall the moment with perfect clarity and reestablish it permanently in your mind with the failure effects of modify memory."
+description: "This simple guitar appears worn and battered from use, but upon close
+  observation, the damage seems to be intentional. From the correct angle, the guitar's
+  scratches and marks seem to form a simple picture, such as an environmental scene
+  or a crude face.  * * *  **Activate** `pf2:3` Interact  **Effect** You play music
+  with the guitar and the instrument's power shares a memory with your audience. When
+  sharing with an audience, you share a memory of yours with anyone within 30 feet.
+  This has the effects of [[Spells/Mindlink|Mindlink]] for anyone that can hear the
+  music.  * * *  **Activate** `pf2:3` Interact  **Frequency** once per month  **Effect**
+  You play the guitar and the instrument attempts to help you recover a lost memory.
+  You can either have a specific memory in mind, such as trying to remember a childhood
+  event, or let the guitar find a memory for you. You recall the moment with perfect
+  clarity and reestablish it permanently in your mind with the failure effects of
+  modify memory."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

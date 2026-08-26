@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shade-hat"
 aliases: "Shade Hat"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,10 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "This comfortable and stylish wide-brimmed hat magically protects you from the worst of the heat in hot areas, even when the heat doesn't come from the sun. While wearing the _shade hat_, you are protected from mild and severe heat (but not extreme heat)."
+description: "This comfortable and stylish wide-brimmed hat magically protects you
+  from the worst of the heat in hot areas, even when the heat doesn't come from the
+  sun. While wearing the _shade hat_, you are protected from mild and severe heat
+  (but not extreme heat)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

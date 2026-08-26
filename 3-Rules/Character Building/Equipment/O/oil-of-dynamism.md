@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-dynamism"
 aliases: "Oil of Dynamism"
 source: "Pathfinder Player Core 2"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "85"
 subvalue: "gp"
 invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an _animated object_ of the same type. For example, sprinkling it on a statue makes an _animated statue_. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails.  This animated object has the _minion_ trait, meaning it can use 2 actions when you Command it. You can issue a Command for the current turn as part of the activation. The object remains animated for 1 minute before falling inert. As usual, you can have a maximum of four minions under your control."
+description: "**Activate** `pf2:2` (manipulate)  * * *  This fine golden oil comes
+  in a small blue canister. Carefully spreading the oil over an object turns it into
+  an _animated object_ of the same type. For example, sprinkling it on a statue makes
+  an _animated statue_. If the animated object's level would be greater than 3, the
+  oil struggles to animate it and ultimately fails.  This animated object has the
+  _minion_ trait, meaning it can use 2 actions when you Command it. You can issue
+  a Command for the current turn as part of the activation. The object remains animated
+  for 1 minute before falling inert. As usual, you can have a maximum of four minions
+  under your control."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "planar-ribbon"
 aliases: "Planar Ribbon"
 source: "Pathfinder #156: The Apocalypse Prophet"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "occult"
-trait02: "unique"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,20 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "By twisting and twirling this ordinary-looking leather ribbon, you can temporarily bend a rift in space.  * * *  **Activate** 1 minute (command, envision, Interact)  * * *  **Effect** The ribbon spins and swirls, creating a circular loop in the air through which you can spy on a creature on another plane.  This has the effects of a [[Spells/Scrying|Scrying]] spell (DC 40) against the creature but functions more as a mundane -albeit interplanar-window; a similar loop appears before the target, and for the duration, both sides can clearly see and hear each other through the created portal, but nothing can pass through.  You can Sustain the Activation to gain the effects of Sustaining the Spell. This activation has the scrying trait.  * * *  **Activate** `pf2:1` Interact  **Frequency** once per round  * * *  **Effect** You extend the ribbon to brush against a foe up to 60 feet away. If that creature fails a DC 42 Reflex check save, you exchange positions with the target and all of that creature's allies are off-guard to you until the end of your turn. This activation has the teleportation trait."
+description: "By twisting and twirling this ordinary-looking leather ribbon, you can
+  temporarily bend a rift in space.  * * *  **Activate** 1 minute (command, envision,
+  Interact)  * * *  **Effect** The ribbon spins and swirls, creating a circular loop
+  in the air through which you can spy on a creature on another plane.  This has the
+  effects of a [[Spells/Scrying|Scrying]] spell (DC 40) against the creature but functions
+  more as a mundane -albeit interplanar-window; a similar loop appears before the
+  target, and for the duration, both sides can clearly see and hear each other through
+  the created portal, but nothing can pass through.  You can Sustain the Activation
+  to gain the effects of Sustaining the Spell. This activation has the scrying trait.\
+  \  * * *  **Activate** `pf2:1` Interact  **Frequency** once per round  * * *  **Effect**
+  You extend the ribbon to brush against a foe up to 60 feet away. If that creature
+  fails a DC 42 Reflex check save, you exchange positions with the target and all
+  of that creature's allies are off-guard to you until the end of your turn. This
+  activation has the teleportation trait."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

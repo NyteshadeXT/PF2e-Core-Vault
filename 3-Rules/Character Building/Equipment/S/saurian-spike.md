@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "saurian-spike"
 aliases: "Saurian Spike"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "spellheart"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,24 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "700"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some former battle scar its surface. The bearer of a _saurian spike_ often feels a sudden surge in power and confidence.  *   **Armor** You gain imprecise scent with a range of 30 feet. *   **Weapon**(auditory, emotion, fear, visual) When you cast a polymorph spell by activating the spike, your battle form is exceptionally fearsome. Each enemy in a 30-foot emanation must succeed at a DC 27 Will check saving throw or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened 2]] on a critical failure).  [[Equipment Effects/Effect_ Saurian Spike - Armor|Effect: Saurian Spike - Armor]]  **Activate** Cast a Spell  * * *  **Effect** You cast [[Spells/Gouging Claw|Gouging Claw]].  **Activate** Cast a Spell  **Frequency** once per day  * * *  **Effect** You cast [[Spells/Dinosaur Form|Dinosaur Form]]."
+description: "This jagged, bony growth narrows to a sharp, pointed tip. Deep groves
+  from some former battle scar its surface. The bearer of a _saurian spike_ often
+  feels a sudden surge in power and confidence.  *   **Armor** You gain imprecise
+  scent with a range of 30 feet. *   **Weapon**(auditory, emotion, fear, visual) When
+  you cast a polymorph spell by activating the spike, your battle form is exceptionally
+  fearsome. Each enemy in a 30-foot emanation must succeed at a DC 27 Will check saving
+  throw or become [[Conditions/Frightened|Frightened 1]] ([[Conditions/Frightened|Frightened
+  2]] on a critical failure).  [[Equipment Effects/Effect_ Saurian Spike - Armor|Effect:
+  Saurian Spike - Armor]]  **Activate** Cast a Spell  * * *  **Effect** You cast [[Spells/Gouging
+  Claw|Gouging Claw]].  **Activate** Cast a Spell  **Frequency** once per day  * *
+  *  **Effect** You cast [[Spells/Dinosaur Form|Dinosaur Form]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

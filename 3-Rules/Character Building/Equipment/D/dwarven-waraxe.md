@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "dwarven-waraxe"
 aliases: "Dwarven Waraxe"
 source: "Pathfinder Player Core"
 pg: "279"
-rarity: ""
+rarity: "Uncommon"
 trait01: "dwarf"
 trait02: "sweep"
 trait03: "two-hand-d12"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -30,13 +30,18 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This favored weapon of the dwarves has a large, ornate head mounted on a thick handle. This powerful axe can be wielded with one hand or two."
+description: "This favored weapon of the dwarves has a large, ornate head mounted
+  on a thick handle. This powerful axe can be wielded with one hand or two."
 powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1: "Choose one creature adjacent to the initial target and within reach. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its _[[striking]]_ rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
+mechanics1: "Choose one creature adjacent to the initial target and within reach.
+  If its AC is lower than your attack roll result for the critical hit, you deal damage
+  to that creature equal to the result of the weapon damage die you rolled (including
+  extra dice for its _[[striking]]_ rune, if any). This amount isn't doubled, and
+  no bonuses or other additional dice apply to this damage."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -48,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage:  
+damage:
 dmg1: 1d8
 dmg1Type: slashing
 dmg2:
@@ -77,9 +82,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

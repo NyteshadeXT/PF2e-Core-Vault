@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "manacles-of-persuasion"
 aliases: "Manacles of Persuasion"
 source: "Pathfinder Lost Omens Gods & Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "nonlethal"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These sturdy, average manacles are connected by a thick iron chain that is much heavier than its appearance suggests at a glance. Followers of Zon-Kuthon sometimes employ manacles of persuasion against captured enemies and spies. When the manacles are locked around an immobilized creature's wrists, they begin to sap the life out of the victim, dealing 2 void damage per hour until the creature falls unconscious. The effect is nonlethal, so the damage doesn't cause the creature to become dying. While the creature is unconscious, the manacles deal no damage and allow the creature to recover Hit Points normally to a maximum of 10 Hit Points, at which point the manacles begin to deal damage once more. The manacles have no effect on a creature that is not immobilized."
+description: "These sturdy, average manacles are connected by a thick iron chain that
+  is much heavier than its appearance suggests at a glance. Followers of Zon-Kuthon
+  sometimes employ manacles of persuasion against captured enemies and spies. When
+  the manacles are locked around an immobilized creature's wrists, they begin to sap
+  the life out of the victim, dealing 2 void damage per hour until the creature falls
+  unconscious. The effect is nonlethal, so the damage doesn't cause the creature to
+  become dying. While the creature is unconscious, the manacles deal no damage and
+  allow the creature to recover Hit Points normally to a maximum of 10 Hit Points,
+  at which point the manacles begin to deal damage once more. The manacles have no
+  effect on a creature that is not immobilized."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

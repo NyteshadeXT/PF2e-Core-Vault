@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tricksters-mandolin-(major)"
 aliases: "Trickster's Mandolin (Major)"
@@ -16,7 +16,7 @@ trait01: "coda"
 trait02: "illusion"
 trait03: "occult"
 trait04: "staff"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,24 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Sought after by many unscrupulous bards, this instrument is surprisingly light and easy to carry, but also empowered with a number of spells carefully selected to help with fooling others or making a hasty retreat. While playing the mandolin, you gain a +2 item bonus to Deception and Performance checks.  * * *  **Activate** `pf2:1` envision  **Effect** You change the instrument's color and shape to one you prefer, and you can turn it into a different handheld string instrument that takes two hands to play.  * * *  **Activate** Cast a Spell  **Effect** You expend a number of charges from this instrument to cast a spell from its list.  *   **Cantrip** [[Spells/Prestidigitation|Prestidigitation]] *   **1st** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Item Facade|Item Facade]], [[Spells/Ventriloquism|Ventriloquism]] *   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Invisibility|Invisibility]], [[Spells/Mirror Image|Mirror Image]] *   **3rd** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Phantom Prison|Phantom Prison]], [[Spells/Sculpt Sound|Sculpt Sound]] *   **4th** [[Spells/Confusion|Confusion]], [[Spells/Invisibility|Invisibility]], [[Spells/Illusory Disguise|Illusory Disguise]] *   **5th** [[Spells/Hallucination|Hallucination]], [[Spells/Illusory Scene|Illusory Scene]], [[Spells/Illusory Disguise|Illusory Disguise]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
+description: "Sought after by many unscrupulous bards, this instrument is surprisingly
+  light and easy to carry, but also empowered with a number of spells carefully selected
+  to help with fooling others or making a hasty retreat. While playing the mandolin,
+  you gain a +2 item bonus to Deception and Performance checks.  * * *  **Activate**
+  `pf2:1` envision  **Effect** You change the instrument's color and shape to one
+  you prefer, and you can turn it into a different handheld string instrument that
+  takes two hands to play.  * * *  **Activate** Cast a Spell  **Effect** You expend
+  a number of charges from this instrument to cast a spell from its list.  *   **Cantrip**
+  [[Spells/Prestidigitation|Prestidigitation]] *   **1st** [[Spells/Illusory Disguise|Illusory
+  Disguise]], [[Spells/Item Facade|Item Facade]], [[Spells/Ventriloquism|Ventriloquism]]
+  *   **2nd** [[Spells/Illusory Creature|Illusory Creature]], [[Spells/Illusory Disguise|Illusory
+  Disguise]], [[Spells/Invisibility|Invisibility]], [[Spells/Mirror Image|Mirror Image]]
+  *   **3rd** [[Spells/Illusory Disguise|Illusory Disguise]], [[Spells/Phantom Prison|Phantom
+  Prison]], [[Spells/Sculpt Sound|Sculpt Sound]] *   **4th** [[Spells/Confusion|Confusion]],
+  [[Spells/Invisibility|Invisibility]], [[Spells/Illusory Disguise|Illusory Disguise]]
+  *   **5th** [[Spells/Hallucination|Hallucination]], [[Spells/Illusory Scene|Illusory
+  Scene]], [[Spells/Illusory Disguise|Illusory Disguise]]  * * *  **Craft Requirements**
+  Supply one casting of all listed ranks of all listed spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +64,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +93,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spark-wafer"
 aliases: "Spark Wafer"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "fire"
 trait04: "light"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  These wafers contain ground-up alchemical reagents that activate shortly after being snapped. First popularized by technicians in Absalom's Ivy Playhouse, they have spread throughout Golarion as an inexpensive way to add to the visual splendor of a show without relying on magic. When you activate a spark wafer, you bend the wafer, nearly snapping it in two, and then throw it at a corner of a square within 20 feet (all part of the same manipulate action). The wafer then releases a 10-foot-high column of sparks for 1 round. The sparks shed bright light in a 5-foot burst and dim light in the next 5 feet. Any creature that begins their turn in the burst takes 1d4 fire damage (DC 14 Reflex check save)."
+description: "**Activate** `pf2:1` (manipulate)  * * *  These wafers contain ground-up
+  alchemical reagents that activate shortly after being snapped. First popularized
+  by technicians in Absalom's Ivy Playhouse, they have spread throughout Golarion
+  as an inexpensive way to add to the visual splendor of a show without relying on
+  magic. When you activate a spark wafer, you bend the wafer, nearly snapping it in
+  two, and then throw it at a corner of a square within 20 feet (all part of the same
+  manipulate action). The wafer then releases a 10-foot-high column of sparks for
+  1 round. The sparks shed bright light in a 5-foot burst and dim light in the next
+  5 feet. Any creature that begins their turn in the burst takes 1d4 fire damage (DC
+  14 Reflex check save)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

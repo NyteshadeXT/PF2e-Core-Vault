@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "splint-mail"
 aliases: "Splint Mail"
 source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,10 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This type of armor is chain mail reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of [[Equipment/Padded Armor|Padded Armor]] and a pair of [[Equipment/Gauntlet|gauntlets]]."
+description: "This type of armor is chain mail reinforced with flexible, interlocking
+  metal plates, typically located on the wearer's torso, upper arms, and legs. A suit
+  of this armor comes with an undercoat of [[Equipment/Padded Armor|Padded Armor]]
+  and a pair of [[Equipment/Gauntlet|gauntlets]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

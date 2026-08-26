@@ -24,77 +24,21 @@
             }
           },
           {
-            "id": "ff383d679f999860",
+            "id": "8f457d42deb509c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
+                "file": "3-Rules/Character Building/Equipment/W/Weapon Potency (+1).md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ilthane the Black"
-            }
-          },
-          {
-            "id": "4fdc93b94f491cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Character Building/Equipment/L/Lance.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lance"
-            }
-          },
-          {
-            "id": "7c6fc22e0df45aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "A Gathering of Winds"
-            }
-          },
-          {
-            "id": "63e1f12fd7f49ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DC Calculator"
-            }
-          },
-          {
-            "id": "4403477b5ca326d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz-Templates/Markdown/Insert Item.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Insert Item"
+              "title": "Weapon Potency (+1)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 359.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -301,34 +245,38 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "4fdc93b94f491cb0",
+  "active": "8f457d42deb509c7",
   "lastOpenFiles": [
-    "zz-Templates/Markdown/Item Card Template.md",
-    "zz-Templates/Markdown/Insert Item Metabind.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/M/Mace.md",
-    "3-Rules/Character Building/Equipment/M/mace-multipistol.md",
-    "3-Rules/Character Building/Equipment/M/Machete.md",
-    "3-Rules/Character Building/Equipment/L/Lance.md",
-    "3-Rules/Character Building/Equipment/L/laminar.md",
-    "3-Rules/Character Building/Equipment/L/lamellar-breastplate.md",
-    "3-Rules/Character Building/Equipment/L/lance-of-suns-radiance.md",
-    "3-Rules/Character Building/Equipment/N/Naginata.md",
-    "3-Rules/Character Building/Equipment/N/necklace-of-fireballs-iv.md",
-    "3-Rules/Character Building/Equipment/N/necklace-of-fireballs-v.md",
-    "3-Rules/Character Building/Equipment/N/necklace-of-fireballs-vii.md",
-    "3-Rules/Character Building/Equipment/N/Navigator's Feather.md",
-    "3-Rules/Character Building/Equipment/N/navaratna-of-the-solar-ruby.md",
-    "3-Rules/Character Building/Equipment/N/Navaratna of the Solar Ruby.md",
-    "3-Rules/Character Building/Equipment/N/Nail Bomb (Major).md",
-    "3-Rules/Character Building/Equipment/N/Nail Bomb (Greater).md",
-    "3-Rules/Character Building/Equipment/M/macuahuitl.md",
-    "3-Rules/Character Building/Equipment/A/auspicious-scepter.md",
-    "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
-    "3-Rules/Character Building/Equipment/M/madcap-top.md",
-    "3-Rules/Character Building/Equipment/M/maelstromic-destabilizer-moderate.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "3-Rules/Character Building/Equipment/M/maestros-instrument-greater.md",
+    "3-Rules/Character Building/Equipment/W/Weapon Shot (Greater).md",
+    "3-Rules/Character Building/Equipment/W/Weapon Potency (+3).md",
+    "3-Rules/Character Building/Equipment/W/Weapon Potency (+1).md",
+    "3-Rules/Character Building/Equipment/W/Waterproof Firearm Carrying Case.md",
+    "3-Rules/Character Building/Equipment/W/Water Purifier.md",
+    "3-Rules/Character Building/Equipment/W/Water Bomb (Moderate).md",
+    "3-Rules/Character Building/Equipment/W/Water Bomb (Major).md",
+    "3-Rules/Character Building/Equipment/W/Water Bomb (Lesser).md",
+    "3-Rules/Character Building/Equipment/W/Water Bomb (Greater).md",
+    "3-Rules/Character Building/Equipment/W/Watchful Portrait.md",
+    "3-Rules/Character Building/Equipment/W/Wasul Reed Mask.md",
+    "3-Rules/Character Building/Equipment/W/Wasp Guard.md",
+    "3-Rules/Character Building/Equipment/W/Warrior's Training Ring.md",
+    "3-Rules/Character Building/Equipment/W/Warpwobble Poison.md",
+    "3-Rules/Character Building/Equipment/W/Warning Snare.md",
+    "3-Rules/Character Building/Equipment/W/Warleader's Bulwark.md",
+    "3-Rules/Character Building/Equipment/W/Wardrobe Stone (Greater).md",
+    "3-Rules/Character Building/Equipment/W/Warding Escutcheon (Greater).md",
+    "3-Rules/Character Building/Equipment/W/Warding Escutcheon.md",
+    "3-Rules/Character Building/Equipment/W/Warcaller's Chime of Blasting.md",
+    "3-Rules/Character Building/Equipment/W/War Blood Mutagen (Greater).md",
+    "3-Rules/Character Building/Equipment/W/Wand of Dazzling Rays (3rd-level).md",
+    "3-Rules/Character Building/Equipment/W/Wand of Clinging Rime (7th-level).md",
+    "3-Rules/Character Building/Equipment/W/Wand Cane.md",
+    "3-Rules/Character Building/Equipment/W/Wand Implement.md",
+    "3-Rules/Character Building/Equipment/W/Waffle Iron (High-grade Mithral).md",
+    "3-Rules/Character Building/Equipment/config.json",
+    "3-Rules/Character Building/Equipment/run_app.bat",
+    "3-Rules/Character Building/Equipment/update_yaml.py",
+    "3-Rules/Character Building/Equipment/New Text Document.txt",
     "zz-Attachments/icosiols-tomb-upper-level.png",
     "zz-Attachments/shard-of-the-star-postdungeon.png",
     "zz-Attachments/Assets/ImagePlaceholder.png",
@@ -344,10 +292,6 @@
     "windrose-tile-metadata.json",
     "TTRPG/Time/event-details-legacy-backup",
     "TTRPG/Time/event-source",
-    "zz-Attachments/windrose_objects",
-    "zz-Attachments/New folder",
-    "windrose-md-data.json",
-    "zz-Attachments/multicolored-icons/multicolored-icons/multicolored.properties",
-    "zz-Attachments/multicolored-icons/multicolored-icons"
+    "zz-Attachments/windrose_objects"
   ]
 }

@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mask-(plague)"
 aliases: "Mask (Plague)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,23 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "A mask helps you use the [[Actions/Impersonate|Impersonate]] action to pass yourself off as someone you aren't.  This stylized bird mask is equipped with a basic filter. The plague mask attempts to counteract any inhaled poisons or airborne diseases each round you breathe. The same replacement filters used in [[Equipment/Water Purifier|Water Purifiers]] can be used with a plague mask, granting you the counteract modifier and effects of the filter for 20 minutes.  Plague masks are uncommon items because the filters they use to protect from inhaled poisons and diseases are themselves uncommon. As such, you can buy a plague mask without a filter as a common item, though it's usually more cost-effective to buy a fine mask in the shape of a plague mask in that case."
+description: "A mask helps you use the [[Actions/Impersonate|Impersonate]] action
+  to pass yourself off as someone you aren't.  This stylized bird mask is equipped
+  with a basic filter. The plague mask attempts to counteract any inhaled poisons
+  or airborne diseases each round you breathe. The same replacement filters used in
+  [[Equipment/Water Purifier|Water Purifiers]] can be used with a plague mask, granting
+  you the counteract modifier and effects of the filter for 20 minutes.  Plague masks
+  are uncommon items because the filters they use to protect from inhaled poisons
+  and diseases are themselves uncommon. As such, you can buy a plague mask without
+  a filter as a common item, though it's usually more cost-effective to buy a fine
+  mask in the shape of a plague mask in that case."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

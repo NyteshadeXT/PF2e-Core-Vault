@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "possibility-tome"
 aliases: "Possibility Tome"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "An array of semiprecious stones is set into the ornate silver and beaten copper cover of this thick and weighty tome. If you open the book before it's been activated, its vellum pages are blank and pristine, but once activated, words dance and swim onto the pages before your eyes.  **Activate—Skim** 10 minutes (concentrate, manipulate)  * * *  **Effect** As you flip through the book, you think about a broad topic you want to know more about.  Choose one skill: Arcana, Crafting, Medicine, Nature, Occultism, Religion, Society, or a single subcategory of Lore. The book's pages fill with information about that skill, though only you can see the information.  While the pages are full, you can spend an Interact action perusing the book just before attempting a check to Recall Knowledge with the chosen skill. This grants you a +3 item bonus to the check, and if you roll a critical failure, you get a failure instead.  The information within the book disappears after 24 hours or when the tome is activated again."
+description: "An array of semiprecious stones is set into the ornate silver and beaten
+  copper cover of this thick and weighty tome. If you open the book before it's been
+  activated, its vellum pages are blank and pristine, but once activated, words dance
+  and swim onto the pages before your eyes.  **Activate—Skim** 10 minutes (concentrate,
+  manipulate)  * * *  **Effect** As you flip through the book, you think about a broad
+  topic you want to know more about.  Choose one skill: Arcana, Crafting, Medicine,
+  Nature, Occultism, Religion, Society, or a single subcategory of Lore. The book's
+  pages fill with information about that skill, though only you can see the information.\
+  \  While the pages are full, you can spend an Interact action perusing the book
+  just before attempting a check to Recall Knowledge with the chosen skill. This grants
+  you a +3 item bonus to the check, and if you roll a critical failure, you get a
+  failure instead.  The information within the book disappears after 24 hours or when
+  the tome is activated again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

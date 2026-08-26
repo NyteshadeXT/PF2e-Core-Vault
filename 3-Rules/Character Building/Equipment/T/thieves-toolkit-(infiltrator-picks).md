@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thieves-toolkit-(infiltrator-picks)"
 aliases: "Thieves' Toolkit (Infiltrator Picks)"
 source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,15 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "3"
 subvalue: "gp"
 invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "These are replacement picks for [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves' Toolkit (Infiltrator)]]."
+description: "These are replacement picks for [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves'
+  Toolkit (Infiltrator)]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +48,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +77,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

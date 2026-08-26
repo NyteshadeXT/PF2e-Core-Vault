@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sanguine-fang-(greater)"
 aliases: "Sanguine Fang (Greater)"
@@ -15,21 +15,32 @@ rarity: ""
 trait01: "magical"
 trait02: "spellheart"
 trait03: "void"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "1750"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "A pointed vampire fang hovers within this smoked-glass vial, its tip crimson with slowly dripping blood. The spell DC of any spell cast by activating this item is 29.  *   **Armor** You gain resistance 5 to persistent bleed damage and a +2 item bonus on saving throws against effects with the void trait. *   **Weapon** After you cast a necromancy spell by activating the _fang_, your Strikes with the weapon deal 1d6 bleed damage until the end of your next turn.  [[Equipment Effects/Effect_ Sanguine Fang - Armor|Effect: Sanguine Fang - Armor]]  [[Equipment Effects/Effect_ Sanguine Fang - Weapon|Effect: Sanguine Fang - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Void Warp|Void Warp]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Sanguine Mist|Sanguine Mist]].  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 4th-rank [[Spells/Vampiric Feast|Vampiric Feast]]."
+description: "A pointed vampire fang hovers within this smoked-glass vial, its tip
+  crimson with slowly dripping blood. The spell DC of any spell cast by activating
+  this item is 29.  *   **Armor** You gain resistance 5 to persistent bleed damage
+  and a +2 item bonus on saving throws against effects with the void trait. *   **Weapon**
+  After you cast a necromancy spell by activating the _fang_, your Strikes with the
+  weapon deal 1d6 bleed damage until the end of your next turn.  [[Equipment Effects/Effect_
+  Sanguine Fang - Armor|Effect: Sanguine Fang - Armor]]  [[Equipment Effects/Effect_
+  Sanguine Fang - Weapon|Effect: Sanguine Fang - Weapon]]  * * *  **Activate** Cast
+  a Spell  **Effect** You cast [[Spells/Void Warp|Void Warp]].  * * *  **Activate**
+  Cast a Spell  **Frequency** once per day  **Effect** You cast [[Spells/Sanguine
+  Mist|Sanguine Mist]].  * * *  **Activate** Cast a Spell  **Frequency** once per
+  day  **Effect** You cast 4th-rank [[Spells/Vampiric Feast|Vampiric Feast]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sun-orchid-elixir"
 aliases: "Sun Orchid Elixir"
 source: "Pathfinder Lost Omens World Guide"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  When you drink this elixir, you physically become as you were in whatever phase of your youth you desire. Your new body begins in peak health, regardless of what your actual condition was at that age. Any physical or mental imperfections- including scars, lost limbs, and curses, diseases, poisons of 20th level or lower- are removed, and you regain your full Hit Points. You immediately begin to age normally again, with your natural lifespan extended as if you had never aged past your new apparent age. You retain all your memories.  Unlike Crafting most items, brewing the sun orchid elixir takes 1 month's time. While an individual vial of sun orchid elixir isn't unique, the formula is unique, and it's known only to Artokus Kirran of Thuvia."
+description: "**Activate** `pf2:1` Interact  When you drink this elixir, you physically
+  become as you were in whatever phase of your youth you desire. Your new body begins
+  in peak health, regardless of what your actual condition was at that age. Any physical
+  or mental imperfections- including scars, lost limbs, and curses, diseases, poisons
+  of 20th level or lower- are removed, and you regain your full Hit Points. You immediately
+  begin to age normally again, with your natural lifespan extended as if you had never
+  aged past your new apparent age. You retain all your memories.  Unlike Crafting
+  most items, brewing the sun orchid elixir takes 1 month's time. While an individual
+  vial of sun orchid elixir isn't unique, the formula is unique, and it's known only
+  to Artokus Kirran of Thuvia."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

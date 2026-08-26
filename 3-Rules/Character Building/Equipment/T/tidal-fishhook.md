@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tidal-fishhook"
 aliases: "Tidal Fishhook"
 source: "Pathfinder Lost Omens Monsters of Myth"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "finesse"
 trait02: "grapple"
 trait03: "magical"
 trait04: "tethered"
 trait05: "thrown-20"
 trait06: "water"
-trait07: "rare"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+2 greater striking returning_ [[Equipment/Combat Grapnel|Combat Grapnel]] takes the form of a fishhook made of scavenged bones and stone with a cord of braided water. Attacks with a tidal fishhook don't take any of the normal penalties for fighting underwater. A broken (but not destroyed) tidal fishhook can be fully repaired by submerging it in an ocean for 1 minute.  * * *  **Activation** `pf2:2` Interact (teleportation, water)  **Frequency** once per hour  * * *  **Effect** A tidal fishhook can travel between bodies of water to strike distant foes. You throw the fishhook into a 5-foot square that's fully covered with water, and it emerges to Strike or [[Actions/Grapple|Grapple]] a target from another such square within 60 feet; the squares can be part of the same body of water or different ones. The distance between the bodies of water doesn't count toward the fishhook's range increment. If you successfully Grapple the target as part of this Strike, you can pull yourself along the fishhook's line, teleporting to the secondary body of water."
+description: "This _+2 greater striking returning_ [[Equipment/Combat Grapnel|Combat
+  Grapnel]] takes the form of a fishhook made of scavenged bones and stone with a
+  cord of braided water. Attacks with a tidal fishhook don't take any of the normal
+  penalties for fighting underwater. A broken (but not destroyed) tidal fishhook can
+  be fully repaired by submerging it in an ocean for 1 minute.  * * *  **Activation**
+  `pf2:2` Interact (teleportation, water)  **Frequency** once per hour  * * *  **Effect**
+  A tidal fishhook can travel between bodies of water to strike distant foes. You
+  throw the fishhook into a 5-foot square that's fully covered with water, and it
+  emerges to Strike or [[Actions/Grapple|Grapple]] a target from another such square
+  within 60 feet; the squares can be part of the same body of water or different ones.
+  The distance between the bodies of water doesn't count toward the fishhook's range
+  increment. If you successfully Grapple the target as part of this Strike, you can
+  pull yourself along the fishhook's line, teleporting to the secondary body of water."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +59,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d6 piercing
 dmg1:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

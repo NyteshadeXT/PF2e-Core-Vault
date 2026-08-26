@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nostalgic-pot"
 aliases: "Nostalgic Pot"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small pot filled with pebbles is imbued with the nostalgia of its owner. While this pot is on your person, you get a +1 item bonus to saves against emotion effects.  **Jingling Memories** `pf2:1` (concentrate, emotion)  **Frequency** once per day  * * *  **Effect** You shake the pot, granting a +1 item bonus to an ally to save against an emotion effect."
+description: "This small pot filled with pebbles is imbued with the nostalgia of its
+  owner. While this pot is on your person, you get a +1 item bonus to saves against
+  emotion effects.  **Jingling Memories** `pf2:1` (concentrate, emotion)  **Frequency**
+  once per day  * * *  **Effect** You shake the pot, granting a +1 item bonus to an
+  ally to save against an emotion effect."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

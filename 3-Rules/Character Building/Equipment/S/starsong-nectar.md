@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "starsong-nectar"
 aliases: "Starsong Nectar"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "fortune"
 trait03: "magical"
 trait04: "potion"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,21 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A liquid with the appearance of an expressive night sky and a taste that's sheer pleasure, starsong nectar grants you cheerful confidence and incredible luck for 10 minutes after you drink it. However, if you show too much caution at any point during this time (GM's discretion), you must succeed at a DC 6 Flat check or the potion's effects end. While the potion lasts, you gain a +3 status bonus to attack rolls, initiative rolls, Perception checks, saving throws, and skill checks, and you aren't [[Conditions/Off-Guard|Off-Guard]] against undetected creatures or when flanked. You are temporarily immune to this potion for 24 hours once its effects end.  While the potion lasts, though, if you take a moment to imagine the future, you choose the best courses of action. This aspect of the potion grants you the following activation.  **Activate** `pf2:1` Envision  **Frequency** once per round  * * *  **Effect** Until the start of your next turn, roll two d20s for any attack rolls, Perception checks, saving throws, and skill checks you make and take the higher result.  [[Equipment Effects/Effect_ Starsong Nectar|Effect: Starsong Nectar]]"
+description: "**Activate** `pf2:1` Interact  A liquid with the appearance of an expressive
+  night sky and a taste that's sheer pleasure, starsong nectar grants you cheerful
+  confidence and incredible luck for 10 minutes after you drink it. However, if you
+  show too much caution at any point during this time (GM's discretion), you must
+  succeed at a DC 6 Flat check or the potion's effects end. While the potion lasts,
+  you gain a +3 status bonus to attack rolls, initiative rolls, Perception checks,
+  saving throws, and skill checks, and you aren't [[Conditions/Off-Guard|Off-Guard]]
+  against undetected creatures or when flanked. You are temporarily immune to this
+  potion for 24 hours once its effects end.  While the potion lasts, though, if you
+  take a moment to imagine the future, you choose the best courses of action. This
+  aspect of the potion grants you the following activation.  **Activate** `pf2:1`
+  Envision  **Frequency** once per round  * * *  **Effect** Until the start of your
+  next turn, roll two d20s for any attack rolls, Perception checks, saving throws,
+  and skill checks you make and take the higher result.  [[Equipment Effects/Effect_
+  Starsong Nectar|Effect: Starsong Nectar]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +61,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +90,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

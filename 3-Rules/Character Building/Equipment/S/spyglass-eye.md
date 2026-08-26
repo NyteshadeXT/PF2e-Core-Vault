@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spyglass-eye"
 aliases: "Spyglass Eye"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,11 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Polished to a perfect surface and incredibly clear, this special magical prosthetic eye allows you to clearly see small details as well as things a great distance away.  **Activate** `pf2:2` envision  **Frequency** once per hour  * * *  **Effect** A magical lens of hardened air comes into being in front of the eye, allowing you to see as though you were looking through a fine spyglass for 1 minute."
+description: "Polished to a perfect surface and incredibly clear, this special magical
+  prosthetic eye allows you to clearly see small details as well as things a great
+  distance away.  **Activate** `pf2:2` envision  **Frequency** once per hour  * *
+  *  **Effect** A magical lens of hardened air comes into being in front of the eye,
+  allowing you to see as though you were looking through a fine spyglass for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

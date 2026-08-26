@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tangibility-resonator-(lesser)"
 aliases: "Tangibility Resonator (Lesser)"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "gadget"
 trait03: "sonic"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  One of the stranger devices to come out of the University of Lepidstadt is a twisted glass contraption that hums with electricity. This vibration is harmless to most but is massively disruptive to the locomotion of incorporeal creatures. When activated, one incorporeal creature within 15 feet must attempt a DC 19 Fortitude check saving throw. Once used, the vibrations cause the glass to shatter.  * * *  **Success** The target is unaffected.  **Failure** The target is [[Conditions/Immobilized|Immobilized]] for 1 round.  **Critical Failure** The target is immobilized and [[Conditions/Off-Guard|Off-Guard]] for 1 round."
+description: "**Activate** `pf2:1` (manipulate)  * * *  One of the stranger devices
+  to come out of the University of Lepidstadt is a twisted glass contraption that
+  hums with electricity. This vibration is harmless to most but is massively disruptive
+  to the locomotion of incorporeal creatures. When activated, one incorporeal creature
+  within 15 feet must attempt a DC 19 Fortitude check saving throw. Once used, the
+  vibrations cause the glass to shatter.  * * *  **Success** The target is unaffected.\
+  \  **Failure** The target is [[Conditions/Immobilized|Immobilized]] for 1 round.\
+  \  **Critical Failure** The target is immobilized and [[Conditions/Off-Guard|Off-Guard]]
+  for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

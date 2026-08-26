@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "singing-shortbow-(greater)"
 aliases: "Singing Shortbow (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "deadly-d10"
 trait02: "magical"
 trait03: "propulsive"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "Rather than a normal bowstring, this _+3 greater striking greater thundering composite shortbow_ has a string made of animal gut, much like a musical instrument's. When you shoot the bow, it releases a soft musical note: sonorous if your aim is true and discordant if your shot goes off-target.  * * *  **Activate** `pf2:2` command (auditory)  **Frequency** once per hour  * * *  **Effect** You sing, hum, or whistle a note, and your bow provides appropriate accompaniment. Make a Strike with the bow. If it hits, the bow generates a magical effect determined by the note you sung, which has the traits indicated in parentheses. This affects every creature in a 10-foot emanation from the creature you hit. As normal for an emanation, you choose whether the creature you hit is affected.  *   **Song of Soothing** (emotion, enchantment, healing, mental) Each creature regains 5d10 healing Hit Points and gains a +1 status bonus to saves against mental effects for 1 minute. *   **Song of Suffering** (evocation, sonic) Each creature takes 5d10 sonic damage with a DC 38 Fortitude check save."
+description: "Rather than a normal bowstring, this _+3 greater striking greater thundering
+  composite shortbow_ has a string made of animal gut, much like a musical instrument's.
+  When you shoot the bow, it releases a soft musical note: sonorous if your aim is
+  true and discordant if your shot goes off-target.  * * *  **Activate** `pf2:2` command
+  (auditory)  **Frequency** once per hour  * * *  **Effect** You sing, hum, or whistle
+  a note, and your bow provides appropriate accompaniment. Make a Strike with the
+  bow. If it hits, the bow generates a magical effect determined by the note you sung,
+  which has the traits indicated in parentheses. This affects every creature in a
+  10-foot emanation from the creature you hit. As normal for an emanation, you choose
+  whether the creature you hit is affected.  *   **Song of Soothing** (emotion, enchantment,
+  healing, mental) Each creature regains 5d10 healing Hit Points and gains a +1 status
+  bonus to saves against mental effects for 1 minute. *   **Song of Suffering** (evocation,
+  sonic) Each creature takes 5d10 sonic damage with a DC 38 Fortitude check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

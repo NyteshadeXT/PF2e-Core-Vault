@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "unsullied-blood-(major)"
 aliases: "Unsullied Blood (Major)"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` envision  * * *  Blood offered from a willing donor was taken directly from the vein and stored in an ornate vial that keeps it as pure and red as the day it was extracted. When this catalyst is added to a [[Spells/Vampiric Feast|Vampiric Feast]], [[Spells/Vampiric Maiden|Vampiric Maiden]], or [[Spells/Vampiric Exsanguination|Vampiric Exsanguination]] spell of any level, instead of gaining temporary Hit Points based on the damage dealt, you recover half of the damage dealt as Hit Points. If the amount of Hit Points that would be restored by the spell exceeds your Hit Point maximum, you gain the excess as temporary Hit Points."
+description: "**Activate** `pf2:1` envision  * * *  Blood offered from a willing donor
+  was taken directly from the vein and stored in an ornate vial that keeps it as pure
+  and red as the day it was extracted. When this catalyst is added to a [[Spells/Vampiric
+  Feast|Vampiric Feast]], [[Spells/Vampiric Maiden|Vampiric Maiden]], or [[Spells/Vampiric
+  Exsanguination|Vampiric Exsanguination]] spell of any level, instead of gaining
+  temporary Hit Points based on the damage dealt, you recover half of the damage dealt
+  as Hit Points. If the amount of Hit Points that would be restored by the spell exceeds
+  your Hit Point maximum, you gain the excess as temporary Hit Points."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

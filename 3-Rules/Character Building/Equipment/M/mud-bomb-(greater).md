@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mud-bomb-(greater)"
 aliases: "Mud Bomb (Greater)"
 source: "Pathfinder #176: Lost Mammoth Valley"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "earth"
 trait05: "splash"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This clay vessel launches gobs of clinging mud and grit. You gain a +2 item bonus to attack rolls. The bomb deals 3d6 bludgeoning damage and 3 bludgeoning splash damage. On a critical hit, the target is [[Conditions/Dazzled|Dazzled]] until the start of your next turn."
+description: "**Activate** `pf2:1` Strike  * * *  This clay vessel launches gobs of
+  clinging mud and grit. You gain a +2 item bonus to attack rolls. The bomb deals
+  3d6 bludgeoning damage and 3 bludgeoning splash damage. On a critical hit, the target
+  is [[Conditions/Dazzled|Dazzled]] until the start of your next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

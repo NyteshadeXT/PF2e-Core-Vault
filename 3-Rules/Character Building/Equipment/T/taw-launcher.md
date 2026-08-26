@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "taw-launcher"
 aliases: "Taw Launcher"
 source: "Pathfinder Lost Omens Ancestry Guide"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "conrasu"
 trait02: "deadly-d10"
 trait03: "modular"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "Designed by conrasu warriors, this complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fléchettes."
+description: "Designed by conrasu warriors, this complex device is a crossbow and
+  fires small wooden bullets known as taws. A system of blades within the launcher
+  can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of
+  different shapes, such as fléchettes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stone-body-mutagen-(lesser)"
 aliases: "Stone Body Mutagen (Lesser)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This mutagen calcifies your body making it as hard as stone.  **Benefit** You gain resistance 5 to physical damage (except bludgeoning).  **Drawback** Your speeds are reduced by 10 feet (minimum 5 feet) and you take a -2 penalty to Reflex saves.  **Duration** 10 minute.  [[Equipment Effects/Effect_ Stone Body Mutagen (Lesser)|Effect: Stone Body Mutagen (Lesser)]]"
+description: "**Activate** `pf2:1` Interact  * * *  This mutagen calcifies your body
+  making it as hard as stone.  **Benefit** You gain resistance 5 to physical damage
+  (except bludgeoning).  **Drawback** Your speeds are reduced by 10 feet (minimum
+  5 feet) and you take a -2 penalty to Reflex saves.  **Duration** 10 minute.  [[Equipment
+  Effects/Effect_ Stone Body Mutagen (Lesser)|Effect: Stone Body Mutagen (Lesser)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

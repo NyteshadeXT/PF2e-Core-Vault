@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-dust"
 aliases: "Ghost Dust"
@@ -16,20 +16,24 @@ trait01: "consumable"
 trait02: "illusion"
 trait03: "occult"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 16
-weight: 
+weight:
 value: "1800"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  **Requirements** You are trained in Stealth  * * *  This small vial is filled with a grayish-green dust rendered from dried ectoplasm. When you activate the dust, it casts a 4th-rank [[Spells/Invisibility|Invisibility]] spell on you. You may then Stride or Step. You can instead Burrow, Climb, Fly, or Swim if you have the corresponding Speed."
+description: "**Activate** `pf2:1` (concentrate)  **Requirements** You are trained
+  in Stealth  * * *  This small vial is filled with a grayish-green dust rendered
+  from dried ectoplasm. When you activate the dust, it casts a 4th-rank [[Spells/Invisibility|Invisibility]]
+  spell on you. You may then Stride or Step. You can instead Burrow, Climb, Fly, or
+  Swim if you have the corresponding Speed."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "poisoners-staff"
 aliases: "Poisoner's Staff"
 source: "Pathfinder #160: Assault on Hunting Lodge Seven"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This gnarled staff is covered with thorns and coated with a glistening lacquer that acts as a minor irritant. While holding the staff, you aren't affected by its coating or thorns, and you reduce the DC of your flat checks to overcome persistent poison damage from 15 to 13.  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrips** [[Spells/Guidance|Guidance]] *   **1st** [[Spells/Detect Poison|Detect Poison]], [[Spells/Spider Sting|Spider Sting]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+description: "This gnarled staff is covered with thorns and coated with a glistening
+  lacquer that acts as a minor irritant. While holding the staff, you aren't affected
+  by its coating or thorns, and you reduce the DC of your flat checks to overcome
+  persistent poison damage from 15 to 13.  * * *  **Activate** [[Actions/Cast a Spell|Cast
+  a Spell]]  * * *  **Effect** You expend a number of charges from the staff to cast
+  a spell from its list.  * * *  *   **Cantrips** [[Spells/Guidance|Guidance]] * \
+  \  **1st** [[Spells/Detect Poison|Detect Poison]], [[Spells/Spider Sting|Spider
+  Sting]]  * * *  **Craft Requirements** Supply one casting of all listed levels of
+  all listed spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +55,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

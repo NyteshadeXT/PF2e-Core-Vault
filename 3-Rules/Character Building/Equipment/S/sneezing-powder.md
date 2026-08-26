@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sneezing-powder"
 aliases: "Sneezing Powder"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "You can toss sneezing powder at an adjacent creature as an Interact action. The target must attempt a DC 15 Fortitude check save to avoid sneezing. On a failed save, the creature sneezes uncontrollably, becoming [[Conditions/Slowed|Slowed 1]] for 1 round. On a critical failure, the creature is instead slowed 1 for 3 rounds."
+description: "You can toss sneezing powder at an adjacent creature as an Interact
+  action. The target must attempt a DC 15 Fortitude check save to avoid sneezing.
+  On a failed save, the creature sneezes uncontrollably, becoming [[Conditions/Slowed|Slowed
+  1]] for 1 round. On a critical failure, the creature is instead slowed 1 for 3 rounds."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

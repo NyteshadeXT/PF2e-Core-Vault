@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silencing-shot"
 aliases: "Silencing Shot"
@@ -15,21 +15,24 @@ rarity: ""
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "300"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` (concentrate)  * * *  This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-rank [[Spells/Silence|Silence]] spell (DC 25).  **Craft Requirements** Supply one casting of _silence_ at 4th rank."
+description: "**Ammunition** any  **Activate** `pf2:1` (concentrate)  * * *  This
+  shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing
+  shot is subject to the effects of a 4th-rank [[Spells/Silence|Silence]] spell (DC
+  25).  **Craft Requirements** Supply one casting of _silence_ at 4th rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

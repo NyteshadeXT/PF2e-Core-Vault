@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sack-of-rotten-fruit"
 aliases: "Sack of Rotten Fruit"
 source: "Pathfinder Adventure: A Fistful of Flowers"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  Each of these unassuming sacks contains enough rotting fruit to provide a fungus leshy with 1 week's worth of rations, along with clusters of stones to help press out the fruit's juices. When you Strike a creature with a sack of rotten fruit, the sack is consumed while the creature takes 1d4 bludgeoning damage and must attempt an DC 15 Fortitude check save. On a failure, the creature is [[Conditions/Sickened|Sickened 1]]. The range increment of a thrown sack of rotten fruit is 20 feet."
+description: "**Activate** `pf2:1` Strike  Each of these unassuming sacks contains
+  enough rotting fruit to provide a fungus leshy with 1 week's worth of rations, along
+  with clusters of stones to help press out the fruit's juices. When you Strike a
+  creature with a sack of rotten fruit, the sack is consumed while the creature takes
+  1d4 bludgeoning damage and must attempt an DC 15 Fortitude check save. On a failure,
+  the creature is [[Conditions/Sickened|Sickened 1]]. The range increment of a thrown
+  sack of rotten fruit is 20 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

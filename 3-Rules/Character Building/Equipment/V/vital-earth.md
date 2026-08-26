@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vital-earth"
 aliases: "Vital Earth"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "earth"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Life-infused soil from the Plane of Earth, _vital earth_ is glittering dust you inhale that causes you to not need air or water for 24 hours. Also, for this time, your wounds close easily, like molding clay, meaning someone attempting to [[Actions/Administer First Aid|Administer First Aid]] or [[Actions/Treat Wounds|Treat Wounds]] on you doesn't need a healer's toolkit and gains a +1 item bonus to the Medicine check."
+description: "Life-infused soil from the Plane of Earth, _vital earth_ is glittering
+  dust you inhale that causes you to not need air or water for 24 hours. Also, for
+  this time, your wounds close easily, like molding clay, meaning someone attempting
+  to [[Actions/Administer First Aid|Administer First Aid]] or [[Actions/Treat Wounds|Treat
+  Wounds]] on you doesn't need a healer's toolkit and gains a +1 item bonus to the
+  Medicine check."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

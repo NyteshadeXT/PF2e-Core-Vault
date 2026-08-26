@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-toxic-blades-(6th-level)"
 aliases: "Wand of Toxic Blades (6th-level)"
@@ -16,7 +16,7 @@ trait01: "force"
 trait02: "magical"
 trait03: "poison"
 trait04: "wand"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This slender metal wand is tinted green and small images of bladed weapons are etched on its surface.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade Barrier]]. Damage from the wall also exposes the damaged creature to [[Equipment/Cave Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be exposed to the poison no more than once per turn.  * * *  **Craft Requirements** Supply a casting of [[Spells/Blade Barrier|Blade Barrier]] of the appropriate rank."
+description: "This slender metal wand is tinted green and small images of bladed weapons
+  are etched on its surface.  **Activate** Cast a Spell  **Frequency** once per day,
+  plus overcharge  * * *  **Effect** You cast 6th-rank [[Spells/Blade Barrier|Blade
+  Barrier]]. Damage from the wall also exposes the damaged creature to [[Equipment/Cave
+  Worm Venom|Purple Worm Venom]]. The poison uses its normal DC. A creature can be
+  exposed to the poison no more than once per turn.  * * *  **Craft Requirements**
+  Supply a casting of [[Spells/Blade Barrier|Blade Barrier]] of the appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spirit-bulb-(greater)"
 aliases: "Spirit Bulb (Greater)"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "plant"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 12
-weight: 
+weight:
 value: "300"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (concentrate, manipulate)  * * *  This magical bulb is harvested from an ancient grove rich in primal plant magic. When you activate the bulb, you either eat it to have it cast a 6th-rank [[Spells/Plant Form|Plant Form]] spell affecting you, or plant it in the ground next to you to have it cast a 6th-rank [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] spell. If you choose the summoning option, the plant or fungus appears where you planted the bulb, and you can Sustain the activation to keep control of the creature."
+description: "**Activate** `pf2:2` (concentrate, manipulate)  * * *  This magical
+  bulb is harvested from an ancient grove rich in primal plant magic. When you activate
+  the bulb, you either eat it to have it cast a 6th-rank [[Spells/Plant Form|Plant
+  Form]] spell affecting you, or plant it in the ground next to you to have it cast
+  a 6th-rank [[Spells/Summon Plant or Fungus|Summon Plant or Fungus]] spell. If you
+  choose the summoning option, the plant or fungus appears where you planted the bulb,
+  and you can Sustain the activation to keep control of the creature."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

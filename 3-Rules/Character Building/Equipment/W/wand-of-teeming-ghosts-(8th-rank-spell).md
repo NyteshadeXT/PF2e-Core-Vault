@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-teeming-ghosts-(8th-rank-spell)"
 aliases: "Wand of Teeming Ghosts (8th-Rank Spell)"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
 trait02: "wand"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/False Vitality|False Vitality]] at 8th rank. During the duration of the spell, wisps that resemble spirits flit around you as long as you have any temporary Hit Points from false life, and you can use the following action.  * * *  **Activation** `pf2:0` envision  **Trigger** You successfully impart the [[Conditions/Frightened|Frightened 1]] condition to a creature  **Requirements** You have at least 1 temporary Hit Point from false life  * * *  **Effect** You end false life and increase the creature's frightened condition value to 2.  * * *  **Craft Requirements** Supply a casting of False Life at 8th level"
+description: "This pale wooden wand is carved to resemble a thigh bone with metal
+  caps at each end. Ghostly tendrils seem to swirl around it every so often.  * *
+  *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  **Frequency** once per day,
+  plus overcharge  * * *  **Effect** You cast [[Spells/False Vitality|False Vitality]]
+  at 8th rank. During the duration of the spell, wisps that resemble spirits flit
+  around you as long as you have any temporary Hit Points from false life, and you
+  can use the following action.  * * *  **Activation** `pf2:0` envision  **Trigger**
+  You successfully impart the [[Conditions/Frightened|Frightened 1]] condition to
+  a creature  **Requirements** You have at least 1 temporary Hit Point from false
+  life  * * *  **Effect** You end false life and increase the creature's frightened
+  condition value to 2.  * * *  **Craft Requirements** Supply a casting of False Life
+  at 8th level"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

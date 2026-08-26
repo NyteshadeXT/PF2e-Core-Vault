@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snarling-badger-(greater)"
 aliases: "Snarling Badger (Greater)"
@@ -16,20 +16,24 @@ trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "5000"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` command  **Trigger** You lose the [[Conditions/Dying|Dying]] condition  **Requirements** You have a [[Conditions/Wounded|Wounded]] value of 1 or more.  * * *  This tarnished steel pendant is inlaid with the face of an enraged badger. When you Activate the talisman, it casts a 9th-rank [[Spells/Heroism|Heroism]] on you. If you lose the wounded condition, the _heroism_ ends immediately."
+description: "**Activate** `pf2:0` command  **Trigger** You lose the [[Conditions/Dying|Dying]]
+  condition  **Requirements** You have a [[Conditions/Wounded|Wounded]] value of 1
+  or more.  * * *  This tarnished steel pendant is inlaid with the face of an enraged
+  badger. When you Activate the talisman, it casts a 9th-rank [[Spells/Heroism|Heroism]]
+  on you. If you lose the wounded condition, the _heroism_ ends immediately."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

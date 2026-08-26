@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "noxious-incense-(greater)"
 aliases: "Noxious Incense (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  Sold only in single sticks, this foul incense comes coated with a bevy of alchemical smoke that activates in the presence of intense heat, releasing its namesake pungent odor. Adding this catalyst to a [[Spells/Wall of Fire|Wall of Fire]] spell fills all squares adjacent to the wall with thick, foul smoke. Creatures in this area are [[Conditions/Concealed|Concealed]], and other creatures are concealed to creatures in the area. The smoke lasts for the duration of the spell. The incense can be used with a _wall of fire_ of any level."
+description: "**Activate** Cast a Spell  * * *  Sold only in single sticks, this foul
+  incense comes coated with a bevy of alchemical smoke that activates in the presence
+  of intense heat, releasing its namesake pungent odor. Adding this catalyst to a
+  [[Spells/Wall of Fire|Wall of Fire]] spell fills all squares adjacent to the wall
+  with thick, foul smoke. Creatures in this area are [[Conditions/Concealed|Concealed]],
+  and other creatures are concealed to creatures in the area. The smoke lasts for
+  the duration of the spell. The incense can be used with a _wall of fire_ of any
+  level."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

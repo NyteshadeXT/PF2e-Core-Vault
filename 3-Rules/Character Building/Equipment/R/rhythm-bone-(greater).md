@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rhythm-bone-(greater)"
 aliases: "Rhythm Bone (Greater)"
 source: "Pathfinder #169: Kindled Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "auditory"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This small, enchanted bone (most often a jaw) is usually capped with metal at its ends. It's activated by striking it against a hard surface.  * * *  **Activate** `pf2:1` Interact  **Effect** The bone begins recording the next 10 minutes of ambient sounds (including speech) that require a DC 20 or lower Perception check to hear. The bone's recording doesn't copy magical auditory effects, such as those of spellcasting, a harpy's song, or a banshee's wail. Once the rhythm bone has been activated in this way, it retains the recorded sound for the rest of its existence and can't be activated this way again.  * * *  **Activate** `pf2:1` Interact  **Effect** The bone replays its recorded sounds.  * * *  **Craft Requirements** Supply a casting of [[Spells/Ghost Sound|Ghost Sound]]."
+description: "This small, enchanted bone (most often a jaw) is usually capped with
+  metal at its ends. It's activated by striking it against a hard surface.  * * *\
+  \  **Activate** `pf2:1` Interact  **Effect** The bone begins recording the next
+  10 minutes of ambient sounds (including speech) that require a DC 20 or lower Perception
+  check to hear. The bone's recording doesn't copy magical auditory effects, such
+  as those of spellcasting, a harpy's song, or a banshee's wail. Once the rhythm bone
+  has been activated in this way, it retains the recorded sound for the rest of its
+  existence and can't be activated this way again.  * * *  **Activate** `pf2:1` Interact\
+  \  **Effect** The bone replays its recorded sounds.  * * *  **Craft Requirements**
+  Supply a casting of [[Spells/Ghost Sound|Ghost Sound]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

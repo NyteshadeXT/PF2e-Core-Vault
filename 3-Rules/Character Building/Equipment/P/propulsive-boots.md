@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "propulsive-boots"
 aliases: "Propulsive Boots"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornshoes"
 license: "ORC"
 identify:
-description: "These sleek red boots make your legs feel like they're bursting with energy. You gain a +5-foot item bonus to your land Speed and to any climb or swim Speeds you have.  **Activate—Quickening Stomp** `pf2:1` (manipulate)  **Frequency** once per day  * * *  **Effect** You stomp three times and gain the [[Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Actions/Climb|Climb]], or [[Actions/Swim|Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)"
+description: "These sleek red boots make your legs feel like they're bursting with
+  energy. You gain a +5-foot item bonus to your land Speed and to any climb or swim
+  Speeds you have.  **Activate—Quickening Stomp** `pf2:1` (manipulate)  **Frequency**
+  once per day  * * *  **Effect** You stomp three times and gain the [[Conditions/Quickened|Quickened]]
+  condition for 1 minute. You can use the extra action to Stride, [[Actions/Climb|Climb]],
+  or [[Actions/Swim|Swim]]. (You must still attempt an Athletics check for the Climb
+  and Swim actions unless you have the appropriate movement type.)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "violet-venom"
 aliases: "Violet Venom"
 source: "Pathfinder Bestiary 2"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "contact"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The delicate process of extracting violet venom from a violet fungus leaves it diluted at the best of times. Alchemists are still on the hunt for a truly pure, unadulterated version of this highly toxic poison.  * * *  **Activate** `pf2:1` Interact (Contact)  **Saving Throw** DC 17 Fortitude check  **Onset** 1 minute  **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage plus [[Conditions/Enfeebled|Enfeebled 1]] (1 round)  **Stage 2** 1d6 poison damage plus [[Conditions/Drained|Drained 1]] (1 round)  **Stage 3** 2d6 poison damage plus enfeebled 1 (1 round)"
+description: "The delicate process of extracting violet venom from a violet fungus
+  leaves it diluted at the best of times. Alchemists are still on the hunt for a truly
+  pure, unadulterated version of this highly toxic poison.  * * *  **Activate** `pf2:1`
+  Interact (Contact)  **Saving Throw** DC 17 Fortitude check  **Onset** 1 minute \
+  \ **Maximum Duration** 6 rounds  **Stage 1** 1d6 poison damage plus [[Conditions/Enfeebled|Enfeebled
+  1]] (1 round)  **Stage 2** 1d6 poison damage plus [[Conditions/Drained|Drained 1]]
+  (1 round)  **Stage 3** 2d6 poison damage plus enfeebled 1 (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

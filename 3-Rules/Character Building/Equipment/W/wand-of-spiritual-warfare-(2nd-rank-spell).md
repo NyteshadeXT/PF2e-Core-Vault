@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-spiritual-warfare-(2nd-rank-spell)"
 aliases: "Wand of Spiritual Warfare (2nd-Rank Spell)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "force"
 trait02: "magical"
 trait03: "wand"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This wand juts from an ornate hilt like a short, wooden dagger blade.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Spiritual Weapon|Spiritual Weapon]] at 2nd-rank. When you critically hit, you apply the weapon's critical specialization effect. In addition, you can etch one of the following property runes onto the wand: _corrosive_, _flaming_, _frost_, _shock_, _thundering_, or their respective greater versions. The _spiritual weapon's_ Strikes gain the effects of this rune.  * * *  **Craft Requirements** Supply a casting of spiritual weapon of 2nd-rank."
+description: "This wand juts from an ornate hilt like a short, wooden dagger blade.\
+  \  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge\
+  \  * * *  **Effect** You cast [[Spells/Spiritual Weapon|Spiritual Weapon]] at 2nd-rank.
+  When you critically hit, you apply the weapon's critical specialization effect.
+  In addition, you can etch one of the following property runes onto the wand: _corrosive_,
+  _flaming_, _frost_, _shock_, _thundering_, or their respective greater versions.
+  The _spiritual weapon's_ Strikes gain the effects of this rune.  * * *  **Craft
+  Requirements** Supply a casting of spiritual weapon of 2nd-rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

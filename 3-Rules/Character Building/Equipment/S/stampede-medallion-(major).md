@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stampede-medallion-(major)"
 aliases: "Stampede Medallion (Major)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "eidolon"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "When you invest this medallion for your eidolon, it changes shape to appear as a tiny bejeweled facsimile of the eidolon, magically attached just over your eidolon's heart. While your eidolon wears the medallion, they gain a +3 item bonus to Athletics checks to Shove or Trip.  * * *  **Activate** `pf2:2` envision  **Frequency** once per day  * * *  **Effect** Your eidolon Concentrates on the medallion and their connection to you, allowing them to momentarily manifest into a stampede of dozens of copies of themself. The stampede rampages out in every direction, swerving around your allies while trampling any foe on the ground in an emanation around your eidolon with a radius equal to your eidolon's Speed. Each of these foes takes 14d6 bludgeoning damage, with a DC 38 Reflex check save. On a critical failure, the foe is also knocked [[Conditions/Prone|Prone]]. After dealing damage, the stampede of eidolons vanishes as quickly as it appeared."
+description: "When you invest this medallion for your eidolon, it changes shape to
+  appear as a tiny bejeweled facsimile of the eidolon, magically attached just over
+  your eidolon's heart. While your eidolon wears the medallion, they gain a +3 item
+  bonus to Athletics checks to Shove or Trip.  * * *  **Activate** `pf2:2` envision\
+  \  **Frequency** once per day  * * *  **Effect** Your eidolon Concentrates on the
+  medallion and their connection to you, allowing them to momentarily manifest into
+  a stampede of dozens of copies of themself. The stampede rampages out in every direction,
+  swerving around your allies while trampling any foe on the ground in an emanation
+  around your eidolon with a radius equal to your eidolon's Speed. Each of these foes
+  takes 14d6 bludgeoning damage, with a DC 38 Reflex check save. On a critical failure,
+  the foe is also knocked [[Conditions/Prone|Prone]]. After dealing damage, the stampede
+  of eidolons vanishes as quickly as it appeared."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

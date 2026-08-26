@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thundercrasher"
 aliases: "Thundercrasher"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "concussive"
 trait02: "magical"
 trait03: "scatter-10"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "While looking straight down the barrel of this _+1 striking blunderbuss_, the spark gun's magical core is visible amid several reflectors. All damage dealt by a thundercrasher is sonic damage. On a critical hit, the target must succeed at a Fortitude save against your class DC or be [[Conditions/Deafened|Deafened]] for 1 minute.  **Activate** `pf2:2` Interact  **Frequency** once per hour  * * *  **Effect** You overload the _thundercrasher_ to emit chaotic sonic frequencies that soften earth and stone. When you next fire the _thundercrasher_ it also partially liquefies any natural earth or stone surfaces within range of its scatter trait, making the area difficult terrain."
+description: "While looking straight down the barrel of this _+1 striking blunderbuss_,
+  the spark gun's magical core is visible amid several reflectors. All damage dealt
+  by a thundercrasher is sonic damage. On a critical hit, the target must succeed
+  at a Fortitude save against your class DC or be [[Conditions/Deafened|Deafened]]
+  for 1 minute.  **Activate** `pf2:2` Interact  **Frequency** once per hour  * * *\
+  \  **Effect** You overload the _thundercrasher_ to emit chaotic sonic frequencies
+  that soften earth and stone. When you next fire the _thundercrasher_ it also partially
+  liquefies any natural earth or stone surfaces within range of its scatter trait,
+  making the area difficult terrain."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mindmurk-oil"
 aliases: "Mindmurk Oil"
 source: "Pathfinder Society Scenario #1-23: The Star-Crossed Court"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "ingested"
 trait04: "poison"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Often taken recreationally, mindmurk oil dulls the mind, creating a pleasant and euphoric stupor that inhibits the imbiber's decision-making skills and mental capacity.  * * *  **Saving Throw** DC 20 Fortitude check  **Onset** 30 minutes  **Maximum Duration** 1 hour  **Stage 1** [[Conditions/Stupefied|Stupefied 1]] (5 minutes)  **Stage 2** [[Conditions/Stupefied|Stupefied 2]] (5 minutes)  **Stage 3** [[Conditions/Stupefied|Stupefied 3]] (5 minutes)."
+description: "**Activate** `pf2:1` Interact  Often taken recreationally, mindmurk
+  oil dulls the mind, creating a pleasant and euphoric stupor that inhibits the imbiber's
+  decision-making skills and mental capacity.  * * *  **Saving Throw** DC 20 Fortitude
+  check  **Onset** 30 minutes  **Maximum Duration** 1 hour  **Stage 1** [[Conditions/Stupefied|Stupefied
+  1]] (5 minutes)  **Stage 2** [[Conditions/Stupefied|Stupefied 2]] (5 minutes)  **Stage
+  3** [[Conditions/Stupefied|Stupefied 3]] (5 minutes)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sky-hammer"
 aliases: "Sky Hammer"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "shove"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "The sturdy head of this _+3 major striking [[Equipment/Flaming|Flaming]] [[Equipment/Shock|Shock]] orichalcum warhammer_ is shaped like a blazing comet.  **Activate—Comet Fall** `pf2:r` (concentration)  **Trigger** Your attack roll with the _sky hammer_ is a critical success  * * *  **Effect** A 6th-rank arcane [[Spells/Fireball|Fireball]] spell explodes, centered on the _sky hammer_. The spell DC is 45. You are immune to the _fireball's_ effect, though your allies are not.  * * *  **Craft Requirements** Supply a casting of _fireball_ (6th rank), and the initial raw materials must include 12,375 gp of orichalcum."
+description: "The sturdy head of this _+3 major striking [[Equipment/Flaming|Flaming]]
+  [[Equipment/Shock|Shock]] orichalcum warhammer_ is shaped like a blazing comet.\
+  \  **Activate—Comet Fall** `pf2:r` (concentration)  **Trigger** Your attack roll
+  with the _sky hammer_ is a critical success  * * *  **Effect** A 6th-rank arcane
+  [[Spells/Fireball|Fireball]] spell explodes, centered on the _sky hammer_. The spell
+  DC is 45. You are immune to the _fireball's_ effect, though your allies are not.\
+  \  * * *  **Craft Requirements** Supply a casting of _fireball_ (6th rank), and
+  the initial raw materials must include 12,375 gp of orichalcum."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 4d8 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rending-gauntlets-(lesser)"
 aliases: "Rending Gauntlets (Lesser)"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "wornbracers"
 license: "ORC"
 identify:
-description: "These heavy gloves are reinforced with thick animal hide and sharpened bone.  **Activate—Shredding Finisher** `pf2:1` (manipulate)  **Frequency** once per hour  **Requirements** You hit the same creature with two unarmed Strikes in the same round  * * *  **Effect** The gauntlets' spikes dig into the creature just before you tear them free, dealing 2d6 piercing damage."
+description: "These heavy gloves are reinforced with thick animal hide and sharpened
+  bone.  **Activate—Shredding Finisher** `pf2:1` (manipulate)  **Frequency** once
+  per hour  **Requirements** You hit the same creature with two unarmed Strikes in
+  the same round  * * *  **Effect** The gauntlets' spikes dig into the creature just
+  before you tear them free, dealing 2d6 piercing damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "servers-stew"
 aliases: "Server's Stew"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  The type of animal tongue used in this tomato-based stew shifts from region to region, but it's always cooked with spirit of wine and seasoned with [[Equipment/Refined Pesh|Refined Pesh]]. Eating this restaurant-staff favorite empowers you to speak and understand a single language for 1 hour. This must be a language the stew's cook could speak and understand, chosen at the time of the stew's creation. It also helps your words land smoothly, granting you a +2 item bonus to Diplomacy checks made in that language for the same duration. It doesn't allow you to read the newly acquired language in its written form.  [[Equipment Effects/Effect_ Server's Stew|Effect: Server's Stew]]"
+description: "**Activate** `pf2:1` Interact  * * *  The type of animal tongue used
+  in this tomato-based stew shifts from region to region, but it's always cooked with
+  spirit of wine and seasoned with [[Equipment/Refined Pesh|Refined Pesh]]. Eating
+  this restaurant-staff favorite empowers you to speak and understand a single language
+  for 1 hour. This must be a language the stew's cook could speak and understand,
+  chosen at the time of the stew's creation. It also helps your words land smoothly,
+  granting you a +2 item bonus to Diplomacy checks made in that language for the same
+  duration. It doesn't allow you to read the newly acquired language in its written
+  form.  [[Equipment Effects/Effect_ Server's Stew|Effect: Server's Stew]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

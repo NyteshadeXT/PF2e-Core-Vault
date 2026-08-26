@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sparking-spellgun-(moderate)"
 aliases: "Sparking Spellgun (Moderate)"
@@ -17,19 +17,28 @@ trait02: "consumable"
 trait03: "fire"
 trait04: "magical"
 trait05: "spellgun"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "150"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact, Strike  * * *  A broad wooden tube with a handle, a _sparking spellgun_ radiates warmth. You Activate the spellgun by aiming it at one creature and making your choice of a spell attack roll or a firearm attack roll against the target's AC. This spellgun has a range increment of 30 feet. The spellgun fires a small ball of sparks and fire, then crumbles to ash. The ball explodes in a flash when it hits, dealing 7d6 fire damage and 3d4 persistent fire damage.  * * *  **Critical Success** The target takes double damage, takes double persistent damage, is [[Conditions/Blinded|Blinded]] for 1 round, and is [[Conditions/Dazzled|Dazzled]] while the persistent damage lasts.  **Success** The target takes full damage, full persistent damage, and is dazzled while the persistent damage lasts."
+description: "**Activate** `pf2:2` Interact, Strike  * * *  A broad wooden tube with
+  a handle, a _sparking spellgun_ radiates warmth. You Activate the spellgun by aiming
+  it at one creature and making your choice of a spell attack roll or a firearm attack
+  roll against the target's AC. This spellgun has a range increment of 30 feet. The
+  spellgun fires a small ball of sparks and fire, then crumbles to ash. The ball explodes
+  in a flash when it hits, dealing 7d6 fire damage and 3d4 persistent fire damage.\
+  \  * * *  **Critical Success** The target takes double damage, takes double persistent
+  damage, is [[Conditions/Blinded|Blinded]] for 1 round, and is [[Conditions/Dazzled|Dazzled]]
+  while the persistent damage lasts.  **Success** The target takes full damage, full
+  persistent damage, and is dazzled while the persistent damage lasts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

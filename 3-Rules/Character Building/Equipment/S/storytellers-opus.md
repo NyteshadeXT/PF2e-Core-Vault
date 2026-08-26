@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "storytellers-opus"
 aliases: "Storyteller's Opus"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "grimoire"
 trait02: "illusion"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This green spellbook with gold trim contains a cautionary story about a boy who was eaten by a wolf after he previously lied about wolf attacks. When opened, the engravings on the front seem to move in a loop, enacting this story.  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** A creature succeeds, but doesn't critically succeed, at a Perception check to disbelieve an illusion spell you prepared from this grimoire  * * *  **Effect** You quickly tell a fib to try to smooth over the inconsistencies in your illusion. Attempt a Deception check against the triggering creature's Perception DC. If you succeed, the creature doesn't disbelieve the illusion."
+description: "This green spellbook with gold trim contains a cautionary story about
+  a boy who was eaten by a wolf after he previously lied about wolf attacks. When
+  opened, the engravings on the front seem to move in a loop, enacting this story.\
+  \  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger**
+  A creature succeeds, but doesn't critically succeed, at a Perception check to disbelieve
+  an illusion spell you prepared from this grimoire  * * *  **Effect** You quickly
+  tell a fib to try to smooth over the inconsistencies in your illusion. Attempt a
+  Deception check against the triggering creature's Perception DC. If you succeed,
+  the creature doesn't disbelieve the illusion."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

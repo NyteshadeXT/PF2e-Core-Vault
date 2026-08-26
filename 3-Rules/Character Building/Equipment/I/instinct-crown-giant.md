@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "instinct-crown-giant"
 aliases: "Instinct Crown (Giant)"
@@ -14,7 +14,7 @@ pg: "152"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "An _instinct crown_ is a magical headpiece imbued with the essence of instincts that barbarians draw upon in combat. Each crown is fashioned to represent the instinct it's tied to, such as a wolf's head for an animal instinct crown or a simple helmet with Jotun runes for a _giant instinct crown_. When worn, the crown allows you to tap further into your instincts, granting you even greater benefits if the crown's essence matches your instinct. You must be able to Rage to use the crown's activations."
+description: "An _instinct crown_ is a magical headpiece imbued with the essence of
+  instincts that barbarians draw upon in combat. Each crown is fashioned to represent
+  the instinct it's tied to, such as a wolf's head for an animal instinct crown or
+  a simple helmet with Jotun runes for a _giant instinct crown_. When worn, the crown
+  allows you to tap further into your instincts, granting you even greater benefits
+  if the crown's essence matches your instinct. You must be able to Rage to use the
+  crown's activations."
 powerTitle1: "Effect"
 actionEconomy1: "`pf2:0`"
 type1: "([[envision]])"
@@ -41,15 +47,21 @@ actionEconomy2: "pf2:2`"
 type2: "([[command]], [[envision]])"
 frequency2: "once per day"
 trigger2:
-mechanics2: "You Rage and draw upon your instinct to gain a boon. If you have the space to do so and aren't already, you become Large. Your equipment grows with you but returns to its natural size if removed. Increase your reach by 5 feet (or by 10 feet if you were Tiny). You deal 2 additional when using your larger weapon. Also, when you Stride along the ground, you can shatter the earth with your footfalls, and any squares you move through become difficult terrain. You ignore the difficult terrain you create. The ground reverts to normal when your rage ends."
+mechanics2: "You Rage and draw upon your instinct to gain a boon. If you have the
+  space to do so and aren't already, you become Large. Your equipment grows with you
+  but returns to its natural size if removed. Increase your reach by 5 feet (or by
+  10 feet if you were Tiny). You deal 2 additional when using your larger weapon.
+  Also, when you Stride along the ground, you can shatter the earth with your footfalls,
+  and any squares you move through become difficult terrain. You ignore the difficult
+  terrain you create. The ground reverts to normal when your rage ends."
 craft:
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +88,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

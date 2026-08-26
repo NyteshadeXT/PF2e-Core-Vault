@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "polished-demon-horn-(greater)"
 aliases: "Polished Demon Horn (Greater)"
 source: "Pathfinder #188: They Watched the Stars"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "divine"
 trait02: "spellheart"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,23 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "450"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "This spellheart is fashioned from the tip of a demon's horn that's been polished until smooth and shiny. The spell DC of any spell cast by Activating this item is 24.  *   **Armor** You gain resistance 5 to unholy. *   **Weapon** After you cast an enchantment spell by Activating the _horn_, your Strikes with the weapon deal an additional 1d6 mental damage until end of your next turn.  [[Equipment Effects/Effect_ Polished Demon Horn - Armor|Effect: Polished Demon Horn - Armor]]  [[Equipment Effects/Effect_ Polished Demon Horn - Weapon|Effect: Polished Demon Horn - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Daze|Daze]] (DC 24 Will check).  * * *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 3rd-rank [[Spells/Fear|Fear]] (DC 24 Will check)."
+description: "This spellheart is fashioned from the tip of a demon's horn that's been
+  polished until smooth and shiny. The spell DC of any spell cast by Activating this
+  item is 24.  *   **Armor** You gain resistance 5 to unholy. *   **Weapon** After
+  you cast an enchantment spell by Activating the _horn_, your Strikes with the weapon
+  deal an additional 1d6 mental damage until end of your next turn.  [[Equipment Effects/Effect_
+  Polished Demon Horn - Armor|Effect: Polished Demon Horn - Armor]]  [[Equipment Effects/Effect_
+  Polished Demon Horn - Weapon|Effect: Polished Demon Horn - Weapon]]  * * *  **Activate**
+  Cast a Spell  **Effect** You cast [[Spells/Daze|Daze]] (DC 24 Will check).  * *
+  *  **Activate** Cast a Spell  **Frequency** once per day  **Effect** You cast 3rd-rank
+  [[Spells/Fear|Fear]] (DC 24 Will check)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

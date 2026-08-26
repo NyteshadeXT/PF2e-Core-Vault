@@ -671,7 +671,7 @@ A carefully-hidden swiveling wall section in the northwest corner can be discove
 > [!danger]+ Trap
 > A glyph of warding-blast guards the upper landing of this secret staircase.
 > 
-> [[glyph-of-warding-blast-hb|Glyph of Warding (Blast)]]
+> [[glyph-of-warding-blast|Glyph of Warding (Blast)]]
 
 #### 9. Combustibles Storage
 > [!note]+ Read Aloud

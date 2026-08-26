@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "bloodletting-kukri"
 aliases: "Bloodletting Kukri"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "finesse"
 trait03: "magical"
 trait04: "trip"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -30,7 +30,11 @@ usage: "held in one hand "
 license: "ORC"
 identify:
 group: "Knife"
-description: "This _[[Weapon Potency (+1)|+1]] [[striking]] [[kukri]]_ has a crimson blade that shimmers eerily in bright light. On a critical hit, the kukri deals `dice: 1d8` 1d8 persistent bleed damage. If the target didn't already have persistent bleed damage when you scored the critical hit, you also gain `dice: 1d8` 1d8 temporary Hit Points for 1 minute."
+description: "This _[[Weapon Potency (+1)|+1]] [[striking]] [[kukri]]_ has a crimson
+  blade that shimmers eerily in bright light. On a critical hit, the kukri deals `dice:
+  1d8` 1d8 persistent bleed damage. If the target didn't already have persistent bleed
+  damage when you scored the critical hit, you also gain `dice: 1d8` 1d8 temporary
+  Hit Points for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -48,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage:  
+damage:
 dmg1: 2d6
 dmg1Type: slashing
 dmg2:
@@ -77,9 +81,7 @@ conditionImmunity:
 #========================================================#
 weaponBase: "Kukri"
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

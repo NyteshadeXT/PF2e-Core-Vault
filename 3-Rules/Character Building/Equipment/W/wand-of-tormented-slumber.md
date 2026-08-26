@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-tormented-slumber"
 aliases: "Wand of Tormented Slumber"
@@ -16,7 +16,7 @@ trait01: "magical"
 trait02: "mental"
 trait03: "sleep"
 trait04: "wand"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The carved talon of an unidentifiable beast comprises this wand. Blood-stained cloth wraps the thicker part of the talon, which acts as a handle.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 4th-rank [[Spells/Sleep|Sleep]], but the slumbering creatures have terrifying nightmares. A creature knocked [[Conditions/Unconscious|Unconscious]] by this spell takes 1d6 persistent mental. This damage wakes the creature from unconsciousness only if it deals 4 or more damage on a single roll. If the creature awakens from its unconsciousness due to damage (whether it was the persistent mental damage or not), it's [[Conditions/Frightened|Frightened 1]]. If it awakens from damage on its own turn, the creature doesn't reduce its frightened condition automatically on that turn.  * * *  **Craft Requirements** Supply a casting of 4th-rank [[Spells/Sleep|Sleep]]."
+description: "The carved talon of an unidentifiable beast comprises this wand. Blood-stained
+  cloth wraps the thicker part of the talon, which acts as a handle.  **Activate**
+  Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You
+  cast 4th-rank [[Spells/Sleep|Sleep]], but the slumbering creatures have terrifying
+  nightmares. A creature knocked [[Conditions/Unconscious|Unconscious]] by this spell
+  takes 1d6 persistent mental. This damage wakes the creature from unconsciousness
+  only if it deals 4 or more damage on a single roll. If the creature awakens from
+  its unconsciousness due to damage (whether it was the persistent mental damage or
+  not), it's [[Conditions/Frightened|Frightened 1]]. If it awakens from damage on
+  its own turn, the creature doesn't reduce its frightened condition automatically
+  on that turn.  * * *  **Craft Requirements** Supply a casting of 4th-rank [[Spells/Sleep|Sleep]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

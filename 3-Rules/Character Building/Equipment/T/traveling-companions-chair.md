@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "traveling-companions-chair"
 aliases: "Traveling Companion's Chair"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "barding"
 trait02: "companion"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This more robust assembly is well suited for longer travel and all manner of adventuring. As with the traveler's chair, small mechanisms built into the wheels and support struts allow the user to traverse up and down stairs without any additional difficulty (though moving up stairs is still difficult terrain, just like for other adventurers) and move without additional difficulty through ladders, uneven ground, and other common adventuring terrain."
+description: "This more robust assembly is well suited for longer travel and all manner
+  of adventuring. As with the traveler's chair, small mechanisms built into the wheels
+  and support struts allow the user to traverse up and down stairs without any additional
+  difficulty (though moving up stairs is still difficult terrain, just like for other
+  adventurers) and move without additional difficulty through ladders, uneven ground,
+  and other common adventuring terrain."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "messengers-ring-(greater)"
 aliases: "Messenger's Ring (Greater)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,23 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 17
-weight: 
+weight:
 value: "13500"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This silver signet ring changes to match the insignia of a lord or organization you serve (or your own face, if you serve no one else). It grants you a +3 item bonus to Diplomacy checks and lets you cast [[Spells/Message|Message]] as an arcane innate spell at will.  * * *  **Activate—Dispatch Messenger** 1 minute (concentrate)  **Frequency** once per day  * * *  **Effect** The ring casts [[Spells/Animal Messenger|Animal Messenger]] to your specification. The animal is a magical creature that springs from the ring, and its appearance suits the iconography or heraldry of the lord or organization represented by the ring.  * * *  **Activate—Sending** `pf2:3` command  **Frequency** once per hour  * * *  **Effect** The ring casts [[Spells/Sending|Sending]] to your specifications."
+description: "This silver signet ring changes to match the insignia of a lord or organization
+  you serve (or your own face, if you serve no one else). It grants you a +3 item
+  bonus to Diplomacy checks and lets you cast [[Spells/Message|Message]] as an arcane
+  innate spell at will.  * * *  **Activate—Dispatch Messenger** 1 minute (concentrate)\
+  \  **Frequency** once per day  * * *  **Effect** The ring casts [[Spells/Animal
+  Messenger|Animal Messenger]] to your specification. The animal is a magical creature
+  that springs from the ring, and its appearance suits the iconography or heraldry
+  of the lord or organization represented by the ring.  * * *  **Activate—Sending**
+  `pf2:3` command  **Frequency** once per hour  * * *  **Effect** The ring casts [[Spells/Sending|Sending]]
+  to your specifications."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

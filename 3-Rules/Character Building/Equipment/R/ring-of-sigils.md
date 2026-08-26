@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-sigils"
 aliases: "Ring of Sigils"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "arcane"
 trait02: "invested"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "20"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This silver band is carved with the personal sigils of different individuals, adding one to represent you when you invest it. The ring allows you to cast [[Spells/Sigil|Sigil]] as an arcane innate cantrip.  * * *  **Activate—Track Sigil** `pf2:1` (concentrate, detection)  **Frequency** once per 10 minutes  **Effect** You detect the general direction toward the most recent _sigil_ you created using the ring. This activation fails if the _sigil_ is more than 5 miles away or if there's lead or running water between you and the _sigil_."
+description: "This silver band is carved with the personal sigils of different individuals,
+  adding one to represent you when you invest it. The ring allows you to cast [[Spells/Sigil|Sigil]]
+  as an arcane innate cantrip.  * * *  **Activate—Track Sigil** `pf2:1` (concentrate,
+  detection)  **Frequency** once per 10 minutes  **Effect** You detect the general
+  direction toward the most recent _sigil_ you created using the ring. This activation
+  fails if the _sigil_ is more than 5 miles away or if there's lead or running water
+  between you and the _sigil_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

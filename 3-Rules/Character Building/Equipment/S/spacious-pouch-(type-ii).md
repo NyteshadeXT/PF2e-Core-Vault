@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spacious-pouch-(type-ii)"
 aliases: "Spacious Pouch (Type II)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "extradimensional"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,21 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "Though it appears to be a cloth bag decorated with panels of richly colored silk or stylish embroidery, a _spacious pouch_ opens into a magical space larger than its outside dimensions. The Bulk held inside the bag doesn't change the Bulk of the _spacious pouch_ itself. The amount of Bulk the bag's extradimensional space can hold depends on its type.  You can Interact with the _spacious pouch_ to stow items in it or remove them just like a mundane sack. Though the bag can hold a great amount of material, an object still needs to be able to fit through the opening of the sack to be stored inside.  If the bag is overloaded or broken, it ruptures and is ruined, causing the items inside to be lost forever. If it's turned inside out, the items inside spill out unharmed, but the bag must be put right before it can be used again. A living creature placed inside the bag has enough air for 10 minutes before it begins to suffocate, and it can attempt to Escape against a DC of 13. An item inside the bag provides no benefits unless it's retrieved first. An item in the bag can't be detected by magic that detects only things on the same plane.  * * *  **Capacity** 50 Bulk"
+description: "Though it appears to be a cloth bag decorated with panels of richly
+  colored silk or stylish embroidery, a _spacious pouch_ opens into a magical space
+  larger than its outside dimensions. The Bulk held inside the bag doesn't change
+  the Bulk of the _spacious pouch_ itself. The amount of Bulk the bag's extradimensional
+  space can hold depends on its type.  You can Interact with the _spacious pouch_
+  to stow items in it or remove them just like a mundane sack. Though the bag can
+  hold a great amount of material, an object still needs to be able to fit through
+  the opening of the sack to be stored inside.  If the bag is overloaded or broken,
+  it ruptures and is ruined, causing the items inside to be lost forever. If it's
+  turned inside out, the items inside spill out unharmed, but the bag must be put
+  right before it can be used again. A living creature placed inside the bag has enough
+  air for 10 minutes before it begins to suffocate, and it can attempt to Escape against
+  a DC of 13. An item inside the bag provides no benefits unless it's retrieved first.
+  An item in the bag can't be detected by magic that detects only things on the same
+  plane.  * * *  **Capacity** 50 Bulk"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +61,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +90,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

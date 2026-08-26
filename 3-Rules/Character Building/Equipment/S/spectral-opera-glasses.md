@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spectral-opera-glasses"
 aliases: "Spectral Opera Glasses"
 source: "Pathfinder #185: A Taste of Ashes"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "These bulky opera glasses are attached to a rod for ease of use. When held up to the eyes, which requires a free hand, you can see up to four times further than normal, and the glasses provide you a +2 item bonus to Perception checks.  **Activate** `pf2:1` Interact, envision  **Frequency** once per day  * * *  **Effect** For 1 hour, anyone who looks through the glasses can see [[Conditions/Invisible|Invisible]] creatures and objects, and sees creatures with the spirit trait as solid and substantial (rather than ghostly)."
+description: "These bulky opera glasses are attached to a rod for ease of use. When
+  held up to the eyes, which requires a free hand, you can see up to four times further
+  than normal, and the glasses provide you a +2 item bonus to Perception checks. \
+  \ **Activate** `pf2:1` Interact, envision  **Frequency** once per day  * * *  **Effect**
+  For 1 hour, anyone who looks through the glasses can see [[Conditions/Invisible|Invisible]]
+  creatures and objects, and sees creatures with the spirit trait as solid and substantial
+  (rather than ghostly)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "orb-shard"
 aliases: "Orb Shard"
 source: "Pathfinder #150: Broken Promises"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "agile"
 trait02: "artifact"
 trait03: "finesse"
 trait04: "magical"
 trait05: "versatile-s"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A shard of the _Orb of Gold Dragonkind_ resembles a pointed length of crystal about the size and shape of a shortsword without a hilt. It functions as a _+3 striking shortsword_ that deals 2d6 extra damage to dragons.  Each _orb shard_ within 60 feet of the _flawed orb of Gold Dragonkind_ increases the save DC against the orb by 1; thus, if all 13 remaining _orb shards_ are in this area, the save DC against the flawed orb increases from DC 30 to DC 43. A talented spellcaster or crafter can integrate an _orb shard_ back into the flawed orb to make this DC increase permanent.  **Destruction** An _orb shard_ is extraordinarily resilient, but it can be damaged or even destroyed by mundane attacks (Hardness 40, HP 50, BT 25). It has weakness 30 to the Breath Weapons and Strikes of gold dragons."
+description: "A shard of the _Orb of Gold Dragonkind_ resembles a pointed length of
+  crystal about the size and shape of a shortsword without a hilt. It functions as
+  a _+3 striking shortsword_ that deals 2d6 extra damage to dragons.  Each _orb shard_
+  within 60 feet of the _flawed orb of Gold Dragonkind_ increases the save DC against
+  the orb by 1; thus, if all 13 remaining _orb shards_ are in this area, the save
+  DC against the flawed orb increases from DC 30 to DC 43. A talented spellcaster
+  or crafter can integrate an _orb shard_ back into the flawed orb to make this DC
+  increase permanent.  **Destruction** An _orb shard_ is extraordinarily resilient,
+  but it can be damaged or even destroyed by mundane attacks (Hardness 40, HP 50,
+  BT 25). It has weakness 30 to the Breath Weapons and Strikes of gold dragons."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d6 piercing
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

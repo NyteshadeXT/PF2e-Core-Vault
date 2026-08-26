@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "matchmaker-fulu"
 aliases: "Matchmaker Fulu"
@@ -17,19 +17,23 @@ trait02: "fortune"
 trait03: "fulu"
 trait04: "magical"
 trait05: "talisman"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger** You attempt a Diplomacy check to Make an Impression.  * * *  This red fulu contains blessings for one's relationship from Shelyn, goddess of beauty and love. You get a +2 status bonus to the Diplomacy check, and if you roll a critical failure on the check, you get a failure instead."
+description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger**
+  You attempt a Diplomacy check to Make an Impression.  * * *  This red fulu contains
+  blessings for one's relationship from Shelyn, goddess of beauty and love. You get
+  a +2 status bonus to the Diplomacy check, and if you roll a critical failure on
+  the check, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

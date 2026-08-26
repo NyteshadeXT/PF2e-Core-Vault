@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-touch"
 aliases: "Ghost Touch"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "75"
 subvalue: "gp"
 invest:
 usage: "etched onto a weapon"
 license: "ORC"
 identify:
-description: "A weapon etched with this rune can harm creatures without physical form. A _ghost touch_ weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to _ghost touch_ weapons.  Incorporeal creatures can touch, hold, and wield _ghost touch_ weapons (unlike most physical objects)."
+description: "A weapon etched with this rune can harm creatures without physical form.
+  A _ghost touch_ weapon is particularly effective against incorporeal creatures,
+  which almost always have a specific vulnerability to _ghost touch_ weapons.  Incorporeal
+  creatures can touch, hold, and wield _ghost touch_ weapons (unlike most physical
+  objects)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "snowcasters-staff"
 aliases: "Snowcaster's Staff"
 source: "Pathfinder #210: Whispers in the Dirt"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "monk"
 trait03: "staff"
 trait04: "two-hand-d8"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This _+2 striking frost staff_ is an heirloom that was gifted to Alzarius by his mother when he made his choice to remain in Xer. It is a gift he claims has been handed down through generations of spellcasters in his family.  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Frostbite|Frostbite]] *   **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Resist Energy|Resist Energy]] *   **3rd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Slow|Slow]], [[Spells/Wall of Wind|Wall of Wind]] *   **4th** [[Spells/Ice Storm|Ice Storm]], [[Spells/Resist Energy|Resist Energy]], [[Spells/Vapor Form|Vapor Form]] *   **5th** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Howling Blizzard|Howling Blizzard]], [[Spells/Wall of Ice|Wall of Ice]]  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed spells."
+description: "This _+2 striking frost staff_ is an heirloom that was gifted to Alzarius
+  by his mother when he made his choice to remain in Xer. It is a gift he claims has
+  been handed down through generations of spellcasters in his family.  **Activate**
+  Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to
+  cast a spell from its list.  *   **Cantrip** [[Spells/Frostbite|Frostbite]] *  \
+  \ **2nd** [[Spells/Environmental Endurance|Environmental Endurance]], [[Spells/Resist
+  Energy|Resist Energy]] *   **3rd** [[Spells/Environmental Endurance|Environmental
+  Endurance]], [[Spells/Slow|Slow]], [[Spells/Wall of Wind|Wall of Wind]] *   **4th**
+  [[Spells/Ice Storm|Ice Storm]], [[Spells/Resist Energy|Resist Energy]], [[Spells/Vapor
+  Form|Vapor Form]] *   **5th** [[Spells/Environmental Endurance|Environmental Endurance]],
+  [[Spells/Howling Blizzard|Howling Blizzard]], [[Spells/Wall of Ice|Wall of Ice]]\
+  \  * * *  **Craft Requirements** Supply one casting of all listed ranks of all listed
+  spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +59,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 bludgeoning
 dmg1:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "potion-of-minute-echoes"
 aliases: "Potion of Minute Echoes"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  No matter how carefully you open this bottle, it always lets out an audible, echoing pop. For 1 minute after drinking this potion, you gain a +2 status bonus to Perception checks to hear. In addition, each time you Seek, your hearing becomes a precise sense until the beginning of your next turn, allowing you to pinpoint creatures' locations and otherwise perceive the world in detail by listening to the sound of echoes.  [[Equipment Effects/Effect_ Potion of Minute Echoes|Effect: Potion of Minute Echoes]]"
+description: "**Activate** `pf2:1` Interact  * * *  No matter how carefully you open
+  this bottle, it always lets out an audible, echoing pop. For 1 minute after drinking
+  this potion, you gain a +2 status bonus to Perception checks to hear. In addition,
+  each time you Seek, your hearing becomes a precise sense until the beginning of
+  your next turn, allowing you to pinpoint creatures' locations and otherwise perceive
+  the world in detail by listening to the sound of echoes.  [[Equipment Effects/Effect_
+  Potion of Minute Echoes|Effect: Potion of Minute Echoes]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

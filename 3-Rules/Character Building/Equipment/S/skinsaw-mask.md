@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "skinsaw-mask"
 aliases: "Skinsaw Mask"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "divine"
 trait02: "invested"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,15 @@ invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "A patchwork of humanoid flesh makes up a _skinsaw mask_, which is stitched together with black silk or wire. It is distinctive for its bulbous orange eye- crafted from a magical glass bauble-and wide row of teeth. When worn, the mask amplifies your ability to sense fear in other creatures. You know the value of the [[Conditions/Frightened|Frightened]] condition of any [[Conditions/Observed|Observed]] creature, and you gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] frightened creatures. Whenever you deal precision damage to a frightened creature, you deal 1 additional precision damage. If you are not evil, you are [[Conditions/Drained|Drained 2]] while wearing the _skinsaw mask_."
+description: "A patchwork of humanoid flesh makes up a _skinsaw mask_, which is stitched
+  together with black silk or wire. It is distinctive for its bulbous orange eye-
+  crafted from a magical glass bauble-and wide row of teeth. When worn, the mask amplifies
+  your ability to sense fear in other creatures. You know the value of the [[Conditions/Frightened|Frightened]]
+  condition of any [[Conditions/Observed|Observed]] creature, and you gain a +1 item
+  bonus to Perception checks to [[Actions/Seek|Seek]] frightened creatures. Whenever
+  you deal precision damage to a frightened creature, you deal 1 additional precision
+  damage. If you are not evil, you are [[Conditions/Drained|Drained 2]] while wearing
+  the _skinsaw mask_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

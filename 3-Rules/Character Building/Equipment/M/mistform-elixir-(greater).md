@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mistform-elixir-(greater)"
 aliases: "Mistform Elixir (Greater)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "illusion"
 trait05: "visual"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A faint mist emanates from your skin, making you [[Conditions/Concealed|Concealed]] for 5 minutes.  As usual being concealed when your position is still obvious, you can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]."
+description: "**Activate** `pf2:1` (manipulate)  * * *  A faint mist emanates from
+  your skin, making you [[Conditions/Concealed|Concealed]] for 5 minutes.  As usual
+  being concealed when your position is still obvious, you can't use this concealment
+  to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "roaring-potion-(moderate)"
 aliases: "Roaring Potion (Moderate)"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
 trait04: "sonic"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Ripples move constantly through a roaring potion, a cloudy liquid that growls when you open its container. Drinking it gives you access to two other activations for 1 hour.  * * *  **Activate** `pf2:1` envision  **Effect** You gain the effects of a 5th-rank [[Spells/Bullhorn|Bullhorn]] spell. You can Dismiss the activation.  * * *  **Activate** `pf2:1` envision  **Frequency** once every 1d4 rounds  **Effect** You emit a scream in a 15-foot cone that deals 6d4 sonic. Each creature in the area can attempt a DC 30 Fortitude check saving throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened 1]].  **Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened 2]]."
+description: "**Activate** `pf2:1` Interact  Ripples move constantly through a roaring
+  potion, a cloudy liquid that growls when you open its container. Drinking it gives
+  you access to two other activations for 1 hour.  * * *  **Activate** `pf2:1` envision\
+  \  **Effect** You gain the effects of a 5th-rank [[Spells/Bullhorn|Bullhorn]] spell.
+  You can Dismiss the activation.  * * *  **Activate** `pf2:1` envision  **Frequency**
+  once every 1d4 rounds  **Effect** You emit a scream in a 15-foot cone that deals
+  6d4 sonic. Each creature in the area can attempt a DC 30 Fortitude check saving
+  throw.  * * *  **Critical Success** The creature is unaffected.  **Success** The
+  creature takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Frightened|Frightened
+  1]].  **Critical Failure** The creature takes double damage and is [[Conditions/Frightened|Frightened
+  2]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

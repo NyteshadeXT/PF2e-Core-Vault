@@ -2,34 +2,39 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thoughtwhip-claw"
 aliases: "Thoughtwhip Claw"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1350"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Abraxas teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to Thievery checks.  **Activate** `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** Abraxas reaches through your hands and creates threads to yank thoughts from the mind of another. The thoughtwhip claw casts [[Spells/Mind Probe|Mind Probe]] on a creature within range, with a DC of 28."
+description: "Abraxas teaches that minds can be robbed as surely as pockets. This
+  tattoo of a clenched fist provides a +2 item bonus to Thievery checks.  **Activate**
+  `pf2:2` command, envision  **Frequency** once per day  * * *  **Effect** Abraxas
+  reaches through your hands and creates threads to yank thoughts from the mind of
+  another. The thoughtwhip claw casts [[Spells/Mind Probe|Mind Probe]] on a creature
+  within range, with a DC of 28."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

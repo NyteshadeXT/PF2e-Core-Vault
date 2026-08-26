@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "necrotic-bomb-(lesser)"
 aliases: "Necrotic Bomb (Lesser)"
@@ -17,7 +17,7 @@ trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
 trait05: "void"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Necrotic bombs combine reagents most people consider disgusting at best and unholy at worst, creating a life-sucking miasma upon contact with air. A necrotic bomb deals the listed void damage and splash damage, and it sickens the primary target on a critical hit. This damage harms only living creatures.  * * *  The bomb deals 1d6 void damage and 1 void splash damage. On a critical hit, the target is [[Conditions/Sickened|Sickened 1]]."
+description: "**Activate** `pf2:1` Strike  * * *  Necrotic bombs combine reagents
+  most people consider disgusting at best and unholy at worst, creating a life-sucking
+  miasma upon contact with air. A necrotic bomb deals the listed void damage and splash
+  damage, and it sickens the primary target on a critical hit. This damage harms only
+  living creatures.  * * *  The bomb deals 1d6 void damage and 1 void splash damage.
+  On a critical hit, the target is [[Conditions/Sickened|Sickened 1]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-reaching-(7th-level)"
 aliases: "Wand of Reaching (7th-level)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This long, slender wand is constructed of silver, polished to a mirror shine.  **Activate** Cast a Spell; This activation takes `pf2:2` if the spell normally takes `pf2:1` to cast, or `pf2:3` if the spell normally takes `pf2:2`  **Frequency** once per day, plus overcharge  * * *  **Effect** You Cast the Spell. Its range increases by 30 feet. As normal for increasing ranges, if the spell normally has a range of touch, its range extends to 30 feet.  * * *  **Craft Requirements** Supply a casting of a spell of the appropriate rank. The spell must have a casting time of `pf2:1` or `pf2:2`, and must have a range."
+description: "This long, slender wand is constructed of silver, polished to a mirror
+  shine.  **Activate** Cast a Spell; This activation takes `pf2:2` if the spell normally
+  takes `pf2:1` to cast, or `pf2:3` if the spell normally takes `pf2:2`  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You Cast the Spell. Its range increases
+  by 30 feet. As normal for increasing ranges, if the spell normally has a range of
+  touch, its range extends to 30 feet.  * * *  **Craft Requirements** Supply a casting
+  of a spell of the appropriate rank. The spell must have a casting time of `pf2:1`
+  or `pf2:2`, and must have a range."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

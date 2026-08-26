@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pistol-wand"
 aliases: "Pistol Wand"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "concussive"
 trait02: "fatal-d8"
 trait03: "magical"
 trait04: "wand"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Used by gunwitches who want a bit more power each day, a _pistol wand_ is a firearm that also contains an [[Spells/Enfeeble|Enfeeble]] spell that can be cast using the same rules as a wand. Many other variants exist with different 1st-rank spells. This _+1 flintlock pistol_ has a [[Equipment/Reinforced Stock|Reinforced Stock]] permanently attached to it, and the pistol's _potency rune_ (and any other runes) applies to Strikes with the stock as well.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast _enfeeble_."
+description: "Used by gunwitches who want a bit more power each day, a _pistol wand_
+  is a firearm that also contains an [[Spells/Enfeeble|Enfeeble]] spell that can be
+  cast using the same rules as a wand. Many other variants exist with different 1st-rank
+  spells. This _+1 flintlock pistol_ has a [[Equipment/Reinforced Stock|Reinforced
+  Stock]] permanently attached to it, and the pistol's _potency rune_ (and any other
+  runes) applies to Strikes with the stock as well.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You cast _enfeeble_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

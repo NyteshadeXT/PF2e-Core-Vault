@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-minor-arcana"
 aliases: "Ring of Minor Arcana"
 source: "Pathfinder Adventure: The Fall of Plaguestone"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "arcane"
 trait02: "invested"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,19 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "160"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This rose-gold ring is adorned in the center by a somewhat ominous-looking horned skull. This ring gives you the power to cast the following innate arcane cantrips any number of times each day: [[Spells/Detect Magic|Detect Magic]], [[Spells/Telekinetic Hand|Telekinetic Hand]], and [[Spells/Prestidigitation|Prestidigitation]]. Each is cast as a 1st-rank spell. If you are an arcane spellcaster, these can instead be heightened to the rank of your cantrips."
+description: "This rose-gold ring is adorned in the center by a somewhat ominous-looking
+  horned skull. This ring gives you the power to cast the following innate arcane
+  cantrips any number of times each day: [[Spells/Detect Magic|Detect Magic]], [[Spells/Telekinetic
+  Hand|Telekinetic Hand]], and [[Spells/Prestidigitation|Prestidigitation]]. Each
+  is cast as a 1st-rank spell. If you are an arcane spellcaster, these can instead
+  be heightened to the rank of your cantrips."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

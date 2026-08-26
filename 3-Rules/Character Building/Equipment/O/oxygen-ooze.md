@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oxygen-ooze"
 aliases: "Oxygen Ooze"
 source: "Pathfinder Lost Omens Impossible Lands"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  You can chew on this translucent green ooze to cause it to expand into a bubble of slime that envelops your mouth and nose. For the next hour, the ooze provides breathable oxygen, allowing you to breathe in environments where you couldn't normally breathe. It then harmlessly dries up and falls away."
+description: "**Activate** `pf2:1` Interact  You can chew on this translucent green
+  ooze to cause it to expand into a bubble of slime that envelops your mouth and nose.
+  For the next hour, the ooze provides breathable oxygen, allowing you to breathe
+  in environments where you couldn't normally breathe. It then harmlessly dries up
+  and falls away."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

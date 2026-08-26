@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "serene-mutagen-(greater)"
 aliases: "Serene Mutagen (Greater)"
@@ -17,7 +17,7 @@ trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You gain inner serenity, but you find violence off-putting.  **Benefit** You gain a +3 item bonus to Will saves and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves to +4 when you attempt Will saves against mental effects. When you roll a success on a Will save against a mental effect, you get a critical success instead.  **Drawback** You take a -1 penalty to attack rolls and save DCs of offensive spells, and a -1 penalty per damage die to all weapon, unarmed attack, and spell damage.  **Duration** 1 hour.  [[Equipment Effects/Effect_ Serene Mutagen (Greater)|Effect: Serene Mutagen (Greater)]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  You gain inner serenity, but
+  you find violence off-putting.  **Benefit** You gain a +3 item bonus to Will saves
+  and Perception, Medicine, Nature, Religion, and Survival checks. This bonus improves
+  to +4 when you attempt Will saves against mental effects. When you roll a success
+  on a Will save against a mental effect, you get a critical success instead.  **Drawback**
+  You take a -1 penalty to attack rolls and save DCs of offensive spells, and a -1
+  penalty per damage die to all weapon, unarmed attack, and spell damage.  **Duration**
+  1 hour.  [[Equipment Effects/Effect_ Serene Mutagen (Greater)|Effect: Serene Mutagen
+  (Greater)]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

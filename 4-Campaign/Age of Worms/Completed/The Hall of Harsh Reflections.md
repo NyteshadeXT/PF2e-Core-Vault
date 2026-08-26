@@ -305,7 +305,7 @@ creatures:
 > [!danger]+ Trap
 > The false door leading out of this chamber is trapped. The door is not locked, but attempting to open the door sets off the trap, opening a wide pit in front of the door.
 > 
-> [[hidden-pit-upgrade-hb|Hidden Pit (Upgraded)]]
+> [[hidden-pit-upgrade|Hidden Pit (Upgraded)]]
 
 #### D3. Abandoned Office 
 The door leading into this chamber is locked, requiring a DC 23 Open Lock check to pass.
@@ -449,7 +449,7 @@ All four doors on the southern wall are locked, requiring a DC 23 [[Skills#Thiev
 > [!danger]+ Trap
 > The east end of this hallway is actually a dead end, with a trap door covering the floor in a 10-foot by 10-foot area in front of the door. Those walking into the area risk falling into the pit below, which is deeper than it appears. An illusory wall (Spell DC 25) is placed 30 feet below the trap door, creating a false floor. The actual floor is 60 feet beneath the floor of the hallway in the area of a magical silence. To those outside the pit, the character falls through the floor and upon triggering the trap door again and investigating inside the pit there is no sign of the missing PC. The walls of the pit are extremely smooth and greased, making it impossible to climb.
 > 
-> [[devious-spiked-pit-hb|Devious Spiked Pit]]
+> [[devious-spiked-pit|Devious Spiked Pit]]
 
 #### D11. Sleeping Quarters
 These rooms are practically identical.  Each contains two comfortable beds, a washbasin, two full-length mirrors, and a large wardrobe packed with different styles of clothing. All of the outfits in the Players Handbook can be found in one of the rooms.
@@ -576,7 +576,7 @@ Once engaged in close combat, Telakin assumes his orc barbarian form. He enters 
 > This chamber contains а total of four traps, two identical pit traps and two pressure plates that set off a poisoned spear trap. The pit traps occupy 10-foot by 10-foot squares on both sides of the room in front of the stairs leading up to the throne. The pressure plates take up the 5-foot by 5-foot area at the top of the stairs near the throne, triggering a poison spear from the ceiling above.
 > 
 > [[wide-spiked-pit|Wide Spiked Pit]]
-> [[poisoned-ceiling-spear-hb|Poisoned Ceiling Spear]]
+> [[poisoned-ceiling-spear|Poisoned Ceiling Spear]]
 
 **Development** Once Telakin is defeated, the PCs are free to look about the chamber. Telakin has little on his person aside from his magic items and a key ring with keys to every room in Sodden Hold. A DC 23 [[skills#Perception|Perception]] check of the stone throne reveals a hidden button that opens the door to Telakin's private sanctum behind the throne.
 
@@ -751,7 +751,7 @@ The symbol on the floor is a permanent illusion, placed here to mark the boundar
 > [!danger]+ Trap
 > The real danger in this chamber is a powerful glyph of warding scribed on the room's ceiling set to go off when апу non-attuned creature passes under it. A detect magic spots this hidden glyph, as does a DC 28 [[Skills#Perception|Perception]] check.
 > 
-> [[glyph-of-warding-blast-hb|Glyph of Warding (Blast)]]
+> [[glyph-of-warding-blast|Glyph of Warding (Blast)]]
 
 #### M7. Tentacle Guardians
 > [!note]+ Read Aloud

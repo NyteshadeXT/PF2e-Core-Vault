@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tubeworm-gland"
 aliases: "Tubeworm Gland"
@@ -15,21 +15,23 @@ rarity: ""
 trait01: "graft"
 trait02: "invested"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "330"
 subvalue: "gp"
 invest:
 usage: "implanted"
 license: "ORC"
 identify:
-description: "Thanks to a graft from a hardy deep-sea invertebrate in your stomach, you can ingest food and water that would be toxic to others. You gain a +2 item bonus to Fortitude saving throws against ingested diseases and poisons."
+description: "Thanks to a graft from a hardy deep-sea invertebrate in your stomach,
+  you can ingest food and water that would be toxic to others. You gain a +2 item
+  bonus to Fortitude saving throws against ingested diseases and poisons."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-oil"
 aliases: "Ghost Oil"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The vials containing this translucent, unsubstantial oil are always cold to the touch. Applying _ghost oil_ to a melee weapon you're wielding or carrying causes it to become semitransparent and gain the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ rune, but it also makes the weapon unable to harm corporeal creatures. The oil has no effect when applied to another creature's weapon. The effect of the oil lasts for 1 minute.  [[Equipment Effects/Effect_ Ghost Oil|Effect: Ghost Oil]]"
+description: "The vials containing this translucent, unsubstantial oil are always
+  cold to the touch. Applying _ghost oil_ to a melee weapon you're wielding or carrying
+  causes it to become semitransparent and gain the effects of a _[[Equipment/Ghost
+  Touch|Ghost Touch]]_ rune, but it also makes the weapon unable to harm corporeal
+  creatures. The oil has no effect when applied to another creature's weapon. The
+  effect of the oil lasts for 1 minute.  [[Equipment Effects/Effect_ Ghost Oil|Effect:
+  Ghost Oil]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

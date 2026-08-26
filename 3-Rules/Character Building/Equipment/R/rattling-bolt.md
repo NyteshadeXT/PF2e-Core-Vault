@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rattling-bolt"
 aliases: "Rattling Bolt"
 source: "Pathfinder Wake the Dead #1"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "arcane"
 trait02: "consumable"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Ammunition** bolts  **Activate** `pf2:1` Interact  * * *  Sometimes when dealing with undead incursions, a more subtle approach is called for. Paradoxically, this is precisely what the rattling bolts are most often used for, despite each one ringing like a shaken chain when launched. Once it hits the target, the rattling transfers into that creature's body. A target damaged by the rattling bolt must succeed at a DC 25 Fortitude check save or be [[Conditions/Deafened|Deafened]] and [[Conditions/Stupefied|Stupefied 1]] for 1 round (or 1 minute on a critical hit). An undead affected by a rattling bolt further loses any lifesense ability it might have had for the same duration as the deafening."
+description: "**Ammunition** bolts  **Activate** `pf2:1` Interact  * * *  Sometimes
+  when dealing with undead incursions, a more subtle approach is called for. Paradoxically,
+  this is precisely what the rattling bolts are most often used for, despite each
+  one ringing like a shaken chain when launched. Once it hits the target, the rattling
+  transfers into that creature's body. A target damaged by the rattling bolt must
+  succeed at a DC 25 Fortitude check save or be [[Conditions/Deafened|Deafened]] and
+  [[Conditions/Stupefied|Stupefied 1]] for 1 round (or 1 minute on a critical hit).
+  An undead affected by a rattling bolt further loses any lifesense ability it might
+  have had for the same duration as the deafening."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

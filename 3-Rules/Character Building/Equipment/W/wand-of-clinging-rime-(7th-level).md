@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-clinging-rime-(7th-level)"
 aliases: "Wand of Clinging Rime (7th-level)"
@@ -16,7 +16,7 @@ trait01: "cold"
 trait02: "magical"
 trait03: "wand"
 trait04: "water"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A thin layer of frost coats this gnarled holly wand.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast 7th-rank [[Spells/Frigid Flurry|Frigid Flurry]]. After you cast the spell, the ice crystals freeze to flesh and other surfaces, clinging to the creatures in the area. Each creature that fails its save takes 1d6 persistent cold damage.  * * *  **Craft Requirements** Supply a casting of [[Spells/Frigid Flurry|Frigid Flurry]] of the appropriate rank."
+description: "A thin layer of frost coats this gnarled holly wand.  **Activate** Cast
+  a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast
+  7th-rank [[Spells/Frigid Flurry|Frigid Flurry]]. After you cast the spell, the ice
+  crystals freeze to flesh and other surfaces, clinging to the creatures in the area.
+  Each creature that fails its save takes 1d6 persistent cold damage.  * * *  **Craft
+  Requirements** Supply a casting of [[Spells/Frigid Flurry|Frigid Flurry]] of the
+  appropriate rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

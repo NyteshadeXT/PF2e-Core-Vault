@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "menders-soup"
 aliases: "Mender's Soup"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "processed"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  This hot, broth-based soup typically contains tubers, leeks, zesty spices, reagents, and if desired, the meat of livestock. Civic authorities commission batches of mender's soup for workers if a tricky job is on the agenda. After you eat the soup, its effects last 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to Crafting checks to Repair and restore an additional 5 Hit Points to items you successfully Repair during this time.  If you eat mender's soup over the entire period required to attempt a Crafting check to Craft (typically a minimum of eating the soup each day for 4 days), the +1 bonus from the soup can be applied to that check, too."
+description: "**Activate** 10 minutes (Interact)  This hot, broth-based soup typically
+  contains tubers, leeks, zesty spices, reagents, and if desired, the meat of livestock.
+  Civic authorities commission batches of mender's soup for workers if a tricky job
+  is on the agenda. After you eat the soup, its effects last 24 hours or until you
+  make your next daily preparations, whichever comes first. You gain a +1 item bonus
+  to Crafting checks to Repair and restore an additional 5 Hit Points to items you
+  successfully Repair during this time.  If you eat mender's soup over the entire
+  period required to attempt a Crafting check to Craft (typically a minimum of eating
+  the soup each day for 4 days), the +1 bonus from the soup can be applied to that
+  check, too."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

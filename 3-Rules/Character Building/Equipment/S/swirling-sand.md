@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "swirling-sand"
 aliases: "Swirling Sand"
 source: "Pathfinder Dark Archive"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** [[Actions/Cast a Spell|Cast a Spell]]  * * *  _Swirling sand_ carries a faint trace of strange compulsions from the helical sand spire near Beachcomber. Adding this catalyst to a suggestion spell implants a strange compulsion in one target of the spell. The target creature must spin counterclockwise at the end of its turn if it didn't take a move action that turn. This spin is a free action that has the move trait. This effect lasts for 3 rounds on a success, failure, or critical failure against [[Spells/Suggestion|Suggestion]] (even if the target completes its _suggestion_ in fewer rounds); a target that critically succeeds against _suggestion_ is unaffected by the _swirling sand_."
+description: "**Activate** [[Actions/Cast a Spell|Cast a Spell]]  * * *  _Swirling
+  sand_ carries a faint trace of strange compulsions from the helical sand spire near
+  Beachcomber. Adding this catalyst to a suggestion spell implants a strange compulsion
+  in one target of the spell. The target creature must spin counterclockwise at the
+  end of its turn if it didn't take a move action that turn. This spin is a free action
+  that has the move trait. This effect lasts for 3 rounds on a success, failure, or
+  critical failure against [[Spells/Suggestion|Suggestion]] (even if the target completes
+  its _suggestion_ in fewer rounds); a target that critically succeeds against _suggestion_
+  is unaffected by the _swirling sand_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

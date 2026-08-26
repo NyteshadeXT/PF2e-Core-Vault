@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "swarmform-collar"
 aliases: "Swarmform Collar"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "companion"
 trait02: "invested"
 trait03: "primal"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,20 @@ invest:
 usage: "worncollar"
 license: "ORC"
 identify:
-description: "This sturdy leather collar is imprinted with tessellated animal shapes. When invested, the animal shapes change to match that of your companion.  * * *  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect** You touch the collar and your companion splits into a swarm of hundreds of identical Tiny versions of itself for 1 minute. Its space becomes Large, it gains the weaknesses and resistances of a [[Monster Core/Spider Swarm|Spider Swarm]], and the swarm trait, though it doesn't gain swarm mind, as it's controlled by a single mind. Its unarmed attacks are replaced with a single-action swarming attack that deals 1d8 damage of the type normally inflicted by the companion's unarmed attacks to any foe in its space, with a DC 23 Reflex check save. While in swarm form, your companion can take the Support action but can't perform its advanced maneuver. Its other statistics don't change. If the companion is reduced to 0 Hit Points while in swarm form, the companion immediately recombines into its original form in an available space, in addition to the usual effects of being reduced to 0 Hit Points."
+description: "This sturdy leather collar is imprinted with tessellated animal shapes.
+  When invested, the animal shapes change to match that of your companion.  * * *\
+  \  **Activate** `pf2:2` envision, Interact  **Frequency** once per day  * * *  **Effect**
+  You touch the collar and your companion splits into a swarm of hundreds of identical
+  Tiny versions of itself for 1 minute. Its space becomes Large, it gains the weaknesses
+  and resistances of a [[Monster Core/Spider Swarm|Spider Swarm]], and the swarm trait,
+  though it doesn't gain swarm mind, as it's controlled by a single mind. Its unarmed
+  attacks are replaced with a single-action swarming attack that deals 1d8 damage
+  of the type normally inflicted by the companion's unarmed attacks to any foe in
+  its space, with a DC 23 Reflex check save. While in swarm form, your companion can
+  take the Support action but can't perform its advanced maneuver. Its other statistics
+  don't change. If the companion is reduced to 0 Hit Points while in swarm form, the
+  companion immediately recombines into its original form in an available space, in
+  addition to the usual effects of being reduced to 0 Hit Points."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

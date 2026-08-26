@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-charge-(moderate)"
 aliases: "Ghost Charge (Moderate)"
@@ -17,7 +17,7 @@ trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
 trait05: "vitality"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures.  A _ghost charge_ gives a +1 item bonus to attack rolls, deals 2d8 vitality damage and 2 vitality splash damage, though as usual for vitality damage, this damage harms only undead and creatures with void healing. A primary target that takes damage from a _ghost charge_ becomes [[Conditions/Enfeebled|Enfeebled 1]] until the start of your next turn.  _Ghost charges_ are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead."
+description: "**Activate** `pf2:1` Strike  * * *  These spring-loaded metal canisters
+  contain a mixture of chemicals and salts that drain and disintegrate nearby undead
+  creatures.  A _ghost charge_ gives a +1 item bonus to attack rolls, deals 2d8 vitality
+  damage and 2 vitality splash damage, though as usual for vitality damage, this damage
+  harms only undead and creatures with void healing. A primary target that takes damage
+  from a _ghost charge_ becomes [[Conditions/Enfeebled|Enfeebled 1]] until the start
+  of your next turn.  _Ghost charges_ are designed to explode even on contact with
+  a spiritual substance, making them ideal for damaging incorporeal undead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

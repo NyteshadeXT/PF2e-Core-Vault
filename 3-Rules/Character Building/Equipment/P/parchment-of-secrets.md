@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "parchment-of-secrets"
 aliases: "Parchment of Secrets"
 source: "Pathfinder Dark Archive"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "illusion"
 trait03: "magical"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Access** Member of a secret society  * * *  This parchment is crafted with illusion magic, allowing for the transfer of secret messages. You can fill the parchment with the usual amount of text, encoding your secret message within the innocuous message.  * * *  **Activate** 1 minute (Interact)  **Effect** You tap the letters of your secret message one at a time, causing the letters to glow momentarily before fading to their standard ink color, and a symbol of your choice appears at the corner of the page. The next time someone taps the symbol with a writing instrument, the chosen letters glow again, revealing the secret message, and then the power of the parchment is spent."
+description: "**Access** Member of a secret society  * * *  This parchment is crafted
+  with illusion magic, allowing for the transfer of secret messages. You can fill
+  the parchment with the usual amount of text, encoding your secret message within
+  the innocuous message.  * * *  **Activate** 1 minute (Interact)  **Effect** You
+  tap the letters of your secret message one at a time, causing the letters to glow
+  momentarily before fading to their standard ink color, and a symbol of your choice
+  appears at the corner of the page. The next time someone taps the symbol with a
+  writing instrument, the chosen letters glow again, revealing the secret message,
+  and then the power of the parchment is spent."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

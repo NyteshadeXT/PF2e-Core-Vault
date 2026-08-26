@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "psychic-warding-bracelet"
 aliases: "Psychic Warding Bracelet"
@@ -13,7 +13,7 @@ source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
 rarity: ""
 trait01: "consumable"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This set of reflective metal wires takes 10 minutes to properly tie along the wrist's energy meridians, then repels attempts at mental manipulation. You gain a +2 item bonus to your next save against a mental effect after tying on the bracelet. After this save, the metal strands tarnish and fall off (possibly alerting the wearer or others that their mind has been tampered with).  You can remove the bracelet with an Interact action, but doing so breaks the bracelet's alignment and requires you to spend another 10 minutes to carefully tie it back on."
+description: "This set of reflective metal wires takes 10 minutes to properly tie
+  along the wrist's energy meridians, then repels attempts at mental manipulation.
+  You gain a +2 item bonus to your next save against a mental effect after tying on
+  the bracelet. After this save, the metal strands tarnish and fall off (possibly
+  alerting the wearer or others that their mind has been tampered with).  You can
+  remove the bracelet with an Interact action, but doing so breaks the bracelet's
+  alignment and requires you to spend another 10 minutes to carefully tie it back
+  on."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

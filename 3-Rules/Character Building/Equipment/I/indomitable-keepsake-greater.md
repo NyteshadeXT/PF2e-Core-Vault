@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "indomitable-keepsake-greater"
 aliases: "Indomitable Keepsake (Greater)"
@@ -16,26 +16,30 @@ trait01: "consumable"
 trait02: "fortune"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 9
-weight: 
+weight:
 value: "120"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "This talisman usually takes the form of a small sentimental object carried in a pocket or attached to the inside of a piece of armor. "
+description: "This talisman usually takes the form of a small sentimental object carried
+  in a pocket or attached to the inside of a piece of armor. "
 powerTitle1: "Effect"
 actionEconomy1: "`pf2:0`"
 type1: "([[concentrate]])"
 frequency1:
 trigger1: "You're critically hit by a firearm attack."
-mechanics1: "When you activate it, it slows the attack, and you reduce the damage from the triggering critical hit by 20, as the attack destroys the talisman. This effect only reduces the additional damage from a critical hit; it can't reduce the damage below the amount it would deal on a normal hit."
+mechanics1: "When you activate it, it slows the attack, and you reduce the damage
+  from the triggering critical hit by 20, as the attack destroys the talisman. This
+  effect only reduces the additional damage from a critical hit; it can't reduce the
+  damage below the amount it would deal on a normal hit."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +80,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

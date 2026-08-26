@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "probing-cane"
 aliases: "Probing Cane"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "finesse"
 trait02: "sweep"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Your cane indicates that you have low vision or are blind. By holding this cane in front of you, you indicate to those around that you're partially sighted, which is particularly useful in urban or busy places to let others know to give you enough space. The cane is typically several feet long, generally reaching the user's chin, but can be lengthened or shortened as needed.  Probing canes are made from reinforced wood with the same strengthening process and treatment as a longbow, creating a cane that is both high quality and durable enough for an adventuring owner to use as a weapon."
+description: "Your cane indicates that you have low vision or are blind. By holding
+  this cane in front of you, you indicate to those around that you're partially sighted,
+  which is particularly useful in urban or busy places to let others know to give
+  you enough space. The cane is typically several feet long, generally reaching the
+  user's chin, but can be lengthened or shortened as needed.  Probing canes are made
+  from reinforced wood with the same strengthening process and treatment as a longbow,
+  creating a cane that is both high quality and durable enough for an adventuring
+  owner to use as a weapon."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +54,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 bludgeoning
 dmg1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

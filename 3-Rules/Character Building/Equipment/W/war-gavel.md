@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "war-gavel"
 aliases: "War Gavel"
 source: "Pathfinder War of Immortals"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "versatile-p"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A war gavel is similar in construction to a palstave axe, but instead of inserting a metal wedge, it uses a heavier wooden head that is either carved into several points or inset with pointed objects like the teeth of large mammals."
+description: "A war gavel is similar in construction to a palstave axe, but instead
+  of inserting a metal wedge, it uses a heavier wooden head that is either carved
+  into several points or inset with pointed objects like the teeth of large mammals."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 bludgeoning
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

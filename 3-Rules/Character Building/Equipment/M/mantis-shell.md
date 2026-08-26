@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mantis-shell"
 aliases: "Mantis Shell"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "adjusted"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,12 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Construction of mantis shell armor originates with the Red Mantis assassins. Authentic mantis shell can be found in some dark markets, but wearing such armor can attract deadly attention from the armor's originators. Mantis shell comes with the weapon harness adjustment, though these special vambraces are meant to hold sawtooth sabers, and attaching anything else is an insult to the Red Mantis. A character who is a member of the Red Mantis assassins has access to this uncommon armor."
+description: "Construction of mantis shell armor originates with the Red Mantis assassins.
+  Authentic mantis shell can be found in some dark markets, but wearing such armor
+  can attract deadly attention from the armor's originators. Mantis shell comes with
+  the weapon harness adjustment, though these special vambraces are meant to hold
+  sawtooth sabers, and attaching anything else is an insult to the Red Mantis. A character
+  who is a member of the Red Mantis assassins has access to this uncommon armor."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

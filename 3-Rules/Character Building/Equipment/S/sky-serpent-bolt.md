@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sky-serpent-bolt"
 aliases: "Sky Serpent Bolt"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "air"
 trait02: "consumable"
 trait03: "electricity"
 trait04: "magical"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "25"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` or `pf2:2` Interact  * * *  This azure bolt is carved in the shape of an undulating snake, its bared fangs framing the point of its head. When an activated sky serpent bolt successfully hits a target, the bolt takes the form of a snake made of pure lightning, dealing 2d12 electricity damage to all creatures in a 30-foot line (DC 19 Reflex check save) starting from the target. If you spent 2 actions to activate the sky serpent bolt, then the line is 60 feet long, and at a single point in the line, you can change the remainder of the line's path by up to a 90-degree angle."
+description: "**Activate** `pf2:1` or `pf2:2` Interact  * * *  This azure bolt is
+  carved in the shape of an undulating snake, its bared fangs framing the point of
+  its head. When an activated sky serpent bolt successfully hits a target, the bolt
+  takes the form of a snake made of pure lightning, dealing 2d12 electricity damage
+  to all creatures in a 30-foot line (DC 19 Reflex check save) starting from the target.
+  If you spent 2 actions to activate the sky serpent bolt, then the line is 60 feet
+  long, and at a single point in the line, you can change the remainder of the line's
+  path by up to a 90-degree angle."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

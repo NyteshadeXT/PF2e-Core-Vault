@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "frost-brand"
 aliases: "Frost Brand"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "cold"
 trait02: "magical"
 trait03: "versatile-p"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The blade of this _+2 greater striking [[Equipment/Frost (Greater)|Frost (Greater)]] greatsword_ appears to be nothing but icy shards. The _frost brand_ automatically extinguishes non-magical fires in a 20-foot emanation. While wielding it, you gain fire resistance 5.  * * *  **Activate** `pf2:2` command, Interact  **Effect** You swing the _frost brand_ into the area of an ongoing magical fire, and the blade attempts to counteract the fire with a counteract modifier of +27. If it fails, it can't attempt to counteract the same fire again."
+description: "The blade of this _+2 greater striking [[Equipment/Frost (Greater)|Frost
+  (Greater)]] greatsword_ appears to be nothing but icy shards. The _frost brand_
+  automatically extinguishes non-magical fires in a 20-foot emanation. While wielding
+  it, you gain fire resistance 5.  * * *  **Activate** `pf2:2` command, Interact \
+  \ **Effect** You swing the _frost brand_ into the area of an ongoing magical fire,
+  and the blade attempts to counteract the fire with a counteract modifier of +27.
+  If it fails, it can't attempt to counteract the same fire again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +53,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 3d12 slashing
 dmg1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

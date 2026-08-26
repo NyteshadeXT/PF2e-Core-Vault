@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "portable-ram-(reinforced)"
 aliases: "Portable Ram (Reinforced)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "A portable ram is a handheld, ironshod wooden beam designed to knock open doors, gates, and other similar obstacles. You gain a +2 item bonus to checks to [[Actions/Force Open|Force Open]] these obstacles."
+description: "A portable ram is a handheld, ironshod wooden beam designed to knock
+  open doors, gates, and other similar obstacles. You gain a +2 item bonus to checks
+  to [[Actions/Force Open|Force Open]] these obstacles."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

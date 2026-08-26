@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "triangular-teeth"
 aliases: "Triangular Teeth"
@@ -15,21 +15,30 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "33"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Rows of triangles symbolizing shark teeth protect you from danger and enable you to take fierce retaliation against those who try to harm you. Seafarers, especially those on the seas of Minata, wear these tattoos in patterns, with multiple rows of regular triangles. You gain a +1 item bonus to Survival checks to navigate bodies of water.  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger** You would be hit by an attack against your AC  * * *  **Effect** You gain a +1 circumstance bonus to AC against the attack, or a +2 circumstance bonus if the attacker is in water or has the amphibious, aquatic, or water trait. Whether the attack hits or misses, you gain a +2 status bonus to damage with the next Strike you make against the attacker before the end of your next turn."
+description: "Rows of triangles symbolizing shark teeth protect you from danger and
+  enable you to take fierce retaliation against those who try to harm you. Seafarers,
+  especially those on the seas of Minata, wear these tattoos in patterns, with multiple
+  rows of regular triangles. You gain a +1 item bonus to Survival checks to navigate
+  bodies of water.  **Activate** `pf2:r` command  **Frequency** once per day  **Trigger**
+  You would be hit by an attack against your AC  * * *  **Effect** You gain a +1 circumstance
+  bonus to AC against the attack, or a +2 circumstance bonus if the attacker is in
+  water or has the amphibious, aquatic, or water trait. Whether the attack hits or
+  misses, you gain a +2 status bonus to damage with the next Strike you make against
+  the attacker before the end of your next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

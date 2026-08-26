@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "staff-of-water-(greater)"
 aliases: "Staff of Water (Greater)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "A staff of water is most often made of driftwood, sometimes lacquered blue. Carved versions often have a wave pattern. The staff smells of rain or brine. While wielding a staff of water, you have resistance 5 to fire.  * * *  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Spout|Spout]] *   **1st** [[Spells/Create Water|Create Water]], [[Spells/Hydraulic Push|Hydraulic Push]] *   **2nd** [[Spells/Quench|Quench]], [[Spells/Water Walk|Water Walk]] *   **3rd** [[Spells/Aqueous Orb|Aqueous Orb]], [[Spells/Wall of Water|Wall of Water]]  * * *  **Craft Requirements** Supply one casting of all listed levels of all listed spells."
+description: "A staff of water is most often made of driftwood, sometimes lacquered
+  blue. Carved versions often have a wave pattern. The staff smells of rain or brine.
+  While wielding a staff of water, you have resistance 5 to fire.  * * *  **Activate**
+  Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to
+  cast a spell from its list.  *   **Cantrip** [[Spells/Spout|Spout]] *   **1st**
+  [[Spells/Create Water|Create Water]], [[Spells/Hydraulic Push|Hydraulic Push]] *\
+  \   **2nd** [[Spells/Quench|Quench]], [[Spells/Water Walk|Water Walk]] *   **3rd**
+  [[Spells/Aqueous Orb|Aqueous Orb]], [[Spells/Wall of Water|Wall of Water]]  * *
+  *  **Craft Requirements** Supply one casting of all listed levels of all listed
+  spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 bludgeoning
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

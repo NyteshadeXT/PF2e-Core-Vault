@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nail-bomb-(greater)"
 aliases: "Nail Bomb (Greater)"
 source: "Pathfinder #202: Severed at the Root"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "splash"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This pressurized iron casing bursts open when struck, releasing cold iron shrapnel. You gain a +2 item bonus to attack rolls. The bomb deals 6d4 piercing damage and 3 piercing splash damage from a cold iron source."
+description: "**Activate** `pf2:1` Strike  * * *  This pressurized iron casing bursts
+  open when struck, releasing cold iron shrapnel. You gain a +2 item bonus to attack
+  rolls. The bomb deals 6d4 piercing damage and 3 piercing splash damage from a cold
+  iron source."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "toolkit-of-bronze-whispers"
 aliases: "Toolkit of Bronze Whispers"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "divine"
 trait02: "intelligent"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,17 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Perception** +12; precise vision 30 feet, imprecise hearing 30 feet  **Communication** telepathy (Common and two other common languages)  **Skills** Clockwork Lore +15, Crafting +13, Religion +11  **Int** +4, **Wis** +3, **Cha** +0  **Will** +12  * * *  Sacred to the faith of Brigh, a toolkit of bronze whispers has been used with such devotion it has developed a consciousness and personality that can be a blessing to a partnered crafter. A toolkit of bronze whispers functions as a set of [[Equipment/Artisan's Toolkit (Sterling)|Artisan's Tools (Sterling)]]. Such toolkits focus on new creations and enthusiastically suggest crafting techniques to wielders. A toolkit of bronze whispers knows common item formulas of its level or lower and any other formulas the GM chooses. It can teach these formulas. You must still spend the time to copy a formula before you can use it."
+description: "**Perception** +12; precise vision 30 feet, imprecise hearing 30 feet\
+  \  **Communication** telepathy (Common and two other common languages)  **Skills**
+  Clockwork Lore +15, Crafting +13, Religion +11  **Int** +4, **Wis** +3, **Cha**
+  +0  **Will** +12  * * *  Sacred to the faith of Brigh, a toolkit of bronze whispers
+  has been used with such devotion it has developed a consciousness and personality
+  that can be a blessing to a partnered crafter. A toolkit of bronze whispers functions
+  as a set of [[Equipment/Artisan's Toolkit (Sterling)|Artisan's Tools (Sterling)]].
+  Such toolkits focus on new creations and enthusiastically suggest crafting techniques
+  to wielders. A toolkit of bronze whispers knows common item formulas of its level
+  or lower and any other formulas the GM chooses. It can teach these formulas. You
+  must still spend the time to copy a formula before you can use it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

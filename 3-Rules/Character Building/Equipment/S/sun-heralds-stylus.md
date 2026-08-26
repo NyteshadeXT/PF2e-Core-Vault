@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sun-heralds-stylus"
 aliases: "Sun Herald's Stylus"
@@ -13,7 +13,7 @@ source: "Pathfinder Lost Omens Tian Xia Character Guide"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This writing instrument was made from the spur of one of the giant divine roosters that heralds the presence of Shizuru. While you hold it, you gain a +2 item bonus to Calligraphy Lore and Medicine checks.  **Activate—Rejuvenating Ink** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Drawing a circle on the ground with your stylus, you cast [[Spells/Field of Life|Field of Life]] centered on yourself.  * * *  **Craft Requirements** The feathers must be plucked from a living divine rooster or given by the bird to a chosen mortal."
+description: "This writing instrument was made from the spur of one of the giant divine
+  roosters that heralds the presence of Shizuru. While you hold it, you gain a +2
+  item bonus to Calligraphy Lore and Medicine checks.  **Activate—Rejuvenating Ink**
+  `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Drawing a circle
+  on the ground with your stylus, you cast [[Spells/Field of Life|Field of Life]]
+  centered on yourself.  * * *  **Craft Requirements** The feathers must be plucked
+  from a living divine rooster or given by the bird to a chosen mortal."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

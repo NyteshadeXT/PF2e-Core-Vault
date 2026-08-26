@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tacticians-helm"
 aliases: "Tactician's Helm"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,20 @@ invest:
 usage: "wornheadwear"
 license: "ORC"
 identify:
-description: "Repurposing and enchanting a helmet worn by a battlefield commander can create a tactician's helm, imparting knowledge of battlefield tactics that feeds off your minor victories. The helm grants you a +1 item bonus to Warfare Lore checks. Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time you hit a creature with a [[Actions/Reactive Strike|Reactive Strike]]. A tactician's helm can hold up to 2 charges, and its charges reset to 0 when you invest it.  **Activate** `pf2:1` command  **Requirements** The helm's jewel is charged  **Frequency** once per hour  * * *  **Effect** One charge in the helm's jewel expires, and you choose one of the following effects.  *   **Charge!** Stride twice. *   **Move It!** You gain a +2 status bonus to Acrobatics and Athletics checks until the end of this turn. [[Equipment Effects/Effect_ Tactician's Helm (Move It!)|Effect: Tactician's Helm (Move It!)]] *   **Protect!** If you're wielding a shield, Stride to a space adjacent to an ally, then Raise your Shield. *   **Re-Arm!** Interact up to three times. Each of these actions must be used to do something on Changing Equipment."
+description: "Repurposing and enchanting a helmet worn by a battlefield commander
+  can create a tactician's helm, imparting knowledge of battlefield tactics that feeds
+  off your minor victories. The helm grants you a +1 item bonus to Warfare Lore checks.
+  Also, a jewel adorns the brow of the helmet. This jewel becomes charged each time
+  you hit a creature with a [[Actions/Reactive Strike|Reactive Strike]]. A tactician's
+  helm can hold up to 2 charges, and its charges reset to 0 when you invest it.  **Activate**
+  `pf2:1` command  **Requirements** The helm's jewel is charged  **Frequency** once
+  per hour  * * *  **Effect** One charge in the helm's jewel expires, and you choose
+  one of the following effects.  *   **Charge!** Stride twice. *   **Move It!** You
+  gain a +2 status bonus to Acrobatics and Athletics checks until the end of this
+  turn. [[Equipment Effects/Effect_ Tactician's Helm (Move It!)|Effect: Tactician's
+  Helm (Move It!)]] *   **Protect!** If you're wielding a shield, Stride to a space
+  adjacent to an ally, then Raise your Shield. *   **Re-Arm!** Interact up to three
+  times. Each of these actions must be used to do something on Changing Equipment."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

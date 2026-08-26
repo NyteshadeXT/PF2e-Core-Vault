@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warding-punch"
 aliases: "Warding Punch"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Based on a Thassilonian recipe, warding punch is made from red or white wine combined with fruits, other alcohols, and alchemical reagents. Its alchemical properties provide protection against a specific school of magic depending on the ingredients chosen when it's created, granting a +1 item bonus to saving throws against spells from that school for 10 minutes.  *   **Beer or Cider** Transmutation *   **Brown Spirits** Necromancy *   **Clear Spirits** Evocation *   **Fruit Cordials** Abjuration *   **Fruit Juice** Illusion *   **Nut Liqueurs** Conjuration *   **Spiced Spirits** Enchantment"
+description: "**Activate** `pf2:1` Interact  Based on a Thassilonian recipe, warding
+  punch is made from red or white wine combined with fruits, other alcohols, and alchemical
+  reagents. Its alchemical properties provide protection against a specific school
+  of magic depending on the ingredients chosen when it's created, granting a +1 item
+  bonus to saving throws against spells from that school for 10 minutes.  *   **Beer
+  or Cider** Transmutation *   **Brown Spirits** Necromancy *   **Clear Spirits**
+  Evocation *   **Fruit Cordials** Abjuration *   **Fruit Juice** Illusion *   **Nut
+  Liqueurs** Conjuration *   **Spiced Spirits** Enchantment"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "perfect-droplet"
 aliases: "Perfect Droplet"
@@ -15,21 +15,29 @@ rarity: ""
 trait01: "magical"
 trait02: "spellheart"
 trait03: "water"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "55"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "Intense blue water magically holds its shape-a perfect sphere. The spell DC of any spell cast by Activating this item is 17.  *   **Armor** You gain resistance 2 to water effects and attacks by water creatures. *   **Weapon** After you cast a water spell by Activating the _droplet_, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the water trait in this way.  [[Equipment Effects/Effect_ Perfect Droplet - Armor|Effect: Perfect Droplet - Armor]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Spout|Spout]]."
+description: "Intense blue water magically holds its shape-a perfect sphere. The spell
+  DC of any spell cast by Activating this item is 17.  *   **Armor** You gain resistance
+  2 to water effects and attacks by water creatures. *   **Weapon** After you cast
+  a water spell by Activating the _droplet_, your body becomes mistlike. Until the
+  end of the turn, you can move through enemies' spaces, treating each square in their
+  spaces as difficult terrain. You can't move through creatures that have the water
+  trait in this way.  [[Equipment Effects/Effect_ Perfect Droplet - Armor|Effect:
+  Perfect Droplet - Armor]]  * * *  **Activate** Cast a Spell  **Effect** You cast
+  [[Spells/Spout|Spout]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

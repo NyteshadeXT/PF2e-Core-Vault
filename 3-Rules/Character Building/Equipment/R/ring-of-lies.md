@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-lies"
 aliases: "Ring of Lies"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 10
-weight: 
+weight:
 value: "850"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This plain silver ring has an almost oily sheen. While wearing the ring, you gain a +2 item bonus to Deception checks.  **Activate—Sweeten Lies** `pf2:2` (manipulate)  **Frequency** once per day  * * *  **Effect** Snapping your fingers on the hand that wears the ring causes the ring to cast [[Spells/Honeyed Words|Honeyed Words]] on you with no visual manifestations of a spell being cast."
+description: "This plain silver ring has an almost oily sheen. While wearing the ring,
+  you gain a +2 item bonus to Deception checks.  **Activate—Sweeten Lies** `pf2:2`
+  (manipulate)  **Frequency** once per day  * * *  **Effect** Snapping your fingers
+  on the hand that wears the ring causes the ring to cast [[Spells/Honeyed Words|Honeyed
+  Words]] on you with no visual manifestations of a spell being cast."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

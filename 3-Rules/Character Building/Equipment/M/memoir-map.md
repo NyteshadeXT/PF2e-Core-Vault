@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "memoir-map"
 aliases: "Memoir Map"
@@ -15,21 +15,30 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "13"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Your journeys and the major events in your life that occur after you obtain this tattoo appear on it, your life story traced upon your skin. Each time you journey somewhere new or accomplish something noteworthy to you, a design or symbol appears, representing the event. The positions of these images are relative in location, but measurements aren't exact. A memoir map starts with an icon representing your location when you receive the tattoo, usually over the heart, and grows from there. Traveling to another plane causes a new portion to appear on a different part of your body to represent that plane. If you want a record of your life before you receive your memoir map, you can have the tattoo artist embellish the map to represent past events."
+description: "Your journeys and the major events in your life that occur after you
+  obtain this tattoo appear on it, your life story traced upon your skin. Each time
+  you journey somewhere new or accomplish something noteworthy to you, a design or
+  symbol appears, representing the event. The positions of these images are relative
+  in location, but measurements aren't exact. A memoir map starts with an icon representing
+  your location when you receive the tattoo, usually over the heart, and grows from
+  there. Traveling to another plane causes a new portion to appear on a different
+  part of your body to represent that plane. If you want a record of your life before
+  you receive your memoir map, you can have the tattoo artist embellish the map to
+  represent past events."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

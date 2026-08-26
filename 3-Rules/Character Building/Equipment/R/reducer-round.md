@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reducer-round"
 aliases: "Reducer Round"
 source: "Pathfinder #180: The Smoking Gun"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "25"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** round  **Activate** `pf2:1` Interact  This bullet is fashioned from a rubbery substance and stamped with the image of a diminutive ant twitching in surprise. The bullet deals no damage on a successful hit. Instead, the target must attempt a DC 19 Fortitude check save.  * * *  **Success** The target is unaffected.  **Failure** The target shrinks to Tiny size for 1d4 rounds. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 1]] for this duration.  **Critical Failure** The target shrinks to Tiny size for 1 minute. Its reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 2]] for this duration"
+description: "**Ammunition** round  **Activate** `pf2:1` Interact  This bullet is
+  fashioned from a rubbery substance and stamped with the image of a diminutive ant
+  twitching in surprise. The bullet deals no damage on a successful hit. Instead,
+  the target must attempt a DC 19 Fortitude check save.  * * *  **Success** The target
+  is unaffected.  **Failure** The target shrinks to Tiny size for 1d4 rounds. Its
+  reach becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 1]] for this duration.\
+  \  **Critical Failure** The target shrinks to Tiny size for 1 minute. Its reach
+  becomes 0 feet, and it's [[Conditions/Enfeebled|Enfeebled 2]] for this duration"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

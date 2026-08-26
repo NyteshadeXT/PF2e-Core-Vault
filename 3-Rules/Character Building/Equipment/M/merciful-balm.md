@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "merciful-balm"
 aliases: "Merciful Balm"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Smelling strongly of herbs and pine resin, _merciful balm_ is a thick, sticky paste that can be used to anoint a weapon, granting the weapon the nonlethal trait for 1 hour.  [[Equipment Effects/Effect_ Merciful Balm|Effect: Merciful Balm]]"
+description: "**Activate** `pf2:1` Interact  Smelling strongly of herbs and pine resin,
+  _merciful balm_ is a thick, sticky paste that can be used to anoint a weapon, granting
+  the weapon the nonlethal trait for 1 hour.  [[Equipment Effects/Effect_ Merciful
+  Balm|Effect: Merciful Balm]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

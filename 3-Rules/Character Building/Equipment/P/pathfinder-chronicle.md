@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pathfinder-chronicle"
 aliases: "Pathfinder Chronicle"
 source: "Pathfinder Lost Omens Character Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Numerous volumes and editions of the Pathfinder Chronicles exist, each cataloging different adventures. Pathfinder Chronicles are a type of scholarly journal that specifically devotes topics to Pathfinder discoveries, rather than more theoretical academic topics. Because Pathfinders have better access to these chronicles than other scholarly journals, they are particularly common among Pathfinder agents building a library of reference texts."
+description: "Numerous volumes and editions of the Pathfinder Chronicles exist, each
+  cataloging different adventures. Pathfinder Chronicles are a type of scholarly journal
+  that specifically devotes topics to Pathfinder discoveries, rather than more theoretical
+  academic topics. Because Pathfinders have better access to these chronicles than
+  other scholarly journals, they are particularly common among Pathfinder agents building
+  a library of reference texts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

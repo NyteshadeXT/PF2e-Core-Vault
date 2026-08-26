@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "predators-claw"
 aliases: "Predator's Claw"
@@ -15,21 +15,25 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "3"
 subvalue: "gp"
 invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** You critically succeed at an attack roll with the affixed weapon  * * *  This claw set in an iron clasp and chain is usually that of a large predator. When you activate the claw, the triggering attack gains the weapon's critical specialization effect.  [[Equipment Effects/Effect_ Predator's Claw|Effect: Predator's Claw]]"
+description: "**Activate** `pf2:0` (concentrate)  **Trigger** You critically succeed
+  at an attack roll with the affixed weapon  * * *  This claw set in an iron clasp
+  and chain is usually that of a large predator. When you activate the claw, the triggering
+  attack gains the weapon's critical specialization effect.  [[Equipment Effects/Effect_
+  Predator's Claw|Effect: Predator's Claw]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

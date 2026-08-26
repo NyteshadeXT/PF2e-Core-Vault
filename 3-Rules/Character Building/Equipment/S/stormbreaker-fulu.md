@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stormbreaker-fulu"
 aliases: "Stormbreaker Fulu"
 source: "Pathfinder Secrets of Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 16
-weight: 
+weight:
 value: "1900"
 subvalue: "gp"
 invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` command  **Trigger** You would be forced to move, you would be teleported, or you would take cold, electricity, or sonic damage.  * * *  This unassuming paper tag is inscribed with magical symbols. When you activate the fulu, it vanishes in a wisp of cloud, and you gain resistance 15 to cold, electricity, and sonic damage until the end of your next turn. For that duration, you ignore difficult terrain from wind and weather, and you can't be forcibly moved or teleported unless the effect counteracts the fulu (DC 40). These protections apply against the triggering effect.  [[Equipment Effects/Effect_ Stormbreaker Fulu|Effect: Stormbreaker Fulu]]"
+description: "**Usage** affixed to armor  **Activate** `pf2:0` command  **Trigger**
+  You would be forced to move, you would be teleported, or you would take cold, electricity,
+  or sonic damage.  * * *  This unassuming paper tag is inscribed with magical symbols.
+  When you activate the fulu, it vanishes in a wisp of cloud, and you gain resistance
+  15 to cold, electricity, and sonic damage until the end of your next turn. For that
+  duration, you ignore difficult terrain from wind and weather, and you can't be forcibly
+  moved or teleported unless the effect counteracts the fulu (DC 40). These protections
+  apply against the triggering effect.  [[Equipment Effects/Effect_ Stormbreaker Fulu|Effect:
+  Stormbreaker Fulu]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

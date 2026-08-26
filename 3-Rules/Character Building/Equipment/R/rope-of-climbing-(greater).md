@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rope-of-climbing-(greater)"
 aliases: "Rope of Climbing (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder Advanced Player's Guide"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This silk rope measures 50 feet long and is capable of holding up to 3,000 pounds. If the rope is ever cut, only the longest remaining portion retains its magic.  **Activate** `pf2:1` Interact  * * *  **Effect** You hold one end of the rope and point to a destination. The rope animates for 1 minute, moving 10 feet per round until it reaches the destination or runs out of length. The rope can move across any non-damaging horizontal or vertical surface, but it can't extend upward without a surface to support it. At any point while the rope is animated, you can use an Interact action to wiggle the rope, giving it one of the following commands: stop in place, fasten securely to the nearest available object, detach from an object, or knot or unknot itself."
+description: "This silk rope measures 50 feet long and is capable of holding up to
+  3,000 pounds. If the rope is ever cut, only the longest remaining portion retains
+  its magic.  **Activate** `pf2:1` Interact  * * *  **Effect** You hold one end of
+  the rope and point to a destination. The rope animates for 1 minute, moving 10 feet
+  per round until it reaches the destination or runs out of length. The rope can move
+  across any non-damaging horizontal or vertical surface, but it can't extend upward
+  without a surface to support it. At any point while the rope is animated, you can
+  use an Interact action to wiggle the rope, giving it one of the following commands:
+  stop in place, fasten securely to the nearest available object, detach from an object,
+  or knot or unknot itself."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

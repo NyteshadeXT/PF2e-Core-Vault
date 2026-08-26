@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spellbook-of-redundant-enchantment"
 aliases: "Spellbook of Redundant Enchantment"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When opening the book, whispers can be heard on the wind, or laughter rings in the distance.  * * *  **Activate** `pf2:0` envision  **Frequency** once per day  **Trigger** You cast an enchantment spell prepared from this grimoire that has no effect because all targets critically succeeded on their saving throws  * * *  **Effect** You quickly divert the failed enchantment energy into yourself to retain your favored spell in place of another. You lose another spell you prepared of an equal or higher level to the triggering enchantment spell but retain the ability to cast the enchantment spell again."
+description: "When opening the book, whispers can be heard on the wind, or laughter
+  rings in the distance.  * * *  **Activate** `pf2:0` envision  **Frequency** once
+  per day  **Trigger** You cast an enchantment spell prepared from this grimoire that
+  has no effect because all targets critically succeeded on their saving throws  *
+  * *  **Effect** You quickly divert the failed enchantment energy into yourself to
+  retain your favored spell in place of another. You lose another spell you prepared
+  of an equal or higher level to the triggering enchantment spell but retain the ability
+  to cast the enchantment spell again."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,42 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pickled-demon-tongue"
 aliases: "Pickled Demon Tongue"
 source: "Pathfinder #188: They Watched the Stars"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "acid"
 trait02: "divine"
 trait03: "spellheart"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "60"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or a weapon"
 license: "ORC"
 identify:
-description: "This small crystal vial contains the forked end of a demon's tongue, preserved in brine. The spell attack roll of any spell cast by Activating this item is +7, and the spell DC is 17.  *   **Armor** You gain resistance 2 to acid and attacks by demons. *   **Weapon** After you cast an acid spell by Activating the _pickled demon tongue_, your Strikes with the weapon deal an additional 1d4 acid damage until end of your next turn.  [[Equipment Effects/Effect_ Pickled Demon Tongue - Armor|Effect: Pickled Demon Tongue - Armor]]  [[Equipment Effects/Effect_ Pickled Demon Tongue - Weapon|Effect: Pickled Demon Tongue - Weapon]]  * * *  **Activate** Cast a Spell  **Effect** You cast [[Spells/Acid Splash|Acid Splash]]."
+description: "This small crystal vial contains the forked end of a demon's tongue,
+  preserved in brine. The spell attack roll of any spell cast by Activating this item
+  is +7, and the spell DC is 17.  *   **Armor** You gain resistance 2 to acid and
+  attacks by demons. *   **Weapon** After you cast an acid spell by Activating the
+  _pickled demon tongue_, your Strikes with the weapon deal an additional 1d4 acid
+  damage until end of your next turn.  [[Equipment Effects/Effect_ Pickled Demon Tongue
+  - Armor|Effect: Pickled Demon Tongue - Armor]]  [[Equipment Effects/Effect_ Pickled
+  Demon Tongue - Weapon|Effect: Pickled Demon Tongue - Weapon]]  * * *  **Activate**
+  Cast a Spell  **Effect** You cast [[Spells/Acid Splash|Acid Splash]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

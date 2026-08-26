@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "purgatory-emissarys-staff"
 aliases: "Purgatory Emissary's Staff"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "staff"
 trait03: "two-hand-d8"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,22 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This ash wood staff is topped by a long tassel of bleached-white horsehair. Historically carried by the most important of court officials throughout various regions and periods of Tian Xia's history, purgatory emissary's staves are also strongly associated with psychopomps serving punitive sentences. It's thought this connection is a comical nod to the bureaucratic nature of the afterlife.  Psychopomps and spirits tend to regard you with a level of respect while you carry a _purgatory emissary's staff_. While you wield this staff, you receive a +2 item bonus to all skill checks made to adjust a psychopomp's or spirit's attitude.  When used as a weapon, a purgatory emissary's staff is a _+2 striking ghost touch staff._  **Activate** Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to cast a spell from its list.  *   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]] *   **1st** [[Spells/Command|Command]], [[Spells/Sanctuary|Sanctuary]] *   **2nd** [[Spells/Clear Mind|Clear Mind]] ([[Conditions/Frightened|Frightened]] only), [[Spells/See the Unseen|See the Unseen]] *   **3rd** [[Spells/Holy Light|Holy Light]], [[Spells/Ring of Truth|Ring of Truth]] *   **4th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Talking Corpse|Talking Corpse]] *   **5th** [[Spells/Banishment|Banishment]], [[Spells/Truespeech|Truespeech]]"
+description: "This ash wood staff is topped by a long tassel of bleached-white horsehair.
+  Historically carried by the most important of court officials throughout various
+  regions and periods of Tian Xia's history, purgatory emissary's staves are also
+  strongly associated with psychopomps serving punitive sentences. It's thought this
+  connection is a comical nod to the bureaucratic nature of the afterlife.  Psychopomps
+  and spirits tend to regard you with a level of respect while you carry a _purgatory
+  emissary's staff_. While you wield this staff, you receive a +2 item bonus to all
+  skill checks made to adjust a psychopomp's or spirit's attitude.  When used as a
+  weapon, a purgatory emissary's staff is a _+2 striking ghost touch staff._  **Activate**
+  Cast a Spell  * * *  **Effect** You expend a number of charges from the staff to
+  cast a spell from its list.  *   **Cantrip** [[Spells/Vitality Lash|Vitality Lash]]
+  *   **1st** [[Spells/Command|Command]], [[Spells/Sanctuary|Sanctuary]] *   **2nd**
+  [[Spells/Clear Mind|Clear Mind]] ([[Conditions/Frightened|Frightened]] only), [[Spells/See
+  the Unseen|See the Unseen]] *   **3rd** [[Spells/Holy Light|Holy Light]], [[Spells/Ring
+  of Truth|Ring of Truth]] *   **4th** [[Spells/Dispel Magic|Dispel Magic]], [[Spells/Talking
+  Corpse|Talking Corpse]] *   **5th** [[Spells/Banishment|Banishment]], [[Spells/Truespeech|Truespeech]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +62,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 bludgeoning
 dmg1:
@@ -76,5 +91,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

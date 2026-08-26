@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "phalanx-piercer"
 aliases: "Phalanx Piercer"
@@ -17,7 +17,7 @@ trait02: "hobgoblin"
 trait03: "propulsive"
 trait04: "razing"
 trait05: "volley-30"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,9 @@ invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "This massive bow is made from bone or wood reinforced with flexible metal strips and strung with reinforced cord. Designed by hobgoblin engineers to take down shielded opponents, the phalanx piercer fires heavy, iron-shod bolts."
+description: "This massive bow is made from bone or wood reinforced with flexible
+  metal strips and strung with reinforced cord. Designed by hobgoblin engineers to
+  take down shielded opponents, the phalanx piercer fires heavy, iron-shod bolts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

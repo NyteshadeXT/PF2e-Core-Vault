@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "roc-shaft-arrow-(lesser)"
 aliases: "Roc-Shaft Arrow (Lesser)"
 source: "Pathfinder #208: Hoof, Cinder, and Storm"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
-weight: 
+weight:
 value: "24"
 subvalue: "gp"
 invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "**Ammunition** arrow  **Activate** `pf2:1` Interact  * * *  Each of these arrows is made from an immense roc's flight feather, most of whose vanes have been trimmed to expose the arrow's shaft. When an activated roc-shaft arrow hits a target, the arrow briefly grows a pair of avian wings and attempts to carry off the target. The target must succeed at a DC 19 Fortitude check save or be moved to a space you choose within 10 feet (20 feet on a critical failure). If this would move the target into a hazardous space, this effect gains the incapacitation trait."
+description: "**Ammunition** arrow  **Activate** `pf2:1` Interact  * * *  Each of
+  these arrows is made from an immense roc's flight feather, most of whose vanes have
+  been trimmed to expose the arrow's shaft. When an activated roc-shaft arrow hits
+  a target, the arrow briefly grows a pair of avian wings and attempts to carry off
+  the target. The target must succeed at a DC 19 Fortitude check save or be moved
+  to a space you choose within 10 feet (20 feet on a critical failure). If this would
+  move the target into a hazardous space, this effect gains the incapacitation trait."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

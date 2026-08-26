@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spellbreaking-(transmutation)"
 aliases: "Spellbreaking (Transmutation)"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,18 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 13
-weight: 
+weight:
 value: "3000"
 subvalue: "gp"
 invest:
 usage: "etched onto armor"
 license: "ORC"
 identify:
-description: "Counter-runes specific to a particular school of magic provide protections against that school. You gain a +1 status bonus to saving throws and AC against one school of magic: abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, or transmutation. The crafter chooses the school when creating the rune."
+description: "Counter-runes specific to a particular school of magic provide protections
+  against that school. You gain a +1 status bonus to saving throws and AC against
+  one school of magic: abjuration, conjuration, divination, enchantment, evocation,
+  illusion, necromancy, or transmutation. The crafter chooses the school when creating
+  the rune."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

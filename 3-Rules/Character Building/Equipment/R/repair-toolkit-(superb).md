@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "repair-toolkit-(superb)"
 aliases: "Repair Toolkit (Superb)"
 source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
-trait01: "common"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "A repair kit allows you to perform simple repairs while traveling. It contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning leather and wood. You can use a repair kit to Repair items using the Crafting skill. A superb repair kit gives you a +1 item bonus to the check. You can draw and replace a worn repair toolkit as part of the action that uses it."
+description: "A repair kit allows you to perform simple repairs while traveling. It
+  contains a portable anvil, tongs, woodworking tools, a whetstone, and oils for conditioning
+  leather and wood. You can use a repair kit to Repair items using the Crafting skill.
+  A superb repair kit gives you a +1 item bonus to the check. You can draw and replace
+  a worn repair toolkit as part of the action that uses it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

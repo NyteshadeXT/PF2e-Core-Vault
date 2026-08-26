@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "phantom-roll"
 aliases: "Phantom Roll"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  A phantom roll contains vegetables, greens, and fine, clear noodles, all wrapped in transparent, edible starch paper and alchemically treated and laced with a tangy sauce. Upon eating the roll, you gain a +1 item bonus to Stealth checks you attempt during the [[Actions/Avoid Notice|Avoid Notice]] exploration activity. You can also Avoid Notice at full Speed or combine it with Investigate or Scout while moving at half Speed. These effects expire 24 hours after you eat the roll or when you make your next daily preparations, whichever comes first."
+description: "**Activate** 10 minutes (Interact)  A phantom roll contains vegetables,
+  greens, and fine, clear noodles, all wrapped in transparent, edible starch paper
+  and alchemically treated and laced with a tangy sauce. Upon eating the roll, you
+  gain a +1 item bonus to Stealth checks you attempt during the [[Actions/Avoid Notice|Avoid
+  Notice]] exploration activity. You can also Avoid Notice at full Speed or combine
+  it with Investigate or Scout while moving at half Speed. These effects expire 24
+  hours after you eat the roll or when you make your next daily preparations, whichever
+  comes first."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

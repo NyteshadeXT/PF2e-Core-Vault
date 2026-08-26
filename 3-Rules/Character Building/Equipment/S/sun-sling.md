@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sun-sling"
 aliases: "Sun Sling"
 source: "Pathfinder #172: Secrets of the Temple-City"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "concussive"
 trait02: "propulsive"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one plus hands "
 license: "ORC"
 identify:
-description: "A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. This is a martial ranged weapon.  Sun slings use small metal bullets covered in sharp spikes known as [[Equipment/Sun Shot|Sun Shots]]. A bundle of 10 sun shots has light bulk and costs 1 sp."
+description: "A sun sling is a small staff with a head of woven netting. The staff
+  is small enough to hold in a single hand, making it useful for hit-and-run tactics,
+  but once loaded with ammunition, it requires two hands to properly swing and fire.
+  This is a martial ranged weapon.  Sun slings use small metal bullets covered in
+  sharp spikes known as [[Equipment/Sun Shot|Sun Shots]]. A bundle of 10 sun shots
+  has light bulk and costs 1 sp."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

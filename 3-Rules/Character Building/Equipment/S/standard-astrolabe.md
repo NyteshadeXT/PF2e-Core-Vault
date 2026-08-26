@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "standard-astrolabe"
 aliases: "Standard Astrolabe"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** 1 minute (Interact)  Astrolabes can be used for navigation in unfamiliar or featureless locations. To use an astrolabe, the holder must be trained in Survival. By spending 1 minute to measure the height of the stars and planets, a holder who knows the time and date can determine the latitude, and a holder who knows their latitude can determine the date and time. An astrolabe also grants a +1 item bonus to checks to identify celestial bodies. A standard astrolabe functions only on steady ground."
+description: "**Activate** 1 minute (Interact)  Astrolabes can be used for navigation
+  in unfamiliar or featureless locations. To use an astrolabe, the holder must be
+  trained in Survival. By spending 1 minute to measure the height of the stars and
+  planets, a holder who knows the time and date can determine the latitude, and a
+  holder who knows their latitude can determine the date and time. An astrolabe also
+  grants a +1 item bonus to checks to identify celestial bodies. A standard astrolabe
+  functions only on steady ground."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

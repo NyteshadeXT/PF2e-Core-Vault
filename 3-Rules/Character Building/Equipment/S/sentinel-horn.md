@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sentinel-horn"
 aliases: "Sentinel Horn"
 source: "Pathfinder #195: Heavy is the Crown"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "auditory"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This curved brass horn is a virtuoso instrument with a surprisingly deep tone, etched with images of interlocking lines and swirls. Sentinel horns come in pairs, and each works with only the other of its pair. The listed Price is for a pair of sentinel horns.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per round  **Effect** You play a specific tune on the horn. When you do, the other horn also plays the same tune, not matter how far away it is, as long as it is on the same plane."
+description: "This curved brass horn is a virtuoso instrument with a surprisingly
+  deep tone, etched with images of interlocking lines and swirls. Sentinel horns come
+  in pairs, and each works with only the other of its pair. The listed Price is for
+  a pair of sentinel horns.  * * *  **Activate** `pf2:2` Interact  **Frequency** once
+  per round  **Effect** You play a specific tune on the horn. When you do, the other
+  horn also plays the same tune, not matter how far away it is, as long as it is on
+  the same plane."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

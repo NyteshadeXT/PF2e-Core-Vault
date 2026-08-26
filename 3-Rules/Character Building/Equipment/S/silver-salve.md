@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silver-salve"
 aliases: "Silver Salve"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You can slather this silvery paste onto one melee weapon, one thrown weapon, or 10 pieces of ammunition. Silver salve spoils quickly, so once you open a vial, you must use it all at once, rather than saving it.  For the next hour, the weapon or ammunition counts as silver instead of its normal material (such as cold iron) for any physical damage it deals.  [[Equipment Effects/Effect_ Silver Salve|Effect: Silver Salve]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  You can slather this silvery
+  paste onto one melee weapon, one thrown weapon, or 10 pieces of ammunition. Silver
+  salve spoils quickly, so once you open a vial, you must use it all at once, rather
+  than saving it.  For the next hour, the weapon or ammunition counts as silver instead
+  of its normal material (such as cold iron) for any physical damage it deals.  [[Equipment
+  Effects/Effect_ Silver Salve|Effect: Silver Salve]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "truth-potion"
 aliases: "Truth Potion"
 source: "Pathfinder GM Core"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
 trait03: "mental"
 trait04: "potion"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  For 10 minutes after drinking this astringent potion, you can't intentionally lie and may be compelled to tell the truth. Upon drinking the potion, attempt a DC 19 Will check save. You can voluntarily fail or critically fail.  **Success** The potion does not affect you.  **Failure** When you speak, you must tell the truth.  **Critical Failure** As failure, and when someone asks you a question, you must attempt another DC 19 Will check saving throw. If you fail this saving throw, you must answer the question truthfully if you are able to do so; if you succeed, you are temporarily immune to further attempts to ask the same question within the potion's duration."
+description: "**Activate** `pf2:1` (manipulate)  * * *  For 10 minutes after drinking
+  this astringent potion, you can't intentionally lie and may be compelled to tell
+  the truth. Upon drinking the potion, attempt a DC 19 Will check save. You can voluntarily
+  fail or critically fail.  **Success** The potion does not affect you.  **Failure**
+  When you speak, you must tell the truth.  **Critical Failure** As failure, and when
+  someone asks you a question, you must attempt another DC 19 Will check saving throw.
+  If you fail this saving throw, you must answer the question truthfully if you are
+  able to do so; if you succeed, you are temporarily immune to further attempts to
+  ask the same question within the potion's duration."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

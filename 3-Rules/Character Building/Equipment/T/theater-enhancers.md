@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "theater-enhancers"
 aliases: "Theater Enhancers"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "15"
 subvalue: "gp"
 invest:
 usage: "worneyeglasses"
 license: "ORC"
 identify:
-description: "_Theater enhancers_ resemble a pair of opera glasses. When worn, they allow the viewer to see subtle illusions on key props or stage elements that have been cast ahead of time. For instance, a puppet of a demon might appear to project a sinister moving shadow, or a backdrop of a mountain might have snowflakes falling over it. Popular among theatergoers who want a visual experience grander than what they can see with their own eyes, _theater enhancers_ are largely limited to fancy stage productions that can afford the time and money it takes to enchant a stage with them in mind."
+description: "_Theater enhancers_ resemble a pair of opera glasses. When worn, they
+  allow the viewer to see subtle illusions on key props or stage elements that have
+  been cast ahead of time. For instance, a puppet of a demon might appear to project
+  a sinister moving shadow, or a backdrop of a mountain might have snowflakes falling
+  over it. Popular among theatergoers who want a visual experience grander than what
+  they can see with their own eyes, _theater enhancers_ are largely limited to fancy
+  stage productions that can afford the time and money it takes to enchant a stage
+  with them in mind."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

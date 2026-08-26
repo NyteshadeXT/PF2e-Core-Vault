@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-unlife-(minor)"
 aliases: "Oil of Unlife (Minor)"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
 trait04: "void"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash _oil of unlife_ onto an undead creature, or a living creature with void healing, the oil absorbs quickly into its body, and the creature regains 1d8 Hit Points. You can pour _oil of unlife_ on an incorporeal undead; in this case, the creature absorbs the oil into itself."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This thin, black liquid imparts
+  a bone-deep chill while rapidly repairing an undead creature's physical or spiritual
+  form. When you dash _oil of unlife_ onto an undead creature, or a living creature
+  with void healing, the oil absorbs quickly into its body, and the creature regains
+  1d8 Hit Points. You can pour _oil of unlife_ on an incorporeal undead; in this case,
+  the creature absorbs the oil into itself."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "repeating-heavy-crossbow"
 aliases: "Repeating Heavy Crossbow"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "repeating"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This large crossbow has an internal chamber that can be loaded with up to five bolts. While it uses the same automated catch mechanism as other repeating crossbows, a repeating heavy crossbow's design has significant trade-offs. It has increased range and damage and is easier to learn how to use, but requires a small amount of effort to reload."
+description: "This large crossbow has an internal chamber that can be loaded with
+  up to five bolts. While it uses the same automated catch mechanism as other repeating
+  crossbows, a repeating heavy crossbow's design has significant trade-offs. It has
+  increased range and damage and is easier to learn how to use, but requires a small
+  amount of effort to reload."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

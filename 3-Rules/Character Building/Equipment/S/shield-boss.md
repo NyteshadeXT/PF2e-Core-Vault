@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shield-boss"
 aliases: "Shield Boss"
@@ -13,7 +13,7 @@ source: "Pathfinder Player Core"
 pg: ""
 rarity: ""
 trait01: "attached-to-shield"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,16 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
-weight: 
+weight:
 value: "5"
 subvalue: "sp"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash."
+description: "Typically a round, convex, or conical piece of thick metal attached
+  to the center of a shield, a shield boss increases the bludgeoning damage of a shield
+  bash."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 bludgeoning
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

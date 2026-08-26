@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "sairazul-blue"
 aliases: "Sairazul Blue"
 source: "Pathfinder Rage of Elements"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "earth"
 trait03: "magical"
 trait04: "potion"
-trait05: "rare"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A _Sairazul blue_ potion is a rich navy blue in color. Subjects of the Crystalline Queen produced the potion to protect themselves from the radiation Ayrzul left behind. For the next 8 hours, your skin becomes navy blue, and you gain resistance 5 to poison damage and void damage.  [[Equipment Effects/Effect_ Sairazul Blue|Effect: Sairazul Blue]]  If you drop to 0 Hit Points due to poison or void damage, the _Sairazul blue_ within your body reacts, healing you for 8d8 healing Hit Points. The resistances the potion grants then end."
+description: "**Activate** `pf2:1` (manipulate)  * * *  A _Sairazul blue_ potion is
+  a rich navy blue in color. Subjects of the Crystalline Queen produced the potion
+  to protect themselves from the radiation Ayrzul left behind. For the next 8 hours,
+  your skin becomes navy blue, and you gain resistance 5 to poison damage and void
+  damage.  [[Equipment Effects/Effect_ Sairazul Blue|Effect: Sairazul Blue]]  If you
+  drop to 0 Hit Points due to poison or void damage, the _Sairazul blue_ within your
+  body reacts, healing you for 8d8 healing Hit Points. The resistances the potion
+  grants then end."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

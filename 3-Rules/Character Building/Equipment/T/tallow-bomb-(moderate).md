@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "tallow-bomb-(moderate)"
 aliases: "Tallow Bomb (Moderate)"
 source: "Pathfinder #175: Broken Tusk Moon"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "fire"
 trait05: "splash"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  A mixture of rendered animal fat and acids designed to ignite the fat when exposed to air, a tallow bomb creates a splash of burning oil that adheres to skin, clothes, and hair. A tallow bomb deals the listed fire damage, persistent fire damage, and splash damage.  On a critical hit, a living creature taking persistent fire damage from a tallow bomb is [[Conditions/Sickened|Sickened 1]] from the stench of burning fat and can't reduce its sickened value below 1 while the persistent fire damage lasts.  You gain a +1 item bonus to attack rolls. The bomb deals 2d4 persistent fire damage and 2 fire splash damage."
+description: "**Activate** `pf2:1` Strike  * * *  A mixture of rendered animal fat
+  and acids designed to ignite the fat when exposed to air, a tallow bomb creates
+  a splash of burning oil that adheres to skin, clothes, and hair. A tallow bomb deals
+  the listed fire damage, persistent fire damage, and splash damage.  On a critical
+  hit, a living creature taking persistent fire damage from a tallow bomb is [[Conditions/Sickened|Sickened
+  1]] from the stench of burning fat and can't reduce its sickened value below 1 while
+  the persistent fire damage lasts.  You gain a +1 item bonus to attack rolls. The
+  bomb deals 2d4 persistent fire damage and 2 fire splash damage."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

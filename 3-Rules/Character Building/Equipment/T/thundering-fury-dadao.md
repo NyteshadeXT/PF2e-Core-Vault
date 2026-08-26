@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "thundering-fury-dadao"
 aliases: "Thundering Fury Dadao"
 source: "Pathfinder #199: To Bloom Below the Web"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "magical"
 trait02: "sonic"
 trait03: "versatile-p"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This massive, curved blade roars when it crashes down on opponents, seemingly intent on subduing them with sheer force. It's said materials for the first thundering fury dadaos came from the hide of Yorak, the Horned Thunder, a legendary kaiju that roams the Shanguang desert. The lack of embellishments on this _+2 striking thundering greatsword_ belies a weapon of deadly efficacy.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** You infuse the _thundering fury dadao_ with the speed of lightning and the force of thunder. The weapon gains the agile and forceful traits for one round. You can Sustain this activation for up to 1 minute.  [[Equipment Effects/Effect_ Thundering Fury Dadao|Effect: Thundering Fury Dadao]]"
+description: "This massive, curved blade roars when it crashes down on opponents,
+  seemingly intent on subduing them with sheer force. It's said materials for the
+  first thundering fury dadaos came from the hide of Yorak, the Horned Thunder, a
+  legendary kaiju that roams the Shanguang desert. The lack of embellishments on this
+  _+2 striking thundering greatsword_ belies a weapon of deadly efficacy.  **Activate**
+  `pf2:1` envision  **Frequency** once per day  * * *  **Effect** You infuse the _thundering
+  fury dadao_ with the speed of lightning and the force of thunder. The weapon gains
+  the agile and forceful traits for one round. You can Sustain this activation for
+  up to 1 minute.  [[Equipment Effects/Effect_ Thundering Fury Dadao|Effect: Thundering
+  Fury Dadao]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d12 slashing
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

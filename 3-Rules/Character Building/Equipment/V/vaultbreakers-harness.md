@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "vaultbreakers-harness"
 aliases: "Vaultbreaker's Harness"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "invested"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,17 @@ invest:
 usage: "wornbackpack"
 license: "ORC"
 identify:
-description: "A _vaultbreaker's harness_ has four pockets across the chest. The pockets contain a set of [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves' Tools (Infiltrator)]],[[Equipment/Thieves' Toolkit (Infiltrator Picks)|Thieves' Tools (Infiltrator Picks)]], a [[Equipment/Crowbar (Levered)|Crowbar (Levered)]], and a [[Equipment/Glass Cutter|Glass Cutter]]. These items are magically bound to the harness; if they are more than 1 foot away from you, they disappear, then reappear in the harness at the next sunset. Broken or destroyed items similarly reappear, restored, in their proper pockets at sunset.  **Activate** `pf2:1` Interact  * * *  **Effect** You cinch the harness to prepare for mischief. You gain a +1 item bonus to Stealth checks and a +10-foot item bonus to your Speed for 1 minute.  [[Equipment Effects/Effect_ Vaultbreaker's Harness|Effect: Vaultbreaker's Harness]]"
+description: "A _vaultbreaker's harness_ has four pockets across the chest. The pockets
+  contain a set of [[Equipment/Thieves' Toolkit (Infiltrator)|Thieves' Tools (Infiltrator)]],[[Equipment/Thieves'
+  Toolkit (Infiltrator Picks)|Thieves' Tools (Infiltrator Picks)]], a [[Equipment/Crowbar
+  (Levered)|Crowbar (Levered)]], and a [[Equipment/Glass Cutter|Glass Cutter]]. These
+  items are magically bound to the harness; if they are more than 1 foot away from
+  you, they disappear, then reappear in the harness at the next sunset. Broken or
+  destroyed items similarly reappear, restored, in their proper pockets at sunset.\
+  \  **Activate** `pf2:1` Interact  * * *  **Effect** You cinch the harness to prepare
+  for mischief. You gain a +1 item bonus to Stealth checks and a +10-foot item bonus
+  to your Speed for 1 minute.  [[Equipment Effects/Effect_ Vaultbreaker's Harness|Effect:
+  Vaultbreaker's Harness]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +57,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +86,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

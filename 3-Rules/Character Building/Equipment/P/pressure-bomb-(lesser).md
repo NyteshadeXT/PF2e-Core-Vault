@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pressure-bomb-(lesser)"
 aliases: "Pressure Bomb (Lesser)"
 source: "Pathfinder Special: Fumbus!"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "force"
 trait05: "splash"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  This tightly sealed metal container is filled with highly pressurized gas that can explode to release a powerful shockwave. A pressure bomb deals 1d4 bludgeoning damage and 1 bludgeoning splash damage. On a critical hit, the target is knocked [[Conditions/Prone|Prone]].  Tiny or smaller targets are pushed 5 feet away from you."
+description: "**Activate** `pf2:1` Strike  * * *  This tightly sealed metal container
+  is filled with highly pressurized gas that can explode to release a powerful shockwave.
+  A pressure bomb deals 1d4 bludgeoning damage and 1 bludgeoning splash damage. On
+  a critical hit, the target is knocked [[Conditions/Prone|Prone]].  Tiny or smaller
+  targets are pushed 5 feet away from you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "piranha-kiss"
 aliases: "Piranha Kiss"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "agile"
 trait02: "disarm"
 trait03: "finesse"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Made of a jagged blade with teeth pointing toward a leather-wrapped hilt, these weapons are particularly effective at disarming opponents. Piranha kisses were occasionally used during the Vidric Revolution, and some Firebrands carry them today. Members of the Firebrands have access to this weapon."
+description: "Made of a jagged blade with teeth pointing toward a leather-wrapped
+  hilt, these weapons are particularly effective at disarming opponents. Piranha kisses
+  were occasionally used during the Vidric Revolution, and some Firebrands carry them
+  today. Members of the Firebrands have access to this weapon."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +50,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d6 slashing
 dmg1:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

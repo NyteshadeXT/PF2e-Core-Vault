@@ -2,16 +2,16 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "reapers-lancet"
 aliases: "Reaper's Lancet"
 source: "Pathfinder #157: Devil at the Dreaming Palace"
 pg: ""
-rarity: ""
+rarity: "Unique"
 trait01: "agile"
 trait02: "concealable"
 trait03: "finesse"
@@ -19,7 +19,7 @@ trait04: "magical"
 trait05: "parry"
 trait06: "poison"
 trait07: "twin"
-trait08: "unique"
+trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 5
 weight: 1
@@ -29,7 +29,21 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "Hendrid Pratchett himself designed this custom skull-topped +1 striking exquisite sword cane and had it gilded in high-quality gold. Its first victim was the very smith whom Pratchett commissioned to craft the weapon, so the means of its construction are a secret known only to Pratchett. The magic of the _Reaper's Lancet_ applies to both the blade and the sheath, making them each effectively a +1 striking weapon, but only if both are wielded by the same creature-if the two components are shared between creatures, only the blade retains the rune's magic.  _Reaper's Lancet_ has a hidden reservoir inside the skull that automatically applies a new dose of poison to the blade after the previous dose was expended with a successful Strike. The reservoir must be filled manually (a process requiring 1 minute) and is large enough to hold only 3 doses at a time. Any sort of injury-delivered poison can be placed in it, though all doses must be of the same poison. The Price of the poison is not reflected in this weapon's listed Price.  **Activate** `pf2:r` Interact  **Trigger** You damage a creature with Reaper's Lancet  * * *  **Effect** You poison the creature you hit with the poison currently in the reservoir."
+description: "Hendrid Pratchett himself designed this custom skull-topped +1 striking
+  exquisite sword cane and had it gilded in high-quality gold. Its first victim was
+  the very smith whom Pratchett commissioned to craft the weapon, so the means of
+  its construction are a secret known only to Pratchett. The magic of the _Reaper's
+  Lancet_ applies to both the blade and the sheath, making them each effectively a
+  +1 striking weapon, but only if both are wielded by the same creature-if the two
+  components are shared between creatures, only the blade retains the rune's magic.\
+  \  _Reaper's Lancet_ has a hidden reservoir inside the skull that automatically
+  applies a new dose of poison to the blade after the previous dose was expended with
+  a successful Strike. The reservoir must be filled manually (a process requiring
+  1 minute) and is large enough to hold only 3 doses at a time. Any sort of injury-delivered
+  poison can be placed in it, though all doses must be of the same poison. The Price
+  of the poison is not reflected in this weapon's listed Price.  **Activate** `pf2:r`
+  Interact  **Trigger** You damage a creature with Reaper's Lancet  * * *  **Effect**
+  You poison the creature you hit with the poison currently in the reservoir."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +61,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d6 piercing
 dmg1:
@@ -76,5 +90,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

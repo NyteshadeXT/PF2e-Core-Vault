@@ -31,7 +31,6 @@ license: "OGL"
 identify: ""
 activate: "`pf2:2` ([[manipulate]])"
 description: "Brewed from a plant native to the First World, brightshade destroys tissue, living or dead. Victims of this poison take poison damage if they’re alive and vitality damage if they’re undead.<br><br>**Saving Throw** DC 21 Fortitude; **Maximum Duration** 6 rounds; **Stage 1** `dice: 1d6` 1d6 poison or vitality damage (1 round); **Stage 2** `dice: 2d6` 2d6 poison or vitality damage (1 round)"
-activate: ""
 craft: 
 destruction: 
 

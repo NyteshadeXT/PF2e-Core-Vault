@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "meteor-hammer"
 aliases: "Meteor Hammer"
@@ -16,7 +16,7 @@ trait01: "backswing"
 trait02: "disarm"
 trait03: "reach"
 trait04: "trip"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "This weapon consists of a long chain connected to a heavy weight at one end. When a wielder swings the weight by the chain, it builds momentum and can serve as a deadly bludgeon with incredible reach."
+description: "This weapon consists of a long chain connected to a heavy weight at
+  one end. When a wielder swings the weight by the chain, it builds momentum and can
+  serve as a deadly bludgeon with incredible reach."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +49,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d8 bludgeoning
 dmg1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

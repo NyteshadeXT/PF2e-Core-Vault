@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "portable-altar"
 aliases: "Portable Altar"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This travel-ready kit contains a small altar featuring a deity's iconography. The altar's top can be lifted to reveal a compartment for materials of no more than light Bulk (such as candles, incense, oils, and small texts). The altar grants a +1 item bonus to checks made to conduct religious rites using Performance or Religion."
+description: "This travel-ready kit contains a small altar featuring a deity's iconography.
+  The altar's top can be lifted to reveal a compartment for materials of no more than
+  light Bulk (such as candles, incense, oils, and small texts). The altar grants a
+  +1 item bonus to checks made to conduct religious rites using Performance or Religion."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

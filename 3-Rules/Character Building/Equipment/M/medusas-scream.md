@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "medusas-scream"
 aliases: "Medusa's Scream"
@@ -13,7 +13,7 @@ source: "Pathfinder Player Core 2"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover to conceal the head.  * * *  **Activate—Petrifying Gaze** `pf2:2` (manipulate, visual)  **Frequency** once per day  * * *  **Effect** You reveal the medusa's face, focusing its gaze on one creature within 30 feet. The shield casts a DC 30 [[Spells/Petrify|Petrify]] spell with a range of 30 feet.  * * *  **Craft Requirements** The initial raw materials must include the head of a medusa.      | Hardness | HP | BT | | --- | --- | --- | | 13 | 52 | 26 |"
+description: "The ghastly visage of a slain medusa's head stares out from this steel
+  shield (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover
+  to conceal the head.  * * *  **Activate—Petrifying Gaze** `pf2:2` (manipulate, visual)\
+  \  **Frequency** once per day  * * *  **Effect** You reveal the medusa's face, focusing
+  its gaze on one creature within 30 feet. The shield casts a DC 30 [[Spells/Petrify|Petrify]]
+  spell with a range of 30 feet.  * * *  **Craft Requirements** The initial raw materials
+  must include the head of a medusa.      | Hardness | HP | BT | | --- | --- | ---
+  | | 13 | 52 | 26 |"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

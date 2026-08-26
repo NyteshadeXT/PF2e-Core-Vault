@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "philter-of-empty-dreams"
 aliases: "Philter of Empty Dreams"
 source: "Pathfinder #200: Seven Dooms for Sandpoint"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "magical"
 trait03: "potion"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  A _philter of empty dreams_ is a dose of glowing blue liquid that prevents dreams. When you drink a _philter of empty dreams_, you have no dreams for the next 8 hours and gain a +1 item bonus to saving throws against dream- or nightmare-themed effects (including saving throws against the effects of midnight milk). If you're suffering from an addiction to midnight milk when you drink a _philter of empty dreams_, the potion attempts to counteract the addiction with a counteract rank of 4 and a +15 modifier for the roll. If an intellect devourer who's controlling a stolen body uses the body to drink a _philter of empty dreams_, the intellect devourer must succeed at a DC 24 Fortitude check save or be forced to Exit the Body immediately."
+description: "**Activate** `pf2:1` (manipulate)  * * *  A _philter of empty dreams_
+  is a dose of glowing blue liquid that prevents dreams. When you drink a _philter
+  of empty dreams_, you have no dreams for the next 8 hours and gain a +1 item bonus
+  to saving throws against dream- or nightmare-themed effects (including saving throws
+  against the effects of midnight milk). If you're suffering from an addiction to
+  midnight milk when you drink a _philter of empty dreams_, the potion attempts to
+  counteract the addiction with a counteract rank of 4 and a +15 modifier for the
+  roll. If an intellect devourer who's controlling a stolen body uses the body to
+  drink a _philter of empty dreams_, the intellect devourer must succeed at a DC 24
+  Fortitude check save or be forced to Exit the Body immediately."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

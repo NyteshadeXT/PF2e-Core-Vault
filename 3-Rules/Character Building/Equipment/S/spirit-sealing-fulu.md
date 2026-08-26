@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spirit-sealing-fulu"
 aliases: "Spirit-Sealing Fulu"
@@ -16,20 +16,23 @@ trait01: "consumable"
 trait02: "fulu"
 trait03: "incapacitation"
 trait04: "magical"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "10"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Usage** affixed to one undead creature  **Duration** 1 round  * * *  This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round."
+description: "**Usage** affixed to one undead creature  **Duration** 1 round  * *
+  *  This classic fulu seals the void energy within an undead, freezing it in its
+  tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or
+  be [[Conditions/Paralyzed|Paralyzed]] for 1 round."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

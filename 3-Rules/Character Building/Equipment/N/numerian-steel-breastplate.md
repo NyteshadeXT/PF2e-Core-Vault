@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "numerian-steel-breastplate"
 aliases: "Numerian Steel Breastplate"
 source: "Pathfinder Society Scenario #1-24: Lightning Strikes, Stars Fall"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
-trait03: "rare"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,14 @@ invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This +1 resilient breastplate is constructed from the salvaged armor plating of one of Numeria's large robots. It protects the wearer from harsh elements and common laser fire, granting the wearer fire resistance 5.  **Activate** `pf2:1` command  **Frequency** once per day  * * *  **Effect** You activate the remnants of mysterious technology within the breastplate to encase yourself in an electric field. For 1 minute, adjacent creatures that hit you with a melee Strike, as well as creatures that touch you or hit you with an unarmed attack, take 1d10 electricity damage per hit."
+description: "This +1 resilient breastplate is constructed from the salvaged armor
+  plating of one of Numeria's large robots. It protects the wearer from harsh elements
+  and common laser fire, granting the wearer fire resistance 5.  **Activate** `pf2:1`
+  command  **Frequency** once per day  * * *  **Effect** You activate the remnants
+  of mysterious technology within the breastplate to encase yourself in an electric
+  field. For 1 minute, adjacent creatures that hit you with a melee Strike, as well
+  as creatures that touch you or hit you with an unarmed attack, take 1d10 electricity
+  damage per hit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

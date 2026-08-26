@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pickpockets-tailoring"
 aliases: "Pickpocket's Tailoring"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 4
-weight: 
+weight:
 value: "100"
 subvalue: "gp"
 invest:
 usage: "sewn into clothing"
 license: "ORC"
 identify:
-description: "Pickpocket's tailoring modifies an existing outfit by adding concealed interior pockets and strategically opened seams for hiding small objects inside the lining. You gain a +1 item bonus to Stealth checks to Conceal an Object of light Bulk or less in the pockets. When you get a failure (but not a critical failure, which works as normal) on a Stealth check to Conceal such an Object, observers know you're concealing an object somewhere, but they don't find the object unless they succeed at a DC 20 Perception check check to locate the seams in the garment."
+description: "Pickpocket's tailoring modifies an existing outfit by adding concealed
+  interior pockets and strategically opened seams for hiding small objects inside
+  the lining. You gain a +1 item bonus to Stealth checks to Conceal an Object of light
+  Bulk or less in the pockets. When you get a failure (but not a critical failure,
+  which works as normal) on a Stealth check to Conceal such an Object, observers know
+  you're concealing an object somewhere, but they don't find the object unless they
+  succeed at a DC 20 Perception check check to locate the seams in the garment."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

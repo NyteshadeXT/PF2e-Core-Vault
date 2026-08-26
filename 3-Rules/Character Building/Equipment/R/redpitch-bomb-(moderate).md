@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "redpitch-bomb-(moderate)"
 aliases: "Redpitch Bomb (Moderate)"
 source: "Pathfinder Blog"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
 trait04: "fire"
 trait05: "splash"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  Sap from redpitch pines, if properly distilled into a gummy, incendiary mass, ignites when exposed to the air. A redpitch bomb deals the listed fire damage, persistent fire damage, and splash damage. Many types grant an item bonus to attack rolls.  You gain a +1 item bonus to attack rolls. The bomb deals 2 fire damage, 2d4 persistent fire damage, and 2 fire splash damage. On a critical hit, the target is [[Conditions/Clumsy|Clumsy 1]] until the start of your next turn."
+description: "**Activate** `pf2:1` Strike  Sap from redpitch pines, if properly distilled
+  into a gummy, incendiary mass, ignites when exposed to the air. A redpitch bomb
+  deals the listed fire damage, persistent fire damage, and splash damage. Many types
+  grant an item bonus to attack rolls.  You gain a +1 item bonus to attack rolls.
+  The bomb deals 2 fire damage, 2d4 persistent fire damage, and 2 fire splash damage.
+  On a critical hit, the target is [[Conditions/Clumsy|Clumsy 1]] until the start
+  of your next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

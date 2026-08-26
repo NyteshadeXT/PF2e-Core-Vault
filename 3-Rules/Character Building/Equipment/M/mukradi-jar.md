@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mukradi-jar"
 aliases: "Mukradi Jar"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "expandable"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  A miniature mukradi, its chitin shrunken and pale, is coiled within this jar. Its hollow form grows to a Gargantuan shell when you open the jar. It emits one of three breath weapons, chosen by you. Each creature in the area must attempt a DC 34 basic Reflex save.  *   **Acid Maw** (acid) 10-foot-wide, 60-foot line of acid dealing 12d6 acid. DC 34 Reflex check *   **Flame Maw** (fire) 60-foot cone of fire dealing 12d6 fire. DC 34 Reflex check *   **Shock Maw** (electricity) 120-foot line of electricity dealing 12d6 electricity. DC 34 Reflex check  * * *  **Craft Requirements** Supply a mukradi corpse."
+description: "**Activate** `pf2:2` Interact  A miniature mukradi, its chitin shrunken
+  and pale, is coiled within this jar. Its hollow form grows to a Gargantuan shell
+  when you open the jar. It emits one of three breath weapons, chosen by you. Each
+  creature in the area must attempt a DC 34 basic Reflex save.  *   **Acid Maw** (acid)
+  10-foot-wide, 60-foot line of acid dealing 12d6 acid. DC 34 Reflex check *   **Flame
+  Maw** (fire) 60-foot cone of fire dealing 12d6 fire. DC 34 Reflex check *   **Shock
+  Maw** (electricity) 120-foot line of electricity dealing 12d6 electricity. DC 34
+  Reflex check  * * *  **Craft Requirements** Supply a mukradi corpse."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

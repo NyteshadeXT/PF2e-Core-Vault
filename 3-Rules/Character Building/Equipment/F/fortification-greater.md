@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "fortification-greater"
 aliases: "Fortification (Greater)"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: "226"
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "24000"
 subvalue: "gp"
 invest:
 usage: "etched onto med heavy armor"
 license: "ORC"
 identify:
-description: "A _greater fortification_ rune wards against the most deadly attacks. Each time you're critically hit while wearing the etched armor, attempt a DC 14 Flat check. On a success, it becomes a normal hit. This property thickens the armor, increasing its Bulk by 1 and the Strength required to reduce its penalties by 1."
+description: "A _greater fortification_ rune wards against the most deadly attacks.
+  Each time you're critically hit while wearing the etched armor, attempt a DC 14
+  Flat check. On a success, it becomes a normal hit. This property thickens the armor,
+  increasing its Bulk by 1 and the Strength required to reduce its penalties by 1."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +79,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

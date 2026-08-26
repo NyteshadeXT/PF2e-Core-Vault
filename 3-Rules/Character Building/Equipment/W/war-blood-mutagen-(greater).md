@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "war-blood-mutagen-(greater)"
 aliases: "War Blood Mutagen (Greater)"
 source: "Pathfinder #178: Punks in a Powder Keg"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,19 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Upon drinking this mutagen, you can feel your blood surge through your body and hear a low-pitched humming in your ears. These sensations subside as the flesh and muscles of your arm loosen and stretch, the fibers of your very being reaching out to combine with the base of one melee weapon you're holding.  **Benefit** Choose one melee weapon you're holding in one or both hands. You gain a +3 item bonus to your attack rolls with this weapon and to Will saves against fear effects for 1 hour. Any attempt to [[Actions/Disarm|Disarm]] or otherwise remove the weapon from your hands must exceed DC 40 or the attempt fails.  [[Equipment Effects/Effect_ War Blood Mutagen (Greater)|Effect: War Blood Mutagen (Greater)]]  **Drawback** You can't voluntarily remove the weapon unless you succeed at a DC 40 Athletics check, which ends the war blood mutagen's effects; this check takes a single action. If you perform an action with the concentrate trait, you must succeed at a DC 5 Flat check or the action is lost."
+description: "Upon drinking this mutagen, you can feel your blood surge through your
+  body and hear a low-pitched humming in your ears. These sensations subside as the
+  flesh and muscles of your arm loosen and stretch, the fibers of your very being
+  reaching out to combine with the base of one melee weapon you're holding.  **Benefit**
+  Choose one melee weapon you're holding in one or both hands. You gain a +3 item
+  bonus to your attack rolls with this weapon and to Will saves against fear effects
+  for 1 hour. Any attempt to [[Actions/Disarm|Disarm]] or otherwise remove the weapon
+  from your hands must exceed DC 40 or the attempt fails.  [[Equipment Effects/Effect_
+  War Blood Mutagen (Greater)|Effect: War Blood Mutagen (Greater)]]  **Drawback**
+  You can't voluntarily remove the weapon unless you succeed at a DC 40 Athletics
+  check, which ends the war blood mutagen's effects; this check takes a single action.
+  If you perform an action with the concentrate trait, you must succeed at a DC 5
+  Flat check or the action is lost."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

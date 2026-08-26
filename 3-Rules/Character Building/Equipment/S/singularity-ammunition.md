@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "singularity-ammunition"
 aliases: "Singularity Ammunition"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,20 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 13
-weight: 
+weight:
 value: "550"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** Any  **Activate** `pf2:1` Interact  * * *  Singularity ammunition seems to pull in the light around it, swirling along the surface in a misty pattern. An activated singularity arrow creates a strong gravitational force, centered on the creature hit. All creatures in a 10-foot emanation from the target must succeed at a DC 30 Fortitude check save or be pulled 5 feet closer to the target. The singularity then explodes, dealing 7d12 bludgeoning damage to the original target and all creatures in a 5-foot emanation (DC 28 Reflex check)."
+description: "**Ammunition** Any  **Activate** `pf2:1` Interact  * * *  Singularity
+  ammunition seems to pull in the light around it, swirling along the surface in a
+  misty pattern. An activated singularity arrow creates a strong gravitational force,
+  centered on the creature hit. All creatures in a 10-foot emanation from the target
+  must succeed at a DC 30 Fortitude check save or be pulled 5 feet closer to the target.
+  The singularity then explodes, dealing 7d12 bludgeoning damage to the original target
+  and all creatures in a 5-foot emanation (DC 28 Reflex check)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

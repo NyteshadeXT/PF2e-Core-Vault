@@ -2,23 +2,23 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "slime-whip"
 aliases: "Slime Whip"
 source: "Pathfinder Adventure: The Slithering"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "disarm"
 trait02: "finesse"
 trait03: "magical"
 trait04: "nonlethal"
 trait05: "reach"
 trait06: "trip"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This thick, greasy _+1 striking [[Equipment/Shifting|Shifting]] whip_ is made from a slimy pseudopod. You don't take the usual -2 circumstance penalty to your attack rolls when using the _slime whip_ to make a lethal attack. The whip's form can be changed just like any weapon with the shifting rune, but it reverts to its original form as soon as it isn't wielded. When in its whip form, you can use the following action.  * * *  **Activate** `pf2:1` command, Interact  **Frequency** once per hour  * * *  **Effect** For 1 round, the _slime whip_ deals acid damage rather than slashing damage. If the attack deals persistent damage, the persistent damage is also acid damage instead of its usual type.  [[Equipment Effects/Effect_ Slime Whip|Effect: Slime Whip]]"
+description: "This thick, greasy _+1 striking [[Equipment/Shifting|Shifting]] whip_
+  is made from a slimy pseudopod. You don't take the usual -2 circumstance penalty
+  to your attack rolls when using the _slime whip_ to make a lethal attack. The whip's
+  form can be changed just like any weapon with the shifting rune, but it reverts
+  to its original form as soon as it isn't wielded. When in its whip form, you can
+  use the following action.  * * *  **Activate** `pf2:1` command, Interact  **Frequency**
+  once per hour  * * *  **Effect** For 1 round, the _slime whip_ deals acid damage
+  rather than slashing damage. If the attack deals persistent damage, the persistent
+  damage is also acid damage instead of its usual type.  [[Equipment Effects/Effect_
+  Slime Whip|Effect: Slime Whip]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +56,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 2d4 slashing
 dmg1:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

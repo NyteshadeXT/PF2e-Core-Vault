@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "trackers-stew"
 aliases: "Tracker's Stew"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "processed"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** 10 minutes (Interact)  Alchemical reagents add punch to tracker's stew: a rich, fiery mixture of tomatoes, ground nuts, onions, and tubers, often with poultry added. It's usually served with or over rice or noodles. Once you've eaten the stew, it improves your ability to sense and follow tracks for 24 hours or until you make your next daily preparations, whichever comes first. You gain a +1 item bonus to Survival checks to Cover Tracks and [[Actions/Track|Track]]. You can do either while moving at full speed or both while moving at half speed.  [[Equipment Effects/Effect_ Tracker's Stew|Effect: Tracker's Stew]]"
+description: "**Activate** 10 minutes (Interact)  Alchemical reagents add punch to
+  tracker's stew: a rich, fiery mixture of tomatoes, ground nuts, onions, and tubers,
+  often with poultry added. It's usually served with or over rice or noodles. Once
+  you've eaten the stew, it improves your ability to sense and follow tracks for 24
+  hours or until you make your next daily preparations, whichever comes first. You
+  gain a +1 item bonus to Survival checks to Cover Tracks and [[Actions/Track|Track]].
+  You can do either while moving at full speed or both while moving at half speed.\
+  \  [[Equipment Effects/Effect_ Tracker's Stew|Effect: Tracker's Stew]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

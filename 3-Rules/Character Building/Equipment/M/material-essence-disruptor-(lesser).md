@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "material-essence-disruptor-(lesser)"
 aliases: "Material Essence Disruptor (Lesser)"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "gadget"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  A material essence disruptor emits bursts of disordered energy to break down the structure of a spell that manipulates material essence. Attempt to counteract an active arcane or primal spell within 30 feet, with a +7 counteract modifier and a counteract rank of 2."
+description: "**Activate** `pf2:2` (manipulate)  * * *  A material essence disruptor
+  emits bursts of disordered energy to break down the structure of a spell that manipulates
+  material essence. Attempt to counteract an active arcane or primal spell within
+  30 feet, with a +7 counteract modifier and a counteract rank of 2."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

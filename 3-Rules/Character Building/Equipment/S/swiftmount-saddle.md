@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "swiftmount-saddle"
 aliases: "Swiftmount Saddle"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "companion"
 trait02: "invested"
 trait03: "magical"
 trait04: "primal"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "wornsaddle"
 license: "ORC"
 identify:
-description: "This sturdy leather saddle was designed to improve communication between mount and rider, allowing even inexperienced knights to command their mounts in battle. A _swiftmount saddle_ grants a +2 item bonus to Nature checks made to Command an Animal for anyone who is riding the creature wearing it.  * * *  **Activate** `pf2:0` Interact  **Frequency** once per day  **Requirements** You're adjacent to the creature wearing the _swiftmount saddle_ and could [[Actions/Mount|Mount]] it  * * *  **Effect** You Mount the creature wearing the _swiftmount saddle_."
+description: "This sturdy leather saddle was designed to improve communication between
+  mount and rider, allowing even inexperienced knights to command their mounts in
+  battle. A _swiftmount saddle_ grants a +2 item bonus to Nature checks made to Command
+  an Animal for anyone who is riding the creature wearing it.  * * *  **Activate**
+  `pf2:0` Interact  **Frequency** once per day  **Requirements** You're adjacent to
+  the creature wearing the _swiftmount saddle_ and could [[Actions/Mount|Mount]] it\
+  \  * * *  **Effect** You Mount the creature wearing the _swiftmount saddle_."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

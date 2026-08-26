@@ -2,21 +2,21 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "umbrella-injector"
 aliases: "Umbrella Injector"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "concealable"
 trait02: "finesse"
 trait03: "injection"
 trait04: "parry"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This umbrella's ferrule is a hollow-tipped blade three to four inches in length and often overlooked as decorative. A receptacle inside the umbrella's shaft can be loaded with a single dose of injury poison and injected into a damaged target with the pull of a sliding trigger. Reinforced ribs enable you to parry and deflect blows with the umbrella's tear-resistant canopy."
+description: "This umbrella's ferrule is a hollow-tipped blade three to four inches
+  in length and often overlooked as decorative. A receptacle inside the umbrella's
+  shaft can be loaded with a single dose of injury poison and injected into a damaged
+  target with the pull of a sliding trigger. Reinforced ribs enable you to parry and
+  deflect blows with the umbrella's tear-resistant canopy."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,7 +51,7 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
 damage: 1d4 piercing
 dmg1:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "spellguard-shield"
 aliases: "Spellguard Shield"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This shield bears eldritch glyphs to guard against magic. While you have this steel shield (Hardness 6, HP 24, BT 12) raised, you gain its circumstance bonus to saving throws against spells that target you (as well as to AC), and you can Shield Block spells that target you if you have that action."
+description: "This shield bears eldritch glyphs to guard against magic. While you
+  have this steel shield (Hardness 6, HP 24, BT 12) raised, you gain its circumstance
+  bonus to saving throws against spells that target you (as well as to AC), and you
+  can Shield Block spells that target you if you have that action."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

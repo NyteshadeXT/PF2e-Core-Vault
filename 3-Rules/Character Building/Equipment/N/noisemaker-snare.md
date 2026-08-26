@@ -2,34 +2,40 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "noisemaker-snare"
 aliases: "Noisemaker Snare"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "clockwork"
 trait02: "consumable"
 trait03: "fire"
 trait04: "mechanical"
 trait05: "snare"
 trait06: "trap"
-trait07: "uncommon"
+trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 2
-weight: 
+weight:
 value: "6"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When a creature enters this snare's square, it triggers an extremely loud clockwork device, which explodes with a bang that can be heard from 200 feet away and deals 1d8 fire damage. The creature must attempt a DC 18 Reflex check save.  * * *  **Critical Success** The creature is unaffected.  **Success** The creature takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]] for 1 round.  **Critical Failure** The creature takes double damage and is [[Conditions/Deafened|Deafened]] for 1 minute."
+description: "When a creature enters this snare's square, it triggers an extremely
+  loud clockwork device, which explodes with a bang that can be heard from 200 feet
+  away and deals 1d8 fire damage. The creature must attempt a DC 18 Reflex check save.\
+  \  * * *  **Critical Success** The creature is unaffected.  **Success** The creature
+  takes half damage.  **Failure** The creature takes full damage and is [[Conditions/Deafened|Deafened]]
+  for 1 round.  **Critical Failure** The creature takes double damage and is [[Conditions/Deafened|Deafened]]
+  for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

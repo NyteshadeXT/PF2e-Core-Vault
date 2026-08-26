@@ -2,34 +2,41 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stalk-goggles-(greater)"
 aliases: "Stalk Goggles (Greater)"
 source: "Pathfinder #187: The Seventh Arch"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "invested"
 trait02: "magical"
 trait03: "morph"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 3
-weight: 
+weight:
 value: "60"
 subvalue: "gp"
 invest:
 usage: "worneyepiece"
 license: "ORC"
 identify:
-description: "These black leather goggle frames have no lenses. Instead, when a character puts them on and invests them, the wearer's eyes transform and lengthen into snail-like eyestalks. The wobbly eyestalks stretch out through the lens holes and up over the wearer's head on lengthened optic nerves.  **Activate** `pf2:1` envision  **Frequency** once per day  * * *  **Effect** By focusing hard, you can watch for enemies in all directions. You gain all-around vision and a +1 item bonus to Perception checks involving sight for 1 minute; during this time, you can't be flanked.  [[Equipment Effects/Effect_ Stalk Goggles|Effect: Stalk Goggles]]"
+description: "These black leather goggle frames have no lenses. Instead, when a character
+  puts them on and invests them, the wearer's eyes transform and lengthen into snail-like
+  eyestalks. The wobbly eyestalks stretch out through the lens holes and up over the
+  wearer's head on lengthened optic nerves.  **Activate** `pf2:1` envision  **Frequency**
+  once per day  * * *  **Effect** By focusing hard, you can watch for enemies in all
+  directions. You gain all-around vision and a +1 item bonus to Perception checks
+  involving sight for 1 minute; during this time, you can't be flanked.  [[Equipment
+  Effects/Effect_ Stalk Goggles|Effect: Stalk Goggles]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

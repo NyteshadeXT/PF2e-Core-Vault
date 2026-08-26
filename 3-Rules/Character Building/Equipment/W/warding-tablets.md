@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warding-tablets"
 aliases: "Warding Tablets"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "grimoire"
 trait02: "magical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This grimoire takes the form of a series of baked clay tablets. Any text inked upon it turns swiftly into carved depressions.  * * *  **Activate** `pf2:1` envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next action is to cast a beneficial abjuration spell on yourself or a single ally, you use the tablets' power to infuse the warding with additional abjurations and attempt to remove a harmful effect. Your spell attempts to counteract a harmful spell effect of your choice on the target. This isn't without risks, however. If your attempt fails to remove the harmful effect, the warding energy is consumed by the unyielding malediction, and you lose the abjuration spell's normal effects."
+description: "This grimoire takes the form of a series of baked clay tablets. Any
+  text inked upon it turns swiftly into carved depressions.  * * *  **Activate** `pf2:1`
+  envision (spellshape)  **Frequency** once per day  * * *  **Effect** If your next
+  action is to cast a beneficial abjuration spell on yourself or a single ally, you
+  use the tablets' power to infuse the warding with additional abjurations and attempt
+  to remove a harmful effect. Your spell attempts to counteract a harmful spell effect
+  of your choice on the target. This isn't without risks, however. If your attempt
+  fails to remove the harmful effect, the warding energy is consumed by the unyielding
+  malediction, and you lose the abjuration spell's normal effects."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

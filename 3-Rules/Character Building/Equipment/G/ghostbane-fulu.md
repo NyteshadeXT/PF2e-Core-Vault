@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghostbane-fulu"
 aliases: "Ghostbane Fulu"
@@ -16,20 +16,26 @@ trait01: "consumable"
 trait02: "fulu"
 trait03: "magical"
 trait04: "talisman"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
-weight: 
+weight:
 value: "40"
 subvalue: "gp"
 invest:
 usage: "affixed to armor or travelers clothing"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a weapon  **Activate** `pf2:0` envision  **Trigger** You successfully Strike an incorporeal creature with the weapon to which the fulu is affixed, but you haven't rolled damage.  * * *  This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefit of the _ghost touch_ property rune against the triggering incorporeal creature for 1 minute.  [[Equipment Effects/Effect_ Ghostbane Fulu|Effect: Ghostbane Fulu]]"
+description: "**Usage** affixed to a weapon  **Activate** `pf2:0` envision  **Trigger**
+  You successfully Strike an incorporeal creature with the weapon to which the fulu
+  is affixed, but you haven't rolled damage.  * * *  This white paper fulu bears red
+  ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon
+  activation, the weapon gains the benefit of the _ghost touch_ property rune against
+  the triggering incorporeal creature for 1 minute.  [[Equipment Effects/Effect_ Ghostbane
+  Fulu|Effect: Ghostbane Fulu]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rhinoceros-mask-(greater)"
 aliases: "Rhinoceros Mask (Greater)"
 source: "Pathfinder #169: Kindled Magic"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -22,14 +22,17 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 8
-weight: 
+weight:
 value: "425"
 subvalue: "gp"
 invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you Stride at least 10 feet, your next melee Strike before the end of your turn ignores the Hardness of objects with a Hardness of 10 or less. If the object has more than Hardness 10, the mask grants no benefit."
+description: "Covered with thick armor and bearing a thicker horn, this face mask
+  grants you increased momentum. If you Stride at least 10 feet, your next melee Strike
+  before the end of your turn ignores the Hardness of objects with a Hardness of 10
+  or less. If the object has more than Hardness 10, the mask grants no benefit."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

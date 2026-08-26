@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "pallesthetic-mutagen"
 aliases: "Pallesthetic Mutagen"
 source: "Pathfinder Howl of the Wild"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "elixir"
 trait04: "mutagen"
 trait05: "polymorph"
-trait06: "uncommon"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You gain unparalleled sensitivity to the tiniest of vibrations through solid surfaces and even the very air around you, but your eyes become useless.  **Benefit** For 1 minute, you gain precise echolocation out to 40 feet, imprecise tremorsense out to 60 feet, and a +2 item bonus to Perception checks using either of these senses.  **Drawback** You are [[Conditions/Blinded|Blinded]] for 1 minute.  [[Equipment Effects/Effect_ Pallesthetic Mutagen|Effect: Pallesthetic Mutagen]]"
+description: "**Activate** `pf2:1` (manipulate)  * * *  You gain unparalleled sensitivity
+  to the tiniest of vibrations through solid surfaces and even the very air around
+  you, but your eyes become useless.  **Benefit** For 1 minute, you gain precise echolocation
+  out to 40 feet, imprecise tremorsense out to 60 feet, and a +2 item bonus to Perception
+  checks using either of these senses.  **Drawback** You are [[Conditions/Blinded|Blinded]]
+  for 1 minute.  [[Equipment Effects/Effect_ Pallesthetic Mutagen|Effect: Pallesthetic
+  Mutagen]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

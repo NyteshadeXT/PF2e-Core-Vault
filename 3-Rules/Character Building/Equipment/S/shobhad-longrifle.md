@@ -2,22 +2,22 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shobhad-longrifle"
 aliases: "Shobhad Longrifle"
 source: "Pathfinder #173: Doorway to the Red Star"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "backstabber"
 trait02: "concussive"
 trait03: "fatal-d12"
 trait04: "kickback"
 trait05: "volley-30"
-trait06: "rare"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands "
 license: "ORC"
 identify:
-description: "The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many shobhad warriors.  Shobhad longrifles are equipped with a built-in [[Equipment/Silencer|Silencer]] so they make no more noise than a crossbow when fired.  A shobhad longrifle is a martial weapon."
+description: "The shobhad longrifle is a firearm with a long, rifled barrel. Often
+  mounted with a multi-lensed scope for targeting at an array of ranges and a chambering
+  mechanism that can adjust the speed and penetrating power of each shot, it's the
+  preferred weapon of many shobhad warriors.  Shobhad longrifles are equipped with
+  a built-in [[Equipment/Silencer|Silencer]] so they make no more noise than a crossbow
+  when fired.  A shobhad longrifle is a martial weapon."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

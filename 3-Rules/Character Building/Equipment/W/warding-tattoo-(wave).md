@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warding-tattoo-(wave)"
 aliases: "Warding Tattoo (Wave)"
@@ -15,21 +15,30 @@ rarity: ""
 trait01: "invested"
 trait02: "magical"
 trait03: "tattoo"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 6
-weight: 
+weight:
 value: "220"
 subvalue: "gp"
 invest:
 usage: "tattooed on the body"
 license: "ORC"
 identify:
-description: "Many cultures of Golarion have a tattoo to turn away harm; as such, warding tattoos often resemble whichever dangers are most common to the culture, such as a wild beast or a whirlpool in the high seas of the Shackles. In addition to the normal triggers, you can activate the tattoo when you enter an environment where you can't breathe.  * * *  **Activate** `pf2:r` envision  **Frequency** once per day  **Trigger** An enemy, hazard, or the environment makes an attack against your AC, requires you to attempt a saving throw, or causes you to take damage automatically  * * *  **Effect** Until the end of the current turn, against the triggering effect, you gain a +1 status bonus to AC and saving throws and gain resistance 2 to damage. The tattoo casts [[Spells/Air Bubble|Air Bubble]]."
+description: "Many cultures of Golarion have a tattoo to turn away harm; as such,
+  warding tattoos often resemble whichever dangers are most common to the culture,
+  such as a wild beast or a whirlpool in the high seas of the Shackles. In addition
+  to the normal triggers, you can activate the tattoo when you enter an environment
+  where you can't breathe.  * * *  **Activate** `pf2:r` envision  **Frequency** once
+  per day  **Trigger** An enemy, hazard, or the environment makes an attack against
+  your AC, requires you to attempt a saving throw, or causes you to take damage automatically\
+  \  * * *  **Effect** Until the end of the current turn, against the triggering effect,
+  you gain a +1 status bonus to AC and saving throws and gain resistance 2 to damage.
+  The tattoo casts [[Spells/Air Bubble|Air Bubble]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

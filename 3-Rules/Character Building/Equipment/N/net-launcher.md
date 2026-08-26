@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "net-launcher"
 aliases: "Net Launcher"
 source: "Pathfinder Guns & Gears"
 pg: ""
-rarity: ""
-trait01: "rare"
+rarity: "Rare"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This wide, hollow tube is two to three feet long and fires an unattached net at much greater range than one can be thrown. A net launcher can be wielded while propped up on your shoulder or cradled under your arm. A net must be carefully folded to be launched without tangling. Properly loading a net into a net launcher takes 1 minute. A net fired with a net launcher can target a Medium or smaller creature within 40 feet, rather than 20 feet."
+description: "This wide, hollow tube is two to three feet long and fires an unattached
+  net at much greater range than one can be thrown. A net launcher can be wielded
+  while propped up on your shoulder or cradled under your arm. A net must be carefully
+  folded to be launched without tangling. Properly loading a net into a net launcher
+  takes 1 minute. A net fired with a net launcher can target a Medium or smaller creature
+  within 40 feet, rather than 20 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

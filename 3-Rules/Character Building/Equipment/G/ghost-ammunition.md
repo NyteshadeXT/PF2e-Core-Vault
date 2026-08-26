@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ghost-ammunition"
 aliases: "Ghost Ammunition"
@@ -13,7 +13,7 @@ source: "Pathfinder GM Core"
 pg: ""
 rarity: ""
 trait01: "magical"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -22,14 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 14
-weight: 
+weight:
 value: "900"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** any  _Ghost ammunition_ is cool to the touch. This ammunition has the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and can fly through any obstacle except those that can block incorporeal creatures or effects. Though the ammunition penetrates barriers and ignores all cover, the target still benefits from the flat check from being concealed or hidden. You still can't target an undetected creature without guessing.  After it is launched, the ammunition vanishes into mist. However, in the dead of the night 1d4 days later, it reappears in the last quiver or other container it was taken from."
+description: "**Ammunition** any  _Ghost ammunition_ is cool to the touch. This ammunition
+  has the benefits of the _[[Equipment/Ghost Touch|Ghost Touch]]_ property rune and
+  can fly through any obstacle except those that can block incorporeal creatures or
+  effects. Though the ammunition penetrates barriers and ignores all cover, the target
+  still benefits from the flat check from being concealed or hidden. You still can't
+  target an undetected creature without guessing.  After it is launched, the ammunition
+  vanishes into mist. However, in the dead of the night 1d4 days later, it reappears
+  in the last quiver or other container it was taken from."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

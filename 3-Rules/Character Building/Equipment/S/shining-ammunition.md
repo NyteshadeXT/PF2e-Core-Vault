@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shining-ammunition"
 aliases: "Shining Ammunition"
@@ -15,21 +15,26 @@ rarity: ""
 trait01: "consumable"
 trait02: "light"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 1
-weight: 
+weight:
 value: "3"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "_Shining ammunition_ gives off a faint glow. When shot, it sheds bright light in a 20-foot radius (and dim light to the next 20 feet) for 10 minutes. If it hits a target, it sticks, causing the target to shed light in the same radius. A creature can remove the ammunition with an Interact action, but the ammunition itself continues to glow for the rest of the duration or until destroyed.  [[Equipment Effects/Effect_ Shining Ammunition|Effect: Shining Ammunition]]"
+description: "_Shining ammunition_ gives off a faint glow. When shot, it sheds bright
+  light in a 20-foot radius (and dim light to the next 20 feet) for 10 minutes. If
+  it hits a target, it sticks, causing the target to shed light in the same radius.
+  A creature can remove the ammunition with an Interact action, but the ammunition
+  itself continues to glow for the rest of the duration or until destroyed.  [[Equipment
+  Effects/Effect_ Shining Ammunition|Effect: Shining Ammunition]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

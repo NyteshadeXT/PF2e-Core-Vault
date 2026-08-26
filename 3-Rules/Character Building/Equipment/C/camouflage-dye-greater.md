@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "camouflage-dye-greater"
 aliases: "Camouflage Dye (Greater)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -30,7 +30,12 @@ usage: "held in one hand"
 license: "ORC"
 identify:
 activate: "`pf2:1` [[Interact]]"
-description: "Camouflage dye uses a variety of alchemically treated paints and crushed crystals to make the user particularly hard to distinguish from their surroundings. When you Activate the dye by sprinkling it on yourself or a creature within reach, the target and its clothing change colors, blending into their surroundings until the target makes a sudden movement. The target can [[Hide]] or [[Sneak]] without cover or concealment for 1 minute."
+description: "Camouflage dye uses a variety of alchemically treated paints and crushed
+  crystals to make the user particularly hard to distinguish from their surroundings.
+  When you Activate the dye by sprinkling it on yourself or a creature within reach,
+  the target and its clothing change colors, blending into their surroundings until
+  the target makes a sudden movement. The target can [[Hide]] or [[Sneak]] without
+  cover or concealment for 1 minute."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -48,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -77,10 +82,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

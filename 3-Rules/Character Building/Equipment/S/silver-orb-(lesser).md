@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "silver-orb-(lesser)"
 aliases: "Silver Orb (Lesser)"
 source: "Pathfinder Wake the Dead #1"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "alchemical"
 trait02: "bomb"
 trait03: "consumable"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Strike  * * *  Filled with sharp silver filings and alchemical reagents, this glass sphere leaves behind a cloud of dangerous shards. A creature hit with the orb takes 1 slashing damage and is covered with silver filings, making weapons and unarmed attacks damaging them be treated as silver until they spend an Interact action to clean off.  Except on a critical miss, the filings linger airborne in a 5-foot burst around the target. The cloud lasts for 1 minute or until dispersed by a strong wind. Creatures inside the cloud are [[Conditions/Concealed|Concealed]] to those outside. Each breathing creature who ends its turn in the cloud takes 1d6 slashing damage from a silver source, with a DC 19 Fortitude check save."
+description: "**Activate** `pf2:1` Strike  * * *  Filled with sharp silver filings
+  and alchemical reagents, this glass sphere leaves behind a cloud of dangerous shards.
+  A creature hit with the orb takes 1 slashing damage and is covered with silver filings,
+  making weapons and unarmed attacks damaging them be treated as silver until they
+  spend an Interact action to clean off.  Except on a critical miss, the filings linger
+  airborne in a 5-foot burst around the target. The cloud lasts for 1 minute or until
+  dispersed by a strong wind. Creatures inside the cloud are [[Conditions/Concealed|Concealed]]
+  to those outside. Each breathing creature who ends its turn in the cloud takes 1d6
+  slashing damage from a silver source, with a DC 19 Fortitude check save."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

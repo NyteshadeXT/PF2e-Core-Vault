@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shining-symbol-(major)"
 aliases: "Shining Symbol (Major)"
@@ -15,21 +15,30 @@ rarity: ""
 trait01: "divine"
 trait02: "invested"
 trait03: "light"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 17
-weight: 
+weight:
 value: "13500"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +3 item bonus to Religion. The symbol casts dim light in a 20-foot emanation.  * * *  **Activate—Spiritual Light** `pf2:2` (concentrate, light, revelation)  **Frequency** once per day  **Effect** The light cast by the symbol becomes bright light for 10 minutes and shines through bodies to reveal hints of the spirits within. Creatures in the light receive a –3 status penalty to Deception and Stealth checks, and while it's active your enemies in the light gain weakness 10 to spirit damage.  You can Dismiss this activation.  [[Equipment Effects/Aura_ Shining Symbol|Aura: Shining Symbol]]  * * *  **Craft Requirements** You must be holy or unholy."
+description: "If you worship a deity, this golden amulet transforms into your deity's
+  religious symbol when you invest it. You gain a +3 item bonus to Religion. The symbol
+  casts dim light in a 20-foot emanation.  * * *  **Activate—Spiritual Light** `pf2:2`
+  (concentrate, light, revelation)  **Frequency** once per day  **Effect** The light
+  cast by the symbol becomes bright light for 10 minutes and shines through bodies
+  to reveal hints of the spirits within. Creatures in the light receive a –3 status
+  penalty to Deception and Stealth checks, and while it's active your enemies in the
+  light gain weakness 10 to spirit damage.  You can Dismiss this activation.  [[Equipment
+  Effects/Aura_ Shining Symbol|Aura: Shining Symbol]]  * * *  **Craft Requirements**
+  You must be holy or unholy."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

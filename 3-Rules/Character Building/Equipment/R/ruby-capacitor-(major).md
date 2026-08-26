@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ruby-capacitor-(major)"
 aliases: "Ruby Capacitor (Major)"
@@ -15,21 +15,25 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "talisman"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "4500"
 subvalue: "gp"
 invest:
 usage: "affixed to a magical staff"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` Interact  **Requirements** You prepared the staff.  * * *  This cluster of unworked ruby is bound to the top of a staff by silver wire. When activated, it adds five temporary charges to the staff. Any spells cast from the staff before the end of the turn expend these charges first. Any unused temporary charges are lost at the end of your turn."
+description: "**Activate** `pf2:0` Interact  **Requirements** You prepared the staff.\
+  \  * * *  This cluster of unworked ruby is bound to the top of a staff by silver
+  wire. When activated, it adds five temporary charges to the staff. Any spells cast
+  from the staff before the end of the turn expend these charges first. Any unused
+  temporary charges are lost at the end of your turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

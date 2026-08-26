@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-noisome-acid-(6th-rank-spell)"
 aliases: "Wand of Noisome Acid (6th-Rank Spell)"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "acid"
 trait02: "magical"
 trait03: "wand"
-trait04: "uncommon"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This greasy stick emits a stomach-churning scent when held in a hand.  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Acid Arrow|Acid Arrow]] at 6th rank. A creature that takes initial acid damage from this spell become [[Conditions/Sickened|Sickened 1]]. Use your spell DC if the creatures attempts to recover from this sickness. This is an olfactory effect.  * * *  **Craft Requirements** Supply a casting of Acid Arrow at 6th rank."
+description: "This greasy stick emits a stomach-churning scent when held in a hand.\
+  \  * * *  **Activate** [[Actions/Cast a Spell|Cast a Spell]]  **Frequency** once
+  per day, plus overcharge  * * *  **Effect** You cast [[Spells/Acid Arrow|Acid Arrow]]
+  at 6th rank. A creature that takes initial acid damage from this spell become [[Conditions/Sickened|Sickened
+  1]]. Use your spell DC if the creatures attempts to recover from this sickness.
+  This is an olfactory effect.  * * *  **Craft Requirements** Supply a casting of
+  Acid Arrow at 6th rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

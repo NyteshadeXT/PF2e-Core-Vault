@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "folding-drums"
 aliases: "Folding Drums"
 source: "Pathfinder #164: Hands of the Devil"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,15 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "You can unfold this [[Equipment/Musical Instrument (Virtuoso heavy)|virtuoso percussion instrument]] into a hand drum (1 Bulk), a marching drum set with a shoulder harness and back brace (3 Bulk), or a large standing drum set with a built-in stool (16 Bulk). Changing the _folding drum_'s size is a 3-action Interact activity, and the drums must have sufficient open space to accommodate their new size.  * * *  **Activate** `pf2:1` Interact (concentrate)  **Frequency** once per hour  **Effect** You play a pounding rhythm on the drum. If the next action you use is to cast a composition cantrip that has an emanation, increase the area of the emanation by 30 feet."
+description: "You can unfold this [[Equipment/Musical Instrument (Virtuoso heavy)|virtuoso
+  percussion instrument]] into a hand drum (1 Bulk), a marching drum set with a shoulder
+  harness and back brace (3 Bulk), or a large standing drum set with a built-in stool
+  (16 Bulk). Changing the _folding drum_'s size is a 3-action Interact activity, and
+  the drums must have sufficient open space to accommodate their new size.  * * *\
+  \  **Activate** `pf2:1` Interact (concentrate)  **Frequency** once per hour  **Effect**
+  You play a pounding rhythm on the drum. If the next action you use is to cast a
+  composition cantrip that has an emanation, increase the area of the emanation by
+  30 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +55,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +84,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

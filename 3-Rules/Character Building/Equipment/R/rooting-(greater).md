@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rooting-(greater)"
 aliases: "Rooting (Greater)"
@@ -15,21 +15,24 @@ rarity: ""
 trait01: "magical"
 trait02: "plant"
 trait03: "wood"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 11
-weight: 
+weight:
 value: "1400"
 subvalue: "gp"
 invest:
 usage: "etched onto melee weapon"
 license: "ORC"
 identify:
-description: "Small roots grow along the surface of the weapon, clinging tightly to its contours. On a critical hit with the weapon, roots grow from the target. It's [[Conditions/Immobilized|Immobilized]] for 1 round ([[Actions/Escape|Escape]] DC 28) and [[Conditions/Clumsy|Clumsy 1]] for as long as the immobilization lasts."
+description: "Small roots grow along the surface of the weapon, clinging tightly to
+  its contours. On a critical hit with the weapon, roots grow from the target. It's
+  [[Conditions/Immobilized|Immobilized]] for 1 round ([[Actions/Escape|Escape]] DC
+  28) and [[Conditions/Clumsy|Clumsy 1]] for as long as the immobilization lasts."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,34 +2,38 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "ring-of-ravenousness"
 aliases: "Ring of Ravenousness"
 source: "Pathfinder Treasure Vault"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "cursed"
 trait02: "invested"
 trait03: "magical"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "325"
 subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "Carved of acacia wood, a ring of ravenousness is inlaid with a geometric pattern. The ring appears to be a _[[Equipment/Ring of Sustenance|Ring of Sustenance]]_. Once you invest it, though, it fuses to you, its effects activating immediately. While wearing the ring, you require twice the normal amount of food and drink for a creature your size to avoid starvation and thirst."
+description: "Carved of acacia wood, a ring of ravenousness is inlaid with a geometric
+  pattern. The ring appears to be a _[[Equipment/Ring of Sustenance|Ring of Sustenance]]_.
+  Once you invest it, though, it fuses to you, its effects activating immediately.
+  While wearing the ring, you require twice the normal amount of food and drink for
+  a creature your size to avoid starvation and thirst."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

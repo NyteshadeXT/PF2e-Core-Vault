@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mindfog-mist"
 aliases: "Mindfog Mist"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "inhaled"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Mindfog mist can be used to undermine spellcasters, as its effect on a victim's mental faculties are swift and powerful.  * * *  **Activate** `pf2:1` (manipulate)  **Saving Throw** DC 35 Fortitude check  **Onset** 1 round  **Maximum Duration** 6 rounds  **Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 round)  **Stage 2** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 3]] (1 round)  **Stage 3** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 4]] (1 round)"
+description: "Mindfog mist can be used to undermine spellcasters, as its effect on
+  a victim's mental faculties are swift and powerful.  * * *  **Activate** `pf2:1`
+  (manipulate)  **Saving Throw** DC 35 Fortitude check  **Onset** 1 round  **Maximum
+  Duration** 6 rounds  **Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 round)\
+  \  **Stage 2** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied
+  3]] (1 round)  **Stage 3** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied
+  4]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

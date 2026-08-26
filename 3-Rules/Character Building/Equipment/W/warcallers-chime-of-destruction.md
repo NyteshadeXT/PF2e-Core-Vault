@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "warcallers-chime-of-destruction"
 aliases: "Warcaller's Chime of Destruction"
 source: "Pathfinder #170: Spoken on the Song Wind"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "A series of shattered mountains are carved into this chime. When activated, you touch the chime against an unattended object, casting [[Spells/Shatter|Shatter]] upon the object, ignoring the object's Hardness if it's 6 or lower. You can use this chime once per day."
+description: "A series of shattered mountains are carved into this chime. When activated,
+  you touch the chime against an unattended object, casting [[Spells/Shatter|Shatter]]
+  upon the object, ignoring the object's Hardness if it's 6 or lower. You can use
+  this chime once per day."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "stalagmite-seed"
 aliases: "Stalagmite Seed"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "earth"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  You can throw a _stalagmite seed_, use it as a sling stone, or pack it into firearm ammunition. When you use the seed, you aim it at a 5-foot square rather than a specific target. Stalagmites of assorted sizes erupt in the square the seed lands in, dealing 6d6 piercing damage to any creature within that space (DC 23 Reflex check save). The stalagmites remain for 1 minute, creating difficult terrain in that space, before they crumble into dust."
+description: "**Activate** `pf2:1` (manipulate)  * * *  You can throw a _stalagmite
+  seed_, use it as a sling stone, or pack it into firearm ammunition. When you use
+  the seed, you aim it at a 5-foot square rather than a specific target. Stalagmites
+  of assorted sizes erupt in the square the seed lands in, dealing 6d6 piercing damage
+  to any creature within that space (DC 23 Reflex check save). The stalagmites remain
+  for 1 minute, creating difficult terrain in that space, before they crumble into
+  dust."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "nethysian-bulwark"
 aliases: "Nethysian Bulwark"
 source: "Pathfinder #149: Against the Scarlet Triad"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This round shield is often fashioned to resemble the religious symbol of its dual-natured namesake. A _Nethysian bulwark_ is a high-grade cold iron shield (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive force when struck.  **Activate** `pf2:0` envision  **Trigger** The shield becomes broken when performing a Shield Block  * * *  **Effect** The shield explodes in a burst of bright light and shadowy tendrils, releasing a 15-foot cone of force that must include the attacker if possible. The cone deals 6d8 force damage to all creatures in the area (DC 34 Reflex check)."
+description: "This round shield is often fashioned to resemble the religious symbol
+  of its dual-natured namesake. A _Nethysian bulwark_ is a high-grade cold iron shield
+  (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive
+  force when struck.  **Activate** `pf2:0` envision  **Trigger** The shield becomes
+  broken when performing a Shield Block  * * *  **Effect** The shield explodes in
+  a burst of bright light and shadowy tendrils, releasing a 15-foot cone of force
+  that must include the attacker if possible. The cone deals 6d8 force damage to all
+  creatures in the area (DC 34 Reflex check)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

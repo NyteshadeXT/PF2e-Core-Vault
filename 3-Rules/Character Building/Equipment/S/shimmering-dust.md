@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "shimmering-dust"
 aliases: "Shimmering Dust"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "catalyst"
 trait02: "consumable"
 trait03: "magical"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,14 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** Cast a Spell  * * *  This luminous mica dust fluoresces for a short time after being exposed to significant amounts of magical energy. When a creature fails its save against a cloud of [[Spells/Revealing Light|Revealing Light]] created using this catalyst, glowing grains stick to them, causing them to shed dim light in a 20-foot radius for as long as their invisibility is negated by the spell as well as causing them to take a -2 circumstance penalty to Stealth for that duration.  [[Equipment Effects/Effect_ Shimmering Dust|Effect: Shimmering Dust]]"
+description: "**Activate** Cast a Spell  * * *  This luminous mica dust fluoresces
+  for a short time after being exposed to significant amounts of magical energy. When
+  a creature fails its save against a cloud of [[Spells/Revealing Light|Revealing
+  Light]] created using this catalyst, glowing grains stick to them, causing them
+  to shed dim light in a 20-foot radius for as long as their invisibility is negated
+  by the spell as well as causing them to take a -2 circumstance penalty to Stealth
+  for that duration.  [[Equipment Effects/Effect_ Shimmering Dust|Effect: Shimmering
+  Dust]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +54,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +83,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

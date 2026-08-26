@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rusting-ammunition-(greater)"
 aliases: "Rusting Ammunition (Greater)"
@@ -15,21 +15,27 @@ rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
 trait03: "force"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 18
-weight: 
+weight:
 value: "600"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Ammunition** any  **Activate** `pf2:1` Interact  * * *  Rusting ammunition is made using a rust monster's saliva and, when activated, deals damage to objects or creatures primarily made of metal. The target takes 4d8 persistent force damage for up to 6 rounds. A creature that drops to 0 Hit Points while taking this persistent damage crumbles into fine powder; its gear remains. For an object, the ammunition destroys a 10-foot cube.  * * *  **Craft Requirements** Supply the saliva of a [[Bestiary 1/Rust Monster|Rust Monster]]"
+description: "**Ammunition** any  **Activate** `pf2:1` Interact  * * *  Rusting ammunition
+  is made using a rust monster's saliva and, when activated, deals damage to objects
+  or creatures primarily made of metal. The target takes 4d8 persistent force damage
+  for up to 6 rounds. A creature that drops to 0 Hit Points while taking this persistent
+  damage crumbles into fine powder; its gear remains. For an object, the ammunition
+  destroys a 10-foot cube.  * * *  **Craft Requirements** Supply the saliva of a [[Bestiary
+  1/Rust Monster|Rust Monster]]"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

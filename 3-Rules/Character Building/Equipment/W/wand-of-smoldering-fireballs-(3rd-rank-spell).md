@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-smoldering-fireballs-(3rd-rank-spell)"
 aliases: "Wand of Smoldering Fireballs (3rd-Rank Spell)"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "fire"
 trait02: "magical"
 trait03: "wand"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This blackened, heavily burned stick smells faintly of saltpeter.  * * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect** You cast [[Spells/Fireball|Fireball]] at 3rd-rank. Each creature that fails its save takes 1d6 persistent fire damage.  * * *  **Craft Requirements** Supply a casting of _fireball_ at 3rd-rank."
+description: "This blackened, heavily burned stick smells faintly of saltpeter.  *
+  * *  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  **Effect**
+  You cast [[Spells/Fireball|Fireball]] at 3rd-rank. Each creature that fails its
+  save takes 1d6 persistent fire damage.  * * *  **Craft Requirements** Supply a casting
+  of _fireball_ at 3rd-rank."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

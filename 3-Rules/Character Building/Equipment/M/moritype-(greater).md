@@ -2,20 +2,20 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "moritype-(greater)"
 aliases: "Moritype (Greater)"
 source: "Pathfinder Lost Omens Rival Academies"
 pg: ""
-rarity: ""
+rarity: "Rare"
 trait01: "consumable"
 trait02: "gadget"
 trait03: "void"
-trait04: "rare"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,18 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This plate of smoky glass is a variation on Dr. Krasovna Gerenevich's krasovnatype that is imprinted with void energies. Creating the plate requires a living thing to die as part of its electrical charging; most creators use insects or lab mice. The moritype creates an image in the same way as a krasovnatype, but also siphons off part of that aura. If used on a living creature, that creature must attempt a DC 35 Will check save.  * * *  **Critical Success** The creature is unaffected.  **Success** If the creature has any innate, prepared, or spontaneous spells, they're unable to Cast a Spell of their highest-ranked slot for 1 round. Cantrips and focus spells are unaffected.  **Failure** As success, except they can't cast the 2 highest ranks they have available.  **Critical Failure** As success, except they can't cast any spells other than cantrips and focus spells."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This plate of smoky glass
+  is a variation on Dr. Krasovna Gerenevich's krasovnatype that is imprinted with
+  void energies. Creating the plate requires a living thing to die as part of its
+  electrical charging; most creators use insects or lab mice. The moritype creates
+  an image in the same way as a krasovnatype, but also siphons off part of that aura.
+  If used on a living creature, that creature must attempt a DC 35 Will check save.\
+  \  * * *  **Critical Success** The creature is unaffected.  **Success** If the creature
+  has any innate, prepared, or spontaneous spells, they're unable to Cast a Spell
+  of their highest-ranked slot for 1 round. Cantrips and focus spells are unaffected.\
+  \  **Failure** As success, except they can't cast the 2 highest ranks they have
+  available.  **Critical Failure** As success, except they can't cast any spells other
+  than cantrips and focus spells."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +58,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +87,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

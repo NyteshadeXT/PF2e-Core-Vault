@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "queasy-lantern-(moderate)"
 aliases: "Queasy Lantern (Moderate)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "light"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]] is wrapped in decrepit leather skin. It constantly emits light in a 60-foot cone (and dim light in the next 60 feet). You can close or open internal shutters with an Interact action to block or reveal the light.  * * *  **Activate** `pf2:2` Interact  **Frequency** once per day  * * *  **Effect** You slide in a magical lens that causes the lantern to emit a pale green light and then aim the lantern. All creatures in the lantern's 60-foot cone of bright light (but not those in the dim light), must attempt a DC 29 Fortitude check save. On a failure, a creature becomes [[Conditions/Sickened|Sickened 2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure). The light then reverts to normal as the lens slides out of place."
+description: "This [[Equipment/Lantern (Bull's Eye)|Lantern (Bull's Eye)]] is wrapped
+  in decrepit leather skin. It constantly emits light in a 60-foot cone (and dim light
+  in the next 60 feet). You can close or open internal shutters with an Interact action
+  to block or reveal the light.  * * *  **Activate** `pf2:2` Interact  **Frequency**
+  once per day  * * *  **Effect** You slide in a magical lens that causes the lantern
+  to emit a pale green light and then aim the lantern. All creatures in the lantern's
+  60-foot cone of bright light (but not those in the dim light), must attempt a DC
+  29 Fortitude check save. On a failure, a creature becomes [[Conditions/Sickened|Sickened
+  2]] ([[Conditions/Sickened|Sickened 3]] on a critical failure). The light then reverts
+  to normal as the lens slides out of place."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

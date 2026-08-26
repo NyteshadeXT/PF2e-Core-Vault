@@ -2,19 +2,19 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "phantom-shroud"
 aliases: "Phantom Shroud"
 source: "Pathfinder #185: A Taste of Ashes"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
-trait03: "uncommon"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,16 @@ invest:
 usage: "worncloak"
 license: "ORC"
 identify:
-description: "This pale blue cloak is wispy, thin, and cold to the touch. When worn, the cloak turns your hands pale and translucent, imbuing you with the dangerous touch of a ghost. This effect doesn't impede the normal use of your hands. You also gain an unarmed attack that deals 3d6 void damage with the agile, finesse, and magical traits. You gain the benefits of a +2 weapon potency rune with these unarmed attacks (granting a +2 item bonus to your attack rolls).  **Activate** `pf2:2` Interact  **Frequency** once per day  * * *  **Effect** You fold the cloak around yourself, and it casts [[Spells/Ethereal Jaunt|Ethereal Jaunt]] on you. You can Sustain the activation for up to 10 minutes. When the activation ends, you return to material form."
+description: "This pale blue cloak is wispy, thin, and cold to the touch. When worn,
+  the cloak turns your hands pale and translucent, imbuing you with the dangerous
+  touch of a ghost. This effect doesn't impede the normal use of your hands. You also
+  gain an unarmed attack that deals 3d6 void damage with the agile, finesse, and magical
+  traits. You gain the benefits of a +2 weapon potency rune with these unarmed attacks
+  (granting a +2 item bonus to your attack rolls).  **Activate** `pf2:2` Interact\
+  \  **Frequency** once per day  * * *  **Effect** You fold the cloak around yourself,
+  and it casts [[Spells/Ethereal Jaunt|Ethereal Jaunt]] on you. You can Sustain the
+  activation for up to 10 minutes. When the activation ends, you return to material
+  form."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +56,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +85,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

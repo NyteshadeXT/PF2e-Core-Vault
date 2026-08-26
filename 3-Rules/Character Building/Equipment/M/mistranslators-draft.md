@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mistranslators-draft"
 aliases: "Mistranslator's Draft"
@@ -16,7 +16,7 @@ trait01: "consumable"
 trait02: "cursed"
 trait03: "magical"
 trait04: "potion"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  A pickled lizard's tongue, tied into a knot, floats in this oily potion. When you drink it, you can speak and understand all spoken (but not written) languages for 1 hour. However, if you attempt to translate any spoken language, your translation is always erroneous in a way likely to cause substantial confusion or anger, typically reducing the listener's attitude toward you by one step. You aren't aware of your error, and any attempt to correct the mistake only compounds it."
+description: "**Activate** `pf2:1` Interact  A pickled lizard's tongue, tied into
+  a knot, floats in this oily potion. When you drink it, you can speak and understand
+  all spoken (but not written) languages for 1 hour. However, if you attempt to translate
+  any spoken language, your translation is always erroneous in a way likely to cause
+  substantial confusion or anger, typically reducing the listener's attitude toward
+  you by one step. You aren't aware of your error, and any attempt to correct the
+  mistake only compounds it."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

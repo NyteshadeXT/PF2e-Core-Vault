@@ -2,17 +2,17 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "knights-tabard"
 aliases: "Knight's Tabard"
 source: "Pathfinder Lost Omens Knights of Lastwall"
 pg: "86"
-rarity: ""
-trait01: "uncommon"
+rarity: "Uncommon"
+trait01: ""
 trait02: ""
 trait03: ""
 trait04: ""
@@ -29,7 +29,12 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to [[Make an Impression]] on creatures who have a positive association with the entity represented on the tabard."
+description: "This cloth vestment features the heraldry or symbol associated with
+  an entity (such as a deity, kingdom, or organization). Knights typically wear it
+  over armor and other clothing, helping them identify allies on the battlefield or
+  distinguishing themselves in more peaceful situations. An individual wearing a tabard
+  gains a +1 item bonus to [[Make an Impression]] on creatures who have a positive
+  association with the entity represented on the tabard."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,9 +81,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
-
 ```meta-bind-embed
 [[Item Card Template]]
 ```

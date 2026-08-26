@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "poison-concentrator-(major)"
 aliases: "Poison Concentrator (Major)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "additive1"
 trait02: "alchemical"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,10 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This compression apparatus can reduce two poisons into a more concentrated dose. As a 10-minute activity that has the manipulate trait, you can use a poison concentrator to combine two doses of the same alchemical poison of level 18 or lower, creating a single concentrated poison with a +1 item bonus to its DC."
+description: "This compression apparatus can reduce two poisons into a more concentrated
+  dose. As a 10-minute activity that has the manipulate trait, you can use a poison
+  concentrator to combine two doses of the same alchemical poison of level 18 or lower,
+  creating a single concentrated poison with a +1 item bonus to its DC."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +50,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +79,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "wand-of-shrouded-step"
 aliases: "Wand of Shrouded Step"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "magical"
 trait02: "wand"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,12 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "When you move this delicately carved poplar wand, it looks indistinct, leaving a trail of afterimages in its wake.  **Activate** Cast a Spell  **Frequency** once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.  * * *  **Craft Requirements** Supply a casting of [[Spells/Fleet Step|Fleet Step]]."
+description: "When you move this delicately carved poplar wand, it looks indistinct,
+  leaving a trail of afterimages in its wake.  **Activate** Cast a Spell  **Frequency**
+  once per day, plus overcharge  * * *  **Effect** You cast [[Spells/Fleet Step|Fleet
+  Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]]
+  while you Stride.  * * *  **Craft Requirements** Supply a casting of [[Spells/Fleet
+  Step|Fleet Step]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +52,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +81,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

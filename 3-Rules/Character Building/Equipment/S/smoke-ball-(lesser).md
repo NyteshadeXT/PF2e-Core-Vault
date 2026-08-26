@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "smoke-ball-(lesser)"
 aliases: "Smoke Ball (Lesser)"
@@ -14,7 +14,7 @@ pg: ""
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
-trait03: "common"
+trait03: ""
 trait04: ""
 trait05: ""
 trait06: ""
@@ -29,7 +29,11 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a 5-foot burst centered on one corner of your space. All creatures within that area are [[Conditions/Concealed|Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind."
+description: "**Activate** `pf2:1` (manipulate)  * * *  Upon smashing this ball on
+  the ground, you instantly create a screen of thick, opaque smoke in a 5-foot burst
+  centered on one corner of your space. All creatures within that area are [[Conditions/Concealed|Concealed]],
+  and all other creatures are concealed to them. The smoke lasts for 1 minute or until
+  dispersed by a strong wind."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

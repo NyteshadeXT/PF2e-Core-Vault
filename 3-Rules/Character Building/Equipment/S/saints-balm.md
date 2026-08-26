@@ -2,34 +2,38 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "saints-balm"
 aliases: "Saints' Balm"
 source: "Pathfinder #152: Legacy of the Lost God"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "consumable"
 trait02: "healing"
 trait03: "magical"
 trait04: "oil"
-trait05: "uncommon"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 7
-weight: 
+weight:
 value: "70"
 subvalue: "gp"
 invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  This luminescent paste is made from the powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest. It typically comes in a tightly sealed, palm-sized dish etched with holy symbols. Applying _saints' balm_ to yourself or a creature within reach restores 3d8+10 Hit Points to the creature to which it's applied."
+description: "**Activate** `pf2:1` Interact  This luminescent paste is made from the
+  powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest.
+  It typically comes in a tightly sealed, palm-sized dish etched with holy symbols.
+  Applying _saints' balm_ to yourself or a creature within reach restores 3d8+10 Hit
+  Points to the creature to which it's applied."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +51,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +80,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

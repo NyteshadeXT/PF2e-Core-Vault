@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oil-of-repulsion"
 aliases: "Oil of Repulsion"
@@ -15,7 +15,7 @@ rarity: ""
 trait01: "consumable"
 trait02: "magical"
 trait03: "oil"
-trait04: "common"
+trait04: ""
 trait05: ""
 trait06: ""
 trait07: ""
@@ -29,7 +29,13 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  This oil contains magnetically charged iron filings repelled into opposite ends of the vial. For 1 minute after you apply this oil to armor, any creature that hits you with a melee Strike must attempt a DC 28 Fortitude check save with the following effects.  **Success** The creature is unaffected.  **Failure** The creature is pushed up to 10 feet away from you (the GM determines the direction).  **Critical Failure** As failure, and the creature is also knocked [[Conditions/Prone|Prone]]."
+description: "**Activate** `pf2:1` (manipulate)  * * *  This oil contains magnetically
+  charged iron filings repelled into opposite ends of the vial. For 1 minute after
+  you apply this oil to armor, any creature that hits you with a melee Strike must
+  attempt a DC 28 Fortitude check save with the following effects.  **Success** The
+  creature is unaffected.  **Failure** The creature is pushed up to 10 feet away from
+  you (the GM determines the direction).  **Critical Failure** As failure, and the
+  creature is also knocked [[Conditions/Prone|Prone]]."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +53,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +82,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

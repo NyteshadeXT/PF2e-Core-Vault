@@ -2,18 +2,18 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "mat-of-resilience-(greater)"
 aliases: "Mat of Resilience (Greater)"
 source: "Pathfinder #209: Destroyer's Doom"
 pg: ""
-rarity: ""
+rarity: "Uncommon"
 trait01: "magical"
-trait02: "uncommon"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,20 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This light but sturdy woven mat, a miniature version of the floating foundations used in villages of the Dirt Sea, is carried tied in a tight roll. When you use an action to unfurl the mat onto an unoccupied horizontal space, the mat covers the existing terrain to create a smooth surface that can be walked on as if it were solid ground. Difficult or hazardous terrain in that square may be treated as normal while the mat of resilience covers it. The mat can be rolled back up or moved to an adjacent square using an Interact action, but it cannot be moved or put away while a creature is atop it.  * * *  **Activate—Steady Ground** `pf2:1` (envision)  You unfurl the mat and choose which shape it takes, either a 20-foot square or a 40-foot by 5-foot line.  * * *  **Activate—Sturdy Foundation** `pf2:1` (manipulate)  **Requirements** A creature is atop the mat  **Effect** The creature enters a simple stance that makes the most of the mat's stabilizing magic. While in this stance, if at least half of the creature's space is atop the mat, it cannot gain the [[Conditions/Off-Guard|Off-Guard]] condition."
+description: "This light but sturdy woven mat, a miniature version of the floating
+  foundations used in villages of the Dirt Sea, is carried tied in a tight roll. When
+  you use an action to unfurl the mat onto an unoccupied horizontal space, the mat
+  covers the existing terrain to create a smooth surface that can be walked on as
+  if it were solid ground. Difficult or hazardous terrain in that square may be treated
+  as normal while the mat of resilience covers it. The mat can be rolled back up or
+  moved to an adjacent square using an Interact action, but it cannot be moved or
+  put away while a creature is atop it.  * * *  **Activate—Steady Ground** `pf2:1`
+  (envision)  You unfurl the mat and choose which shape it takes, either a 20-foot
+  square or a 40-foot by 5-foot line.  * * *  **Activate—Sturdy Foundation** `pf2:1`
+  (manipulate)  **Requirements** A creature is atop the mat  **Effect** The creature
+  enters a simple stance that makes the most of the mat's stabilizing magic. While
+  in this stance, if at least half of the creature's space is atop the mat, it cannot
+  gain the [[Conditions/Off-Guard|Off-Guard]] condition."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +60,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +89,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

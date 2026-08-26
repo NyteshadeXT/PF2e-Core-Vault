@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "rotary-bow"
 aliases: "Rotary Bow"
@@ -13,7 +13,7 @@ source: "Pathfinder Treasure Vault"
 pg: ""
 rarity: ""
 trait01: "capacity-4"
-trait02: "common"
+trait02: ""
 trait03: ""
 trait04: ""
 trait05: ""
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This one-handed crossbow has four arms instead of two, and four rotating chambers that can be pre-loaded with bolts for more efficient firing. The chamber can be swapped and the arms redrawn with a simple crank device built into the crossbow."
+description: "This one-handed crossbow has four arms instead of two, and four rotating
+  chambers that can be pre-loaded with bolts for more efficient firing. The chamber
+  can be swapped and the arms redrawn with a simple crank device built into the crossbow."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

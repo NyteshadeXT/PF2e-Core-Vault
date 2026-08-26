@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "smother-shroud"
 aliases: "Smother Shroud"
@@ -16,7 +16,7 @@ trait01: "alchemical"
 trait02: "consumable"
 trait03: "injury"
 trait04: "poison"
-trait05: "common"
+trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
@@ -29,7 +29,19 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` Interact  Smother shroud robs a victim of distinguishing features, making it difficult for anyone to identify the corpse. Swelling and distention of facial features makes the victim unrecognizable. Increase the DC of any checks made to identify a creature under the effects of smother shroud by twice the stage of the poison. If the victim dies while under the effects of this poison, its corpse retains an inability to take actions with the auditory trait, and if it tries to speak and fails, it counts against responses to the talking corpse spell.  **Saving Throw** DC 22 Fortitude check  **Maximum Duration** 10 rounds  **Stage 1** 2d4 poison and [[Conditions/Dazzled|Dazzled]] (1 round)  **Stage 2** 3d4 poison, dazzled, a –4 status penalty to Perception checks to hear and smell, and must succeed at a DC 10 Flat check to take actions with the auditory trait or the action is lost (1 round)  **Stage 3** 4d4 poison, [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]], unable to smell, unable to take actions with the auditory trait, and unable to breathe"
+description: "**Activate** `pf2:2` Interact  Smother shroud robs a victim of distinguishing
+  features, making it difficult for anyone to identify the corpse. Swelling and distention
+  of facial features makes the victim unrecognizable. Increase the DC of any checks
+  made to identify a creature under the effects of smother shroud by twice the stage
+  of the poison. If the victim dies while under the effects of this poison, its corpse
+  retains an inability to take actions with the auditory trait, and if it tries to
+  speak and fails, it counts against responses to the talking corpse spell.  **Saving
+  Throw** DC 22 Fortitude check  **Maximum Duration** 10 rounds  **Stage 1** 2d4 poison
+  and [[Conditions/Dazzled|Dazzled]] (1 round)  **Stage 2** 3d4 poison, dazzled, a
+  –4 status penalty to Perception checks to hear and smell, and must succeed at a
+  DC 10 Flat check to take actions with the auditory trait or the action is lost (1
+  round)  **Stage 3** 4d4 poison, [[Conditions/Blinded|Blinded]], [[Conditions/Deafened|Deafened]],
+  unable to smell, unable to take actions with the auditory trait, and unable to breathe"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +59,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +88,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---

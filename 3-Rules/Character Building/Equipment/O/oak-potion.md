@@ -2,10 +2,10 @@
 #========================================================#
 #                     CORE PROPERTIES                    #
 #========================================================#
-cssclasses: 
-- pf2e-items 
-- h-line 
-- pf2e-item-base
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
 notetype: pf2e-item
 name: "oak-potion"
 aliases: "Oak Potion"
@@ -17,7 +17,7 @@ trait02: "plant"
 trait03: "potion"
 trait04: "primal"
 trait05: "wood"
-trait06: "common"
+trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
@@ -29,7 +29,9 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (manipulate)  * * *  After you drink this bitter draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[Spells/Oaken Resilience|Oaken Resilience]] for 10 minutes."
+description: "**Activate** `pf2:1` (manipulate)  * * *  After you drink this bitter
+  draft, your skin thickens like bark. You gain the effects of a 2nd-rank [[Spells/Oaken
+  Resilience|Oaken Resilience]] for 10 minutes."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -47,9 +49,9 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 
+range:
 ammoType:
-damage: 
+damage:
 dmg1:
 dmg1Type:
 dmg2:
@@ -76,5 +78,4 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
-
 ---
