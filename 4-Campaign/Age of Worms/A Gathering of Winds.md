@@ -113,7 +113,21 @@ Even if the PCs can’t track him, it should be obvious to those who have visite
 
 Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic and playful gusts of wind haunt the halls, keeping dust from accumulating and filling the tomb with a constant rustling sound. Walls are of reinforced masonry, and doors are of basalt. A DC 29 [[Skills#Crafting|Crafting]] check is enough to establish the fact that the tomb is incredibly ancient, but was built to last eons and has weathered the passage of time well.
 
-![[icosiols-tomb-upper-level.png]]
+### Map - Icosial's Tomb
+
+> [!column|no-t]
+>> [!callout|no-t bg-brown]
+>> ![[icosiols-tomb-upper-level.png]]
+>
+>> [!recite|no-t bg-brown]
+>> [[#Location 1. The Black Seal]]
+>> [[#Location 2. The Howling Gallery]]
+>> [[#Location 3. The Hall of Poison Winds]]
+>> [[#Location 4. Collapsing Pillar Hall]]
+>> [[#Location 5. The Earl of Coalchester]]
+>> [[#Location 6. The Sword of Law]]
+>> [[#Location 7. The Silent Gallery]]
+>
 
 ### Location 1. The Black Seal
 ![[gathering-winds-black-seal.png|right hmed]]
@@ -147,6 +161,8 @@ Fortunately, there is an alternative. A character who studies the ruined portal 
 
 Characters who step through the portal are transported to area 2, Although shown on the map as if the two points are physically connected (and to the PCs’ perception, this is how it should seem), Icosiol’s Tomb is in fact deep under the ancient Fields of Pesh, in a region about 500 miles northeast of Diamond Lake. If the PCs somehow manage to travel up from the tomb through 1,000 feet of bedrock, they emerge iп а barren stretch of plains. To the north, a single volcano looms, a plume of steam drifting from its peak. A DC 30 [[Skills#Society|Society]] check correctly identifies this volcano as the legendary White Plume Mountain. There is no physical entrance to Icosiol’s Tomb from this region, and if the PCs decide to explore the area, you'll need to develop additional adventures as you see fit.
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 2. The Howling Gallery
 > [!note]+ Read Aloud
 > This sharply sloped hallway is filled with rushing, screaming wind and smoke. Small hollow projections in the hallway seem to be making the noise, but it’s obvious that air inside is being pushed out at an unusual rate. The noise makes hearing and speaking difficult.
@@ -164,7 +180,11 @@ creatures:
   - 4: [[Veiled Current]]
 ```
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 3. The Hall of Poison Winds
+![[gathering-winds-howling-gallery.png|right hmed]]
+
 > [!note]+ Read Aloud
 > This tall, temple-like chamber has a forty-foot-high ceiling. Carved stone pillars reach up to the ceiling in elegant lines, but strange clusters of spikes stick up from the floor in two distinct areas, like barricades.
 > 
@@ -186,6 +206,8 @@ The second trap is linked to the tiny holes in the walls and the small basins al
 > [!danger]- Trap
 > ![[poison-gas-trap|Poison Gas Trap]]
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 4. Collapsing Pillar Hall
 > [!note]+ Read Aloud
 > This long hall contains a twin set of pillars, leading to a large set of doors at the far end. These are columns made of large marble blocks shaped like drums; not all have aged quite the same, so their colors vary from gray to white to tan.
@@ -197,11 +219,15 @@ Trap: This hall is little more than a dead end and a trap against chaotic intrud
 
 **Development:** The shadow spider Flycatcher (see area 9) may also attack here, grabbing a PC and immediately retreating,
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 5. The Earl of Coalchester
+![[gathering-winds-earl-coalchester.png|right hmed]]
+
 > [!note]+ Read Aloud
 > A rush of superheated air flows from this room like the heat from a forge. Glowing hot coals cover the room’s floor. A pair of copper double doors stand at the far end of the room. A small chest of black stone sits in the far corner of the room.
 
-**Description** The temperature here is extreme; creatures inside take 1d6 fire damage per minute. In addition, creatures must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 144 points of nonlethal damage. Creatures wearing heavy clothing or armor take a -4 penalty on their saves. Those wearing metal armor or touching metal are affected as if by heat metal.
+**Description** The temperature here is extreme; creatures inside must make a Fortitude save every 1 minute (DC 15, +1 per previous check) or take 1d6 points of fire damage. Creatures wearing heavy clothing or armor take a -4 penalty on their saves. Those wearing metal armor or touching metal are affected as if by [[Heat Metal]].
 
 At the start of the encounter, place the following foes on the map: 
  - 1: [[3-Rules/Bestiaries/Monster Core/E/Elemental Inferno|Elemental Inferno]]
@@ -229,9 +255,13 @@ If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and
 > [!tip]+ Treasure
 > Antyress wears a platinum circlet worth 100 gp on his brow, a symbol of his office as Earl of Coalchester. Likewise, his [[Weapon Potency (+2)|+2]] [[Striking]] [[Longspear]] is emblazoned with his personal runes and sigils. He keeps his other treasures in the chest. The chest is locked (DC 30 [[Skills#Thievery|Thievery]]) but Antyress carries the key. The chest itself is made of a black stone (basalt) bound together with red gold, copper, and rusted iron, and weighs 300 pounds all by itself, 450 pounds with all its contents. It contains 230 gp, a knitted copper drawpurse containing 30 pp and 2 large honey-golden topazes (both worth 60 gp), and a narrow brass scroll case containing a [[Frost Pillar|Scroll of Frost Pillar]] . The chest also contains four thick crystal decanters of an efreeti brandy called scarlet ambrosia (worth 20 gp each), all four cushioned in a small portable bar of hammered brass.
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 6. The Sword of Law
+![[gathering-winds-sword-of-law.png|right hmed]]
+
 > [!note]+ Read Aloud
-> This intersection is lit by six flickering orange and yellow lanterns that float around a central statue of grey stone. The statue shows an androgynous Wind Duke wearing robes that seem to be stirred by a breeze. The figure may be a symbol of justice or war, for it holds a glittering sword outstretched in one hand and carries a balance in the other. The statue is eight feet tall and stands on a four-foot-tall pedastal.
+> This intersection is lit by six flickering orange and yellow lanterns that float around a central statue of grey stone. The statue shows an androgynous Wind Duke wearing robes that seem to be stirred by a breeze. The figure may be a symbol of justice or war, for it holds a glittering sword outstretched in one hand and carries a balance in the other. The statue is eight feet tall and stands on a four-foot-tall pedestal.
 
 **Description** This passage and intersection is trapped by the word of law. Three traps exist in the passageway itself, while the statue itself is a trap. The noise of their firing alerts the salamander in [[#Location 5. The Earl of Coalchester]] to the party's presence. These traps trigger as soon as a non-lawful creature enters a square marked with a W, or as soon as any creature touches or manipulates the statue or its sword.
 
@@ -243,7 +273,11 @@ If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and
 > [!tip]+ Treasure
 > The excellently crafted statue is worth more than 200 gp, but it's made of solid granite and weighs just over 3 tons. The statue's sword is a [[dawnsilver-weapon-standard-grade|Dawnsilver]] [[greatsword|Greatsword]], and can be removed from the statue with relative ease. The levitating lanterns are enchanted with continual flame. These lanterns are removable, though they continue to float and may drift away unless tethered or shepherded by hand.
 
+[[#Map - Icosial's Tomb|Return to Map]]
+
 ### Location 7. The Silent Gallery
+![[gathering-winds-silent-gallery.png|right hmed]]
+
 > [!note]+ Read Aloud
 > This two-tiered hall shines with purple light from four large chandeliers. A large black sphere hangs between them. The chandeliers seem to be sculpted with small humanoid figures in silvery metal. A second-floor gallery with arches and spiral-striped pillars runs the length of the hallway to а second set of large double doors. The black tile floor absorbs the light from the chandeliers, and even sound in this chamber seems muted and dull.
 
@@ -251,25 +285,22 @@ If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and
 
 The guardian of this chamber is an elder spawn from the brood pits of Bwimb, a great menace of elemental ooze who fought against Aaqa in the great war against the Queen of Chaos. Although mindless, it remains a lord among oozes. This elder black pudding hides in plain sight in a depression in the floor just below the four chandeliers, its dull black surface almost indistinguishable from the surrounding tiles. А DC 30 [[Skills#Perception|Perception]] check sees through the clever camouflage.
 
-Elder Black Pudding: hp 290; Monster Manual 201.
-
-**CHECK ALL DCs!!!**
-
 At the start of the encounter, place the following foes on the map: 
- - 2: [[BadGuy1]] W
- - 2: [[BadGuy2]] H
+ - 1: [[Carnivorous Blob]]
 
 ```encounter
-name: EncounterName
-party: PartyName
+name: The Silent Gallery
+party: Age of Worms
 creatures:
-  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
-  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
-  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+  - 1: [[Carnivorous Blob]]
 ```
 
 #### Tactics
-The elder black pudding remains calm as long as no one tries to walk on it or attempts to damage or steal any of the room's contents. A creature that steps on it is subjected to an automatic trip attempt by the elder black pudding. Once it attacks, the ooze pursues its prey relentlessly, returning to this chamber only if no living creatures are within 60 feet. It is magically bound to the tomb complex, and cannot leave it under any circumstances.
+The Carnivorous Blob remains quiescent so long as no creature enters its space, damages it, or attempts to remove any of the room’s contents. If a creature enters its space, it immediately attacks; on its first turn, it attempts to Engulf as many intruders as possible.
+
+Once provoked, the blob pursues prey relentlessly, prioritizing creatures it has engulfed and creatures carrying items taken from the chamber. It uses its pseudopod Strike against creatures it can’t engulf or that escape its grasp. If reduced to 150 HP or fewer by piercing or slashing damage, it splits as normal and both resulting blobs continue the pursuit.
+
+The blob returns to this chamber only when no living creatures remain within 60 feet. It is magically bound to the tomb complex and can’t leave it under any circumstances.
 
 #### Features of the Area
 - **Large Black Sphere** (See Recall Knowledge check below.) This sphere radiates moderate conjuration magic, but its only purpose is to periodically provide nourishment for the creature that guards the chamber.
@@ -278,98 +309,814 @@ The elder black pudding remains calm as long as no one tries to walk on it or at
 
 #### Investigation
 - Recall Knowledge — Planar Lore DC 30 _(secret; expert)_ OR Arcana DC 32: You identify the black sphere hanging from the ceiling as the personal symbol of Bwimb, a cruel para-elemental general from the Plane of Ooze who fought beside the Queen of Chaos against the Wind Dukes.
-- Nature DC XX:
-- Occultism DC XX:
-- Religion DC XX:
-- Crafting DC XX:
-- Perception DC XX:
-
 
 > [!tip]+ Treasure
 > Each of the chandeliers is worth 80 gp and weighs 100 pounds.
 
+[[#Map - Icosial's Tomb|Return to Map]]
 
+### Location 8. The Courtesan’s Tomb
 
+> [!note]+ Read Aloud
+> This small but well-appointed room has a delicately arched ceiling. The walls are painted with garden scenes featuring two Wind Duke lovers, and the center of the room contains a large urn with a dark red glaze and gold decorations. Six small boxes, each carved of some black substance bound with corroded metal, line the back wall. Chairs sit in each corner.
 
+This room contains treasures from Icosiol’s life off the battlefield, including the cremated remains of his courtesan Marisela.
 
+> [!danger]+ Trap
+> The urn holds Marisella’s ashes, and is heavily trapped, firing an energy drain spell at anyone who tampers with it. 
+> 
+> ![[urn-energy-drain-trap|Urn Energy Drain Trap]]
 
+> [!tip]+ Treasure
+> The chests are all locked ([[Skills#Thievery|Thievery]] DC 35), and contain various treasures: а [[Heroism|Wand of Heroism (3rd-rank)]] , a set of three clay tablets carved with the elemental glyphs of the Wind Dukes (love poems written in Vaati worth 50 gp each), a set of scrolls long since crumbled to dust, a set of silk gowns and robes that turn to dust as they are lifted up (but set with 200 tiny 2 gp pearls and 40 5 gp turquoises), and a wicker basket containing a matching platinum necklace, ring, and earrings worth 800 gp for the set (or 150 gp each).
 
+[[#Map - Icosial's Tomb|Return to Map]]
 
+### Location 9. The Shadow Web
 
+> [!note]+ Read Aloud
+> This rectangular room has small columns around the edges that partially hide the carvings along the walls. Pale white light glows from two large wheel-shaped chandeliers, casting overlapping shadows throughout the room. Blue metal double doors stand at the top of a flight of stairs opposite the main entrance, guarded by two warrior figures with raised double swords, as well as a single doorway to the south and double doors to the north, also guarded by warrior statues.
 
+This chamber is the entrance hall to the lower chambers of Icosiol’s Tomb. Once guarded by several powerful air elementals that animated the statues in the room, the chamber now serves as the home of an even stranger beast. The stairs, floor, doors, and walls of this chamber are crisscrossed with tiny tangles of shadow—these are the webs of the shadow spider Flycatcher. They are not sticky, but Flycatcher can sense when anything touches or passes over them.
 
+Creatures: The unusually intelligent shadow spider sorcerer that has taken such an interest in Icosiol’s Tomb refers to himself by several names, including Blackleg, Walker Across the Threshold, Spitgob, Cornerweaver, Hungry Prince, or (most often) Flycatcher. The party may come to think that several spiders stalk them, but it's really just Flycatcher under his various aliases. Flycatcher discovered the tomb accidentally while shadow walking many years ago, and quickly became obsessed with the tomb, returning here often from his home on the Plane of Shadow to bask in the tomb’s secrets. In that time, he’s come to think of himself as the tomb’s guardian, his dementia and madness seizing on the location for reasons unknown even to himself.
 
+Flycatcher doesn’t react well to intrud-
 
+ers, whom he suspects (with good rea-
 
+son) are here to rob the tomb of its great
 
-8. The Courtesan’s Tomb
+treasures. He regularly patrols the upper
 
-This small but well-appointed room has
+chambers of the tomb, and may run into
 
-a delicately arched ceiling. The walls are
+the PCs in area 4 or 6. He attempts to
 
-painted with garden scenes featuring two
+catch a PC that looks physically weak
 
-Wind Duke lovers, and the center of the
+and then retreats with his prey to this
 
-room contains a large urn with a dark red
+chamber, where he waits for the rest of
 
-glaze and gold decorations. Six small boxes,
+the PCs to seek him out. You should have
 
-each carved of some black substance bound
+Flycatcher target a henchman, cohort, or
 
-with corroded metal, line the back wall.
+perhaps even a familiar or animal com-
 
-Chairs sit in each corner.
+panion—if he manages to snatch some-
 
-This room contains treasures from
+one, he'll wrap the victim in spider silk
 
-Icosiol’s life off the battlefield, includ-
+and stash him in a cage on the Plane of
 
-ing the cremated remains of his cour-
+Shadow, which could effectively remove
 
-tesan Marisela.
+a captured PC from the game for an
 
-Trap: The urn holds Marisella’s ashes,
+extended period of time.
 
-and is heavily trapped, firing an energy
+In any event, if Flycatecher manages
 
-drain spell at anyone who tampers with it.
+to catch someone, he uses that victim
 
-Urn Energy Drain Trap: CR 10; magical
+as а bargaining chip. He claims that he
 
-device; touch trigger; repair reset; spell
+could be convinced to release the cap-
 
-effect (energy drain, 17th-level wizard, Atk
+tured character if the party agrees to
 
-+16 ranged touch, 244 negative levels);
+slay someone he calls the “Marquis of
 
-Search DC 34, Disable Device DC 34.
+the River.”
 
-Treasure: The chests are all locked
+Flycatcher speaks of Moreto, a true
 
-(Open Lock DC 35), and contain various
+ghoul, one of a race of undead who pop-
 
-treasures: а wand of eagle's splendor (15
+ulate cities in a forgotten reach of the
 
-charges), a set of three clay tablets carved
+Underdark called the White Kingdom.
 
-with the elemental glyphs of the Wind
+Flycatcher tells the PCs that Moreto
 
-Dukes (love poems written in Vaati worth
+dwells in a cavern deep under these
 
-500 gp each), a set of scrolls long since
+tombs, a cavern accessible via a “river of
 
-crumbled to dust, a set of silk gowns and
+blood” that flows through the tomb. If
 
-robes that turn to dust as they are lifted
+the PCs agree to bring Flycatcher More-
 
-up (but set with 200 tiny 25 gp pearls and
+to's head, the shadow spider agrees to
 
-40 50 gp turquoises), and a wicker basket
+return their friend.
 
-containing a matching platinum neck-
+Flycatcher’s initial attitude toward the
 
-lace, ring, and earrings worth 8,000 gp
+PCs is unfriendly. Ifthe PCs can make him
 
-for the set (or 1,500 gp each).
+friendly, he'll agree to ransom a captured
+
+character for 20,000 gp (or the equivalent
+
+value in magic items), promising to return
+
+the item once the PCs kill Moreto. If the
+
+PCs make him helpful, he is so impressed
+
+that he returns the abducted character as
+
+a sign of good will, but still demands the
+
+PGs kill the true ghoul.
+
+The shadow spider is evasive about his
+
+reasons for wanting Moreto killed. Ifasked,
+
+he claims that Moreto has tormented him
+
+forages and Flycatcher just wants revenge.
+
+This is a lie, and since Flycatcher’s not that
+
+good at Bluff, the PCs will doubtless real-
+
+ize this. Flycatcher’s actual reason is more
+
+complex. Several days ago, Moreto and his
+
+undead minions invaded the tomb. The
+
+true ghoul managed to steal a potent arti-
+
+fact from area 10 and escaped back down
+
+the Falling River before Flycatcher could
+
+stop him. The shadow spider is paranoid
+
+now about leaving the tomb ungarded, and
+
+dares not pursue Moreto down the cavern
+
+below. The shadow spider's been wracking
+
+his brain fora way to get the Seal of Law out
+
+of Moreto's clutches, and views the PCs as
+
+his best chance.
+
+While Flycatcher can be bargained
+
+with, he is a bizarre conversationalist,
+
+speaking in a stream-of-consciousness
+
+gibberish. He considers the entire tomb
+
+his territory, though his main hunting
+
+grounds are elsewhere,
+
+FLYCATCHER
+
+Male shadow spider sorcerer 3
+
+LN Huge magical beast (extraplanar)
+
+Monster Manual 11 184
+
+Init +6; Senses darkvision 60 ft. low-light
+
+vision; Listen +4, Spot +4
+
+Languages Common
+
+AC 20, touch 10, flat-footed 18
+
+hp 175 (16 HD); DR 10/magic
+
+SR 23
+
+Fort +17, Ref +13, Will +9
+
+Spd 50 ft., climb 30 ft.
+
+Melee 4 claws +20 (2d4+8) and
+
+bite +18 (2d6+4 plus paralysis)
+
+Space 15 ft.; Reach 10 ft.
+
+Base Atk +14; Grp +30
+
+Atk Options improved grab (two claws)
+
+Special Atk silk slick
+
+Spells Known (CL 3)
+
+1st (6/day)—comprehend languages, shield,
+
+true strike
+
+o (6/day)}—detect magic, ghost sound (DC 12),
+
+mage hand, prestidigitation, read magic
+
+Spell-Like Abilities (CL 10)
+
+At will—shadow walk (DC 18)
+
+Abilities Str 26, Dex 15, Con 22, Int 8, Wis
+
+10, Cha 14
+
+50 summon familiar (none currently)
+
+Feats Great Fortitude, Improved Initiative,
+
+Improved Natural Armor, Iron Will,
+
+Lightning Reflexes, Multiattack
+
+Skills Bluff +5, Climb +20, Hide -2 (+18 іп
+
+shadows), Listen +4, Spot +4
+
+Possessions bracers of armor +5
+
+Paralysis (Ex): Anyone bitten by a shadow
+
+spider must make a DC 24 Fortitude save
+
+or be paralyzed for 4 rounds.
+
+Silk Slick (Su); As а full-round action, a
+
+shadow spider can spray a layer of spider
+
+silk over any solid surface. It can cover up
+
+to 100 square feet with this substance,
+
+which dries and evaporates in 13 rounds.
+
+The silk slick functions in all other
+
+respects like a grease spell (caster level 13,
+
+Reflex save DC 20).
+
+Tactics: Flycatcher uses hit-and-run
+
+tactics in combat, trying to abduct char-
+
+acters and strand them on the Plane of
+
+Shadow using his shadow walk ability.
+
+He abandons the tomb completely if
+
+brought below 20 hit points.
+
+Treasure: If the party can reach the
+
+Plane of Shadow (perhaps with a shadow
+
+walk spell of their own), they can eas-
+
+ily find Flycatcher’s larder on the Plane
+
+CR 13
+
+of Shadow in approximately the same
+
+location as this chamber. In addition
+
+to any characters the shadow spider has
+
+abducted, the larder is littered with the
+
+possessions of previous victims, includ-
+
+ing 1,800 sp, 4,000 gp, an empty decanter
+
+of cut quartz with a carved, star-shaped
+
+quartz stopper worth a total of 1,000 gp, a
+
+black pearl worth 600 gp, a clearly flawed
+
+ruby worth 800 gp, a silver parade helmet
+
+with gold inlays worth 1,500 gp, and a
+
+necklace of gold set with dozens of small
+
+pearls worth 2,000 gp.
+
+10. The Keeper’s
+
+Chambers (EL 11)
+
+A set of dusty and archaic armor rests in
+
+front of a small shrine, apparently long
+
+abandoned. The weapon stand before the
+
+armor lies empty except for flakes of rust.
+
+Behind the armor is а small altar loaded
+
+with dusty offerings from years past. A
+
+statue of a regal Wind Duke sits in a small
+
+nook above the altar, and a door is painted
+
+on the wall to the right.
+
+This was the private room of a Wind
+
+Duke servitor named Zifforian. A DC 25
+
+Spot check reveals that another item once
+
+rested in a recessed spot next to the statue
+
+of the Wind Duke hero. This less-dusty
+
+niche is where the Seal of Law once sat—
+
+Moreto snatched it and then promptly
+
+fled with it down the Falling River.
+
+Creature: Zifforian was a Wind
+
+Duke servitor who watched over the
+
+tomb—every decade or two, a new ser-
+
+vitor would arrive to relieve the pre-
+
+vious tombkeeper. The post was con-
+
+sidered an honorable one, if hopelessly
+
+dull. That changed when Zifforian
+
+was forgotten during the Wind Dukes’
+
+decline. When the poor wretch found
+
+the portal leading out of the tomb had
+
+been sealed and warded with an abys-
+
+sal ghoul, he accepted his fate stoically.
+
+He spent centuries watching over the
+
+site, but eventually age drove him to a
+
+lingering death.
+
+Zifforian slowly lost his mind over
+
+those years, and after his death he rose
+
+as a dread wraith. He was gone when the
+
+Seal of Law was stolen a few weeks ago,
+
+and now obsesses about the lost item,
+
+muttering constantly about the “theft of
+
+the shrine treasures by the foot soldiers.”
+
+He mindlessly attacks anyone that enters
+
+this room, stepping in through the door
+
+painted on the wall.
+
+Zifforian, Dread Wraith: hp 104; Mon-
+
+ster Manual 258.
+
+Treasure: The dusty armor is a suit of
+
++2 electricity resistance banded mail.
+
+1L. The River of Blood
+
+(EL 11)
+
+A river surges through the tomb here, its
+
+red water as bright as blood. A stone bridge
+
+crosses the river, but the pilings have been
+
+undermined by erosion over the centuries,
+
+and the bridge arches are barely holding.
+
+іп several places, the bridge tilts danger-
+
+ously to the side. On the far side of the
+
+river is a fortified gatehouse, dimly visible
+
+and secured by an enormous rusted gate.
+
+The gate must be fifteen feet tall and just
+
+as wide.
+
+DECEMBER 2005 DUNGEON 49
+
+А GATHERING OF WINDS
+
+Despite appearances, the river that
+
+flows through the tomb here is not made
+
+of blood. The unusual color of the water
+
+is a result of a large deposit of minerals
+
+upriver from this location. Nonetheless,
+
+the Wind Dukes appreciated the mor-
+
+bidity of the river as a fitting testament
+
+to the blood that was shed during the
+
+great war between Law and Chaos.
+
+Crossing the bridge on foot is dangerous;
+
+the sloping sections are treacherous, and
+
+the footing is bad throughout. It requires
+
+a DC 15 Balance check to cross the bridge;
+
+failure by 5 or more indicates a character
+
+has fallen into the river below. The bridge
+
+collapses entirely (dealing 346 damage to
+
+anyone on it when it falls) ifmore than 500
+
+pounds of weight are placed on it at any
+
+one time. It’s а 30-foot-fall to the frothing
+
+red waters below.
+
+The riverbanks are steep, slippery
+
+cliffs that can be scaled with a DC 20
+
+Climb check. The river itself is only 10
+
+feet deep at its deepest point, and flows
+
+rather swiftly. A DC 15 Swim check is
+
+required to navigate the river, and the
+
+current washes anyone in it downriver
+
+at a speed of 20 feet toward area 20. ОҒ
+
+course, characters in the river quickly
+
+attract the attention of its guardians (see
+
+area 16).
+
+Creatures: This chamber has become
+
+the lair of a group of six xorns who have
+
+been following the river’s path for the
+
+past few weeks, foraging on the delicious
+
+ore deposits that run along its length and
+
+give it its ruddy coloration. The xorns
+
+are protective of their territory, and
+
+especially hate gnomes (due to a recent
+
+ambush by svirfneblin in the Underdark),
+
+They attack gnomish PCs in preference
+
+to others during this encounter.
+
+The xorns hide in the stone in the
+
+locations indicated on the map; when
+
+anyone comes within 5 feet of a xorn, it
+
+rears up out of the ground and attacks,
+
+with any other xorns in the room joining
+
+the fray soon thereafter.
+
+Xorns (6): hp 48 each; Monster Manual
+
+261.
+
+12. The Tomb
+
+Gatehouse
+
+The entrance to this gatehouse is made
+
+of flaking, rusting iron, with hinges on
+
+the other side and a series of glyphs and
+
+protective amulets inset in the iron. Some
+
+of the amulets look almost like feathers,
+
+while others seem more like mill wheels
+
+or maybe latches or levers. The thick rust
+
+makes it difficult to say what the engravings
+
+are really meant to be. Some seem to be
+
+smudged with black dirt or ashes.
+
+This false gatehouse has a set of iron
+
+doors overlaid with elaborate warding
+
+magic, multiple castings of Nystul’s magic
+
+aura, carved and inlaid glyphs, semi-
+
+precious seals, and a scattering of dials,
+
+knobs, and levers—most of which serve
+
+no purpose but to encourage tomb rob-
+
+bers to waste time and resources. The
+
+small walkway and arrow slits are part of
+
+the façade.
+
+With a DC 25 Disable Device check
+
+made on the gate, something clicks into
+
+place within the door, and a new device,
+
+dial, or lever slides into view. The main
+
+iron gate stays closed unless someone
+
+makes a DC 35 Disable Device check,
+
+at which point it opens to reveal a less
+
+battered but equally complicated door
+
+behind it.
+
+These doors can become a huge time-
+
+waster for tinkering parties. A DC 30
+
+Search of the mechanisms themselves
+
+rather than the door reveals that some
+
+of the levers are not even connected to
+
+anything that opens this door.
+
+Iron Gatehouse Doors; 2 in. thick;
+
+Hardness 10; hp 60; Break DC 28.
+
+15. The Wind Duke's
+
+Antechamber (EL 11)
+
+A small statue of an armored Wind Duke,
+
+his left hand resting on a sword, his right
+
+held up to shield his eyes, stands at the far
+
+wall of this room as part of a small shrine.
+
+The statue seems to be made of gold, with
+
+sparkling blue gems for eyes; a beam of
+
+bright light shines onto the statue from
+
+above. The walls are carved with bas-reliefs
+
+of Wind Duke servants bowing and sol-
+
+diers saluting. An elaborate carpet covers
+
+the floor, but it is badly worn and the col-
+
+ors have faded—only small patches of the
+
+complete pattern remain.
+
+This formal shrine was meant for
+
+Wind Duke officials and visitors to bring
+
+offerings and prayers for Icosiol. Its
+
+main feature is a four-foot-tall statue of
+
+the Wind Duke Icosiol made of ceramic
+
+and nickel-plated iron and covered with
+
+a thin layer of gold.
+
+Creatures: The bas-reliefs to either side
+
+of the shrine show Icosiol triumphant
+
+over the Wind Dukes’ enemies—basic
+
+propaganda, but well-done nevertheless.
+
+The reliefs also show many Wind Duke
+
+soldiers attending Icosiol. Two of these
+
+soldiers are in fact unusual constructs
+
+called relief golems, stationed here to
+
+guard the room. If the PCs damage any-
+
+thing in the room or try to steal any of
+
+the gemstones, the two relief golems
+
+clamber out of the wall and attack. They
+
+pursue creatures from this room only if
+
+that creature carries any treasure stolen
+
+from here.
+
+RELIEF GOLEM (2) CRO
+
+N Large construct
+
+DRAGON #334 42
+
+Init +0; Senses darkvision 60 ft.; Listen +1,
+
+Spot +1
+
+AC 23, touch 9, flat-footed 23
+
+hp 129 (18 HD); DR 10/piercing or bludgeoning
+
+Immune magic, construct traits
+
+Fort +6, Ref +8, Will +7
+
+Spd 20 ft.
+
+Melee 2 slams +18 (248--6/19-20)
+
+Space 10 #.; Reach 10 ft.
+
+Base Atk +13; Grp +23
+
+Atk Options Cleave, Great Cleave, Improved
+
+Sunder, Power Attack
+
+Abilities Str 23, Dex 10, Соп —, Int 8, Wis
+
+12, Chal
+
+SQ meld into stone, phase door
+
+Feats Cleave, Great Cleave, Improved Critical
+
+(slam), Improved Natural Attack (slam),
+
+Improved Sunder, Lightning Reflexes,
+
+Power Attack
+
+Skills Hide +6 (+26 when merged into a
+
+wall), Move Silently +11
+
+Immunity to Magic (Ех): A relief golem is
+
+immune to any spell or spell-like ability
+
+that allows spell resistance, with a few
+
+exceptions. А stone to flesh spell prevents
+
+it from using its meld with stone and phase
+
+door abilities and negates its damage
+
+reduction for 1 hour (no save). A soften
+
+earth and stone slows the golem for 244
+
+rounds (no save). Transmute mud to rock
+
+heals it of all lost hit points.
+
+Meld into Stone (Sp): A relief golem can enter
+
+a stone surface at will as a standard action
+
+as per the spell meld into stone. While
+
+inside a wall, any carvings or paintings on
+
+the wall shift and alter to accommodate
+
+the image of the relief golem that appears
+
+where it has merged. A relief golem can
+
+see and hear out of the stone surface; this
+
+effect lasts until the relief golem decides
+
+to exit the stone. This effect operates at
+
+caster level 18. Casting stone shape оп а
+
+wall containing a relief golem forces it to
+
+leave immediately.
+
+Phase Door (Sp): A relief golem can walk
+
+through wood, plaster, and stone walls
+
+at will as per the spell phase door as a
+
+standard action. Such portals can only be
+
+used once and the relief golem cannot
+
+take other creatures through. The caster
+
+level for this effect is 18.
+
+Treasure: The statue's eyes are pale blue
+
+topazes worth 1,000 gp each. The statue
+
+itself is worth more than 9,500 gp as a
+
+work of ancient art, but it weighs 2,500
+
+pounds and would require strong bearers
+
+to carry it out. If the gold is stripped, it’s
+
+worth 800 gp as raw materials.

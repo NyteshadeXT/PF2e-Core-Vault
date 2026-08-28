@@ -38,17 +38,3 @@ aliases: ["Word of Law"]
 
 **Reset** 1 minute.
 ```
-
-## Word of Law — Hazard 11
-
-**Uncommon** **Auditory** **Divine** **Magical** **Trap**
-
-
-
----
-
-**** [reaction]  
-**Trigger** A creature without the ward’s identifying mark enters the trapped area.  
-
-
-This uses **divine decree**, the Remaster successor in function to _dictum_, while replacing alignment-based targeting with a keyed ward. I’ve kept the strongest control effect behind a critical failure and a second save; a permanent or near-permanent paralysis would be too swingy for an automatically resetting level-11 trap. [Divine Decree](https://2e.aonprd.com/Spells.aspx?ID=1495)

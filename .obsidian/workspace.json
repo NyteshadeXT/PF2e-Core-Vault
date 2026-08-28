@@ -27,16 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Gathering of Winds"
+            }
+          },
+          {
+            "id": "f9a2a56c0361fa87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/DC Calculator.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Champions Belt"
+              "title": "DC Calculator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,20 +256,28 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "1bfdb293577e8084",
+  "active": "8f457d42deb509c7",
   "lastOpenFiles": [
+    "3-Rules/Hazards/Homebrew/U/urn-energy-drain-trap.md",
+    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
+    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
+    "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
+    "3-Rules/Hazards/Homebrew/U/Untitled",
+    "3-Rules/Hazards/Homebrew/U",
+    "zz-Attachments/gathering-winds-silent-gallery.png",
+    "zz-Attachments/gathering-winds-sword-of-law.png",
+    "zz-Attachments/gathering-winds-earl-coalchester.png",
+    "1-GM Toolkit/DC Calculator.md",
+    "zz-Attachments/gathering-winds-howling-gallery.png",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
     "2-Party/Age of Worms/Zamosshe.md",
     "2-Party/Age of Worms/Jerrykk.md",
     "2-Party/Age of Worms/Jayden.md",
     "2-Party/Age of Worms/Haight Enashberry.md",
     "2-Party/Age of Worms/Akiowen.md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
     "zz-Attachments/gathering-winds-black-seal.png",
     "4-Campaign/Age of Worms/Untitled.md",
-    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
-    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
-    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
     "3-Rules/Character Building/Equipment/T/Triggerbrand.md",
     "zz-Templates/GM Templates/Locations/Template - Adventure.md",
     "3-Rules/Character Building/Equipment/T/Twisting Gale.md",
@@ -270,8 +291,6 @@
     "3-Rules/Character Building/Equipment/T/True Name Amulet (Lesser).md",
     "3-Rules/Character Building/Equipment/T/Trollhound Pick.md",
     "3-Rules/Character Building/Equipment/T/Trinity Geode.md",
-    "3-Rules/Character Building/Equipment/T/Tricky Liniment.md",
-    "3-Rules/Character Building/Equipment/T/Trickster's Mandolin.md",
     "3-Rules/Character Building/Equipment/config.json",
     "3-Rules/Character Building/Equipment/run_app.bat",
     "3-Rules/Character Building/Equipment/update_yaml.py",
@@ -281,15 +300,9 @@
     "zz-Attachments/Assets/ImagePlaceholder.png",
     "zz-Attachments/Assets/MapPlaceholder.png",
     "zz-Attachments/deep-wilds-dungeon.png",
-    "zz-Attachments/deep-wilds-heartroot.png",
-    "zz-Attachments/image-2.png",
-    "zz-Attachments/image-3.png",
-    "zz-Attachments/image-4.png",
     "zz-Attachments/image-1.png.markers.json",
     "3-Rules/Bestiaries/Uniques/U",
     "windrose-tile-metadata.json",
-    "TTRPG/Time/event-details-legacy-backup",
-    "TTRPG/Time/event-source",
-    "zz-Attachments/windrose_objects"
+    "TTRPG/Time/event-details-legacy-backup"
   ]
 }
