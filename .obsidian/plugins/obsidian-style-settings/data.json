@@ -85,5 +85,16 @@
   "supercharged-links@@fc80-2a5c-after": "\"\"",
   "supercharged-links@@fc80-2a5c-before": "☠️",
   "supercharged-links@@fc80-2a5c-weight": "bold",
-  "supercharged-links@@fc80-2a5c-color": "#79248D"
+  "supercharged-links@@fc80-2a5c-color": "#79248D",
+  "ITS@@s-d": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@metabind-auto": false,
+  "ITS@@bases-non-its-styling": false,
+  "ITS@@bases-non-its-colrow-styling": false,
+  "ITS@@dataview-regular-table": false,
+  "ITS@@dataview-table-auto": false
 }

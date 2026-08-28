@@ -8,33 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4904fc433b616762",
-            "type": "leaf",
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://6987cb4473c32edbfbcebb22750975596a7f/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/deep-wilds-dungeon.png?1782080101112",
-                  "filePath": "zz-Attachments/deep-wilds-dungeon.png"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
             "id": "8f457d42deb509c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/W/Weapon Potency (+1).md",
+                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A Gathering of Winds"
+            }
+          },
+          {
+            "id": "1bfdb293577e8084",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Weapon Potency (+1)"
+              "title": "The Champions Belt"
             }
           }
         ],
@@ -194,17 +192,17 @@
         "currentTab": 5
       },
       {
-        "id": "f973bac8bf98a63e",
+        "id": "29c4ead83d8a8e86",
         "type": "tabs",
         "children": [
           {
-            "id": "17cd0f408392d0f5",
+            "id": "0c0fbb6305864d99",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_9a0bb9693ad9",
-                "creatureName": "Ilthane the Black"
+                "creatureId": "ID_f9cbfad909f8",
+                "creatureName": "Ulgurstasta"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -245,34 +243,35 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "8f457d42deb509c7",
+  "active": "1bfdb293577e8084",
   "lastOpenFiles": [
-    "3-Rules/Character Building/Equipment/W/Weapon Shot (Greater).md",
-    "3-Rules/Character Building/Equipment/W/Weapon Potency (+3).md",
-    "3-Rules/Character Building/Equipment/W/Weapon Potency (+1).md",
-    "3-Rules/Character Building/Equipment/W/Waterproof Firearm Carrying Case.md",
-    "3-Rules/Character Building/Equipment/W/Water Purifier.md",
-    "3-Rules/Character Building/Equipment/W/Water Bomb (Moderate).md",
-    "3-Rules/Character Building/Equipment/W/Water Bomb (Major).md",
-    "3-Rules/Character Building/Equipment/W/Water Bomb (Lesser).md",
-    "3-Rules/Character Building/Equipment/W/Water Bomb (Greater).md",
-    "3-Rules/Character Building/Equipment/W/Watchful Portrait.md",
-    "3-Rules/Character Building/Equipment/W/Wasul Reed Mask.md",
-    "3-Rules/Character Building/Equipment/W/Wasp Guard.md",
-    "3-Rules/Character Building/Equipment/W/Warrior's Training Ring.md",
-    "3-Rules/Character Building/Equipment/W/Warpwobble Poison.md",
-    "3-Rules/Character Building/Equipment/W/Warning Snare.md",
-    "3-Rules/Character Building/Equipment/W/Warleader's Bulwark.md",
-    "3-Rules/Character Building/Equipment/W/Wardrobe Stone (Greater).md",
-    "3-Rules/Character Building/Equipment/W/Warding Escutcheon (Greater).md",
-    "3-Rules/Character Building/Equipment/W/Warding Escutcheon.md",
-    "3-Rules/Character Building/Equipment/W/Warcaller's Chime of Blasting.md",
-    "3-Rules/Character Building/Equipment/W/War Blood Mutagen (Greater).md",
-    "3-Rules/Character Building/Equipment/W/Wand of Dazzling Rays (3rd-level).md",
-    "3-Rules/Character Building/Equipment/W/Wand of Clinging Rime (7th-level).md",
-    "3-Rules/Character Building/Equipment/W/Wand Cane.md",
-    "3-Rules/Character Building/Equipment/W/Wand Implement.md",
-    "3-Rules/Character Building/Equipment/W/Waffle Iron (High-grade Mithral).md",
+    "2-Party/Age of Worms/Zamosshe.md",
+    "2-Party/Age of Worms/Jerrykk.md",
+    "2-Party/Age of Worms/Jayden.md",
+    "2-Party/Age of Worms/Haight Enashberry.md",
+    "2-Party/Age of Worms/Akiowen.md",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "zz-Attachments/gathering-winds-black-seal.png",
+    "4-Campaign/Age of Worms/Untitled.md",
+    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
+    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
+    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
+    "3-Rules/Character Building/Equipment/T/Triggerbrand.md",
+    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
+    "3-Rules/Character Building/Equipment/T/Twisting Gale.md",
+    "3-Rules/Character Building/Equipment/T/Twining Chains.md",
+    "3-Rules/Character Building/Equipment/T/Twilight Lantern (Greater).md",
+    "3-Rules/Character Building/Equipment/T/Twigjack Sack (Greater).md",
+    "3-Rules/Character Building/Equipment/T/Turquoise.md",
+    "3-Rules/Character Building/Equipment/T/Trundle Wheel.md",
+    "3-Rules/Character Building/Equipment/T/Trueshape Bomb.md",
+    "3-Rules/Character Building/Equipment/T/True Name Amulet (Greater).md",
+    "3-Rules/Character Building/Equipment/T/True Name Amulet (Lesser).md",
+    "3-Rules/Character Building/Equipment/T/Trollhound Pick.md",
+    "3-Rules/Character Building/Equipment/T/Trinity Geode.md",
+    "3-Rules/Character Building/Equipment/T/Tricky Liniment.md",
+    "3-Rules/Character Building/Equipment/T/Trickster's Mandolin.md",
     "3-Rules/Character Building/Equipment/config.json",
     "3-Rules/Character Building/Equipment/run_app.bat",
     "3-Rules/Character Building/Equipment/update_yaml.py",
@@ -286,7 +285,6 @@
     "zz-Attachments/image-2.png",
     "zz-Attachments/image-3.png",
     "zz-Attachments/image-4.png",
-    "zz-Attachments/windrose_objects/dungeon_door.svg",
     "zz-Attachments/image-1.png.markers.json",
     "3-Rules/Bestiaries/Uniques/U",
     "windrose-tile-metadata.json",

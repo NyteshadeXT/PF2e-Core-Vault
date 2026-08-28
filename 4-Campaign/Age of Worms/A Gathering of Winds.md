@@ -10,7 +10,7 @@ adventure_status: Not Started
 adventure_level: 11th to 13
 ---
 
-> [!metadata|metadata]- Metadata 
+> [!metadata|metadata color-blue]- Metadata 
 >> [!metadata|metadataoption]- System
 >> #### System
 >>  |
@@ -116,6 +116,8 @@ Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic an
 ![[icosiols-tomb-upper-level.png]]
 
 ### Location 1. The Black Seal
+![[gathering-winds-black-seal.png|right hmed]]
+
 > [!note]+ Read Aloud
 > The walls of this passageway are scarred and dented, indicating that this whole area has been, until recently, collapsed. At the end of the tunnel stands a glossy black surface with a raised sphere in the center, like the boss in the center of a shield. The glossy black surface resembles a heavily lacquered door.
 
@@ -195,157 +197,179 @@ Trap: This hall is little more than a dead end and a trap against chaotic intrud
 
 **Development:** The shadow spider Flycatcher (see area 9) may also attack here, grabbing a PC and immediately retreating,
 
-### 5. The Earl of Coalchester
+### Location 5. The Earl of Coalchester
 > [!note]+ Read Aloud
 > A rush of superheated air flows from this room like the heat from a forge. Glowing hot coals cover the room’s floor. A pair of copper double doors stand at the far end of the room. A small chest of black stone sits in the far corner of the room.
 
-The temperature here is extreme; creatures inside take 1d6 fire damage per minute. In addition, creatures must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 144 points of nonlethal damage. Creatures wearing heavy clothing or armor take a -4 penalty on their saves. Those wearing metal armor or touching metal are affected as if by heat metal.
+**Description** The temperature here is extreme; creatures inside take 1d6 fire damage per minute. In addition, creatures must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 144 points of nonlethal damage. Creatures wearing heavy clothing or armor take a -4 penalty on their saves. Those wearing metal armor or touching metal are affected as if by heat metal.
 
-Creatures; A noble salamander and his fire elemental servant have been bound here by ancient elemental vows to serve the Wind Dukes as tomb guardians. The current guardian is Antyress Redpike of Coalchester, and he is bored by his duty and by the lack of visitors. He remains in this room unless he hears the sound of combat or traps being triggered nearby, in which case he begrudgingly slithers out to investigate.
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[3-Rules/Bestiaries/Monster Core/E/Elemental Inferno|Elemental Inferno]]
+ - 1: [[Sootsoldiers]]
 
-Antyress and his elemental bodyguard
+A noble salamander and his fire elemental servant have been bound here by ancient elemental vows to serve the Wind Dukes as tomb guardians. The current guardian is Antyress Redpike of Coalchester, and he is bored by his duty and by the lack of visitors. He remains in this room unless he hears the sound of combat or traps being triggered nearby, in which case he begrudgingly slithers out to investigate.
 
-Smoughed do not immediately attack
+Antyress and his elemental bodyguard Smoughed do not immediately attack intruders. The salamander is very, chatty, even while he fighting. His ego and narcissism are forces to be reckoned with—the only subject that he enjoys more than himself is complaining about the miserable duties he is forced to perform here. It's possible that the PCs can talk him out of attacking them. His initial attitude is unfriendly, and if made friendly he agrees to turn a blind eye toward the party. He can be bribed with gems or jewelry—each 50 gp in value offered increases the [[Skills#Diplomacy|Diplomacy]] check result to adjust his attitude by 1. If made helpful, Antyress also warns the party about the Keeper (area 10), the xorn at the gate (area 11).
 
-intruders. The salamander is very, chatty,
+The one thing Antyress won't mention to the PCs is the shadow spider Flycatcher. Not long ago, Flycatcher told Antyress of the existence of the true tomb of Icosiol, and the salamander dreams of escaping the oaths that hold him and plundering the treasures said to be hidden there. He has tried and failed several times to reach the tomb on his own, and hopes some day to earn Flycatcher's trust so the two can work together to realize this goal.
 
-even while he fighting. His ego and nar-
+```encounter
+name: Earl of Coalchester
+party: Age of Worms
+creatures:
+  - 1: [[Elemental Inferno, Smoughed]]
+  - 1: [[Sootsoldiers, Antyress Redpike]]
+```
 
-cissism are forces to be reckoned with—
+#### Tactics
+If attacked, Antyress prefers to avoid direct melee by hiding behind his elemental. If he suffers more than 30 points of damage, Antyress summons a second Huge fire elemental to defend him. He claims to not want to fight at all, but pretends he is “compelled by conjutation,” cheerfully spouting things like, “So sorry to stab you in the vitals like that, old chap. I’m compelled by conjuration. Can't be helped.” These are lies, of course, but Antyress is a pretty good liar.
 
-the only subject that he enjoys more than
+If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and bide his time for revenge. He may seek out Flycatcher to recruit the shadow spider's aid.
 
-himself is complaining about the miser-
+> [!tip]+ Treasure
+> Antyress wears a platinum circlet worth 100 gp on his brow, a symbol of his office as Earl of Coalchester. Likewise, his [[Weapon Potency (+2)|+2]] [[Striking]] [[Longspear]] is emblazoned with his personal runes and sigils. He keeps his other treasures in the chest. The chest is locked (DC 30 [[Skills#Thievery|Thievery]]) but Antyress carries the key. The chest itself is made of a black stone (basalt) bound together with red gold, copper, and rusted iron, and weighs 300 pounds all by itself, 450 pounds with all its contents. It contains 230 gp, a knitted copper drawpurse containing 30 pp and 2 large honey-golden topazes (both worth 60 gp), and a narrow brass scroll case containing a [[Frost Pillar|Scroll of Frost Pillar]] . The chest also contains four thick crystal decanters of an efreeti brandy called scarlet ambrosia (worth 20 gp each), all four cushioned in a small portable bar of hammered brass.
 
-able duties he is forced to perform here.
+### Location 6. The Sword of Law
+> [!note]+ Read Aloud
+> This intersection is lit by six flickering orange and yellow lanterns that float around a central statue of grey stone. The statue shows an androgynous Wind Duke wearing robes that seem to be stirred by a breeze. The figure may be a symbol of justice or war, for it holds a glittering sword outstretched in one hand and carries a balance in the other. The statue is eight feet tall and stands on a four-foot-tall pedastal.
 
-It's possible that the PCs can talk him out
+**Description** This passage and intersection is trapped by the word of law. Three traps exist in the passageway itself, while the statue itself is a trap. The noise of their firing alerts the salamander in [[#Location 5. The Earl of Coalchester]] to the party's presence. These traps trigger as soon as a non-lawful creature enters a square marked with a W, or as soon as any creature touches or manipulates the statue or its sword.
 
-of attacking them. His initial attitude is
+> [!danger]- Trap
+> ![[word-of-law|Word of Law]]
 
-unfriendly, and if made friendly he agrees
+**Development:** If the PCs didn’t encounter Flycatcher in area 4 yet, they may meet the shadow spider here, He knows that the patch of slick silk next to one of the word of law traps gives him a good chance to capture a PC, and the other word of law traps should cover his retreat.
 
-to turn a blind eye toward the party. He
+> [!tip]+ Treasure
+> The excellently crafted statue is worth more than 200 gp, but it's made of solid granite and weighs just over 3 tons. The statue's sword is a [[dawnsilver-weapon-standard-grade|Dawnsilver]] [[greatsword|Greatsword]], and can be removed from the statue with relative ease. The levitating lanterns are enchanted with continual flame. These lanterns are removable, though they continue to float and may drift away unless tethered or shepherded by hand.
 
-can be bribed with gems or jewelry—each
+### Location 7. The Silent Gallery
+> [!note]+ Read Aloud
+> This two-tiered hall shines with purple light from four large chandeliers. A large black sphere hangs between them. The chandeliers seem to be sculpted with small humanoid figures in silvery metal. A second-floor gallery with arches and spiral-striped pillars runs the length of the hallway to а second set of large double doors. The black tile floor absorbs the light from the chandeliers, and even sound in this chamber seems muted and dull.
 
-500 gp in value offered increases the
+**Description** The strange sound-muffling quality of this room causes a -10 penalty on all [[Skills#Perception|Perception]] checks to Listen made in this chamber. 
 
-Diplomacy check result to adjust his atti-
+The guardian of this chamber is an elder spawn from the brood pits of Bwimb, a great menace of elemental ooze who fought against Aaqa in the great war against the Queen of Chaos. Although mindless, it remains a lord among oozes. This elder black pudding hides in plain sight in a depression in the floor just below the four chandeliers, its dull black surface almost indistinguishable from the surrounding tiles. А DC 30 [[Skills#Perception|Perception]] check sees through the clever camouflage.
 
-tude by 1. If made helpful, Antyress also
+Elder Black Pudding: hp 290; Monster Manual 201.
 
-warns the party about the Keeper (area 10),
+**CHECK ALL DCs!!!**
 
-the xorn at the gate (area 11).
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[BadGuy1]] W
+ - 2: [[BadGuy2]] H
 
-The one thing Antyress won't men-
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+  - 1: My Monster          # 1 monster named My Monster will be added, with no HP, AC or modifier.
+  - 1d6: Goblin, 7, 15, 2        # 1 goblin with HP: 7, AC: 15, MOD: 2 will be added.
+  - Goblin, 5, 15, 2, 25      # 1 goblin with HP: 7, AC: 15, MOD: 2 worth 25 XP will be added.
+```
 
-tion to the PCs is the shadow spider
+#### Tactics
+The elder black pudding remains calm as long as no one tries to walk on it or attempts to damage or steal any of the room's contents. A creature that steps on it is subjected to an automatic trip attempt by the elder black pudding. Once it attacks, the ooze pursues its prey relentlessly, returning to this chamber only if no living creatures are within 60 feet. It is magically bound to the tomb complex, and cannot leave it under any circumstances.
 
-Flycatcher. Not long ago, Flycatcher told
+#### Features of the Area
+- **Large Black Sphere** (See Recall Knowledge check below.) This sphere radiates moderate conjuration magic, but its only purpose is to periodically provide nourishment for the creature that guards the chamber.
+- **Chandeliers** The chandeliers are magic, lighting whenever anyone moves within 60 feet of them. A close examination of the chandeliers reveals that each tier of lights are tiny humanoid wind warriors fighting against the armies of Chaos in the Battle of Pesh. The chandeliers are shaped similar to wagon wheels with unusual spokes; each spoke consists of a long shaft terminating in a black metal hoop. These spokes are identical to the shape of the inactive talisman of the sphere that the party may have found in [[The Whispering Cairn#25. The True Tomb]]. Tiny statuettes on one chandelier show a dog-headed demon surrendering its weapons to General Icosiol. Another shows a horned demon covered with many eyes kneeling before Icosiol (this is the oculus demon imprisoned in area 24). On outer spokes, similar surrenders of abyssal ghouls, vrocks, beholders, and chaotic froglike humanoids to the Wind Duke armies is depicted. Some of the wind warriors depicted in these tiny glowing statuettes hold items similar to the talisman of the sphere, and use these to ward off black globes in a battle scene.
+- **Frescos** The frescos and wall decorations show a lumbering inevitable reaching for a square stone covered with runes on a platter carried by small glowing creatures. Three runes seem to be spilling from the creature's mouth. These runes are written in Vaati (see [[#Location 3. The Hall of Poison Winds]] for deciphering rules), and give the command words necessary to allow someone to handle and transport the Seal of Law safely.
 
-Antyress of the existence of the truetomb
+#### Investigation
+- Recall Knowledge — Planar Lore DC 30 _(secret; expert)_ OR Arcana DC 32: You identify the black sphere hanging from the ceiling as the personal symbol of Bwimb, a cruel para-elemental general from the Plane of Ooze who fought beside the Queen of Chaos against the Wind Dukes.
+- Nature DC XX:
+- Occultism DC XX:
+- Religion DC XX:
+- Crafting DC XX:
+- Perception DC XX:
 
-of Icosiol, and the salamander dreams
 
-of escaping the oaths that hold him and
+> [!tip]+ Treasure
+> Each of the chandeliers is worth 80 gp and weighs 100 pounds.
 
-plundering the treasures said to be hid-
 
-den there. He has tried and failed several
 
-times to reach the tomb on his own, and
 
-hopes some day to earn Flycatcher's trust
 
-so the two can work together to realize
 
-this goal.
 
-Antyress Redpike, Earl of Coalchester
 
-(noble salamander): hp 112; AL LE; Mon-
 
-ster Manual 219.
 
-Smoughed, Huge Fire Elemental: hp
 
-136; Monster Manual 99.
 
-Tactics: If attacked, Antyress prefers
 
-to avoid direct melee by hiding behind
 
-his elemental. If he suffers more than 30
 
-points of damage, Antyress summons a
+8. The Courtesan’s Tomb
 
-second Huge fire elemental to defend
+This small but well-appointed room has
 
-him. He claims to not want to fight at all,
+a delicately arched ceiling. The walls are
 
-but pretends he is “compelled by conju-
+painted with garden scenes featuring two
 
-tation,” cheerfully spouting things like,
+Wind Duke lovers, and the center of the
 
-“So sorry to stab you in the vitals like that,
+room contains a large urn with a dark red
 
-old chap. I’m compelled by conjuration.
+glaze and gold decorations. Six small boxes,
 
-Can't be helped.” These are lies, of course,
+each carved of some black substance bound
 
-but Antyress is a pretty good liar.
+with corroded metal, line the back wall.
 
-Ifhis elementals are defeated, Antyress
+Chairs sit in each corner.
 
-flees to hide elsewhere in the tomb and
+This room contains treasures from
 
-bide his time for revenge. He may seek
+Icosiol’s life off the battlefield, includ-
 
-out Flycatcher to recruit the shadow
+ing the cremated remains of his cour-
 
-spider's aid.
+tesan Marisela.
 
-Treasure: Antyress wears a platinum cir-
+Trap: The urn holds Marisella’s ashes,
 
-clet worth 1,000 gp on his brow, a symbol
+and is heavily trapped, firing an energy
 
-of his office as Earl of Coalchester. Like-
+drain spell at anyone who tampers with it.
 
-wise, his +3 longspear is emblazoned with
+Urn Energy Drain Trap: CR 10; magical
 
-his personal runes and sigils. He keeps
+device; touch trigger; repair reset; spell
 
-his other treasures in the chest. The chest
+effect (energy drain, 17th-level wizard, Atk
 
-is locked (DC 30 Open Lock) but Antyress
++16 ranged touch, 244 negative levels);
 
-carries the key. The chest itself is made
+Search DC 34, Disable Device DC 34.
 
-of a black stone (basalt) bound together
+Treasure: The chests are all locked
 
-with red gold, copper, and rusted iron,
+(Open Lock DC 35), and contain various
 
-and weighs 300 pounds all by itself, 450
+treasures: а wand of eagle's splendor (15
 
-pounds with all its contents. It contains
+charges), a set of three clay tablets carved
 
-2,300 gp, a knitted copper drawpurse con-
+with the elemental glyphs of the Wind
 
-taining 300 pp and 2 large honey-golden
+Dukes (love poems written in Vaati worth
 
-topazes (both worth 600 gp), and a nar-
+500 gp each), a set of scrolls long since
 
-row brass scroll case containing a wand
+crumbled to dust, a set of silk gowns and
 
-of invisibility (9 charges). The chest also
+robes that turn to dust as they are lifted
 
-contains four thick crystal decanters of
+up (but set with 200 tiny 25 gp pearls and
 
-an efreeti brandy called scarlet ambrosia
+40 50 gp turquoises), and a wicker basket
 
-(worth 200 gp each), all four cushioned in
+containing a matching platinum neck-
 
-a small portable bar of hammered brass.
+lace, ring, and earrings worth 8,000 gp
 
+for the set (or 1,500 gp each).

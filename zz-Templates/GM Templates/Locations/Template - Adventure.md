@@ -4,7 +4,7 @@ tags:
 art: zz-Attachments/PlaceholderImage.png
 ---
 
-> [!metadata|metadata]- Metadata 
+> [!metadata|metadata color-blue]- Metadata 
 >> [!metadata|metadataoption]- System
 >> #### System
 >>  |

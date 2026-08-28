@@ -7,10 +7,10 @@ art: zz-Attachments/Zamosshe.png
 Status: Active
 Player: Aaron
 Class: Wizard
-level: 8
-hp: 64
-ac: 23
-modifier: 10
+level: 10
+hp: 98
+ac: 27
+modifier: 14
 Ancestry: shisk
 Heritage: quillcoat shisk
 gender: Male
