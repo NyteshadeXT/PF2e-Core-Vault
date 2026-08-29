@@ -1,0 +1,47 @@
+{
+  "size": {
+    "w": 1435,
+    "h": 973
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_45dkxk",
+      "x": 0.19746432393954014,
+      "y": 0.3907683939720809,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 9. The Shadow Web",
+      "iconKey": "pinBlue",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    "icosiols-tomb-lower-level.png"
+  ],
+  "overlays": [],
+  "activeBase": "icosiols-tomb-lower-level.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}

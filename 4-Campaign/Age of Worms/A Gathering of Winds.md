@@ -113,11 +113,44 @@ Even if the PCs can’t track him, it should be obvious to those who have visite
 
 Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic and playful gusts of wind haunt the halls, keeping dust from accumulating and filling the tomb with a constant rustling sound. Walls are of reinforced masonry, and doors are of basalt. A DC 29 [[Skills#Crafting|Crafting]] check is enough to establish the fact that the tomb is incredibly ancient, but was built to last eons and has weathered the passage of time well.
 
-### Map - Icosial's Tomb
+### Map - Icosial's Tomb Upper Level
 
 > [!column|no-t]
 >> [!callout|no-t bg-brown]
->> ![[icosiols-tomb-upper-level.png]]
+>> ```zoommap
+>> image: icosiols-tomb-upper-level.png
+>> # markers is optional; defaults to <image>.markers.json
+>> # markers: Assets/Map.jpg.markers.json
+>> 
+>> # Map view limits
+>> minZoom: 0.3
+>> maxZoom: 8
+>> 
+>> # Size & interactivity
+>> height: 560px
+>> width: 100%
+>> resizable: true
+>> resizeHandle: native     # left | right | both | native
+>> render: canvas           # or: dom
+>> 
+>> # Image interpolation: auto | pixelated | crisp-edges
+>> imageRendering: pixelated
+>> 
+>> # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+>> responsive: false        # true → always fit; disables pan/zoom gestures
+>> 
+>> # Storage (optional)
+>> # storage: note          # default is json; use "note" to store markers inline
+>> # id: map-1              # optional stable id for inline storage (per code block)
+>> 
+>> # Alignment / wrapping (optional)
+>> align: right             # left | center | right
+>> wrap: true               # wrap text; useful with left/right alignment
+>> view:
+>>   zoom: 0.8064
+>>   centerX: 0.499918
+>>   centerY: 0.500000
+>> ```
 >
 >> [!recite|no-t bg-brown]
 >> [[#Location 1. The Black Seal]]
@@ -127,6 +160,7 @@ Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic an
 >> [[#Location 5. The Earl of Coalchester]]
 >> [[#Location 6. The Sword of Law]]
 >> [[#Location 7. The Silent Gallery]]
+>> [[#Location 8. The Courtesan’s Tomb]]
 >
 
 ### Location 1. The Black Seal
@@ -161,7 +195,7 @@ Fortunately, there is an alternative. A character who studies the ruined portal 
 
 Characters who step through the portal are transported to area 2, Although shown on the map as if the two points are physically connected (and to the PCs’ perception, this is how it should seem), Icosiol’s Tomb is in fact deep under the ancient Fields of Pesh, in a region about 500 miles northeast of Diamond Lake. If the PCs somehow manage to travel up from the tomb through 1,000 feet of bedrock, they emerge iп а barren stretch of plains. To the north, a single volcano looms, a plume of steam drifting from its peak. A DC 30 [[Skills#Society|Society]] check correctly identifies this volcano as the legendary White Plume Mountain. There is no physical entrance to Icosiol’s Tomb from this region, and if the PCs decide to explore the area, you'll need to develop additional adventures as you see fit.
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 2. The Howling Gallery
 > [!note]+ Read Aloud
@@ -180,7 +214,7 @@ creatures:
   - 4: [[Veiled Current]]
 ```
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 3. The Hall of Poison Winds
 ![[gathering-winds-howling-gallery.png|right hmed]]
@@ -206,7 +240,7 @@ The second trap is linked to the tiny holes in the walls and the small basins al
 > [!danger]- Trap
 > ![[poison-gas-trap|Poison Gas Trap]]
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 4. Collapsing Pillar Hall
 > [!note]+ Read Aloud
@@ -219,7 +253,7 @@ Trap: This hall is little more than a dead end and a trap against chaotic intrud
 
 **Development:** The shadow spider Flycatcher (see area 9) may also attack here, grabbing a PC and immediately retreating,
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 5. The Earl of Coalchester
 ![[gathering-winds-earl-coalchester.png|right hmed]]
@@ -255,7 +289,7 @@ If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and
 > [!tip]+ Treasure
 > Antyress wears a platinum circlet worth 100 gp on his brow, a symbol of his office as Earl of Coalchester. Likewise, his [[Weapon Potency (+2)|+2]] [[Striking]] [[Longspear]] is emblazoned with his personal runes and sigils. He keeps his other treasures in the chest. The chest is locked (DC 30 [[Skills#Thievery|Thievery]]) but Antyress carries the key. The chest itself is made of a black stone (basalt) bound together with red gold, copper, and rusted iron, and weighs 300 pounds all by itself, 450 pounds with all its contents. It contains 230 gp, a knitted copper drawpurse containing 30 pp and 2 large honey-golden topazes (both worth 60 gp), and a narrow brass scroll case containing a [[Frost Pillar|Scroll of Frost Pillar]] . The chest also contains four thick crystal decanters of an efreeti brandy called scarlet ambrosia (worth 20 gp each), all four cushioned in a small portable bar of hammered brass.
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 6. The Sword of Law
 ![[gathering-winds-sword-of-law.png|right hmed]]
@@ -273,7 +307,7 @@ If his elementals are defeated, Antyress flees to hide elsewhere in the tomb and
 > [!tip]+ Treasure
 > The excellently crafted statue is worth more than 200 gp, but it's made of solid granite and weighs just over 3 tons. The statue's sword is a [[dawnsilver-weapon-standard-grade|Dawnsilver]] [[greatsword|Greatsword]], and can be removed from the statue with relative ease. The levitating lanterns are enchanted with continual flame. These lanterns are removable, though they continue to float and may drift away unless tethered or shepherded by hand.
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 7. The Silent Gallery
 ![[gathering-winds-silent-gallery.png|right hmed]]
@@ -313,7 +347,7 @@ The blob returns to this chamber only when no living creatures remain within 60 
 > [!tip]+ Treasure
 > Each of the chandeliers is worth 80 gp and weighs 100 pounds.
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
 ### Location 8. The Courtesan’s Tomb
 
@@ -330,606 +364,163 @@ This room contains treasures from Icosiol’s life off the battlefield, includin
 > [!tip]+ Treasure
 > The chests are all locked ([[Skills#Thievery|Thievery]] DC 35), and contain various treasures: а [[Heroism|Wand of Heroism (3rd-rank)]] , a set of three clay tablets carved with the elemental glyphs of the Wind Dukes (love poems written in Vaati worth 50 gp each), a set of scrolls long since crumbled to dust, a set of silk gowns and robes that turn to dust as they are lifted up (but set with 200 tiny 2 gp pearls and 40 5 gp turquoises), and a wicker basket containing a matching platinum necklace, ring, and earrings worth 800 gp for the set (or 150 gp each).
 
-[[#Map - Icosial's Tomb|Return to Map]]
+[[#Map - Icosial's Tomb Upper Level|Return to Map]]
+
+### Map - Icosial's Tomb Lower Level
+
+> [!column|no-t]
+>> [!callout|no-t bg-brown]
+>> ```zoommap
+>> image: icosiols-tomb-lower-level.png
+>> # markers is optional; defaults to <image>.markers.json
+>> # markers: Assets/Map.jpg.markers.json
+>> 
+>> # Map view limits
+>> minZoom: 0.3
+>> maxZoom: 8
+>> 
+>> # Size & interactivity
+>> height: 560px
+>> width: 100%
+>> resizable: true
+>> resizeHandle: native     # left | right | both | native
+>> render: canvas           # or: dom
+>> 
+>> # Image interpolation: auto | pixelated | crisp-edges
+>> imageRendering: pixelated
+>> 
+>> # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+>> responsive: false        # true → always fit; disables pan/zoom gestures
+>> 
+>> # Storage (optional)
+>> # storage: note          # default is json; use "note" to store markers inline
+>> # id: map-1              # optional stable id for inline storage (per code block)
+>> 
+>> # Alignment / wrapping (optional)
+>> align: right             # left | center | right
+>> wrap: true               # wrap text; useful with left/right alignment
+>> view:
+>>   zoom: 0.5735
+>>   centerX: 0.500182
+>>   centerY: 0.500000
+>> ```
+>
+>> [!recite|no-t bg-brown]
+>> [[#Location 9. The Shadow Web]]
+>> [[#Location 10. The Keeper’s Chambers]]
+>> [[#Location 11. The River of Blood]]
+>> [[#Location 12. The Tomb Gatehouse]]
+>> [[#Location 13. The Wind Duke's Antechamber]]
+>
 
 ### Location 9. The Shadow Web
-
 > [!note]+ Read Aloud
 > This rectangular room has small columns around the edges that partially hide the carvings along the walls. Pale white light glows from two large wheel-shaped chandeliers, casting overlapping shadows throughout the room. Blue metal double doors stand at the top of a flight of stairs opposite the main entrance, guarded by two warrior figures with raised double swords, as well as a single doorway to the south and double doors to the north, also guarded by warrior statues.
 
 This chamber is the entrance hall to the lower chambers of Icosiol’s Tomb. Once guarded by several powerful air elementals that animated the statues in the room, the chamber now serves as the home of an even stranger beast. The stairs, floor, doors, and walls of this chamber are crisscrossed with tiny tangles of shadow—these are the webs of the shadow spider Flycatcher. They are not sticky, but Flycatcher can sense when anything touches or passes over them.
 
-Creatures: The unusually intelligent shadow spider sorcerer that has taken such an interest in Icosiol’s Tomb refers to himself by several names, including Blackleg, Walker Across the Threshold, Spitgob, Cornerweaver, Hungry Prince, or (most often) Flycatcher. The party may come to think that several spiders stalk them, but it's really just Flycatcher under his various aliases. Flycatcher discovered the tomb accidentally while shadow walking many years ago, and quickly became obsessed with the tomb, returning here often from his home on the Plane of Shadow to bask in the tomb’s secrets. In that time, he’s come to think of himself as the tomb’s guardian, his dementia and madness seizing on the location for reasons unknown even to himself.
+The unusually intelligent shadow spider sorcerer that has taken such an interest in Icosiol’s Tomb refers to himself by several names, including Blackleg, Walker Across the Threshold, Spitgob, Cornerweaver, Hungry Prince, or (most often) Flycatcher. The party may come to think that several spiders stalk them, but it's really just Flycatcher under his various aliases. Flycatcher discovered the tomb accidentally while shadow walking many years ago, and quickly became obsessed with the tomb, returning here often from his home on the Plane of Shadow to bask in the tomb’s secrets. In that time, he’s come to think of himself as the tomb’s guardian, his dementia and madness seizing on the location for reasons unknown even to himself.
 
-Flycatcher doesn’t react well to intrud-
+Flycatcher doesn’t react well to intruders, whom he suspects (with good reason) are here to rob the tomb of its great treasures. He regularly patrols the upper chambers of the tomb, and may run into the PCs in area 4 or 6. He attempts to catch a PC that looks physically weak and then retreats with his prey to this chamber, where he waits for the rest of the PCs to seek him out. You should have Flycatcher target a henchman, cohort, or perhaps even a familiar or animal companion—if he manages to snatch someone, he'll wrap the victim in spider silk and stash him in a cage on the Plane of Shadow, which could effectively remove a captured PC from the game for an extended period of time.
 
-ers, whom he suspects (with good rea-
+In any event, if Flycatecher manages to catch someone, he uses that victim as а bargaining chip. He claims that he could be convinced to release the captured character if the party agrees to slay someone he calls the “Marquis of the River.”
 
-son) are here to rob the tomb of its great
+Flycatcher speaks of Moreto, a true ghoul, one of a race of undead who populate cities in a forgotten reach of the Underdark called the White Kingdom. Flycatcher tells the PCs that Moreto dwells in a cavern deep under these tombs, a cavern accessible via a “river of blood” that flows through the tomb. If the PCs agree to bring Flycatcher Moreto's head, the shadow spider agrees to return their friend.
 
-treasures. He regularly patrols the upper
+Flycatcher’s initial attitude toward the PCs is unfriendly. If the PCs can make him friendly, he'll agree to ransom a captured character for 2,000 gp (or the equivalent value in magic items), promising to return the item once the PCs kill Moreto. If the PCs make him helpful, he is so impressed that he returns the abducted character as a sign of good will, but still demands the PGs kill the true ghoul.
 
-chambers of the tomb, and may run into
+The shadow spider is evasive about his reasons for wanting Moreto killed. If asked, he claims that Moreto has tormented him for ages and Flycatcher just wants revenge. This is a lie, and since Flycatcher’s not that good at Bluff, the PCs will doubtless realize this. Flycatcher’s actual reason is more complex. Several days ago, Moreto and his undead minions invaded the tomb. The true ghoul managed to steal a potent artifact from area 10 and escaped back down the Falling River before Flycatcher could stop him. The shadow spider is paranoid now about leaving the tomb unguarded, and dares not pursue Moreto down the cavern below. The shadow spider's been wracking his brain for a way to get the Seal of Law out of Moreto's clutches, and views the PCs as his best chance.
 
-the PCs in area 4 or 6. He attempts to
+While Flycatcher can be bargained with, he is a bizarre conversationalist, speaking in a stream-of-consciousness gibberish. He considers the entire tomb his territory, though his main hunting grounds are elsewhere,
 
-catch a PC that looks physically weak
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Flycatcher|Flycatcher]]
 
-and then retreats with his prey to this
+```encounter
+name: The Shadow Web
+party: Age of Worms
+creatures:
+  - 1: [[Flycatcher]]
+```
 
-chamber, where he waits for the rest of
+#### Tactics
+Flycatcher begins combat from dim light, darkness, or the ceiling, using Silk Slick to knock intruders prone and divide the group. It then uses Many-Legged Assault and its reach to Grab an isolated target. Once it has paralyzed or securely grabbed a victim, it uses Shadow Abduction to drag that creature into the Netherworld rather than standing in a prolonged fight.
 
-the PCs to seek him out. You should have
+Flycatcher prioritizes spellcasters, wounded creatures, and anyone carrying loot from the tomb. It fights viciously but not suicidally. If reduced below 20 HP, it uses _umbral journey_ to abandon the tomb entirely and does not return.
 
-Flycatcher target a henchman, cohort, or
+> [!tip]+ Treasure
+> If the party can reach the Plane of Shadow (perhaps with a [[Umbral Journey]] spell of their own), they can easily find Flycatcher’s larder on the Plane of Shadow in approximately the same location as this chamber. In addition to any characters the shadow spider has abducted, the larder is littered with the possessions of previous victims, including 180 sp, 400 gp, an empty decanter of cut quartz with a carved, star-shaped quartz stopper worth a total of 100 gp, a black pearl worth 60 gp, a clearly flawed ruby worth 80 gp, a silver parade helmet with gold inlays worth 150 gp, and a necklace of gold set with dozens of small pearls worth 200 gp.
 
-perhaps even a familiar or animal com-
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-panion—if he manages to snatch some-
+### Location 10. The Keeper’s Chambers
+> [!note]+ Read Aloud
+> A set of dusty and archaic armor rests in front of a small shrine, apparently long abandoned. The weapon stand before the armor lies empty except for flakes of rust. Behind the armor is а small altar loaded with dusty offerings from years past. A statue of a regal Wind Duke sits in a small nook above the altar, and a door is painted on the wall to the right.
 
-one, he'll wrap the victim in spider silk
+This was the private room of a Wind Duke servitor named Zifforian. A DC 25 Spot check reveals that another item once rested in a recessed spot next to the statue of the Wind Duke hero. This less-dusty niche is where the Seal of Law once sat—Moreto snatched it and then promptly fled with it down the Falling River.
 
-and stash him in a cage on the Plane of
+Zifforian was a Wind Duke servitor who watched over the tomb—every decade or two, a new servitor would arrive to relieve the previous tombkeeper. The post was considered an honorable one, if hopelessly dull. That changed when Zifforian was forgotten during the Wind Dukes’ decline. When the poor wretch found the portal leading out of the tomb had been sealed and warded with an abyssal ghoul, he accepted his fate stoically. He spent centuries watching over the site, but eventually age drove him to a lingering death.
 
-Shadow, which could effectively remove
+Zifforian slowly lost his mind over those years, and after his death he rose as a dread wraith. He was gone when the Seal of Law was stolen a few weeks ago, and now obsesses about the lost item, muttering constantly about the “theft of the shrine treasures by the foot soldiers.” He mindlessly attacks anyone that enters this room, stepping in through the door painted on the wall.
 
-a captured PC from the game for an
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Zifforian]]
 
-extended period of time.
+```encounter
+name: The Keeper's Chambers
+party: Age of Worms
+creatures:
+  - 1: [[Zifforian]]
+```
 
-In any event, if Flycatecher manages
+> [!tip]+ Treasure
+> The dusty armor is a suit of [[armor-potency-2|+2]] [[Energy-Resistant|Electiricty-Resistant]] [[splint-mail|Splint Mail]].
 
-to catch someone, he uses that victim
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-as а bargaining chip. He claims that he
+### Location 11. The River of Blood
 
-could be convinced to release the cap-
+> [!note]+ Read Aloud
+> A river surges through the tomb here, its red water as bright as blood. A stone bridge crosses the river, but the pilings have been undermined by erosion over the centuries, and the bridge arches are barely holding. іп several places, the bridge tilts dangerously to the side. On the far side of the river is a fortified gatehouse, dimly visible and secured by an enormous rusted gate. The gate must be fifteen feet tall and just as wide.
 
-tured character if the party agrees to
+Despite appearances, the river that flows through the tomb here is not made of blood. The unusual color of the water is a result of a large deposit of minerals upriver from this location. Nonetheless, the Wind Dukes appreciated the morbidity of the river as a fitting testament to the blood that was shed during the great war between Law and Chaos.
 
-slay someone he calls the “Marquis of
+Crossing the bridge on foot is dangerous; the sloping sections are treacherous, and the footing is bad throughout. It requires a DC 15 Balance check to cross the bridge; failure by 5 or more indicates a character has fallen into the river below. The bridge collapses entirely (dealing 346 damage to anyone on it when it falls) if more than 500 pounds of weight are placed on it at any one time. It’s а 30-foot-fall to the frothing red waters below.
 
-the River.”
+The riverbanks are steep, slippery cliffs that can be scaled with a DC 20 Climb check. The river itself is only 10 feet deep at its deepest point, and flows rather swiftly. A DC 15 Swim check is required to navigate the river, and the current washes anyone in it downriver at a speed of 20 feet toward area 20. ОҒ course, characters in the river quickly attract the attention of its guardians (see area 16).
 
-Flycatcher speaks of Moreto, a true
+This chamber has become the lair of a group of six xorns who have been following the river’s path for the past few weeks, foraging on the delicious ore deposits that run along its length and give it its ruddy coloration. The xorns are protective of their territory, and especially hate gnomes (due to a recent ambush by svirfneblin in the Underdark), They attack gnomish PCs in preference to others during this encounter.
 
-ghoul, one of a race of undead who pop-
+At the start of the encounter, place the following foes on the map: 
+ - 8: [[Xorn]]
 
-ulate cities in a forgotten reach of the
+```encounter
+name: The River of Blood
+party: Age of Worms
+creatures:
+  - 8: [[Xorn]]
+```
 
-Underdark called the White Kingdom.
+#### Tactics
+The xorns hide in the stone in the locations indicated on the map; when anyone comes within 5 feet of a xorn, it rears up out of the ground and attacks, with any other xorns in the room joining the fray soon thereafter.
 
-Flycatcher tells the PCs that Moreto
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-dwells in a cavern deep under these
+### Location 12. The Tomb Gatehouse
+> [!note]+ Read Aloud
+> The entrance to this gatehouse is made of flaking, rusting iron, with hinges on the other side and a series of glyphs and protective amulets inset in the iron. Some of the amulets look almost like feathers, while others seem more like mill wheels or maybe latches or levers. The thick rust makes it difficult to say what the engravings are really meant to be. Some seem to be smudged with black dirt or ashes. 
 
-tombs, a cavern accessible via a “river of
+This false gatehouse has a set of iron doors overlaid with elaborate warding magic, multiple castings of Nystul’s magic aura, carved and inlaid glyphs, semi-precious seals, and a scattering of dials, knobs, and levers—most of which serve no purpose but to encourage tomb robbers to waste time and resources. The small walkway and arrow slits are part of the facade.
 
-blood” that flows through the tomb. If
+With a DC 25 [[Skills#Thievery|Thievery]] check made on the gate, something clicks into place within the door, and a new device, dial, or lever slides into view. The main iron gate stays closed unless someone makes a DC 35 [[Skills#Thievery|Thievery]] check, at which point it opens to reveal a less battered but equally complicated door behind it.
 
-the PCs agree to bring Flycatcher More-
+These doors can become a huge time-waster for tinkering parties. A DC 30 [[Skills#Perception|Perception]] check of the mechanisms themselves rather than the door reveals that some of the levers are not even connected to anything that opens this door.
 
-to's head, the shadow spider agrees to
+**Iron Gatehouse Doors**; 2 in. thick; Hardness 10; hp 60; Break DC 28.
 
-return their friend.
-
-Flycatcher’s initial attitude toward the
-
-PCs is unfriendly. Ifthe PCs can make him
-
-friendly, he'll agree to ransom a captured
-
-character for 20,000 gp (or the equivalent
-
-value in magic items), promising to return
-
-the item once the PCs kill Moreto. If the
-
-PCs make him helpful, he is so impressed
-
-that he returns the abducted character as
-
-a sign of good will, but still demands the
-
-PGs kill the true ghoul.
-
-The shadow spider is evasive about his
-
-reasons for wanting Moreto killed. Ifasked,
-
-he claims that Moreto has tormented him
-
-forages and Flycatcher just wants revenge.
-
-This is a lie, and since Flycatcher’s not that
-
-good at Bluff, the PCs will doubtless real-
-
-ize this. Flycatcher’s actual reason is more
-
-complex. Several days ago, Moreto and his
-
-undead minions invaded the tomb. The
-
-true ghoul managed to steal a potent arti-
-
-fact from area 10 and escaped back down
-
-the Falling River before Flycatcher could
-
-stop him. The shadow spider is paranoid
-
-now about leaving the tomb ungarded, and
-
-dares not pursue Moreto down the cavern
-
-below. The shadow spider's been wracking
-
-his brain fora way to get the Seal of Law out
-
-of Moreto's clutches, and views the PCs as
-
-his best chance.
-
-While Flycatcher can be bargained
-
-with, he is a bizarre conversationalist,
-
-speaking in a stream-of-consciousness
-
-gibberish. He considers the entire tomb
-
-his territory, though his main hunting
-
-grounds are elsewhere,
-
-FLYCATCHER
-
-Male shadow spider sorcerer 3
-
-LN Huge magical beast (extraplanar)
-
-Monster Manual 11 184
-
-Init +6; Senses darkvision 60 ft. low-light
-
-vision; Listen +4, Spot +4
-
-Languages Common
-
-AC 20, touch 10, flat-footed 18
-
-hp 175 (16 HD); DR 10/magic
-
-SR 23
-
-Fort +17, Ref +13, Will +9
-
-Spd 50 ft., climb 30 ft.
-
-Melee 4 claws +20 (2d4+8) and
-
-bite +18 (2d6+4 plus paralysis)
-
-Space 15 ft.; Reach 10 ft.
-
-Base Atk +14; Grp +30
-
-Atk Options improved grab (two claws)
-
-Special Atk silk slick
-
-Spells Known (CL 3)
-
-1st (6/day)—comprehend languages, shield,
-
-true strike
-
-o (6/day)}—detect magic, ghost sound (DC 12),
-
-mage hand, prestidigitation, read magic
-
-Spell-Like Abilities (CL 10)
-
-At will—shadow walk (DC 18)
-
-Abilities Str 26, Dex 15, Con 22, Int 8, Wis
-
-10, Cha 14
-
-50 summon familiar (none currently)
-
-Feats Great Fortitude, Improved Initiative,
-
-Improved Natural Armor, Iron Will,
-
-Lightning Reflexes, Multiattack
-
-Skills Bluff +5, Climb +20, Hide -2 (+18 іп
-
-shadows), Listen +4, Spot +4
-
-Possessions bracers of armor +5
-
-Paralysis (Ex): Anyone bitten by a shadow
-
-spider must make a DC 24 Fortitude save
-
-or be paralyzed for 4 rounds.
-
-Silk Slick (Su); As а full-round action, a
-
-shadow spider can spray a layer of spider
-
-silk over any solid surface. It can cover up
-
-to 100 square feet with this substance,
-
-which dries and evaporates in 13 rounds.
-
-The silk slick functions in all other
-
-respects like a grease spell (caster level 13,
-
-Reflex save DC 20).
-
-Tactics: Flycatcher uses hit-and-run
-
-tactics in combat, trying to abduct char-
-
-acters and strand them on the Plane of
-
-Shadow using his shadow walk ability.
-
-He abandons the tomb completely if
-
-brought below 20 hit points.
-
-Treasure: If the party can reach the
-
-Plane of Shadow (perhaps with a shadow
-
-walk spell of their own), they can eas-
-
-ily find Flycatcher’s larder on the Plane
-
-CR 13
-
-of Shadow in approximately the same
-
-location as this chamber. In addition
-
-to any characters the shadow spider has
-
-abducted, the larder is littered with the
-
-possessions of previous victims, includ-
-
-ing 1,800 sp, 4,000 gp, an empty decanter
-
-of cut quartz with a carved, star-shaped
-
-quartz stopper worth a total of 1,000 gp, a
-
-black pearl worth 600 gp, a clearly flawed
-
-ruby worth 800 gp, a silver parade helmet
-
-with gold inlays worth 1,500 gp, and a
-
-necklace of gold set with dozens of small
-
-pearls worth 2,000 gp.
-
-10. The Keeper’s
-
-Chambers (EL 11)
-
-A set of dusty and archaic armor rests in
-
-front of a small shrine, apparently long
-
-abandoned. The weapon stand before the
-
-armor lies empty except for flakes of rust.
-
-Behind the armor is а small altar loaded
-
-with dusty offerings from years past. A
-
-statue of a regal Wind Duke sits in a small
-
-nook above the altar, and a door is painted
-
-on the wall to the right.
-
-This was the private room of a Wind
-
-Duke servitor named Zifforian. A DC 25
-
-Spot check reveals that another item once
-
-rested in a recessed spot next to the statue
-
-of the Wind Duke hero. This less-dusty
-
-niche is where the Seal of Law once sat—
-
-Moreto snatched it and then promptly
-
-fled with it down the Falling River.
-
-Creature: Zifforian was a Wind
-
-Duke servitor who watched over the
-
-tomb—every decade or two, a new ser-
-
-vitor would arrive to relieve the pre-
-
-vious tombkeeper. The post was con-
-
-sidered an honorable one, if hopelessly
-
-dull. That changed when Zifforian
-
-was forgotten during the Wind Dukes’
-
-decline. When the poor wretch found
-
-the portal leading out of the tomb had
-
-been sealed and warded with an abys-
-
-sal ghoul, he accepted his fate stoically.
-
-He spent centuries watching over the
-
-site, but eventually age drove him to a
-
-lingering death.
-
-Zifforian slowly lost his mind over
-
-those years, and after his death he rose
-
-as a dread wraith. He was gone when the
-
-Seal of Law was stolen a few weeks ago,
-
-and now obsesses about the lost item,
-
-muttering constantly about the “theft of
-
-the shrine treasures by the foot soldiers.”
-
-He mindlessly attacks anyone that enters
-
-this room, stepping in through the door
-
-painted on the wall.
-
-Zifforian, Dread Wraith: hp 104; Mon-
-
-ster Manual 258.
-
-Treasure: The dusty armor is a suit of
-
-+2 electricity resistance banded mail.
-
-1L. The River of Blood
-
-(EL 11)
-
-A river surges through the tomb here, its
-
-red water as bright as blood. A stone bridge
-
-crosses the river, but the pilings have been
-
-undermined by erosion over the centuries,
-
-and the bridge arches are barely holding.
-
-іп several places, the bridge tilts danger-
-
-ously to the side. On the far side of the
-
-river is a fortified gatehouse, dimly visible
-
-and secured by an enormous rusted gate.
-
-The gate must be fifteen feet tall and just
-
-as wide.
-
-DECEMBER 2005 DUNGEON 49
-
-А GATHERING OF WINDS
-
-Despite appearances, the river that
-
-flows through the tomb here is not made
-
-of blood. The unusual color of the water
-
-is a result of a large deposit of minerals
-
-upriver from this location. Nonetheless,
-
-the Wind Dukes appreciated the mor-
-
-bidity of the river as a fitting testament
-
-to the blood that was shed during the
-
-great war between Law and Chaos.
-
-Crossing the bridge on foot is dangerous;
-
-the sloping sections are treacherous, and
-
-the footing is bad throughout. It requires
-
-a DC 15 Balance check to cross the bridge;
-
-failure by 5 or more indicates a character
-
-has fallen into the river below. The bridge
-
-collapses entirely (dealing 346 damage to
-
-anyone on it when it falls) ifmore than 500
-
-pounds of weight are placed on it at any
-
-one time. It’s а 30-foot-fall to the frothing
-
-red waters below.
-
-The riverbanks are steep, slippery
-
-cliffs that can be scaled with a DC 20
-
-Climb check. The river itself is only 10
-
-feet deep at its deepest point, and flows
-
-rather swiftly. A DC 15 Swim check is
-
-required to navigate the river, and the
-
-current washes anyone in it downriver
-
-at a speed of 20 feet toward area 20. ОҒ
-
-course, characters in the river quickly
-
-attract the attention of its guardians (see
-
-area 16).
-
-Creatures: This chamber has become
-
-the lair of a group of six xorns who have
-
-been following the river’s path for the
-
-past few weeks, foraging on the delicious
-
-ore deposits that run along its length and
-
-give it its ruddy coloration. The xorns
-
-are protective of their territory, and
-
-especially hate gnomes (due to a recent
-
-ambush by svirfneblin in the Underdark),
-
-They attack gnomish PCs in preference
-
-to others during this encounter.
-
-The xorns hide in the stone in the
-
-locations indicated on the map; when
-
-anyone comes within 5 feet of a xorn, it
-
-rears up out of the ground and attacks,
-
-with any other xorns in the room joining
-
-the fray soon thereafter.
-
-Xorns (6): hp 48 each; Monster Manual
-
-261.
-
-12. The Tomb
-
-Gatehouse
-
-The entrance to this gatehouse is made
-
-of flaking, rusting iron, with hinges on
-
-the other side and a series of glyphs and
-
-protective amulets inset in the iron. Some
-
-of the amulets look almost like feathers,
-
-while others seem more like mill wheels
-
-or maybe latches or levers. The thick rust
-
-makes it difficult to say what the engravings
-
-are really meant to be. Some seem to be
-
-smudged with black dirt or ashes.
-
-This false gatehouse has a set of iron
-
-doors overlaid with elaborate warding
-
-magic, multiple castings of Nystul’s magic
-
-aura, carved and inlaid glyphs, semi-
-
-precious seals, and a scattering of dials,
-
-knobs, and levers—most of which serve
-
-no purpose but to encourage tomb rob-
-
-bers to waste time and resources. The
-
-small walkway and arrow slits are part of
-
-the façade.
-
-With a DC 25 Disable Device check
-
-made on the gate, something clicks into
-
-place within the door, and a new device,
-
-dial, or lever slides into view. The main
-
-iron gate stays closed unless someone
-
-makes a DC 35 Disable Device check,
-
-at which point it opens to reveal a less
-
-battered but equally complicated door
-
-behind it.
-
-These doors can become a huge time-
-
-waster for tinkering parties. A DC 30
-
-Search of the mechanisms themselves
-
-rather than the door reveals that some
-
-of the levers are not even connected to
-
-anything that opens this door.
-
-Iron Gatehouse Doors; 2 in. thick;
-
-Hardness 10; hp 60; Break DC 28.
-
-15. The Wind Duke's
-
-Antechamber (EL 11)
-
-A small statue of an armored Wind Duke,
+### Location 13. The Wind Duke's Antechamber
+> [!note]+ Read Aloud
+> A small statue of an armored Wind Duke,
 
 his left hand resting on a sword, his right
 

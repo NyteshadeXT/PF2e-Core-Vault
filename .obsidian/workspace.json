@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
-                "mode": "source",
+                "file": "3-Rules/Bestiaries/Uniques/Z/Zifforian.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Gathering of Winds"
+              "title": "Zifforian"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "DC Calculator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,12 +257,18 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "8f457d42deb509c7",
+  "active": "1bfdb293577e8084",
   "lastOpenFiles": [
+    "3-Rules/Bestiaries/Uniques/Z/Zifforian.md",
+    "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "icosiols-tomb-upper-level.png.markers.json",
+    "icosiols-tomb-lower-level.png.markers.json",
+    "zz-Attachments/icosiols-tomb-lower-level.png",
+    "3-Rules/Bestiaries/Uniques/F/Flycatcher.md",
+    "zz-Attachments/flycatcher.png",
     "3-Rules/Hazards/Homebrew/U/urn-energy-drain-trap.md",
     "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
     "3-Rules/Hazards/Homebrew/W/word-of-law.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
     "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
     "3-Rules/Hazards/Homebrew/U/Untitled",
     "3-Rules/Hazards/Homebrew/U",
@@ -289,8 +296,6 @@
     "3-Rules/Character Building/Equipment/T/Trueshape Bomb.md",
     "3-Rules/Character Building/Equipment/T/True Name Amulet (Greater).md",
     "3-Rules/Character Building/Equipment/T/True Name Amulet (Lesser).md",
-    "3-Rules/Character Building/Equipment/T/Trollhound Pick.md",
-    "3-Rules/Character Building/Equipment/T/Trinity Geode.md",
     "3-Rules/Character Building/Equipment/config.json",
     "3-Rules/Character Building/Equipment/run_app.bat",
     "3-Rules/Character Building/Equipment/update_yaml.py",
@@ -298,11 +303,7 @@
     "zz-Attachments/icosiols-tomb-upper-level.png",
     "zz-Attachments/shard-of-the-star-postdungeon.png",
     "zz-Attachments/Assets/ImagePlaceholder.png",
-    "zz-Attachments/Assets/MapPlaceholder.png",
-    "zz-Attachments/deep-wilds-dungeon.png",
     "zz-Attachments/image-1.png.markers.json",
-    "3-Rules/Bestiaries/Uniques/U",
-    "windrose-tile-metadata.json",
-    "TTRPG/Time/event-details-legacy-backup"
+    "3-Rules/Bestiaries/Uniques/U"
   ]
 }

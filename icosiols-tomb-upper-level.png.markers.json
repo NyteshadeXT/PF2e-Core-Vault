@@ -1,0 +1,117 @@
+{
+  "size": {
+    "w": 1036,
+    "h": 692
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_gaksaa",
+      "x": 0.25076894496537355,
+      "y": 0.40474501495263326,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 1. The Black Seal",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_1iezcw",
+      "x": 0.3896195302445302,
+      "y": 0.40474501495263326,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 2. The Howling Gallery",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_et8ksx",
+      "x": 0.5895164935343508,
+      "y": 0.3241040157783971,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 3. The Hall of Poison Winds",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_80y7fg",
+      "x": 0.7295640666176381,
+      "y": 0.2542151498273924,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 4. Collapsing Pillar Hall",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_h3fru3",
+      "x": 0.7570947861126432,
+      "y": 0.6269557682327507,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 5. The Earl of Coalchester",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_hie6ci",
+      "x": 0.6505628715450146,
+      "y": 0.6717563233295485,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 6. The Sword of Law",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_nltz7h",
+      "x": 0.48896951798737515,
+      "y": 0.6430839680675978,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 7. The Silent Gallery",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_63kko6",
+      "x": 0.44707494484280197,
+      "y": 0.5104743249810763,
+      "layer": "default",
+      "link": "A Gathering of Winds#Location 8. The Courtesan’s Tomb",
+      "iconKey": "pinRed",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    "icosiols-tomb-upper-level.png"
+  ],
+  "overlays": [],
+  "activeBase": "icosiols-tomb-upper-level.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
