@@ -27,9 +27,7 @@ aliases: ["Urn Energy Drain Trap"]
 **AC** 31; **Hardness** 20; **HP** 80 (BT 40)  
 **Immunities** object immunities
 
----
-
-**Soul-Siphoning Ray** `pf2:r` 
+### **Soul-Siphoning Ray** `pf2:r` 
 **Trigger** A creature touches or attempts to move the urn.  
 **Effect** A ray of black energy makes a +24 spell attack against the triggering creature’s AC.
 - **Critical Success** The target is [[Drained|drained 4]].

@@ -16,7 +16,7 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 source: "Custom Conversion"
 name: "Wind Warrior"
-token: "[[Wind-Warrior.webp]]"
+token: "Wind-Warrior.webp"
 level: "Creature 4"
 rare_02: "Uncommon"
 alignment: "N"

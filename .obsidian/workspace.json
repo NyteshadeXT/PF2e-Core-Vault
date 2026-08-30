@@ -6,6 +6,7 @@
       {
         "id": "2fc3e3a789408e81",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "8f457d42deb509c7",
@@ -51,6 +52,27 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "4378c744843cea77",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "81684a5efce0e0f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/AI Templates/AI Converstion Template - Creature.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "AI Converstion Template - Creature"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +237,27 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_f9cbfad909f8",
+                "creatureId": "ID_0ba8f83a28f8",
                 "creatureName": "Ulgurstasta"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8ba3a7e1685f7fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c715cbb823665f42",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_ea8a69b8ca4a",
+                "creatureName": "Relief Golom"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -259,51 +300,51 @@
   },
   "active": "1bfdb293577e8084",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/Z/Zifforian.md",
+    "zz-Attachments/moreto.png",
+    "gathering-winds-star-chamber.png.markers.json",
+    "zz-Attachments/gathering-winds-star-chamber.png",
+    "3-Rules/Bestiaries/Homebrew/W/wind-warrior-advanced.md",
+    "3-Rules/Bestiaries/Homebrew/W/wind-warrior.md",
     "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "1-GM Toolkit/AI Templates/AI Converstion Template - Creature.md",
+    "3-Rules/Bestiaries/Homebrew/B/blood-amniote.md",
+    "gathering-winds-falling-river.png.markers.json",
+    "zz-Attachments/gathering-winds-falling-river.png",
+    "3-Rules/Bestiaries/Bestiary 1/K/Kolyarut.md",
+    "zz-Attachments/kolyarut.png",
+    "3-Rules/Bestiaries/Homebrew/R/rimeforged-golem.md",
+    "zz-Attachments/blood-amniote.png",
+    "3-Rules/Hazards/Homebrew/F/flooding-tunnel-trap.md",
+    "3-Rules/Bestiaries/Standalone Adventures/Fall of Plaguestone/B/Blood Ooze.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "3-Rules/Hazards/Homebrew/F/force-burst-wall.md",
+    "3-Rules/Hazards/Homebrew/F/falling-pillar-trap.md",
+    "3-Rules/Hazards/Homebrew/F/false-elevator.md",
+    "3-Rules/Hazards/Homebrew/B/boiling-oil-chute.md",
+    "3-Rules/Hazards/Homebrew/U/urn-energy-drain-trap.md",
+    "3-Rules/Hazards/Homebrew/T/tempest-globe.md",
+    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
+    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
+    "3-Rules/Hazards/Homebrew/S/symbol-of-fear.md",
+    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
+    "3-Rules/Hazards/Homebrew/P/prismatic-contamination.md",
+    "3-Rules/Hazards/Homebrew/P/poisoned-ceiling-spear.md",
+    "3-Rules/Hazards/Homebrew/P/poison-gas-trap.md",
+    "3-Rules/Hazards/Homebrew/L/lightning-hallway.md",
+    "3-Rules/Hazards/Homebrew/H/hidden-pit-upgrade.md",
+    "3-Rules/Hazards/Homebrew/T",
+    "3-Rules/Hazards/Untitled",
+    "1-GM Toolkit/AI Templates",
+    "zz-Attachments/relief-golom.png",
+    "3-Rules/Bestiaries/Homebrew/R",
     "icosiols-tomb-upper-level.png.markers.json",
     "icosiols-tomb-lower-level.png.markers.json",
     "zz-Attachments/icosiols-tomb-lower-level.png",
-    "3-Rules/Bestiaries/Uniques/F/Flycatcher.md",
     "zz-Attachments/flycatcher.png",
-    "3-Rules/Hazards/Homebrew/U/urn-energy-drain-trap.md",
-    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
-    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
-    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
     "3-Rules/Hazards/Homebrew/U/Untitled",
     "3-Rules/Hazards/Homebrew/U",
     "zz-Attachments/gathering-winds-silent-gallery.png",
     "zz-Attachments/gathering-winds-sword-of-law.png",
-    "zz-Attachments/gathering-winds-earl-coalchester.png",
-    "1-GM Toolkit/DC Calculator.md",
-    "zz-Attachments/gathering-winds-howling-gallery.png",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "2-Party/Age of Worms/Zamosshe.md",
-    "2-Party/Age of Worms/Jerrykk.md",
-    "2-Party/Age of Worms/Jayden.md",
-    "2-Party/Age of Worms/Haight Enashberry.md",
-    "2-Party/Age of Worms/Akiowen.md",
-    "zz-Attachments/gathering-winds-black-seal.png",
-    "4-Campaign/Age of Worms/Untitled.md",
-    "3-Rules/Character Building/Equipment/T/Triggerbrand.md",
-    "zz-Templates/GM Templates/Locations/Template - Adventure.md",
-    "3-Rules/Character Building/Equipment/T/Twisting Gale.md",
-    "3-Rules/Character Building/Equipment/T/Twining Chains.md",
-    "3-Rules/Character Building/Equipment/T/Twilight Lantern (Greater).md",
-    "3-Rules/Character Building/Equipment/T/Twigjack Sack (Greater).md",
-    "3-Rules/Character Building/Equipment/T/Turquoise.md",
-    "3-Rules/Character Building/Equipment/T/Trundle Wheel.md",
-    "3-Rules/Character Building/Equipment/T/Trueshape Bomb.md",
-    "3-Rules/Character Building/Equipment/T/True Name Amulet (Greater).md",
-    "3-Rules/Character Building/Equipment/T/True Name Amulet (Lesser).md",
-    "3-Rules/Character Building/Equipment/config.json",
-    "3-Rules/Character Building/Equipment/run_app.bat",
-    "3-Rules/Character Building/Equipment/update_yaml.py",
-    "3-Rules/Character Building/Equipment/New Text Document.txt",
-    "zz-Attachments/icosiols-tomb-upper-level.png",
-    "zz-Attachments/shard-of-the-star-postdungeon.png",
-    "zz-Attachments/Assets/ImagePlaceholder.png",
-    "zz-Attachments/image-1.png.markers.json",
-    "3-Rules/Bestiaries/Uniques/U"
+    "zz-Attachments/gathering-winds-earl-coalchester.png"
   ]
 }

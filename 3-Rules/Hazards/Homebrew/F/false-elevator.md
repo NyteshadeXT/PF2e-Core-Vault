@@ -23,9 +23,7 @@ aliases: ["False Elevator"]
 
 **Disable** [[Skills#Thievery|Thievery]] DC 18 (trained) to jam the door open.
 
----
-
-**Collapse** `pf2:r` 
+### **Collapse** `pf2:r` 
 **Trigger** Someone enters the elevator; 
 **Effect** The trap deals `dice: 2d6` 2d6 bludgeoning damage to any creature trapped within. Due to the confined space there is no saving throw to avoid.
 

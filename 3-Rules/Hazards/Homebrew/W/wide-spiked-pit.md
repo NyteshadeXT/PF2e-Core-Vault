@@ -23,9 +23,7 @@ aliases: ["Wide Spiked Pit"]
 
 **Disable** DC 26 [[Skills#Thievery|Thievery]] (trained) to jam the trap door’s hinges or reinforce the cover.  
 
----
-
-**Collapsing Floor** `pf2:r` 
+### **Collapsing Floor** `pf2:r` 
 **Trigger** A creature steps onto the pit’s false floor.  
 **Effect** The cover collapses. The triggering creature falls 40 feet, taking `dice: 4d6` bludgeoning damage, then lands on sharpened spikes for `dice: 4d10` piercing damage (DC 26 basic Reflex save). On a critical failure, the creature falls prone and takes double spike damage.  
 

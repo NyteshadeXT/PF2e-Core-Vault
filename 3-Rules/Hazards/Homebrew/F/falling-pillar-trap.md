@@ -24,9 +24,7 @@ aliases: ["Falling Pillar Trap"]
 **AC** 31; **Hardness** 20; **HP** 80 (BT 40)  
 **Immunities** object immunities
 
----
-
-**Crushing Collapse** `pf2:r`  
+### **Crushing Collapse** `pf2:r`  
 **Trigger** A creature not bearing the trap’s identifying ward moves within 5 feet of the pillar.  
 **Effect** The pillar crashes down. Each creature within 5 feet of it must attempt a DC 30 Reflex save, taking `dice: 10d10` bludgeoning damage with a basic Reflex save. A creature that critically fails is also knocked prone beneath the fallen pillar.
 

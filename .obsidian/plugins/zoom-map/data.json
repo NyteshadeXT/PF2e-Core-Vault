@@ -73,6 +73,7 @@
   "showImageIconPreviewInSettings": false,
   "enableGrid": false,
   "middleClickOpensLinkInNewTab": false,
-  "enableSecondScreen": false,
-  "secondScreenFolder": "ZoomMap/SecondScreen"
+  "enableSecondScreen": true,
+  "secondScreenFolder": "ZoomMap/SecondScreen",
+  "openZoomMapNotesInReadingMode": false
 }

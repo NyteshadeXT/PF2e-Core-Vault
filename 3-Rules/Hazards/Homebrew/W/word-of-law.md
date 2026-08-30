@@ -26,9 +26,7 @@ aliases: ["Word of Law"]
 **AC** 31; **Hardness** 20; **HP** 80 (BT 40)  
 **Immunities** object immunities
 
----
-
-**Condemning Decree** `pf2:r` 
+### **Condemning Decree** `pf2:r` 
 **Trigger** A creature enters or moves through the trapped 20-foot-square area.  
 **Effect** The trap unleashes a 30-foot emanation of divine authority. Each unwarded creature in the area that can hear the decree must attempt a DC 30 Fortitude save.
 	- **Critical Success** The creature is unaffected.

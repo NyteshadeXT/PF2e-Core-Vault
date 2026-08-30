@@ -251,7 +251,7 @@ Trap: This hall is little more than a dead end and a trap against chaotic intrud
 > [!danger]- Trap
 > ![[falling-pillar-trap|Falling Pillar Trap]]
 
-**Development:** The shadow spider Flycatcher (see area 9) may also attack here, grabbing a PC and immediately retreating,
+**Development:** The shadow spider Flycatcher (see [[#Location 9. The Shadow Web]]) may also attack here, grabbing a PC and immediately retreating,
 
 [[#Map - Icosial's Tomb Upper Level|Return to Map]]
 
@@ -269,7 +269,7 @@ At the start of the encounter, place the following foes on the map:
 
 A noble salamander and his fire elemental servant have been bound here by ancient elemental vows to serve the Wind Dukes as tomb guardians. The current guardian is Antyress Redpike of Coalchester, and he is bored by his duty and by the lack of visitors. He remains in this room unless he hears the sound of combat or traps being triggered nearby, in which case he begrudgingly slithers out to investigate.
 
-Antyress and his elemental bodyguard Smoughed do not immediately attack intruders. The salamander is very, chatty, even while he fighting. His ego and narcissism are forces to be reckoned with—the only subject that he enjoys more than himself is complaining about the miserable duties he is forced to perform here. It's possible that the PCs can talk him out of attacking them. His initial attitude is unfriendly, and if made friendly he agrees to turn a blind eye toward the party. He can be bribed with gems or jewelry—each 50 gp in value offered increases the [[Skills#Diplomacy|Diplomacy]] check result to adjust his attitude by 1. If made helpful, Antyress also warns the party about the Keeper (area 10), the xorn at the gate (area 11).
+Antyress and his elemental bodyguard Smoughed do not immediately attack intruders. The salamander is very, chatty, even while he fighting. His ego and narcissism are forces to be reckoned with—the only subject that he enjoys more than himself is complaining about the miserable duties he is forced to perform here. It's possible that the PCs can talk him out of attacking them. His initial attitude is unfriendly, and if made friendly he agrees to turn a blind eye toward the party. He can be bribed with gems or jewelry—each 50 gp in value offered increases the [[Skills#Diplomacy|Diplomacy]] check result to adjust his attitude by 1. If made helpful, Antyress also warns the party about the Keeper ([[#Location 10. The Keeper’s Chambers]]), the xorn at the gate ([[#Location 11. The River of Blood]]).
 
 The one thing Antyress won't mention to the PCs is the shadow spider Flycatcher. Not long ago, Flycatcher told Antyress of the existence of the true tomb of Icosiol, and the salamander dreams of escaping the oaths that hold him and plundering the treasures said to be hidden there. He has tried and failed several times to reach the tomb on his own, and hopes some day to earn Flycatcher's trust so the two can work together to realize this goal.
 
@@ -411,6 +411,13 @@ This room contains treasures from Icosiol’s life off the battlefield, includin
 >> [[#Location 11. The River of Blood]]
 >> [[#Location 12. The Tomb Gatehouse]]
 >> [[#Location 13. The Wind Duke's Antechamber]]
+>> [[#Location 14. The Tempest Globe]]
+>> [[#Location 15. Flooding Tunnel Trap]]
+>> [[#Location 16. Under the River]]
+>> [[#Location 17. Hall of Ice]]
+>> [[#Location 18. Sionsiar’s Tomb]]
+>> [[#Location 19. The Passage of Honor]]
+>> [[#Location 20. The Falling River]]
 >
 
 ### Location 9. The Shadow Web
@@ -421,7 +428,7 @@ This chamber is the entrance hall to the lower chambers of Icosiol’s Tomb. Onc
 
 The unusually intelligent shadow spider sorcerer that has taken such an interest in Icosiol’s Tomb refers to himself by several names, including Blackleg, Walker Across the Threshold, Spitgob, Cornerweaver, Hungry Prince, or (most often) Flycatcher. The party may come to think that several spiders stalk them, but it's really just Flycatcher under his various aliases. Flycatcher discovered the tomb accidentally while shadow walking many years ago, and quickly became obsessed with the tomb, returning here often from his home on the Plane of Shadow to bask in the tomb’s secrets. In that time, he’s come to think of himself as the tomb’s guardian, his dementia and madness seizing on the location for reasons unknown even to himself.
 
-Flycatcher doesn’t react well to intruders, whom he suspects (with good reason) are here to rob the tomb of its great treasures. He regularly patrols the upper chambers of the tomb, and may run into the PCs in area 4 or 6. He attempts to catch a PC that looks physically weak and then retreats with his prey to this chamber, where he waits for the rest of the PCs to seek him out. You should have Flycatcher target a henchman, cohort, or perhaps even a familiar or animal companion—if he manages to snatch someone, he'll wrap the victim in spider silk and stash him in a cage on the Plane of Shadow, which could effectively remove a captured PC from the game for an extended period of time.
+Flycatcher doesn’t react well to intruders, whom he suspects (with good reason) are here to rob the tomb of its great treasures. He regularly patrols the upper chambers of the tomb, and may run into the PCs in [[#Location 4. Collapsing Pillar Hall]] or [[#Location 6. The Sword of Law]]. He attempts to catch a PC that looks physically weak and then retreats with his prey to this chamber, where he waits for the rest of the PCs to seek him out. You should have Flycatcher target a henchman, cohort, or perhaps even a familiar or animal companion—if he manages to snatch someone, he'll wrap the victim in spider silk and stash him in a cage on the Plane of Shadow, which could effectively remove a captured PC from the game for an extended period of time.
 
 In any event, if Flycatecher manages to catch someone, he uses that victim as а bargaining chip. He claims that he could be convinced to release the captured character if the party agrees to slay someone he calls the “Marquis of the River.”
 
@@ -429,7 +436,7 @@ Flycatcher speaks of Moreto, a true ghoul, one of a race of undead who populate 
 
 Flycatcher’s initial attitude toward the PCs is unfriendly. If the PCs can make him friendly, he'll agree to ransom a captured character for 2,000 gp (or the equivalent value in magic items), promising to return the item once the PCs kill Moreto. If the PCs make him helpful, he is so impressed that he returns the abducted character as a sign of good will, but still demands the PGs kill the true ghoul.
 
-The shadow spider is evasive about his reasons for wanting Moreto killed. If asked, he claims that Moreto has tormented him for ages and Flycatcher just wants revenge. This is a lie, and since Flycatcher’s not that good at Bluff, the PCs will doubtless realize this. Flycatcher’s actual reason is more complex. Several days ago, Moreto and his undead minions invaded the tomb. The true ghoul managed to steal a potent artifact from area 10 and escaped back down the Falling River before Flycatcher could stop him. The shadow spider is paranoid now about leaving the tomb unguarded, and dares not pursue Moreto down the cavern below. The shadow spider's been wracking his brain for a way to get the Seal of Law out of Moreto's clutches, and views the PCs as his best chance.
+The shadow spider is evasive about his reasons for wanting Moreto killed. If asked, he claims that Moreto has tormented him for ages and Flycatcher just wants revenge. This is a lie, and since Flycatcher’s not that good at Bluff, the PCs will doubtless realize this. Flycatcher’s actual reason is more complex. Several days ago, Moreto and his undead minions invaded the tomb. The true ghoul managed to steal a potent artifact from [[#Location 10. The Keeper’s Chambers]] and escaped back down the Falling River before Flycatcher could stop him. The shadow spider is paranoid now about leaving the tomb unguarded, and dares not pursue Moreto down the cavern below. The shadow spider's been wracking his brain for a way to get the Seal of Law out of Moreto's clutches, and views the PCs as his best chance.
 
 While Flycatcher can be bargained with, he is a bizarre conversationalist, speaking in a stream-of-consciousness gibberish. He considers the entire tomb his territory, though his main hunting grounds are elsewhere,
 
@@ -487,7 +494,7 @@ Despite appearances, the river that flows through the tomb here is not made of b
 
 Crossing the bridge on foot is dangerous; the sloping sections are treacherous, and the footing is bad throughout. It requires a DC 15 Balance check to cross the bridge; failure by 5 or more indicates a character has fallen into the river below. The bridge collapses entirely (dealing 346 damage to anyone on it when it falls) if more than 500 pounds of weight are placed on it at any one time. It’s а 30-foot-fall to the frothing red waters below.
 
-The riverbanks are steep, slippery cliffs that can be scaled with a DC 20 Climb check. The river itself is only 10 feet deep at its deepest point, and flows rather swiftly. A DC 15 Swim check is required to navigate the river, and the current washes anyone in it downriver at a speed of 20 feet toward area 20. ОҒ course, characters in the river quickly attract the attention of its guardians (see area 16).
+The riverbanks are steep, slippery cliffs that can be scaled with a DC 20 Climb check. The river itself is only 10 feet deep at its deepest point, and flows rather swiftly. A DC 15 Swim check is required to navigate the river, and the current washes anyone in it downriver at a speed of 20 feet toward area 20. ОҒ course, characters in the river quickly attract the attention of its guardians (see [[#Location 16. Under the River]]).
 
 This chamber has become the lair of a group of six xorns who have been following the river’s path for the past few weeks, foraging on the delicious ore deposits that run along its length and give it its ruddy coloration. The xorns are protective of their territory, and especially hate gnomes (due to a recent ambush by svirfneblin in the Underdark), They attack gnomish PCs in preference to others during this encounter.
 
@@ -518,196 +525,721 @@ These doors can become a huge time-waster for tinkering parties. A DC 30 [[Skill
 
 **Iron Gatehouse Doors**; 2 in. thick; Hardness 10; hp 60; Break DC 28.
 
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
+
 ### Location 13. The Wind Duke's Antechamber
 > [!note]+ Read Aloud
-> A small statue of an armored Wind Duke,
+> A small statue of an armored Wind Duke, his left hand resting on a sword, his right held up to shield his eyes, stands at the far wall of this room as part of a small shrine. The statue seems to be made of gold, with sparkling blue gems for eyes; a beam of bright light shines onto the statue from above. The walls are carved with bas-reliefs of Wind Duke servants bowing and soldiers saluting. An elaborate carpet covers the floor, but it is badly worn and the colors have faded—only small patches of the complete pattern remain.
 
-his left hand resting on a sword, his right
+This formal shrine was meant for Wind Duke officials and visitors to bring offerings and prayers for Icosiol. Its main feature is a four-foot-tall statue of the Wind Duke Icosiol made of ceramic and nickel-plated iron and covered with a thin layer of gold.
 
-held up to shield his eyes, stands at the far
+The bas-reliefs to either side of the shrine show Icosiol triumphant over the Wind Dukes’ enemies—basic propaganda, but well-done nevertheless. The reliefs also show many Wind Duke soldiers attending Icosiol. Two of these soldiers are in fact unusual constructs called relief golems, stationed here to guard the room. If the PCs damage anything in the room or try to steal any of the gemstones, the two relief golems clamber out of the wall and attack. They pursue creatures from this room only if that creature carries any treasure stolen from here.
 
-wall of this room as part of a small shrine.
+Place the following foes on the map if the PCs damage anything in the room or try to steal any of the gemstones.
+ - 2: [[relief-golom|Relief Golem]]
 
-The statue seems to be made of gold, with
+```encounter
+name: The River of Blood
+party: Age of Worms
+creatures:
+  - 2: [[Relief Golom]]
+```
 
-sparkling blue gems for eyes; a beam of
+> [!tip]+ Treasure
+> The statue's eyes are pale blue topazes worth 100 gp each. The statue itself is worth more than 950 gp as a work of ancient art, but it weighs 2,500 pounds and would require strong bearers to carry it out. If the gold is stripped, it’s worth 80 gp as raw materials.
 
-bright light shines onto the statue from
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-above. The walls are carved with bas-reliefs
+### Location 14. The Tempest Globe
+> [!note]+ Read Aloud
+> This room is full of flickering bluish light and a breeze that smells like thunderstorms. The floor slopes down toward the center from all directions, like a funnel. At the bottom crackles a sparkling globe of lightning. A metallic spike protruding down from a stone block in the ceiling touches the very tip of the globe's upper curve. Inside the globe floats a human figure, a man with a long dark beard wearing torn and stained red robes.
 
-of Wind Duke servants bowing and sol-
+The figure in the sphere of electricity is Allustan, as anyone who knows the wizard can immediately identify. He has fallen victim to this room’s dangerous trap, and until rescued, remains in stasis inside the tempest globe. 
 
-diers saluting. An elaborate carpet covers
+> [!danger]- Trap
+> ![[tempest-globe|Tempest Globe]]
 
-the floor, but it is badly worn and the col-
+The Wind Dukes used tempest globe traps to capture creatures for study, or as prisons for dangerous enemies. It's possible to deactivate the tempest globe, but remember that the spike continues to launch electrical bolts at anyone in the room. Alternately, the device's magic can be suppressed which frees [[Allustan]], but if he remains іп the room once the trap’s magic returns he may simply be captured again.
 
-ors have faded—only small patches of the
+**Development:** Allustan has been trapped in the tempest globe and held in stasis for several days. He does not age, grow hungry or thirsty, or even dream while inside the globe. Nor can he escape on his own.
 
-complete pattern remain.
+If the PCs manage to rescue him, Allustan collapses to the ground unconscious. The bolt of electricity that struck him and trapped him reduced him to-3 hit points, but the stasis effect kept him from bleeding to death. Once the globe is removed, he immediately begins to bleed again. If the PCs used a dispel magic to suppress the globe and they don't drag the unconscious wizard out of the room before it reactivates, he'll probably die.
 
-This formal shrine was meant for
+Once the PCs return Allustan to consciousness, he is momentarily confused but recovers quickly. The PCs likely have quite a lot of questions for him at this point, but his first order of business is to find out if Ilthane has been defeated. If the PCs are on good terms with Allustan, he agrees to answer some of their questions as soon as he feels safe enough to do so. His answers to probable questions are listed below.
 
-Wind Duke officials and visitors to bring
+*Where have you been?* “I've been investigating the Whispering Cairn. Several days ago, I uncovered a new portal—Since you're here, I assume you've seen it. Beyond, I found this tomb. I've been exploring it ever since.”
 
-offerings and prayers for Icosiol. Its
+*What happened to you?* “I was jumped by a dragon. It nearly had me, but I managed to escape back into this tomb. I was looking for some sort of magic or tool to help defeat the dragon, entered that damnable room, and that was that.” 
 
-main feature is a four-foot-tall statue of
+*What is this place?* “I believe it is one of the great tombs of the Wind Dukes. It would appear that it is none other than Icosiol’s tomb, in fact.”
 
-the Wind Duke Icosiol made of ceramic
+*Who was Icosiol?* “He was one of the greatest generals of the Wind Duke army—one of the seven so-called Wandering Dukes, champions of Law who forged a powerful artifact called the Rod of Law, and used it to end the war against the Queen of Chaos, That defeat shattered the rod, transforming it into what is known today as the Rod of Seven Parts.”
 
-and nickel-plated iron and covered with
+*Why are you exploring this tomb?* “Isn't that obvious? This place is important. A powerful general is entombed here, and a lot of powerful magic is entombed with him. The Wind Dukes had a habit of burying their weapons with their dead in the months after the their victory over Chaos. Not to honor the dead as much as to store these weapons in a safe place, so that should Chaos rise again, the weapons would be available to them. I believe that something powerful indeed is hidden somewhere in this tomb, and I believe it can help us in the dark times that face us today. Plus... how could I resist exploring a place like this?”
 
-a thin layer of gold.
+Allustan becomes distraught if the PCs tell him his home has been ruined, but he regains his composure quickly enough, stoically reminding himself that at least he's still alive and he had the foresight to bring a traveling spellbook with him. He handles news of Eligos’s murder stoically as well, observing that they have all stumbled into something bigger than all of them. If given Eligos’s note, he agrees that it might be time to go speak with his one-time master, the infamous archmage of Magepoint—Manzorian.
 
-Creatures: The bas-reliefs to either side
+But first, Allustan asks the PCs to continue exploring Icosiol’s Tomb, encouraging them to seek out any weapons or magic that the Wind Dukes may have hidden herein—such resources will certainly come in handy in the future!
 
-of the shrine show Icosiol triumphant
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-over the Wind Dukes’ enemies—basic
+### Location 15. Flooding Tunnel Trap
+> [!note]+ Read Aloud
+> The stairs leading down from the northern chamber end at а pit. This room's floor lies forty feet below the bottom step, and sparkles with an intricate pattern of scarlet tiles that create a swirling mosaic. A set of metal rungs protrudes from the wall just below the stairs. Two hallways extend out of the room at ground level below—one to the east and one to the northeast.
 
-propaganda, but well-done nevertheless.
+> [!danger]+ Trap
+> This area contains a dangerous trap. 
+> ![[flooding-tunnel-trap|Flooding Tunnel Trap]]
 
-The reliefs also show many Wind Duke
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-soldiers attending Icosiol. Two of these
+### Location 16. Under the River
+This river's current flows at a speed of 20 feet. It’s a DC 20 [[Skills#Athletics|Athletics]] check to swim these waters, but each round, the current carries swimmers 20 feet closer to area 20. The river is 10 feet deep and there's always at least 10 feet of headroom between the river surface and the cavern ceiling above.
 
-soldiers are in fact unusual constructs
+The smaller dead-end tributary to the northeast of the main river is sheltered from the current. Here, the water is much more shallow, ranging from 5 feet deep in the southern arm to only a foot deep in the northern spur. The ceiling height here is 15 feet above the water surface. Characters moving in the shallows can do so as if through difficult terrain.
 
-called relief golems, stationed here to
+At the furthest reach of the eastern arm of these side tunnels, the temperature drops alarmingly and the languid waters change to red ice. A DC 24 [[Skills#Perception|Perception]] check allows a character to notice that a 7-foot-diameter patch of ice on the ceiling is actually only a few feet thick, and a larger chamber can be seen through the cloudy red ice. With a bit of work, it’s possible to hack a hole in this ice to gain access to [[#Location 17. Hall of Ice]] above.
 
-guard the room. If the PCs damage any-
+To the west, the ceiling soon dips down to the surface, making it difficult to navigate for air-breathing creatures. In any event, the river itself soon narrows down to impassible cracks in the rock, as water leaches into the area through a network of high-mineral strata from aquifers far above.
 
-thing in the room or try to steal any of
+**Ice Sheet:** 3 ft. thick; Hardness 8 (fire bypasses); hp 60; Break DC 40.
 
-the gemstones, the two relief golems
+Intrigued by the naturally red waters of this lake, the Wind Dukes decided to place a pair of unusual undead guardians within this area to prevent unwanted intrusions into the tomb via the river. These two guardians remain here still—a pair of blood amniotes. Huge clots of animate blood, these ooze-like undead monstrosities are mindless guardians that react with violence to anything that enters this area. The blood amniotes have amorphous bodies, and can move around these tunnels with ease and without penalty. Driven by an inescapable craving for blood, they slither out of this area if they notice anyone in the river to the south. Although they do not pursue food underwater, they can climb along walls with shocking ease and thus pursue victims anywhere in the tomb. 
 
-clamber out of the wall and attack. They
+The blood amniotes often travel downriver to feed in the underdark, and have wiped out entire kuo-toa caravans in the past. Ancient commands from long-dead Wind Dukes ensure the undead return to this area before long, however.
 
-pursue creatures from this room only if
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[blood-amniote|Blood Amniote]]
 
-that creature carries any treasure stolen
+```encounter
+name: Under the River
+party: Age of Worms
+creatures:
+  - 2: [[Blood Amniote]]
+```
 
-from here.
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-RELIEF GOLEM (2) CRO
+### Location 17. Hall of Ice
+> [!note]+ Read Aloud
+> This hall is cold. Crusted red ice cakes the floor and walls, and two large humanoid statues of the stuff stand at each end, their frozen scarlet surfaces scribed with smoking white runes.
 
-N Large construct
+The floor of this hallway is caked with slippery ice, the result of ancient magic placed by the architects of this tomb to honor the memory of the creature entombed in area 18. It costs 2 squares of movement to enter any square in this hall, and the DC of [[Skills#Acrobatics|Acrobatics]] checks increases by 5.
 
-DRAGON #334 42
+The two rune-covered figures are ice golems, left here to guard the entrance to Sionsiar’s tomb ([[#Location 18. Sionsiar’s Tomb]]). One golem stands at either end of the hall, and both animate and close to attack any intruders.
 
-Init +0; Senses darkvision 60 ft.; Listen +1,
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[rimeforged-golem|Rimeforged Golem]]
+
+```encounter
+name: Hall of Ice
+party: Age of Worms
+creatures:
+  - 2: [[rimeforged-golem|Rimeforged Golem]]
+```
 
-Spot +1
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
+
+### Location 18. Sionsiar’s Tomb
+> [!note]+ Read Aloud
+> This room has a low ceiling, about eight feet high, and is caked with ice. The air is strangely cold. Where the floor should be is nothing more than a slowly churning pool of almost liquid snow and slush.
 
-AC 23, touch 9, flat-footed 23
+One of the greatest resources utilized by the Wind Dukes were elemental weirds—strange beings of elemental energy that have potent gifts of prophecy and prescience. The weirds did not dispense their prophecies for free, and the Wind Dukes often had to bring mighty gifts and offerings to them when they sought advice for the defeat of the Queen of Chaos.
 
-hp 129 (18 HD); DR 10/piercing or bludgeoning
+Icosiol formed a close bond with one such oracle, a snow weird named Sionsiar. It was in large part due to her predictions and advice that Icosiol’s exploits during the Chaos War were so successful. Alas, the snow weird perished in one of the final battles, when desperate agents of the Queen of Chaos launched an offensive against the weirds in an attempt to cut the Wind Dukes off from their potent advice. Distraught bу Sionsiar’s death, Icosiol made arrangements to have her interred in his tomb in this chamber.
 
-Immune magic, construct traits
+The snow pool is less than half the size of a standard elemental weird’s рооl - 15 feet across and 10 feet deep. A character who enters the pool immediately takes `dice: 1d6` points of cold damage per round and must make a DC 20 [[Skills#Athletics|Athletics]] Swim check to keep from sinking. This pool is the source of the cold that suffuses this room and [[#Location 17. Hall of Ice]].
 
-Fort +6, Ref +8, Will +7
+> [!danger]+ Trap
+> **Sionsiar’s Snow Pool**  
+> _Magical, Order_  
+> A creature in the pool is exposed to Sionsiar’s ideal of perfect stillness. At the end of each of its turns in the pool, it attempts a Will save against the pool’s DC.
+> - **Critical Success** The creature is unaffected and temporarily immune for 24 hours.  
+> - **Success** The creature is unaffected.  
+> - **Failure** The creature becomes **stupefied 1** for 1 hour.  
+> - **Critical Failure** The creature becomes **stupefied 2** for 1 hour.
+> 
+> A creature can willingly accept the pool’s order rather than attempt this save. It becomes **order-attuned** for 24 hours and gains a +1 status bonus to Will saves against emotion and mental effects for that duration. It can’t voluntarily become chaos-attuned while this benefit lasts.
+> 
+> These effects are generated by Sionsiar’s spirit and can be counteracted with _dispel magic_ or an appropriately themed Order- or Chaos-based ritual.
 
-Spd 20 ft.
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-Melee 2 slams +18 (248--6/19-20)
+### Location 19. The Passage of Honor
+> [!note]+ Read Aloud
+> This hall is watched over by six statues of Wind Duke nobles—three against each wall. The central statue to the east stands before a stone door. The statues all have cupped hands in front of them, and floating on a cushion of air above these hands are intricate carvings of strange buildings and towers. The statue before the door does not hold a carving. The air here is cold, and moves in faint whispers. A passageway to the north opens into a large room lined with red ice, sheets-of which extend along the floor of this room.
 
-Space 10 #.; Reach 10 ft.
+Each of these statues bears the likeness of one of Icosiol’s fellow Wandering Dukes. Their cupped hands cradle miniature statuettes of magnificent Vaati buildings constructed by ancient architects. These figurines rest upon a soft current of air immediately above the statues’ cupped hands.
 
-Base Atk +13; Grp +23
+The chamber to the east of this room was originally intended to be a tomb for Icosiol’s son, but the collapse of the Wind Duke empire saw to it that his son's body was lost and never placed within. 
 
-Atk Options Cleave, Great Cleave, Improved
+The floor of this room is caked with ice—see [[#Location 17. Hall of Ice]] for details on how this impacts movement.
 
-Sunder, Power Attack
+Only four of these statues are real. The two “statues” that stands in the eastern corners of the room are in fact guardians— kolyarut inevitables. The kolyaruts has been bound to this chamber to serve as an eternal guardians. They use disquise self to appear as one of the four statues and stand motionless before the eastern door, waiting for the opportunity to defend the approach to Sionsiar’s Tomb.
 
-Abilities Str 23, Dex 10, Соп —, Int 8, Wis
+At the start of the encounter, place the following foes on the map: 
+ - 2: [[Kolyarut]]
 
-12, Chal
+```encounter
+name: Passage of Honor
+party: Age of Worms
+creatures:
+  - 2: [[Kolyarut]]
+```
 
-SQ meld into stone, phase door
+#### Tactics
+The kolyarut's first action in combat is to take a move action to trigger a hidden lever (DC 25 Search to locate) that drops an iron portcullis down over the north and south entrances to this chamber, attempting to split the party by trapping some of them in the room. They then move to attack, opening with enervation rays and following up with vampiric touches. They are not armed with magic swords, and switch to slam attack only if their vampiric touches seem ineffective.
 
-Feats Cleave, Great Cleave, Improved Critical
+> [!tip]+ Treasure
+> Each of the five statuettes held by the statues is worth 10 gp.
 
-(slam), Improved Natural Attack (slam),
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-Improved Sunder, Lightning Reflexes,
+```zoommap
+image: gathering-winds-falling-river.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
 
-Power Attack
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
 
-Skills Hide +6 (+26 when merged into a
+# Size & interactivity
+height: 1300px
+width: 60%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
 
-wall), Move Silently +11
+# Image interpolation: auto | pixelated | crisp-edges
+imageRendering: pixelated
 
-Immunity to Magic (Ех): A relief golem is
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
 
-immune to any spell or spell-like ability
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
 
-that allows spell resistance, with a few
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 1.0196
+  centerX: 0.500049
+  centerY: 0.500000
+zoom: 1.0
+centerX: 0.500182
+centerY: 0.500000
+```
 
-exceptions. А stone to flesh spell prevents
+> [!warning]
+> Advance players to level 12.
 
-it from using its meld with stone and phase
+### Location 20. The Falling River
+> [!note]+ Read Aloud
+> The red river plummets over the edge here, cascading down a thirty-foot-diameter pit with a roar. There’s some room to maneuver around and climb the walls on the far side of the waterfall, where many narrow ledges beckon, but the stone is all very slick. The spray and mist make it impossible to tell how long the waterfall descends into the darkness below. Above, the vast cavern arches upward into darkness.
 
-door abilities and negates its damage
+It should be fairly obvious to even casual observation that this cavern is immense in its depth. It’s possible to start the climb down along the walls of the cavern, since at first there are plenty of handholds and footholds. The ledges are horribly slick, though. Navigating these ledges and climbing down requires a DC 20 [[Skills#Athletics|Athletics]] check.
 
-reduction for 1 hour (no save). A soften
+This deep tunnel of cave stone descends for hundreds of feet, and not entirely in a straight line. Characters who cannot fly should find navigating this cavern extremely perilous. The cave walls leading upward from this area are drier, but also have no ledges to speak of—climbing up is a DC 25 [[Skills#Athletics|Athletics]] check. Ultimately, the cavern leads up for about 500 feet before ending in a vaulted ceiling with no other exits.
 
-earth and stone slows the golem for 244
+The Falling River is the path to Icosiol’s true tomb, the entrance of which is hidden about 400 feet down. The cavern itself bottoms out at 750 feet in area 21. Consult the map of the Falling River to track the PCs progress down this vertical cavern, or to determine how much falling damage a character takes if he slips and falls. A few key points along the cavern deserve special mention.
 
-rounds (no save). Transmute mud to rock
+*First Narrows.* The cavern narrows to a diameter of 20 feet only 60 feet down from area 20, which means the spray of water is more dangerous, making climbing difficult for 25 feet—it's a DC 25 [[Skills#Athletics|Athletics]] check to navigate this stretch.
 
-heals it of all lost hit points.
+*The Lake.* A very high ceiling here makes this an excellent spot for an aerial ambush, The wind warriors (see Creatures, below) stage their first attack here, utilizing their crossbows from range before flying down deeper into the сауern to the Cascade to stage their second defense. The crimson waters of the river gather in a dark lake here that is home to legions of small white crabs who eat what little food drops down with the waterfall. There is nothing of interest in the lake.
 
-Meld into Stone (Sp): A relief golem can enter
+At the start of the encounter, place the following foes on the map: 
+ - 6: [[wind-warrior-advanced|Advanced Wind Warrior]]
 
-a stone surface at will as a standard action
+```encounter
+name: Falling River
+party: Age of Worms
+creatures:
+  - 6: [[Advanced Wind Warrior]]
+```
 
-as per the spell meld into stone. While
+*The Basin.* There are no beaches to move around on in this section of cavern, so PCs must either swim or climb along walls to navigate further,
 
-inside a wall, any carvings or paintings on
+*The Cascade.* The waterfall hits a series of projections here, creating lots of mist, cascading water, and difficult climbing due to the spray of water. It's a DC 25 [[Skills#Athletics|Athletics]] check to navigate this 75-foot stretch. This is also the location of the second assault on the party by the wind warriors—this time, they engage the PCs in melee. They do not pursue the PCs if they continue deeper into the caverns below, but do their best to prevent them from reaching the stairs.
 
-the wall shift and alter to accommodate
+*The Stairs.* This approach hides the true entrance to Icosiol’s Tomb (area 23). The entrance to this flight of stairs is hidden by a secret door that can be found with a DC 30 [[Skills#Perception|Perception]] check. An order-attuned creature that carries the Seal of Law automatically notices this secret door, seeing its outline flare with soft white light.
 
-the image of the relief golem that appears
+*Second Narrows.* Again, the tunnel is only 20 feet wide for a short stretch, channeling the water's energy and filling most of the passageway with either water or mist. It's a DC 25 [[Skills#Athletics|Athletics]] check to navigate this 30-foot-long stretch of spelunking.
 
-where it has merged. A relief golem can
+Creatures: A group of elemental soldiers, foot-soldiers in the Wind Duke army ages ago, guards this cavern. These are wind warriors like the ones the PCs may һауе fought in the Whispering Cairn, although these warriors are much more powerful than their lesser kin.
 
-see and hear out of the stone surface; this
+The wind warriors fight anyone not holding the Seal of Law, which is currently at the bottom of this abyss (see area 21). Because the cavern is only about 30 to 40 feet across but hundreds of feet deep, the best way to represent this encounter on a map is to draw a 30-foot-wide corridor on a map and represent a PC's or wind warrior’s vertical position within the shaft by their position along that corridor. In other words, make the horizontal tabletop stand in for the vertical shaft for this encounter.
 
-effect lasts until the relief golem decides
+[[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
-to exit the stone. This effect operates at
+```zoommap
+image: gathering-winds-star-chamber.png
+# markers is optional; defaults to <image>.markers.json
+# markers: Assets/Map.jpg.markers.json
 
-caster level 18. Casting stone shape оп а
+# Map view limits
+minZoom: 0.3
+maxZoom: 8
 
-wall containing a relief golem forces it to
+# Size & interactivity
+height: 1100px
+width: 100%
+resizable: true
+resizeHandle: native     # left | right | both | native
+render: canvas           # or: dom
 
-leave immediately.
+# Image interpolation: auto | pixelated | crisp-edges
+imageRendering: pixelated
 
-Phase Door (Sp): A relief golem can walk
+# Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+responsive: false        # true → always fit; disables pan/zoom gestures
 
-through wood, plaster, and stone walls
+# Storage (optional)
+# storage: note          # default is json; use "note" to store markers inline
+# id: map-1              # optional stable id for inline storage (per code block)
 
-at will as per the spell phase door as a
+# Alignment / wrapping (optional)
+align: right             # left | center | right
+wrap: true               # wrap text; useful with left/right alignment
+view:
+  zoom: 1.0196
+  centerX: 0.500049
+  centerY: 0.500000
+zoom: 1.0
+centerX: 0.500182
+centerY: 0.500000
+```
 
-standard action. Such portals can only be
+### Location 21. The Star Chamber
+> [!note]+ Read Aloud
+> The red waterfall crashes into a pool of jagged rocks in this large cave at the bottom of its descent. An outlet of slow-moving reddish water that seems almost black gurgles away to the south. The cavern beyond is large and wet, longer in the north-south direction and roughly fifty feet east to west. A pale greenish-yellow light reflects off the river and walls downstream, perhaps a hundred feet away to the north—the same light flickers and refracts off tiny crystals in the roof above, almost giving this cavern the feel of being open to the night sky.
 
-used once and the relief golem cannot
+This large cavern has always existed deep under Icosiol’s Tomb, yet at the time of the tomb’s construction access to this chamber was much more difficult, possible only through a narrow underwater channel. In time, the waterfall eroded a larger passageway through to this cave, which is part of the vast network of caverns known as the Underdark.
 
-take other creatures through. The caster
+![[moreto.png|right hmed]]
 
-level for this effect is 18.
+Creature: The current occupant of this chamber isa refugee from a region deep below the surface ruled by a society of the undead. This nation is known as the White Kingdom, and its citizens and rulers are true ghouls, unruled by the feral hunger and mindless savagery present in their lesser, far more common kin. 
 
-Treasure: The statue's eyes are pale blue
+The reason for Moreto's exile from the White Kingdom is tied to current events on the surface world. In his studies, Moreto learned of a powerful undead dragon that once dwelt on the surface world. This was Dragotha, and according to several prophecies he discovered іп worm-eaten texts, the undead dragon would soon stir, and usher in the advent awaken, of a new time of writhing decay. Moreto had discovered the prophecies of the Age of Worms. Intrigued, he tried to convince the rulers of the White Kingdom to fund an expedition to the surface world to investigate the prophecies, for if indeed this Age of Worms was nigh, perhaps the true ghouls of the White Kingdom could return to the world above. Yet the rulers of the White Kingdom did not share Moreto's interest in returning to the surface—the Underdark suited them just fine. They branded Moreto a heretic and exiled him and his servants. Moreto knew that the closest Moreto route to the surface was said to parallel the River of Blood. His journey upward has been taxing, and now two mohrgs are all that remains of his once formidable band.
 
-topazes worth 1,000 gp each. The statue
+Moreto suspects he is very close to the
 
-itself is worth more than 9,500 gp as a
+surface, and even managed to make it all
 
-work of ancient art, but it weighs 2,500
+the way up into Icosiol’s Tomb a few weeks
 
-pounds and would require strong bearers
+ago. He began looting rooms, knowing
 
-to carry it out. If the gold is stripped, it’s
+that he would need wealth to re-establish
 
-worth 800 gp as raw materials.
+himself on the surface, and managed to
+
+reach area 10 without much problem by
+
+using command undead and halt undead to
+
+hold back the tomb’s guardians. There,
+
+he discovered an item that radiated
+
+potent magic indeed—the Seal of Law.
+
+As he took the Seal, the shadow spider
+
+Flycatcher finally arrived and attacked.
+
+Their battle ended in a draw, with both
+
+managing to inflict grievous wounds on
+
+the other, but Moreto still managed to
+
+escape back to this cavern with the Seal of
+
+Law. Since then, he’s been studying and
+
+investigating the relic, hoping to find
+
+a way to use it against Flycatcher and
+
+finally reach the surface world above.
+
+If the PCs are carrying light sources
+
+with them or are particularly loud,
+
+chances are that Moreto notices their
+
+approach. He recalls his two remaining
+
+mohrgs to his side and sneaks toward
+
+the PCs to spy on them. When he sees
+
+that the PCs aren’t shadow spiders, he
+
+presents himself to them and lets the
+
+PCs make the first move, be it an attempt
+
+to parlay or an attack.
+
+If the party is diplomatic and
+
+approaches more-or-less openly, Moreto
+
+treats them as guests (he’s bored silly).
+
+He's especially amused if they are wet
+
+and injured, but offers to use prestidigi-
+
+tation to clean them up. Moreto’s ini-
+
+tial attitude toward the PCs is indiffer-
+
+ent. His only real desire is to reach the
+
+surface and seek out Dragotha, but he
+
+knows better than to reveal his plans to
+
+strangers. Instead, he plays the part of
+
+an explorer while he pumps the PCs for
+
+information about Icosiol’s Tomb, Fly-
+
+catcher, and the surface world.
+
+If the party made a deal with Flycatcher
+
+to kill Moreto and they admit as such to
+
+the true ghoul, he laughs and makes a
+
+counteroffer. He'll give the PCs the Seal
+
+of Law if they agree to kill the spider, If
+
+made friendly, he even volunteers to aid
+
+the PCs in the fight against Flycatcher.
+
+Note that although Moreto knows the
+
+words to speak to safely handle the Seal
+
+of Law, he may “forget” to teach them to
+
+the PCs if they annoy him.
+
+It's possible that Moreto doesn’t notice
+
+the characters’ arrival. If the PCs catch
+
+him unawares, they find him perched
+
+on a boulder studying the Seal of Law by
+
+ghoul-light.
+
+Мовето, Marquis OF RAVENSTONE CR 11
+
+Male noble true ghoul sorcerer 8/fighter 2
+
+LE Medium Undead
+
+Init +5; Senses darkvision 120 ft., lifesense
+
+60 ft.; Listen +9, Spot +13
+
+Languages Abyssal, Draconic, Infernal,
+
+Undercommon
+
+AC 23, touch 17, flat-footed 18
+
+hp 57 (70 with false life active) (14 HD)
+
+Immune undead traits
+
+Fort +6, Ref +8, Will +14
+
+Spd 30 ft.
+
+Melee +2 greatsword +17/+12 (2d6+11/17-
+
+20) and
+
+bite +12 melee (ad6+3 plus paralysis and
+
+ghoul fever)
+
+Base Atk +8; Grp +14
+
+Atk Options Combat Expertise, Improved
+
+Disarm
+
+Combat Gear wand of enervation (14
+
+charges), wand of halt undead (20 charges),
+
+potion of inflict moderate wounds (4)
+
+Spells Prepared (CL 8th, ranged touch +13)
+
+4th (4/day)—lesser globe of invulnerability
+
+3rd (7/day)—dispel magic, lightning bolt
+
+(ОС 20)
+
+2nd (8/day}—command undead (DC 19),
+
+false life*, levitate
+
+ist (8/day)—charm person (DC 18),
+
+expeditious retreat, feather fall, mage
+
+armor*, magic missile
+
+о (6/day)—acid splash, dancing lights, detect
+
+magic, disrupt undead, ghost sound (DC 17),
+
+mending, prestidigitation, read magic
+
+*Already cast once today
+
+Abilities Str 23, Dex 20, Con —, Int 16, Wis
+
+19, Cha 25
+
+SQ spectral transformation, summon familiar
+
+(bat named Eyrix), +4 turn resistance
+
+Feats Alertness, Combat Expertise, Craft Magic
+
+Arms and Armor, Extend Spell, Improved
+
+Critical (greatsword), Improved Disarm,
+
+Multiattack, Weapon Focus (greatsword)
+
+Skills Balance +8, Bluff +15, Climb +17, Craft
+
+(weaponsmith) +11, Diplomacy +9, Hide
+
++15, Jump +13, Knowledge (arcana) +15,
+
+Move Silently +10, Spellcraft +17, Spot +13
+
+Possessions combat gear, +2 greatsword,
+
+cloak of the bat, ring of protection +2,
+
+ghoul-light lantern (see appendix), Seal of
+
+Law, 5 rare books on magical theory and
+
+prophecy worth 500 gp each, files for
+
+sharpening teeth and claws
+
+Моћгрѕ (2): hp 91 each; Monster
+
+Manual 189.
+
+Tactics: If the PCs attack, Moreto is
+
+more than ready to respond in kind: his
+
+ghoul-light lantern grants him protection
+
+from invisible or stealthy approaches,
+
+and his morghs and summoned undead
+
+can keep most groups at bay long enough
+
+for Moreto to cast his defensive spells in
+
+the opening rounds of combat.
+
+If Moreto is reduced to fewer than 15 hit
+
+points he breaks off combat and attempts
+
+to flee back into the Underdark, intending
+
+to seek an alternate route to the surface.
+
+He abandons the Seal of Law in this case,
+
+hoping that his pursuers will be distracted
+
+by the valuable-looking relic long enough
+
+for him to make good his escape.
+
+If Moreto is killed he'll immediately
+
+become a spectre. He is driven mad by
+
+the transformation due to the fact that,
+
+as he died in exile, he is now barred from
+
+entering the Ghostly Court. He does his
+
+best to eliminate the PCs in this event,
+
+fighting to his own destruction.
+
+Development: While it’s possible that
+
+the PCs enter an alliance with Moreto,
+
+keep in mind the fact that he is a despi-
+
+cable and cruel undead menace. Once
+
+he’s secured a route to the surface, the
+
+best the PCs can hope for is to be aban-
+
+doned by him. It’s more likely that he'll
+
+hang around long enough to ambush or
+
+abduct one of the PCs, using magic like
+
+charm person to ensure their servitude.
+
+29. Entrance to the
+
+True Tomb
+
+The walls and floor of this cave have obvi-
+
+ously been partially finished by stonework-
+
+ers. More impressive by far are the massive,
+
+fifty-foot-tall doors to the north. These dull
+
+black doors are carved with both gigantic
+
+and tiny runes, some at eye level and others
+
+much larger. The metal of the door seems
+
+pristine and freshly forged.
+
+The doors are made of stone but
+
+encased in adamantine plates. The
+
+runes on the door are written in Vaati
+
+and comprise combinations of Icosiol’s
+
+personal glyph and a series of curses
+
+against Chaos. One phrase in particular
+
+is inscribed in a place of prominence
+
+just over the massive handles, Written
+
+in Vaati as well, this phrase reads, “Dare
+
+not enter the tomb of Icosiol, Lord of
+
+Аада, Wandering Duke, and Bearer of
+
+the Rod of Law.” His righteous peace
+
+and glorious memory are best left to
+
+the ages, and his enemies are best left
+
+forever sleeping.”
+
+These symbols of Law are imbued with
+
+potent magic, and duplicate the effects of
+
+an antipathy spell (caster level 17) as long
+
+as the doors remain closed. The antipa-
+
+thy only affects creatures with a chaotic
+
+alignment—these creatures must make a
+
+DC 21 Will save or be unable to approach
+
+within 20 feet of the doors. Even if they
+
+make the save, their Dexterity scores are
+
+reduced by 4 as long as the doors remain
+
+closed and in sight.
+
+The doors themselves are sealed with a
+
+permanent arcane lock (caster level 17). Note
+
+that the extreme size of the doors prevents
+
+knock from being able to open them. The
+
+arcane lock must be dispelled or bypassed
+
+(or the doors themselves destroyed) if the
+
+PCs wish to pass beyond them.
+
+Any character that holds the Seal of
+
+Law aloft before the doors suddenly
+
+feels a sense of weightlessness as sev-
+
+eral words manifest in his mind. These
+
+words are “Аада” (the name of the Wind
+
+Duke empire), “Icosiol” (the name of
+
+the Wind Duke entombed within), and
+
+“Pesh,” the volcanic plain on which the
+
+Wandering Dukes defeated the army
+
+of Chaos. Speaking these three names
+
+aloud in this order causes the doors
+
+to swing soundlessly open and remain
+
+open until they are physically closed or
+
+the carrier of the Seal of Law speaks the
+
+three words again.
+
+Tomb Doors: 5-foot-thick stone plated
+
+with 1-inch-thick adamantine; Hardness
+
+20; hp 980.

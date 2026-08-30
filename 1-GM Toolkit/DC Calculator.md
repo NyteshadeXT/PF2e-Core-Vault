@@ -3,7 +3,7 @@ skillLevel: 10
 creatureCR: 6
 creatureTrait: Nature
 playerLevel: 11
-taskDifficulty: 0
+taskDifficulty: -5
 skillDifficulty: 0
 itemLevel: 6
 itemValue: 500

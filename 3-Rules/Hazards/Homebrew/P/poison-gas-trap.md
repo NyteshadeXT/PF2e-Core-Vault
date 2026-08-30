@@ -26,17 +26,13 @@ aliases: ["Poison Gas Trap"]
 **AC** 31; **Hardness** 20; **HP** 80 (BT 40)  
 **Immunities** object immunities
 
----
-
-**Toxic Release** `pf2:r` 
+### **Toxic Release** `pf2:r` 
 **Trigger** A creature enters the trapped 20-foot-square area.  
 **Effect** The trap releases poison gas that fills the area for 1 minute. Each creature in the area, or that enters the gas, is exposed to **windspike vapor**.
 
 **Reset** 1 minute after the gas disperses.
-
-### Windspike Vapor
-
-**Poison**  
+<br>
+#### **Windspike Vapor** ([[3-Rules/Trait Reference/P/poison|poison]])
 **Saving Throw** Fortitude DC 30; **Onset** 1 round; **Maximum Duration** 6 rounds
 	- **Stage 1** clumsy 1 (1 round)
 	- **Stage 2** `dice: 2d6` poison damage and clumsy 2 (1 round)

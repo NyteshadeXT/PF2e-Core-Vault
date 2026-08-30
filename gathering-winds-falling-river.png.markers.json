@@ -1,0 +1,34 @@
+{
+  "size": {
+    "w": 585,
+    "h": 1273
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "gathering-winds-falling-river.png"
+  ],
+  "overlays": [],
+  "activeBase": "gathering-winds-falling-river.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}

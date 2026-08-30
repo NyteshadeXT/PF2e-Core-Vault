@@ -24,9 +24,7 @@ aliases: ["Windspike Trap"]
 **AC** 31; **Hardness** 20; **HP** 80 (BT 40)  
 **Immunities** object immunities
 
----
-
-**Gale into Spikes** `pf2:r` 
+### **Gale into Spikes** `pf2:r` 
 **Trigger** A creature enters or moves through the trapped 20-foot-square area.  
 **Effect** The trap unleashes a hurricane-force blast in a 30-foot cone aimed toward the spike-lined wall. Each creature in the area must attempt a DC 30 Fortitude save.
 	- **Critical Success** The creature is unaffected.
