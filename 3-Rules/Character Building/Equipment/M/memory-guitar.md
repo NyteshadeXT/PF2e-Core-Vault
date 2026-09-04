@@ -29,31 +29,19 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This simple guitar appears worn and battered from use, but upon close
-  observation, the damage seems to be intentional. From the correct angle, the guitar's
-  scratches and marks seem to form a simple picture, such as an environmental scene
-  or a crude face.  * * *  **Activate** `pf2:3` Interact  **Effect** You play music
-  with the guitar and the instrument's power shares a memory with your audience. When
-  sharing with an audience, you share a memory of yours with anyone within 30 feet.
-  This has the effects of [[Spells/Mindlink|Mindlink]] for anyone that can hear the
-  music.  * * *  **Activate** `pf2:3` Interact  **Frequency** once per month  **Effect**
-  You play the guitar and the instrument attempts to help you recover a lost memory.
-  You can either have a specific memory in mind, such as trying to remember a childhood
-  event, or let the guitar find a memory for you. You recall the moment with perfect
-  clarity and reestablish it permanently in your mind with the failure effects of
-  modify memory."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This simple guitar appears worn and battered from use, but upon close observation, the damage seems to be intentional. From the correct angle, the guitar's scratches and marks seem to form a simple picture, such as an environmental scene or a crude face."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:3`"
+type1: "([[interact]])"
+frequency1: 
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You play music with the guitar and the instrument's power shares a memory with your audience. When sharing with an audience, you share a memory of yours with anyone within 30 feet. This has the effects of [[Mindlink]] for anyone that can hear the music."
+powerTitle2: "Effect"
+actionEconomy2: "`pf2:3`"
+type2: "([[interact]])"
+frequency2: "once per month"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "You play the guitar and the instrument attempts to help you recover a lost memory. You can either have a specific memory in mind, such as trying to remember a childhood event, or let the guitar find a memory for you. You recall the moment with perfect clarity and reestablish it permanently in your mind with the failure effects of modify memory."
 craft:
 
 #========================================================#
@@ -89,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

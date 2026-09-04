@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magical-lock-fulu"
 aliases: "Magical Lock Fulu"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "219"
 rarity: ""
 trait01: "consumable"
 trait02: "fulu"
@@ -26,15 +26,10 @@ weight:
 value: "15"
 subvalue: "gp"
 invest:
-usage: "held in one hand"
+usage: "affixed to a door, window, or container"
 license: "ORC"
 identify:
-description: "**Usage** affixed to a door, window, or container  **Duration** 1 hour\
-  \  * * *  The symbols on this fulu depict a lock and winding chains. Affixing this
-  fulu over the seam or frame of the target locks it, even if it has no latch or existing
-  lock. As many as nine fulus can be applied to the same target. One fulu equates
-  a [[Equipment/Lock (Poor)|Poor Lock]] (DC 15), three a [[Equipment/Lock (Simple)|Simple
-  Lock]] (DC 20), and nine an [[Equipment/Lock (Average)|Average Lock]] (DC 25)."
+description: "The symbols on this fulu depict a lock and winding chains. Affixing this fulu over the seam or frame of the target locks it for one hour, even if it has no latch or existing lock. As many as nine fulus can be applied to the same target. One fulu equates a [[Lock-poor|Poor Lock]] (DC 15), three a [[lock-simple]]|Simple Lock]] (DC 20), and nine an [[lock-average|Average Lock]] (DC 25)."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -82,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

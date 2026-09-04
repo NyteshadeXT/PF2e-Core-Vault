@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "matchmaker-fulu"
 aliases: "Matchmaker Fulu"
 source: "Pathfinder Secrets of Magic"
-pg: ""
+pg: "220"
 rarity: ""
 trait01: "consumable"
 trait02: "fortune"
@@ -29,11 +29,8 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Usage** affixed to armor  **Activate** `pf2:0` envision  **Trigger**
-  You attempt a Diplomacy check to Make an Impression.  * * *  This red fulu contains
-  blessings for one's relationship from Shelyn, goddess of beauty and love. You get
-  a +2 status bonus to the Diplomacy check, and if you roll a critical failure on
-  the check, you get a failure instead."
+activate: "`pf2:0` [[envision]]"
+description: "This red fulu contains blessings for one's relationship from Shelyn, goddess of beauty and love. When you attempt a [[Skills#Diplomacy|Diplomacy]] check to [[Make an Impression]] you get a +2 status bonus to the check, and if you roll a critical failure on the check, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -81,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

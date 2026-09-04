@@ -42,8 +42,6 @@ adventure_level: 11th to 13
 > **Status** | `VIEW[{adventure_status}]` |
 > **Adventure Level** | `VIEW[{adventure_level}]` |
 
-# **A Gathering of Winds**
-
 ## Background
 In ages long past, before the rise of elves, dwarves, or humans, the legendary Wind Dukes of Aaga ruled a vast empire, bringing Law and elemental magic to many barbaric worlds. Air and lightning powered the their magic, and their ties to the Plane of Elemental Air were very strong. In time, they mastered other elements as well, and as they grew more and more powerful, dozens of other elemental and lawful races swore fealty to them, from the lofty djinn and the proud salamanders to the least of the mud sorcerer cults and the inevitables, servants of the Wind Dukes. At its peak, the empire of the Wind Dukes comprised most of the elemental planes, from the oceanic palaces of the marid to the City of Brass. The Inner Planes were harmonious, united under one rule, and their civilization thrived—until forces led by the demonic Queen of Chaos rallied slaad, demons, and others against them. 
 
@@ -147,9 +145,9 @@ Once the PCs reach Icosiol’s tomb, the atmosphere is dry and cool. Periodic an
 >> align: right             # left | center | right
 >> wrap: true               # wrap text; useful with left/right alignment
 >> view:
->>   zoom: 0.8064
->>   centerX: 0.499918
->>   centerY: 0.500000
+>>   zoom: 0.5214
+>>   centerX: 0.500302
+>>   centerY: 0.500439
 >> ```
 >
 >> [!recite|no-t bg-brown]
@@ -432,7 +430,7 @@ Flycatcher doesn’t react well to intruders, whom he suspects (with good reason
 
 In any event, if Flycatecher manages to catch someone, he uses that victim as а bargaining chip. He claims that he could be convinced to release the captured character if the party agrees to slay someone he calls the “Marquis of the River.”
 
-Flycatcher speaks of Moreto, a true ghoul, one of a race of undead who populate cities in a forgotten reach of the Underdark called the White Kingdom. Flycatcher tells the PCs that Moreto dwells in a cavern deep under these tombs, a cavern accessible via a “river of blood” that flows through the tomb. If the PCs agree to bring Flycatcher Moreto's head, the shadow spider agrees to return their friend.
+Flycatcher speaks of Moreto, a true ghoul, one of a race of undead who populate cities in a forgotten reach of the [[Umbral Deeps]] called the White Kingdom. Flycatcher tells the PCs that Moreto dwells in a cavern deep under these tombs, a cavern accessible via a “river of blood” that flows through the tomb. If the PCs agree to bring Flycatcher Moreto's head, the shadow spider agrees to return their friend.
 
 Flycatcher’s initial attitude toward the PCs is unfriendly. If the PCs can make him friendly, he'll agree to ransom a captured character for 2,000 gp (or the equivalent value in magic items), promising to return the item once the PCs kill Moreto. If the PCs make him helpful, he is so impressed that he returns the abducted character as a sign of good will, but still demands the PGs kill the true ghoul.
 
@@ -496,7 +494,7 @@ Crossing the bridge on foot is dangerous; the sloping sections are treacherous, 
 
 The riverbanks are steep, slippery cliffs that can be scaled with a DC 20 Climb check. The river itself is only 10 feet deep at its deepest point, and flows rather swiftly. A DC 15 Swim check is required to navigate the river, and the current washes anyone in it downriver at a speed of 20 feet toward area 20. ОҒ course, characters in the river quickly attract the attention of its guardians (see [[#Location 16. Under the River]]).
 
-This chamber has become the lair of a group of six xorns who have been following the river’s path for the past few weeks, foraging on the delicious ore deposits that run along its length and give it its ruddy coloration. The xorns are protective of their territory, and especially hate gnomes (due to a recent ambush by svirfneblin in the Underdark), They attack gnomish PCs in preference to others during this encounter.
+This chamber has become the lair of a group of six xorns who have been following the river’s path for the past few weeks, foraging on the delicious ore deposits that run along its length and give it its ruddy coloration. The xorns are protective of their territory, and especially hate gnomes (due to a recent ambush by svirfneblin in the [[Umbral Deeps]]), They attack gnomish PCs in preference to others during this encounter.
 
 At the start of the encounter, place the following foes on the map: 
  - 8: [[Xorn]]
@@ -606,7 +604,7 @@ To the west, the ceiling soon dips down to the surface, making it difficult to n
 
 Intrigued by the naturally red waters of this lake, the Wind Dukes decided to place a pair of unusual undead guardians within this area to prevent unwanted intrusions into the tomb via the river. These two guardians remain here still—a pair of blood amniotes. Huge clots of animate blood, these ooze-like undead monstrosities are mindless guardians that react with violence to anything that enters this area. The blood amniotes have amorphous bodies, and can move around these tunnels with ease and without penalty. Driven by an inescapable craving for blood, they slither out of this area if they notice anyone in the river to the south. Although they do not pursue food underwater, they can climb along walls with shocking ease and thus pursue victims anywhere in the tomb. 
 
-The blood amniotes often travel downriver to feed in the underdark, and have wiped out entire kuo-toa caravans in the past. Ancient commands from long-dead Wind Dukes ensure the undead return to this area before long, however.
+The blood amniotes often travel downriver to feed in the [[Umbral Deeps]], and have wiped out entire kuo-toa caravans in the past. Ancient commands from long-dead Wind Dukes ensure the undead return to this area before long, however.
 
 At the start of the encounter, place the following foes on the map: 
  - 2: [[blood-amniote|Blood Amniote]]
@@ -774,8 +772,10 @@ The wind warriors fight anyone not holding the Seal of Law, which is currently a
 
 [[#Map - Icosial's Tomb Lower Level|Return to Map]]
 
+### Map - Icosial's Tomb Star Chamber
+
 ```zoommap
-image: gathering-winds-star-chamber.png
+image: gathering-winds-star-chamber-map.png
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
@@ -784,14 +784,11 @@ minZoom: 0.3
 maxZoom: 8
 
 # Size & interactivity
-height: 1100px
-width: 100%
+height: 760px
+width: 70%
 resizable: true
 resizeHandle: native     # left | right | both | native
 render: canvas           # or: dom
-
-# Image interpolation: auto | pixelated | crisp-edges
-imageRendering: pixelated
 
 # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
 responsive: false        # true → always fit; disables pan/zoom gestures
@@ -804,442 +801,217 @@ responsive: false        # true → always fit; disables pan/zoom gestures
 align: right             # left | center | right
 wrap: true               # wrap text; useful with left/right alignment
 view:
-  zoom: 1.0196
-  centerX: 0.500049
-  centerY: 0.500000
-zoom: 1.0
-centerX: 0.500182
-centerY: 0.500000
+  zoom: 0.6830
+  centerX: 0.500743
+  centerY: 0.499631
 ```
 
 ### Location 21. The Star Chamber
 > [!note]+ Read Aloud
 > The red waterfall crashes into a pool of jagged rocks in this large cave at the bottom of its descent. An outlet of slow-moving reddish water that seems almost black gurgles away to the south. The cavern beyond is large and wet, longer in the north-south direction and roughly fifty feet east to west. A pale greenish-yellow light reflects off the river and walls downstream, perhaps a hundred feet away to the north—the same light flickers and refracts off tiny crystals in the roof above, almost giving this cavern the feel of being open to the night sky.
 
-This large cavern has always existed deep under Icosiol’s Tomb, yet at the time of the tomb’s construction access to this chamber was much more difficult, possible only through a narrow underwater channel. In time, the waterfall eroded a larger passageway through to this cave, which is part of the vast network of caverns known as the Underdark.
+![[gathering-winds-star-chamber.png]]
+
+This large cavern has always existed deep under Icosiol’s Tomb, yet at the time of the tomb’s construction access to this chamber was much more difficult, possible only through a narrow underwater channel. In time, the waterfall eroded a larger passageway through to this cave, which is part of the vast network of caverns known as the [[Umbral Deeps]].
 
 ![[moreto.png|right hmed]]
 
-Creature: The current occupant of this chamber isa refugee from a region deep below the surface ruled by a society of the undead. This nation is known as the White Kingdom, and its citizens and rulers are true ghouls, unruled by the feral hunger and mindless savagery present in their lesser, far more common kin. 
+The current occupant of this chamber is a refugee from a region deep below the surface ruled by a society of the undead. This nation is known as the White Kingdom, and its citizens and rulers are true ghouls, unruled by the feral hunger and mindless savagery present in their lesser, far more common kin. 
+
+The reason for Moreto's exile from the White Kingdom is tied to current events on the surface world. In his studies, Moreto learned of a powerful undead dragon that once dwelt on the surface world. This was Dragotha, and according to several prophecies he discovered іп worm-eaten texts, the undead dragon would soon stir, and usher in the advent awaken, of a new time of writhing decay. Moreto had discovered the prophecies of the Age of Worms. Intrigued, he tried to convince the rulers of the White Kingdom to fund an expedition to the surface world to investigate the prophecies, for if indeed this Age of Worms was nigh, perhaps the true ghouls of the White Kingdom could return to the world above. Yet the rulers of the White Kingdom did not share Moreto's interest in returning to the surface—the [[Umbral Deeps]] suited them just fine. They branded Moreto a heretic and exiled him and his servants. Moreto knew that the closest Moreto route to the surface was said to parallel the River of Blood. His journey upward has been taxing, and now two mohrgs are all that remains of his once formidable band.
+
+Moreto suspects he is very close to the surface, and even managed to make it all the way up into Icosiol’s Tomb a few weeks ago. He began looting rooms, knowing that he would need wealth to re-establish himself on the surface, and managed to reach area 10 without much problem by using command undead and halt undead to hold back the tomb’s guardians. There, he discovered an item that radiated potent magic indeed—the Seal of Law. As he took the Seal, the shadow spider Flycatcher finally arrived and attacked. Their battle ended in a draw, with both managing to inflict grievous wounds on the other, but Moreto still managed to escape back to this cavern with the Seal of Law. Since then, he’s been studying and investigating the relic, hoping to find a way to use it against Flycatcher and finally reach the surface world above.
+
+If the PCs are carrying light sources with them or are particularly loud, chances are that Moreto notices their approach. He recalls his two remaining mohrgs to his side and sneaks toward the PCs to spy on them. When he sees that the PCs aren’t shadow spiders, he presents himself to them and lets the PCs make the first move, be it an attempt to parlay or an attack.
+
+If the party is diplomatic and approaches more-or-less openly, Moreto treats them as guests (he’s bored silly). He's especially amused if they are wet and injured, but offers to use prestidigitation to clean them up. Moreto’s initial attitude toward the PCs is indifferent. His only real desire is to reach the surface and seek out Dragotha, but he knows better than to reveal his plans to strangers. Instead, he plays the part of an explorer while he pumps the PCs for information about Icosiol’s Tomb, Flycatcher, and the surface world.
+
+If the party made a deal with Flycatcher to kill Moreto and they admit as such to the true ghoul, he laughs and makes a counteroffer. He'll give the PCs the Seal of Law if they agree to kill the spider, If made friendly, he even volunteers to aid the PCs in the fight against Flycatcher. Note that although Moreto knows the words to speak to safely handle the Seal of Law, he may “forget” to teach them to the PCs if they annoy him.
+
+It's possible that Moreto doesn’t notice the characters’ arrival. If the PCs catch him unawares, they find him perched on a boulder studying the Seal of Law by ghoul-light.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Moreto Ghoul-Form]]
+ - 2: [[Mohrg]]
 
-The reason for Moreto's exile from the White Kingdom is tied to current events on the surface world. In his studies, Moreto learned of a powerful undead dragon that once dwelt on the surface world. This was Dragotha, and according to several prophecies he discovered іп worm-eaten texts, the undead dragon would soon stir, and usher in the advent awaken, of a new time of writhing decay. Moreto had discovered the prophecies of the Age of Worms. Intrigued, he tried to convince the rulers of the White Kingdom to fund an expedition to the surface world to investigate the prophecies, for if indeed this Age of Worms was nigh, perhaps the true ghouls of the White Kingdom could return to the world above. Yet the rulers of the White Kingdom did not share Moreto's interest in returning to the surface—the Underdark suited them just fine. They branded Moreto a heretic and exiled him and his servants. Moreto knew that the closest Moreto route to the surface was said to parallel the River of Blood. His journey upward has been taxing, and now two mohrgs are all that remains of his once formidable band.
+```encounter
+name: Star Chamber
+party: Age of Worms
+creatures:
+  - 1: Moreto Ghoul-Form
+  - 1: Moreto Spectral-Form, hidden
+  - 2: Mohrg
+```
 
-Moreto suspects he is very close to the
+#### Tactics
+If the PCs attack, Moreto is more than ready to respond in kind: his ghoul-light lantern grants him protection from invisible or stealthy approaches, and his Mohrg and summoned undead can keep most groups at bay long enough for Moreto to cast his defensive spells in the opening rounds of combat.
 
-surface, and even managed to make it all
+If Moreto is reduced to fewer than 15 hit points he breaks off combat and attempts to flee back into the [[Umbral Deeps]], intending to seek an alternate route to the surface. He abandons the Seal of Law in this case, hoping that his pursuers will be distracted by the valuable-looking relic long enough for him to make good his escape.
 
-the way up into Icosiol’s Tomb a few weeks
+If Moreto is killed he'll immediately become a spectre. He is driven mad by the transformation due to the fact that, as he died in exile, he is now barred from entering the Ghostly Court. He does his best to eliminate the PCs in this event, fighting to his own destruction.
 
-ago. He began looting rooms, knowing
+#### Development
+While it’s possible that the PCs enter an alliance with Moreto, keep in mind the fact that he is a despicable and cruel undead menace. Once he’s secured a route to the surface, the best the PCs can hope for is to be abandoned by him. It’s more likely that he'll hang around long enough to ambush or abduct one of the PCs, using magic like charm person to ensure their servitude.
 
-that he would need wealth to re-establish
+### Map - Icosial's True Tomb
 
-himself on the surface, and managed to
+> [!column|no-t]
+>> [!callout|no-t bg-brown]
+>> ```zoommap
+>> image: gathering-winds-true-tomb-map.png
+>> # markers is optional; defaults to <image>.markers.json
+>> # markers: Assets/Map.jpg.markers.json
+>> 
+>> # Map view limits
+>> minZoom: 0.3
+>> maxZoom: 8
+>> 
+>> # Size & interactivity
+>> height: 560px
+>> width: 100%
+>> resizable: true
+>> resizeHandle: native     # left | right | both | native
+>> render: canvas           # or: dom
+>> 
+>> # Image interpolation: auto | pixelated | crisp-edges
+>> imageRendering: pixelated
+>> 
+>> # Responsive display (fit into width, no wheel/pinch/dblclick pan/zoom)
+>> responsive: false        # true → always fit; disables pan/zoom gestures
+>> 
+>> # Storage (optional)
+>> # storage: note          # default is json; use "note" to store markers inline
+>> # id: map-1              # optional stable id for inline storage (per code block)
+>> 
+>> # Alignment / wrapping (optional)
+>> align: right             # left | center | right
+>> wrap: true               # wrap text; useful with left/right alignment
+>> view:
+>>   zoom: 0.5735
+>>   centerX: 0.500182
+>>   centerY: 0.500000
+>> ```
+>
+>> [!recite|no-t bg-brown]
+>> [[#Location 22. Entrance to the True Tomb]]
+>> [[#Location 23. The Rising Path]]
+>
 
-reach area 10 without much problem by
+### Location 22. Entrance to the True Tomb
 
-using command undead and halt undead to
+![[gathering-winds-true-tomb-entrance.png|right hmed]]
 
-hold back the tomb’s guardians. There,
+> [!note]+ Read Aloud
+> The walls and floor of this cave have obviously been partially finished by stoneworkers. More impressive by far are the massive, fifty-foot-tall doors to the north. These dull black doors are carved with both gigantic and tiny runes, some at eye level and others much larger. The metal of the door seems pristine and freshly forged.
 
-he discovered an item that radiated
+The doors are made of stone but encased in adamantine plates. The runes on the door are written in Vaati and comprise combinations of Icosiol’s personal glyph and a series of curses against Chaos. One phrase in particular is inscribed in a place of prominence just over the massive handles, Written in Vaati as well, this phrase reads, “Dare not enter the tomb of Icosiol, Lord of Ааqа, Wandering Duke, and Bearer of the Rod of Law.” His righteous peace and glorious memory are best left to the ages, and his enemies are best left forever sleeping.”
 
-potent magic indeed—the Seal of Law.
+> [!danger]+ Trap
+> These symbols of Law are imbued with potent magic.
+> ![[symbols-of-order|Symbols of Order]]
 
-As he took the Seal, the shadow spider
+**Arcane Seal** The enormous doors are sealed by permanent 8th-rank magic. Opening the doors normally is impossible while the seal remains. A creature can attempt to [[Counteract]] the seal with _dispel magic_ or another appropriate effect. Treat the seal as an 8th-rank effect with a counteract DC of 34.  A creature adjacent to the doors can attempt to circumvent the seal with a DC 34 [[Skills#Thievery|Thievery]] check (master proficiency required). On a success, the seal is suppressed for 10 minutes, allowing the doors to be opened normally. On a critical success, the seal is permanently disabled.
 
-Flycatcher finally arrived and attacked.
+Because each door is approximately 50 feet tall and enormously heavy, _knock_ can't open or bypass these doors. Effects that merely open doors likewise fail unless they're capable of affecting an object of this size. The doors can still be breached by destroying them.
 
-Their battle ended in a draw, with both
+Any character that holds the Seal of Law aloft before the doors suddenly feels a sense of weightlessness as several words manifest in his mind. These words are “Ааqа” (the name of the Wind Duke empire), “Icosiol” (the name of the Wind Duke entombed within), and “Pesh,” (the volcanic plain on which the Wandering Dukes defeated the army of Chaos). Speaking these three names aloud in this order causes the doors to swing soundlessly open and remain open until they are physically closed or the carrier of the Seal of Law speaks the three words again.
 
-managing to inflict grievous wounds on
+**Tomb Doors:** 5-foot-thick stone plated with 1-inch-thick adamantine; Hardness 20; hp 980.
 
-the other, but Moreto still managed to
+[[#Map - Icosial's True Tomb|Return to Map]]
 
-escape back to this cavern with the Seal of
+### Location 23. The Rising Path
 
-Law. Since then, he’s been studying and
+![[gathering-winds-rising-path.png|right hmed]]
 
-investigating the relic, hoping to find
+> [!note]+ Read Aloud
+> This chamber contains seven stone columns, each slightly taller than the next, rising slowly from the entrance to a small platform at the far end of the room before a second set of enormous doors. No floor is visible—in its place is a pit filled at a depth of eighty feet with glowing blue fog. Swirling patterns of wind and lightning dance and howl along the walls and ceiling of the chamber, filling the room with a tumultuous roar.
+> 
+> Each of the seven columns appears slightly different. The closest column's top is level with the ground in the entrance room to the west. The next column is two feet higher. The third rises up to the ceiling forty feet above. The fourth is three feet higher than the second one, but rotates slowly in place. The fifth column's upper surface seems to be covered with a thick layer of what looks like tar, and is about one foot higher than the last. The sixth column is two feet higher than the previous one but is made of a lighter colored stone. A larger column, nearly twice the diameter of the others, stands to the left of the main row.
 
-a way to use it against Flycatcher and
+This chamber was built to impress  upon both visitors and tomb robbers alike the true power and strength of the wind and the lightning at the Wind Dukes command. The columns themselves form a path of sorts to the far side of the room. Navigating the columns is a dangerous prospect, made moreso by the presence of two greater air elementals charged with preventing any creatures in the room from using flight to defeat the room's obstacles.
 
-finally reach the surface world above.
+Each of the columns is labeled with a letter; specific qualities of each are summarized below. Refer to the rules for [[Leap]], [[Long Jump]] and [[High Jump]].
 
-If the PCs are carrying light sources
+*Column A:* This section is just 5 feet from the entryway.
 
-with them or are particularly loud,
+*Column В:* This column is 2 feet higher than A, and 7 feet away from it.
 
-chances are that Moreto notices their
+*Column С:* A permanent image disguises this pillar. While it is in fact only a foot higher than column B, the illusion makes it appear that the column extends all the way to the ceiling. A character who interacts with the illusion (such as by trying to throw a rock at the pillar) can disbelieve it with a successful DC 20 Will save. Characters who try to jump onto this column but do not disbelieve the illusion suffer а –2 circumstance penalty to its [[Skills#Athletics|Athletics]] check, as they misjudge the column's true height and available landing space.
 
-approach. He recalls his two remaining
+*Column D:* This entire column rotates slightly, and its top is about a foot higher than column C's top. Jump checks onto it suffer a –2 circumstance penalty to its [[Skills#Athletics|Athletics]] check, and each round a character stands on this column he must make а DC 20 [[Skills#Acrobatics|Acrobatics]] check to keep his footing. **Failure** results in the character becoming [[off-guard]] while standing on the column and can't use reactions until the beginning of its next turn. On a **Critical Failure** the creature loses its footing and falls from the column.
 
-mohrgs to his side and sneaks toward
+*Column E:* The tar-like substance smeared on top of this column is in fact a magically elastic coating of sludge. A creature that stands or lands on this stuff bounces and finds keeping his footing quite difficult. Each round, a creature standing on this column must make a DC 20 [[Skills#Acrobatics|Acrobatics]] check to avoid falling off. A creature that intentionally uses the elastic sludge to [[High Jump]] or [[Long Jump]]  from Column E gains a +2 circumstance bonus to its [[Skills#Athletics|Athletics]] check. In addition, increase the maximum vertical or horizontal distance the creature can jump by 10 feet.
 
-the PCs to spy on them. When he sees
+*Column F:* This larger column marks the actual entrance to Icosiol’s tomb. A DC 20 [[Search]] of the column’s surface finds a shallow circular indentation in the center. This indentation is the same width as the Seal of Law. Placing the Seal of Law in this indentation causes the pillar to rise up at a rate of 5 feet per round toward the ceiling above. The pillar stops its ascent at a point 10 feet below the ceiling, at which point anyone standing on or above the Seal of Law is lifted up through an illusory wall in the ceiling above, arriving in the westernmost alcove of area 24. Characters nearing the ceiling in this manner аге protected from the hurricane-force winds and the lightning on the walls, but those who pass through this opening without using the Seal of Law are not. Once this entrance has been activated, it remains active for one hour, even if the Seal of Law is removed from the room.
 
-that the PCs aren’t shadow spiders, he
+*Column G:* This column is made of unstable stone. If any amount of weight in excess of 25 pounds is placed upon it, the column crumbles to dust. A creature on the column can make a DC 20 Reflex save to get a chance to leap to а nearby column.
 
-presents himself to them and lets the
+*Column H:* This column abuts the two large adamantine doors at the far end. Unfortunately, these doors are false and do not open. Any attempt to force them to open causes the elementals to attack.
 
-PCs make the first move, be it an attempt
+Any character that falls into the fog-filled abyss below plummets 500 feet into a featureless stone pit, suffering 20d6 falling damage on impact. The glowing blue fog fills most of this pit, obscuring vision beyond 5 feet. It's a DC 25 [[Skills#Athletics|Athletics]] check to scale the walls back up.
 
-to parlay or an attack.
+Any non-elemental approaching within 5 feet of the north or south walls or the ceiling is struck by a blast of hurricane-force wind and a lash of lightning. The lightning deals 10d6 electrical damage, or half on a DC 20 Reflex save. The blast of wind has different effects depending on the target's size and whether he's [[3-Rules/Character Building/Actions/Fly|flying]] or not. 
 
-If the party is diplomatic and
+Two elemental hurricanes lurk within the dense fog 45 feet below the chamber. The fog allows them to [[Hide]] even if they would otherwise lack cover. Each elemental attempts a [[Skills#Stealth|Stealth]] check against the Perception DCs of the PCs. Because the elementals are concealed deep within the fog, they gain a +6 circumstance bonus to their Stealth checks to Hide while they remain within it. A PC can Seek to locate an elemental normally, using the elemental's Stealth DC.
 
-approaches more-or-less openly, Moreto
+An elemental that successfully Hides is [[Hidden]] rather than [[Undetected]] if the PCs already know something is present in the fog. If the PCs haven't detected the elementals at all, they can remain undetected until discovered.
 
-treats them as guests (he’s bored silly).
+```encounter
+name: Rising Path
+party: Age of Worms
+creatures:
+  - 2: Elemental Hurricane
+```
 
-He's especially amused if they are wet
+If anything tries to “cheat” this room by flying, or once they are spotted, the elementals fly up out of the fog to attack the party. They prefer to attack non-flying targets, and use their whirlwind attacks to capture these creatures and then drop them into the pit below.
 
-and injured, but offers to use prestidigi-
+[[#Map - Icosial's True Tomb|Return to Map]]
 
-tation to clean them up. Moreto’s ini-
+### Location 24. Icosiol’s Mausoleum
 
-tial attitude toward the PCs is indiffer-
+![[gathering-winds-mausoleum.png|right hmed]]
 
-ent. His only real desire is to reach the
+> [!note]+ Read Aloud
+> This chamber is modestly sized but has a very high ceiling: nearly sixty feet high. The room is lit by elongated metal lanterns that glow with the colors of the rainbow. A white marble sarcophagus floats in the air at the far end of the room, ten feet off the floor. The sarcophagus bottom is carved with an image of a sleeping Wind Duke, two swords resting on his chest and a winged helmet at his feet. 
+> 
+> The walls are carved to depict a funeral procession that winds up in a spiral, showing Wind Dukes, djinni, air elementals, and other elemental servants of Law in mourning as they attend the body of a fallen general. After the first spiral, the upper sections show the general's ascension into a primal vortex of wind and thunder. Many-eyed abominations, frog-like humanoids, and tentacled demons are trampled beneath his feet as he rises into a golden doorway at the end of the fresco.
 
-surface and seek out Dragotha, but he
+This is the burial chamber of the Wind Duke Icosiol. There is relatively little of interest in this austere chamber save for the sarcophagus itself.
 
-knows better than to reveal his plans to
+A search of the sarcophagus reveals that there seems to be no way to open it; there is no lid. The carving on the top side depicts the same sleeping Wind Duke seen on the underside (Icosiol), but this carving’s hands are empty and protrude out of the top and seem to be carved as if to hold an object. Placing the Seal of Law in these hands causes the sarcophagus to lower to the ground. One round later, the top of the sarcophagus fades away, leaving the Seal of Law suspended in the air above Icosiol’s remains below. The sarcophagus can also be battered open with force, or by spells like disintegrate or stone shape.
 
-strangers. Instead, he plays the part of
+**Icosiol’s Sarcophagus:** 6-inch thick stone; Hardness 8; hp 90; Break DC 32.
 
-an explorer while he pumps the PCs for
+Of course, Icosiol’s tomb is  not unguarded. Before the PCs can place the Seal of Law and gain the blessing of Icosiol’s spirit, they must first defeat the creature of chaos that has been bound to this chamber to serve as its eternal guardian. This guardian is an ancient fiend known as Augerric, an oculus demon from the primal Abyss. 
 
-information about Icosiol’s Tomb, Fly-
+```encounter
+name: Mausoleum
+party: Age of Worms
+creatures:
+  - 1: Oculus Demon
+```
 
-catcher, and the surface world.
+#### Tactics
+Augerric lurks in the western alcove under the cloak of invisibility and mirror image. When he notices the PCs enter the room, he immediately attacks them with eyebolts. Doing so makes him visible, which of course exposes the party to his paralytic gaze. Augerric uses invisibility to position himself for advantageous uses of his spell-like abilities or eyebolts during combat, but if directly engaged in melee he has no qualms about fighting back with his physical attacks.
 
-If the party made a deal with Flycatcher
+> [!tip]+ Treasure
+> Icosiol’s body is nothing more than dust and fragments of bone now, but several potent-looking items remain within his tomb. These are a [[ring-of-the-wind-dukes|Ring of the Wind Dukes]], a [[lightning-sword|Lightning Sword]], a [[sword-of-aaqa|Sword of Aaqa]], and a [[rod-of-seven-parts-fragment-one|Rod of Seven Parts - Fragment One]]. This is, in fact, the final portion of the infamous Rod of Seven Parts. 
+> 
+> All four of these objects are magic items of great power. If the PCs claim them, they feel a momentary rush of anger and jealousy, but this rush quickly gives way to a feeling of peace and welcome. The spirit of long-dead Wind Duke Icosiol can feel the impending doom that is the Age of Worms, and understands that the weapons of the Vaati must be used once again to fight against the encroaching dark. His blessing settles over the PCs with a soft sigh and a feeling of contentment and support. From this point on, none of the traps or guardian monsters in Icosiol’s tomb will harm the PCs, with the exception of Flycatcher.
+> 
+> Resting beneath these treasures is one object of considerably humbler appearance: a thin book bound between plates of pale metal, its pages formed from sheets of some impossibly durable silvery material. Its title, written in ancient Vaati, translates roughly as _The Discipline of the Unbroken Spirit_. The work is an old Wind Duke military treatise describing techniques for resisting supernatural corruption, recognizing the influence of alien entities, and destroying creatures that infest or transform mortal flesh. Much of the text is theoretical, but annotations added by several hands over the centuries adapt its principles specifically to creatures associated with Kyuss.
+> 
+> A character who studies the treatise during their daily preparations recognizes that its teachings could form the basis of specialized training against Kyuss and his servants. The book provides access to the [[wormhunter|Wormhunter]] archetype. A character who possesses the book and meets the archetype's prerequisites can select the Wormhunter Dedication when they next gain an appropriate class feat. Once a character has thoroughly studied the treatise, continued possession of the book isn't required to select additional Wormhunter feats.
+>
+> If any of the PCs is carrying the inactive talisman of the sphere they may have found in the Whispering Cairn, that PC instinctively knows that this item has been restored to full functionality by Icosiol’s blessing. Likewise, if Zosiel’s [[silver-diadem-of-insight|Silver Diadem of Insight]] is present, Icosiol’s blessing restores this ancient item to its full potential as well, transforming it into [[silver-diadem-of-insight-awakened|Silver Diadem of Insight (Awakened)]].
 
-to kill Moreto and they admit as such to
+> [!warning]
+> Advance the players to level 13!
 
-the true ghoul, he laughs and makes a
+## Concluding the Adventure
+This adventure ends as the PCs recover the fragment of the Rod of Seven Parts and return to Diamond Lake. They find the townsfolk worried and nervous. Even proof of Ilthane’s death does little to brighten their spirits. The miners and knaves of Diamond Lake can feel in their bones that things are about to change, and likely not for the better.
 
-counteroffer. He'll give the PCs the Seal
+Allustan himself is understandably morose and depressed about the turn of events. The recovery of the Rod of Seven Parts fragment and the other Wind Duke treasures brightens his mood a bit, but even these mighty treasures can't fix his ruined home, the lives lost to Ilthane's attack, or the seemingly unstoppable advance of the Age of Worms. Allustan may be the smartest man in Diamond Lake, but as he looks upon the ruins of his home and the once-desperate characters who have become true heroes in their own right, he realizes that his role in the developing saga has come to an end. There is only one more thing he can do to aid the PCs. He can show them the way to his one-time mentor, the archmage Manzorian. Allustan encourages the PCs to take what they know to Manzorian’s home to the north in the coastal village of Magepoint. Surely the archmage can help put an end to the threat?
 
-of Law if they agree to kill the spider, If
-
-made friendly, he even volunteers to aid
-
-the PCs in the fight against Flycatcher.
-
-Note that although Moreto knows the
-
-words to speak to safely handle the Seal
-
-of Law, he may “forget” to teach them to
-
-the PCs if they annoy him.
-
-It's possible that Moreto doesn’t notice
-
-the characters’ arrival. If the PCs catch
-
-him unawares, they find him perched
-
-on a boulder studying the Seal of Law by
-
-ghoul-light.
-
-Мовето, Marquis OF RAVENSTONE CR 11
-
-Male noble true ghoul sorcerer 8/fighter 2
-
-LE Medium Undead
-
-Init +5; Senses darkvision 120 ft., lifesense
-
-60 ft.; Listen +9, Spot +13
-
-Languages Abyssal, Draconic, Infernal,
-
-Undercommon
-
-AC 23, touch 17, flat-footed 18
-
-hp 57 (70 with false life active) (14 HD)
-
-Immune undead traits
-
-Fort +6, Ref +8, Will +14
-
-Spd 30 ft.
-
-Melee +2 greatsword +17/+12 (2d6+11/17-
-
-20) and
-
-bite +12 melee (ad6+3 plus paralysis and
-
-ghoul fever)
-
-Base Atk +8; Grp +14
-
-Atk Options Combat Expertise, Improved
-
-Disarm
-
-Combat Gear wand of enervation (14
-
-charges), wand of halt undead (20 charges),
-
-potion of inflict moderate wounds (4)
-
-Spells Prepared (CL 8th, ranged touch +13)
-
-4th (4/day)—lesser globe of invulnerability
-
-3rd (7/day)—dispel magic, lightning bolt
-
-(ОС 20)
-
-2nd (8/day}—command undead (DC 19),
-
-false life*, levitate
-
-ist (8/day)—charm person (DC 18),
-
-expeditious retreat, feather fall, mage
-
-armor*, magic missile
-
-о (6/day)—acid splash, dancing lights, detect
-
-magic, disrupt undead, ghost sound (DC 17),
-
-mending, prestidigitation, read magic
-
-*Already cast once today
-
-Abilities Str 23, Dex 20, Con —, Int 16, Wis
-
-19, Cha 25
-
-SQ spectral transformation, summon familiar
-
-(bat named Eyrix), +4 turn resistance
-
-Feats Alertness, Combat Expertise, Craft Magic
-
-Arms and Armor, Extend Spell, Improved
-
-Critical (greatsword), Improved Disarm,
-
-Multiattack, Weapon Focus (greatsword)
-
-Skills Balance +8, Bluff +15, Climb +17, Craft
-
-(weaponsmith) +11, Diplomacy +9, Hide
-
-+15, Jump +13, Knowledge (arcana) +15,
-
-Move Silently +10, Spellcraft +17, Spot +13
-
-Possessions combat gear, +2 greatsword,
-
-cloak of the bat, ring of protection +2,
-
-ghoul-light lantern (see appendix), Seal of
-
-Law, 5 rare books on magical theory and
-
-prophecy worth 500 gp each, files for
-
-sharpening teeth and claws
-
-Моћгрѕ (2): hp 91 each; Monster
-
-Manual 189.
-
-Tactics: If the PCs attack, Moreto is
-
-more than ready to respond in kind: his
-
-ghoul-light lantern grants him protection
-
-from invisible or stealthy approaches,
-
-and his morghs and summoned undead
-
-can keep most groups at bay long enough
-
-for Moreto to cast his defensive spells in
-
-the opening rounds of combat.
-
-If Moreto is reduced to fewer than 15 hit
-
-points he breaks off combat and attempts
-
-to flee back into the Underdark, intending
-
-to seek an alternate route to the surface.
-
-He abandons the Seal of Law in this case,
-
-hoping that his pursuers will be distracted
-
-by the valuable-looking relic long enough
-
-for him to make good his escape.
-
-If Moreto is killed he'll immediately
-
-become a spectre. He is driven mad by
-
-the transformation due to the fact that,
-
-as he died in exile, he is now barred from
-
-entering the Ghostly Court. He does his
-
-best to eliminate the PCs in this event,
-
-fighting to his own destruction.
-
-Development: While it’s possible that
-
-the PCs enter an alliance with Moreto,
-
-keep in mind the fact that he is a despi-
-
-cable and cruel undead menace. Once
-
-he’s secured a route to the surface, the
-
-best the PCs can hope for is to be aban-
-
-doned by him. It’s more likely that he'll
-
-hang around long enough to ambush or
-
-abduct one of the PCs, using magic like
-
-charm person to ensure their servitude.
-
-29. Entrance to the
-
-True Tomb
-
-The walls and floor of this cave have obvi-
-
-ously been partially finished by stonework-
-
-ers. More impressive by far are the massive,
-
-fifty-foot-tall doors to the north. These dull
-
-black doors are carved with both gigantic
-
-and tiny runes, some at eye level and others
-
-much larger. The metal of the door seems
-
-pristine and freshly forged.
-
-The doors are made of stone but
-
-encased in adamantine plates. The
-
-runes on the door are written in Vaati
-
-and comprise combinations of Icosiol’s
-
-personal glyph and a series of curses
-
-against Chaos. One phrase in particular
-
-is inscribed in a place of prominence
-
-just over the massive handles, Written
-
-in Vaati as well, this phrase reads, “Dare
-
-not enter the tomb of Icosiol, Lord of
-
-Аада, Wandering Duke, and Bearer of
-
-the Rod of Law.” His righteous peace
-
-and glorious memory are best left to
-
-the ages, and his enemies are best left
-
-forever sleeping.”
-
-These symbols of Law are imbued with
-
-potent magic, and duplicate the effects of
-
-an antipathy spell (caster level 17) as long
-
-as the doors remain closed. The antipa-
-
-thy only affects creatures with a chaotic
-
-alignment—these creatures must make a
-
-DC 21 Will save or be unable to approach
-
-within 20 feet of the doors. Even if they
-
-make the save, their Dexterity scores are
-
-reduced by 4 as long as the doors remain
-
-closed and in sight.
-
-The doors themselves are sealed with a
-
-permanent arcane lock (caster level 17). Note
-
-that the extreme size of the doors prevents
-
-knock from being able to open them. The
-
-arcane lock must be dispelled or bypassed
-
-(or the doors themselves destroyed) if the
-
-PCs wish to pass beyond them.
-
-Any character that holds the Seal of
-
-Law aloft before the doors suddenly
-
-feels a sense of weightlessness as sev-
-
-eral words manifest in his mind. These
-
-words are “Аада” (the name of the Wind
-
-Duke empire), “Icosiol” (the name of
-
-the Wind Duke entombed within), and
-
-“Pesh,” the volcanic plain on which the
-
-Wandering Dukes defeated the army
-
-of Chaos. Speaking these three names
-
-aloud in this order causes the doors
-
-to swing soundlessly open and remain
-
-open until they are physically closed or
-
-the carrier of the Seal of Law speaks the
-
-three words again.
-
-Tomb Doors: 5-foot-thick stone plated
-
-with 1-inch-thick adamantine; Hardness
-
-20; hp 980.
+Allustan himself retreats into his studies, in search of further information, and begins to strengthen his home with wards and magical fortifications. A great darkness is close at hand, and the wizard fears what is to come. For the PCs, this adventure marks a turning point. No longer are they in the dark. No longer are they forced to react to the machinations of Kyuss’ dark plans. Soon, they shall gaze upon the Spire of Long Shadows, and the sinister origin of Kyuss himself shall be laid at their feet.

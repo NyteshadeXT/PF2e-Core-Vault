@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magnetic-shield"
 aliases: "Magnetic Shield"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "64"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -29,16 +29,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Copper rings spiral around this steel
-  shield. Twin electrical probes near the grip can socket into a jar of moderate (or
-  higher leveled) bottled lightning, which takes 3 Interact actions to install. A
-  loaded magnetic shield can be activated to convert it into an electromagnet. When
-  an activated magnetic shield is raised, the circumstance bonus increases by 1 against
-  attacks made with weapons primarily made of metal. If you use a Shield Block against
-  a creature attacking you with such a weapon, you also gain a +1 item bonus to [[Actions/Disarm|Disarm]]
-  attempts against that weapon until the end of your next turn. The shield remains
-  charged for 3 rounds, consuming the bottled lightning, and once the reaction has
-  begun it can't be deactivated."
+activate: "`pf2:1` [[Interact]]"
+description: "Copper rings spiral around this steel shield. Twin electrical probes near the grip can socket into a jar of moderate (or higher leveled) bottled lightning, which takes 3 Interact actions to install. A loaded magnetic shield can be activated to convert it into an electromagnet. When an activated magnetic shield is raised, the circumstance bonus increases by 1 against attacks made with weapons primarily made of metal. If you use a Shield Block against a creature attacking you with such a weapon, you also gain a +1 item bonus to [[3-Rules/Trait Reference/D/disarm|Disarm]] attempts against that weapon until the end of your next turn. The shield remains charged for 3 rounds, consuming the bottled lightning, and once the reaction has begun it can't be deactivated."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -86,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

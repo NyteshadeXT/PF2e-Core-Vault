@@ -6,7 +6,6 @@
       {
         "id": "2fc3e3a789408e81",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "8f457d42deb509c7",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/Uniques/Z/Zifforian.md",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zifforian"
+              "title": "The Champions Belt"
             }
           },
           {
@@ -28,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
+                "file": "3-Rules/Character Building/Equipment/M/messengers-ring.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Gathering of Winds"
+              "title": "messengers-ring"
             }
           },
           {
@@ -49,30 +48,37 @@
               "icon": "lucide-file",
               "title": "DC Calculator"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4378c744843cea77",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "81684a5efce0e0f4",
+            "id": "0ca614b8c78c4ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/AI Templates/AI Converstion Template - Creature.md",
+                "file": "zz-Templates/Markdown/Insert Item.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AI Converstion Template - Creature"
+              "title": "Insert Item"
+            }
+          },
+          {
+            "id": "569da1aeb62db071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-GM Toolkit/Chimeracrafting.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chimeracrafting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 380.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -300,51 +306,51 @@
   },
   "active": "1bfdb293577e8084",
   "lastOpenFiles": [
-    "zz-Attachments/moreto.png",
+    "3-Rules/Character Building/Equipment/M/messenger-missive-multiple.md",
+    "3-Rules/Character Building/Equipment/M/messenger-missive.md",
+    "3-Rules/Character Building/Equipment/M/mesmerizing-opal.md",
+    "3-Rules/Character Building/Equipment/M/mercurial-mantle.md",
+    "3-Rules/Character Building/Equipment/M/merciful-charm.md",
+    "3-Rules/Character Building/Equipment/M/merciful-balm.md",
+    "3-Rules/Character Building/Equipment/M/merciful.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/M/merchants-guile.md",
+    "3-Rules/Character Building/Equipment/M/merchants-scale.md",
+    "3-Rules/Character Building/Equipment/M/mentalists-staff-major.md",
+    "3-Rules/Character Building/Equipment/M/mentalists-staff-greater.md",
+    "3-Rules/Character Building/Equipment/M/mentalists-staff.md",
+    "3-Rules/Character Building/Equipment/M/mending-lattice.md",
+    "3-Rules/Character Building/Equipment/M/menders-soup.md",
+    "3-Rules/Character Building/Equipment/M/menacing-greater.md",
+    "3-Rules/Character Building/Equipment/M/menacing.md",
+    "3-Rules/Character Building/Equipment/M/memory-palace.md",
+    "3-Rules/Character Building/Equipment/M/memory-guitar.md",
+    "3-Rules/Character Building/Equipment/M/memoir-map.md",
+    "3-Rules/Character Building/Equipment/M/medusas-scream-(greater).md",
+    "3-Rules/Character Building/Equipment/M/medusas-scream.md",
+    "1-GM Toolkit/Chimeracrafting.md",
+    "3-Rules/Character Building/Equipment/S/Shield Augmentation.md",
+    "3-Rules/Character Building/Equipment/F/fishing-tackle.md",
+    "3-Rules/Character Building/Equipment/C/cold-iron-shield-high-grade.md",
+    "zz-Attachments/silver-diadem-of-insight-awakened.png",
+    "zz-Attachments/silver-diadem-of-insight.jpg",
+    "zz-Attachments/sword-of-aaqa.png",
+    "zz-Attachments/rod-of-seven-parts-fragment-one.png",
+    "zz-Attachments/ring-of-the-wind-dukes.png",
+    "3-Rules/Character Building/Equipment/Homebrew/R",
+    "zz-Attachments/lightning-sword.png",
+    "3-Rules/Character Building/Equipment/Homebrew/L",
+    "zz-Attachments/ghoul-light-lantern.png",
+    "3-Rules/Character Building/Equipment/Homebrew/G",
+    "zz-Attachments/gathering-winds-mausoleum.png",
+    "zz-Attachments/oculus-demon.png",
+    "zz-Attachments/gathering-winds-rising-path.png",
+    "gathering-winds-true-tomb-map.png.markers.json",
+    "gathering-winds-true-tomb.png.markers.json",
+    "gathering-winds-star-chamber-map.png.markers.json",
     "gathering-winds-star-chamber.png.markers.json",
-    "zz-Attachments/gathering-winds-star-chamber.png",
-    "3-Rules/Bestiaries/Homebrew/W/wind-warrior-advanced.md",
-    "3-Rules/Bestiaries/Homebrew/W/wind-warrior.md",
-    "4-Campaign/Age of Worms/A Gathering of Winds.md",
-    "1-GM Toolkit/AI Templates/AI Converstion Template - Creature.md",
-    "3-Rules/Bestiaries/Homebrew/B/blood-amniote.md",
     "gathering-winds-falling-river.png.markers.json",
-    "zz-Attachments/gathering-winds-falling-river.png",
-    "3-Rules/Bestiaries/Bestiary 1/K/Kolyarut.md",
-    "zz-Attachments/kolyarut.png",
-    "3-Rules/Bestiaries/Homebrew/R/rimeforged-golem.md",
-    "zz-Attachments/blood-amniote.png",
-    "3-Rules/Hazards/Homebrew/F/flooding-tunnel-trap.md",
-    "3-Rules/Bestiaries/Standalone Adventures/Fall of Plaguestone/B/Blood Ooze.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "3-Rules/Hazards/Homebrew/F/force-burst-wall.md",
-    "3-Rules/Hazards/Homebrew/F/falling-pillar-trap.md",
-    "3-Rules/Hazards/Homebrew/F/false-elevator.md",
-    "3-Rules/Hazards/Homebrew/B/boiling-oil-chute.md",
-    "3-Rules/Hazards/Homebrew/U/urn-energy-drain-trap.md",
-    "3-Rules/Hazards/Homebrew/T/tempest-globe.md",
-    "3-Rules/Hazards/Homebrew/W/windspike-trap.md",
-    "3-Rules/Hazards/Homebrew/W/wide-spiked-pit.md",
-    "3-Rules/Hazards/Homebrew/S/symbol-of-fear.md",
-    "3-Rules/Hazards/Homebrew/W/word-of-law.md",
-    "3-Rules/Hazards/Homebrew/P/prismatic-contamination.md",
-    "3-Rules/Hazards/Homebrew/P/poisoned-ceiling-spear.md",
-    "3-Rules/Hazards/Homebrew/P/poison-gas-trap.md",
-    "3-Rules/Hazards/Homebrew/L/lightning-hallway.md",
-    "3-Rules/Hazards/Homebrew/H/hidden-pit-upgrade.md",
     "3-Rules/Hazards/Homebrew/T",
-    "3-Rules/Hazards/Untitled",
-    "1-GM Toolkit/AI Templates",
-    "zz-Attachments/relief-golom.png",
-    "3-Rules/Bestiaries/Homebrew/R",
-    "icosiols-tomb-upper-level.png.markers.json",
-    "icosiols-tomb-lower-level.png.markers.json",
-    "zz-Attachments/icosiols-tomb-lower-level.png",
-    "zz-Attachments/flycatcher.png",
-    "3-Rules/Hazards/Homebrew/U/Untitled",
-    "3-Rules/Hazards/Homebrew/U",
-    "zz-Attachments/gathering-winds-silent-gallery.png",
-    "zz-Attachments/gathering-winds-sword-of-law.png",
-    "zz-Attachments/gathering-winds-earl-coalchester.png"
+    "3-Rules/Hazards/Untitled"
   ]
 }

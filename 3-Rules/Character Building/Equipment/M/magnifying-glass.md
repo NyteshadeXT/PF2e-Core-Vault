@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magnifying-glass"
 aliases: "Magnifying Glass"
 source: "Pathfinder Player Core"
-pg: ""
+pg: "288"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -29,8 +29,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This quality handheld lens gives you a +1 item bonus to Perception checks
-  to notice minute details of documents, fabric, and the like."
+description: "This quality handheld lens gives you a +1 item bonus to [[Skills#Perception|Perception]] checks to notice minute details of documents, fabric, and the like."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -78,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

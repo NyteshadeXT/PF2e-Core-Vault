@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mantis-shell"
 aliases: "Mantis Shell"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "11"
 rarity: "Uncommon"
 trait01: "adjusted"
 trait02: ""
@@ -25,16 +25,12 @@ level: 1
 weight: 1
 value: "10"
 subvalue: "gp"
+group: "Skeletal"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "Construction of mantis shell armor originates with the Red Mantis assassins.
-  Authentic mantis shell can be found in some dark markets, but wearing such armor
-  can attract deadly attention from the armor's originators. Mantis shell comes with
-  the weapon harness adjustment, though these special vambraces are meant to hold
-  sawtooth sabers, and attaching anything else is an insult to the Red Mantis. A character
-  who is a member of the Red Mantis assassins has access to this uncommon armor."
+description: "Construction of mantis shell armor originates with the Red Mantis assassins. Authentic mantis shell can be found in some dark markets, but wearing such armor can attract deadly attention from the armor's originators. Mantis shell comes with the weapon harness adjustment, though these special vambraces are meant to hold sawtooth sabers, and attaching anything else is an insult to the Red Mantis. A character who is a member of the Red Mantis assassins has access to this uncommon armor."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -65,13 +61,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
+baseAC: 2
+modAC: 
+dexCap: 3
+strRequirement: "+1"
+checkPenalty: "-1"
 speedPenalty:
-armorCategory:
+armorCategory: "Light"
 resist:
 immunity:
 conditionImmunity:
@@ -82,3 +78,43 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```base
+formulas:
+  itemName: link(file, aliases)
+
+properties:
+  formula.itemName:
+    displayName: "Item Name"
+  note.level:
+    displayName: Level
+  note.license:
+    displayName: License
+
+views:
+  - type: table
+    name: Related Items
+    filters:
+      and:
+        - file.inFolder("3-Rules/Character Building/Equipment")
+        - or:
+            - weaponbase == this.aliases
+            - armorbase == this.aliases
+            - shieldbase == this.aliases
+            - craftbase == this.aliases
+    order:
+      - formula.itemName
+      - level
+      - license
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      formula.itemName: 300
+      note.level: 109
+      
+```

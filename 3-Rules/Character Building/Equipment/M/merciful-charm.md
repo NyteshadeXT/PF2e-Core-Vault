@@ -29,18 +29,14 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You Strike with the affixed
-  weapon  **Requirements** You're trained in the affixed weapon.  * * *  This small
-  limestone pendant is typically carved in the shape of clasped hands. When activated,
-  the affixed weapon gains the nonlethal trait for the triggering attack and all other
-  attacks for 1 minute.  [[Equipment Effects/Effect_ Merciful Charm|Effect: Merciful
-  Charm]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small limestone pendant is typically carved in the shape of clasped hands."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You Strike with the affixed weapon."
+requirement1: "You're trained in the affixed weapon."
+mechanics1: "When activated, the affixed weapon gains the [[nonlethal|Nonlethal]] trait for the triggering attack and all other attacks for 1 minute."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -82,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mat-of-resilience"
 aliases: "Mat of Resilience"
 source: "Pathfinder #209: Destroyer's Doom"
-pg: ""
+pg: "83"
 rarity: "Uncommon"
 trait01: "magical"
 trait02: ""
@@ -29,32 +29,20 @@ invest:
 usage: "other"
 license: "ORC"
 identify:
-description: "This light but sturdy woven mat, a miniature version of the floating
-  foundations used in villages of the Dirt Sea, is carried tied in a tight roll. When
-  you use an action to unfurl the mat onto an unoccupied horizontal space, the mat
-  covers the existing terrain to create a smooth surface that can be walked on as
-  if it were solid ground. Difficult or hazardous terrain in that square may be treated
-  as normal while the mat of resilience covers it. The mat can be rolled back up or
-  moved to an adjacent square using an Interact action, but it cannot be moved or
-  put away while a creature is atop it.  * * *  **Activate—Steady Ground** `pf2:1`
-  (envision)  You unfurl the mat and choose which shape it takes, either a 10-foot
-  square or a 20-foot by 5-foot line.  * * *  **Activate—Sturdy Foundation** `pf2:1`
-  (manipulate)  **Requirements** A creature is atop the mat  **Effect** The creature
-  enters a simple stance that makes the most of the mat's stabilizing magic. While
-  in this stance, if at least half of the creature's space is atop the mat, it cannot
-  gain the [[Conditions/Off-Guard|Off-Guard]] condition."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This light but sturdy woven mat, a miniature version of the floating foundations used in villages of the Dirt Sea, is carried tied in a tight roll. When you use an action to unfurl the mat onto an unoccupied horizontal space, the mat covers the existing terrain to create a smooth surface that can be walked on as if it were solid ground. Difficult or hazardous terrain in that square may be treated as normal while the mat of resilience covers it. The mat can be rolled back up or moved to an adjacent square using an Interact action, but it cannot be moved or put away while a creature is atop it."
+powerTitle1: "Steady Ground"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
 frequency1:
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
+mechanics1: "You unfurl the mat and choose which shape it takes, either a 10-foot square or a 20-foot by 5-foot line."
+powerTitle2: "Sturdy Foundation"
+actionEconomy2: "`pf2:1`"
+type2: "([[manipulate]])"
 frequency2:
+requirement2: "A creature is atop the mat."
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "The creature enters a simple stance that makes the most of the mat's stabilizing magic. While in this stance, if at least half of the creature's space is atop the mat, it cannot gain the [[Off-Guard]] condition."
 craft:
 
 #========================================================#
@@ -90,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

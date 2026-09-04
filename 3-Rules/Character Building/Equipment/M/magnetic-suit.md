@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magnetic-suit"
 aliases: "Magnetic Suit"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "71"
 rarity: ""
 trait01: "aura"
 trait02: "consumable"
@@ -29,19 +29,8 @@ invest:
 usage: "worngarment"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:2` (manipulate)  * * *  This magnetized suit is strapped
-  to your body over your armor or clothes. When you Activate it, you must choose whether
-  to set it to attract or repel. After being activated, the suit provides the listed
-  benefits for the chosen activation type for 10 minutes before the magnets burn out
-  and the suit becomes useless. While set to attract, you take a –1 status penalty
-  to your AC against attacks made by metal weapons, while allies within a 10-foot
-  emanation gain a +1 status bonus to their AC. If set to repel, you gain a +1 status
-  bonus to AC against attacks made with metal weapons.  While attracting metal, you
-  gain a +1 status bonus to Athletics checks to Climb metal objects and [[Actions/Grapple|Grapple]]
-  metal creatures and a –1 status penalty to Athletics checks to [[Actions/Shove|Shove]]
-  metal creatures. While repelling metal, you gain a +1 status bonus to Athletics
-  checks to Shove metal creatures, but you take a –1 status penalty to Climb metal
-  objects and Grapple metal creatures."
+activate: "`pf2:2` ([[manipulate]])"
+description: "This magnetized suit is strapped to your body over your armor or clothes. When you Activate it, you must choose whether to set it to attract or repel. After being activated, the suit provides the listed benefits for the chosen activation type for 10 minutes before the magnets burn out and the suit becomes useless. While set to attract, you take a –1 status penalty to your AC against attacks made by metal weapons, while allies within a 10-foot emanation gain a +1 status bonus to their AC. If set to repel, you gain a +1 status bonus to AC against attacks made with metal weapons.  While attracting metal, you gain a +1 status bonus to [[skills#Athletics|Athletics]] checks to [[Climb]] metal objects and [[3-Rules/Character Building/Actions/Grapple|Grapple]] metal creatures and a –1 status penalty to Athletics checks to [[3-Rules/Character Building/Actions/Shove|Shove]] metal creatures. While repelling metal, you gain a +1 status bonus to Athletics checks to Shove metal creatures, but you take a –1 status penalty to Climb metal objects and Grapple metal creatures."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -89,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

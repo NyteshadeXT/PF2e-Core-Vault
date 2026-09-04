@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mending-lattice"
 aliases: "Mending Lattice"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "266"
 rarity: "Uncommon"
 trait01: "consumable"
 trait02: "magical"
@@ -29,16 +29,14 @@ invest:
 usage: "affixed to a shield or weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` (concentrate)  **Trigger** The affixed item would
-  take damage  **Requirements** You are trained in Crafting  * * *  This lattice of
-  reinforced iron is shaped into a perfect octagon. When you activate it, it negates
-  the damage and instantly and completely repairs the affixed item."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This lattice of reinforced iron is shaped into a perfect octagon. "
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[concentrate]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "The affixed item would take damage."
+requirement1: "You are trained in Crafting."
+mechanics1: "When you activate it, it negates the damage and instantly and completely repairs the affixed item."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -80,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

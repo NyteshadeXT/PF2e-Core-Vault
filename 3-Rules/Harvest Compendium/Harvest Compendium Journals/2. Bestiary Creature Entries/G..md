@@ -40,7 +40,7 @@ tags:
 | 1 [[Elemental Core\|Elemental Core]] |
 | 1d4 Vials of [[Liquid Air\|Liquid Air]] |
 | 1d2 Vials of [[Spell Essence\|Spell Essence]] |
-| 1 [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/Whirlwind Vial\|Whirlwind Vial]] |
+| 1 [[Whirlwind Vial (Lesser)\|Whirlwind Vial]] |
 
 ### [[Bestiary 1/Shaitan|Shaitan]]
 

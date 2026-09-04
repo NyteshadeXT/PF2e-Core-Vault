@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mask-of-mercy"
 aliases: "Mask of Mercy"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "154"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
@@ -29,18 +29,13 @@ invest:
 usage: "wornmask"
 license: "ORC"
 identify:
-description: "This porcelain or alabaster mask portrays an angelic visage of kindness
-  and mercy. The mask grants a +1 item bonus to Medicine checks.  * * *  **Activate**
-  `pf2:0` envision (fortune)  **Frequency** once per day  **Trigger** You are about
-  to roll a variable number of Hit Points you restore from an action with the healing
-  trait  * * *  **Effect** Roll twice to determine the number of Hit Points you restore
-  and take the higher result."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "This porcelain or alabaster mask portrays an angelic visage of kindness and mercy. The mask grants a +1 item bonus to [[Skills#Medicine|Medicine]] checks."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]] ([[fortune]]))"
+frequency1: "once per day"
+trigger1: "You are about to roll a variable number of Hit Points you restore from an action with the healing trait."
+mechanics1: "Roll twice to determine the number of Hit Points you restore and take the higher result."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -82,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

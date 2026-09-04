@@ -1,0 +1,34 @@
+{
+  "size": {
+    "w": 828,
+    "h": 1052
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "gathering-winds-star-chamber-map.png"
+  ],
+  "overlays": [],
+  "activeBase": "gathering-winds-star-chamber-map.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}

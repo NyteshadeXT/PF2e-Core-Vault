@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "medusa-armor"
 aliases: "Medusa Armor"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "306"
 rarity: "Rare"
 trait01: "cursed"
 trait02: "invested"
@@ -25,14 +25,12 @@ level: 14
 weight: 2
 value: "0"
 subvalue: "gp"
+group: "Composite"
 invest:
 usage: "wornarmor"
 license: "ORC"
 identify:
-description: "This _+2 adamantine scale mail_ appears to have a _fortification_ rune
-  but grants none of its effects. Whenever you are critically hit, after taking damage,
-  you become petrified for 1 round. Once the curse has activated for the first time,
-  the armor fuses to you."
+description: "This _[[armor-potency-2|+2]] [[adamantine-armor-standard-grade|Adamantine Armor (Standard Grade)]] [[Scale Mail]]_ appears to have a _fortification_ rune but grants none of its effects. Whenever you are critically hit, after taking damage, you become petrified for 1 round. Once the curse has activated for the first time, the armor fuses to you."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -63,13 +61,13 @@ weaponCategory:
 #========================================================#
 #                    ARMOR PROPERTIES                    #
 #========================================================#
-baseAC:
-modAC:
-dexCap:
-strRequirement:
-checkPenalty:
-speedPenalty:
-armorCategory:
+baseAC: 3
+modAC: 2
+dexCap: 2
+strRequirement: "+2"
+checkPenalty: "-2"
+speedPenalty: "-5 ft."
+armorCategory: "Medium"
 resist:
 immunity:
 conditionImmunity:
@@ -78,5 +76,9 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Scale Mail"
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

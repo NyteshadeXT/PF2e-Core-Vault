@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mammoth-bow"
 aliases: "Mammoth Bow"
 source: "Pathfinder #177: Burning Tundra"
-pg: ""
+pg: "74"
 rarity: "Unique"
 trait01: "deadly-d10"
 trait02: "magical"
@@ -25,16 +25,12 @@ level: 12
 weight: 4
 value: "2000"
 subvalue: "gp"
+group: "Bow"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This heavy, 12-foot-tall _+2 striking Composite Longbow_ is fashioned
-  from mammoth tusks lashed together. Due to its great size, you can attack with the
-  Mammoth Bow only if you're Large or larger. The Mammoth Bow deals 2d6 additional
-  piercing damage because of its incredible, magically enhanced draw power. Additionally,
-  the Mammoth Bow has a 180-foot range increment instead of a 100-foot range increment,
-  but its volley range increases from 30 feet to 50 feet."
+description: "This heavy, 12-foot-tall _[[Weapon Potency (+2)|+2]] [[striking]] [[Composite Longbow]]_ is fashioned from mammoth tusks lashed together. Due to its great size, you can attack with the Mammoth Bow only if you're Large or larger. The Mammoth Bow deals `dice: 2d6` additional piercing damage because of its incredible, magically enhanced draw power. Additionally, the Mammoth Bow has a 180-foot range increment instead of a 100-foot range increment, but its volley range increases from 30 feet to 50 feet."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -52,15 +48,16 @@ craft:
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
-range: 180 ft
-ammoType:
-damage: 2d8 piercing
-dmg1:
-dmg1Type:
+range: "180 ft"
+reload: 0
+ammoType: "Arrows"
+damage: 
+dmg1: 2d8
+dmg1Type: piercing
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Ranged
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -79,6 +76,10 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Composite Longbow"
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -6,8 +6,8 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-name: "cold-iron-shield-low-grade"
-aliases: "Cold Iron Shield (Low Grade)"
+name: "cold-iron-shield-standard-grade"
+aliases: "Cold Iron Shield (Standard Grade)"
 source: "Pathfinder GM Core"
 pg: "233"
 rarity: ""

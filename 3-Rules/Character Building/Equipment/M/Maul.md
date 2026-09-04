@@ -1,30 +1,185 @@
 ---
-obsidianUIMode: preview
-title: "Maul"
-cssclasses: pf2e,pf2e-spell
-tags:
-  - pf2e/weapon
-  - trait/shove
-  - trait/common
-  - category/martial
-  - remaster
-aliases: "Compendium.pf2e.equipment-srd.Item.mlrmkpOlwpnGkw4I"
-license: ORC
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
+name: "maul"
+aliases: "Maul"
+source: "Pathfinder Player Core"
+pg: "278"
+rarity: ""
+trait01: "shove"
+trait02: ""
+trait03: ""
+trait04:
+trait05:
+trait06:
+trait07:
+trait08:
+image: zz-Attachments/assets/imageplaceholder.png
+level: 
+group: "Hammer"
+bulk: 2
+value: "3"
+subvalue: "gp"
+invest: 
+usage: "held in two hands"
+license: "ORC"
+identify: ""
+description: "Mauls are massive warhammers that must be swung with two hands."
+activate: ""
+craft: 
+destruction: 
+
+#========================================================#
+#                  Ability #1 PROPERTIES                 #
+#========================================================#
+powerTitle1: ""
+actionEconomy1: 
+type1: 
+frequency1: 
+requirement1:
+trigger1:
+activate1: 
+duration1: 
+mechanics1: ""
+
+#========================================================#
+#                  Ability #2 PROPERTIES                 #
+#========================================================#
+powerTitle2: ""
+actionEconomy2: 
+type2: 
+frequency2: 
+requirement2:
+trigger2: 
+activate2: 
+duration2: 
+mechanics2: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #3 PROPERTIES                 #
+#========================================================#
+powerTitle3: ""
+actionEconomy3: 
+type3: 
+frequency3: 
+requirement3:
+trigger3: 
+activate3: 
+duration3: 
+mechanics3: "**Secondary Effect** "
+
+#========================================================#
+#                  Ability #4 PROPERTIES                 #
+#========================================================#
+powerTitle4: ""
+actionEconomy4: 
+type4: 
+frequency4: 
+requirement4:
+trigger4: 
+activate4: 
+duration4: 
+mechanics4: "**Secondary Effect** "
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+reload:
+damage: 
+dmg1: 1d12
+dmg1Type: bludgeoning
+dmg2: 
+dmg2Type: 
+weaponType: Martial
+weaponCategory: Melee
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC: 
+dexCap: 
+strRequirement: ""
+checkPenalty: 
+speedPenalty: 
+armorCategory: 
+resist: 
+immunity: 
+conditionImmunity: 
+hardness: 
+hp: 
+bt: 
+
+#========================================================#
+#              INTELLIGENT ITEM PROPERTIES               #
+#========================================================#
+perception:
+communication:
+skill1:
+skill2:
+skill3:
+skill4:
+skill5: 
+int:
+wis:
+cha:
+will:
+
+#========================================================#
+#                   DATAVIEW PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+shieldBase:
+craftBase: 
+
 ---
-# Maul
-## Item 0
-### [[shove]]
 
-|  |  |
-| -- | -- |
-| **Category** martial melee weapon | **Group** hammer |
-| **Price** 3 gp |  |
-| **Bulk** 2 | **Size** med |
-| **Damage** 1d12 bludgeoning  | **Usage** held-in-two-hands |
+```meta-bind-embed
+[[Item Card Template]]
+```
+
+```base
+formulas:
+  itemName: link(file, aliases)
+
+properties:
+  formula.itemName:
+    displayName: "Item Name"
+  note.level:
+    displayName: Level
+  note.license:
+    displayName: License
+
+views:
+  - type: table
+    name: Related Items
+    filters:
+      and:
+        - file.inFolder("3-Rules/Character Building/Equipment")
+        - or:
+            - weaponbase == this.aliases
+            - armorbase == this.aliases
+            - shieldbase == this.aliases
+            - craftbase == this.aliases
+    order:
+      - formula.itemName
+      - level
+      - license
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      formula.itemName: 300
+      note.level: 109
+      
+```
 
 
 
-Mauls are massive warhammers that must be swung with two hands.
-
-*Source: Pathfinder Player Core*
-*ORC*

@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magnetic-construction-set"
 aliases: "Magnetic Construction Set"
 source: "Pathfinder Lost Omens The Grand Bazaar"
-pg: ""
+pg: "58"
 rarity: ""
 trait01: ""
 trait02: ""
@@ -29,12 +29,7 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This collection of small magnets and metal rods comes in a wooden box.
-  The magnets are strong enough to firmly cling to metal objects but too weak to move
-  or suspend them. The metal rods are a quarter of an inch in diameter and vary in
-  length from 3 to 6 inches. If connected with the magnets, these rods can be used
-  to build flimsy shapes and structures, which collapse if external weight or pressure
-  is applied."
+description: "This collection of small magnets and metal rods comes in a wooden box. The magnets are strong enough to firmly cling to metal objects but too weak to move or suspend them. The metal rods are a quarter of an inch in diameter and vary in length from 3 to 6 inches. If connected with the magnets, these rods can be used to build flimsy shapes and structures, which collapse if external weight or pressure  is applied."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -82,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

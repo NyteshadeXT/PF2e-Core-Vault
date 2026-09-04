@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mesmerizing-opal"
 aliases: "Mesmerizing Opal"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "266"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
@@ -29,10 +29,8 @@ invest:
 usage: "affixed to armor"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` (concentrate)  * * *  This silver-bound opal pendant
-  is afire with iridescence. When you activate it, attempt a Deception check to [[Actions/Feint|Feint]].
-  If the outcome is a success, you get a critical success instead. If the outcome
-  is a critical failure, you get a failure instead."
+activate: "`pf2:1` ([[concentrate]])"
+description: "This silver-bound opal pendant is afire with iridescence. When you activate it, attempt a [[Skills#Deception|Deception]] check to [[Feint]]. If the outcome is a success, you get a critical success instead. If the outcome is a critical failure, you get a failure instead."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -80,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

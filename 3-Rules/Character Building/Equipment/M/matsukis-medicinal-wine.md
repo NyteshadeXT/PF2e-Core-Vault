@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "matsukis-medicinal-wine"
 aliases: "Matsuki's Medicinal Wine"
 source: "Pathfinder #196: The Summer That Never Was"
-pg: ""
+pg: "295"
 rarity: "Rare"
 trait01: "alchemical"
 trait02: "consumable"
@@ -29,16 +29,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  Old Matsuki's private brew has
-  quite the kick. In addition to making you tipsy, this medicinal wine works wonders
-  in helping to recover from disease—including (ironically) drug addiction. Matsuki's
-  medicinal wine functions as [[Equipment/Alcohol|Alcohol]], except that its saving
-  throw is a DC 18 Fortitude check save. In addition, upon drinking a dose of Matsuki's
-  medicinal wine, you gain a +2 item bonus to Fortitude saving throws against diseases
-  and poisons for 24 hours. This applies to your daily save against a disease's progression;
-  however, the bonus doesn't apply to any checks you attempt against Matsuki's medical
-  wine itself.  [[Equipment Effects/Effect_ Matsuki's Medicinal Wine|Effect: Matsuki's
-  Medicinal Wine]]"
+activate: "`pf2:1` [[Interact]]"
+description: "Old Matsuki’s private brew has quite the kick. In addition to making you tipsy, this medicinal wine works wonders in helping to recover from disease. When you drink a dose of this wine you must succeed at a DC 18 Fortitude save to avoid becoming [[off-guard]] for 10 minutes (and also [[Clumsy|clumsy 1]] for this duration if you critically fail the saving throw). Regardless of the saving throw’s results, you gain a +2 item bonus to Fortitude saving throws against diseases and poisons for the next 24 hours. This applies to your daily save against a disease’s progression as well."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -86,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

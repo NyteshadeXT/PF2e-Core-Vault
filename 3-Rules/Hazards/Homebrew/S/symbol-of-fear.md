@@ -8,30 +8,29 @@ tags:
 - trait/visual
 aliases: ["Symbol of Fear"]
 ---
-# Symbol of Fear *Hazard 12*  
-[magical](rules/traits/magical.md "Magical Item Trait") [fear](rules/traits/fear.md "Fear Item Trait") [mental](rules/traits/mental.md "Mental Item Trait") [visual](rules/traits/visual.md "Visual Trait")  
 
-- **Complexity** Simple
-- **Stealth** DC 32 (expert) to notice the faintly pulsing rune  
+```pf2e-stats
+# Symbol of Fear
+## Hazard 12
 
-A dreadful rune radiates supernatural terror, overwhelming the minds of creatures that draw near or study it.
+---
 
-- **Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (expert) to deface the symbol without triggering it, or DC 30 [Religion](compendium/skills.md#Religion) (master) to suppress its divine magic; two successes are required  
+==magical== ==fear== ==mental== ==visual== ==simple==
 
-- **AC** 32, **Fort** +20, **Ref** +18, **Will** +24
-- **Hardness** 15, **HP** 80 (BT 40)
-- **Immunities** object immunities
+**Stealth** DC 32 (expert) to notice the faintly pulsing rune  
 
-```ad-embed-ability
-title: **Terrifying Glyph** [R](rules/core-rulebook/chapter-9-playing-the-game.md#Actions "Reaction")
+**Description** A dreadful rune radiates supernatural terror, overwhelming the minds of creatures that draw near or study it.
 
-- **Trigger**: A creature comes within 20 feet of the symbol or reads it
+**Disable** DC 32 [Thievery](compendium/skills.md#Thievery) (expert) to deface the symbol without triggering it, or DC 30 [Religion](compendium/skills.md#Religion) (master) to suppress its divine magic; two successes are required  
 
+**AC** 32; **Hardness** 15; **HP** 80 (BT 40)  
+**Immunities** object immunities
+
+### **Terrifying Glyph** `pf2:r` 
+**Trigger** A creature comes within 20 feet of the symbol or reads it.
 **Effect** The symbol erupts with overwhelming dread. All creatures in a 20-foot emanation must attempt a DC 32 Will save.
-
-__Critical Success__ The creature is unaffected and is temporarily immune to this symbol for 24 hours.  
-__Success__ The creature is [frightened 1](rules/conditions.md#Frightened).  
-__Failure__ The creature is [frightened 3](rules/conditions.md#Frightened) and must [flee](rules/conditions.md#Fleeing) for 1 round.  
-__Critical Failure__ The creature is [frightened 4](rules/conditions.md#Frightened), [fleeing](rules/conditions.md#Fleeing) for 1 minute, and then remains [frightened 2](rules/conditions.md#Frightened) for 1 additional minute.
-
+- **Critical Success** The creature is unaffected and is temporarily immune to this symbol for 24 hours.  
+- **Success** The creature is [[Frightened|frightened 1]].  
+- **Failure** The creature is [[Frightened|frightened 3]] and must [[Fleeing|flee]] for 1 round. 
+- **Critical Failure** The creature is [[Frightened|frightened 4]], [[Fleeing|flee]] for 1 minute, and then remains [[Frightened|frightened 2]] for 1 additional minute. 
 ```

@@ -6,8 +6,8 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-name: "adamantine-buckler-high-grade"
-aliases: "Adamantine High (Standard Grade)"
+name: "inubrix-buckler-high-grade"
+aliases: "Inubrix High (Standard Grade)"
 source: "Pathfinder Lost Omens The Grand Bazaar"
 pg: "98"
 rarity: "rare"

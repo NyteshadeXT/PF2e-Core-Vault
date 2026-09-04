@@ -30,7 +30,7 @@ This compendium offers many new magic items, oils, and potions for the intrepid 
 
 If a magic item has the uncommon rarity, its formula is only known by expert hunters who have studied the slain creature for years. These artisans can be found in hunting guilds where they make a livelihood out of crafting goods from slain monsters. Some of them may be willing to teach an adventurer a few secrets of their trade, or at the very least act as an intermediary artisan for them—for a price, of course. Magic items with no rarity are more easily crafted and their formulas are available for purchase in many major cities.
 
-If you can craft an item into a weapon or set of armor that has a rune pre-installed, you need to know the formula for both the item and the rune. For example, if you are crafting a [[Maul]] out of a [[Brain Collector Claw]], you need the formula for crafting a maul and the formula for the [[Striking]] rune. You must meet the level requirement and monetary cost for crafting both the item and the rune.
+If you can craft an item into a weapon or set of armor that has a rune pre-installed, you need to know the formula for both the item and the rune. For example, if you are crafting a [[maul]] out of a [[Brain Collector Claw]], you need the formula for crafting a maul and the formula for the [[Striking]] rune. You must meet the level requirement and monetary cost for crafting both the item and the rune.
 
 > **Crafting Equipment with Pre-Etched Runes**
 > 

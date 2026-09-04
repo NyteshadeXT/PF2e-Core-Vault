@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "master-magus-ring"
 aliases: "Master Magus Ring"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "150"
 rarity: ""
 trait01: "arcane"
 trait02: "focused"
@@ -28,33 +28,21 @@ subvalue: "gp"
 invest:
 usage: "worn"
 license: "ORC"
-identify:
-description: "Elegant jewelry such as the _master magus ring_ adorns experienced magi.
-  Each ring has a significant metal and symbol to represent a particular hybrid study,
-  such as a heavy iron ring with an icon of a mountain for [[Class Features/Inexorable
-  Iron|Inexorable Iron]], or glittering silver with a shield-like emblem for [[Class
-  Features/Sparkling Targe|Sparkling Targe]]. You gain a +2 item bonus to Arcana checks.\
-  \  **Activate** `pf2:0` envision  **Frequency** once per day  * * *  **Effect**
-  You gain 1 Focus Point, which you can use only to cast a magus conflux spell. If
-  not used by the end of your turn, this Focus Point is lost.  * * *  **Activate**
-  `pf2:0` command  **Frequency** once per day  * * *  **Effect** The ring transports
-  you and any items you're wearing and holding from your current space to an unoccupied
-  space you can see within a range equal to your Speed. If this would bring another
-  creature with you—even if you're carrying it in an extradimensional container—the
-  activation fails and is used.  * * *  **Craft Requirements** You are a magus."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+identify: 
+description: "Elegant jewelry such as the _master magus ring_ adorns experienced magi. Each ring has a significant metal and symbol to represent a particular hybrid study, such as a heavy iron ring with an icon of a mountain for Inexorable Iron, or glittering silver with a shield-like emblem for Sparkling Targe. You gain a +2 item bonus to [[Skills#Arcana|Arcana]] checks."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "You gain 1 Focus Point, which you can use only to cast a magus conflux spell. If not used by the end of your turn, this Focus Point is lost."
+powerTitle2: "Effect"
+actionEconomy2: "`pf2:0`"
+type2: "([[command]])"
+frequency2: "once per day"
 trigger2:
-mechanics2: "**Secondary Effect** "
-craft:
+mechanics2: "The ring transports you and any items you're wearing and holding from your current space to an unoccupied space you can see within a range equal to your Speed. If this would bring another creature with you—even if you're carrying it in an extradimensional container—the activation fails and is used."
+craft: "You are a magus."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
@@ -89,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

@@ -1,7 +1,7 @@
 
 # Obsidian ToDos
 - [ ] Update items to new template
-	- Currently on letter 'H'
+	- Currently on letter 'M'
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
 	- [ ] Add Djezet Alloy Mass and Ingot
 	- [ ] Add Dragonhide armor
@@ -10,10 +10,8 @@
 	- [ ] Create a section for curses/cursed items.  [[andvaris-gift]] for an example.
 - [ ] [[volatile-hb|Volatile]] trait has broken links
 - [ ] Create an afflictions template
-- [ ] Update afflictions to new template
-- [ ] Create a hazards template
-- [ ] Update hazards to new template
-- [ ] Determine how to get Update buttons to update the active note and not create a new one
+- [ ] Update afflictions to PF2e Statblock
+- [ ] Update hazards to PF2e Statblock
 - [ ] Determine what to do with the Random_Gems_Table and the Random_Jewelry_Table
 - [ ] Keep working on cleaning up the DM/GM Screen
 - [ ] Battlezoo/Chimeracrafting

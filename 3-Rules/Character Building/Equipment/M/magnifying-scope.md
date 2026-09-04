@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "magnifying-scope"
 aliases: "Magnifying Scope"
 source: "Pathfinder Guns & Gears"
-pg: ""
+pg: "181"
 rarity: ""
 trait01: "magical"
 trait02: ""
@@ -29,19 +29,13 @@ invest:
 usage: "attached to crossbow or firearm scope"
 license: "ORC"
 identify:
-description: "These scopes use magically enhanced lenses to extend the range of your
-  weapon and help spot distant foes. The scope grants you a +1 item bonus to visual
-  Perception checks to [[Actions/Seek|Seek]] creatures through the scope.  **Activate—Zoom
-  In** `pf2:1` (manipulate)  * * *  **Effect** You zoom in on your targets to make
-  it easier to hit them at a distance. You increase the range increment of the weapon
-  to which the scope is attached by 5 feet until the beginning of your next turn or
-  until you're no longer wielding the weapon, whichever comes first."
-powerTitle1:
-actionEconomy1:
-type1:
+description: "These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +1 item bonus to visual [[skills#Perception]] checks to [[Seek]] creatures through the scope."
+powerTitle1: "Zoom In"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You zoom in on your targets to make it easier to hit them at a distance. You increase the range increment of the weapon to which the scope is attached by 5 feet until the beginning of your next turn or until you're no longer wielding the weapon, whichever comes first."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -83,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

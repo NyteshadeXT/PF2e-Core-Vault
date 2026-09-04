@@ -1,0 +1,34 @@
+{
+  "size": {
+    "w": 813,
+    "h": 1054
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "gathering-winds-true-tomb.png"
+  ],
+  "overlays": [],
+  "activeBase": "gathering-winds-true-tomb.png",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {},
+  "textLayers": []
+}

@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "masquerade-scarf"
 aliases: "Masquerade Scarf"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
@@ -29,19 +29,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This delicately embroidered scarf matches with every outfit and can
-  even complete a costume or disguise with illusions.  * * *  **Activate—Masquerade**
-  1 minute (manipulate)  **Frequency** once per day  **Effect** You arrange the scarf
-  over your lower face, and it casts a 1st-rank [[Spells/Illusory Disguise|Illusory
-  Disguise]] spell on you, which ends immediately if the scarf is removed. You can
-  alter the scarf's appearance or make it invisible as part of the _illusory disguise_,
-  but it can still be felt if touched."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This delicately embroidered scarf matches with every outfit and can even complete a costume or disguise with illusions."
+powerTitle1: "Masquerade"
+actionEconomy1: "1 minute"
+type1: "([[manipulate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
+mechanics1: "You arrange the scarf over your lower face, and it casts a 1st-rank [[Illusory Disguise]] spell on you, which ends immediately if the scarf is removed. You can alter the scarf's appearance or make it invisible as part of the _illusory disguise_, but it can still be felt if touched."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -83,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

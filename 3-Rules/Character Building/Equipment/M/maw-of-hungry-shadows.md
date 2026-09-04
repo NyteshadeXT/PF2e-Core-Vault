@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "maw-of-hungry-shadows"
 aliases: "Maw of Hungry Shadows"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "112"
 rarity: ""
 trait01: "grimoire"
 trait02: "incapacitation"
@@ -29,23 +29,13 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "Shadows swirl around this soot-black tome, swallowing up any light that
-  touches them. A faint whispering emanates from the grimoire's pages when opened.\
-  \  **Activate** `pf2:1` envision  **Frequency** once per day  **Trigger** Your last
-  action was to cast a spell prepared from this grimoire that has the shadow trait\
-  \  * * *  **Effect** Your shadow, and that of the tome, elongates and reaches hungrily
-  for one foe within 30 feet, who must attempt a Fortitude save.  * * *  **Critical
-  Success** The creature is unaffected.  **Success** The creature is [[Conditions/Blinded|Blinded]]
-  for 1 round and [[Conditions/Drained|Drained 1]] as the shadows scrape across it.\
-  \  **Failure** The creature is blinded for 1 minute and [[Conditions/Drained|Drained
-  2]] as the shadows seize it.  **Critical Failure** As failure, but the shadows also
-  pull the creature into the tome, teleporting it to the Shadow Plane."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
-trigger1:
-mechanics1:
+description: "Shadows swirl around this soot-black tome, swallowing up any light that touches them. A faint whispering emanates from the grimoire's pages when opened."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:1`"
+type1: "([[envision]])"
+frequency1: "once per day"
+trigger1: "Your last action was to cast a spell prepared from this grimoire that has the shadow trait"
+mechanics1: "Your shadow, and that of the tome, elongates and reaches hungrily for one foe within 30 feet, who must attempt a Fortitude save.\n\n**Critical Success** The creature is unaffected.\n**Success** The creature is [[Blinded]] for 1 round and [[Drained|Drained 1]] as the shadows scrape across it.\n**Failure** The creature is [[Blinded]] for 1 minute and [[Drained|Drained 2]] as the shadows seize it.\n*Critical Failure** As failure, but the shadows also pull the creature into the tome, teleporting it to the Shadow Plane."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -87,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

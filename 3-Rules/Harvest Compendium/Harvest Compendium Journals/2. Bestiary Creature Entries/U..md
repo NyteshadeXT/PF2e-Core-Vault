@@ -29,4 +29,4 @@ tags:
 | 2d6 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 3d6 Vials of [[Liquid Air\|Liquid Air]] |
 | 3d6 Vials of [[Spell Essence\|Spell Essence]] |
-| 1d4 [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/W/Whirlwind Vial\|Whirlwind Vials]] |
+| 1d4 [[Whirlwind Vial (Lesser)\|Whirlwind Vials]] |

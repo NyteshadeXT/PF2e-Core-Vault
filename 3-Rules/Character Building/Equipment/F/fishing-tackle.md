@@ -7,8 +7,8 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 notetype: pf2e-item
-name: "fishing-tackle-professional"
-aliases: "Fishing Tackle Professional"
+name: "fishing-tackle"
+aliases: "Fishing Tackle"
 source: "Pathfinder Player Core"
 pg: "288"
 rarity: ""

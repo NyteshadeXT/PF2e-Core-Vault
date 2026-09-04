@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mantis-embrace"
 aliases: "Mantis Embrace"
 source: "Pathfinder Adventure: Prey for Death"
-pg: ""
+pg: "104"
 rarity: "Uncommon"
 trait01: "invested"
 trait02: "magical"
@@ -29,22 +29,14 @@ invest:
 usage: "worngloves"
 license: "ORC"
 identify:
-description: "These stylized red gloves are constructed from plates of leather that
-  have been treated to resemble insect chitin. The gloves grant the wearer a +2 item
-  bonus to Athletics checks to [[Actions/Grapple|Grapple]] or [[Actions/Shove|Shove]].\
-  \  **Activate—Crushing Embrace** `pf2:1` (manipulate)  **Frequency** once per hour\
-  \  **Requirements** You are grappling a creature  * * *  **Effect** You Strike the
-  creature you are grappling with a melee weapon or unarmed attack. This Strike deals
-  an additional 3d6 precision damage and gains the death trait. The body of a creature
-  that is slain by Crushing Embrace is so gruesomely damaged that the creature's body
-  cannot be affected by any effect that requires an intact body to function, such
-  as the [[Spells/Talking Corpse|Talking Corpse]] spell."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "These stylized red gloves are constructed from plates of leather that have been treated to resemble insect chitin. The gloves grant the wearer a +2 item bonus to [[Skills#Athletics|Athletics]] checks to [[3-Rules/Character Building/Actions/Grapple|Grapple]] or [[3-Rules/Character Building/Actions/Shove|Shove]]."
+powerTitle1: "Crushing Embrace"
+actionEconomy1: "`pf2:1`"
+type1: "([[manipulate]])"
+frequency1: "once per hour"
 trigger1:
-mechanics1:
+requirement1: "You are grappling a creature."
+mechanics1: "You Strike the creature you are grappling with a melee weapon or unarmed attack. This Strike deals an additional `dice: 3d6` precision damage and gains the death trait. The body of a creature that is slain by Crushing Embrace is so gruesomely damaged that the creature's body cannot be affected by any effect that requires an intact body to function, such as the [[Talking Corpse]] spell."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -86,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

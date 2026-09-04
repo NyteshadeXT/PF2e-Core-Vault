@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "mentalists-staff"
 aliases: "Mentalist's Staff"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "279"
 rarity: ""
 trait01: "magical"
 trait02: "staff"
@@ -25,43 +25,38 @@ level: 4
 weight: 1
 value: "90"
 subvalue: "gp"
+group: "Club"
 invest:
 usage: "held in one hand "
 license: "ORC"
 identify:
-description: "This polished wooden staff bears a swirling motif reminiscent of the
-  folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to
-  checks to identify mental magic.  **Activate** Cast a Spell  **Effect** You expend
-  a number of charges from the staff to cast a spell from its list.  * * *  *   **Cantrip**
-  [[Spells/Daze|Daze]] *   **1st** [[Spells/Mindlink|Mindlink]] [[Spells/Phantom Pain|Phantom
-  Pain]]  * * *  **Craft Requirements** Supply one casting of all listed levels of
-  all listed spells."
-powerTitle1:
+description: "This polished wooden staff bears a swirling motif reminiscent of the folds of a brain. While wielding the staff, you gain a +2 circumstance bonus to checks to identify mental magic."
+powerTitle1: "Cast a Spell"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "You expend a number of charges from the staff to cast a spell from its list.\n\n**Cantrip** [[Daze]]\n**1st** [[Mindlink]], [[Phantom Pain]]"
 powerTitle2:
 actionEconomy2:
 type2:
 frequency2:
 trigger2:
 mechanics2: "**Secondary Effect** "
-craft:
+craft: "Supply one casting of all listed levels of all listed spells."
 
 #========================================================#
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range:
 ammoType:
-damage: 1d4 bludgeoning
-dmg1:
-dmg1Type:
+damage:  
+dmg1: 1d4
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: Melee
+weaponCategory: Simple
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #
@@ -80,6 +75,10 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Staff"
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

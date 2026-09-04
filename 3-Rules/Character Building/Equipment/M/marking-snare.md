@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "marking-snare"
 aliases: "Marking Snare"
 source: "Pathfinder Player Core 2"
-pg: ""
+pg: "299"
 rarity: ""
 trait01: "consumable"
 trait02: "mechanical"
@@ -29,15 +29,7 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "This snare is often used to mark intruders for later tracking or identification.
-  When you create this snare, you must decide whether to make it a dye or a scent
-  marker. Either type of marking grants a +2 circumstance bonus to [[Actions/Track|Track]]
-  the creature for up to 24 hours or until the dye or scent is washed off (requiring
-  at least a gallon of water and 10 minutes of scrubbing). A creature that enters
-  a square of the snare must attempt a DC 17 Reflex check save.  * * *  **Success**
-  The creature is unaffected.  **Failure** The snare marks the creature.  **Critical
-  Failure** The snare marks the creature, and the creature is [[Conditions/Blinded|Blinded]]
-  until the end of its next turn."
+description: "This snare is often used to mark intruders for later tracking or identification. When you create this snare, you must decide whether to make it a dye or a scent marker. Either type of marking grants a +2 circumstance bonus to [[Track]] the creature for up to 24 hours or until the dye or scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). A creature that enters a square of the snare must attempt a DC 17 Reflex check save.\n\n**Success** The creature is unaffected.\n**Failure** The snare marks the creature.\n**Critical Failure** The snare marks the creature, and the creature is [[Blinded]] until the end of its next turn."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -85,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

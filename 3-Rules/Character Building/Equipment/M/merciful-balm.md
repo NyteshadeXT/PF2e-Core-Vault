@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "merciful-balm"
 aliases: "Merciful Balm"
 source: "Pathfinder Treasure Vault"
-pg: ""
+pg: "86"
 rarity: ""
 trait01: "consumable"
 trait02: "magical"
@@ -29,10 +29,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  Smelling strongly of herbs and pine resin,
-  _merciful balm_ is a thick, sticky paste that can be used to anoint a weapon, granting
-  the weapon the nonlethal trait for 1 hour.  [[Equipment Effects/Effect_ Merciful
-  Balm|Effect: Merciful Balm]]"
+activate: "`pf2:1` [[Interact]]"
+description: "melling strongly of herbs and pine resin, merciful balm is a thick, sticky paste that can be used to anoint a weapon, granting the weapon the [[nonlethal|Nonlethal]] trait for 1 hour."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -80,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

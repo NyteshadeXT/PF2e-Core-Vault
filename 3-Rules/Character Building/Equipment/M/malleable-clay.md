@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "malleable-clay"
 aliases: "Malleable Clay"
 source: "Pathfinder #176: Lost Mammoth Valley"
-pg: ""
+pg: "80"
 rarity: "Uncommon"
 trait01: "magical"
 trait02: "talisman"
@@ -29,21 +29,14 @@ invest:
 usage: "affixed to weapon"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:0` envision  **Trigger** You Strike with the affixed
-  weapon  **Requirements** You're trained in the affixed weapon.  * * *  This small
-  lump of clay is malleable and can be molded into innumerable shapes and forms. When
-  affixed, the clay takes on the appearance of the affixed weapon. When activated,
-  the affixed weapon gains the versatile bludgeoning, versatile piercing, and versatile
-  slashing weapon traits for the triggering Strike and all other attacks for 1 minute.
-  With each attack, the clay changes shape, taking on the appearance of a different
-  weapon that deals damage of the chosen damage type.  [[Equipment Effects/Effect_
-  Malleable Clay|Effect: Malleable Clay]]"
-powerTitle1:
-actionEconomy1:
-type1:
+description: "This small lump of clay is malleable and can be molded into innumerable shapes and forms. When affixed, the clay takes on the appearance of the affixed weapon."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:0`"
+type1: "([[envision]])"
 frequency1:
-trigger1:
-mechanics1:
+trigger1: "You Strike with the affixed weapon"
+requirement1: "You're trained in the affixed weapon."
+mechanics1: "When activated, the affixed weapon gains the versatile bludgeoning, versatile piercing, and versatile slashing weapon traits for the triggering Strike and all other attacks for 1 minute. With each attack, the clay changes shape, taking on the appearance of a different weapon that deals damage of the chosen damage type."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -85,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```
