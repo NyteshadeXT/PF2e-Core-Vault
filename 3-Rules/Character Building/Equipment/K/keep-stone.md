@@ -6,8 +6,8 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-name: "abysium"
-aliases: "Abysium"
+name: "keep-stone"
+aliases: "Keep Stone"
 source: "Pathfinder Lost Omens Highhelm"
 pg: "113"
 rarity: "rare"

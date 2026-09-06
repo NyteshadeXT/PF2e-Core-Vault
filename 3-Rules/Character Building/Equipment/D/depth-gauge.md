@@ -6,15 +6,9 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-<<<<<<< Updated upstream
 name: "depth-gauge"
 aliases: "Depth Gauge"
 source: "Pathfinder Lost Omens Society Guide"
-=======
-name: "Depth Gauge"
-aliases: "depth-gauge"
-source: "Pathfinder PFS Guide"
->>>>>>> Stashed changes
 pg: "114"
 rarity: "uncommon"
 trait01: ""

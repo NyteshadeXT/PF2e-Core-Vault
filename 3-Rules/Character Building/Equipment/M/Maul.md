@@ -37,7 +37,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: ""
+powerTitle1: "Critical Specialization"
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -45,7 +45,7 @@ requirement1:
 trigger1:
 activate1: 
 duration1: 
-mechanics1: ""
+mechanics1: "The target is knocked [[prone]] unless they succeed at a Fortitude save against your class DC."
 
 #========================================================#
 #                  Ability #2 PROPERTIES                 #

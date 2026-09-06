@@ -7,11 +7,11 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 notetype: pf2e-item
-name: "fishing-tackle"
-aliases: "Fishing Tackle"
-source: "Pathfinder Player Core"
-pg: "288"
-rarity: ""
+name: "fishing-lure"
+aliases: "Fishing Lure"
+source: "Pathfinder War of Immortals"
+pg: "147"
+rarity: "uncommon"
 trait01: ""
 trait02: ""
 trait03: ""
@@ -22,20 +22,21 @@ trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
 level: 0
-weight: 1
-value: "8"
+weight: 
+value: "2"
 subvalue: "sp"
+group: "Flail"
 invest:
-usage: "held in two hands"
+usage: ""
 license: "ORC"
 identify:
-description: "This kit include a collapsible fishing pole, fishhooks, line, lures, and a fishing net."
-powerTitle1:
+description: "When a lure is attached to a combat fishing pole, it can be used to make thrown weapon attacks with a range increment of 20 feet, though the lure must then be reeled back in with an Interact action before the weapon can be used at range again (see the tethered trait). The ranged trip, tethered, thrown, and versatile P traits of the combat fishing pole only apply to thrown attacks made with a lure; throwing the pole itself leaves you with no practical way to retrieve it other than moving to its location and picking it up."
+powerTitle1: "Critical Specialization"
 actionEconomy1:
 type1:
 frequency1:
 trigger1:
-mechanics1:
+mechanics1: "The target is knocked [[prone]] unless they succeed at a Reflex save against your class DC."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -54,8 +55,8 @@ dmg1:
 dmg1Type:
 dmg2:
 dmg2Type:
-weaponType:
-weaponCategory:
+weaponType: "Melee"
+weaponCategory: "Martial"
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #

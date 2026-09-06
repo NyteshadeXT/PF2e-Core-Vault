@@ -7,7 +7,7 @@ cssclasses:
   - h-line
   - pf2e-item-base
 notetype: pf2e-item
-name: "medusas-scream-(greater)"
+name: "medusas-scream-greater"
 aliases: "Medusa's Scream (Greater)"
 source: "Pathfinder Player Core 2"
 pg: "279"

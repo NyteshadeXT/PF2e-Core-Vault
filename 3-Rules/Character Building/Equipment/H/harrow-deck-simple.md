@@ -29,8 +29,7 @@ invest:
 usage: "held in two hands"
 license: "OGL"
 identify: ""
-description: "Used by gamblers and seers alike, this deck of cards comes in several varieties.\n\nSimple harrow decks are made from low-quality paper and typically have only an icon and a number to signify the suit and alignment. These simple decks are mostly used for games of chance, as the actual image and significance of the cards are irrelevant for such games.
-"
+description: "Used by gamblers and seers alike, this deck of cards comes in several varieties.\n\nSimple harrow decks are made from low-quality paper and typically have only an icon and a number to signify the suit and alignment. These simple decks are mostly used for games of chance, as the actual image and significance of the cards are irrelevant for such games."
 activate: ""
 craft: 
 destruction: 
