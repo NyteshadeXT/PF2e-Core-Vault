@@ -56,6 +56,176 @@ adventure_level: 7th to 9th
 
 ## Chapter 1 — The Deep Hallow Dungeon
 
+**I’d use a Castlemere recovery team for the encounter, then end with evidence that the Dungeon’s influence has reached Springrun.** That brings both of your Act 2 conflicts into play: people competing over the Dungeon, and the Dungeon exceeding everyone’s expectations.
+
+For a six-week break, I’d aim for a cliffhanger with a clear, memorable image and an immediate question to answer when you return.
+
+### The encounter: “For the Safety of the Frontier”
+
+As the PCs prepare to leave the vicinity of the Dungeon, another group emerges behind them. These are **Castlemere-sponsored adventurers carrying a limited commission to survey the entrance and recover dangerous materials.** Their leader has decided that this gives her authority over everyone else’s discoveries.
+
+They have survived their expedition, but barely. One has a splinted arm. Another carries a wrapped bundle that occasionally shines through the cloth. Their exhaustion makes them more dangerous: they desperately need something to show for their losses.
+
+Their leader calls out:
+
+> “You there. Hold a moment.”
+> 
+> The woman descending from the archway wears Castlemere’s colors over battered armor. Her eyes settle on your packs.
+> 
+> “By commission of Castlemere, materials recovered from this site must be examined before entering a settlement. Set your packs down. Anything hazardous comes with us.”
+
+**Their real objective:** secure one valuable Dungeon discovery and the party’s account of the interior. They would prefer to obtain both through intimidation.
+
+**Their justification:** they witnessed something inside that genuinely frightened them. They believe uncontrolled exploration could endanger the frontier. That belief conveniently supports their desire to control the rewards.
+
+Use four distinct personalities:
+
+|Member|What they want|What could change their behavior|
+|---|---|---|
+|**Captain Veyra Holt**, expedition leader|Return with proof that her expedition succeeded|A credible agreement that preserves her standing|
+|**Orren Pell**, contracted arcanist|Examine a particular discovery the PCs carry|Access to study it, without taking possession|
+|**Brannic Vale**, hired enforcer|Get paid and get home|Serious resistance or evidence Veyra exceeded her commission|
+|**Tessa Reed**, local guide|Leave before anyone else dies|The PCs openly challenging the attempted seizure|
+
+Veyra’s commission authorizes her to lead **her own expedition**. It grants no authority to search travelers or confiscate Springrun’s discoveries. Let the players uncover that through questions, inspecting the document, or pressing the other team members.
+
+**Make the hostility tangible.** While Veyra speaks, Brannic moves to block the trail. Orren points at a specific visible item:
+
+> “That one. Whatever else they’re carrying, we need that one.”
+
+That turns a vague disagreement into a decision the players can act on.
+
+Possible resolutions:
+
+- **Negotiation:** exchange limited information or agree to an examination in Springrun with witnesses.
+    
+- **Intimidation or exposure:** force Veyra to retreat from her claim, earning a recurring rival.
+    
+- **Combat:** the team tries to seize the chosen object and withdraw. They surrender or retreat when the fight turns decisively against them.
+    
+- **An unexpected alliance:** Tessa reveals what happened to their missing companion, giving both groups a reason to cooperate.
+    
+
+I’d make this a **moderate encounter if the PCs are depleted**, with the confrontation itself providing the tension. Exact creatures and numbers should wait on their current level and condition.
+
+One useful revelation, regardless of resolution:
+
+> “We marked every junction,” Tessa says. “On the way back, the marks were still there. The junctions weren’t.”
+
+That reinforces the living Dungeon without explaining it.
+
+At the start of the encounter, place the following foes on the map: 
+ - 1: [[Watchmage]]
+ - 1: [[3-Rules/Bestiaries/NPC Core/W/Watch Officer|Watch Officer]]
+ - 1: [[3-Rules/Bestiaries/NPC Core/T/Tracker|Tracker]]
+ - 1: [[Captain Of The Guard-Weak]]
+
+```encounter
+name: EncounterName
+party: PartyName
+creatures:
+ - 1: [[Watchmage, Orren Pell]]
+ - 1: [[Watch Officer, Brannic Vale]]
+ - 1: [[Tracker, Tessa Reed]]
+ - 1: [[Captain Of The Guard-Weak, Captain Veyra Holt]]
+```
+
+#### Tactics
+Use a broad clearing with scattered trees and fallen logs. Veyra and Brannic advance together, Orren stays behind them, and Tessa moves outward to establish bow range. Give both sides access to cover and room to maneuver.
+
+Their objective remains **compelling surrender and taking the Dungeon discovery**. They stop attacking fallen PCs and demand capitulation when they gain an advantage. If two team members fall, or Veyra falls and Orren comes under pressure, the survivors attempt to negotiate or retreat. That leaves room for these NPCs to become recurring rivals while still delivering a serious fight tonight.
+
+**Veyra Holt — Weak Captain of the Guard** I would have her fight beside Brannic, pushing an opposing frontline character away from Orren or opening a route toward whoever carries the desired discovery.
+**Orren Pell — Watchmage** Open with **haste on Veyra** if she can immediately engage. Use **slow** against a PC applying significant pressure. Support with bow attacks while keeping the two melee fighters between himself and the party.
+**Brannic Vale — Watch Officer** Use him to establish flanking with Veyra or intercept a PC approaching Orren. His lower level makes him a manageable target, but ignoring him allows the Castlemere formation to function.
+**Tessa Reed — Tracker** Position Tessa along the clearing’s edge, targeting whichever PC threatens Orren. She can remain the team’s reluctant participant, but **have her fight initially** if you want the full Severe encounter. Her objections become consequential when the team starts losing.
+
+### My preferred cliffhanger: The Sound Beneath Pearl Hall
+
+Let the party actually reach Springrun. Give them a little relief: familiar streets, food, recognition, perhaps someone delighted that they returned. **Their journey home should feel accomplished.**
+
+During their report to the council, ask the players what they reveal about the Dungeon. Let their discoveries matter.
+
+Then:
+
+> Edrik opens his mouth to ask another question.
+> 
+> A low note sounds beneath the floor.
+> 
+> The water in every cup trembles.
+> 
+> You recognize the sound.
+> 
+> Edrik slowly closes his mouth. Across the table, another council member goes pale.
+> 
+> “That,” he says, “is what we needed to speak to you about.”
+> 
+> Beneath Pearl Hall, something answers with a second note.
+> 
+> This one is much closer.
+
+**End there.**
+
+This builds directly on the resonance you’ve already established. Springrun now has a problem the PCs are uniquely equipped to recognize.
+
+My suggested underlying truth: **a buried crystal seam beneath Springrun has begun resonating with the Dungeon.** Exploring it reduced the pressure temporarily, but did not eliminate the accumulated effects beyond its boundaries. The seam provides a concrete investigation next session without requiring a second Dungeon or a new intelligence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
