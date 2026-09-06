@@ -7,37 +7,30 @@ cssclasses:
   - h-line
   - pf2e-item-base
 notetype: pf2e-item
-name: "metalmist-sphere-(lesser)"
-aliases: "Metalmist Sphere (Lesser)"
-source: "Pathfinder Lost Omens Pathfinder Society Guide"
-pg: ""
+name: "meteor-shot-major"
+aliases: "Meteor Shot (Major)"
+source: "Pathfinder Guns & Gears"
+pg: "171"
 rarity: "Uncommon"
-trait01: "alchemical"
-trait02: "consumable"
-trait03: ""
-trait04: ""
+trait01: "consumable"
+trait02: "fire"
+trait03: "magical"
+trait04: "splash"
 trait05: ""
 trait06: ""
 trait07: ""
 trait08: ""
 image: zz-Attachments/assets/imageplaceholder.png
-level: 3
-weight: L
-value: "11"
+level: 17
+weight:
+value: "3000"
 subvalue: "gp"
 invest:
-usage: "held in two hands"
+usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** `pf2:1` Interact  * * *  This sphere contains small fragments
-  of thunderstones within a colloidal suspension of a precious metal. When you twist
-  the sphere, it creates an opaque mist in a burst centered on one corner of your
-  space. Creatures within that area are concealed, and all other creatures are concealed
-  to them. Any creature with a weakness to the precious metal that starts its turn
-  in the mist takes damage equal to its weakness. The mist lasts for 1 minute or until
-  dispersed by a strong wind. Most metalmist spheres are filled with silver or cold
-  iron, but more expensive versions containing other ingredients might exist.  * *
-  *  The radius of the burst is 5 feet."
+activate: "`pf2:1` ([[manipulate]])"
+description: "This craggy stone ammunition is warm to the touch. When you fire an activated meteor shot, it explodes into a small swarm of meteors as it reaches its target, scorching nearby creatures and littering the ground with rubble. In addition to the weapon's normal damage, the meteor shot deals fire damage and the ground in the area becomes difficult terrain.  The ammunition deals `dice: 9d6` fire damage in a 20-foot emanation around the target (DC 37 Reflex check save).  In addition, the Strike gains the following critical failure effect.\n\n**Critical Failure** The weapon misfires."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -56,7 +49,7 @@ craft:
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range:
-ammoType:
+ammoType: "round"
 damage:
 dmg1:
 dmg1Type:
@@ -85,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

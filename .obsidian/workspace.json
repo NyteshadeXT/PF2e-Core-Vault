@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Character Building/Equipment/M/messengers-ring.md",
+                "file": "3-Rules/Character Building/Equipment/M/midday-lantern-(greater).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "messengers-ring"
+              "title": "midday-lantern-(greater)"
             }
           },
           {
@@ -278,7 +278,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "windrose-md:Open map view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
@@ -306,6 +305,18 @@
   },
   "active": "1bfdb293577e8084",
   "lastOpenFiles": [
+    "3-Rules/Character Building/Equipment/M/metuaks-pendant.md",
+    "3-Rules/Character Building/Equipment/M/metronomic-hammer.md",
+    "3-Rules/Character Building/Equipment/M/meteor-shot-major.md",
+    "3-Rules/Character Building/Equipment/M/meteor-shot-greater.md",
+    "3-Rules/Character Building/Equipment/M/meteor-shot.md",
+    "3-Rules/Character Building/Equipment/M/meteor-shield.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/M/metalmist-sphere-moderate.md",
+    "3-Rules/Character Building/Equipment/M/metalmist-sphere-lesser.md",
+    "3-Rules/Character Building/Equipment/M/metalmist-sphere-greater.md",
+    "3-Rules/Character Building/Equipment/M/messengers-ring-greater.md",
+    "3-Rules/Character Building/Equipment/M/messengers-ring.md",
     "3-Rules/Character Building/Equipment/M/messenger-missive-multiple.md",
     "3-Rules/Character Building/Equipment/M/messenger-missive.md",
     "3-Rules/Character Building/Equipment/M/mesmerizing-opal.md",
@@ -313,7 +324,6 @@
     "3-Rules/Character Building/Equipment/M/merciful-charm.md",
     "3-Rules/Character Building/Equipment/M/merciful-balm.md",
     "3-Rules/Character Building/Equipment/M/merciful.md",
-    "zz-Templates/Markdown/Insert Item.md",
     "3-Rules/Character Building/Equipment/M/merchants-guile.md",
     "3-Rules/Character Building/Equipment/M/merchants-scale.md",
     "3-Rules/Character Building/Equipment/M/mentalists-staff-major.md",
@@ -321,17 +331,6 @@
     "3-Rules/Character Building/Equipment/M/mentalists-staff.md",
     "3-Rules/Character Building/Equipment/M/mending-lattice.md",
     "3-Rules/Character Building/Equipment/M/menders-soup.md",
-    "3-Rules/Character Building/Equipment/M/menacing-greater.md",
-    "3-Rules/Character Building/Equipment/M/menacing.md",
-    "3-Rules/Character Building/Equipment/M/memory-palace.md",
-    "3-Rules/Character Building/Equipment/M/memory-guitar.md",
-    "3-Rules/Character Building/Equipment/M/memoir-map.md",
-    "3-Rules/Character Building/Equipment/M/medusas-scream-(greater).md",
-    "3-Rules/Character Building/Equipment/M/medusas-scream.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "3-Rules/Character Building/Equipment/S/Shield Augmentation.md",
-    "3-Rules/Character Building/Equipment/F/fishing-tackle.md",
-    "3-Rules/Character Building/Equipment/C/cold-iron-shield-high-grade.md",
     "zz-Attachments/silver-diadem-of-insight-awakened.png",
     "zz-Attachments/silver-diadem-of-insight.jpg",
     "zz-Attachments/sword-of-aaqa.png",

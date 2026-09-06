@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "metuaks-pendant"
 aliases: "Metuak's Pendant"
 source: "Pathfinder #176: Lost Mammoth Valley"
-pg: ""
+pg: "81"
 rarity: "Unique"
 trait01: "invested"
 trait02: "magical"
@@ -29,27 +29,13 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This black quartz pendant carved in the shape of an angel's feather
-  hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning
-  Mammoths, this family heirloom anchors you to your ancestors, preserving your sense
-  of self and protecting your mind from mental manipulation and demonic possession.
-  You gain a +1 item bonus to saving throws against mental effects that would make
-  you [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Frightened|Frightened]],
-  or [[Conditions/Stupefied|Stupefied]]. This bonus increases to +2 if the source
-  of the effect is a fiend.  * * *  **Activate** `pf2:r`  **Frequency** once per hour\
-  \  **Trigger** You succeed or critically succeed at a saving throw against a mental
-  effect that would make you confused, controlled, frightened, or stupefied  * * *\
-  \  **Effect** Empowered by your determination, your ancestors protect you and your
-  nearby allies. For 1 minute, you and each of your allies within 30 feet gains a
-  +1 status bonus to saving throws against mental effects that would make you confused,
-  controlled, frightened, or stupefied.  [[Equipment Effects/Effect_ Metuak's Pendant|Effect:
-  Metuak's Pendant]]"
-powerTitle1:
-actionEconomy1:
+description: "This black quartz pendant carved in the shape of an angel's feather hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning Mammoths, this family heirloom anchors you to your ancestors, preserving your sense of self and protecting your mind from mental manipulation and demonic possession. You gain a +1 item bonus to saving throws against mental effects that would make you [[Confused]], [[Controlled]], [[Frightened]], or [[Stupefied]]. This bonus increases to +2 if the source of the effect is a fiend."
+powerTitle1: "Effect"
+actionEconomy1: "`pf2:r`"
 type1:
-frequency1:
-trigger1:
-mechanics1:
+frequency1: "once per hour"
+trigger1: "You succeed or critically succeed at a saving throw against a mental effect that would make you confused, controlled, frightened, or stupefied."
+mechanics1: "Empowered by your determination, your ancestors protect you and your nearby allies. For 1 minute, you and each of your allies within 30 feet gains a +1 status bonus to saving throws against mental effects that would make you confused, controlled, frightened, or stupefied."
 powerTitle2:
 actionEconomy2:
 type2:
@@ -91,3 +77,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

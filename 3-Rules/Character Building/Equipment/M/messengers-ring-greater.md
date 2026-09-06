@@ -7,10 +7,10 @@ cssclasses:
   - h-line
   - pf2e-item-base
 notetype: pf2e-item
-name: "messengers-ring-(greater)"
+name: "messengers-ring-greater"
 aliases: "Messenger's Ring (Greater)"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "292"
 rarity: ""
 trait01: "invested"
 trait02: "magical"
@@ -29,28 +29,19 @@ invest:
 usage: "worn"
 license: "ORC"
 identify:
-description: "This silver signet ring changes to match the insignia of a lord or organization
-  you serve (or your own face, if you serve no one else). It grants you a +3 item
-  bonus to Diplomacy checks and lets you cast [[Spells/Message|Message]] as an arcane
-  innate spell at will.  * * *  **Activate—Dispatch Messenger** 1 minute (concentrate)\
-  \  **Frequency** once per day  * * *  **Effect** The ring casts [[Spells/Animal
-  Messenger|Animal Messenger]] to your specification. The animal is a magical creature
-  that springs from the ring, and its appearance suits the iconography or heraldry
-  of the lord or organization represented by the ring.  * * *  **Activate—Sending**
-  `pf2:3` command  **Frequency** once per hour  * * *  **Effect** The ring casts [[Spells/Sending|Sending]]
-  to your specifications."
-powerTitle1:
-actionEconomy1:
-type1:
-frequency1:
+description: "This silver signet ring changes to match the insignia of a lord or organization you serve (or your own face, if you serve no one else). It grants you a +3 item bonus to [[Skills#Diplomacy|Diplomacy]] checks and lets you cast [[Message]] as an arcane innate spell at will."
+powerTitle1: "Dispatch Messenger"
+actionEconomy1: "1 minute"
+type1: "([[concentrate]])"
+frequency1: "once per day"
 trigger1:
-mechanics1:
-powerTitle2:
-actionEconomy2:
-type2:
-frequency2:
+mechanics1: "The ring casts [[Animal Messenger]] to your specification. The animal is a magical creature that springs from the ring, and its appearance suits the iconography or heraldry of the lord or organization represented by the ring."
+powerTitle2: "Sending"
+actionEconomy2: "`pf2:3`"
+type2: "([[Command]])"
+frequency2: "once per hour"
 trigger2:
-mechanics2: "**Secondary Effect** "
+mechanics2: "The ring casts [[Sending]] to your specifications."
 craft:
 
 #========================================================#
