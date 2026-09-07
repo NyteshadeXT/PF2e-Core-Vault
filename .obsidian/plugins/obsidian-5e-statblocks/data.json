@@ -1256,6 +1256,117 @@
         "mtime": 1777482740872,
         "path": "3-Rules/Bestiaries/Uniques/Z/Zyrxog.md"
       }
+    ],
+    [
+      "Weak Captain Of The Guard",
+      {
+        "columns": 2,
+        "forcecolumns": true,
+        "layout": "Basic Pathfinder 2e Layout",
+        "source": "Pathfinder NPC Core",
+        "name": "Weak Captain Of The Guard",
+        "level": "Creature 5",
+        "alignment": "",
+        "size": "Medium",
+        "trait_01": "<STATBLOCK-WIKI-LINK>human<STATBLOCK-WIKI-LINK>",
+        "trait_02": "<STATBLOCK-WIKI-LINK>humanoid<STATBLOCK-WIKI-LINK>",
+        "modifier": 15,
+        "perception": [
+          {
+            "name": "Perception",
+            "desc": "+13; "
+          }
+        ],
+        "languages": "Common",
+        "skills": [
+          {
+            "name": "Skills",
+            "desc": "Athletics: +13, Diplomacy: +9, Intimidation: +11, Society: +8, Legal Lore: +10, Warfare Lore: +6"
+          }
+        ],
+        "abilityMods": [
+          5,
+          0,
+          2,
+          0,
+          3,
+          3
+        ],
+        "speed": "20 feet",
+        "sourcebook": "_Pathfinder NPC Core_",
+        "ac": 22,
+        "armorclass": [
+          {
+            "name": "AC",
+            "desc": "22 (26 with shield raised); __Fort__ +12, __Ref__ +10, __Will__ +13"
+          }
+        ],
+        "hp": 75,
+        "health": [
+          {
+            "name": ""
+          },
+          {
+            "name": "HP",
+            "desc": "75"
+          }
+        ],
+        "abilities_top": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Items",
+            "desc": "<STATBLOCK-WIKI-LINK>Equipment/Crossbow|Crossbow<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Dagger|Dagger<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Longsword|+1 Longsword<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Steel Shield|Steel Shield<STATBLOCK-WIKI-LINK>, <STATBLOCK-WIKI-LINK>Equipment/Full Plate|Full Plate<STATBLOCK-WIKI-LINK>, 20x <STATBLOCK-WIKI-LINK>Equipment/Bolts|Bolts<STATBLOCK-WIKI-LINK>"
+          }
+        ],
+        "abilities_mid": [
+          {
+            "name": ""
+          },
+          {
+            "name": "Aura of Command",
+            "desc": " (aura,emotion,mental) 30 feet. The captain of the guard bolsters lower-level guards under their command, granting them a +1 status bonus to their attack rolls and a +2 status bonus to their Will saves.\n\n<STATBLOCK-WIKI-LINK>Bestiary Effects/Effect_ Under Command|Effect: Under Command<STATBLOCK-WIKI-LINK>\n\n<STATBLOCK-WIKI-LINK>Bestiary Effects/Effect_ Aura of Command|Effect: Aura of Command<STATBLOCK-WIKI-LINK>"
+          },
+          {
+            "name": "Bravery",
+            "desc": "  When the captain of the guard rolls a success on a Will save against a fear effect, they get a critical success instead. In addition, any time they gain the <STATBLOCK-WIKI-LINK>Conditions/Frightened|Frightened<STATBLOCK-WIKI-LINK> condition, reduce its value by 1."
+          },
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Bestiary Ability Glossary/Reactive Strike|Reactive Strike<STATBLOCK-WIKI-LINK>",
+            "desc": "`pf2:r`  **Trigger** A creature within the monster's reach uses a manipulate action or a move action, makes a ranged attack, or leaves a square during a move action it's using.\n* * *\n\n**Effect** The monster attempts a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a manipulate action, the monster disrupts that action. This Strike doesn't count toward the monster's multiple attack penalty, and its multiple attack penalty doesn't apply to this Strike."
+          },
+          {
+            "name": "<STATBLOCK-WIKI-LINK>Bestiary Ability Glossary/Shield Block|Shield Block<STATBLOCK-WIKI-LINK>",
+            "desc": "`pf2:r`  **Trigger** The monster has its shield raised and takes damage from a physical attack.\n* * *\n\n**Effect** The monster snaps its shield into place to deflect a blow. The shield prevents the monster from taking an amount of damage up to the shield's Hardness. The monster and the shield each take any remaining damage, possibly breaking or destroying the shield."
+          },
+          {
+            "name": "Shield Warden",
+            "desc": "  When the captain has their shield raised, they can <STATBLOCK-WIKI-LINK>Bestiary Ability Glossary/Shield Block|Shield Block<STATBLOCK-WIKI-LINK> when an attack is made against an adjacent ally. If they do, the shield prevents that ally from taking damage instead of the captain."
+          }
+        ],
+        "attacks": [
+          {
+            "name": ""
+          },
+          {
+            "name": "**Melee** `pf2:1` Longsword",
+            "desc": "+18 (magical, versatile p)\n__Damage__  1d8 + 9 slashing"
+          },
+          {
+            "name": "**Melee** `pf2:1` Fist",
+            "desc": "+17 (agile, nonlethal, unarmed)\n__Damage__  1d4 + 9 bludgeoning"
+          },
+          {
+            "name": "**Ranged** `pf2:1` Crossbow",
+            "desc": "+12 (range increment 120 feet, reload 1)\n__Damage__  1d8 + 4 piercing"
+          },
+          {
+            "name": "Shielded Advance",
+            "desc": "`pf2:1`  **Requirements** The captain of the guard has their shield raised\n* * *\n\n**Effect** The captain of the guard presses forward, using their shield to push back foes. The captain Strides and Shoves, in either order. The multiple attack penalty doesn't apply to this <STATBLOCK-WIKI-LINK>Actions/Shove|Shove<STATBLOCK-WIKI-LINK>, though the Shove does count toward the captain's multiple attack penalty."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {

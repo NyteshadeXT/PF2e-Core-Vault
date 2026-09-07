@@ -21,13 +21,18 @@
     "scales": {},
     "customUnitPxPerUnit": {},
     "travelTimePresetIds": [],
-    "travelDaysEnabled": false
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
   },
   "pinSizeOverrides": {},
   "grids": [],
   "panClamp": true,
   "drawLayers": [],
   "drawings": [],
-  "secondScreen": {},
+  "secondScreen": {
+    "showGrids": true,
+    "notePath": "ZoomMap/SecondScreen/map-113-screen.md",
+    "markersPath": "ZoomMap/SecondScreen/map-113-screen.markers.json"
+  },
   "textLayers": []
 }

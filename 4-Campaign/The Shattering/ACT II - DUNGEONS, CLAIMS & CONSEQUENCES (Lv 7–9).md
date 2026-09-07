@@ -40,8 +40,6 @@ adventure_level: 7th to 9th
 > **Status** | `VIEW[{adventure_status}]` |
 > **Adventure Level** | `VIEW[{adventure_level}]` |
 
-# **`=this.file.name`**
-
 > [!metadata|quests]- Quests
 > ```dataview
 > TABLE without id file.link AS "Name", join(aliases, ", ") AS Aliases, quicknote AS Notes, status AS Status

@@ -1,0 +1,50 @@
+{
+  "size": {
+    "w": 3029,
+    "h": 3377
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "zz-Attachments/springrun-map.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz-Attachments/springrun-map.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true,
+    "notePath": "ZoomMap/SecondScreen/map-113-screen.md",
+    "markersPath": "ZoomMap/SecondScreen/map-113-screen.markers.json",
+    "markerLayerIds": [
+      "default"
+    ],
+    "drawLayerIds": [],
+    "textLayerIds": [],
+    "revealedMarkerIds": [],
+    "view": {
+      "activeBase": "zz-Attachments/springrun-map.png",
+      "scale": 0.20490403660952144,
+      "tx": -138,
+      "ty": 0
+    }
+  },
+  "textLayers": []
+}

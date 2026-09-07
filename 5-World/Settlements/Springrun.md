@@ -118,12 +118,12 @@ export:
 > # markers: Assets/Map.jpg.markers.json
 > 
 > # Map view limits
-> minZoom: 0.3
+> minZoom: 0.1
 > maxZoom: 8
 > 
 > # Size & interactivity
 > height: 1040px
-> width: 75%
+> width: 80%
 > resizable: true
 > resizeHandle: native     # left | right | both | native
 > render: canvas           # or: dom

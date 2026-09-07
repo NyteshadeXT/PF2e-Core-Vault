@@ -1,9 +1,9 @@
 {
   "autoOpenOnSend": true,
-  "savedWindowX": 1536,
+  "savedWindowX": 3456,
   "savedWindowY": -216,
-  "savedWindowWidth": 1920,
-  "savedWindowHeight": 1032,
+  "savedWindowWidth": 640,
+  "savedWindowHeight": 672,
   "fogMaskFolder": "ZoomMap/PlayerScreen/Fog",
   "fogMaskFiles": {}
 }

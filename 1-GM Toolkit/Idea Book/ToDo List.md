@@ -49,6 +49,7 @@
 - Eye of the Mantis
 - Navaratna of the Solar Ruby
 - Skarja’s Heartstone
+- Check music instruments for the right shop. Lots coming up in Leatherworker.
 
 # World Things
 - [ ] What are the "Iron Pact" relics potentially found in [[The Gilded Gauntlet]]?

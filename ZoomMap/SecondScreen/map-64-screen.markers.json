@@ -1,0 +1,50 @@
+{
+  "size": {
+    "w": 1024,
+    "h": 559
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "zz-Attachments/shattered-hearth-inn.png"
+  ],
+  "overlays": [],
+  "activeBase": "zz-Attachments/shattered-hearth-inn.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true,
+    "notePath": "ZoomMap/SecondScreen/map-64-screen.md",
+    "markersPath": "ZoomMap/SecondScreen/map-64-screen.markers.json",
+    "markerLayerIds": [
+      "default"
+    ],
+    "drawLayerIds": [],
+    "textLayerIds": [],
+    "revealedMarkerIds": [],
+    "view": {
+      "activeBase": "zz-Attachments/shattered-hearth-inn.png",
+      "scale": 0.48986319848253956,
+      "tx": -33,
+      "ty": 97
+    }
+  },
+  "textLayers": []
+}

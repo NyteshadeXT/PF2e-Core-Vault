@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
+                "file": "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Champions Belt"
+              "title": "Shattered Hearth Inn"
             }
           },
           {
@@ -28,11 +28,28 @@
               "type": "markdown",
               "state": {
                 "file": "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9)"
+            }
+          },
+          {
+            "id": "e75ca258bb65b13c",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "ttrpg-tools-screen-controller",
+              "state": {
+                "payload": {
+                  "kind": "image",
+                  "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
+                  "filePath": "zz-Attachments/kaelen-vane.png"
+                }
+              },
+              "icon": "layout-dashboard",
+              "title": "Player screen controller"
             }
           },
           {
@@ -41,12 +58,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard-Weak.md",
+                "file": "5-World/Settlements/Springrun.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Captain Of The Guard-Weak"
+              "title": "Springrun"
             }
           },
           {
@@ -55,12 +72,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/DC Calculator.md",
-                "mode": "preview",
+                "file": "5-World/Points of Interest/Springrun/Pioneers Forge.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DC Calculator"
+              "title": "Pioneers Forge"
             }
           },
           {
@@ -89,6 +106,20 @@
               },
               "icon": "lucide-file",
               "title": "Chimeracrafting"
+            }
+          },
+          {
+            "id": "ce95e50fbaca5484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9)"
             }
           }
         ],
@@ -248,25 +279,6 @@
         "currentTab": 5
       },
       {
-        "id": "29c4ead83d8a8e86",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0c0fbb6305864d99",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_0ba8f83a28f8",
-                "creatureName": "Ulgurstasta"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
         "id": "8ba3a7e1685f7fd5",
         "type": "tabs",
         "children": [
@@ -276,8 +288,8 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_ea8a69b8ca4a",
-                "creatureName": "Relief Golom"
+                "creatureId": "ID_c8582b79993b",
+                "creatureName": "Watch Officer"
               },
               "icon": "initiative-tracker-creature-view",
               "title": "Combatant"
@@ -317,34 +329,109 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
+  "floating": {
+    "id": "2ec8b5fde3eaac02",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ef3414ef4c974c1",
+        "type": "window",
+        "children": [
+          {
+            "id": "3324992badf27098",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "958c3395213440b0",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-player-view",
+                  "state": {},
+                  "icon": "lucide-view",
+                  "title": "Player View"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 4096,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "65221a1206d415a7",
+        "type": "window",
+        "children": [
+          {
+            "id": "aafb52b3700be117",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "be12e17bb302cb92",
+                "type": "leaf",
+                "state": {
+                  "type": "ttrpg-tools-screen-view",
+                  "state": {
+                    "payload": {
+                      "kind": "image",
+                      "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
+                      "filePath": "zz-Attachments/kaelen-vane.png"
+                    }
+                  },
+                  "icon": "monitor-up",
+                  "title": "Screen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3456,
+        "y": -216,
+        "width": 640,
+        "height": 672,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "1bfdb293577e8084",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard.md",
-    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard-Weak.md",
-    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
+    "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
+    "5-World/Points of Interest/Springrun/Pioneers Forge.md",
+    "1-GM Toolkit/Idea Book/ToDo List.md",
+    "1-GM Toolkit/Idea Book/The Seer's Fate - Shop Example.md",
+    "1-GM Toolkit/DC Calculator.md",
+    "5-World/Points of Interest/Springrun/The Resonant Spire.md",
+    "5-World/NPCs/Springrun/Talandra Bael.md",
+    "zz-Attachments/talandra-bael.png",
+    "5-World/NPCs/Springrun/Kiri.md",
     "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
+    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
+    "5-World/Settlements/Springrun.md",
+    "ZoomMap/SecondScreen/map-64-screen.md",
+    "ZoomMap/SecondScreen/map-64-screen.markers.json",
+    "4-Campaign/Age of Worms/The Champions Belt.md",
+    "ZoomMap/SecondScreen/map-113-screen.md",
+    "ZoomMap/SecondScreen/map-113-screen.markers.json",
+    "ZoomMap/SecondScreen",
+    "ZoomMap",
+    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard-Weak.md",
+    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard.md",
     "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-major.md",
     "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-greater.md",
     "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-moderate.md",
     "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-lesser.md",
-    "1-GM Toolkit/DC Calculator.md",
     "zz-Templates/Markdown/Insert Item.md",
     "3-Rules/Character Building/Equipment/B/bloodeye-coffee.md",
     "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
     "3-Rules/Character Building/Equipment/A/arbor-wine.md",
     "3-Rules/Character Building/Equipment/A/arbor-wine-aged.md",
-    "3-Rules/Character Building/Equipment/H/harrow-deck-simple.md",
-    "3-Rules/Character Building/Equipment/D/depth-gauge.md",
-    "3-Rules/Character Building/Equipment/D/depth-charge-i.md",
-    "3-Rules/Character Building/Equipment/K/keep-stone.md",
-    "3-Rules/Character Building/Equipment/M/meteor-hammer.md",
-    "3-Rules/Character Building/Equipment/M/metalmist-sphere-moderate.md",
-    "3-Rules/Character Building/Equipment/M/metalmist-sphere-greater.md",
-    "3-Rules/Character Building/Equipment/M/medusas-scream-greater.md",
-    "3-Rules/Character Building/Equipment/M/memoir-map.md",
-    "3-Rules/Character Building/Equipment/M/medusas-scream.md",
-    "3-Rules/Character Building/Equipment/M/medusa-armor.md",
     "zz-Attachments/silver-diadem-of-insight-awakened.png",
     "zz-Attachments/silver-diadem-of-insight.jpg",
     "zz-Attachments/sword-of-aaqa.png",
@@ -357,13 +444,8 @@
     "3-Rules/Character Building/Equipment/Homebrew/G",
     "zz-Attachments/gathering-winds-mausoleum.png",
     "zz-Attachments/oculus-demon.png",
-    "zz-Attachments/gathering-winds-rising-path.png",
     "gathering-winds-true-tomb-map.png.markers.json",
     "gathering-winds-true-tomb.png.markers.json",
-    "gathering-winds-star-chamber-map.png.markers.json",
-    "gathering-winds-star-chamber.png.markers.json",
-    "gathering-winds-falling-river.png.markers.json",
-    "3-Rules/Hazards/Homebrew/T",
-    "3-Rules/Hazards/Untitled"
+    "gathering-winds-star-chamber-map.png.markers.json"
   ]
 }
