@@ -396,7 +396,7 @@ tags:
 | 2d4 [[Dragon Teeth (Black or Copper)\|Black Dragon Teeth]] |
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 1d2 Sections of [[Dragon Wing\|Black Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Dragonhide]] |
 | 1d6 Vials of [[impure-acid\|Impure Acid]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Dragon Blood]] |
@@ -411,7 +411,7 @@ tags:
 | 3d4 [[Dragon Teeth (Black or Copper)\|Black Dragon Teeth]] |
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 1d2 Sections of [[Dragon Wing\|Black Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Dragonhide]] |
 | 1d4 Vials of [[Dragon Blood (Adult)\|Adult Dragon Blood]] |
 | 1 Vial of [[Corruption Essence\|Corruption Essence]] |
 | 2d8 Vials of [[impure-acid\|Impure Acid]] |
@@ -427,7 +427,7 @@ tags:
 | 4d4 [[Dragon Teeth (Black or Copper)\|Black Dragon Teeth]] |
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d2 Sections of [[Dragon Wing\|Black Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Dragonhide]] |
 | 2d4 Vials of [[Corruption Essence\|Corruption Essence]] |
 | 4d8 Vials of [[impure-acid\|Impure Acid]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -444,7 +444,7 @@ tags:
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d4 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 1d2 Sections of [[Dragon Wing\|Blue Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Blue Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Blue Dragonhide]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 [[Dragon Blood (Young)\|Young Blue Dragon Blood]] |
 
@@ -459,7 +459,7 @@ tags:
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d8 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 2d2 Sections of [[Dragon Wing\|Blue Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Blue Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Blue Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Blue Dragon Blood]] |
 | 2d4 Vials of [[Illusion Dust\|Illusion Dust]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -475,7 +475,7 @@ tags:
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 4d8 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 2d2 Sections of [[Dragon Wing\|Blue Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|Blue Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Blue Dragonhide]] |
 | 4d4 Vials of [[Illusion Dust\|Illusion Dust]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d4 [[Dragon Blood (Wyrm)\|Blue Wyrm Dragon Blood]] |
@@ -490,7 +490,7 @@ tags:
 | 1d2 [[Dragon Fangs (Green)\|Green Dragon Fangs]] |
 | 2d4 [[Dragon Teeth (Green)\|Green Dragon Teeth]] |
 | 1d2 Sections of [[Dragon Wing\|Green Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Green Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Green Dragonhide]] |
 | 1d2 Vials of [[Poison Base\|Poison Base]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Green Dragon Blood]] |
@@ -506,7 +506,7 @@ tags:
 | 1d3+1 [[Dragon Sole Patches (Green)\|Dragon Sole Patches (Green)]] |
 | 3d4 [[Dragon Teeth (Green)\|Green Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Green Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Green Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Green Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Green Dragon Blood]] |
 | 1d4 Vials of [[Poison Base\|Poison Base]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -522,7 +522,7 @@ tags:
 | 2d3+2 [[Dragon Sole Patches (Green)\|Dragon Sole Patches (Green)]] |
 | 4d4 [[Dragon Teeth (Green)\|Green Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Green Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|Green Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Green Dragonhide]] |
 | 2d6 Vials of [[Poison Base\|Poison Base]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d4 Vials of [[Dragon Blood (Wyrm)\|Green Wyrm Dragon Blood]] |
@@ -537,7 +537,7 @@ tags:
 | 1d2 [[Dragon Fangs (Brass, Gold, or Red)\|Red Dragon Fangs]] |
 | 2d4 [[Dragon Teeth (Brass, Gold, or Red)\|Red Dragon Teeth]] |
 | 1d2 Sections of [[Dragon Wing\|Red Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Red Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Red Dragonhide]] |
 | 2d4 Vials of [[Molten Flame\|Molten Flame]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Red Dragon Blood]] |
@@ -552,7 +552,7 @@ tags:
 | 1d2 [[Dragon Fangs (Brass, Gold, or Red)\|Red Dragon Fangs]] |
 | 4d4 [[Dragon Teeth (Brass, Gold, or Red)\|Red Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Red Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Red Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Red Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Young Red Dragon Blood]] |
 | 2d10 Vials of [[Molten Flame\|Molten Flame]] |
 | 2d2 Vials of [[Pure Flame Essence\|Pure Flame Essence]] |
@@ -568,7 +568,7 @@ tags:
 | 1d2 [[Reflecting Eyes\|Red Dragon Eyes]] |
 | 4d6 [[Dragon Teeth (Brass, Gold, or Red)\|Red Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Red Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|Red Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Red Dragonhide]] |
 | 4d10 Vials of [[Molten Flame\|Molten Flame]] |
 | 2d3 Vials of [[Pure Flame Essence\|Pure Flame Essence]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -582,7 +582,7 @@ tags:
 | --- |
 | 2d4 Pouches of [[frost-essence\|Frost Essence]] |
 | 1d2 Sections of [[Dragon Wing\|White Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|White Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|White Dragonhide]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young White Dragon Blood]] |
 | 1d2 [[Reflecting Eyes\|White Dragon Eyes]] |
@@ -597,7 +597,7 @@ tags:
 | --- |
 | 2d8 Pouches of [[frost-essence\|Frost Essence]] |
 | 1d2 Sections of [[Dragon Wing\|White Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|White Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|White Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult White Dragon Blood]] |
 | 1d3 Vials of [[Pure Frost Crystals\|Pure Frost Crystals]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -615,7 +615,7 @@ tags:
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 4d8 Pouches of [[frost-essence\|Frost Essence]] |
 | 2d2 Sections of [[Dragon Wing\|White Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|White Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|White Dragonhide]] |
 | 2d3 Vials of [[Pure Frost Crystals\|Pure Frost Crystals]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d4 [[Dragon Blood (Wyrm)\|White Wyrm Dragon Blood]] |
@@ -634,7 +634,7 @@ tags:
 | 2d4 [[Dragon Teeth (Brass, Gold, or Red)\|Brass Dragon Teeth]] |
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 1d2 Sections of [[Dragon Wing\|Brass Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Brass Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Brass Dragonhide]] |
 | 2d4 Vials of [[Molten Flame\|Molten Flame]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 [[Dragon Blood (Young)\|Young Brass Dragon Blood]] |
@@ -649,7 +649,7 @@ tags:
 | 3d4 [[Dragon Teeth (Brass, Gold, or Red)\|Brass Dragon Teeth]] |
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 1d2 Sections of [[Dragon Wing\|Brass Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Brass Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Brass Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Brass Dragon Blood]] |
 | 2d6 Vials of [[Molten Flame\|Molten Flame]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -664,7 +664,7 @@ tags:
 | 4d4 [[Dragon Teeth (Brass, Gold, or Red)\|Brass Dragon Teeth]] |
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d2 Sections of [[Dragon Wing\|Brass Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Brass Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Brass Dragonhide]] |
 | 3d8 Vials of [[Molten Flame\|Molten Flame]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d2 Vials of [[Sleep Gas\|Sleep Gas]] |
@@ -681,7 +681,7 @@ tags:
 | 2d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d4 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 1d2 Sections of [[Dragon Wing\|Bronze Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Bronze Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Bronze Dragonhide]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Bronze Dragon Blood]] |
 
@@ -696,7 +696,7 @@ tags:
 | 4d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 2d8 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 2d2 Sections of [[Dragon Wing\|Bronze Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Bronze Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Bronze Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Bronze Dragon Blood]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Swift Water\|Swift Water]] |
@@ -712,7 +712,7 @@ tags:
 | 10d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 4d8 Pouches of [[Lightning Concentrate\|Lightning Concentrate]] |
 | 2d4 Sections of [[Dragon Wing\|Bronze Dragon Wing]] |
-| 4d4 Sections of [[Dragonhide\|Bronze Dragonhide]] |
+| 4d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Bronze Dragonhide]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d4 Vials of [[Swift Water\|Swift Water]] |
 | 2d4 Vials of [[Dragon Blood (Wyrm)\|Bronze Wyrm Dragon Blood]] |
@@ -727,7 +727,7 @@ tags:
 | 1d2 [[Dragon Fangs (Black or Copper)\|Copper Dragon Fangs]] |
 | 2d4 [[Dragon Teeth (Black or Copper)\|Copper Dragon Teeth]] |
 | 1d2 Sections of [[Dragon Wing\|Copper Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Copper Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Copper Dragonhide]] |
 | 2d4 Vials of [[impure-acid\|Impure Acid]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Copper Dragon Blood]] |
@@ -742,7 +742,7 @@ tags:
 | 1d2 [[Dragon Fangs (Black or Copper)\|Copper Dragon Fangs]] |
 | 3d4 [[Dragon Teeth (Black or Copper)\|Copper Dragon Teeth]] |
 | 1d2 Sections of [[Dragon Wing\|Copper Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Copper Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Copper Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Copper Dragon Blood]] |
 | 2d8 Vials of [[impure-acid\|Impure Acid]] |
 | 1d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -758,7 +758,7 @@ tags:
 | 1d2 [[Reflecting Eyes\|Copper Dragon Eyes]] |
 | 4d4 [[Dragon Teeth (Black or Copper)\|Copper Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Copper Dragon Wing]] |
-| 3d4 Sections of [[Dragonhide\|Copper Dragonhide]] |
+| 3d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Copper Dragonhide]] |
 | 4d8 Vials of [[impure-acid\|Impure Acid]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 2d4 Vials of [[Dragon Blood (Wyrm)\|Copper Wyrm Dragon Blood]] |
@@ -773,7 +773,7 @@ tags:
 | 1d2 [[Dragon Fangs (Brass, Gold, or Red)\|Gold Dragon Fangs]] |
 | 2d4 [[Dragon Teeth (Brass, Gold, or Red)\|Gold Dragon Teeth]] |
 | 1d2 Sections of [[Dragon Wing\|Gold Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Gold Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Gold Dragonhide]] |
 | 2d4 Vials of [[Molten Flame\|Molten Flame]] |
 | 1d2 Vials of [[Shifter Solution\|Shifter Solution]] |
 | 1d4 Vials of [[Dragon Blood (Young)\|Young Gold Dragon Blood]] |
@@ -788,7 +788,7 @@ tags:
 | 1d2 [[Dragon Fangs (Brass, Gold, or Red)\|Gold Dragon Fangs]] |
 | 4d4 [[Dragon Teeth (Brass, Gold, or Red)\|Gold Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Gold Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Gold Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Gold Dragonhide]] |
 | 1d6 Vials of [[Dragon Blood (Adult)\|Adult Gold Dragon Blood]] |
 | 2d10 Vials of [[Molten Flame\|Molten Flame]] |
 | 2d2 Vials of [[Pure Flame Essence\|Pure Flame Essence]] |
@@ -804,7 +804,7 @@ tags:
 | 1d2 [[Reflecting Eyes\|Gold Dragon Eyes]] |
 | 4d6 [[Dragon Teeth (Brass, Gold, or Red)\|Gold Dragon Teeth]] |
 | 2d2 Sections of [[Dragon Wing\|Gold Dragon Wing]] |
-| 4d4 Sections of [[Dragonhide\|Gold Dragonhide]] |
+| 4d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Gold Dragonhide]] |
 | 4d10 Vials of [[Molten Flame\|Molten Flame]] |
 | 2d4 Vials of [[Pure Flame Essence\|Pure Flame Essence]] |
 | 2d4 Vials of [[Shifter Solution\|Shifter Solution]] |
@@ -819,7 +819,7 @@ tags:
 | --- |
 | 2d4 Pouches of [[frost-essence\|Frost Essence]] |
 | 1d2 Sections of [[Dragon Wing\|Silver Dragon Wing]] |
-| 1d4 Sections of [[Dragonhide\|Silver Dragonhide]] |
+| 1d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Silver Dragonhide]] |
 | 1d2 [[Reflecting Eyes\|Silver Dragon Eyes]] |
 | 1d2 [[Dragon Fangs (Silver or White)\|Silver Dragon Fangs]] |
 | 2d4 [[Dragon Teeth (Silver or White)\|Silver Dragon Teeth]] |
@@ -834,7 +834,7 @@ tags:
 | --- |
 | 2d8 Pouches of [[frost-essence\|Frost Essence]] |
 | 2d2 Sections of [[Dragon Wing\|Silver Dragon Wing]] |
-| 2d4 Sections of [[Dragonhide\|Silver Dragonhide]] |
+| 2d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Silver Dragonhide]] |
 | 1d2 [[Reflecting Eyes\|Silver Dragon Eyes]] |
 | 1d2 [[Dragon Fangs (Silver or White)\|Silver Dragon Fangs]] |
 | 3d4 [[Dragon Teeth (Silver or White)\|Silver Dragon Teeth]] |
@@ -851,7 +851,7 @@ tags:
 | 10d6 Bulk of [[raw-meat\|Raw Meat]] |
 | 4d8 Pouches of [[frost-essence\|Frost Essence]] |
 | 2d4 Sections of [[Dragon Wing\|Silver Dragon Wing]] |
-| 4d4 Sections of [[Dragonhide\|Silver Dragonhide]] |
+| 4d4 Sections of [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/D/Dragonhide\|Silver Dragonhide]] |
 | 1d2 [[Reflecting Eyes\|Silver Dragon Eyes]] |
 | 4d4 [[Dragon Teeth (Silver or White)\|Silver Dragon Teeth]] |
 | 2d3 Vials of [[Pure Frost Crystals\|Pure Frost Crystals]] |

@@ -29,7 +29,7 @@ invest:
 usage: "worn"
 license: "ORC"
 identify: ""
-description: "Ordinary clothing is functional with basic tailoring, such as peasant garb, monk's robes, or work clothes. More expensive finery or clothes for specific climes cost more."
+description: "Cold weather clothing allows you to negate the damage from severe environmental cold and reduce the damage from extreme cold to that of severe cold."
 activate: ""
 craft: 
 destruction: 

@@ -653,7 +653,7 @@ Many of the following NPCs have a set of armor as a part of their loot entry. Th
 
   
 
-| 1 [[Bandolier\|Bandolier]] |
+| 1 [[3-Rules/Character Building/Equipment/Harvest Compendium Equipment/B/Bandolier\|Bandolier]] |
 | --- |
 | 1 Broken _+1_ [[Equipment/Sickle\|Sickle]] |
 | 1 [[Equipment/Alchemist's Toolkit\|Alchemist's Toolkit]] |

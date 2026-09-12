@@ -131,7 +131,7 @@ The council is prepared to offer meaningful support despite Springrun’s limite
 Edrik Hollowmere explains that while Springrun cannot promise the wealth of a major city-state, the council understands the value of competent adventurers and intends to compensate the party fairly for tangible results.
 
 The council’s support includes the following:
-- basic provisions sufficient for several days of wilderness travel, including [[Rations|preserved rations]] , [[Waterskin|waterskins]], [[lantern-hooded|hooded lanterns]] fitted with low-grade crystal batteries, [[rope]] and [[climbing-kit|climbing kits]];
+- basic provisions sufficient for several days of wilderness travel, including [[Rations (1 Week)|preserved rations]] , [[Waterskin|waterskins]], [[lantern-hooded|hooded lanterns]] fitted with low-grade crystal batteries, [[Rope (50 Feet)]] and [[climbing-kit|climbing kits]];
 - copies of the settlement’s current exploration maps showing known trails, abandoned hunter camps, caravan routes, river crossings, and regions considered increasingly dangerous or unstable;
 - a writ granting temporary authority to act in the interests of Springrun beyond the settlement walls, allowing the party to question scouts, organize local guides, requisition minor aid, and speak with the council’s endorsement when dealing with traders or nearby camps.
 
@@ -932,7 +932,7 @@ This encounter should create mystery and tension. Players should initially suspe
 > The camp contains abandoned equipment. Characters who spend at least 10 minutes searching recover:
 >
 > - [ ] gp::5
-> - [ ] consumable::[[Rations|Rations]] [ilvl::0] [gp::0.5] 
+> - [ ] consumable::[[Rations (1 Week)|Rations]] [ilvl::0] [gp::0.5] 
 > - [ ] permanent::[[Bedroll|Bedroll]] [ilvl::0] [gp::0.02] 
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]
 > - [ ] consumable::[[prismatic-crystal-shard\|Prismatic Crystal Shard]] [ilvl::1] [gp::0.5]

@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "yarrow-root-bandage"
 aliases: "Yarrow-Root Bandage"
 source: "Pathfinder Lost Omens Travel Guide"
-pg: ""
+pg: "101"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
@@ -29,13 +29,8 @@ invest:
 usage: "held in one hand"
 license: "ORC"
 identify:
-description: "**Activate** [[Actions/Administer First Aid|Administer First Aid]] \
-  \ * * *  This root is often infused into bandages for life-threatening bleeding.
-  Activating the item is part of the same activity you use to Administer First Aid
-  to stop bleeding on a creature who's also dying. When you do, you can Administer
-  First Aid to stop bleeding and dying as part of the same activity with only one
-  Medicine check. However, the DC for the Medicine check is equal to the 5 + the higher
-  of the two DCs to Administer First Aid."
+activate: "[[Administer First Aid]]"
+description: "This root is often infused into bandages for life-threatening bleeding. Activating the item is part of the same activity you use to [[Administer First Aid]] to stop bleeding on a creature who's also dying. When you do, you can Administer First Aid to stop bleeding and dying as part of the same activity with only one [[Skills#Medicine|Medicine]] check. However, the DC for the Medicine check is equal to the 5 + the higher of the two DCs to Administer First Aid."
 powerTitle1:
 actionEconomy1:
 type1:
@@ -83,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

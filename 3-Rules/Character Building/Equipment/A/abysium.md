@@ -159,18 +159,41 @@ craftBase:
 [[Item Card Template]]
 ```
 
+```base
+formulas:
+  itemName: link(file, aliases)
 
-```dataview
-// change to weaponbase/armorbase/shieldbase/craftbase as needed and the update the equals as appropriate to the new typing
+properties:
+  formula.itemName:
+    displayName: "Item Name"
+  note.level:
+    displayName: Level
+  note.license:
+    displayName: License
 
-TABLE
-  aliases   AS "Aliases",
-  level     AS "Level",
-  license   AS "License"
-FROM "3-Rules/Character Building/Equipment"
-WHERE contains(craftBase, "Abysium")
-SORT level ASC
-
+views:
+  - type: table
+    name: Related Items
+    filters:
+      and:
+        - file.inFolder("3-Rules/Character Building/Equipment")
+        - or:
+            - weaponbase == this.aliases
+            - armorbase == this.aliases
+            - shieldbase == this.aliases
+            - craftbase == this.aliases
+    order:
+      - formula.itemName
+      - level
+      - license
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      formula.itemName: 300
+      note.level: 109
+      
 ```
+
 
 

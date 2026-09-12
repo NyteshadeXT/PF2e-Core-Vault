@@ -1,0 +1,83 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
+notetype: pf2e-item
+name: "yellow-musk-vial"
+aliases: "Yellow Musk Vial"
+source: "Pathfinder Bestiary 2"
+pg: "301"
+rarity: "Uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "inhaled"
+trait04: "mental"
+trait05: "poison"
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 2
+weight: L
+value: "7"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+description: "The powdered pollen from a yellow musk creeper addles the mind.\n\n**Activate** `pf2:1` Interact (Inhaled)  **Saving Throw** DC 16 Will check  **Maximum Duration** 2 rounds  **Stage 1** [[Fascinated]] by the poison cloud (1 round)  **Stage 2** [[Fascinated]] by the poison cloud, and can use no actions but to move closer to the cloud's point of origin (1 round)"
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+damage:
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

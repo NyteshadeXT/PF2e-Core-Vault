@@ -7,7 +7,7 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 name: "adamantine-object-high-grade"
-aliases: "Adamantine Object High (Standard Grade)"
+aliases: "Adamantine Object (High Grade)"
 source: "Pathfinder GM Core"
 pg: "253"
 rarity: "uncommon"

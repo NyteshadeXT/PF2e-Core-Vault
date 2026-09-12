@@ -77,6 +77,7 @@ conditionImmunity:
 #========================================================#
 weaponBase:
 armorBase:
+craftBase: "Djezet"
 
 ---
 

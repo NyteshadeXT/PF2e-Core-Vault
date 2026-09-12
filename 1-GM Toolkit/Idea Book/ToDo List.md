@@ -3,9 +3,9 @@
 - [ ] Update items to new template
 	- Currently on letter 'M'
 	- [ ] Add Vehicles? ([[Adaptable Paddleboat]])
-	- [ ] Add Djezet Alloy Mass and Ingot
-	- [ ] Add Dragonhide armor
-	- [ ] Add Duskwood Branch and Lumber
+	- [x] Add Djezet Alloy Mass and Ingot
+	- [x] Add Dragonhide armor
+	- [x] Add Duskwood Branch and Lumber
 	- [ ] Ganjay books are formula books, religious texts or spellbooks.  Need to determine how to handle this.
 	- [ ] Create a section for curses/cursed items.  [[andvaris-gift]] for an example.
 - [ ] [[volatile-hb|Volatile]] trait has broken links

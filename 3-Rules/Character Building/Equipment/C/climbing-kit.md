@@ -6,8 +6,8 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-name: "Climbing Kit"
-aliases: "climbing-kit"
+name: "climbing-kit"
+aliases: "Climbing Kit"
 source: "Pathfinder Player Core"
 pg: "287"
 rarity: ""

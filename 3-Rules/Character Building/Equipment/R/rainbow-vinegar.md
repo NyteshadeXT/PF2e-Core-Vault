@@ -1,0 +1,84 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclasses:
+  - pf2e-items
+  - h-line
+  - pf2e-item-base
+notetype: pf2e-item
+name: "rainbow-vinegar"
+aliases: "Rainbow Vinegar"
+source: "Pathfinder Lost Omens Tian Xia Character Guide"
+pg: "105"
+rarity: "Uncommon"
+trait01: "alchemical"
+trait02: "consumable"
+trait03: "elixir"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 4
+weight: L
+value: "15"
+subvalue: "gp"
+invest:
+usage: "held in one hand"
+license: "ORC"
+identify:
+activate: "`pf2:1` ([[manipulate]])"
+description: "Black swill with multicolored ribbons makes this vinegar look like an oil spill. Ingesting a dose of rainbow vinegar makes your sweat acidic and nonconductive for 10 minutes. During this time, your unarmed attacks deal an additional `dice: 1d4` acid damage, and you have resistance 10 to electricity. Vampires find this vinegar particularly harmful and take an additional `dice: 2d4` acid damage instead. Taking more than one dose of rainbow vinegar in a single day gives you weakness 5 to acid until your next daily preparations."
+powerTitle1:
+actionEconomy1:
+type1:
+frequency1:
+trigger1:
+mechanics1:
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft:
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range:
+ammoType:
+damage:
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

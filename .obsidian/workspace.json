@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f457d42deb509c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Shattered Hearth Inn"
-            }
-          },
-          {
             "id": "1bfdb293577e8084",
             "type": "leaf",
             "state": {
@@ -36,48 +22,17 @@
             }
           },
           {
-            "id": "e75ca258bb65b13c",
-            "type": "leaf",
-            "dimension": 16.666666666666668,
-            "state": {
-              "type": "ttrpg-tools-screen-controller",
-              "state": {
-                "payload": {
-                  "kind": "image",
-                  "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
-                  "filePath": "zz-Attachments/kaelen-vane.png"
-                }
-              },
-              "icon": "layout-dashboard",
-              "title": "Player screen controller"
-            }
-          },
-          {
-            "id": "a3ffc13f17ebc637",
+            "id": "ce95e50fbaca5484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5-World/Settlements/Springrun.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Springrun"
-            }
-          },
-          {
-            "id": "f9a2a56c0361fa87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5-World/Points of Interest/Springrun/Pioneers Forge.md",
+                "file": "3-Rules/Character Building/Equipment/T/thieves-toolkit-replacement-picks.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pioneers Forge"
+              "title": "thieves-toolkit-replacement-picks"
             }
           },
           {
@@ -109,17 +64,17 @@
             }
           },
           {
-            "id": "ce95e50fbaca5484",
+            "id": "9f01887795ebaae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
+                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9)"
+              "title": "ToDo List"
             }
           }
         ],
@@ -182,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 394.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -329,123 +284,53 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "floating": {
-    "id": "2ec8b5fde3eaac02",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2ef3414ef4c974c1",
-        "type": "window",
-        "children": [
-          {
-            "id": "3324992badf27098",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "958c3395213440b0",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-player-view",
-                  "state": {},
-                  "icon": "lucide-view",
-                  "title": "Player View"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 4096,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "65221a1206d415a7",
-        "type": "window",
-        "children": [
-          {
-            "id": "aafb52b3700be117",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "be12e17bb302cb92",
-                "type": "leaf",
-                "state": {
-                  "type": "ttrpg-tools-screen-view",
-                  "state": {
-                    "payload": {
-                      "kind": "image",
-                      "source": "app://617cd9714292ab4bb1b26e93c071a83c9cdd/C:/Users/kkroe/Documents/Obsidian/PF2e-Core-Vault/zz-Attachments/kaelen-vane.png?1779035200731",
-                      "filePath": "zz-Attachments/kaelen-vane.png"
-                    }
-                  },
-                  "icon": "monitor-up",
-                  "title": "Screen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3456,
-        "y": -216,
-        "width": 640,
-        "height": 672,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "1bfdb293577e8084",
+  "active": "ce95e50fbaca5484",
   "lastOpenFiles": [
-    "5-World/Points of Interest/Springrun/Canopy Outfitter.md",
-    "5-World/Points of Interest/Springrun/Shattered Hearth Inn.md",
-    "5-World/Points of Interest/Springrun/Pioneers Forge.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "1-GM Toolkit/Idea Book/The Seer's Fate - Shop Example.md",
-    "1-GM Toolkit/DC Calculator.md",
-    "5-World/Points of Interest/Springrun/The Resonant Spire.md",
-    "5-World/NPCs/Springrun/Talandra Bael.md",
+    "3-Rules/Character Building/Equipment/T/thieves-toolkit-infiltrator.md",
+    "3-Rules/Character Building/Equipment/T/thieves-toolkit-replacement-picks.md",
+    "3-Rules/Character Building/Equipment/T/thieves-toolkit.md",
+    "3-Rules/Character Building/Equipment/T/tent-four-person.md",
+    "3-Rules/Character Building/Equipment/T/tent-pavilion.md",
+    "3-Rules/Character Building/Equipment/T/tent-pup.md",
+    "3-Rules/Character Building/Equipment/C/clothing-tear-away.md",
+    "zz-Templates/Markdown/Insert Item.md",
+    "3-Rules/Character Building/Equipment/T/tank-traveling.md",
+    "3-Rules/Character Building/Equipment/T/tank-stationary.md",
+    "3-Rules/Character Building/Equipment/T/tack.md",
+    "3-Rules/Character Building/Equipment/S/snare-kit-(specialist).md",
+    "3-Rules/Character Building/Equipment/S/Sling Bullets.md",
+    "3-Rules/Character Building/Equipment/S/sheath.md",
+    "3-Rules/Character Building/Equipment/S/satchel.md",
+    "3-Rules/Character Building/Equipment/R/Rope (50 Feet).md",
+    "3-Rules/Character Building/Equipment/R/Rations (1 Week).md",
+    "3-Rules/Character Building/Equipment/Q/quiver.md",
+    "3-Rules/Character Building/Equipment/P/pole-ten-foot.md",
+    "3-Rules/Character Building/Equipment/P/polar-travel-kit.md",
+    "3-Rules/Character Building/Equipment/C/climbing-kit.md",
+    "3-Rules/Character Building/Equipment/P/polarizing-mace.md",
+    "3-Rules/Character Building/Equipment/O/Oil (1 pint).md",
+    "3-Rules/Character Building/Equipment/O/ogre-spider-filament.md",
+    "3-Rules/Character Building/Equipment/O/oil-of-animation.md",
+    "3-Rules/Character Building/Equipment/M/material-component-pouch.md",
+    "zz-Attachments/levithans-prism.png",
+    "zz-Attachments/image.png",
+    "3-Rules/Character Building/Equipment/Homebrew/I",
+    "3-Rules/Character Building/Equipment/Homebrew/H",
+    "zz-Attachments/imbued-grave-dirt.png",
+    "zz-Attachments/happy-healper.png",
     "zz-Attachments/talandra-bael.png",
-    "5-World/NPCs/Springrun/Kiri.md",
-    "4-Campaign/The Shattering/ACT I - FIRST CONTACT.md",
-    "4-Campaign/The Shattering/ACT II - DUNGEONS, CLAIMS & CONSEQUENCES (Lv 7–9).md",
-    "5-World/Settlements/Springrun.md",
-    "ZoomMap/SecondScreen/map-64-screen.md",
     "ZoomMap/SecondScreen/map-64-screen.markers.json",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "ZoomMap/SecondScreen/map-113-screen.md",
     "ZoomMap/SecondScreen/map-113-screen.markers.json",
     "ZoomMap/SecondScreen",
     "ZoomMap",
-    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard-Weak.md",
-    "3-Rules/Bestiaries/NPC Core/C/Captain Of The Guard.md",
-    "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-major.md",
-    "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-greater.md",
-    "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-moderate.md",
-    "3-Rules/Character Building/Equipment/B/bendy-arm-mutagen-lesser.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/B/bloodeye-coffee.md",
-    "3-Rules/Character Building/Equipment/A/abadars-flawless-scale.md",
-    "3-Rules/Character Building/Equipment/A/arbor-wine.md",
-    "3-Rules/Character Building/Equipment/A/arbor-wine-aged.md",
     "zz-Attachments/silver-diadem-of-insight-awakened.png",
     "zz-Attachments/silver-diadem-of-insight.jpg",
     "zz-Attachments/sword-of-aaqa.png",
     "zz-Attachments/rod-of-seven-parts-fragment-one.png",
     "zz-Attachments/ring-of-the-wind-dukes.png",
     "3-Rules/Character Building/Equipment/Homebrew/R",
-    "zz-Attachments/lightning-sword.png",
     "3-Rules/Character Building/Equipment/Homebrew/L",
-    "zz-Attachments/ghoul-light-lantern.png",
     "3-Rules/Character Building/Equipment/Homebrew/G",
-    "zz-Attachments/gathering-winds-mausoleum.png",
-    "zz-Attachments/oculus-demon.png",
-    "gathering-winds-true-tomb-map.png.markers.json",
-    "gathering-winds-true-tomb.png.markers.json",
-    "gathering-winds-star-chamber-map.png.markers.json"
+    "gathering-winds-true-tomb-map.png.markers.json"
   ]
 }

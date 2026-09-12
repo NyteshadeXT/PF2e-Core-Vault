@@ -7,7 +7,7 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 name: "adamantine-armor-high-grade"
-aliases: "Adamantine Armor High (Standard Grade)"
+aliases: "Adamantine Armor (High Grade)"
 source: "Pathfinder GM Core"
 pg: "228"
 rarity: "uncommon"

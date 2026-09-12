@@ -10,7 +10,7 @@ notetype: pf2e-item
 name: "spider-venom"
 aliases: "Spider Venom"
 source: "Pathfinder GM Core"
-pg: ""
+pg: "294"
 rarity: ""
 trait01: "alchemical"
 trait02: "consumable"
@@ -29,12 +29,8 @@ invest:
 usage: "held in two hands"
 license: "ORC"
 identify:
-description: "This venom erodes its target's defenses, aiding the spider in securing
-  prey.  * * *  **Activate** `pf2:2` (manipulate)  **Saving Throw** DC 22 Fortitude
-  check  **Maximum Duration** 6 rounds  **Stage 1** 1d10 poison damage and [[Conditions/Sickened|Sickened
-  1]] (1 round)  **Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and
-  [[Conditions/Sickened|Sickened 2]] (1 round)  **Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy
-  2]], and [[Conditions/Sickened|Sickened 3]] (1 round)"
+activate: "`pf2:2` ([[manipulate]])"
+description: "This venom erodes its target's defenses, aiding the spider in securing prey.\n\n**Saving Throw** DC 22 Fortitude check  **Maximum Duration** 6 rounds  **Stage 1** `dice: 1d10` poison damage and [[Sickened|Sickened 1]] (1 round)  **Stage 2** `dice: 1d12` poison damage, [[Clumsy|Clumsy 1]], and [[Sickened|Sickened 2]] (1 round)  **Stage 3** `dice: 2d6` poison damage, [[Clumsy|Clumsy 2]], and [[Sickened|Sickened 3]] (1 round)"
 powerTitle1:
 actionEconomy1:
 type1:
@@ -82,3 +78,7 @@ conditionImmunity:
 weaponBase:
 armorBase:
 ---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

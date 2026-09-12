@@ -7,7 +7,7 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 name: "adamantine-buckler-high-grade"
-aliases: "Adamantine High (Standard Grade)"
+aliases: "Adamantine Buckler (High Grade)"
 source: "Pathfinder GM Core"
 pg: "233"
 rarity: "uncommon"

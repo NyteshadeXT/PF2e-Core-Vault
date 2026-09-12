@@ -90,7 +90,7 @@ mechanics4: "**Secondary Effect** "
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range:
-ammoType:
+ammoType: "Arrow"
 reload:
 damage: 
 dmg1: 
