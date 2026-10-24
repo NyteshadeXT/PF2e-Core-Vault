@@ -6,8 +6,8 @@ cssclasses:
   - pf2e-items
   - h-line
   - pf2e-item-base
-name: "bendy-arm-mutagen-greater"
-aliases: "Bendy-Arm Mutagen (Greater)"
+name: "bendy-arm-mutagen-major"
+aliases: "Bendy-Arm Mutagen (Major)"
 source: "Pathfinder Treasure Vault"
 pg: "59"
 rarity: ""

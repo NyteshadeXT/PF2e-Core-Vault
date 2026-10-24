@@ -75,7 +75,7 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Distinct"
 armorBase:
 
 ---

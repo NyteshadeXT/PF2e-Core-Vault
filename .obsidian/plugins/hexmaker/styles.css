@@ -1,0 +1,5103 @@
+/* Duckmage plugin styles */
+
+/* ── Hex map view ─────────────────────────────────────────────────────────── */
+
+.duckmage-hex-map-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+/* Clips the panning/zooming viewport without affecting control buttons */
+.duckmage-hex-map-clip {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+}
+
+/* Transparent overlay for expand & toolbar buttons — no overflow clipping */
+.duckmage-hex-map-controls {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 20;
+}
+
+.duckmage-hex-map-controls > * {
+    pointer-events: auto;
+}
+
+/* ── Side panel toggle buttons ────────────────────────────────────────────── */
+
+.duckmage-panel-toggle-btn {
+    position: absolute;
+    top: 8px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    opacity: 0.7;
+    pointer-events: auto;
+}
+
+.duckmage-panel-toggle-btn svg {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+.duckmage-panel-toggle-btn:hover {
+    opacity: 1;
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-panel-toggle-btn.is-active {
+    opacity: 1;
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+}
+
+/* ── Side panel container ─────────────────────────────────────────────────── */
+
+.duckmage-side-panel {
+    position: absolute;
+    top: 44px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    z-index: 10;
+    min-width: 160px;
+    pointer-events: auto;
+}
+
+/* ── Overlay panel rows ───────────────────────────────────────────────────── */
+
+.duckmage-overlay-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+.duckmage-overlay-row input[type="checkbox"] {
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+.duckmage-overlay-label {
+    cursor: pointer;
+    color: var(--text-normal);
+    user-select: none;
+}
+
+/* ── Overlay hide rules ───────────────────────────────────────────────────── */
+
+/* Terrain fallback icon — hidden by default; shown by CSS when override icons are off */
+.duckmage-hex-terrain-icon { display: none; }
+
+/* Coordinates — the visible labels live in .duckmage-coord-labels-layer
+   (.duckmage-coord-label-html); the in-hex .duckmage-hex-label and
+   .duckmage-svg-coord-label no longer exist (issue #32). */
+.duckmage-hide-coords .duckmage-coord-labels-layer { display: none; }
+
+/* Paths off: hide road/river polylines (and the active-endpoint marker)
+   inside the shared path SVG without touching GM icons or elevated
+   override icons that live in the same SVG (issue #32). */
+.duckmage-hide-paths .duckmage-svg-path-line { display: none; }
+
+/* Terrain icons off: hide plain terrain icons and suppress the fallback */
+.duckmage-hide-terrain-icons .duckmage-hex:not([data-icon-override]) .duckmage-hex-icon { display: none; }
+.duckmage-hide-terrain-icons .duckmage-hex-terrain-icon { display: none; }
+
+/* Icon overrides off: hide override icon, reveal terrain fallback (only when terrain icons are not also hidden) */
+.duckmage-hide-icon-overrides .duckmage-hex-override-icon { display: none; }
+.duckmage-hide-icon-overrides:not(.duckmage-hide-terrain-icons) .duckmage-hex[data-icon-override] .duckmage-hex-terrain-icon { display: block; }
+.duckmage-hide-icon-overrides .duckmage-svg-icon-override { display: none; }
+
+/* Transform vars are registered as NON-inheriting. Each is read only by the
+   element it is set on, and a plain custom property inherits: changing the
+   viewport's pan vars re-styled every element under it on every pan/zoom
+   frame (~430 ms/frame on chult's 3843 hexes; ~17 ms registered). Do not
+   read these from descendants. Repro: dev/real-map-bench.html. */
+@property --duckmage-vp-tx { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-vp-ty { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-vp-scale { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --duckmage-bg-tx { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-bg-ty { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-bg-rot { syntax: "<angle>"; inherits: false; initial-value: 0deg; }
+@property --duckmage-bg-scale { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --duckmage-bg-opacity { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --duckmage-grid-tx { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-grid-ty { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --duckmage-grid-sx { syntax: "<number>"; inherits: false; initial-value: 1; }
+@property --duckmage-grid-sy { syntax: "<number>"; inherits: false; initial-value: 1; }
+
+.duckmage-hex-map-viewport {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-origin: 0 0;
+    cursor: grab;
+    padding: 1em;
+    /* Viewport pan/zoom values are written to these CSS custom properties
+       from JS via setCssProps. See `.duckmage-bg-image-layer` for the
+       motivation. */
+    transform:
+        translate(var(--duckmage-vp-tx, 0px), var(--duckmage-vp-ty, 0px))
+        scale(var(--duckmage-vp-scale, 1));
+}
+
+.duckmage-bg-image-layer {
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    transform-origin: 0 0;
+    pointer-events: none;
+    z-index: 0;
+    /* Dynamic transform values are written to these CSS custom properties
+       from JS via setCssProps. Doing it this way keeps the `transform`
+       declaration itself in CSS (satisfies obsidianmd's
+       no-static-styles-assignment rule) while still letting the values
+       come from JS state. */
+    transform:
+        translate(var(--duckmage-bg-tx, 0px), var(--duckmage-bg-ty, 0px))
+        rotate(var(--duckmage-bg-rot, 0deg))
+        scale(var(--duckmage-bg-scale, 1));
+    opacity: var(--duckmage-bg-opacity, 1);
+}
+
+.duckmage-bg-image {
+    display: block;
+    user-select: none;
+    max-width: none;
+    max-height: none;
+}
+
+.duckmage-hex-map-viewport.is-bg-calibrating .duckmage-bg-image-layer {
+    pointer-events: auto;
+    cursor: move;
+    outline: 2px dashed var(--interactive-accent);
+    outline-offset: 4px;
+}
+
+/* Focused calibration target: the last-clicked image/grid gets a solid,
+   brighter outline so the user knows arrow-key nudges will go there. */
+.duckmage-hex-map-viewport.is-bg-calibrating .duckmage-bg-image-layer.is-focused {
+    outline: 3px solid var(--interactive-accent);
+}
+.duckmage-hex-map-viewport.is-bg-calibrating .duckmage-hex-map-grid.is-focused {
+    outline: 3px solid var(--color-accent);
+}
+
+/* Calibration mode: hexes are pointer-events: none so the grid container
+   captures the drag/wheel events. Hex outline is rendered via the SVG
+   overlay in HexMapView; see renderCalibrationOutlines. */
+.duckmage-hex-map-viewport.is-bg-calibrating .duckmage-hex {
+    pointer-events: none;
+}
+
+.duckmage-hex-map-viewport.is-bg-calibrating .duckmage-hex-map-grid {
+    cursor: move;
+    outline: 2px dashed var(--color-accent);
+    outline-offset: 4px;
+}
+
+/* Grid container is position: relative always so overlay SVGs (paths,
+   faction, region, calibration outline) can be anchored as descendants and
+   inherit any gridDisplay transform — otherwise they drift when calibrated
+   maps re-scale the grid. */
+.duckmage-hex-map-grid {
+    position: relative;
+    /* gridDisplay transform: values are written to these CSS custom
+       properties from JS. Defaults are identity, so an un-calibrated map
+       renders unchanged. See `.duckmage-bg-image-layer` for the same
+       pattern and why we do it this way. */
+    transform-origin: 0 0;
+    transform:
+        translate(var(--duckmage-grid-tx, 0px), var(--duckmage-grid-ty, 0px))
+        scale(var(--duckmage-grid-sx, 1), var(--duckmage-grid-sy, 1));
+}
+
+.duckmage-calibration-outlines-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    overflow: visible;
+    z-index: 10;
+}
+
+/* During an active calibration drag/resize, replace the 3843 individually-
+   painted hex cells with ONE pre-drawn <canvas> "colour snapshot" (built in JS
+   at drag start — see buildCalibrationSnapshot). Moving/scaling 3843 clip-path
+   cells re-rasterises them every frame (a translate alone measured ~373ms);
+   moving one canvas is a single composite op. The cells are kept in the layout
+   with `visibility: hidden` (NOT `display: none`) so the grid keeps its size —
+   the resize handles are positioned against the grid box and would jump to the
+   origin if it collapsed. Icons/labels/coord-labels and the SVG outline are
+   redundant with the snapshot and dropped entirely. All restored on release. */
+.duckmage-hex-map-viewport.duckmage-calibrating-drag .duckmage-hex {
+    visibility: hidden;
+}
+.duckmage-hex-map-viewport.duckmage-calibrating-drag .duckmage-coord-labels-layer,
+.duckmage-hex-map-viewport.duckmage-calibrating-drag .duckmage-calibration-outlines-svg {
+    display: none;
+}
+
+.duckmage-calibration-snapshot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Floating commit chip during calibration — single ✓ button */
+.duckmage-calibration-help {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.duckmage-calibration-commit {
+    pointer-events: auto;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    font-size: 1.4em;
+    line-height: 1;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+/* Resize handles for bg image + hex grid in calibration mode. Positioned at
+   each corner/edge of the parent (which is position: relative or absolute).
+   `--duckmage-cal-scale` is set on each handle by updateCalHandleScale, so
+   handles stay constant *screen* size regardless of viewport zoom — without
+   compensation the viewport's `transform: scale()` shrinks them at low zoom
+   to the point you can't grab them. transform-origin: center keeps the scale
+   centered around the offset anchor point. */
+.duckmage-calibration-handle {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    background: #22d3ee;
+    border: 1px solid #0c111a;
+    border-radius: 3px;
+    pointer-events: auto;
+    z-index: 20;
+    transform-origin: center;
+}
+.duckmage-calibration-handle-nw { top: -9px;  left: -9px;  cursor: nwse-resize; transform: scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-n  { top: -9px;  left: 50%; cursor: ns-resize;     transform: translateX(-50%) scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-ne { top: -9px;  right: -9px; cursor: nesw-resize; transform: scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-w  { top: 50%; left: -9px;  cursor: ew-resize;     transform: translateY(-50%) scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-e  { top: 50%; right: -9px; cursor: ew-resize;     transform: translateY(-50%) scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-sw { bottom: -9px; left: -9px;  cursor: nesw-resize; transform: scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-s  { bottom: -9px; left: 50%; cursor: ns-resize;     transform: translateX(-50%) scale(var(--duckmage-cal-scale, 1)); }
+.duckmage-calibration-handle-se { bottom: -9px; right: -9px; cursor: nwse-resize; transform: scale(var(--duckmage-cal-scale, 1)); }
+
+/* When a background image is present, hexes without a terrain become visually
+   transparent so the underlying image shows through. Hexes with a terrain are
+   tagged `.duckmage-hex-painted` (see setHexColor) and render normally. A class
+   selector is used here rather than a `:not([style*="background-color"])`
+   attribute-substring match because the engine matches it far more cheaply
+   across the thousands of hexes on a large map. */
+.duckmage-hex-map-viewport.has-bg-image .duckmage-hex:not(.duckmage-hex-painted) {
+    background-color: transparent;
+}
+
+.duckmage-bg-image-path {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    padding-right: 8px;
+}
+
+.duckmage-bg-image-row {
+    border: 1px dashed transparent;
+    border-radius: 6px;
+    padding: 4px 6px;
+    transition: border-color 0.1s, background 0.1s;
+}
+
+.duckmage-bg-image-row.is-drop-target {
+    border-color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+/* Composited only while moving; see HexMapView.onViewportMoved. */
+.duckmage-hex-map-viewport.is-moving {
+    will-change: transform;
+}
+
+.duckmage-hex-map-viewport.is-dragging {
+    cursor: grabbing;
+}
+
+/* SVG overlay for paths, coordinate labels and elevated icons */
+.duckmage-path-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 5;
+}
+
+/* SVG overlay for faction color fills — sits below paths */
+.duckmage-faction-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 4;
+}
+
+/* ── Pointy-top row layout ────────────────────────────────────────────────── */
+
+.duckmage-hex-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    margin-bottom: calc(var(--hex-size, 2.2em) * -0.5);
+}
+
+.duckmage-hex-row-offset {
+    margin-left: calc(var(--hex-size, 2.2em) * 1.732 / 2);
+}
+
+/* ── Flat-top column layout ───────────────────────────────────────────────── */
+
+.duckmage-grid-flat {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.duckmage-hex-col {
+    display: flex;
+    flex-direction: column;
+    margin-right: calc(var(--hex-size, 2.2em) * -0.5);
+}
+
+.duckmage-hex-col-offset {
+    margin-top: calc(var(--hex-size, 2.2em) * 0.866);
+}
+
+/* Flat-top hex shape and dimensions */
+.duckmage-grid-flat .duckmage-hex {
+    width: calc(var(--hex-size) * 2);
+    height: calc(var(--hex-size) * 1.732);
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+/* ── Hex cell (shared) ────────────────────────────────────────────────────── */
+
+.duckmage-hex {
+    --hex-size: 2.2em;
+    width: calc(var(--hex-size) * 1.732);
+    height: calc(var(--hex-size) * 2);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    background: var(--background-secondary);
+    border: 2px solid var(--background-modifier-border);
+    margin: var(--duckmage-hex-gap, 0.15em);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.15s ease;
+}
+
+.duckmage-hex:focus {
+    outline: none;
+}
+
+.duckmage-hex:hover::after,
+.duckmage-hex-exists:hover::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 180, 0.35);
+    pointer-events: none;
+}
+
+.duckmage-hex.is-selected::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 210, 0, 0.3);
+    pointer-events: none;
+}
+
+.duckmage-hex-brush-hover::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255, 255, 255, 0.18);
+    border-radius: inherit;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.duckmage-hex-exists {
+    border-color: var(--background-modifier-border-hover);
+}
+
+/* Terrain icon fills the hex, sits behind the label */
+/* Shared layout for in-hex icons. The terrain-icon FALLBACK (rendered
+   hidden inside override hexes, revealed when "Show icon overrides" is
+   off) must share the exact same sizing/centering — it previously had
+   no layout rules at all, so revealing it showed the icon at natural
+   size, off-centre and spilling out of the hex (issue #32 follow-up). */
+.duckmage-hex-icon,
+.duckmage-hex-terrain-icon {
+    position: absolute;
+    width: 78%;
+    height: 78%;
+    object-fit: contain;
+    pointer-events: none;
+    opacity: 0.75;
+}
+/* When the icon is rendered as a tinted div (mask-image) instead of an img */
+div.duckmage-hex-icon,
+div.duckmage-hex-terrain-icon {
+    object-fit: unset; /* not applicable to divs */
+}
+
+/* Coord labels — gridContainer-level sibling above path SVG (z:5),
+   faction SVG (z:4), region SVG (z:3). Positioned per-hex by percentage
+   of gridContainer dimensions so the labels auto-rescale through
+   bake-zoom font-size mutations (same approach as region labels). */
+.duckmage-coord-labels-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10;
+}
+.duckmage-coord-label-html {
+    position: absolute;
+    left: var(--duckmage-coord-x, 50%);
+    top: var(--duckmage-coord-y, 50%);
+    /* Center on (x,y) then apply the placement em-offset.
+       Default font-size and family come from the viewport-level CSS vars
+       set in HexMapView.renderGrid(). */
+    transform: translate(-50%, calc(-50% + var(--duckmage-coord-y-offset, 0em)));
+    font-size: var(--duckmage-coord-font-size, 0.8em);
+    font-family: var(--duckmage-coord-font-family, inherit);
+    font-weight: 700;
+    color: var(--duckmage-coord-color, #ffffff);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    /* Outline keeps labels readable over any underlying terrain color
+       or path stroke. */
+    text-shadow:
+        -1px -1px 0 var(--background-primary),
+        1px -1px 0 var(--background-primary),
+        -1px 1px 0 var(--background-primary),
+        1px 1px 0 var(--background-primary);
+}
+
+/* Coord placement (settings → "Coordinate placement"). The %s are tuned
+   so the label sits inside the visible hex polygon (which is clipped at
+   25%/75% on the vertical axis for pointy-top hexes and at 0/100% for
+   flat-top — but the label needs to stay readable in both, so we use a
+   conservative margin from the edge). */
+/* Placement — em offsets relative to the hex height. With the default
+   --hex-size of 2.2em the hex is 4.4em tall; ±1.2em matches the previous
+   22%/78% within-hex positioning. */
+.duckmage-hex-map-viewport.duckmage-coord-top .duckmage-coord-label-html {
+    --duckmage-coord-y-offset: -1.2em;
+}
+.duckmage-hex-map-viewport.duckmage-coord-middle .duckmage-coord-label-html {
+    --duckmage-coord-y-offset: 0em;
+}
+.duckmage-hex-map-viewport.duckmage-coord-bottom .duckmage-coord-label-html {
+    --duckmage-coord-y-offset: 1.2em;
+}
+
+/* (Coord text-shadow + color now live on .duckmage-coord-label-html since
+   the labels are no longer rendered inside the hex DOM.) */
+
+.duckmage-hex-dot {
+    position: absolute;
+    bottom: 0.35em;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--interactive-accent);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.duckmage-hex-link-badge {
+    position: absolute;
+    top: 0.2em;
+    right: 0.2em;
+    font-size: 0.55em;
+    line-height: 1;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.duckmage-hex-table-linked {
+    outline: 2px solid var(--interactive-accent);
+    outline-offset: -2px;
+}
+
+/* Swap tool overlays — must be child spans inside the hex so they're shaped by its clip-path */
+.duckmage-hex-swap-source,
+.duckmage-hex-swap-dest {
+    position: absolute;
+    inset: 0;
+    z-index: 4;
+    pointer-events: none;
+}
+.duckmage-hex-swap-source {
+    background: rgba(245, 158, 11, 0.45);
+}
+.duckmage-hex-swap-dest {
+    background: rgba(167, 139, 250, 0.45);
+}
+
+@keyframes duckmage-blip {
+    0% {
+        transform: translate(-50%, -50%) scale(0);
+        opacity: 0.55;
+    }
+    60% {
+        opacity: 0.3;
+    }
+    100% {
+        transform: translate(-50%, -50%) scale(2.2);
+        opacity: 0;
+    }
+}
+
+.duckmage-hex-blip {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background: var(--interactive-accent);
+    pointer-events: none;
+    z-index: 3;
+    animation: duckmage-blip 0.55s ease-out forwards;
+}
+
+/* ── Hex editor modal ─────────────────────────────────────────────────────── */
+
+.duckmage-hex-editor h2 {
+    margin-bottom: 0.75em;
+}
+
+.duckmage-hex-editor h3 {
+    margin: 0.25em 0 0.5em;
+}
+
+.duckmage-hex-editor h4 {
+    margin: 0;
+    font-size: 0.9em;
+    font-weight: 600;
+}
+.duckmage-hex-editor .modal-content {
+   padding:0.5em;
+}
+.duckmage-editor-title-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+}
+.duckmage-editor-title-left {
+    flex: 1;
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.duckmage-editor-title-row h2 {
+    margin: 0;
+}
+
+/* ── Neighbour hex preview widget ──────────────────────────────────── */
+.duckmage-neighbor-widget {
+    position: relative;
+    width: 60px;
+    height: 51px;
+    flex-shrink: 0;
+}
+.duckmage-neighbor-tile {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: var(--duckmage-bg, var(--background-modifier-border));
+    cursor: pointer;
+    border: 1px solid
+        color-mix(in srgb, var(--background-modifier-border) 60%, transparent);
+    transition:
+        border-color 0.15s,
+        transform 0.1s;
+    box-sizing: border-box;
+}
+.duckmage-neighbor-tile:hover {
+    border-color: var(--interactive-accent);
+    transform: scale(1.25);
+    z-index: 1;
+}
+.duckmage-neighbor-tile-offmap {
+    opacity: 0.2;
+    cursor: default;
+    pointer-events: none;
+}
+.duckmage-neighbor-centre {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--background-modifier-border);
+    box-sizing: border-box;
+    pointer-events: none;
+}
+.duckmage-neighbor-centre--linked {
+    background: #1a1a1a;
+    border: 1px solid color-mix(in srgb, #fff 30%, transparent);
+    cursor: pointer;
+    pointer-events: auto;
+    transition: transform 0.1s;
+}
+.duckmage-neighbor-centre--linked:hover {
+    transform: scale(1.3);
+}
+
+/* ── Draggable / resizable modal ───────────────────────────────────── */
+.modal.duckmage-editor-modal-drag {
+    width: min(620px, 90vw);
+    max-height: min(90vh, 860px);
+    max-width: none;
+    min-width: 320px;
+    min-height: 420px;
+}
+.duckmage-editor-modal-drag .modal-content {
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+.duckmage-editor-title-drag {
+    cursor: move;
+    user-select: none;
+}
+/* Native close-button row above our content is also part of the drag zone */
+.duckmage-editor-modal-drag .modal-close-button {
+    cursor: move;
+}
+.duckmage-editor-modal-drag .modal-title {
+    cursor: move;
+}
+
+.duckmage-editor-center-btn {
+    font-size: 0.85em;
+    padding: 1px 6px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: transparent;
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+.duckmage-editor-center-btn:hover {
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-editor-open-link {
+    font-size: 0.8em;
+    color: var(--text-accent);
+    cursor: pointer;
+    white-space: nowrap;
+}
+.duckmage-editor-open-link:hover {
+    text-decoration: underline;
+}
+
+.duckmage-editor-divider {
+    margin: 1em 0;
+    border: none;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.duckmage-editor-section {
+    margin-bottom: 1em;
+}
+
+.duckmage-editor-collapsible-header {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    cursor: pointer;
+    user-select: none;
+    margin: 0.25em 0;
+}
+
+.duckmage-editor-collapsible-header:hover .duckmage-editor-collapsible-title {
+    color: var(--text-normal);
+}
+
+.duckmage-editor-collapsible-arrow {
+    font-size: 0.65em;
+    color: var(--text-muted);
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.duckmage-editor-collapsible-title {
+    margin: 0;
+    color: var(--text-muted);
+}
+
+.duckmage-editor-collapsible-body {
+    margin-bottom: 0.5em;
+}
+
+/* Terrain preview badge in the collapsible header */
+.duckmage-terrain-header-preview {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    margin-left: 0.6em;
+    pointer-events: none;
+}
+.duckmage-terrain-header-swatch {
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+}
+.duckmage-terrain-header-swatch img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.duckmage-terrain-header-name {
+    font-size: 0.75em;
+    color: var(--text-faint);
+    font-weight: normal;
+}
+
+/* Compact 3-in-1 collapse-toggle row (settings tab): label + pill pairs
+   share one setting row; wrap onto extra lines in narrow panes instead
+   of shrinking or overlapping. */
+.duckmage-collapse-row .setting-item-control {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    row-gap: 6px;
+}
+.duckmage-collapse-toggle-label {
+    color: var(--text-muted);
+    font-size: var(--font-ui-small);
+}
+
+/* ── Terrain picker modal header ─────────────────────────────────── */
+.duckmage-tpe-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+}
+.duckmage-tpe-header h2 {
+    margin: 0;
+}
+.duckmage-tpe-edit-btn {
+    font-size: 0.8em;
+    padding: 2px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+.duckmage-tpe-edit-btn:hover {
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-tpe-edit-footer {
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--background-modifier-border);
+    display: flex;
+    justify-content: flex-end;
+}
+
+.duckmage-tpe-refresh-btn {
+    font-size: 0.8em;
+    padding: 3px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+}
+
+.duckmage-tpe-refresh-btn:hover:not(:disabled) {
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-tpe-refresh-btn:disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+
+/* Terrain picker grid — capped at 2 rows, scrollable */
+.duckmage-terrain-picker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-bottom: 0.75em;
+    max-height: 132px;
+    overflow-y: auto;
+    padding-right: 2px; /* avoid clipping scrollbar */
+}
+.duckmage-terrain-picker.duckmage-terrain-picker-full {
+    max-height: none;
+    overflow-y: visible;
+}
+
+.duckmage-terrain-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25em;
+    padding: 0.35em;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    background: var(--background-secondary);
+    transition:
+        border-color 0.1s ease,
+        background 0.1s ease;
+    min-width: 52px;
+}
+
+.duckmage-terrain-option:hover {
+    background: var(--background-modifier-hover);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-terrain-option.is-selected {
+    border-color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-terrain-preview {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.duckmage-terrain-preview-eyedropper {
+    background: var(--background-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1em;
+    color: var(--text-accent);
+}
+
+.duckmage-terrain-option-eyedropper:hover .duckmage-terrain-preview-eyedropper {
+    color: var(--interactive-accent);
+}
+
+.duckmage-terrain-preview-clear {
+    background: repeating-linear-gradient(
+        45deg,
+        var(--background-modifier-border) 0px,
+        var(--background-modifier-border) 2px,
+        var(--background-secondary) 2px,
+        var(--background-secondary) 8px
+    );
+}
+
+.duckmage-terrain-preview-icon {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+div.duckmage-terrain-preview-icon {
+    object-fit: unset;
+}
+
+.duckmage-terrain-option-name {
+    font-size: 0.7em;
+    text-align: center;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 54px;
+}
+
+.duckmage-clear-btn {
+    margin-left: 4px;
+    flex-shrink: 0;
+}
+
+/* ── Terrain edit-mode grid tiles ────────────────────────────────── */
+.duckmage-terrain-option-editable {
+    position: relative;
+    cursor: grab;
+}
+.duckmage-terrain-option-editable:active {
+    cursor: grabbing;
+}
+
+/* Grip handle — top-left corner */
+.duckmage-terrain-edit-grip {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    font-size: 0.75em;
+    color: var(--text-faint);
+    line-height: 1;
+    z-index: 2;
+    pointer-events: none;
+    opacity: 0.5;
+}
+.duckmage-terrain-option-editable:hover .duckmage-terrain-edit-grip {
+    opacity: 1;
+    color: var(--text-muted);
+}
+
+/* Pencil icon — top-right corner, decorative only */
+.duckmage-terrain-edit-pencil {
+    position: absolute;
+    top: 2px;
+    right: 4px;
+    font-size: 0.75em;
+    line-height: 1;
+    z-index: 2;
+    pointer-events: none;
+    opacity: 0.4;
+    color: var(--text-faint);
+}
+.duckmage-terrain-option-editable:hover .duckmage-terrain-edit-pencil {
+    opacity: 0.8;
+    color: var(--text-muted);
+}
+
+/* Drop target highlight during drag-reorder */
+.duckmage-terrain-option-editable.duckmage-palette-drop-target {
+    border-color: var(--interactive-accent);
+}
+
+/* Duplicate-name error state on terrain name input */
+input.duckmage-input-error {
+    border-color: var(--color-red);
+    outline: 1px solid var(--color-red);
+}
+
+/* "Add" tile preview */
+.duckmage-terrain-preview-add {
+    background: var(--background-modifier-border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4em;
+    font-weight: 300;
+    color: var(--text-muted);
+}
+
+.duckmage-terrain-preview-remove {
+    background: var(--background-modifier-border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    color: var(--color-red);
+}
+
+.duckmage-terrain-option-remove:hover .duckmage-terrain-preview-remove {
+    background: var(--background-modifier-error);
+}
+
+/* ── Terrain entry editor modal buttons ──────────────────────────── */
+.duckmage-tee-buttons {
+    display: flex;
+    gap: 0.5em;
+    flex-wrap: wrap;
+    margin-top: 1.25em;
+    padding-top: 0.75em;
+    border-top: 1px solid var(--background-modifier-border);
+}
+.duckmage-btn-danger {
+    color: var(--text-error);
+    border-color: var(--background-modifier-border);
+    margin-left: auto;
+}
+.duckmage-btn-danger:hover {
+    background: var(--background-modifier-error);
+    border-color: var(--text-error);
+}
+
+/* Link sections */
+.duckmage-editor-link-section {
+    margin-bottom: 0.85em;
+}
+
+.duckmage-link-section-title {
+    margin: 0 0 0.3em 0;
+    font-size: 0.9em;
+    color: var(--text-muted);
+    font-weight: 600;
+}
+
+/* ── Link combo box ─────────────────────────────────────────────────────── */
+.duckmage-link-combo {
+    position: relative;
+    display: flex;
+    gap: 4px;
+    margin-bottom: 0.4em;
+}
+
+.duckmage-link-combo-input {
+    flex: 1;
+    min-width: 0;
+    padding: 3px 6px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: var(--font-ui-small);
+}
+
+.duckmage-link-combo-input:focus {
+    outline: none;
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-link-combo-arrow {
+    flex-shrink: 0;
+    padding: 2px 7px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 0.9em;
+    line-height: 1;
+}
+
+.duckmage-link-combo-arrow:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
+.duckmage-link-combo-dropdown {
+    /* position: fixed (anchored from JS via anchorDropdown) so the dropdown
+       escapes the modal's scroll container without that container needing
+       `overflow: visible` — which would reset its scrollTop and jump the
+       modal to the top (issue #31). left/top/width are set inline. */
+    position: fixed;
+    z-index: 100;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    max-height: 180px;
+    overflow-y: auto;
+}
+
+.duckmage-link-combo-item {
+    padding: 5px 8px;
+    font-size: var(--font-ui-small);
+    cursor: pointer;
+    color: var(--text-normal);
+}
+
+.duckmage-link-combo-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-link-combo-create {
+    color: var(--interactive-accent);
+    border-top: 1px solid var(--background-modifier-border-focus);
+}
+
+.duckmage-link-combo-empty {
+    padding: 5px 8px;
+    font-size: var(--font-ui-small);
+    color: var(--text-faint);
+    font-style: italic;
+}
+
+.duckmage-link-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2em;
+    padding-left: 0.5em;
+}
+
+.duckmage-link-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.85em;
+}
+
+.duckmage-link-item-label {
+    color: var(--text-accent);
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.duckmage-link-item-clickable {
+    cursor: pointer;
+}
+
+.duckmage-link-item-clickable:hover {
+    text-decoration: underline;
+}
+
+.duckmage-link-remove-btn,
+.duckmage-link-roll-btn {
+    flex-shrink: 0;
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    font-size: 1em;
+    line-height: 1;
+    padding: 0 2px;
+    border-radius: 3px;
+}
+
+.duckmage-link-remove-btn:hover {
+    color: var(--text-error);
+    background: var(--background-modifier-error-hover);
+}
+.duckmage-link-roll-btn:hover {
+    color: var(--text-normal);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-link-empty {
+    font-size: 0.85em;
+    color: var(--text-faint);
+}
+
+.duckmage-suggestion-path {
+    color: var(--text-muted);
+}
+
+/* ── Roads & Rivers toolbar ───────────────────────────────────────────────── */
+
+
+.duckmage-draw-btn {
+    height: 26px;
+    padding: 0 10px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 0.75em;
+    font-weight: 600;
+    cursor: pointer;
+    opacity: 0.6;
+    transition:
+        opacity 0.15s ease,
+        border-color 0.15s ease,
+        color 0.15s ease;
+    user-select: none;
+}
+
+.duckmage-draw-btn:hover {
+    opacity: 1;
+    color: var(--text-normal);
+}
+
+.duckmage-draw-btn.is-active {
+    opacity: 1;
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-draw-btn.is-erase {
+    border-color: var(--color-red);
+    color: var(--color-red);
+}
+
+.duckmage-draw-btn-terrain,
+.duckmage-draw-btn-tablelink {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.duckmage-terrain-btn-preview {
+    display: none;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    flex-shrink: 0;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.duckmage-path-btn-swatch {
+    display: none;
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    margin-left: 4px;
+    vertical-align: middle;
+    flex-shrink: 0;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.duckmage-path-preview {
+    width: 36px;
+    height: 36px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.duckmage-path-editor-preview {
+    margin: 0 auto 12px;
+    width: 72px;
+    height: 72px;
+}
+
+.duckmage-path-editor-preview svg {
+    width: 100%;
+    height: 100%;
+}
+
+.duckmage-path-type-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin: 8px 0;
+}
+.duckmage-path-type-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85em;
+}
+.duckmage-path-type-swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+
+.duckmage-tpe-brush-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 12px 2px;
+    flex-wrap: wrap;
+}
+.duckmage-tpe-brush-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    margin-right: 2px;
+}
+.duckmage-tpe-brush-btn {
+    padding: 2px 10px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    cursor: pointer;
+}
+.duckmage-tpe-brush-btn.is-active {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-hex-map-viewport.duckmage-draw-mode,
+.duckmage-hex-map-viewport.duckmage-draw-mode .duckmage-hex {
+    cursor: crosshair;
+}
+
+/* While terrain picker modal is open */
+.duckmage-hex-map-viewport.duckmage-terrain-picking,
+.duckmage-hex-map-viewport.duckmage-terrain-picking .duckmage-hex {
+    cursor: crosshair;
+}
+
+/* While actively painting terrain (terrain selected, not eyedropper) */
+.duckmage-hex-map-viewport.duckmage-terrain-paint .duckmage-hex {
+    cursor:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20'%3E%3Cpath d='M16 2 L18 4 L6 16 L2 18 L4 14 Z' fill='%23333'/%3E%3Ccircle cx='3' cy='17' r='2' fill='%235080ff'/%3E%3C/svg%3E")
+            2 17,
+        crosshair;
+}
+
+/* Coord labels live in .duckmage-coord-labels-layer — the SVG path
+   overlay no longer renders a duplicate. The old rule that hid HTML
+   labels while the SVG overlay was active is gone with that code; the
+   labels sit at a % of the grid, so they track the hex layout across
+   font-size changes (no slip-on-zoom). */
+
+/* ── Expand / shrink button groups ───────────────────────────────────────── */
+
+.duckmage-expand-group {
+    position: absolute;
+    z-index: 10;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+}
+
+.duckmage-expand-group-top,
+.duckmage-expand-group-bottom { flex-direction: row; }
+.duckmage-expand-group-left,
+.duckmage-expand-group-right  { flex-direction: column; }
+
+.duckmage-expand-group-top    { top: 4px;    left: 50%; transform: translateX(-50%); }
+.duckmage-expand-group-bottom { bottom: 4px; left: 50%; transform: translateX(-50%); }
+.duckmage-expand-group-left   { left: 4px;   top: 50%;  transform: translateY(-50%); }
+.duckmage-expand-group-right  { right: 4px;  top: 50%;  transform: translateY(-50%); }
+
+.duckmage-expand-btn,
+.duckmage-shrink-btn {
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    border-radius: 50%;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 1.1em;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:
+        opacity 0.2s ease,
+        color 0.15s ease,
+        border-color 0.15s ease;
+}
+
+.duckmage-expand-btn { opacity: 0.5; }
+.duckmage-expand-btn:hover { opacity: 1; color: var(--text-normal); }
+
+/* Shrink button: hidden until hovering the group */
+.duckmage-shrink-btn { opacity: 0; }
+.duckmage-expand-group:hover .duckmage-shrink-btn { opacity: 0.5; }
+.duckmage-expand-group:hover .duckmage-shrink-btn:hover { opacity: 1; color: var(--text-normal); }
+
+.duckmage-shrink-btn.is-dirty {
+    color: var(--text-error);
+    border-color: var(--background-modifier-error);
+}
+.duckmage-shrink-btn.is-dirty:hover { color: var(--text-error); }
+
+.duckmage-expand-group:hover .duckmage-shrink-btn.is-confirming {
+    opacity: 1;
+    color: var(--text-on-accent);
+    background: var(--background-modifier-error);
+    border-color: var(--background-modifier-error);
+    font-size: 0.7em;
+    width: auto;
+    padding: 0 5px;
+}
+
+/* Warning label — shown inline via is-visible class */
+.duckmage-shrink-warn {
+    display: none;
+    position: absolute;
+    font-size: 0.65em;
+    color: var(--text-error);
+    white-space: nowrap;
+    pointer-events: none;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-error);
+    border-radius: 4px;
+    padding: 1px 5px;
+}
+.duckmage-shrink-warn.is-visible { display: block; }
+
+.duckmage-expand-group-top    .duckmage-shrink-warn { top: calc(100% + 4px);    left: 50%; transform: translateX(-50%); }
+.duckmage-expand-group-bottom .duckmage-shrink-warn { bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%); }
+.duckmage-expand-group-left   .duckmage-shrink-warn { left: calc(100% + 4px);   top: 50%;  transform: translateY(-50%); }
+.duckmage-expand-group-right  .duckmage-shrink-warn { right: calc(100% + 4px);  top: 50%;  transform: translateY(-50%); }
+
+.duckmage-table-btn,
+.duckmage-rt-btn,
+.duckmage-undo-btn-map {
+    position: absolute;
+    top: 8px;
+    z-index: 10;
+    height: 26px;
+    padding: 0 8px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 1em;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0.6;
+    transition:
+        opacity 0.15s ease,
+        color 0.15s ease;
+    user-select: none;
+}
+
+.duckmage-table-btn {
+    left: 8px;
+}
+.duckmage-rt-btn {
+    left: 44px;
+}
+
+/* ── Export tab in the Maps modal ─────────────────────────────────────────── */
+.duckmage-export-tab {
+    padding: 0.5em 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.8em;
+}
+.duckmage-export-tab-hint {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin: 0;
+}
+.duckmage-export-tab-options {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+}
+.duckmage-export-tab-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.2em 0;
+    cursor: pointer;
+}
+.duckmage-export-tab-label {
+    cursor: pointer;
+}
+.duckmage-export-tab-number {
+    width: 80px;
+    margin-left: auto;
+}
+.duckmage-export-tab-text {
+    flex: 1;
+    margin-left: 0.5em;
+    min-width: 0;
+}
+.duckmage-export-tab-select {
+    flex: 1;
+    margin-left: 0.5em;
+    min-width: 0;
+}
+.duckmage-export-tab-preview {
+    font-family: var(--font-monospace);
+    font-size: 0.85em;
+    color: var(--text-muted);
+    padding: 0.3em 0;
+    word-break: break-all;
+}
+.duckmage-export-tab-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5em;
+    padding-top: 0.5em;
+    border-top: 1px solid var(--background-modifier-border);
+    flex-wrap: wrap;
+}
+
+.duckmage-undo-btn-map {
+    left: 8px;
+    top: 42px;
+}
+.duckmage-redo-btn-map {
+    left: 44px;
+    top: 42px;
+}
+.duckmage-undo-btn-map:disabled {
+    opacity: 0.3;
+    cursor: default;
+}
+
+.duckmage-table-btn:hover,
+.duckmage-rt-btn:hover,
+.duckmage-undo-btn-map:not(:disabled):hover {
+    opacity: 1;
+    color: var(--text-normal);
+}
+
+/* Text note sections */
+.duckmage-editor-text-section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+    margin-bottom: 0.85em;
+}
+
+.duckmage-text-section-label {
+    font-size: 0.85em;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.duckmage-text-section-textarea {
+    width: 100%;
+    resize: vertical;
+    font-size: 0.9em;
+    font-family: var(--font-text);
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 0.4em 0.5em;
+    color: var(--text-normal);
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+.duckmage-text-section-textarea:focus {
+    outline: none;
+    border-color: var(--interactive-accent);
+}
+
+/* ── Icon picker modal ────────────────────────────────────────────────────── */
+
+.duckmage-icon-picker {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin-bottom: 0.75em;
+    max-height: 420px;
+    overflow-y: auto;
+    padding-right: 2px;
+}
+
+.duckmage-icon-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25em;
+    padding: 0.35em;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    background: var(--background-secondary);
+    transition:
+        border-color 0.1s ease,
+        background 0.1s ease;
+    min-width: 52px;
+    position: relative;
+}
+
+.duckmage-icon-option:hover {
+    background: var(--background-modifier-hover);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-icon-preview {
+    width: 36px;
+    height: 36px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    flex-shrink: 0;
+    background: var(--background-primary-alt);
+}
+
+.duckmage-icon-preview-clear {
+    background: repeating-linear-gradient(
+        45deg,
+        var(--background-modifier-border) 0px,
+        var(--background-modifier-border) 2px,
+        var(--background-secondary) 2px,
+        var(--background-secondary) 8px
+    );
+}
+
+.duckmage-icon-preview-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0.85;
+}
+
+.duckmage-icon-option-name {
+    font-size: 0.7em;
+    text-align: center;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 54px;
+}
+
+/* Selected state */
+.duckmage-icon-option.is-selected {
+    border-color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+/* Inline variant used inside HexEditorModal / TokenModal (2-row, scrollable) */
+.duckmage-icon-picker-inline {
+    max-height: 132px;
+    margin-bottom: 0.5em;
+}
+
+/* Token modal: FIXED-height icon strip + whole-modal scrollbar. On short
+   screens the modal scrolls as one unit instead of squishing the icon
+   selector. Scoped via .duckmage-token-modal (set on modalEl in
+   TokenModal.onOpen) so other .duckmage-hex-editor modals are untouched. */
+.duckmage-token-modal {
+    max-height: min(85vh, 720px);
+    /* Explicit flex column so .modal-content is height-constrained and can
+       scroll regardless of Obsidian's own .modal layout defaults. */
+    display: flex;
+    flex-direction: column;
+}
+.duckmage-token-modal .modal-content {
+    overflow-y: auto;
+    min-height: 0;
+}
+.duckmage-token-modal .duckmage-icon-picker-inline {
+    height: 150px;
+    max-height: none;
+    flex-shrink: 0;
+}
+
+/* Token modal title row with inline preview */
+.duckmage-token-modal-title-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 4px;
+}
+
+.duckmage-token-modal-title-row h2 {
+    margin: 0;
+}
+
+.duckmage-icon-inline-label {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin: 8px 0 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+/* Drag state for icon tiles in manage mode */
+.duckmage-icon-option.duckmage-palette-dragging {
+    opacity: 0.4;
+}
+
+.duckmage-icon-option.duckmage-palette-drop-target {
+    border-color: var(--interactive-accent);
+}
+
+/* ── Icon picker: header + manage mode ───────────────────────────────────── */
+
+.duckmage-icon-picker-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.duckmage-icon-picker-header h2 {
+    margin: 0;
+}
+
+.duckmage-icon-picker-header-right {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+    flex-shrink: 0;
+}
+
+.duckmage-icon-gm-toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.82em;
+    color: var(--text-muted);
+}
+
+.duckmage-icon-gm-toggle-label {
+    cursor: pointer;
+    user-select: none;
+}
+
+.duckmage-icon-manage-btn {
+    padding: 3px 10px;
+    font-size: 0.8em;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-muted);
+    cursor: pointer;
+}
+
+.duckmage-icon-manage-btn:hover {
+    border-color: var(--interactive-accent);
+    color: var(--text-normal);
+}
+
+/* Hide button — appears on hover over each icon tile in manage mode */
+.duckmage-icon-hide-btn {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 2;
+}
+
+.duckmage-icon-hide-btn svg {
+    width: 12px;
+    height: 12px;
+}
+
+.duckmage-icon-option:hover .duckmage-icon-hide-btn {
+    opacity: 1;
+}
+
+.duckmage-icon-hidden .duckmage-icon-hide-btn {
+    opacity: 0.7;
+}
+
+/* Dim hidden icons in manage mode */
+.duckmage-icon-hidden {
+    opacity: 0.35;
+}
+
+/* ── Icon picker: add section ────────────────────────────────────────────── */
+
+.duckmage-icon-add-section {
+    margin-bottom: 12px;
+}
+
+.duckmage-icon-drop-zone {
+    border: 2px dashed var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 16px 12px;
+    text-align: center;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 0.88em;
+    transition: border-color 0.15s ease, background 0.15s ease;
+    user-select: none;
+}
+
+.duckmage-icon-drop-zone:hover,
+.duckmage-icon-drop-zone.is-dragover {
+    border-color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
+.duckmage-icon-add-status {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    margin: 4px 0 0;
+    min-height: 1.2em;
+}
+
+.duckmage-icon-add-warning {
+    font-size: 0.85em;
+    color: var(--color-orange);
+    margin: 0;
+}
+
+.duckmage-icon-btn-preview {
+    display: none;
+    width: 14px;
+    height: 14px;
+    object-fit: contain;
+    flex-shrink: 0;
+    opacity: 0.9;
+}
+
+/* ── Modal: icon override ─────────────────────────────────────────────────── */
+
+.duckmage-icon-override-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-top: 0.75em;
+}
+
+.duckmage-icon-override-label {
+    color: var(--text-muted);
+    font-size: var(--font-ui-small);
+    white-space: nowrap;
+}
+
+/* ── Settings: terrain palette ────────────────────────────────────────────── */
+
+.duckmage-palette-list .duckmage-palette-item {
+    margin-bottom: 0.5em;
+    display: flex;
+    align-items: center;
+    gap: 0.25em;
+}
+
+.duckmage-palette-drag-handle {
+    cursor: grab;
+    color: var(--text-muted);
+    font-size: 1.2em;
+    line-height: 1;
+    user-select: none;
+    flex-shrink: 0;
+}
+
+.duckmage-palette-drag-handle:active {
+    cursor: grabbing;
+}
+
+.duckmage-palette-item.duckmage-palette-dragging {
+    opacity: 0.4;
+}
+
+.duckmage-palette-item.duckmage-palette-drop-target {
+    outline: 2px dashed var(--interactive-accent);
+    border-radius: 4px;
+}
+
+/* ── Hex table view ───────────────────────────────────────────────────────── */
+
+.duckmage-hex-table-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+}
+
+.duckmage-hex-table-toolbar {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 4px 6px;
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.duckmage-filter-separator {
+    width: 1px;
+    height: 18px;
+    background: var(--background-modifier-border);
+    flex-shrink: 0;
+}
+
+.duckmage-filter-label {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.duckmage-filter-range-input {
+    height: 24px;
+    width: 36px;
+    padding: 0 4px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-normal);
+    font-size: 0.5em;
+    text-align: center;
+}
+
+.duckmage-filter-range-input:focus {
+    outline: none;
+    border-color: var(--interactive-accent);
+}
+
+/* Hide browser spin buttons on the range inputs */
+.duckmage-filter-range-input::-webkit-inner-spin-button,
+.duckmage-filter-range-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+.duckmage-filter-btn {
+    height: 24px;
+    padding: 0 8px;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 0.8em;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.duckmage-filter-btn:hover {
+    color: var(--text-normal);
+    border-color: var(--background-modifier-border-hover);
+}
+
+.duckmage-filter-btn.duckmage-filter-active {
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-filter-check-label {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.duckmage-filter-check-label:hover {
+    color: var(--text-normal);
+}
+
+.duckmage-hex-table-scroll {
+    flex: 1;
+    overflow: auto;
+}
+
+.duckmage-hex-table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 0.85em;
+}
+
+.duckmage-hex-table th {
+    position: sticky;
+    top: 0;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    padding: 4px 8px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+    z-index: 2;
+}
+
+.duckmage-hex-table td {
+    border: 1px solid var(--background-modifier-border);
+    padding: 3px 8px;
+    vertical-align: top;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: var(--text-normal);
+}
+
+.duckmage-col-resizer {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    cursor: col-resize;
+    z-index: 3;
+}
+
+.duckmage-col-resizer:hover,
+.duckmage-col-resizer:active {
+    background: var(--interactive-accent);
+    opacity: 0.5;
+}
+
+.duckmage-hex-table tr:hover td {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-hex-table td:first-child {
+    min-width: 64px;
+    white-space: nowrap;
+}
+
+.duckmage-hex-table-coords {
+    color: var(--text-accent);
+    cursor: pointer;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.duckmage-hex-table-coords:hover {
+    text-decoration: underline;
+}
+
+.duckmage-hex-table-jump-btn {
+    margin-right: 3px;
+    padding: 0;
+    width: 12px;
+    height: 12px;
+    font-size: 0.65em;
+    line-height: 12px;
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    opacity: 0.5;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.duckmage-hex-table-jump-btn:hover {
+    opacity: 1;
+    color: var(--text-accent);
+}
+
+.duckmage-hex-table-swatch {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    margin-right: 4px;
+    vertical-align: middle;
+    flex-shrink: 0;
+}
+
+.duckmage-hex-table-empty {
+    color: var(--text-faint);
+}
+
+.duckmage-hex-table-cell-clickable {
+    cursor: pointer;
+}
+
+.duckmage-hex-table-cell-clickable:hover {
+    color: var(--text-accent);
+}
+
+.duckmage-cell-modal-btn-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+    align-items: center;
+}
+
+.duckmage-cell-modal-roll-btn {
+    flex: 0 0 auto;
+}
+
+/* ── Hex cell detail modal ────────────────────────────────────────────────── */
+
+.duckmage-cell-modal {
+    max-height: 60vh;
+    overflow-y: auto;
+}
+
+.duckmage-cell-modal-pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: var(--font-text);
+    font-size: var(--font-ui-medium);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.duckmage-cell-modal-list {
+    margin: 0;
+    padding-left: 1.5em;
+    line-height: 1.8;
+}
+
+.duckmage-cell-modal-textarea {
+    width: 100%;
+    min-height: 200px;
+    resize: vertical;
+    font-family: var(--font-text);
+    font-size: var(--font-ui-medium);
+    line-height: 1.6;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 0.5em;
+    color: var(--text-normal);
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 0.75em;
+}
+
+.duckmage-cell-modal-textarea:focus {
+    outline: none;
+    border-color: var(--interactive-accent);
+}
+
+/* ── Terrain filter modal ─────────────────────────────────────────────────── */
+
+.duckmage-terrain-filter-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 1em;
+}
+
+.duckmage-terrain-filter-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    cursor: pointer;
+}
+
+.duckmage-terrain-filter-row input[type="checkbox"] {
+    flex-shrink: 0;
+    cursor: pointer;
+}
+
+.duckmage-terrain-filter-hint {
+    font-size: 0.8em;
+    color: var(--text-faint);
+    margin: 0 0 8px 0;
+}
+
+.duckmage-terrain-filter-excluded {
+    opacity: 0.5;
+    text-decoration: line-through;
+    color: var(--text-error);
+}
+
+tr.duckmage-row-hidden {
+    display: none;
+}
+
+.duckmage-terrain-filter-category-heading {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 4px;
+    margin-top: 4px;
+    font-weight: 600;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    cursor: pointer;
+    border-radius: 4px;
+    user-select: none;
+}
+
+.duckmage-terrain-filter-category-heading:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
+.duckmage-terrain-filter-row-indented {
+    padding-left: 14px;
+}
+
+.duckmage-terrain-filter-btns {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    padding-top: 4px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+/* ── Link picker modal (Towns / Dungeons) ───────────────────────────────────── */
+
+.duckmage-link-picker-modal {
+    min-width: 320px;
+}
+
+.duckmage-link-picker-heading {
+    font-size: 0.8em;
+    font-weight: 600;
+    color: var(--text-muted);
+    margin: 0.75em 0 0.25em;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.duckmage-link-picker-list {
+    list-style: none;
+    margin: 0 0 0.5em;
+    padding: 0;
+    max-height: 220px;
+    overflow-y: auto;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+}
+
+.duckmage-link-picker-item {
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.duckmage-link-picker-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-link-picker-create-row {
+    display: flex;
+    gap: 6px;
+    margin-top: 0.25em;
+}
+
+.duckmage-link-picker-input {
+    flex: 1;
+    padding: 4px 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: var(--font-ui-small);
+}
+
+/* ── Context menu create-new row ────────────────────────────────────────────── */
+
+/* ? help button — bottom-left of the map controls overlay */
+.duckmage-help-btn {
+    position: absolute;
+    bottom: 42px;
+    left: 8px;
+    z-index: 10;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 0.85em;
+    font-weight: 700;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0.5;
+    pointer-events: auto;
+    transition:
+        opacity 0.15s ease,
+        border-color 0.15s ease,
+        color 0.15s ease;
+    user-select: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.duckmage-help-btn:hover {
+    opacity: 1;
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+}
+
+/* GM icon SVG overlay — small badge rendered in top-right quadrant of hex */
+.duckmage-svg-gm-icon {
+    opacity: 0.9;
+}
+
+/* Multi-GM-icon count badge (hexmaker#28). Sits at the lower-right
+   of a stacked icon when the same icon was added 2+ times. */
+.duckmage-svg-gm-icon-count {
+    font-family: system-ui, sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    fill: #fff;
+    stroke: rgba(0, 0, 0, 0.85);
+    stroke-width: 3;
+    paint-order: stroke fill;
+    pointer-events: none;
+}
+
+/* Picker tile count badge — small chip in the top-right of an icon tile
+   in the GM icon picker (HexEditorModal multi-add UX). */
+.duckmage-icon-count-badge {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    border-radius: 9px;
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    font-size: 0.7em;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: center;
+    pointer-events: none;
+}
+
+/* Help modal content */
+.duckmage-help-modal {
+    max-width: 560px;
+}
+.duckmage-help-modal h2 {
+    margin-top: 0;
+}
+.duckmage-help-modal table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1em;
+}
+.duckmage-help-modal th,
+.duckmage-help-modal td {
+    border: 1px solid var(--background-modifier-border);
+    padding: 4px 10px;
+    text-align: left;
+}
+.duckmage-help-modal th {
+    background: var(--background-secondary);
+}
+
+.duckmage-table-picker-topbar {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.duckmage-table-picker-view-btn {
+    font-size: var(--font-ui-small);
+    padding: 3px 8px;
+}
+
+.duckmage-table-picker-combo {
+    margin-bottom: 0;
+}
+
+.duckmage-table-picker-modal .duckmage-link-combo-dropdown {
+    max-height: 280px;
+}
+
+.duckmage-submap-picker-modal .duckmage-link-combo-dropdown {
+    max-height: 110px;
+}
+
+.modal.duckmage-submap-picker-modal {
+    min-height: 0;
+}
+
+.duckmage-submap-current-row {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    margin-bottom: 0.5em;
+}
+
+.duckmage-submap-current-value {
+    color: var(--text-normal);
+    font-weight: 500;
+}
+
+.duckmage-submap-create-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-bottom: 0.4em;
+}
+
+.duckmage-submap-create-label {
+    min-width: 56px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+
+.duckmage-submap-create-name {
+    flex: 1;
+}
+
+.duckmage-submap-create-sep {
+    color: var(--text-muted);
+}
+
+.duckmage-submap-create-palette {
+    flex: 1;
+}
+
+.duckmage-submap-terrain-heading {
+    margin: 0.6em 0 0.3em;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+.duckmage-submap-create-btn {
+    width: 100%;
+    margin-top: 0.5em;
+}
+
+.duckmage-table-picker-new-heading {
+    margin: 16px 0 8px;
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-weight: 600;
+}
+
+.duckmage-goto-modal .duckmage-goto-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.duckmage-goto-input {
+    width: 70px;
+    padding: 4px 6px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: var(--font-ui-small);
+    text-align: center;
+}
+
+.duckmage-goto-btn-confirm {
+    width: 100%;
+}
+
+/* ── Random table view ──────────────────────────────────────────────────── */
+
+.duckmage-rt-container {
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+}
+
+.duckmage-rt-left {
+    width: 220px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid var(--background-modifier-border);
+    overflow: hidden;
+}
+
+.duckmage-rt-list-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px 10px 4px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.duckmage-rt-list-title {
+    font-weight: 600;
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.duckmage-rt-icon-btn {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-size: 1em;
+}
+.duckmage-rt-icon-btn:hover {
+    color: var(--text-normal);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-rt-search {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px 8px;
+    font-size: var(--font-ui-small);
+    border: none;
+    border-bottom: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    outline: none;
+    flex-shrink: 0;
+}
+.duckmage-rt-search:focus {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-rt-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 4px 0;
+}
+.duckmage-rt-list.duckmage-picker-list {
+    flex: unset;
+    max-height: 180px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+.duckmage-picker-list-empty {
+    padding: 8px 12px;
+    color: var(--text-muted);
+    font-size: var(--font-ui-small);
+}
+
+.duckmage-rt-list-item {
+    padding: 5px 12px;
+    cursor: pointer;
+    font-size: var(--font-ui-small);
+    border-radius: 4px;
+    margin: 1px 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.duckmage-rt-list-item:hover {
+    background: var(--background-modifier-hover);
+}
+.duckmage-rt-list-item.is-active {
+    background: var(--background-modifier-active-hover);
+    color: var(--text-accent);
+    font-weight: 600;
+}
+
+.duckmage-rt-folder {
+    margin: 1px 0;
+}
+.duckmage-rt-folder-header {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 4px;
+    font-size: var(--font-ui-small);
+    font-weight: 600;
+    color: var(--text-muted);
+    user-select: none;
+}
+.duckmage-rt-folder-header:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+.duckmage-rt-folder-arrow {
+    font-size: 0.65em;
+    flex-shrink: 0;
+}
+.duckmage-rt-folder-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.duckmage-rt-folder-children {
+    padding-left: 12px;
+}
+.duckmage-rt-list-item.is-dragging {
+    opacity: 0.4;
+    cursor: grabbing;
+}
+.duckmage-rt-folder-header.is-drag-over {
+    background: var(--background-modifier-hover);
+    outline: 2px dashed var(--color-accent);
+    color: var(--text-normal);
+}
+.duckmage-rt-list.is-drag-over-root {
+    outline: 1px dashed var(--background-modifier-border-hover);
+}
+
+.duckmage-rt-list-footer {
+    padding: 6px 8px;
+    border-top: 1px solid var(--background-modifier-border);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.duckmage-rt-new-row {
+    display: flex;
+    gap: 4px;
+}
+
+.duckmage-rt-new-input {
+    flex: 1;
+    min-width: 0;
+    padding: 3px 6px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: var(--font-ui-small);
+}
+
+.duckmage-rt-new-btn {
+    padding: 3px 8px;
+    font-size: var(--font-ui-small);
+    white-space: nowrap;
+}
+
+.duckmage-rt-detail {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px 16px;
+}
+
+.duckmage-rt-placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.duckmage-rt-detail-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+}
+
+.duckmage-rt-detail-title {
+    margin: 0;
+    flex: 1;
+    min-width: 0;
+}
+
+.duckmage-rt-edit-link {
+    font-size: var(--font-ui-small);
+    color: var(--text-accent);
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.duckmage-rt-die-select {
+    font-size: var(--font-ui-small);
+    padding: 2px 4px;
+    border-radius: 4px;
+    border: 1px solid var(--background-modifier-border);
+    background: var(--background-secondary);
+    color: var(--text-normal);
+}
+
+/* ── Random table description ───────────────────────────────────────────── */
+
+.duckmage-rt-desc-section {
+    margin-bottom: 12px;
+}
+.duckmage-rt-desc-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+.duckmage-rt-section-label {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    user-select: none;
+}
+.duckmage-rt-desc-body {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    padding: 6px 8px;
+    border-left: 2px solid var(--background-modifier-border);
+}
+.duckmage-rt-desc-body p:first-child {
+    margin-top: 0;
+}
+.duckmage-rt-desc-body p:last-child {
+    margin-bottom: 0;
+}
+
+/* ── Random table (odds table) ─────────────────────────────────────────── */
+
+.duckmage-rt-table-section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4px;
+}
+.duckmage-rt-collapse-btn {
+    background: none;
+    border: none;
+    padding: 0 4px;
+    font-size: 0.75em;
+    color: var(--text-muted);
+    cursor: pointer;
+    line-height: 1;
+}
+.duckmage-rt-collapse-btn:hover {
+    color: var(--text-normal);
+}
+
+.duckmage-random-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 12px;
+    font-size: var(--font-ui-small);
+}
+
+.duckmage-random-table th {
+    position: sticky;
+    top: 0;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    padding: 4px 8px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 2;
+    font-weight: 600;
+}
+
+.duckmage-random-table td {
+    border: 1px solid var(--background-modifier-border);
+    padding: 4px 8px;
+    vertical-align: top;
+}
+
+.duckmage-random-table tr.is-rolled td {
+    background: var(--background-modifier-hover);
+    font-weight: 600;
+}
+
+.duckmage-rt-range-cell {
+    color: var(--text-faint);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+.duckmage-rt-odds-cell {
+    color: var(--text-faint);
+    white-space: nowrap;
+    text-align: right;
+}
+
+/* ── Roll area ─────────────────────────────────────────────────────────── */
+
+.duckmage-rt-roll-area {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.duckmage-rt-copy-link-btn {
+    justify-self: start;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    background: none;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 2px 8px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.duckmage-rt-copy-link-btn:hover {
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+.duckmage-rt-roll-btn {
+    justify-self: center;
+    min-width: 80px;
+}
+
+.duckmage-roll-result {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    margin-bottom: 10px;
+    background: var(--background-secondary);
+}
+
+.duckmage-roll-result-textarea {
+    width: 100%;
+    min-height: 50px;
+    resize: vertical;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-primary);
+    color: var(--text-normal);
+    padding: 6px 8px;
+    font-size: var(--font-ui-small);
+    box-sizing: border-box;
+    margin-bottom: 6px;
+}
+
+.duckmage-roll-result-btns {
+    display: flex;
+    gap: 6px;
+}
+
+.duckmage-roll-copy-btn {
+    font-size: var(--font-ui-small);
+}
+
+/* ── Roll history ──────────────────────────────────────────────────────── */
+
+.duckmage-rt-history {
+    margin-top: 8px;
+}
+
+.duckmage-rt-history-label {
+    font-size: var(--font-ui-small);
+    color: var(--text-faint);
+    margin: 0 0 4px;
+}
+
+.duckmage-rt-history-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.duckmage-rt-history-item {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+    padding: 1px 0;
+}
+
+.duckmage-rt-history-copy {
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    padding: 0 2px;
+    font-size: 0.9em;
+    opacity: 0.6;
+}
+.duckmage-rt-history-copy:hover {
+    opacity: 1;
+}
+
+/* ── Embedded roller code block widget ─────────────────────────────────── */
+
+.duckmage-roller-block {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-width: 420px;
+    background: var(--background-secondary);
+}
+
+.duckmage-roller-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.duckmage-roller-title {
+    font-weight: 600;
+    font-size: 0.9em;
+    color: var(--text-normal);
+}
+
+.duckmage-roller-die {
+    font-size: 0.8em;
+}
+
+.duckmage-roller-btn {
+    align-self: flex-start;
+}
+
+.duckmage-roller-history {
+    max-height: 130px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.duckmage-roller-history-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    padding: 1px 2px;
+}
+
+.duckmage-roller-history-text {
+    flex: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.duckmage-roller-history-copy {
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    font-size: 0.9em;
+    padding: 0 2px;
+    flex-shrink: 0;
+}
+.duckmage-roller-history-copy:hover {
+    color: var(--text-normal);
+}
+
+/* Per-entry copy button in the table odds grid */
+.duckmage-random-table .duckmage-rt-copy-col-header {
+    width: 24px;
+    padding: 0;
+}
+
+.duckmage-random-table .duckmage-rt-entry-copy-cell {
+    width: 24px;
+    padding: 0 2px;
+    text-align: center;
+}
+
+.duckmage-rt-entry-copy-btn {
+    background: none;
+    border: none;
+    color: var(--text-faint);
+    cursor: pointer;
+    padding: 0 2px;
+    font-size: 0.9em;
+    opacity: 0;
+    transition: opacity 0.1s;
+}
+
+tr:hover .duckmage-rt-entry-copy-btn {
+    opacity: 0.6;
+}
+
+tr:hover .duckmage-rt-entry-copy-btn:hover {
+    opacity: 1;
+    color: var(--text-normal);
+}
+
+/* ── Random table modal ────────────────────────────────────────────────── */
+
+.duckmage-roll-modal {
+    min-width: 380px;
+}
+
+.duckmage-roll-modal-select {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 4px 6px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    background: var(--background-secondary);
+    color: var(--text-normal);
+    font-size: var(--font-ui-small);
+}
+
+.duckmage-roll-modal-table-wrap {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+.duckmage-wf-description {
+    color: var(--text-muted);
+    font-size: 0.9em;
+    margin-bottom: 12px;
+    white-space: pre-wrap;
+}
+
+.duckmage-rt-empty {
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: var(--font-ui-small);
+}
+
+/* ── Section roll button (hex editor text sections) ────────────────────── */
+
+.duckmage-text-section-label-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.duckmage-text-section-btn-group {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    flex-shrink: 0;
+}
+
+.duckmage-section-desc-table-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.85em;
+    padding: 0 2px;
+    color: var(--text-muted);
+    opacity: 0.7;
+    line-height: 1;
+}
+.duckmage-section-desc-table-btn:hover {
+    opacity: 1;
+}
+
+.duckmage-roll-modal-header-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+.duckmage-roll-modal-edit-link,
+.duckmage-roll-modal-open-link {
+    font-size: 0.8em;
+    color: var(--text-accent);
+    cursor: pointer;
+}
+.duckmage-roll-modal-edit-link:hover,
+.duckmage-roll-modal-open-link:hover {
+    text-decoration: underline;
+}
+.duckmage-roll-modal-open-link {
+    margin-left: auto;
+}
+
+/* ── Random table editor modal ───────────────────────────────────────────── */
+.duckmage-table-editor {
+    min-width: 420px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+}
+
+.duckmage-table-editor-entries-section {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+}
+
+.duckmage-table-editor-entries-section .duckmage-table-editor-rows {
+    flex: 1;
+    overflow-y: auto;
+    min-height: 60px;
+}
+.duckmage-table-editor-entries-heading-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.duckmage-table-editor-entries-heading-row .duckmage-table-editor-heading {
+    flex: 1;
+    margin: 12px 0 4px;
+}
+.duckmage-table-editor-add-one-btn {
+    font-size: 0.78em;
+    padding: 2px 7px;
+    color: var(--text-muted);
+    background: transparent;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+    white-space: nowrap;
+    margin-top: 2px;
+    margin-bottom: 0.5em;
+}
+.duckmage-table-editor-add-one-btn:hover {
+    color: var(--text-normal);
+    background: var(--background-modifier-hover);
+}
+.duckmage-table-editor-heading {
+    font-weight: 600;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin: 12px 0 4px;
+}
+.duckmage-table-editor-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    max-height: 320px;
+    overflow-y: auto;
+    margin-bottom: 4px;
+}
+.duckmage-table-editor-row,
+.duckmage-table-editor-add-row {
+    display: flex;
+    gap: 6px;
+    align-items: flex-start;
+}
+.duckmage-table-editor-drag-handle {
+    cursor: grab;
+    color: var(--text-faint);
+    padding: 4px 2px;
+    flex-shrink: 0;
+    font-size: 1.1em;
+    line-height: 1;
+    user-select: none;
+}
+.duckmage-table-editor-drag-handle:hover {
+    color: var(--text-muted);
+}
+.duckmage-table-editor-dragging {
+    opacity: 0.4;
+}
+.duckmage-table-editor-drop-target {
+    outline: 2px solid var(--interactive-accent);
+    outline-offset: -2px;
+    border-radius: 4px;
+}
+.duckmage-table-editor-result {
+    flex: 1;
+    resize: vertical;
+    min-height: 28px;
+    overflow-y: hidden;
+    font-family: inherit;
+    font-size: inherit;
+}
+.duckmage-table-editor-weight {
+    width: 64px;
+}
+.duckmage-table-editor-del {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 1.1em;
+    padding: 0 4px;
+    line-height: 1;
+}
+.duckmage-table-editor-del:hover {
+    color: var(--text-error);
+}
+.duckmage-table-editor-add-btn {
+    white-space: nowrap;
+}
+.duckmage-table-editor-add-error {
+    color: var(--text-error);
+    font-size: 0.85em;
+    margin-top: 4px;
+}
+.duckmage-table-editor-footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 14px;
+    padding-top: 10px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+/* ── Random table editor — name row ────────────────────────────────────────── */
+
+.duckmage-table-editor-name-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.duckmage-table-editor-name-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.duckmage-table-editor-name-input {
+    flex: 1;
+    font-size: 1em;
+}
+
+/* ── Random table editor — filter section ──────────────────────────────────── */
+
+.duckmage-table-editor-filter-section {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
+.duckmage-table-editor-filter-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9em;
+    color: var(--text-muted);
+}
+
+.duckmage-table-editor-filter-row input[type="checkbox"] {
+    cursor: pointer;
+}
+
+/* ── Random table view — folder exclusion badges ───────────────────────────── */
+
+.duckmage-rt-folder-filter-badges {
+    margin-left: auto;
+    display: flex;
+    gap: 4px;
+}
+
+.duckmage-rt-folder-badge {
+    font-size: 0.7em;
+    opacity: 0.6;
+    user-select: none;
+}
+
+/* ── Random table editor — linked folder row ───────────────────────────────── */
+
+.duckmage-table-editor-folder-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.duckmage-table-editor-folder-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.duckmage-table-editor-folder-input {
+    flex: 1;
+}
+
+/* Description row in editor modal */
+.duckmage-table-editor-desc-row {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 12px;
+}
+.duckmage-table-editor-desc-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+}
+.duckmage-table-editor-desc-input {
+    width: 100%;
+    resize: vertical;
+    font-size: 0.9em;
+}
+
+/* ── Random table view — clickable entry links ─────────────────────────────── */
+
+.duckmage-rt-entry-link {
+    cursor: pointer;
+    text-decoration: underline;
+    color: var(--link-color);
+}
+
+.duckmage-rt-entry-link:hover {
+    color: var(--link-color-hover);
+}
+.duckmage-wf-step-formula {
+    font-family: var(--font-monospace);
+    font-size: 0.9em;
+}
+.duckmage-wf-step-alias {
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+.duckmage-wf-template-section {
+    margin-top: 20px;
+}
+.duckmage-wf-template-preview {
+    margin-top: 8px;
+    padding: 8px 10px;
+    border-radius: 6px;
+    background: var(--background-secondary);
+    font-size: var(--font-ui-small);
+    max-height: 240px;
+    overflow-y: auto;
+}
+.duckmage-wf-template-preview > *:first-child {
+    margin-top: 0;
+}
+.duckmage-wf-template-preview > *:last-child {
+    margin-bottom: 0;
+}
+
+/* ── Random table view — from-folder input ─────────────────────────────────── */
+
+.duckmage-rt-from-folder-input {
+    width: 100%;
+    font-size: 0.85em;
+    margin-top: 6px;
+}
+
+/* Confirm delete modal */
+.duckmage-confirm-btn-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+/* ── Region button & modal ────────────────────────────────────────────────── */
+
+/* Region selector button — always-visible top-left area, after ⊞ and 🎲 */
+.duckmage-map-nav-group {
+    position: absolute;
+    top: 8px;
+    left: 92px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    pointer-events: none;
+}
+.duckmage-map-nav-group > * {
+    pointer-events: auto;
+}
+.duckmage-region-btn {
+    height: 26px;
+    padding: 0 8px;
+    max-width: 140px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-radius: 4px;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    color: var(--text-muted);
+    font-size: 0.85em;
+    cursor: pointer;
+    opacity: 0.8;
+    transition:
+        opacity 0.15s ease,
+        color 0.15s ease;
+    user-select: none;
+}
+
+.duckmage-region-btn:hover {
+    opacity: 1;
+    color: var(--text-normal);
+}
+.duckmage-map-back-btn {
+    height: 26px;
+    font-size: 0.78em;
+    padding: 0 8px;
+    opacity: 0.75;
+    background: transparent;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+.duckmage-map-back-btn:hover {
+    opacity: 1;
+    color: var(--text-normal);
+    border-color: var(--interactive-accent);
+}
+
+/* Faction hover tooltip */
+.duckmage-faction-tooltip {
+    position: absolute;
+    z-index: 50;
+    pointer-events: none;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 0.82em;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    min-width: 80px;
+}
+
+.duckmage-faction-tooltip-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    white-space: nowrap;
+}
+
+.duckmage-faction-tooltip-swatch {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background: var(--background-modifier-border);
+    border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+}
+
+.duckmage-faction-tooltip-name {
+    color: var(--text-normal);
+}
+
+/* Region / Map modal */
+.duckmage-map-modal-tabs {
+    margin-bottom: 2px;
+    padding: 6px 8px 0;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.duckmage-map-modal-tab-content {
+    padding: 4px 0;
+}
+
+.duckmage-region-modal h4 {
+    margin: 1em 0 0.4em;
+    font-size: 0.9em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.duckmage-map-field-label {
+    display: block;
+    font-size: 0.8em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0.9em 0 0.25em;
+}
+
+.duckmage-map-origin-desc {
+    font-size: 0.8em;
+    color: var(--text-faint);
+    margin: 0 0 0.4em;
+}
+
+.duckmage-map-origin-label {
+    font-size: 0.82em;
+    color: var(--text-muted);
+    font-weight: 600;
+    min-width: 12px;
+}
+
+.duckmage-map-size-sep {
+    font-size: 0.85em;
+    color: var(--text-muted);
+}
+
+.duckmage-map-presets-row {
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+.duckmage-map-presets-row button {
+    font-size: 0.82em;
+    padding: 2px 8px;
+}
+
+.duckmage-map-new-name-input {
+    flex: 1;
+}
+
+.duckmage-map-new-palette-select {
+    flex: 1;
+}
+
+.duckmage-map-create-row {
+    margin-top: 1.2em;
+    justify-content: flex-end;
+}
+
+.duckmage-region-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.duckmage-region-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--text-normal);
+}
+
+.duckmage-region-palette-badge {
+    font-size: 0.75em;
+    color: var(--text-muted);
+    background: var(--background-modifier-hover);
+    border-radius: 3px;
+    padding: 1px 5px;
+    margin-left: auto;
+}
+
+.duckmage-palette-mgmt-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 12px;
+}
+
+.duckmage-palette-mgmt-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.duckmage-palette-mgmt-name {
+    flex: 1;
+}
+
+.duckmage-region-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-region-item.is-active {
+    background: var(--background-modifier-active-hover);
+    font-weight: 600;
+}
+
+/* Map list delete button */
+.duckmage-map-list-item {
+    cursor: default;
+}
+/* Flex row used in the submap picker list */
+.duckmage-map-list-item-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.duckmage-map-list-name {
+    cursor: pointer;
+    flex: 1;
+}
+
+.duckmage-map-terrain-swatch {
+    position: relative;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    background: var(--background-modifier-border);
+    border: 1px solid var(--background-modifier-border-hover);
+    overflow: hidden;
+}
+.duckmage-map-terrain-swatch-icon {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.duckmage-map-terrain-swatch--set {
+    border-color: transparent;
+}
+
+.duckmage-map-delete-btn {
+    margin-left: auto;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75em;
+    line-height: 1;
+    flex-shrink: 0;
+    color: var(--text-muted);
+}
+
+/* Inline delete confirmation row */
+.duckmage-map-item-confirming {
+    cursor: default;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 7px 10px;
+}
+
+.duckmage-map-delete-warning {
+    flex: 1 1 100%;
+    font-size: 0.85em;
+    color: var(--text-muted);
+}
+
+.duckmage-map-confirm-btn {
+    padding: 3px 10px;
+    font-size: 0.82em;
+}
+
+.duckmage-map-cancel-btn {
+    padding: 3px 10px;
+    font-size: 0.82em;
+}
+
+.duckmage-region-row {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0.5em;
+}
+
+.duckmage-region-row input[type="text"] {
+    flex: 1;
+    min-width: 0;
+}
+
+.duckmage-region-row input[type="number"] {
+    width: 55px;
+}
+
+/* Saving / background-write indicator */
+.duckmage-saving-indicator {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    z-index: 10;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 3px 8px;
+    font-size: 0.78em;
+    color: var(--text-muted);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+    user-select: none;
+}
+.duckmage-saving-indicator.is-active {
+    opacity: 1;
+}
+
+/* ── Workflow styles ──────────────────────────────────────────────────────── */
+
+/* View-mode toggle */
+.duckmage-rt-mode-tabs {
+    display: flex;
+    gap: 4px;
+    padding: 4px 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+}
+.duckmage-rt-mode-tab {
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 2px 10px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    cursor: pointer;
+    box-shadow: none;
+}
+.duckmage-rt-mode-tab.is-active {
+    border-color: var(--background-modifier-border);
+    color: var(--text-normal);
+    background: var(--background-secondary);
+}
+
+/* Workflow list item */
+.duckmage-rt-workflow-item {
+    padding: 4px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.duckmage-rt-workflow-item:hover {
+    background: var(--background-modifier-hover);
+}
+.duckmage-rt-workflow-item.is-active {
+    background: var(--background-modifier-active-hover);
+    font-weight: 600;
+}
+
+/* Workflow wizard step rows */
+.duckmage-wf-wizard-header {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 12px;
+}
+.duckmage-wf-sum-toggle {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    flex: 0 0 auto;
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+    cursor: pointer;
+    user-select: none;
+}
+.duckmage-wf-sum-all {
+    margin-left: auto;
+}
+.duckmage-wf-wizard-step {
+    margin-bottom: 12px;
+    padding: 8px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+}
+.duckmage-wf-wizard-step-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 6px;
+}
+.duckmage-wf-roll-badge {
+    font-size: 0.75em;
+    background: var(--background-modifier-border);
+    border-radius: 3px;
+    padding: 1px 5px;
+    color: var(--text-muted);
+}
+.duckmage-wf-dice-badge {
+    background: var(--color-purple);
+    color: var(--text-on-accent);
+    font-family: var(--font-monospace);
+}
+.duckmage-wf-step-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.duckmage-wf-roll-input {
+    flex: 1 1 0;
+    min-width: 0;
+    font-style: italic;
+    color: var(--text-muted);
+}
+.duckmage-wf-pick-select {
+    flex: 0 0 90px;
+    width: 90px;
+    min-width: 0;
+}
+.duckmage-wf-roll-input.is-rolled {
+    font-style: normal;
+    color: var(--text-normal);
+}
+.duckmage-wf-roll-btn {
+    flex: 0 0 auto;
+    width: 60px;
+    text-align: center;
+}
+
+/* Workflow editor content — flex column so template section can grow */
+.duckmage-wf-editor {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 0;
+}
+
+/* Template section */
+.duckmage-wf-template-section-wrap {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Workflow template area */
+.duckmage-wf-template-area {
+    width: 100%;
+    height: 220px;
+    font-family: var(--font-monospace);
+    font-size: 0.85em;
+    resize: vertical;
+    box-sizing: border-box;
+}
+
+/* Validation */
+.duckmage-wf-validation-ok {
+    color: var(--color-green);
+    font-size: 0.85em;
+    margin-top: 4px;
+}
+.duckmage-wf-validation-err {
+    color: var(--color-red);
+    font-size: 0.85em;
+    margin-top: 4px;
+}
+
+/* Workflow editor step rows */
+.duckmage-wf-editor-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 8px;
+}
+.duckmage-wf-editor-step-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-bottom: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.duckmage-wf-editor-step-row select {
+    flex: 2 1 0;
+    width: 0;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.duckmage-wf-kind-badge {
+    font-size: 1em;
+    flex: 0 0 auto;
+    cursor: default;
+}
+.duckmage-wf-formula-input {
+    flex: 2 1 0;
+    min-width: 0;
+    font-family: var(--font-monospace);
+    font-size: 0.9em;
+}
+.duckmage-wf-add-type-select {
+    flex: 0 0 auto;
+    max-width: 5em;
+}
+.duckmage-wf-add-specific {
+    flex: 2 1 0;
+    min-width: 0;
+    display: flex;
+}
+.duckmage-wf-add-specific select,
+.duckmage-wf-add-specific input {
+    flex: 1 1 0;
+    min-width: 0;
+    width: 0;
+}
+.duckmage-wf-editor-step-row input[type="number"] {
+    flex: 0 0 52px;
+    width: 52px;
+    min-width: 0;
+}
+.duckmage-wf-editor-step-row input[type="text"] {
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+/* "Used by workflows" section in table detail */
+.duckmage-rt-used-by {
+    margin-top: 12px;
+    padding-top: 8px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+.duckmage-rt-used-by-label {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+}
+.duckmage-rt-used-by-links {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 4px;
+}
+
+/* Save status */
+.duckmage-wf-save-status {
+    margin-top: 4px;
+    font-size: 0.85em;
+}
+
+.duckmage-wf-editor-add-area {
+    margin-bottom: 8px;
+}
+.duckmage-wf-editor-add-btn-row {
+    margin-top: 6px;
+}
+
+/* ── Terrain template picker (add-from-existing) ─────────────────────────── */
+
+.duckmage-terrain-template-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-top: 8px;
+    max-height: 320px;
+    overflow-y: auto;
+}
+
+.duckmage-terrain-template-group {
+    font-size: 0.75em;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 8px 4px 2px;
+}
+
+.duckmage-terrain-template-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.duckmage-terrain-template-row:hover {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-terrain-template-swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    flex-shrink: 0;
+    border: 1px solid var(--background-modifier-border);
+}
+
+/* ── Faction picker modal ──────────────────────────────────────────────────── */
+
+.duckmage-faction-picker {
+    min-width: 320px;
+}
+
+.duckmage-faction-picker-empty {
+    color: var(--text-muted);
+    font-style: italic;
+    padding: 8px 0;
+}
+
+/* Hidden native color picker — triggered via .click() */
+.duckmage-faction-color-input {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+}
+
+/* Palette grid */
+.duckmage-faction-palette {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+    gap: 6px;
+    padding: 4px 0;
+}
+
+.duckmage-faction-tile {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: 6px 4px 4px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border-color 0.1s, background 0.1s;
+}
+
+.duckmage-faction-tile:hover {
+    background: var(--background-modifier-hover);
+    border-color: var(--color-accent);
+}
+
+.duckmage-faction-tile-preview {
+    width: 56px;
+    height: 56px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.duckmage-faction-tile-preview svg {
+    display: block;
+}
+
+/* Empty / no-color state: diagonal stripe */
+.duckmage-faction-tile-preview-empty {
+    background:
+        linear-gradient(
+            to bottom right,
+            transparent calc(50% - 1px),
+            var(--background-modifier-border) calc(50% - 1px),
+            var(--background-modifier-border) calc(50% + 1px),
+            transparent calc(50% + 1px)
+        ),
+        var(--background-secondary);
+}
+
+.duckmage-faction-tile-name {
+    font-size: 0.75em;
+    text-align: center;
+    word-break: break-word;
+    max-width: 100%;
+    color: var(--text-normal);
+    line-height: 1.2;
+}
+
+/* Edit button — top-right corner, faintly visible at rest */
+.duckmage-faction-tile-edit {
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    width: 18px;
+    height: 18px;
+    padding: 0;
+    font-size: 0.7em;
+    background: var(--background-secondary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 3px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.35;
+    transition: opacity 0.1s;
+    z-index: 1;
+}
+
+.duckmage-faction-tile:hover .duckmage-faction-tile-edit {
+    opacity: 1;
+}
+
+.duckmage-faction-tile-preview-remove {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4em;
+    color: var(--color-red);
+    background: var(--background-secondary);
+}
+
+.duckmage-faction-tile-remove:hover .duckmage-faction-tile-preview-remove {
+    background: var(--background-modifier-error);
+}
+
+/* Faction editor sub-modal */
+.duckmage-faction-editor-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 8px;
+}
+
+.duckmage-faction-editor-open-btn {
+    font-size: 0.85em;
+    padding: 2px 8px;
+    cursor: pointer;
+}
+
+.duckmage-faction-editor-desc {
+    margin-bottom: 12px;
+    padding: 8px 10px;
+    background: var(--background-secondary);
+    border-radius: 4px;
+}
+
+.duckmage-faction-editor-desc-label {
+    display: block;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+.duckmage-faction-editor-desc-text {
+    margin: 0;
+    font-size: 0.88em;
+    line-height: 1.5;
+    color: var(--text-normal);
+    white-space: pre-wrap;
+}
+
+.duckmage-faction-editor-btns {
+    display: flex;
+    gap: 8px;
+    margin-top: 12px;
+    justify-content: flex-end;
+}
+
+.duckmage-pattern-preview-wrap {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 10px 0 6px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    background: var(--background-secondary);
+}
+
+.duckmage-pattern-preview-label {
+    font-size: 0.85em;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+.duckmage-pattern-preview-host {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.duckmage-hex-preview-svg {
+    display: block;
+}
+
+/* Region overlay SVG */
+.duckmage-region-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 3; /* below faction (4) and path (5) SVGs */
+    overflow: visible;
+}
+
+/* Region name labels — rendered as HTML inside gridContainer so the
+   label position tracks the em-based hex layout perfectly across
+   font-size changes (no slip-on-zoom). Same approach as coord labels.
+   The layer fills gridContainer; each label is positioned as a
+   percentage of that container so bake-zoom font-size mutations don't
+   strand the label at a stale pixel offset. PCA rotation is applied
+   AFTER the centering translate so the label spins around its own
+   centre. */
+.duckmage-region-labels-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 4;
+}
+.duckmage-region-label {
+    position: absolute;
+    left: var(--duckmage-region-label-left, 50%);
+    top: var(--duckmage-region-label-top, 50%);
+    transform: translate(-50%, -50%) rotate(var(--duckmage-region-label-angle, 0deg));
+    font-size: var(--duckmage-region-label-font-size, 16px);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--text-normal);
+    text-shadow:
+        -1px -1px 0 var(--background-primary),
+        1px -1px 0 var(--background-primary),
+        -1px 1px 0 var(--background-primary),
+        1px 1px 0 var(--background-primary),
+        0 -1px 0 var(--background-primary),
+        0 1px 0 var(--background-primary),
+        -1px 0 0 var(--background-primary),
+        1px 0 0 var(--background-primary);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+}
+
+/* Faction overlay legend — floats in the void to the right of the hex grid */
+.duckmage-faction-legend {
+    position: absolute;
+    z-index: 6;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    padding: 8px 10px;
+}
+
+.duckmage-faction-legend-row {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 0;
+}
+
+.duckmage-faction-legend-swatch {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.duckmage-faction-legend-swatch svg {
+    display: block;
+}
+
+.duckmage-faction-legend-name {
+    font-size: 0.8em;
+    color: var(--text-normal);
+    white-space: nowrap;
+}
+
+/* New faction add row */
+.duckmage-faction-picker-add {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--background-modifier-border);
+}
+
+.duckmage-faction-picker-add-input {
+    flex: 1;
+    min-width: 0;
+    padding: 4px 8px;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    color: var(--text-normal);
+    font-size: 0.9em;
+}
+
+.duckmage-faction-picker-add-btn {
+    flex-shrink: 0;
+}
+
+/* ─── Setup Wizard ─────────────────────────────────────────────────────────── */
+
+.duckmage-setup-wizard {
+    padding: 40px 48px;
+    max-width: 640px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.duckmage-wizard-header {
+    margin-bottom: 4px;
+}
+
+.duckmage-wizard-title {
+    font-size: 0.7em;
+    font-weight: 700;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 0 0 14px 0;
+}
+
+.duckmage-wizard-dots {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.duckmage-wizard-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--background-modifier-border);
+    transition: background 0.2s;
+}
+
+.duckmage-wizard-dot.is-current {
+    background: var(--interactive-accent);
+}
+
+.duckmage-wizard-dot.is-done {
+    background: var(--text-muted);
+}
+
+.duckmage-wizard-step-label {
+    font-size: 0.75em;
+    color: var(--text-faint);
+    margin: 0;
+}
+
+.duckmage-wizard-step-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 20px 0 24px 0;
+    line-height: 1.2;
+}
+
+.duckmage-wizard-step-content {
+    margin-bottom: 28px;
+}
+
+.duckmage-wizard-text {
+    line-height: 1.65;
+    color: var(--text-normal);
+    margin: 0 0 16px 0;
+}
+
+.duckmage-wizard-tip {
+    color: var(--text-muted);
+    font-size: 0.88em;
+    padding: 10px 14px;
+    border-left: 3px solid var(--interactive-accent);
+    background: var(--background-secondary);
+    border-radius: 0 4px 4px 0;
+    margin-top: 8px;
+}
+
+/* ── Fields ── */
+
+.duckmage-wizard-field {
+    margin-bottom: 22px;
+}
+
+.duckmage-wizard-label {
+    display: block;
+    font-size: 0.78em;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-bottom: 7px;
+}
+
+.duckmage-wizard-input {
+    width: 100%;
+    padding: 9px 11px;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    color: var(--text-normal);
+    font-size: 0.95em;
+    box-sizing: border-box;
+    transition: border-color 0.15s;
+}
+
+.duckmage-wizard-input:focus {
+    border-color: var(--interactive-accent);
+    outline: none;
+}
+
+.duckmage-wizard-input-sm {
+    font-size: 0.85em;
+    padding: 7px 9px;
+}
+
+/* ── Subfolder preview ── */
+
+.duckmage-wizard-preview-wrap {
+    margin-top: -10px;
+    margin-bottom: 22px;
+}
+
+.duckmage-wizard-preview-label {
+    font-size: 0.78em;
+    color: var(--text-muted);
+    margin: 0 0 7px 0;
+}
+
+.duckmage-wizard-preview-list {
+    list-style: none;
+    padding: 10px 14px;
+    margin: 0;
+    background: var(--background-secondary);
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 20px;
+}
+
+.duckmage-wizard-preview-item {
+    font-size: 0.8em;
+    color: var(--text-muted);
+    font-family: var(--font-monospace);
+}
+
+/* ── Advanced section ── */
+
+.duckmage-wizard-advanced-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 14px;
+    cursor: pointer;
+}
+
+.duckmage-wizard-advanced-label {
+    font-size: 0.85em;
+    color: var(--text-normal);
+    cursor: pointer;
+}
+
+.duckmage-wizard-advanced-section {
+    padding: 18px;
+    background: var(--background-secondary);
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+/* ── Grid size ── */
+
+.duckmage-wizard-size-inputs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.duckmage-wizard-input-num {
+    width: 68px;
+    padding: 9px 8px;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    color: var(--text-normal);
+    font-size: 0.95em;
+    text-align: center;
+    transition: border-color 0.15s;
+}
+
+.duckmage-wizard-input-num:focus {
+    border-color: var(--interactive-accent);
+    outline: none;
+}
+
+.duckmage-wizard-size-sep {
+    color: var(--text-muted);
+    font-size: 0.9em;
+}
+
+.duckmage-wizard-note-count {
+    margin: 9px 0 0 0;
+    font-size: 0.83em;
+    color: var(--text-accent);
+    font-weight: 500;
+}
+
+/* ── Hex orientation ── */
+
+.duckmage-wizard-orient-row {
+    display: flex;
+    gap: 12px;
+}
+
+.duckmage-wizard-orient-btn {
+    flex: 1;
+    padding: 14px 16px;
+    background: var(--background-secondary);
+    border: 2px solid var(--background-modifier-border);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: border-color 0.15s, background 0.15s;
+}
+
+.duckmage-wizard-orient-btn:hover {
+    border-color: var(--interactive-accent-hover);
+}
+
+.duckmage-wizard-orient-btn.is-active {
+    border-color: var(--interactive-accent);
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-wizard-orient-label {
+    display: block;
+    font-weight: 600;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.duckmage-wizard-orient-desc {
+    display: block;
+    font-size: 0.78em;
+    color: var(--text-muted);
+    line-height: 1.4;
+}
+
+/* ── Palette select ── */
+
+.duckmage-wizard-select {
+    width: 100%;
+    height: 36px;
+    padding: 0 10px;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    color: var(--text-normal);
+    font-size: 0.95em;
+    box-sizing: border-box;
+}
+
+/* ── Progress message (map generation) ── */
+
+.duckmage-wizard-progress-msg {
+    font-size: 0.83em;
+    color: var(--text-muted);
+    min-height: 18px;
+    margin-top: 6px;
+}
+
+/* ── Nav row ── */
+
+.duckmage-wizard-nav {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding-top: 20px;
+    border-top: 1px solid var(--background-modifier-border);
+    margin-bottom: 16px;
+}
+
+.duckmage-wizard-back-btn {
+    padding: 8px 18px;
+    background: transparent;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 5px;
+    cursor: pointer;
+    color: var(--text-normal);
+    font-size: 0.88em;
+    transition: border-color 0.15s;
+}
+
+.duckmage-wizard-back-btn:hover:not(:disabled) {
+    border-color: var(--text-muted);
+}
+
+.duckmage-wizard-back-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+}
+
+.duckmage-wizard-nav-progress {
+    flex: 1;
+    text-align: center;
+    font-size: 0.82em;
+    color: var(--text-muted);
+}
+
+.duckmage-wizard-next-btn {
+    padding: 8px 22px;
+    margin-left: auto;
+    font-size: 0.9em;
+}
+
+/* ── Footer ── */
+
+.duckmage-wizard-footer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-top: 14px;
+}
+
+.duckmage-wizard-footer-sep {
+    color: var(--text-faint);
+    font-size: 0.8em;
+}
+
+.duckmage-wizard-dismiss-btn {
+    background: none;
+    border: none;
+    padding: 2px 6px;
+    color: var(--text-faint);
+    font-size: 0.78em;
+    cursor: pointer;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+    white-space: nowrap;
+}
+
+.duckmage-wizard-dismiss-btn:hover {
+    color: var(--text-muted);
+}
+
+/* ── Tips list (done step) ── */
+
+.duckmage-wizard-tips {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.duckmage-wizard-tip-item {
+    font-size: 0.9em;
+    color: var(--text-normal);
+    line-height: 1.5;
+    padding-left: 22px;
+    position: relative;
+}
+
+.duckmage-wizard-tip-item::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: var(--interactive-accent);
+    font-weight: 700;
+}
+
+/* ── Done step ── */
+
+.duckmage-wizard-summary {
+    list-style: none;
+    padding: 14px 18px;
+    margin: 0 0 22px 0;
+    background: var(--background-secondary);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.duckmage-wizard-summary li {
+    font-size: 0.9em;
+    color: var(--text-normal);
+    padding-left: 20px;
+    position: relative;
+}
+
+.duckmage-wizard-summary li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: var(--color-green, #4caf50);
+    font-weight: 700;
+}
+
+.duckmage-wizard-cta-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: 8px;
+}
+
+.duckmage-wizard-open-btn {
+    font-size: 0.95em;
+}
+
+.duckmage-wizard-skip-btn {
+    background: none;
+    border: 1px solid var(--background-modifier-border);
+    padding: 8px 18px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 0.85em;
+    transition: border-color 0.15s;
+}
+
+.duckmage-wizard-skip-btn:hover {
+    border-color: var(--text-muted);
+}
+
+/* ── Token layer ─────────────────────────────────────────────────────────── */
+
+.duckmage-token-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.duckmage-token {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: var(--token-size, 2em);
+    height: var(--token-size, 2em);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--token-color, #4a90e2);
+    /* outline renders outside the box, follows border-radius, not clipped by fill */
+    outline: 3px solid var(--token-border, transparent);
+    outline-offset: 2px;
+    cursor: grab;
+    pointer-events: auto;
+    user-select: none;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.45);
+    transition: box-shadow 0.1s;
+}
+
+/* Inline preview inside the token modal title row — overrides .duckmage-token positioning */
+.duckmage-token-modal-title-row .duckmage-token {
+    --token-size: 28px;
+    position: relative;
+    transform: none;
+    left: auto;
+    top: auto;
+    flex-shrink: 0;
+    cursor: default;
+    pointer-events: none;
+}
+
+.duckmage-token:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    z-index: 50;
+}
+
+.duckmage-token-circle {
+    border-radius: 50%;
+}
+
+.duckmage-token-square {
+    border-radius: 3px;
+}
+
+.duckmage-token-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    border-radius: 0;
+    /* outline is clipped by clip-path; stack 8 zero-blur drop-shadows to form a solid ring */
+    outline: none;
+    filter:
+        drop-shadow(0 3px 0 var(--token-border, transparent))
+        drop-shadow(0 -3px 0 var(--token-border, transparent))
+        drop-shadow(3px 0 0 var(--token-border, transparent))
+        drop-shadow(-3px 0 0 var(--token-border, transparent))
+        drop-shadow(2.1px 2.1px 0 var(--token-border, transparent))
+        drop-shadow(-2.1px 2.1px 0 var(--token-border, transparent))
+        drop-shadow(2.1px -2.1px 0 var(--token-border, transparent))
+        drop-shadow(-2.1px -2.1px 0 var(--token-border, transparent));
+}
+
+.duckmage-token-icon {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    pointer-events: none;
+}
+
+.duckmage-token-label {
+    font-size: 1em;
+    font-weight: 700;
+    color: #fff;
+    pointer-events: none;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+
+/* Token size variants */
+.duckmage-token-size-sm { --token-size: 1.35em; }
+.duckmage-token-size-md { --token-size: 2em; }
+.duckmage-token-size-lg { --token-size: 2.85em; }
+
+.duckmage-token-dragging {
+    cursor: grabbing;
+    opacity: 0.85;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.6);
+    z-index: 20;
+}
+
+/* Hex highlighted as a drop target when dragging a token */
+.duckmage-token-drop-target::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255,255,255,0.25);
+    pointer-events: none;
+}
+
+/* Inline note picker results — shown below the Note input on focus */
+.duckmage-note-picker-results {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    margin: 0 0 8px 0;
+    max-height: 180px;
+    overflow-y: auto;
+    background: var(--background-primary);
+}
+
+.duckmage-note-picker-item {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.duckmage-note-picker-item:hover {
+    background: var(--background-modifier-hover);
+}
+
+.duckmage-note-picker-empty {
+    padding: 6px 10px;
+    font-size: 0.85em;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* Token size radio group */
+.duckmage-token-size-group {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.duckmage-token-size-option {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+
+.duckmage-token-desc-textarea {
+    width: 100%;
+}
+
+/* Token modal styles */
+.duckmage-token-modal-buttons {
+    display: flex;
+    gap: 8px;
+    justify-content: flex-end;
+    margin-top: auto;
+    padding-top: 16px;
+}
+
+.duckmage-token-modal-title {
+    font-weight: 600;
+    font-size: 1.05em;
+    margin: 0 0 12px 0;
+    color: var(--text-normal);
+}
+
+.duckmage-token-info-content {
+    display: flex;
+    flex-direction: column;
+    min-height: 200px;
+}
+
+.duckmage-token-info-note-wrap {
+    margin-top: 8px;
+    margin-bottom: 14px;
+}
+
+.duckmage-token-info-note-label {
+    display: block;
+    font-size: 0.78em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+}
+
+.duckmage-token-info-note-rendered {
+    min-height: 140px;
+    max-height: 320px;
+    overflow-y: auto;
+    font-size: 0.88em;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 4px;
+    padding: 6px 10px;
+    box-sizing: border-box;
+}
+
+.duckmage-token-info-note-rendered img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 2px;
+}
+
+.duckmage-token-info-empty {
+    color: var(--text-muted);
+    font-style: italic;
+    margin: 0;
+}
+
+.duckmage-token-info-loc {
+    color: var(--text-muted);
+    font-size: 0.85em;
+    margin: 2px 0 6px;
+}
+
+.duckmage-token-info-desc {
+    font-size: 0.95em;
+    color: var(--text-normal);
+    margin-bottom: 12px;
+    white-space: pre-wrap;
+}
+
+.duckmage-token-info-edit-btn {
+    font-size: 0.8em;
+    padding: 2px 8px;
+    flex-shrink: 0;
+    align-self: center;
+}
+
+.duckmage-token-info-remove-btn {
+    margin-top: auto;
+    align-self: flex-start;
+    font-size: 0.8em;
+    padding: 2px 8px;
+    color: var(--text-error);
+    background: transparent;
+    border: 1px solid var(--text-error);
+    border-radius: 4px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.duckmage-token-info-remove-btn:hover {
+    opacity: 1;
+    background: color-mix(in srgb, var(--text-error) 10%, transparent);
+}
+
+.duckmage-token-info-remove-btn--confirming {
+    opacity: 1;
+    background: color-mix(in srgb, var(--text-error) 18%, transparent);
+    border-color: var(--text-error);
+}
+
+/* ── Painter tool context menu ───────────────────────────────────────────── */
+
+.duckmage-painter-ctx-menu {
+    position: fixed;
+    z-index: 1000;
+    background: var(--background-primary);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 6px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+    padding: 4px 0;
+    min-width: 130px;
+    font-size: var(--font-ui-small);
+    user-select: none;
+}
+
+.duckmage-painter-ctx-item {
+    padding: 6px 14px;
+    cursor: pointer;
+    color: var(--text-normal);
+    white-space: nowrap;
+}
+
+.duckmage-painter-ctx-item:hover {
+    background: var(--background-modifier-hover);
+    color: var(--text-accent);
+}
+
+/* ── Stagger offset toggle button ────────────────────────────────────────── */
+
+.duckmage-stagger-toggle {
+    font-size: 0.8em;
+    padding: 2px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--background-modifier-border);
+    background: transparent;
+    color: var(--text-muted);
+    cursor: pointer;
+    min-width: 54px;
+    transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+
+.duckmage-stagger-toggle:hover {
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+}
+
+.duckmage-stagger-toggle.is-even {
+    background: var(--interactive-accent);
+    color: var(--text-on-accent);
+    border-color: var(--interactive-accent);
+}
+
+/* Export — hidden render host for printToPDF */
+.duckmage-export-webview {
+    position: fixed;
+    left: -10000px;
+    top: -10000px;
+    width: 850px;
+    height: 1100px;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+/* Export — off-screen render host for MarkdownRenderer */
+.duckmage-export-render-host {
+    position: fixed;
+    left: -10000px;
+    top: -10000px;
+    width: 850px;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+/* ── JS-driven custom-property consumers ────────────────────────────────────
+   Dynamic colors (terrain swatches, path swatches, etc.) are set as CSS
+   custom properties via setCssProps; these rules consume them. Fallbacks
+   keep the default appearance when the variable is unset.
+   ─────────────────────────────────────────────────────────────────────────── */
+.duckmage-terrain-header-swatch { background-color: var(--duckmage-bg, transparent); }
+.duckmage-terrain-preview { background-color: var(--duckmage-bg, transparent); }
+.duckmage-terrain-btn-preview { background-color: var(--duckmage-bg, transparent); }
+.duckmage-path-btn-swatch { background-color: var(--duckmage-bg, transparent); }
+.duckmage-draw-btn-terrain.is-terrain-preview {
+    border-color: var(--duckmage-border-color, currentcolor);
+}
+.duckmage-draw-btn-terrain.is-eyedropper-active {
+    border-color: var(--interactive-accent);
+    color: var(--interactive-accent);
+}
+
+/* Tinted icon helper — utils.ts createIconEl applies this class and sets
+   --duckmage-mask-url + --duckmage-bg. */
+.duckmage-masked-icon {
+    -webkit-mask-image: var(--duckmage-mask-url);
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    mask-image: var(--duckmage-mask-url);
+    mask-size: contain;
+    mask-repeat: no-repeat;
+    mask-position: center;
+    background-color: var(--duckmage-bg);
+}
+
+/* Static-layout helpers replacing inline setCssProps calls in workflows view */
+.duckmage-rt-roll-btn-spaced { margin-right: 8px; }
+.duckmage-rt-copy-link-btn-spaced { margin-bottom: 12px; }
+.duckmage-wf-steps-list { margin: 0; padding-left: 18px; }
+.duckmage-rt-new-wf-link { font-style: italic; }
+.duckmage-wf-template-validation { margin-top: 4px; font-size: 0.85em; }
+.duckmage-wf-editor-results-row { margin-top: 8px; }
+
+/* Inline numeric readout shown beside a settings slider. */
+.duckmage-slider-value {
+    display: inline-block;
+    min-width: 2.5em;
+    margin-right: 8px;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    color: var(--text-muted);
+}

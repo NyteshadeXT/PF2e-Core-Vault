@@ -50,9 +50,9 @@ craft:
 #========================================================#
 range: 
 ammoType:
-damage: 1d8 bludgeoning
-dmg1: 
-dmg1Type:
+damage:  
+dmg1: 1d8
+dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
 weaponType: "Melee"

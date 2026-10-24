@@ -56,7 +56,7 @@ dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
 weaponType: Simple
-weaponCategory: Club
+weaponCategory: Melee
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #

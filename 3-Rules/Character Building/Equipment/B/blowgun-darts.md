@@ -90,15 +90,15 @@ mechanics4: "**Secondary Effect** "
 #                   WEAPON PROPERTIES                    #
 #========================================================#
 range:
-ammoType:
+ammoType: "blowgun dart"
 reload:
 damage: 
 dmg1: 
 dmg1Type: 
 dmg2: 
 dmg2Type: 
-weaponType: Ranged
-weaponCategory: Ammunition
+weaponType: 
+weaponCategory: 
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #

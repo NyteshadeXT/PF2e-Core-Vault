@@ -7,8 +7,8 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 notetype: pf2e-item
-name: "cordelias-greater-construct-key"
-aliases: "Cordelia's Greater Construct Key"
+name: "cordelias-construct-key-greater"
+aliases: "Cordelia's Construct Key (Greater)"
 source: "Pathfinder Lost Omens Pathfinder Society Guide"
 pg: "123"
 rarity: "uncommon"

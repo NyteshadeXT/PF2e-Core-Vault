@@ -88,6 +88,7 @@ speed: "10 feet, climb 10 feet"
 #========================================================#
 weaponBase:
 armorBase:
+shieldBase: 
 
 ---
 

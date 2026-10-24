@@ -4,8 +4,8 @@ cssclasses:
 - h-line 
 - pf2e-item-base
 notetype: pf2e-item
-name: judgment-thurible-major
-aliases: Judgment Thurible (Major)
+name: judgement-thurible-major
+aliases: Judgement Thurible (Major)
 source: Pathfinder Treasure Vault
 pg: "126"
 rarity: ""

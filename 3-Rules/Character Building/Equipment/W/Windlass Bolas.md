@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-title: "Windlass Bola"
+title: "Windlass Bolas"
 cssclasses: pf2e,pf2e-spell
 tags:
   - pf2e/weapon
@@ -14,7 +14,7 @@ tags:
 aliases: "Compendium.pf2e.equipment-srd.Item.hvMIJKY1mKXDmg1V"
 license: OGL
 ---
-# Windlass Bola
+# Windlass Bolas
 ## Item 6
 ### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[magical]][[nonlethal]][[ranged-trip]][[thrown]]
 

@@ -1,0 +1,84 @@
+---
+#========================================================#
+#                     CORE PROPERTIES                    #
+#========================================================#
+cssclasses: 
+- pf2e-items 
+- h-line 
+- pf2e-item-base
+notetype: pf2e-item
+name: "hag-eye-oracular"
+aliases: "Hag Eye (Oracular)"
+source: "Pathfinder #182: Graveclaw"
+pg: "76"
+rarity: "rare"
+trait01: "invested"
+trait02: "occult"
+trait03: "scrying"
+trait04: ""
+trait05: ""
+trait06: ""
+trait07: ""
+trait08: ""
+image: zz-Attachments/assets/imageplaceholder.png
+level: 4
+weight: 
+value: "75"
+subvalue: "gp"
+invest:
+usage: "worn"
+license: "ORC"
+identify:
+description: "This item appears to be an ordinary semiprecious stone and is typically mounted on a brooch or ring, but the stone is, in fact, an eyeball. This illusion can be seen through with true seeing or similar magic, and anyone who interacts with the item feels its wet and sticky surface, allowing them to attempt to disbelieve the illusion (DC 19). Many hags claim a hag eye is more effective if plucked from a living, awake creature, but this is likely just a convenient excuse for sadism.\n\nThe hag eye produces no direct benefit for the wearer, but allows the hag who created it, or any member of her coven, can peer through the eye using the Seek action. This has no range limit, provided the hag is on the same plane.\n\nAny damage dealt to the eye destroys it. If this happens while a hag is looking through it, the hag is [[Blinded]] for 1 hour.\n\nOracular hag eyes are made with the eye of a cyclops. A hag who casts augury with an oracular hag eye in her possession reduces the DC of the secret flat check to 2."
+powerTitle1: 
+actionEconomy1: 
+type1: 
+frequency1: 
+trigger1:
+mechanics1: 
+powerTitle2:
+actionEconomy2:
+type2:
+frequency2:
+trigger2:
+mechanics2: "**Secondary Effect** "
+craft: "You must be a hag, and the raw materials must include the eye of a cyclops."
+
+#========================================================#
+#                   WEAPON PROPERTIES                    #
+#========================================================#
+range: 
+ammoType:
+damage: 
+dmg1:
+dmg1Type:
+dmg2:
+dmg2Type:
+weaponType:
+weaponCategory:
+
+#========================================================#
+#                    ARMOR PROPERTIES                    #
+#========================================================#
+baseAC:
+modAC:
+dexCap:
+strRequirement:
+checkPenalty:
+speedPenalty:
+armorCategory:
+resist:
+immunity:
+conditionImmunity:
+
+#========================================================#
+#                 MAGIC ITEM PROPERTIES                  #
+#========================================================#
+weaponBase:
+armorBase:
+
+---
+
+```meta-bind-embed
+[[Item Card Template]]
+```

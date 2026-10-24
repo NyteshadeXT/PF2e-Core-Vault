@@ -55,7 +55,7 @@ dmg1: 1d4
 dmg1Type: bludgeoning
 dmg2:
 dmg2Type:
-weaponType: Melee
+weaponType:  
 weaponCategory:
 
 #========================================================#

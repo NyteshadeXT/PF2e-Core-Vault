@@ -37,7 +37,7 @@ destruction:
 #========================================================#
 #                  Ability #1 PROPERTIES                 #
 #========================================================#
-powerTitle1: "Critical Specialization - Sword"
+powerTitle1: "Critical Specialization"
 actionEconomy1: 
 type1: 
 frequency1: 
@@ -93,12 +93,12 @@ range:
 ammoType:
 reload:
 damage: 
-dmg1: 
-dmg1Type: 
+dmg1: 1d4
+dmg1Type: slashing 
 dmg2: 
 dmg2Type: 
-weaponType: 
-weaponCategory: 
+weaponType: Melee
+weaponCategory: Martial
 
 #========================================================#
 #                    ARMOR PROPERTIES                    #

@@ -6,8 +6,8 @@ cssclasses:
 - pf2e-items 
 - h-line 
 - pf2e-item-base
-name: "Macuahuitl"
-aliases: "macuahuitl"
+name: "macuahuitl"
+aliases: "Macuahuitl"
 source: "Pathfinder War of Immortals"
 pg: "147"
 rarity: "uncommon"
@@ -20,7 +20,7 @@ trait06:
 trait07:
 trait08:
 image: zz-Attachments/assets/imageplaceholder.png
-level: 
+level: 0
 group: "Club"
 bulk: 1
 value: "3"

@@ -76,7 +76,7 @@ conditionImmunity:
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
 weaponBase:
-armorBase:
+armorBase: "Hide Armor"
 
 ---
 

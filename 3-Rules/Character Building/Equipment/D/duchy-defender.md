@@ -89,7 +89,7 @@ conditionImmunity:
 #========================================================#
 #                 MAGIC ITEM PROPERTIES                  #
 #========================================================#
-weaponBase:
+weaponBase: "Flintlock Musket"
 armorBase:
 
 ---
