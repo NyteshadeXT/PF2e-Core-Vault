@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-Campaign/Age of Worms/A Gathering of Winds.md",
+                "file": "4-Campaign/Age of Worms/The Champions Belt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "A Gathering of Winds"
+              "title": "The Champions Belt"
+            }
+          },
+          {
+            "id": "cb5e3f75369ebc20",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
+          },
+          {
+            "id": "05bd18202e89655d",
+            "type": "leaf",
+            "state": {
+              "type": "duckmage-setup-wizard",
+              "state": {},
+              "icon": "map",
+              "title": "Hexmaker setup"
             }
           },
           {
@@ -79,29 +101,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-GM Toolkit/Idea Book/ToDo List.md",
+                "file": "3-Rules/Bestiaries/Adventure Paths/Kingmaker/C/Catspaw Marauders.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ToDo List"
+              "title": "Catspaw Marauders"
             }
           },
           {
-            "id": "429071b55619c9e2",
+            "id": "798e6dbb40216c32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ilthane the Black"
+              "type": "duckmage-setup-wizard",
+              "state": {},
+              "icon": "map",
+              "title": "Hexmaker setup"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 406.5
   },
   "right": {
     "id": "26b1eddbde47d447",
@@ -308,37 +327,41 @@
       "hexmaker:Hexmaker: open hex map": false
     }
   },
-  "active": "1bfdb293577e8084",
+  "active": "05bd18202e89655d",
   "lastOpenFiles": [
-    "3-Rules/Bestiaries/Uniques/I/Ilthane the Black.md",
-    "1-GM Toolkit/Idea Book/ToDo List.md",
-    "1-GM Toolkit/Chimeracrafting.md",
-    "zz-Templates/Markdown/Insert Item.md",
-    "3-Rules/Character Building/Equipment/K/kilted-breastplate.md",
     "4-Campaign/Age of Worms/A Gathering of Winds.md",
+    "3-Rules/Bestiaries/Adventure Paths/Kingmaker/C/Catspaw Marauders.md",
+    "3-Rules/Character Building/Vehicles",
+    "3-Rules/Character Building/New folder",
+    "3-Rules/New folder",
+    "3-Rules/Armies",
+    "3-Rules/Bestiaries/Adventure Paths/Extinction Curse/R/Raving Spirit.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/W/Wrathful Dinosaur.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/T/The Fight.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/S/Shadow Heart.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/G/Grace _The Rhino_ Owano.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/G/Glyph of Warding (B8).md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/L/Lesser Manifestation Of Dahak.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/C/Crush the Uninvited.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/C/Choking Tethers.md",
+    "3-Rules/Bestiaries/Adventure Paths/Blood Lords/A/Ashes of Despair.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/T/The Winder.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/T/The Laughing Fiend's Greeting.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/S/Summoning Rune (Barbazu Devil).md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/L/Living Paints.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/I/Ink Drowning Vats.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/E/Exploding Statue.md",
+    "3-Rules/Bestiaries/Adventure Paths/Agents of Edgewatch/C/Clockwork Arms.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/T/Tree of Dreadful Dreams.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/L/Lifeleech Crystal Patches.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/G/Gloomglow Mushrooms.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/E/Endless Elven Aging.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/D/Dragonstorm.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/D/Dahak's Skull.md",
+    "3-Rules/Bestiaries/Adventure Paths/Age of Ashes/C/Caustic Vapor.md",
     "zz-Attachments/multicolored-icons/multicolored-icons/anchor.png",
     "zz-Attachments/multicolored-icons/multicolored-icons/badlands.png",
     "zz-Attachments/windrose_objects/dungeon_door.svg",
-    "4-Campaign/Age of Worms/The Champions Belt.md",
-    "3-Rules/Character Building/Equipment/A/aurochs-hide-armor.md",
-    "3-Rules/Character Building/Equipment/D/drake-rifle.md",
-    "3-Rules/Character Building/Equipment/A/Arquebus.md",
-    "3-Rules/Character Building/Equipment/G/grannys-hedge-trimmer.md",
-    "3-Rules/Character Building/Equipment/D/duchy-defender.md",
-    "3-Rules/Character Building/Equipment/C/clockwork-sun.md",
-    "3-Rules/Character Building/Equipment/C/clockwork-shield.md",
-    "3-Rules/Character Building/Equipment/H/handwraps-of-mighty-blows.md",
-    "3-Rules/Character Building/Equipment/B/Bolts.md",
-    "3-Rules/Character Building/Equipment/B/blowgun-darts.md",
-    "3-Rules/Character Building/Equipment/B/backpack-catapult-stone.md",
-    "3-Rules/Character Building/Equipment/B/backpack-ballista-bolt.md",
-    "3-Rules/Character Building/Equipment/G/gladius.md",
-    "3-Rules/Character Building/Equipment/M/macuahuitl.md",
-    "3-Rules/Character Building/Equipment/F/frying-pan.md",
-    "3-Rules/Character Building/Equipment/F/Flingflenser.md",
-    "3-Rules/Character Building/Equipment/B/Buckler.md",
-    "3-Rules/Character Building/Equipment/C/chain-shirt.md",
-    "3-Rules/Character Building/Equipment/A/Adze.md",
     "zz-Attachments/rot-lords-ring.png",
     "zz-Attachments/gravetide.png",
     "zz-Attachments/gravekeeper-bow.png",
@@ -351,10 +374,6 @@
     "zz-Attachments/happy-healper.png",
     "ZoomMap/SecondScreen/map-64-screen.markers.json",
     "ZoomMap/SecondScreen/map-113-screen.markers.json",
-    "ZoomMap/SecondScreen",
-    "ZoomMap",
-    "3-Rules/Character Building/Equipment/Homebrew/R",
-    "3-Rules/Character Building/Equipment/Homebrew/L",
-    "3-Rules/Character Building/Equipment/Homebrew/G"
+    "ZoomMap/SecondScreen"
   ]
 }
